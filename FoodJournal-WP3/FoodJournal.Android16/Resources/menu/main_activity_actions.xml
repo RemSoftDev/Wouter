@@ -1,0 +1,13 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/action_left"
+        android:icon="@drawable/ic_action_left"
+        android:title="action_left"
+              yourapp:showAsAction="always"
+        />
+  <item android:id="@+id/action_right"
+        android:icon="@drawable/ic_action_right"
+        android:title="action_right"
+      yourapp:showAsAction="always"
+        />
+</menu>
+

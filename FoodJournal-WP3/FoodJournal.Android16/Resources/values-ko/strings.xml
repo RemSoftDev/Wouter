@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">음식 일기</string>
+	<string name="CommonItems">일반 품목</string>
+	<string name="Delete">삭제</string>
+	<string name="EmptyEntryList">선택 없음</string>
+	<string name="MyRecentItems_Breakfast">최근 아침 식사 품목</string>
+	<string name="MyRecentItems_Dinner">최근 저녁 식사 품목</string>
+	<string name="MyRecentItems_Exercise">나의 최근 운동</string>
+	<string name="MyRecentItems_Lunch">최근 점심 식사 품목</string>
+	<string name="MyRecentItems_Snack">최근 간식 품목</string>
+	<string name="PageTitle">음식 일기</string>
+	<string name="PageTitleBase">음식 일기- </string>
+	<string name="Period_Breakfast">아침 식사</string>
+	<string name="Period_Dinner">저녁 식사</string>
+	<string name="Period_Exercise">운동</string>
+	<string name="Period_Lunch">점심 식사</string>
+	<string name="Period_Snack">간식</string>
+	<string name="Search">검색</string>
+	<string name="Today">오늘</string>
+	<string name="StandardProperty_Amount">양</string>
+	<string name="StandardProperty_Calcium">칼슘</string>
+	<string name="StandardProperty_Calories">열량</string>
+	<string name="StandardProperty_Carbs">탄수화물</string>
+	<string name="StandardProperty_Cholesterol">콜레스테롤</string>
+	<string name="StandardProperty_Fiber">섬유질</string>
+	<string name="StandardProperty_Iron">철분</string>
+	<string name="StandardProperty_MonoFat">단일 불포화 지방</string>
+	<string name="StandardProperty_PolyFat">다중 불포화 지방</string>
+	<string name="StandardProperty_Potassium">칼륨</string>
+	<string name="StandardProperty_Protein">단백질</string>
+	<string name="StandardProperty_SatFat">포화 지방</string>
+	<string name="StandardProperty_Sodium">나트륨</string>
+	<string name="StandardProperty_Sugar">설탕</string>
+	<string name="StandardProperty_TotalFat">총 지방</string>
+	<string name="StandardProperty_VitaminC">비타민 C</string>
+	<string name="StandardProperty_VitaminD">비타민 D</string>
+	<string name="StandardProperty_Weight">무게</string>
+	<string name="Preferences">환경 설정</string>
+	<string name="EmptySearchList">검색 단어 입력</string>
+	<string name="NewItemSuffix">(새 품목)</string>
+	<string name="NewRecipeSuffix">(새 레시피)</string>
+	<string name="SearchResults">검색 결과</string>
+	<string name="SearchTermNotFound">{0} 없음, 검색어를 변경해서 다시 시도해보세요</string>
+	<string name="AcceptNew">추가</string>
+	<string name="Name">이름</string>
+	<string name="Nutrition">영양</string>
+	<string name="PageTitleItemDetail">음식 정보</string>
+	<string name="EnterWeight">무게를 먼저 입력해주세요</string>
+	<string name="ServingSizes">일 회 제공량</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">얼만큼요\?</string>
+	<string name="MoreOptions">기타 옵션</string>
+	<string name="NoNutritionInfo">영양 정보 없음</string>
+	<string name="AddServingSize">일 회 제공량 추가</string>
+	<string name="Add">추가</string>
+	<string name="SelectDate">달력</string>
+	<string name="Advertisement">광고</string>
+	<string name="Unit_Centiliter">센티미터</string>
+	<string name="Unit_Cup">컵</string>
+	<string name="Unit_Deciliter">데시리터</string>
+	<string name="Unit_FluidOunce">액량 온스</string>
+	<string name="Unit_Gallon">갤런</string>
+	<string name="Unit_Gram">그램</string>
+	<string name="Unit_Kilogram">킬로그램</string>
+	<string name="Unit_Liter">리터</string>
+	<string name="Unit_Milliliter">밀리리터</string>
+	<string name="Unit_Ounce">온스</string>
+	<string name="Unit_Pint">파인트</string>
+	<string name="Unit_Pound">파운드</string>
+	<string name="Unit_Quart">쿼트</string>
+	<string name="Unit_Tablespoon">큰 술</string>
+	<string name="Unit_Teaspoon">작은 술</string>
+	<string name="Units_Centiliter">센티미터</string>
+	<string name="Units_Cup">컵</string>
+	<string name="Units_Deciliter">데시리터</string>
+	<string name="Units_FluidOunce">액량 온스</string>
+	<string name="Units_Gallon">갤런</string>
+	<string name="Units_Gram">그램</string>
+	<string name="Units_Kilogram">킬로그램</string>
+	<string name="Units_Liter">리터</string>
+	<string name="Units_Milliliter">밀리리터</string>
+	<string name="Units_Ounce">온스</string>
+	<string name="Units_Pint">파인트</string>
+	<string name="Units_Pound">파운드</string>
+	<string name="Units_Quart">쿼트</string>
+	<string name="Units_Tablespoon">큰 술</string>
+	<string name="Units_Teaspoon">작은 술</string>
+	<string name="DatabaseCulture">KO</string>
+	<string name="FeedbackSubject">Food Diary에서 이메일</string>
+	<string name="Equivalent">금액</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">로드 중...</string>
+	<string name="ExpiredCaption">지금 업데이트하시겠습니까\?</string>
+	<string name="ExpiredMessage">이 앱을 사용해주셔서 감사합니다! 이 복사는 만료되었습니다. 하지만 걱정 마세요, Ok를 누르면 업데이트 다운로드 페이지로 이동합니다.</string>
+	<string name="AgentDescription">이 작업은 음식 일기에 대한 라이브 타일을 업데이트합니다.</string>
+	<string name="AgentDisabled">휴대전화 설정에서 Live Tile 애플리케이션을 비활성화 하셨습니다.</string>
+	<string name="PageTitleSettings">내 환경 설정</string>
+	<string name="EnableLiveTile">앱 타일에 누락 된 식사 카운트</string>
+	<string name="Reminders">알림</string>
+	<string name="SettingsScreen">설정</string>
+	<string name="PinToStart">타일 설정</string>
+	<string name="OpenReport">리포트</string>
+	<string name="Report">리포트</string>
+	<string name="CommonServingSizes">100 g|1 온스 = 28 g|작은 술 = 4.5 g|스푼 12 g|1 서빙 = = 28 g|조각 14 g| =슬라이스 12 g|1 컵 = = 237 g</string>
+	<string name="TakeAPicture">사진 촬영</string>
+	<string name="ReviewBody">이 앱을 사용해주셔서 감사합니다! 유용하다고 생각하시면 좋은 리뷰를 남겨주세요, 앱에 도움이 됩니다.</string>
+	<string name="ReviewTitle">리뷰를 남기시겠습니까\?</string>
+	<string name="Goals">목표</string>
+	<string name="NoGoalSet">목표 설정 되지 않음</string>
+	<string name="EndOfDay">하루의 끝에</string>
+	<string name="ReminderContent">무엇을 드셨습니까\?</string>
+	<string name="ReminderTitle">알림: 다이어리 업데이트</string>
+	<string name="ReminderDescription">선택 된 시간까지 다이어리가 업데이트 되지 않은 경우 선택 된 알림이 울립니다</string>
+	<string name="ScreenshotTitles">1 컵, 오렌지 주스, 토스트, 1 조각, 달걀, 사과, 커피, 바나나, 1 매체</string>
+	<string name="GoalOver">목표 초과 {0}</string>
+	<string name="GoalUnder">{0} 남음</string>
+	<string name="OpenJournal">저널</string>
+	<string name="RemoveAdsText">앱에서 광고를 제거하시려면 Ok를 선택해주세요.</string>
+	<string name="RemoveAdsTitle">광고를 제거하시겠습니까\?</string>
+	<string name="StoreException">Windows Phone store에 연결하는데 문제가 있었습니다. 나중에 다시 시도해주세요.</string>
+	<string name="Feedback_Email">문제 신고</string>
+	<string name="Feedback_EmailText">또는 기능 제안 또는 질문</string>
+	<string name="Feedback_Rate">이 앱 평가</string>
+	<string name="Feedback_RateText">구체적인 피드백은 앱 향상에 도움이 됩니다</string>
+	<string name="Feedback_Screenshot">번역 향상에 대한 도움</string>
+	<string name="Feedback_ScreenshotText">화면 캡처 포함</string>
+	<string name="Feedback_Share">링크 공유</string>
+	<string name="Feedback_ShareText">이 앱을 다운로드하시려면</string>
+	<string name="ScreenshotSubject">Food Diary 텍스트</string>
+	<string name="ShareMessage">Windows Phone 전용 Food Diary를 확인하세요</string>
+	<string name="ShareTitle">Food Diary</string>
+	<string name="CommonItems_Breakfast">일반 아침 식사 품목</string>
+	<string name="CommonItems_Dinner">일반 저녁 식사 품목</string>
+	<string name="CommonItems_Lunch">일반 점심 식사 품목</string>
+	<string name="CommonItems_Snack">일반 간식 품목</string>
+	<string name="Meals">식사</string>
+	<string name="Period_SnackMorning">아침</string>
+	<string name="Period_SnackEarlyAfternoon">이른 오후</string>
+	<string name="Period_SnackAfternoon">오후</string>
+	<string name="Meals_SnackMorningEnabled">아침 간식 분리</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">이른 오후 간식 분리</string>
+	<string name="Meals_SnackAfternoonEnabled">오후 간식 분리</string>
+	<string name="Period_SnackEvening">저녁</string>
+	<string name="Meals_SnackMidnightEnabled">자정 간식 분리</string>
+	<string name="Period_SnackMidnight">자정</string>
+	<string name="Meals_SnacksCombined">간식 결합</string>
+	<string name="Meals_SnackEveningEnabled">저녁 간식 분리</string>
+	<string name="MyRecentItems_SnackAfternoon">최근 오후 품목</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">최근 이른 오후 품목</string>
+	<string name="MyRecentItems_SnackEvening">최근 저녁 품목</string>
+	<string name="MyRecentItems_SnackMidnight">최근 자정 품목</string>
+	<string name="MyRecentItems_SnackMorning">최근 아침 품목</string>
+	<string name="CommonItems_SnackAfternoon">일반 오후 품목</string>
+	<string name="CommonItems_SnackEarlyAfternoon">일반 이른 오후 품목</string>
+	<string name="CommonItems_SnackEvening">일반 저녁 품목</string>
+	<string name="CommonItems_SnackMidnight">일반 자정 품목</string>
+	<string name="CommonItems_SnackMorning">일반 아침 품목</string>
+	<string name="UnlockFullBody">음식 일기를 이용해 주셔서 감사 합니다. {0} 재판 일 남아 있다 응용 프로그램의 잠금을 해제 하려면 확인을 누릅니다.</string>
+	<string name="UnlockFullTitle">지금의 잠금을 해제\?</string>
+	<string name="TrialExpiredBody">재판은 이제 만료 되었습니다. 아직도 당신의 일기를 볼 수 있지만 새 항목을 추가할 수 없습니다. 가득 차 있는 버전의 잠금을 해제 하려면 확인을 선택 하십시오.</string>
+	<string name="Feedback_RemoveAds">광고 제거</string>
+	<string name="Feedback_RemoveAdsText">영구적으로 모든 광고 제거</string>
+	<string name="StoreText_5">다운로드 지금 당신이 그것을 사용 하 여 사랑 하기 때문에.</string>
+	<string name="AppTitle">Food Diary</string>
+	<string name="StoreText_4">프리미엄 기능:
+1. 아니 더 많은 광고.
+2. 훨씬 더 큰 음식 데이터베이스입니다.
+3. 유제품의 사본을 자신에 전자 메일 기능.
+4. 더 많은 구성 옵션, 하루 최대 8 별도 식사를 입력 하는 기능을 포함 하 여.</string>
+	<string name="StoreText_3">특징:
+1. 간단 하 고 강력한 디자인: 있기 때문에 대부분 사용 합니다 가장 최근의 식사에 입력 화면에서 직접 응용 프로그램 엽니다. 디자인은 간단 하 고 직관적인 가능한 추가 항목.
+2. 하나의 탭 항목 맞춤 제안: 가장 일반적인 음식 품목을 즉시 선택할 수 있습니다. 두 번째 날에 시작, 최근 항목 같은 음식을 자주 먹을 수 있기 때문에 건의 된다.
+3. 로그인은 필요 하지 않습니다: 개인 데이터 나 연락처가 필요 합니다.
+4. 이미 데이터베이스에 있는 항목의 수천: 대부분 식품 일반적인 봉사 크기, 열 량, 탄수화물, 단백질, 지방에 대 한 정확한 정보를가지고. 
+5. 전체 오프 라인 지원: 인터넷에 연결 될 필요가 없습니다. 
+6. 정확한 항목 쉽습니다: 슬라이더를 사용 하 여 정확한 금액을 정확 하 게 입력할 수 있습니다.
+7. 매일 보고: 메뉴를 사용 하 여 열 수 있습니다 직접 일기, 하루에 대 한 요약을 보여 줍니다. 여기에 작은 삼각형을 누르면 칼로리, 단백질 및 탄수화물 사이 전환할 수 있습니다.
+8. 트랙 목표: 당신의 동향 보고 주 보고서를 사용할 수 귀하의 개인 목표를 입력 한 후. 
+9. 개인 알림을 사용 하면 대상에 있어: 그들은 각 식사 후 또는 하루의 끝에 당신의 일기 기입 다는 것을 확인 하는 편리한 방법을.
+
+데이터베이스의 정보는 식품 포장;에 대 한 정보과 같은 확인 하는 것이 좋습니다. 식품 영양에는 브랜드와 시간이 지남에 변화가 심합니다.
+
+당신의 의사 또는 영양 전문가 함께 귀하의 목표를 토론 해야 합니다.</string>
+	<string name="StoreText_2">애플 리 케이 션에 대 한:
+무엇을 먹을 까 무엇을 추적할 유지 방지 하 고 지나치게 먹는 걸 멈출 수 있도록 표시 되었습니다.
+이 애플 리 케이이 션을 사용 하면 귀하의 다이어트를 제어 하 고 쉽게 무엇을 먹을 까 무엇을 추적 하 여 건강, 먹을 수 있습니다. 디자인 1 클릭 항목 가능 하 고 최근 식품 제안으로 빠른 항목을 최적화. 내장된 데이터베이스 이미 음식 품목의 수천 그리고 당신 모르는 경우에 추가 쉽게.
+
+참고:이 애플 리 케이이 션 무료 다운로드, 그리고 광고에 의해 지원 되는. 당신이 원하는만큼 오래 무료로 그것을 사용할 수 있습니다. 그것은 또한 추가 기능 활성화는 유료 광고를 제거할 수 있습니다.</string>
+	<string name="StoreText_1">음식 일기: 당신의 다이어트와 칼로리 추적 애플 리 케이 션.</string>
+	<string name="StoreKeyword_5">영양</string>
+	<string name="StoreKeyword_4">열량</string>
+	<string name="StoreKeyword_3">식단</string>
+	<string name="StoreKeyword_2">음식 저널</string>
+	<string name="StoreKeyword_1">열량 계산기</string>
+	<string name="Screenshot_H3">바나나</string>
+	<string name="Screenshot_H2">커피</string>
+	<string name="Screenshot_H1">사과</string>
+	<string name="Screenshot_3a">계란</string>
+	<string name="Screenshot_2b">1 슬라이스</string>
+	<string name="Screenshot_2a">토스트</string>
+	<string name="Screenshot_1b">1 컵</string>
+	<string name="Screenshot_1a">오렌지 주스</string>
+	<string name="Product_2">귀하의 지원 주셔서 감사 합니다! 음식 일기 앱에서 광고를 영구적으로 제거 하려면이 옵션을 사용 합니다.</string>
+	<string name="Product_1">광고를 제거</string>
+	<string name="CantCalculateNutrition">무게 입력</string>
+	<string name="TrialExpiredTitle">체험 기간이 만료되었습니다, 잠금 해제하시겠습니까\?</string>
+	<string name="Screenshot_3b">1 중간 사이즈</string>
+	<string name="SendFeedback">소개</string>
+	<string name="Feedback_Header">무엇을 먹을 까 무엇을 추적 하는 빠르고 쉬운 방법.
+
+데이터의 정확성에 대 한 정보에 대 한 아래로 스크롤.</string>
+	<string name="Feedback_Unlock">지금 업그레이드</string>
+	<string name="Feedback_UnlockText">프리미엄 버전 구입</string>
+	<string name="EmailReport_SubjectTemplate">{0}에 대한 식품 저널</string>
+	<string name="EmailReport_Exception">예기치 않은 무언가가 잘못 되었습니다. 저널이 전송 되지 않았습니다.</string>
+	<string name="EmailReport_InvalidEmailAddress">유효한 이메일 주소를 입력해주세요.</string>
+	<string name="Total">합계</string>
+	<string name="Price">오직 {0}</string>
+	<string name="Feature6_Text">개발 지원</string>
+	<string name="Feedback_Footer">면책 조항:
+전부는 아니지만 대부분의 경우, 데이터 요소는 데이터베이스에 신뢰할 수 있는 소스에서 온. 최선을 모든 값은 정확 하 게, 하지만 잘못 된 또는 누락 된 데이터에 대 한 책임을 지지 않습니다. 영양 가치 브랜드로 시간이 지남에 따라 다릅니다. 이 애플 리 케이이 션을 사용 하 여 확인 하 고 응용 프로그램에서 데이터를 수정 하 고 완벽 하 게 부상 또는 그것의 사용 때문에 손상에 대 한 책임을 동의 합니다.
+
+아무것도 당신을 도울 수 있다면 내게 알려 주십시오.</string>
+	<string name="Feature6_Desc">추후 이 앱의 업데이트 유지에 대한 도움</string>
+	<string name="GetAllFeatures">모든 기능 얻기</string>
+	<string name="Feature_Header">포함:</string>
+	<string name="Feature_Footer">* 참고: 대부분의 경우 신뢰할 수 있는 소스에서 비롯되었지만, 모든 데이터가 그런 것은 아닙니다. 프리미엄 버전을 구입하는 것은, 사용자가 데이터의 정확성과 완전성에 대해 모든 책임이 있음에 동의하는 것입니다. 더 자세한 내용은 이메일 daily.journal@outlook.com으로 문의 주시기 바랍니다.</string>
+	<string name="Feature5_Text">새로운 기능</string>
+	<string name="Feature5_Desc">추후 업데이트에 대한 모든 프리미엄 기능</string>
+	<string name="Feature4_Text">더 많은 식사</string>
+	<string name="Feature4_Desc">하루 5, 6 회 또는 그 이상의 식사 추적</string>
+	<string name="Feature3_Text">더 많은 음식 *</string>
+	<string name="Feature3_Desc">훨씬 더 많은 음식 품목 (위치에 따라)</string>
+	<string name="Feature2_Text">이메일 리포트</string>
+	<string name="Feature2_Desc">저장, 인쇄 또는 분석을 위해 저널을 이메일로 전송 가능</string>
+	<string name="Feature1_Text">광고 없음</string>
+	<string name="Feature1_Desc">모든 광고가 영구적으로 제거 됨</string>
+	<string name="BuyNow">지금 구입</string>
+	<string name="EmailReport_ShowSettings">이메일로 전송</string>
+	<string name="EmailReport_SendNow">지금 전송</string>
+	<string name="EmailReport_Address">이메일 주소</string>
+	<string name="Product_4">모든 기능에 접근할 수</string>
+	<string name="Product_3">프리미엄 업그레이드</string>
+	<string name="EmailReport_Footer2">참고: 대부분의 경우 신뢰할 수 있는 소스에서 비롯되었지만, 모든 데이터 수치가 그런 것은 아닙니다. 저희는 정확한 값을 제공하기 위해 최선을 다하고 있지만, 부정확하거나 누락 된 데이터에 대해 책임을 지지 않습니다. 이 앱을 사용하는 것은, 사용자가 데이터의 정확성을 확인하는 것에 대해 모든 책임이 있음을 이해하고 이에 동의하는 것입니다. 이 앱에서 발견하신 모든 불일치 사항을 업데이트하실 수 있습니다.</string>
+	<string name="EmailReport_Footer1">AAA 저널
+질문 또는 의견\? BBB에 응답</string>
+	<string name="Localization_Submit">제출</string>
+	<string name="Localization_TranslationsText">더 나은 번역으로이 목록에 있는 텍스트를 업데이트 하십시오. 해당 지역에 적합 하지 않은 항목에 대 한 모든 텍스트를 제거 합니다.</string>
+	<string name="Localization_ThankYou">도와주셔서 감사합니다!</string>
+	<string name="Localization_Translations">번역</string>
+	<string name="Localization_Text">여기에서 이 앱의 향상에 도움을 주실 수 있습니다.</string>
+	<string name="Localization_Original">원본:</string>
+	<string name="Localization_Good">좋음</string>
+	<string name="Localization_Description">설명:</string>
+	<string name="Feedback_LocalizeText">앱 향상에 대한 도움</string>
+	<string name="Localization_CommentText">연락 받길 원하시면 이메일 주소를 입력해주세요.</string>
+	<string name="Localization_Comment">코멘트</string>
+	<string name="Feedback_Localize">번역 개선</string>
+	<string name="AddToLauncher">런처에 추가</string>
+	<string name="Avg">평균</string>
+	<string name="Cancel">취소</string>
+	<string name="CopyFromSimilarItem">유사 품목에서 복사</string>
+	<string name="DeleteEntry">항목 삭제</string>
+	<string name="EnterTheWeightForThisAmount">이 양에 대한 무게 입력</string>
+	<string name="MoreOptions2">더 많은 옵션</string>
+	<string name="None">없음</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 일 세일: {0}% 할인</string>
+	<string name="Total2">합계</string>
+	<string name="EmailReport_Footer1a">AAA의 저널</string>
+	<string name="EmailReport_Footer1b">질문 또는 코멘트\? BBB에게 답변</string>
+	<string name="Add_New">새 항목</string>
+	<string name="Add_Note">메모 추가</string>
+	<string name="add_target">영양 추가</string>
+	<string name="choose_time">설정된 시간</string>
+	<string name="daily_target">영양</string>
+	<string name="daily_target_hint">매일 대상 (선택 사항)</string>
+	<string name="describe_goal">여기에 귀하의 목표를 설명</string>
+	<string name="drawer_close">닫기</string>
+	<string name="drawer_open">오픈</string>
+	<string name="edit_meals">식사를 선택</string>
+	<string name="enter_meal_time">각 식사를 위한 시간을 입력</string>
+	<string name="enter_serving_weight">먼저 중량 (g)를 입력</string>
+	<string name="enter_value">영양 입력</string>
+	<string name="get_started">시작!</string>
+	<string name="get_started_second_text">탭 \'+\' 학술지에 항목을 추가 하.</string>
+	<string name="Input_Notes">여기에 메모를 입력</string>
+	<string name="meal_options">식사 옵션</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">개인 목표</string>
+	<string name="Per_Cup">1 개의 컵 (250 그램) NOTUSED</string>
+	<string name="Per_Grams">100 그램</string>
+	<string name="portion_caption">부분</string>
+	<string name="RadioButton_Alpha">사전순으로 NOTYETUSED</string>
+	<string name="RadioButton_Sort">역사 NOTYETUSED로 정렬</string>
+	<string name="Serving">제공</string>
+	<string name="Show_More_Options">더 많은 옵션</string>
+	<string name="show_total_with_meal">영양 목표 표시</string>
+	<string name="target_date">대상 날짜</string>
+	<string name="target_date_hint">대상 날짜를 선택</string>
+	<string name="transition_name_circle">전환: 원</string>
+	<string name="transition_name_name">전환: 이름</string>
+	<string name="transition_name_phone">전환: 전화</string>
+	<string name="Type_Name">검색</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">미터법 단위</string>
+	<string name="Units_US">미국 단위</string>
+	<string name="Upgrade">업그레이드</string>
+	<string name="weight_gram">중량 (g)</string>
+	<string name="InvalidEmailError">잘못 된 전자 메일 주소</string>
+	<string name="NoGoalsTitle">모든 항목</string>
+	<string name="SendReportTitle">보고서 보내기</string>
+	<string name="DeleteEntryMessage">이 항목을 삭제\?</string>
+	<string name="NewBody">포함 하는 많은 개선: 노트, 더 많은 음식, 더 나은 디자인, 그리고 더 많은.
+다운로드 무료\?</string>
+	<string name="NewTitle">버전 2.0 사용할 수!</string>
+</resources>

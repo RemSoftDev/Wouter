@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mdtp_white">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dialog_edit_height"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/margin_standard"
+            android:text="@string/Nutrition"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/abc_secondary_text_material_light"
+            style="@style/AppTheme" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:weightSum="1">
+        <RadioButton
+            android:id="@+id/opt_percup"
+            android:text="@string/Per_Cup"
+            style="@style/AppTheme"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="5"
+            android:paddingBottom="5dp"
+            android:layout_marginLeft="@dimen/margin_standard"
+            android:layout_marginStart="@dimen/margin_standard"
+            android:textColor="@color/ButtonForecolor" />
+        <RadioButton
+            android:id="@+id/opt_pergrams"
+            android:text="@string/Per_Grams"
+            style="@style/AppTheme"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_standard"
+            android:layout_marginStart="@dimen/margin_standard"
+            android:lines="1"
+            android:textColor="@color/ButtonForecolor" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/properties"
+        android:padding="0dp" />
+</LinearLayout>

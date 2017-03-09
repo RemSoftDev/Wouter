@@ -1,0 +1,471 @@
+﻿Row	Meal	Name	Pos
+0	B	Tojás	33
+1	B	Kávé	203
+2	B	Pirítós	325
+3	B	Kenyér	571
+4	B	Banán	872
+5	B	Kávé	1190
+6	L	Kenyér	1321
+7	B	Pirítós	1622
+8	B	Banán	1922
+9	D	Kenyér	2184
+10	B	Zabpehely	2485
+11	B	Alacsony zsírtartalmú gyümölcs joghurt	2614
+12	L	Paradicsom	2712
+13	L	Tojás	2940
+14	D	Fehér rizs	3111
+15	B	Teljes kiőrlésű kenyér	3222
+16	D	Sárgarépa	3465
+17	S	Keksz	3748
+18	B	Kávé	3903
+19	D	Paradicsom	4035
+20	B	Szalonna	4307
+21	L	Fehér rizs	4479
+22	S	Alma	4590
+23	S	Kávé	4834
+24	S	Alacsony zsírtartalmú gyümölcs joghurt	4957
+25	L	Paradicsom	5055
+26	S	Kenyér	5327
+27	B	Banán	5629
+28	D	Tojás	5899
+29	D	Hagyma	6070
+30	D	Csirke	6382
+31	B	Alacsony zsírtartalmú gyümölcs joghurt	6588
+32	S	Banán	6752
+33	B	1 %-os tej	7071
+34	S	Banán	7222
+35	L	Fehér rizs	7485
+36	D	Vörös bor	7597
+37	B	Kávé	7669
+38	L	Sárgarépa	7766
+39	B	Kenyér	8049
+40	L	Csirke	8328
+41	B	Alma	8497
+42	S	Narancs	8741
+43	L	Alacsony zsírtartalmú gyümölcs joghurt	8925
+44	B	Narancs	9087
+45	B	Zab	9271
+46	B	Francia kenyér	9395
+47	B	Banán	9557
+48	B	Kenyér	9862
+49	L	Alma	10098
+50	L	Sült bab	10342
+51	D	Paradicsom	10403
+52	L	Banán	10631
+53	D	Pirítós	10950
+54	L	Forrázott a rizs	11197
+55	D	Vörös bor	11260
+56	D	Paradicsom	11334
+57	D	Szalonna	11607
+58	L	Olívaolaj	11779
+59	L	Paradicsom	11887
+60	L	Narancs	12102
+61	S	Tojás	12286
+62	D	Csirkemell	12457
+63	L	Paradicsom	12608
+64	B	Kukoricapehely	12881
+65	L	Kenyér	13001
+66	B	Alma	13280
+67	S	Pirítós	13466
+68	B	Banán	13713
+69		Krémsajt	14018
+70		Parmezán sajt	14218
+71		Svájci sajt	14362
+72		Amerikai sajt	14602
+73		Amerikai sajt	14848
+74		Derelye	15092
+75		Fele-fele	15236
+76		Könnyű krém	15405
+77		Nehéz tejszín	15567
+78		Sózott vaj	15761
+79		Tejszínhabbal vajjal	15947
+80		Vaj-olaj	16133
+81		Tejföl	16306
+82		Krém helyett por	16436
+83		Teljes tej	16604
+84		2 %-os tej	16763
+85		1 %-os tej	16921
+86		Zsírszegény tej	17079
+87		Száraz tej	17238
+88		Egész tejcsokoládé	17369
+89		Csokoládés tej	17533
+90		Alacsony zsírtartalmú kakaó	17694
+91		Alacsony zsírtartalmú vanília joghurt	17852
+92		Alacsony zsírtartalmú gyümölcs joghurt	18020
+93		Tojás	18191
+94		Tojássárgája	18369
+95		Tükörtojás	18519
+96		Kemény főtt tojás	18699
+97		Habart tojás	18912
+98		Szárított tojáshéj	19124
+99		Vaj, só nélkül	19279
+100		Fel zsírszegény tej	19464
+101		Sajt mártással	19622
+102		Könnyű alacsony zsírtartalmú gyümölcs joghurt	19769
+103		Krém helyett	19937
+104		Dúsított, alacsony zsírtartalmú gyümölcs joghurt	20103
+105		Könnyű dúsított alacsony zsírtartalmú gyümölcs joghurt	20277
+106		Mustár	20447
+107		Só	20588
+108		Baba zabpehely	20731
+109		Baba rizs gabona	20877
+110		Disznózsír	21014
+111		Majonézes öntet	21123
+112		Majonézes öntet	21268
+113		Földimogyoró-olaj	21428
+114		Szójaolaj	21566
+115		Olívaolaj	21710
+116		Olasz öntettel	21856
+117		Francia salátaöntet	22017
+118		Alacsony zsírtartalmú növényi olaj elterjedt	22177
+119		Kukoricaolaj	22358
+120		Kéksajt öntettel	22501
+121		Repce olaj	22666
+122		Margarin	22808
+123		Növényi olaj elterjedt	22987
+124		Növényi olaj	23144
+125		Ipari szója olaj	23291
+126		Ipari szója és a gyapotmag-olaj	23434
+127		Kókuszolaj	23577
+128		Csirke	23720
+129		Rántott csirke	23950
+130		Csirke	24185
+131		Sült csirke	24411
+132		Roston csirkehús	24644
+133		Párolt csirke	24872
+134		Csirkemáj	25100
+135		Bőrös csirkemell	25221
+136		Rántott csirkemell	25388
+137		Roston sült csirkemell	25561
+138		Csirkemell hús	25727
+139		Csirkemell	25899
+140		Csirkecomb	26066
+141		Csirkecomb	26233
+142		Csirke comb	26405
+143		Csirke szárny	26561
+144		Sült csirke szárny	26698
+145		Sült pulyka	26816
+146		Sült pulyka hús	26951
+147		Húsleves	27082
+148		Csirke galuskával leves	27231
+149		Tejszín, gombaleves	27389
+150		Pecsenyelével	27547
+151		Marha állomány	27700
+152		Csirkehúsleves	27856
+153		Kagylós halászlé	28014
+154		Csirke húsleves	28178
+155		Paradicsom szósszal	28331
+156		Máj kolbász	28458
+157		Csirkehúsból	28592
+158		Ebéd hús	28751
+159		Kolbász	28881
+160		Sertés és marha kolbász	29004
+161		Szalámi	29138
+162		Pulykamell	29274
+163		Olasz kolbász	29469
+164		Előfőzött disznóhús	29629
+165		Kakaó kavics	29753
+166		Kukorica chex	29868
+167		Kukoricapehely	29987
+168		Minden bran búzapehely	30111
+169		Gyümölcsös kavics	30222
+170		Kix	30332
+171		Kvéker zab élet	30459
+172		Szerencsés varázsa	30603
+173		Mézes dió chex	30733
+174		Mazsolás-bran	30863
+175		Mazsolás korpás gabonapehely	30992
+176		Chex rizs	31117
+177		Jeges pelyhek	31239
+178		Teljes teljes kiőrlésű	31368
+179		Búza chex	31487
+180		Kukorica-kukoricadara	31607
+181		Zab	31736
+182		Zabpehely	31872
+183		Zab és fahéj fűszer	32013
+184		Zab, mazsola és fűszer	32154
+185		Reese felfújtadat	32299
+186		Zabpehely négyzetek	32421
+187		Zab korpás gabonapehely	32553
+188		Egy szál	32681
+189		Korpa teljes mazsola	32794
+190		Kakaó felfújtadat	32913
+191		Pirított méz-zab	33032
+192		Mandulás vanília	33149
+193		Alma	33265
+194		Almalé	33517
+195		Almaszósz	33675
+196		Avokádó	33816
+197		Banán	34015
+198		Fekete áfonya	34342
+199		Szőlőlé	34480
+200		Szőlő	34640
+201		Mangó	34791
+202		Sárgadinnye	34936
+203		Narancs	35323
+204		Friss narancslé	35519
+205		Narancslé koncentrátum	35673
+206		A kalcium narancslé	35834
+207		Fagyasztott narancslé koncentrátum	35996
+208		Őszibarack	36161
+209		Körte	36380
+210		Ananász	36590
+211		Mazsola	36846
+212		Eper	37117
+213		A fagyasztott szamóca	37429
+214		Görögdinnye	37745
+215		C-vitamin almalé	38128
+216		Alma, szőlő és körte gyümölcslé	38287
+217		A sertés karaj roston sült zsír	38447
+218		Roston sült karaj	38554
+219		Sült karaj	38660
+220		Karaj	38767
+221		Szalonna	38875
+222		Sonka	39059
+223		Sült sonka zsír	39211
+224		Sült sonka	39342
+225		Extra sovány sonka	39471
+226		Extra sovány sonka	39624
+227		Darabolt sertés	39777
+228		Földre sertéshús	39888
+229		Sonka, természetes gyümölcslevek	40007
+230		Sonka és a víz	40168
+231		Sonka - hozzáadott víz	40325
+232		Spárga	40485
+233		Zöld snap-babot	40602
+234		Konzerv zöldbabot	40738
+235		Fagyasztott zöld snap-babot	40919
+236		Nyers brokkoli	41053
+237		Brokkoli	41315
+238		Apróra vágott brokkoli	41576
+239		Fagyasztott brokkoli	41836
+240		Nyers káposzta	42096
+241		Káposzta	42456
+242		Sárgarépa	42814
+243		Főtt sárgarépa	43105
+244		Fagyasztott sárgarépa	43394
+245		Zeller	43685
+246		Cikória-zöldek	43962
+247		Kukorica	44096
+248		Sárga kukorica konzerv	44405
+249		Fagyasztott kukorica	44558
+250		Uborka	44867
+251		Endívia (széleslevelű)	45118
+252		Kelkáposzta	45291
+253		Római saláta	45426
+254		Jégsaláta	45799
+255		Zöld saláta	46176
+256		Fehér gomba	46553
+257		Mustár zöldek	46710
+258		Hagyma	46850
+259		Főtt vöröshagyma	47170
+260		Újhagyma	47493
+261		Petrezselyem	47715
+262		Zöldborsó	47872
+263		Zöldborsó konzerv	47998
+264		Fagyasztott zöldborsó	48124
+265		Burgonya	48250
+266		Sült burgonya	48474
+267		Burgonya bőr	48695
+268		Főtt burgonya	48915
+269		Kivonatolt Barnák	49136
+270		Burgonyapüré	49275
+271		Burgonya felfújtadat	49404
+272		Kemencében sült krumpli	49565
+273		Nyers spenót	49756
+274		Főtt spenót	49942
+275		Konzerv spenót	50068
+276		Sült édesburgonya	50192
+277		Édes burgonya	50399
+278		Paradicsom	50602
+279		Főtt paradicsom	51019
+280		Konzerv paradicsom	51301
+281		Párolt paradicsom konzerv	51488
+282		Paradicsomlé	51768
+283		Paradicsompüré	51931
+284		Konzerv paradicsomszósz	52090
+285		Fehérrépa zöldje	52247
+286		Konzerv zöldséglé	52390
+287		Vegyes zöldség	52552
+288		Konzerv édes burgonya	52677
+289		Konzerv répa lé	52882
+290		Sült burgonya bőr	53043
+291		Paradicsompüré	53266
+292		Ecetes lé	53427
+293		Élvezettel	53677
+294		Magok a terméshez(vetőmagok)	53836
+295		Pörkölt napraforgómag	53967
+296		Mandula	54099
+297		A halványított mandula	54366
+298		Pörkölt mandula	54614
+299		Dió	54861
+300		Olaj pörkölt napraforgómag	55134
+301		Sózott, pörkölt mandula	55269
+302		Kesudió	55518
+303		Vegyes dió	55702
+304		Olaj sült vegyes dió	55825
+305		Marha máj	55954
+306		Marha máj	56079
+307		Marha-szegy	56204
+308		Marha borda	56317
+309		Marhahús	56429
+310		Marha penge sült	56624
+311		Marha borda	56738
+312		Marha borda	56856
+313		Marha kerek	56977
+314		Felső kerek marha	57090
+315		Sör	57209
+316		Világos sör	57345
+317		Vörös bor	57479
+318		Fehér bor	57583
+319		Zöldség és gyümölcslé	57685
+320		Gyömbér	57830
+321		Citrom szóda	57959
+322		Gyökér sör	58095
+323		Csoki szirup	58226
+324		Koffeinmentes kávé	58354
+325		Kávé	58493
+326		Eszpresszó	58640
+327		Konzerv gyümölcs ital	58764
+328		Dúsított gyümölcs ital	58900
+329		Limonádé	59047
+330		Vanília turmix	59203
+331		Csapvíz	59402
+332		Gyümölcs ízű víz	59527
+333		Palackozott víz	59660
+334		Dúsított gyümölcs ízű víz	59786
+335		Szörnyeteg energia ital	59917
+336		Gyümölcs lé ital, e-vitamin	60050
+337		Halrudak	60196
+338		Lapos hal	60369
+339		Hering	60490
+340		Lazac	60727
+341		Könnyű tonhalkonzerv	60845
+342		Tarisznyarák	61034
+343		Garnélarák	61222
+344		Konzervált garnélarák	61364
+345		Kagyló	61506
+346		Konzerv kagyló	61687
+347		Osztriga	61872
+348		Harcsa	62009
+349		Szivárványos pisztráng	62128
+350		Tilápia	62251
+351		Sült bab	62370
+352		Sült bab és a frankok	62496
+353		Sült bab, a sertés- és paradicsomos mártással	62624
+354		Fekete bab	62748
+355		Piros vese bab konzerv	62892
+356		Piros vese bab	63032
+357		Fehér bab	63188
+358		Lencse	63329
+359		Főtt lencse	63472
+360		Sózott földimogyoró	63615
+361		Sózott, pörkölt mogyoró	63770
+362		Mogyoróvaj	63921
+363		Babok	64051
+364		Szójaszósz	64190
+365		Dúsított szójatej	64368
+366		Csökkentett kövér mogyoróvaj	64529
+367		Földimogyoró, só nélkül	64654
+368		Pörkölt mogyoró	64807
+369		Fahéjas mazsolás bagel	64956
+370		Keksz	65137
+371		Keksz	65300
+372		Francia kenyér	65469
+373		Olasz kenyér	65697
+374		Multi-kenyér	65897
+375		Rozsos kenyér	66205
+376		Kenyér	66510
+377		Pirítós	66820
+378		Fehér kenyér	67129
+379		Fehér pirítós	67436
+380		Teljes kiőrlésű kenyér	67735
+381		Teljes kiőrlésű pirítós	68041
+382		Zsemlemorzsa	68348
+383		Csokoládé torta	68488
+384		Piskóta	68619
+385		Sajttorta	68748
+386		Csokoládé szendvics cookie-k	68889
+387		Mogyoróvaj cookie-k	69089
+388		Vanília szendvics cookie-k	69287
+389		Sajtot krakkoló	69434
+390		Keksz-val mogyoróvaj	69598
+391		Búza keksz	69762
+392		Kifli	69923
+393		Régimódi fánk	70090
+394		Fánk	70298
+395		Palacsinta	70511
+396		Almás pite	70683
+397		Sütőtök pite	70862
+398		Fahéjas tekercs	71044
+399		Bogyó kenyérpirító sütemények	71209
+400		Sütőpor	71336
+401		Élesztő	71465
+402		Gofri	71622
+403		Író gofri	71762
+404		Matt kenyérpirító tészta	71902
+405		Sajtot felfújtadat	72029
+406		Pattogatott kukorica	72187
+407		Pattogatott kukorica	72319
+408		Karamell	72461
+409		Sütés csokoládé	72605
+410		Félédes csokoládé	72736
+411		Könnyű vanília fagylalttal	72858
+412		Gazdag vanília fagylalttal	72991
+413		Vanília fagylalttal	73118
+414		Narancssárga sörbet	73246
+415		Gumicukorkát	73366
+416		Cukorfalat	73628
+417		Tejes csokoládé	73738
+418		Földimogyoró M & Ms	73867
+419		M & Ms	74066
+420		Bár Twix	74267
+421		Kakaópor	74425
+422		Csokoládé fagylalt	74553
+423		Mész jég típus	74678
+424		Méz	74782
+425		Zselé	74892
+426		Barna cukor	75030
+427		Cukor	75226
+428		Porcukor	75414
+429		Juharszirup	75544
+430		Juharszirup	75670
+431		Zseton	75784
+432		Dúsított kukoricadara	75930
+433		Barna rizs	76054
+434		Nyers fehér rizs	76176
+435		Fehér rizs	76300
+436		Forrázott a rizs	76423
+437		Teljes kiőrlésű Liszt	76547
+438		Minden Liszt	76671
+439		Fehér kenyérliszt	76797
+440		Sütemény Liszt	76922
+441		Makaróni	77046
+442		Metélt	77226
+443		Spagetti	77352
+444		Keksz, tojás és kolbász	77474
+445		Keksz, kolbász	77604
+446		Hash Barnák	77734
+447		Sajtburger	77877
+448		Krumpli	78015
+449		Emelkedő tésztájú pizzát	78205
+450		Vastag tésztájú pizzát	78337
+451		Vékony tésztájú pizzát	78470
+452		Szoba kétszemélyes ággyal-hamburger	78599
+453		Dupla sajtburgert	78719
+454		Csirke ajánlatok	78856
+455		Csirke pot-pite	78982
+456		Tészta húsgombóc paradicsommártásban	79107
+457		Tészta paradicsomos szósszal	79233
+458		Tojás tekercs sertés	79368
+459		Darált marhahús (75/25)	79499
+460		Csokoládé hatalom bár	79619
+461		Méz csokrok, zab, mandula	79737
+462		Csökkentett zsírtartalmú sajt	79863
+463		Fehér zseton	80101
+464		Cézár öntet	80236
+465		Perec	80401
+466		Alacsony zsírtartalmú amerikai sajt	80548
+467		Áfonyalé	80785
+468		Méz csokrok, zab	80941
+469		Alacsony zsírtartalmú svájci sajt	81069

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">फूड डायरी</string>
+	<string name="CommonItems">सामान्य मदें </string>
+	<string name="Delete">हटायें</string>
+	<string name="EmptyEntryList">कुछ भी चयनित नहीं है</string>
+	<string name="MyRecentItems_Breakfast">हाल ही में नाश्ता आइटम</string>
+	<string name="MyRecentItems_Dinner">हाल ही में रात के खाने के आइटम्स</string>
+	<string name="MyRecentItems_Exercise">मेरी हाल ही में excersizes</string>
+	<string name="MyRecentItems_Lunch">हाल ही में दोपहर के भोजन के आइटम्स</string>
+	<string name="MyRecentItems_Snack">हाल ही में नाश्ता आइटम</string>
+	<string name="PageTitle">फूड डायरी</string>
+	<string name="PageTitleBase">फूड डायरी- </string>
+	<string name="Period_Breakfast">नाश्ता</string>
+	<string name="Period_Dinner">डिनर</string>
+	<string name="Period_Exercise">व्यायाम</string>
+	<string name="Period_Lunch">दोपहर का भोजन</string>
+	<string name="Period_Snack">स्नैक</string>
+	<string name="Search">खोजें</string>
+	<string name="Today">आज</string>
+	<string name="StandardProperty_Amount">मात्रा</string>
+	<string name="StandardProperty_Calcium">कैल्शियम</string>
+	<string name="StandardProperty_Calories">कैलोरी</string>
+	<string name="StandardProperty_Carbs">कार्बोहाइड्रेट</string>
+	<string name="StandardProperty_Cholesterol">कोलेस्ट्रॉल</string>
+	<string name="StandardProperty_Fiber">फाइबर</string>
+	<string name="StandardProperty_Iron">लौह</string>
+	<string name="StandardProperty_MonoFat">मोनो असंतृप्त वसा</string>
+	<string name="StandardProperty_PolyFat">पॉलीअनसेचुरेटेड वसा</string>
+	<string name="StandardProperty_Potassium">पोटेशियम</string>
+	<string name="StandardProperty_Protein">प्रोटीन</string>
+	<string name="StandardProperty_SatFat">संतृप्त वसा</string>
+	<string name="StandardProperty_Sodium">सोडियम</string>
+	<string name="StandardProperty_Sugar">चीनी</string>
+	<string name="StandardProperty_TotalFat">कुल वसा</string>
+	<string name="StandardProperty_VitaminC">विटामिन C</string>
+	<string name="StandardProperty_VitaminD">विटामिन डी</string>
+	<string name="StandardProperty_Weight">मोटाई</string>
+	<string name="Preferences">प्राथमिकताएँ</string>
+	<string name="EmptySearchList">कोई खोज शब्द दर्ज करें</string>
+	<string name="NewItemSuffix"> (नए आइटम)</string>
+	<string name="NewRecipeSuffix"> (नया नुस्खा)</string>
+	<string name="SearchResults">खोज परिणाम</string>
+	<string name="SearchTermNotFound">{0} नहीं पाया, प्रयास करें अपने खोज शब्द को बदलने</string>
+	<string name="AcceptNew">जोड़ें</string>
+	<string name="Name">नाम</string>
+	<string name="Nutrition">पोषण</string>
+	<string name="PageTitleItemDetail">खाद्य जानकारी</string>
+	<string name="EnterWeight">कृपया पहले वजन दर्ज करें</string>
+	<string name="ServingSizes">आकार सेवित</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">कितना\?</string>
+	<string name="MoreOptions">अधिक विकल्प</string>
+	<string name="NoNutritionInfo">कोई पोषण जानकारी</string>
+	<string name="AddServingSize">एक सेवारत आकार जोड़ें</string>
+	<string name="Add">जोड़ें</string>
+	<string name="SelectDate">कैलेंडर</string>
+	<string name="Advertisement">विज्ञापन</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">कप</string>
+	<string name="Unit_Deciliter">एक लिटर का दशमांश</string>
+	<string name="Unit_FluidOunce">द्रव औंस</string>
+	<string name="Unit_Gallon">गैलन</string>
+	<string name="Unit_Gram">ग्राम</string>
+	<string name="Unit_Kilogram">किलोग्राम</string>
+	<string name="Unit_Liter">लीटर</string>
+	<string name="Unit_Milliliter">Milliliter</string>
+	<string name="Unit_Ounce">औंस</string>
+	<string name="Unit_Pint">पिंट</string>
+	<string name="Unit_Pound">पौंड</string>
+	<string name="Unit_Quart">क्वार्ट</string>
+	<string name="Unit_Tablespoon">टेबलस्पून</string>
+	<string name="Unit_Teaspoon">टीस्पून</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">कप</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">द्रव औंस</string>
+	<string name="Units_Gallon">बत</string>
+	<string name="Units_Gram">ग्राम्स</string>
+	<string name="Units_Kilogram">किलोग्राम</string>
+	<string name="Units_Liter">लीटर</string>
+	<string name="Units_Milliliter">मिलीलीटर्स</string>
+	<string name="Units_Ounce">आउन्स</string>
+	<string name="Units_Pint">Pints</string>
+	<string name="Units_Pound">पाउंड्स</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">बड़ी चम्मच</string>
+	<string name="Units_Teaspoon">छोटे चम्मच</string>
+	<string name="DatabaseCulture">hi</string>
+	<string name="Equivalent">मात्रा:</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">लोड हो रहा है...</string>
+	<string name="ExpiredCaption">अभी अद्यतन करें</string>
+	<string name="ExpiredMessage">इस App का उपयोग करने के लिए धन्यवाद! यह प्रतिलिपि अब समाप्त हो गई है। लेकिन चिंता मत करो, हम आपको अद्यतन यदि आप ठीक क्लिक करने के लिए डाउनलोड पृष्ठ के लिए ले जाऊँगा।</string>
+	<string name="AgentDescription">इस कार्य के लिए फूड डायरी Live टाइल अद्यतन करता है।</string>
+	<string name="AgentDisabled">आप टाइल लाइव अनुप्रयोग फोन सेटिंग्स में अक्षम है।</string>
+	<string name="PageTitleSettings">मेरी वरीयताएँ</string>
+	<string name="EnableLiveTile">App टाइल पर लापता भोजन की गणना</string>
+	<string name="Reminders">अनुस्मारक</string>
+	<string name="SettingsScreen">सेटिंग्स</string>
+	<string name="PinToStart">सेट अप टाइल</string>
+	<string name="OpenReport">रिपोर्ट</string>
+	<string name="Report">रिपोर्ट</string>
+	<string name="TakeAPicture">फ़ोटो लें(T)</string>
+	<string name="ReviewBody">इस App का उपयोग करने के लिए धन्यवाद! यदि आप इसे उपयोगी मिल जाए, यह एक समीक्षा छोड़ कर सफल बन मदद कृपया।</string>
+	<string name="ReviewTitle">एक समीक्षा छोड़ दें\?</string>
+	<string name="Goals">लक्ष्य</string>
+	<string name="NoGoalSet">कोई लक्ष्य सेट</string>
+	<string name="EndOfDay">दिन के अंत में</string>
+	<string name="ReminderContent">आप क्या खाया\?</string>
+	<string name="ReminderTitle">अनुस्मारक: अपनी डायरी अद्यतन करें</string>
+	<string name="ReminderDescription">यदि आप चयनित समय के द्वारा अपनी डायरी नवीनीकृत नहीं चयनित अनुस्मारक प्रकट</string>
+	<string name="ScreenshotTitles">संतरे का रस, 1 कप, टोस्ट, 1 टुकड़ा, अंडे, सेब, कॉफी, केले, 1 मध्यम</string>
+	<string name="CommonServingSizes">100 g|1 ऑउंस 28 g| =छोटी चम्मच = 4.5 g|बड़ा चमचा = 12 g|1 सेवारत 28 g| =टुकड़ा = 14 g|टुकड़ा 12 g|1 कप = = 237 जी</string>
+	<string name="GoalUnder">{0} शेष</string>
+	<string name="OpenJournal">जर्नल</string>
+	<string name="GoalOver">{0} से अधिक लक्ष्य</string>
+	<string name="RemoveAdsTitle">विज्ञापन निकालें\?</string>
+	<string name="Feedback_ShareText">इस app डाउनलोड करने के लिए</string>
+	<string name="ShareMessage">Windows Phone के लिए फूड डायरी बाहर की जाँच करें</string>
+	<string name="Feedback_Share">लिंक साझा करें</string>
+	<string name="Feedback_ScreenshotText">एक स्क्रीन पर कब्जा शामिल है</string>
+	<string name="Feedback_Screenshot">अनुवाद में सुधार में मदद</string>
+	<string name="Feedback_RateText">विशिष्ट प्रतिक्रिया app बेहतर बनाने में मदद करता है</string>
+	<string name="Feedback_Rate">दर इस app</string>
+	<string name="Feedback_EmailText">या एक सुविधा का सुझाव दें या एक प्रश्न पूछें</string>
+	<string name="Feedback_Email">समस्या की रिपोर्ट करें</string>
+	<string name="RemoveAdsText">App से विज्ञापनों को दूर करने के लिए ठीक का चयन करें।</string>
+	<string name="FeedbackSubject">फूड डायरी से ई-मेल</string>
+	<string name="ScreenshotSubject">फूड डायरी पाठ</string>
+	<string name="ShareTitle">फूड डायरी</string>
+	<string name="CommonItems_Snack">आम नाश्ता आइटम</string>
+	<string name="CommonItems_Lunch">आम खाने का आइटम</string>
+	<string name="CommonItems_Dinner">आम खाने के आइटम्स</string>
+	<string name="CommonItems_Breakfast">आम नाश्ता आइटम</string>
+	<string name="Meals">भोजन</string>
+	<string name="Period_SnackMidnight">आधी रात</string>
+	<string name="Meals_SnacksCombined">नाश्ता गठबंधन</string>
+	<string name="Meals_SnackEveningEnabled">अलग-अलग शाम के नाश्ते</string>
+	<string name="MyRecentItems_SnackMorning">हाल ही में सुबह आइटम</string>
+	<string name="CommonItems_SnackMorning">आम सुबह आइटम</string>
+	<string name="CommonItems_SnackMidnight">आम आधी रात आइटम</string>
+	<string name="CommonItems_SnackEvening">आम शाम आइटम</string>
+	<string name="CommonItems_SnackEarlyAfternoon">आम जल्दी दोपहर आइटम</string>
+	<string name="CommonItems_SnackAfternoon">आम दोपहर आइटम</string>
+	<string name="MyRecentItems_SnackMidnight">हाल ही में आधी रात के आइटम्स</string>
+	<string name="MyRecentItems_SnackEvening">हाल ही में शाम आइटम</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">हाल जल्दी दोपहर के आइटम</string>
+	<string name="MyRecentItems_SnackAfternoon">हाल ही में दोपहर आइटम</string>
+	<string name="Meals_SnackMidnightEnabled">अलग-अलग आधी रात स्नैक</string>
+	<string name="Period_SnackEvening">शाम</string>
+	<string name="Meals_SnackAfternoonEnabled">अलग-अलग दोपहर नाश्ता</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">अलग-अलग जल्दी दोपहर नाश्ता</string>
+	<string name="Meals_SnackMorningEnabled">अलग-अलग सुबह नाश्ते</string>
+	<string name="Period_SnackAfternoon">दोपहर</string>
+	<string name="Period_SnackEarlyAfternoon">जल्दी दोपहर</string>
+	<string name="Period_SnackMorning">सुबह</string>
+	<string name="UnlockFullTitle">अब अनलॉक\?</string>
+	<string name="TrialExpiredBody">अपने परीक्षण अब समाप्त हो गई है। आप अभी भी अपने जर्नल को देख सकते हैं, लेकिन आप नई प्रविष्टियाँ नहीं जोड़ सकते। पूर्ण संस्करण अनलॉक करने के लिए ठीक का चयन करें।</string>
+	<string name="UnlockFullBody">फूड डायरी की कोशिश कर के लिए धन्यवाद। आप {0} परीक्षण दिन शेष है। App अनलॉक करने के लिए ठीक दबाएँ।</string>
+	<string name="StoreException">Windows Phone की दुकान करने के लिए कनेक्ट करने में कोई समस्या थी। कृपया बाद में पुन प्रयास करें।</string>
+	<string name="Feedback_RemoveAdsText">सभी विज्ञापनों को स्थायी रूप से दूर</string>
+	<string name="Feedback_RemoveAds">विज्ञापन निकालें</string>
+	<string name="StoreText_5">क्योंकि तुम इसे का उपयोग कर प्यार करेंगे अब डाउनलोड करें।</string>
+	<string name="AppTitle">फूड डायरी</string>
+	<string name="StoreText_4">प्रीमियम सुविधाओं:
+1. कोई अधिक विज्ञापन।
+2. एक बहुत बड़ा खाद्य डाटाबेस।
+3. अपने आप को इस डेयरी की एक प्रतिलिपि ई-मेल करने की क्षमता।
+4. अधिक विन्यास विकल्प, ऊपर 8 अलग भोजन एक दिन में प्रवेश करने की क्षमता सहित।</string>
+	<string name="StoreText_3">विशेषताएं:
+1. एक सरल और शक्तिशाली डिजाइन: है कि क्या आप सबसे अधिक उपयोग करेंगे क्योंकि app सबसे हाल के भोजन, पर, प्रविष्टि स्क्रीन पर सीधे खोलता है। डिजाइन सरल और संभव के रूप में सहज ज्ञान युक्त के रूप में जोड़ने प्रविष्टियाँ बनाता है।
+2. एक नल प्रविष्टि वैयक्तिकृत सुझावों के साथ: सबसे आम खाद्य पदार्थों तुरंत चयन किया जा सकता। क्योंकि तुम एक ही बार-बार खाना खाते हो सकता दूसरे दिन पर शुरू करने, अपने हाल के आइटम सुझाए गए हैं।
+3. में प्रवेश करने की जरूरत नहीं है: कोई व्यक्तिगत डेटा या संपर्क जानकारी की आवश्यकता है।
+4. हजारों पहले से ही डेटाबेस में आइटम्स: ज्यादातर खाद्य पदार्थों आम सेवारत आकार, कैलोरी, कार्बोहाइड्रेट, प्रोटीन और वसा के बारे में सटीक जानकारी है। 
+5. पूर्ण बंद लाइन का समर्थन: कोई जरूरत नहीं करने के लिए इंटरनेट से कनेक्ट होना। 
+6. सटीक प्रवेश आसान भी है: आप सही सटीक राशि है एक स्लाइडर का उपयोग कर दर्ज कर सकते हैं।
+7. दैनिक रिपोर्ट: मेनू का उपयोग कर, आपको सीधे डायरी, जो अपने दिन का सारांश दिखाता है खोल सकते हैं। यहाँ आप कैलोरी, प्रोटीन और कार्बोहाइड्रेट के बीच छोटे त्रिकोण पर दबाने से स्विच कर सकते हैं।
+8. अपने लक्ष्यों को ट्रैक: अपने व्यक्तिगत लक्ष्यों में प्रवेश करने के बाद, आप सप्ताह रिपोर्ट अपने रुझान को देखने के लिए उपयोग कर सकते हैं। 
+9. व्यक्तिगत अनुस्मारक आप लक्ष्य पर रहने में मदद: वे एक सुविधाजनक तरीका है करने के लिए सुनिश्चित करें कि आप को भरने के बाहर अपनी डायरी, प्रत्येक भोजन के बाद या दिन के अंत में कर रहे हैं।
+
+यह एक अच्छा विचार है आपका खाद्य पैकेजिंग पर जानकारी के रूप में एक ही डेटाबेस में जानकारी है सत्यापित करने के लिए है; खाद्य पोषण और समय के ब्रांडों के साथ fluctuates.
+
+अपने चिकित्सक या पोषण विशेषज्ञ के साथ अपने लक्ष्यों पर चर्चा करने के लिए सुनिश्चित करें।</string>
+	<string name="StoreText_2">अनुप्रयोग के बारे में:
+क्या आप खाने का ट्रैक रखते हुए रोकने के लिए और अधिक खाने को रोकने में मदद करने के लिए दिखाया गया है।
+इस app आप अपने आहार पर नियंत्रण है और यह क्या तुम खा को ट्रैक करने के लिए आसान बनाने के द्वारा स्वस्थ, खाने में मदद करता है। डिजाइन प्रविष्टि 1 पर क्लिक करें प्रविष्टि के साथ संभव है, और हाल ही में खाद्य सुझाव के रूप में त्वरित बनाने के लिए अनुकूलित है। में निर्मित डेटाबेस पहले से ही खाद्य पदार्थों के हजारों है और अगर तुम्हारा ज्ञात नहीं कर रहे हैं, उन्हें जोड़ना आसान है।
+
+कृपया ध्यान दें: इस app डाउनलोड करने के लिए नि: शुल्क है, और विज्ञापनों द्वारा समर्थित है। लंबे समय के रूप में आप की तरह आप इसे मुफ्त के लिए उपयोग कर सकते हैं। यह एक शुल्क है, जो भी अतिरिक्त सुविधाएँ सक्षम हो जाएगा के लिए विज्ञापन को निकालना संभव है।</string>
+	<string name="StoreText_1">फूड डायरी: अपने आहार और कैलोरी app पर नज़र रखने।</string>
+	<string name="StoreKeyword_5">पोषण</string>
+	<string name="StoreKeyword_4">कैलोरी</string>
+	<string name="StoreKeyword_3">आहार</string>
+	<string name="StoreKeyword_2">खाद्य जर्नल</string>
+	<string name="StoreKeyword_1">कैलोरी काउंटर</string>
+	<string name="Screenshot_H3">केला</string>
+	<string name="Screenshot_H2">कॉफ़ी</string>
+	<string name="Screenshot_H1">सेब</string>
+	<string name="Screenshot_3a">अंडा</string>
+	<string name="Screenshot_2b">1 स्लाइस</string>
+	<string name="Screenshot_2a">टोस्ट</string>
+	<string name="Screenshot_1b">1 कप</string>
+	<string name="Screenshot_1a">संतरे का रस</string>
+	<string name="Product_2">आप अपने समर्थन के लिए धन्यवाद! स्थायी रूप से अपनी फूड डायरी app से विज्ञापनों को दूर करने के लिए इस विकल्प का उपयोग करें।</string>
+	<string name="Product_1">विज्ञापन निकालें</string>
+	<string name="CantCalculateNutrition">वजन दर्ज करें</string>
+	<string name="TrialExpiredTitle">परीक्षण अवधि समाप्त हो गई, अनलॉक\?</string>
+	<string name="Screenshot_3b">1 मध्यम</string>
+	<string name="SendFeedback">के बारे में</string>
+	<string name="Feedback_UnlockText">के प्रीमियम संस्करण खरीदने</string>
+	<string name="EmailReport_SubjectTemplate">{0} के लिए खाद्य जर्नल</string>
+	<string name="EmailReport_Exception">कुछ अनपेक्षित गलत हो गया था। जर्नल नहीं भेजा गया था।</string>
+	<string name="EmailReport_InvalidEmailAddress">कृपया एक मान्य ई-मेल पता दर्ज करें।</string>
+	<string name="Total">कुल</string>
+	<string name="Price">केवल {0}</string>
+	<string name="Feature6_Text">विकास का समर्थन</string>
+	<string name="Feedback_Footer">अस्वीकरण:
+अधिकांश, लेकिन नहीं सभी डेटाबेस में डेटा पॉइंट्स सम्मानित स्रोतों से आते हैं। हम क्या हमारे लिए सबसे अच्छा करने के लिए सुनिश्चित करें कि सभी मान सही हैं, लेकिन गलत या गुम डेटा के लिए जिम्मेदार ठहराया जा सकता। पोषण मूल्यों ब्रांड द्वारा और समय के साथ बदलती हैं। इस app का उपयोग करके, आप की जाँच करें और अनुप्रयोग में किसी भी डेटा को सही करने के लिए, और पूरी तरह से चोट या इसके उपयोग के कारण क्षति के लिए जिम्मेदार होने के लिए सहमत हैं।
+
+कृपया मुझे पता है अगर वहाँ कुछ भी मैं आप के साथ मदद कर सकते हैं।</string>
+	<string name="Feature6_Desc">आ रहा है इस app की अद्यतन रखने के लिए मदद</string>
+	<string name="GetAllFeatures">सभी सुविधाएँ प्राप्त</string>
+	<string name="Feature_Header">शामिल हैं:</string>
+	<string name="Feature_Footer">* ध्यान दें: अधिकांश, लेकिन नहीं सभी डेटा सम्मानित स्रोतों से आता है। प्रीमियम संस्करण क्रय करके, आप सटीकता और डेटा की पूर्णता के लिए पूरी जिम्मेदारी स्वीकार करते हैं। विवरण के लिए ई-मेल daily.journal@outlook.com.</string>
+	<string name="Feature5_Text">नई सुविधाएँ</string>
+	<string name="Feature5_Desc">सभी प्रीमियम भविष्य में अद्यतन सुविधाएँ</string>
+	<string name="Feature4_Text">अधिक भोजन</string>
+	<string name="Feature4_Desc">प्रति दिन 5, 6 या अधिक भोजन पर नज़र रखने के लिए</string>
+	<string name="Feature3_Text">और अधिक खाद्य पदार्थ *</string>
+	<string name="Feature3_Desc">सैकड़ों हजारों करने के लिए अधिक भोजन आइटम (स्थान के आधार पर)</string>
+	<string name="Feature2_Text">ई-मेल रिपोर्ट</string>
+	<string name="Feature2_Desc">अपने जर्नल सहेजें, मुद्रित करें या इसे का विश्लेषण करने के लिए ई-मेल करें</string>
+	<string name="Feature1_Text">कोई विज्ञापन</string>
+	<string name="Feature1_Desc">सभी विज्ञापनों को स्थायी रूप से हटा रहे हैं</string>
+	<string name="BuyNow">अब खरीदें</string>
+	<string name="EmailReport_ShowSettings">ई-मेल द्वारा भेजें</string>
+	<string name="EmailReport_SendNow">अब भेजें</string>
+	<string name="EmailReport_Address">ई-मेल पता</string>
+	<string name="Feedback_Unlock">अब नवीनीकरण करें</string>
+	<string name="Feedback_Header">क्या आप खाने का ट्रैक रखने के लिए तेज और आसान तरीका है।
+
+डेटा की सटीकता के बारे में जानकारी के लिए नीचे स्क्रॉल करें।</string>
+	<string name="Product_4">सभी सुविधाओं तक पहुँच प्राप्त</string>
+	<string name="Product_3">प्रीमियम के लिए उन्नयन</string>
+	<string name="EmailReport_Footer2">नोट: डेटाबेस में सबसे अधिक है, लेकिन नहीं सभी डेटा बिंदुओं सम्मानित स्रोतों से आते हैं। हम क्या हमारे लिए सबसे अच्छा करने के लिए सुनिश्चित करें कि मान सही हैं, लेकिन गलत या गुम डेटा के लिए जिम्मेदार ठहराया जा सकता। App का उपयोग करके, आप स्वीकार करते हैं और डेटा की सटीकता की जाँच के लिए पूरी जिम्मेदारी स्वीकार करते हैं। App मिल सकता है आप किसी भी विसंगतियों का अद्यतन करने के लिए आपको अनुमति देता है।</string>
+	<string name="EmailReport_Footer1">AAA द्वारा जर्नल
+प्रश्न या टिप्पणी\? BBB को उत्तर दें</string>
+	<string name="Localization_Submit">सबमिट करें</string>
+	<string name="Localization_TranslationsText">कृपया इस सूची में ग्रंथों के साथ बेहतर अनुवाद का अद्यतन करें। आइटम है कि आपके क्षेत्र के लिए अनुपयुक्त हैं के लिए सभी पाठ हटा दें।</string>
+	<string name="Localization_ThankYou">आपकी मदद के लिए धन्यवाद!</string>
+	<string name="Localization_Translations">अनुवाद</string>
+	<string name="Localization_Text">यहाँ आप इस app बेहतर बनाने में मदद कर सकते हैं।</string>
+	<string name="Localization_Original">मूल:</string>
+	<string name="Localization_Good">अच्छा</string>
+	<string name="Localization_Description">वर्णन:</string>
+	<string name="Feedback_LocalizeText">App को बेहतर बनाने में मदद</string>
+	<string name="Localization_CommentText">यदि आप से संपर्क किया जा करना चाहते हैं आपके ई-मेल पता दर्ज करें।</string>
+	<string name="Localization_Comment">टिप्पणी</string>
+	<string name="Feedback_Localize">अनुवाद में सुधार</string>
+	<string name="AddToLauncher">जोड़ने के लिए लांचर</string>
+	<string name="Avg">औसत</string>
+	<string name="Cancel">रद्द करें</string>
+	<string name="CopyFromSimilarItem">से समान आइटम की प्रतिलिपि बनाएँ</string>
+	<string name="DeleteEntry">प्रविष्टि हटाएँ</string>
+	<string name="EnterTheWeightForThisAmount">वजन के लिए इस राशि दर्ज करें</string>
+	<string name="MoreOptions2">अधिक विकल्प</string>
+	<string name="None">कोई नहीं</string>
+	<string name="Ok">ठीक है</string>
+	<string name="OneDaySalePctOff">1 दिन की बिक्री: {0} % off</string>
+	<string name="Total2">कुल</string>
+	<string name="EmailReport_Footer1a">AAA द्वारा जर्नल</string>
+	<string name="EmailReport_Footer1b">प्रश्न या टिप्पणी\? BBB को उत्तर दें</string>
+	<string name="Add_New">नए आइटम</string>
+	<string name="Add_Note">एक नोट जोड़ें</string>
+	<string name="add_target">पोषण जोड़ें</string>
+	<string name="choose_time">निर्धारित समय</string>
+	<string name="daily_target">पोषण</string>
+	<string name="daily_target_hint">दैनिक लक्ष्य (वैकल्पिक)</string>
+	<string name="describe_goal">यहाँ अपने लक्ष्य का वर्णन</string>
+	<string name="drawer_close">बंद करें</string>
+	<string name="drawer_open">खुला</string>
+	<string name="edit_meals">भोजन का चयन</string>
+	<string name="enter_meal_time">हर भोजन के लिए समय दर्ज करें</string>
+	<string name="enter_serving_weight">वजन (छ) पहले दर्ज करें</string>
+	<string name="enter_value">पोषण दर्ज करें</string>
+	<string name="get_started">शुरू हो जाओ!</string>
+	<string name="get_started_second_text">नल \'+\' आपकी पत्रिका के लिए एक प्रविष्टि जोड़ने के लिए।</string>
+	<string name="Input_Notes">आपके नोट्स यहाँ दर्ज करें</string>
+	<string name="meal_options">भोजन विकल्प</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">व्यक्तिगत लक्ष्य</string>
+	<string name="Per_Cup">1 कप (250 ग्राम) NOTUSED</string>
+	<string name="Per_Grams">100 ग्राम</string>
+	<string name="portion_caption">भाग</string>
+	<string name="RadioButton_Alpha">NOTYETUSED वर्णक्रम</string>
+	<string name="RadioButton_Sort">इतिहास NOTYETUSED द्वारा सॉर्ट करें</string>
+	<string name="Serving">सेवारत</string>
+	<string name="Show_More_Options">अधिक विकल्प</string>
+	<string name="show_total_with_meal">एक पोषण लक्ष्य दिखाएँ</string>
+	<string name="target_date">लक्षित तिथि</string>
+	<string name="target_date_hint">आपका लक्ष्य दिनांक का चयन करें</string>
+	<string name="transition_name_circle">संक्रमण: सर्किल</string>
+	<string name="transition_name_name">संक्रमण: नाम</string>
+	<string name="transition_name_phone">संक्रमण: फोन</string>
+	<string name="Type_Name">खोज</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">मीट्रिक इकाइयों</string>
+	<string name="Units_US">अमेरिकी इकाइयों</string>
+	<string name="Upgrade">नवीनीकरण</string>
+	<string name="weight_gram">वजन (ग्राम)</string>
+	<string name="InvalidEmailError">अमान्य ई-मेल पता</string>
+	<string name="NoGoalsTitle">सभी प्रविष्टियाँ</string>
+	<string name="SendReportTitle">रिपोर्ट भेजें</string>
+	<string name="DeleteEntryMessage">इस प्रविष्टि को हटाएँ\?</string>
+	<string name="NewBody">कई सुधार शामिल थे: नोट्स, और अधिक खाद्य पदार्थ, बेहतर डिजाइन, और अधिक।
+मुफ्त के लिए डाउनलोड करें\?</string>
+	<string name="NewTitle">संस्करण 2.0 अब उपलब्ध है!</string>
+</resources>

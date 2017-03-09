@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AdDuplexWP8</id>
+    <version>2.8.1.0</version>
+    <title>AdDuplex for Windows Phone</title>
+    <authors>AdDuplex</authors>
+    <owners>AdDuplex</owners>
+    <licenseUrl>http://adduplex.com/</licenseUrl>
+    <projectUrl>http://adduplex.com/</projectUrl>
+    <iconUrl>http://files.adduplex.com/images/ax-32x32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AdDuplex (cross-promotion network for Windows Phone and Windows 8 apps) SDK for XAML based Windows Phone apps.</description>
+    <releaseNotes>Introduced AdDuplex tracking for WP7 apps, minor visual and stability tweaks</releaseNotes>
+    <copyright>AdDuplex</copyright>
+    <tags>adduplex ads advertising wp windows phone wp7 wp8</tags>
+  </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mdtp_white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/addInputDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/Type_Name"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:background="@android:color/transparent"
+            android:layout_margin="@dimen/margin_standard"
+            style="@style/AppTheme" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@color/button_material_dark" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_dialog_copy_from_similar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:scrollbars="vertical" />
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="?android:attr/dividerHorizontal" />
+</LinearLayout>

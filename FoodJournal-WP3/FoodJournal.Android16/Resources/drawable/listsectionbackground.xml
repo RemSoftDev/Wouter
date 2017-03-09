@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:state_checked="true" android:drawable="@color/activated_color" />
+  <item android:drawable="@android:color/transparent" />
+</selector> 
+<!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="-10dp" android:right="-10dp">
+        <shape> 
+            <solid android:color="#F2F2F2"/> 
+           <stroke android:color="#DEDEDE" android:width="1px"/> 
+        </shape>
+    </item>
+</layer-list>-->
+<!--- <shape xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <solid android:color="#FF0000"/> 
+    <stroke android:color="#33b5e5" android:width="6dp"/> 
+</shape> -->
+<!---
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:insetLeft="16dp" android:insetRight="16dp">
+	<shape android:shape="line">
+		<stroke android:width="2dp" android:color="#FF0000" />
+
+    <gradient android:startColor="#FF80" android:endColor="#F08F" android:angle="270.0" /> 
+	</shape>
+</inset>-->

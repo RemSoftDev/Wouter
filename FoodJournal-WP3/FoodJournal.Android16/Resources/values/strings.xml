@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="NavigationTitle">Food Diary</string>
+  <string name="ApplicationTitle">FOOD DIARY</string>
+  <string name="CommonItems">Common items</string>
+  <string name="Delete">Delete</string>
+  <string name="EmptyEntryList">Nothing selected</string>
+  <string name="MyRecentItems_Breakfast">Recent breakfast items</string>
+  <string name="MyRecentItems_Dinner">Recent dinner items</string>
+  <string name="MyRecentItems_Exercise">My recent excersizes</string>
+  <string name="MyRecentItems_Lunch">Recent lunch items</string>
+  <string name="MyRecentItems_Snack">Recent snack items</string>
+  <string name="PageTitle">FOOD DIARY</string>
+  <string name="PageTitleBase">FOOD DIARY - </string>
+  <string name="Period_Breakfast">Breakfast</string>
+  <string name="Period_Dinner">Dinner</string>
+  <string name="Period_Exercise">Exercise</string>
+  <string name="Period_Lunch">Lunch</string>
+  <string name="Period_Snack">Snack</string>
+  <string name="Search">Search</string>
+  <string name="Today">Today</string>
+  <string name="StandardProperty_Amount">Amount</string>
+  <string name="StandardProperty_Calcium">Calcium</string>
+  <string name="StandardProperty_Calories">Calories</string>
+  <string name="StandardProperty_Carbs">Carbs</string>
+  <string name="StandardProperty_Cholesterol">Cholesterol</string>
+  <string name="StandardProperty_Fiber">Fiber</string>
+  <string name="StandardProperty_Iron">Iron</string>
+  <string name="StandardProperty_MonoFat">Monounsaturated fat</string>
+  <string name="StandardProperty_PolyFat">Polyunsaturated fat</string>
+  <string name="StandardProperty_Potassium">Potassium</string>
+  <string name="StandardProperty_Protein">Protein</string>
+  <string name="StandardProperty_SatFat">Saturated fat</string>
+  <string name="StandardProperty_Sodium">Sodium</string>
+  <string name="StandardProperty_Sugar">Sugar</string>
+  <string name="StandardProperty_TotalFat">Total fat</string>
+  <string name="StandardProperty_VitaminC">Vitamin C</string>
+  <string name="StandardProperty_VitaminD">Vitamin D</string>
+  <string name="StandardProperty_Weight">Weight</string>
+  <string name="Preferences">Preferences</string>
+  <string name="EmptySearchList">Enter a search term</string>
+  <string name="NewItemSuffix">(new item)</string>
+  <string name="NewRecipeSuffix">(new recipe)</string>
+  <string name="SearchResults">Search results</string>
+  <string name="SearchTermNotFound">{0} not found, try changing your search term</string>
+  <string name="AcceptNew">Add</string>
+  <string name="Name">Name</string>
+  <string name="Nutrition">Nutrition</string>
+  <string name="PageTitleItemDetail">FOOD INFO</string>
+  <string name="EnterWeight">Please enter weight first</string>
+  <string name="ServingSizes">Serving size</string>
+  <string name="CantCalculateNutrition">Enter weight</string>
+  <string name="CommaListSeparater">, </string>
+  <string name="HowMuch">How much\?</string>
+  <string name="MoreOptions">more options</string>
+  <string name="NoNutritionInfo">No nutrition information</string>
+  <string name="AddServingSize">Add a serving size</string>
+  <string name="Add">Add</string>
+  <string name="SelectDate">Calendar</string>
+  <string name="Advertisement">Advertisement</string>
+  <string name="Unit_Centiliter">Centiliter</string>
+  <string name="Unit_Cup">Cup</string>
+  <string name="Unit_Deciliter">Deciliter</string>
+  <string name="Unit_FluidOunce">Fluid ounce</string>
+  <string name="Unit_Gallon">Gallon</string>
+  <string name="Unit_Gram">Gram</string>
+  <string name="Unit_Kilogram">Kilogram</string>
+  <string name="Unit_Liter">Liter</string>
+  <string name="Unit_Milliliter">Milliliter</string>
+  <string name="Unit_Ounce">Ounce</string>
+  <string name="Unit_Pint">Pint</string>
+  <string name="Unit_Pound">Pound</string>
+  <string name="Unit_Quart">Quart</string>
+  <string name="Unit_Tablespoon">Tablespoon</string>
+  <string name="Unit_Teaspoon">Teaspoon</string>
+  <string name="Units_Centiliter">Centiliters</string>
+  <string name="Units_Cup">Cups</string>
+  <string name="Units_Deciliter">Deciliters</string>
+  <string name="Units_FluidOunce">Fluid ounces</string>
+  <string name="Units_Gallon">Gallons</string>
+  <string name="Units_Gram">Grams</string>
+  <string name="Units_Kilogram">Kilograms</string>
+  <string name="Units_Liter">Liters</string>
+  <string name="Units_Milliliter">Milliliters</string>
+  <string name="Units_Ounce">Ounces</string>
+  <string name="Units_Pint">Pints</string>
+  <string name="Units_Pound">Pounds</string>
+  <string name="Units_Quart">Quarts</string>
+  <string name="Units_Tablespoon">Tablespoons</string>
+  <string name="Units_Teaspoon">Teaspoons</string>
+  <string name="DatabaseCulture">en</string>
+  <string name="SendFeedback">About</string>
+  <string name="FeedbackSubject">E-mail from Food Diary</string>
+  <string name="Equivalent">Amount:</string>
+  <string name="EnterEquivalent">\?</string>
+  <string name="Loading">loading...</string>
+  <string name="ExpiredCaption">Update Now\?</string>
+  <string name="ExpiredMessage">Thank you for using this App! This copy is now expired. But don\'t worry, we\'ll take you to the download page to update if you press Ok.</string>
+  <string name="AgentDescription">This task updates the Live Tile for the Food Diary.</string>
+  <string name="AgentDisabled">You have disabled the Live Tile application in phone settings.</string>
+  <string name="PageTitleSettings">Settings</string>
+  <string name="EnableLiveTile">Count missing meals on the app tile</string>
+  <string name="Reminders">Reminders</string>
+  <string name="SettingsScreen">Settings</string>
+  <string name="PinToStart">Set up the tile</string>
+  <string name="OpenReport">Report</string>
+  <string name="Report">Report</string>
+  <string name="CommonServingSizes">100 g|1 oz=28 g|Teaspoon=4.5 g|Tablespoon=12 g|1 serving=28 g|Piece=14 g|Slice=12 g|1 cup=237 g</string>
+  <string name="TakeAPicture">Take a picture</string>
+
+
+  <string name="ReviewBody">Thank you for using this App! If you find it useful, please help it become successful by leaving a review.</string>
+  <string name="ReviewTitle">Leave a review\?</string>
+  <string name="Goals">Goals</string>
+  <string name="NoGoalSet">No goal set</string>
+  <string name="EndOfDay">At the end of the day</string>
+  <string name="ReminderContent">What did you eat\?</string>
+  <string name="ReminderTitle">Reminder: update your diary</string>
+  <string name="ReminderDescription">selected reminders appear if you haven\'t updated your diary by the selected time</string>
+  <string name="ScreenshotTitles">Orange juice, 1 cup, Toast, 1 slice, Egg, 1 medium, Apple, Coffee, Banana</string>
+  <string name="GoalOver">{0} over goal</string>
+  <string name="GoalUnder">{0} remaining</string>
+  <string name="OpenJournal">Journal</string>
+  <string name="RemoveAdsText">Choose OK to remove advertisements from the app.</string>
+  <string name="RemoveAdsTitle">Remove Advertisements\?</string>
+  <string name="StoreException">The was a problem connecting to the Windows Phone store. Please try again later.</string>
+  <string name="Feedback_Email">Report a problem</string>
+  <string name="Feedback_EmailText">Or suggest a feature or ask a question</string>
+  <string name="Feedback_Header">
+    The quickest and easiest way to keep track of what you eat.
+
+    Scroll down for information about data accuracy.
+  </string>
+  <string name="Feedback_Rate">Rate this app</string>
+  <string name="Feedback_RateText">Specific feedback helps improve the app</string>
+  <string name="Feedback_Screenshot">Help improve the translation</string>
+  <string name="Feedback_ScreenshotText">A screen capture is included</string>
+  <string name="Feedback_Share">Share a link</string>
+  <string name="Feedback_ShareText">To download this app</string>
+  <string name="ScreenshotSubject">Food Diary text</string>
+  <string name="ShareMessage">Check out Food Diary for Windows Phone</string>
+  <string name="ShareTitle">Food Diary</string>
+  <string name="CommonItems_Breakfast">Common breakfast items</string>
+  <string name="CommonItems_Dinner">Common dinner items</string>
+  <string name="CommonItems_Lunch">Common lunch items</string>
+  <string name="CommonItems_Snack">Common snack items</string>
+  <string name="Meals">Meals</string>
+  <string name="Period_SnackMorning">Morning</string>
+  <string name="Period_SnackEarlyAfternoon">Early afternoon</string>
+  <string name="Period_SnackAfternoon">Afternoon</string>
+  <string name="Meals_SnackMorningEnabled">Separate morning snack</string>
+  <string name="Meals_SnackEarlyAfternoonEnabled">Separate early afternoon snack</string>
+  <string name="Meals_SnackAfternoonEnabled">Separate afternoon snack</string>
+  <string name="Period_SnackEvening">Evening</string>
+  <string name="Meals_SnackMidnightEnabled">Separate midnight snack</string>
+  <string name="Period_SnackMidnight">Midnight</string>
+  <string name="Meals_SnacksCombined">Combine snacks</string>
+  <string name="Meals_SnackEveningEnabled">Separate evening snack</string>
+  <string name="MyRecentItems_SnackAfternoon">Recent afternoon items</string>
+  <string name="MyRecentItems_SnackEarlyAfternoon">Recent early afternoon items</string>
+  <string name="MyRecentItems_SnackEvening">Recent evening items</string>
+  <string name="MyRecentItems_SnackMidnight">Recent midnight items</string>
+  <string name="MyRecentItems_SnackMorning">Recent morning items</string>
+  <string name="CommonItems_SnackAfternoon">Common afternoon items</string>
+  <string name="CommonItems_SnackEarlyAfternoon">Common early afternoon items</string>
+  <string name="CommonItems_SnackEvening">Common evening items</string>
+  <string name="CommonItems_SnackMidnight">Common midnight items</string>
+  <string name="CommonItems_SnackMorning">Common morning items</string>
+  <string name="UnlockFullBody">Thank you for trying the Food Diary. You have {0} trial days remaining. Press OK to unlock the app.</string>
+  <string name="UnlockFullTitle">Unlock now\?</string>
+  <string name="TrialExpiredBody">Your trial is now expired. You can still view your journal, but you can\'t add new entries. Choose OK to unlock the full version.</string>
+  <string name="TrialExpiredTitle">Trial period expired, unlock\?</string>
+  <string name="Feedback_RemoveAds">Remove Ads</string>
+  <string name="Feedback_RemoveAdsText">Permanently remove all advertisements</string>
+  <string name="Feedback_Unlock">Upgrade now</string>
+  <string name="Feedback_UnlockText">Buy the premium version</string>
+  <string name="Product_1">Remove Advertisements</string>
+  <string name="Product_2">Thank you for your support! Use this option to permanently remove advertisements from your Food Diary app.</string>
+  <string name="Screenshot_1a">Orange juice</string>
+  <string name="Screenshot_1b">1 cup</string>
+  <string name="Screenshot_2a">Toast</string>
+  <string name="Screenshot_2b">1 slice</string>
+  <string name="Screenshot_3a">Egg</string>
+  <string name="Screenshot_H1">Apple</string>
+  <string name="Screenshot_H2">Coffee</string>
+  <string name="Screenshot_H3">Banana</string>
+  <string name="StoreKeyword_1">Calorie counter</string>
+  <string name="StoreKeyword_2">Food journal</string>
+  <string name="StoreKeyword_3">Diet</string>
+  <string name="StoreKeyword_4">Calories</string>
+  <string name="StoreKeyword_5">Nutrition</string>
+  <string name="StoreText_1">Food Diary: Your diet and calorie tracking app.</string>
+  <string name="StoreText_2">
+    ABOUT THE APP:
+    Keeping track of what you eat has been shown to help prevent and stop over-eating.
+    This app helps you control your diet and eat healthier, by making it easy to track what you eat. The design is optimized to make entry as quick as possible, with 1 click entry, and recent food suggestions. The built in database already has thousands of food items and if yours are not known, adding them is easy.
+
+    PLEASE NOTE:
+    This app is free to download, and supported by advertisements. You can use it for free as long as you like. It is possible to remove the advertisement for a fee, which will also enable additional features.
+  </string>
+  <string name="StoreText_3">
+    FEATURES:
+    1. A simple and powerful design: The app opens directly on the entry screen, on the most recent meal, because that is what you\'ll use most. The design makes adding entries as simple and intuitive as possible.
+    2. One tap entry with personalized suggestions: The most common food items can immediately be selected. Starting on the second day, your recent items are suggested because you may eat the same food frequently.
+    3. Logging in is not needed: No personal data or contact information is required.
+    4. Thousands of items already in the database: Most food items have accurate information about common serving sizes, calories, carbohydrates, protein and fat.
+    5. Full off-line support: No need to be connected to the internet.
+    6. Precise entry is also easy: You can accurately enter the precise amount using a slider.
+    7. Daily reports: Using the menu, you can directly open the diary, which shows a summary of your day. Here you can switch between calories, protein and carbohydrates by pressing on little triangle.
+    8. Track your goals: After entering your personal goals, you can use the week report to see your trends.
+    9. Personal reminders help you stay on target: They are a convenient way to make sure you fill out your diary, after each meal, or at the end of the day.
+
+    It is a good idea to verify the information in the database is the same as the information on your food packaging; food nutrition fluctuates with brands and over time.
+
+    Make sure to discuss your goals with your doctor or nutrition specialist.
+  </string>
+  <string name="StoreText_4">
+    PREMIUM FEATURES:
+    1. No more advertisement.
+    2. A much larger food database.
+    3. The ability to e-mail yourself a copy of the dairy.
+    4. More configuration options, including the ability to enter up to 8 separate meals a day.
+  </string>
+  <string name="StoreText_5">Download now because you will love using it.</string>
+  <string name="AppTitle">Food Diary</string>
+  <string name="Screenshot_3b">1 medium</string>
+  <string name="EmailReport_Address">E-mail address</string>
+  <string name="EmailReport_Footer1">
+    Journal by AAA
+    Questions or comments\? Reply to BBB
+  </string>
+  <string name="EmailReport_SendNow">send now</string>
+  <string name="EmailReport_ShowSettings">Send by e-mail</string>
+  <string name="EmailReport_SubjectTemplate">Food Journal for {0}</string>
+  <string name="EmailReport_Exception">Something unexpected went wrong. The journal was not sent.</string>
+  <string name="EmailReport_InvalidEmailAddress">Please enter a valid e-mail address.</string>
+  <string name="Total">Total</string>
+  <string name="BuyNow">BUY NOW</string>
+  <string name="Feature1_Desc">All advertisements are permanently removed</string>
+  <string name="Feature1_Text">No advertisements</string>
+  <string name="Feature2_Desc">E-mail your Journal to save, print, or analyze it</string>
+  <string name="Feature2_Text">E-mail reports</string>
+  <string name="Feature3_Desc">Hundreds to thousands more food items (depending on location)</string>
+  <string name="Feature3_Text">More foods *</string>
+  <string name="Feature4_Desc">For tracking 5, 6 or more meals per day</string>
+  <string name="Feature4_Text">More meals</string>
+  <string name="Feature5_Desc">All premium features in future updates</string>
+  <string name="Feature5_Text">New features</string>
+  <string name="Feature_Footer">* NOTE: Most, but not all data comes from reputable sources. By purchasing the premium version, you accept full responsibility for the accuracy and completeness of the data. E-mail daily.journal@outlook.com for details.</string>
+  <string name="Feature_Header">Included:</string>
+  <string name="GetAllFeatures">Get ALL features!</string>
+  <string name="Price">only {0}</string>
+  <string name="Feature6_Desc">Help to keep updates of this app coming</string>
+  <string name="Feature6_Text">Support the development</string>
+  <string name="Feedback_Footer">
+    DISCLAIMER:
+    Most, but not all data points in the database come from reputable sources. We do our best to make sure all values are accurate, but cannot be held responsible for incorrect or missing data. Nutritional values vary by brand and over time. By using this app, you agree to verify and correct any data in the app, and to be fully responsible for injury or damage due to its usage.
+
+    Please let me know if there is anything I can help you with.
+  </string>
+  <string name="Product_3">Upgrade to premium</string>
+  <string name="Product_4">Get access to all features</string>
+  <string name="EmailReport_Footer2">NOTE: Most, but not all data points in the database come from reputable sources. We do our best to make sure values are accurate, but cannot be held responsible for incorrect or missing data. By using the app, you acknowledge and accept full responsibility for checking the accuracy of the data. The app allows you to update any discrepancies you may find.</string>
+  <string name="Feedback_Localize">Improve translations</string>
+  <string name="Feedback_LocalizeText">Help improve the app</string>
+  <string name="Localization_Comment">Comment</string>
+  <string name="Localization_CommentText">Enter your e-mail address if you want to be contacted.</string>
+  <string name="Localization_Description">Description:</string>
+  <string name="Localization_Good">Good</string>
+  <string name="Localization_Original">Original:</string>
+  <string name="Localization_Submit">Submit</string>
+  <string name="Localization_Text">Here you can help to improve this app.</string>
+  <string name="Localization_Translations">Translations</string>
+  <string name="Localization_TranslationsText">Please update the texts in this list with better translations. Remove all text for items that are inappropriate for your region.</string>
+  <string name="Localization_ThankYou">Thanks for your help!</string>
+  <string name="CookingTime">Cooking time</string>
+  <string name="Ingredients">Ingredients</string>
+  <string name="PageTitleRecipe">Recipe</string>
+  <string name="Recipes">My Recipes</string>
+  <string name="NoIngredients">no ingredients</string>
+  <string name="OneServing">1 serving</string>
+  <string name="AddToLauncher">Add to launcher</string>
+  <string name="Avg">Avg</string>
+  <string name="Cancel">CANCEL</string>
+  <string name="CopyFromSimilarItem">Copy from similar item</string>
+  <string name="DeleteEntry">Delete entry</string>
+  <string name="EnterTheWeightForThisAmount">Enter the weight for this amount</string>
+  <string name="MoreOptions2">More options</string>
+  <string name="None">None</string>
+  <string name="Ok">Ok</string>
+  <string name="OneDaySalePctOff">1 day sale: {0}% off</string>
+  <string name="Total2">Total</string>
+  <string name="EmailReport_Footer1a">Journal by AAA</string>
+  <string name="EmailReport_Footer1b">Questions or comments\? Reply to BBB</string>
+  <string name="Add_New">NEW ITEM</string>
+  <string name="Add_Note">ADD A NOTE</string>
+  <string name="add_target">ADD NUTRITION</string>
+  <string name="choose_time">set time</string>
+  <string name="daily_target">Nutrition</string>
+  <string name="daily_target_hint">Daily target (optional)</string>
+  <string name="describe_goal">Describe your goal here</string>
+  <string name="drawer_close">CLOSE</string>
+  <string name="drawer_open">Open</string>
+  <string name="edit_meals">CHOOSE MEALS</string>
+  <string name="enter_meal_time">Enter time for every meal</string>
+  <string name="enter_serving_weight">Enter weight (g) first</string>
+  <string name="enter_value">Enter nutrition</string>
+  <string name="get_started">Get started!</string>
+  <string name="get_started_second_text">Tap \'+\' to add an entry to your journal.</string>
+  <string name="Input_Notes">Enter your notes here</string>
+  <string name="meal_options">Meal options</string>
+  <string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+  <string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+  <string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+  <string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+  <string name="personal_goal">Personal goal</string>
+  <string name="Per_Cup">1 cup (250 grams) NOTUSED</string>
+  <string name="Per_Grams">100 gram</string>
+  <string name="portion_caption">portion</string>
+  <string name="RadioButton_Alpha">alphabetically NOTYETUSED</string>
+  <string name="RadioButton_Sort">sort by history NOTYETUSED</string>
+  <string name="Serving">Serving</string>
+  <string name="Show_More_Options">MORE OPTIONS</string>
+  <string name="show_total_with_meal">Show a nutrition target</string>
+  <string name="target_date">Target date</string>
+  <string name="target_date_hint">Choose your target date</string>
+  <string name="transition_name_circle">transition:CIRCLE</string>
+  <string name="transition_name_name">transition:NAME</string>
+  <string name="transition_name_phone">transition:PHONE</string>
+  <string name="Type_Name">Search</string>
+  <string name="Units_Kj">Kj</string>
+  <string name="Units_Metric">Metric units</string>
+  <string name="Units_US">US units</string>
+  <string name="Upgrade">Upgrade</string>
+  <string name="weight_gram">weight (g)</string>
+  <string name="InvalidEmailError">Invalid e-mail address</string>
+  <string name="NoGoalsTitle">All entries</string>
+  <string name="SendReportTitle">Send Report</string>
+  <string name="DeleteEntryMessage">Delete this entry\?</string>
+  <string name="EmptyJournalMessage">Empty Journal Message</string>
+  <string name="RemindMe">Remind me if I have not opened my journal at</string>
+  <string name="more_details">MORE DETAILS</string>
+  <string name="trail_over">
+    The trial is over, and the app is now free to use.
+    * All your data and your changes are still there.
+    * You can keep adding more entries.
+    * Some of the foods in the reference database are now locked, but you can add unlimited new items yourself.
+    * Some advanced configuration has become locked.
+    If you like the app, consider upgrading to the premium version.
+  </string>
+  <string name="edit_nutrition">CHOOSE NUTRITIONS</string>
+  <string name="trial1">Welcome to your Food Journal!</string>
+  <string name="trial2">Using this app you can keep track of your daily consumption.</string>
+  <string name="trial3">You have 7 days of full functionality.</string>
+  <string name="trial4">After this the following applies.</string>
+  <string name="trial5">All your data and your changes are still there.</string>
+  <string name="trial6">You can keep adding more entries.</string>
+  <string name="trial7">Some of the foods in the reference database are now locked, but you can add unlimited new items yourself.</string>
+  <string name="trial8">Some advanced configuration has become locked.</string>
+  <string name="trial9">If you like the app, consider upgrading to the premium version.</string>
+  <string name="trial10">Trial Period</string>
+  <string name="trial11">The app is now free to use.</string>
+  <string name="trial12">The Trial Period is over.</string>
+  <string name="trial13">You have {0} more days of full free functionality.</string>
+  <string name="NewBody">
+    Many improvements included: notes, more foods, better design, and more.
+    Download for free\?
+  </string>
+  <string name="NewTitle">Version 2.0 now available!</string>
+  <string name="more_food1">* Most, but not all data points in the database come from reputable sources. For details E-mail daily.journal@outlook.com.</string>
+  <string name="Delete_Database">Delete database</string>
+  <string name="Delete_DatabaseText">Removes all entries and custom items</string>
+  <string name="cancel">CANCEL</string>
+  <string name="ok">OK</string>
+  <string name="deletedata_text">Are you sure you want to delete all your entries, and all your changes to foods?</string>
+</resources>

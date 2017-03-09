@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">ÉTELNAPLÓ</string>
+	<string name="CommonItems">Gyakori ételek</string>
+	<string name="Delete">Törlés</string>
+	<string name="EmptyEntryList">Nincs semmi kijelölve</string>
+	<string name="MyRecentItems_Breakfast">Legutóbbi ételek reggelire</string>
+	<string name="MyRecentItems_Dinner">Legutóbbi ételek vacsorára</string>
+	<string name="MyRecentItems_Exercise">Legutóbbi edzésformám</string>
+	<string name="MyRecentItems_Lunch">Legutóbbi ételek ebédre</string>
+	<string name="MyRecentItems_Snack">Legutóbbi harapnivalók</string>
+	<string name="PageTitle">ÉTELNAPLÓ</string>
+	<string name="PageTitleBase">ÉLELMISZER-NAPLÓ- </string>
+	<string name="Period_Breakfast">Reggeli</string>
+	<string name="Period_Dinner">Vacsora</string>
+	<string name="Period_Exercise">Edzésforma</string>
+	<string name="Period_Lunch">Ebéd</string>
+	<string name="Period_Snack">Harapnivaló</string>
+	<string name="Search">Keresés</string>
+	<string name="Today">Ma</string>
+	<string name="StandardProperty_Amount">Mennyiség</string>
+	<string name="StandardProperty_Calcium">Kalcium</string>
+	<string name="StandardProperty_Calories">Kalória</string>
+	<string name="StandardProperty_Carbs">Szénhidrát</string>
+	<string name="StandardProperty_Cholesterol">Koleszterin</string>
+	<string name="StandardProperty_Fiber">Rost</string>
+	<string name="StandardProperty_Iron">Vas</string>
+	<string name="StandardProperty_MonoFat">Egyszeresen telítetlen zsír</string>
+	<string name="StandardProperty_PolyFat">Többszörösen telítetlen zsír</string>
+	<string name="StandardProperty_Potassium">Kálium</string>
+	<string name="StandardProperty_Protein">Fehérje</string>
+	<string name="StandardProperty_SatFat">Telített zsír</string>
+	<string name="StandardProperty_Sodium">Nátrium</string>
+	<string name="StandardProperty_Sugar">Cukor</string>
+	<string name="StandardProperty_TotalFat">Összes zsírtartalom</string>
+	<string name="StandardProperty_VitaminC">C-vitamin</string>
+	<string name="StandardProperty_VitaminD">D-vitamin</string>
+	<string name="StandardProperty_Weight">Tömeg</string>
+	<string name="Preferences">Beállítások</string>
+	<string name="EmptySearchList">Egy keresett kifejezés megadása</string>
+	<string name="NewItemSuffix">(új étel)</string>
+	<string name="NewRecipeSuffix"> (új recept)</string>
+	<string name="SearchResults">Keresési eredmények</string>
+	<string name="SearchTermNotFound">A(z) {0} nem található, próbálj meg egy más kifejezésre keresni</string>
+	<string name="AcceptNew">Hozzáadás</string>
+	<string name="Name">Név</string>
+	<string name="Nutrition">Tápanyagok</string>
+	<string name="PageTitleItemDetail">ÉTEL-INFÓ</string>
+	<string name="EnterWeight">Kérünk, előbb add meg a súlyt</string>
+	<string name="ServingSizes">Adag nagysága</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Mennyi\?</string>
+	<string name="MoreOptions">további beállítások</string>
+	<string name="NoNutritionInfo">Nincs tápértékre vonatkozó információ</string>
+	<string name="AddServingSize">Egy adag hozzáadása</string>
+	<string name="Add">Hozzáadás</string>
+	<string name="SelectDate">Naptár</string>
+	<string name="Advertisement">Hirdetés</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Csésze</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_FluidOunce">Folyadékuncia</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gramm</string>
+	<string name="Unit_Kilogram">Kilogramm</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Milliliter</string>
+	<string name="Unit_Ounce">Uncia</string>
+	<string name="Unit_Pint">Korsó</string>
+	<string name="Unit_Pound">Font</string>
+	<string name="Unit_Quart">Negyed gallon</string>
+	<string name="Unit_Tablespoon">Evőkanál</string>
+	<string name="Unit_Teaspoon">Teáskanál</string>
+	<string name="Units_Centiliter">Centiliter</string>
+	<string name="Units_Cup">Csésze</string>
+	<string name="Units_Deciliter">Deciliter</string>
+	<string name="Units_FluidOunce">Folyadékuncia</string>
+	<string name="Units_Gallon">Gallon</string>
+	<string name="Units_Gram">Gramm</string>
+	<string name="Units_Kilogram">Kilogramm</string>
+	<string name="Units_Liter">Liter</string>
+	<string name="Units_Milliliter">Milliliter</string>
+	<string name="Units_Ounce">Uncia</string>
+	<string name="Units_Pint">Korsó</string>
+	<string name="Units_Pound">Font</string>
+	<string name="Units_Quart">Negyed gallon</string>
+	<string name="Units_Tablespoon">Evőkanál</string>
+	<string name="Units_Teaspoon">Teáskanál</string>
+	<string name="DatabaseCulture">hu</string>
+	<string name="FeedbackSubject">E-mailek az Ételnaplótól</string>
+	<string name="Equivalent">összeg</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">betöltés...</string>
+	<string name="ExpiredCaption">Frissíted most\?</string>
+	<string name="ExpiredMessage">Köszönjük, hogy az alkalmazásunkat használod! Ez a verzió már lejárt. De ne aggódj, ha megnyomod az OK gombot, átirányítunk a letöltési oldalra, ahol frissítheted.</string>
+	<string name="AgentDescription">Ezzel a feladattal frissítheted az Élő Csempéket az Ételnaplóhoz.</string>
+	<string name="AgentDisabled">Letiltottad az Élő Csempe alkalmazást a telefon beállításaiban.</string>
+	<string name="PageTitleSettings">Beállításaim</string>
+	<string name="EnableLiveTile">A hiányzó ételek megszámolása az alkalmazás csempén</string>
+	<string name="Reminders">Emlékeztetők</string>
+	<string name="SettingsScreen">Beállítások</string>
+	<string name="PinToStart">Állítsa be a csempét</string>
+	<string name="OpenReport">Jelentés</string>
+	<string name="Report">Jelentés</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 válaszol-ra GN|Teáskanál = 4,5 válaszol-ra GN|Evőkanál = 12 g|1 adag = 28 válaszol-ra GN|Darab = 14 válaszol-ra GN|Szelet = 12 g|1 csésze = 237 g</string>
+	<string name="TakeAPicture">Fotó készítése</string>
+	<string name="ReviewBody">Köszönjük, hogy ezt az alkalmazást használod! Ha hasznosnak találod, kérünk, írd meg véleményed, ezáltal segítve a sikeressé tételét.</string>
+	<string name="ReviewTitle">Véleményt írnál\?</string>
+	<string name="Goals">Célok</string>
+	<string name="NoGoalSet">Nincs cél beállítása</string>
+	<string name="EndOfDay">A nap végén</string>
+	<string name="ReminderContent">Mit ettél\?</string>
+	<string name="ReminderTitle">Emlékeztető: Frissítsd a naplód!</string>
+	<string name="ReminderDescription">A kijelölt emlékeztetők jelennek meg, ha még nem frissítetted a naplódat a kiválasztott időpontig</string>
+	<string name="ScreenshotTitles">Narancslé, 1 pohár pirítós, 1 szelet, tojás, 1 közepes, kávé, alma, banán</string>
+	<string name="GoalOver">{0} a célon felül</string>
+	<string name="GoalUnder">{0} maradt még</string>
+	<string name="OpenJournal">Napló</string>
+	<string name="RemoveAdsText">Kattints az OK gombra, hogy eltávolítsd a hirdetéseket az alkalmazásból.</string>
+	<string name="RemoveAdsTitle">Eltávolítod a hirdetéseket\?</string>
+	<string name="StoreException">Probléma lépett fel a Windows Phone áruházhoz való kapcsolódáskor. Kérünk, próbáld újra később.</string>
+	<string name="Feedback_Email">Jelents egy problémát</string>
+	<string name="Feedback_EmailText">Javasolj egy új funkciót vagy kérdezz</string>
+	<string name="Feedback_Rate">Értékeld az alkalmazást</string>
+	<string name="Feedback_RateText">Az egyéni vélemény segít fejleszteni az alkalmazást</string>
+	<string name="Feedback_Screenshot">Segíts javítani a fordításon</string>
+	<string name="Feedback_ScreenshotText">Képernyőrögzítést is tartalmaz</string>
+	<string name="Feedback_Share">Ossz meg egy hivatkozást</string>
+	<string name="Feedback_ShareText">az alkalmazás letöltéséhez</string>
+	<string name="ScreenshotSubject">Ételnapló szövege</string>
+	<string name="ShareMessage">Próbáld ki az Ételnaplót Windows Phone-on</string>
+	<string name="ShareTitle">Ételnapló</string>
+	<string name="CommonItems_Breakfast">Gyakori ételek reggelire</string>
+	<string name="CommonItems_Dinner">Gyakori ételek vacsorára</string>
+	<string name="CommonItems_Lunch">Gyakori ételek ebédre</string>
+	<string name="CommonItems_Snack">Gyakori harapnivalók</string>
+	<string name="Meals">Étkezések</string>
+	<string name="Period_SnackMorning">Reggel</string>
+	<string name="Period_SnackEarlyAfternoon">Kora délután</string>
+	<string name="Period_SnackAfternoon">Délután</string>
+	<string name="Meals_SnackMorningEnabled">Külön harapnivaló reggelre</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Külön harapnivaló kora délutánra</string>
+	<string name="Meals_SnackAfternoonEnabled">Külön harapnivaló délutánra</string>
+	<string name="Period_SnackEvening">Este</string>
+	<string name="Meals_SnackMidnightEnabled">Külön harapnivaló éjfélre</string>
+	<string name="Period_SnackMidnight">Éjfélkor</string>
+	<string name="Meals_SnacksCombined">Harapnivalók ötvözése</string>
+	<string name="Meals_SnackEveningEnabled">Külön harapnivaló estére</string>
+	<string name="MyRecentItems_SnackAfternoon">Legutóbbi ételek délutánra</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Legutóbbi ételek kora délutánra</string>
+	<string name="MyRecentItems_SnackEvening">Legutóbbi ételek estére</string>
+	<string name="MyRecentItems_SnackMidnight">Legutóbbi ételek éjfélre</string>
+	<string name="MyRecentItems_SnackMorning">Legutóbbi ételek reggelre</string>
+	<string name="CommonItems_SnackAfternoon">Gyakori ételek délutánra</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Gyakori ételek kora délutánra</string>
+	<string name="CommonItems_SnackEvening">Gyakori ételek estére</string>
+	<string name="CommonItems_SnackMidnight">Gyakori ételek éjfélre</string>
+	<string name="CommonItems_SnackMorning">Gyakori ételek reggelire</string>
+	<string name="UnlockFullBody">Köszönjük, hogy kipróbálta a diétához. Van a(z) {0} próba napok megmaradó. Nyomja meg az OK-hoz kinyit a app.</string>
+	<string name="UnlockFullTitle">Most már kinyit\?</string>
+	<string name="TrialExpiredBody">A tárgyalást most már lejárt. Is meg a napló, de nem vehet fel új bejegyzéseket. Kattintson az OK gombra, hogy kinyit a teli változat.</string>
+	<string name="Feedback_RemoveAds">Távolítsd el a hirdetéseket</string>
+	<string name="Feedback_RemoveAdsText">Minden hirdetés végleges törlése</string>
+	<string name="StoreText_5">Töltse le most mert szeretni fogja, hogy használ ez.</string>
+	<string name="AppTitle">Ételnapló</string>
+	<string name="StoreText_4">PRÉMIUM JELLEGÉT MEGHATÁROZZA:
+1. nincs több hirdetést.
+2. egy sokkal nagyobb élelmiszer-adatbázis.
+(3) a képességét, hogy e-mail magadnak egy példányt a tej és tejtermékek.
+4. további konfigurációs beállítások, beleértve a képességét, hogy adja fel 8 külön étkezés naponta.</string>
+	<string name="StoreText_3">JELLEMZŐK:
+1. egy egyszerű és hatékony tervezése: az app nyílik közvetlenül a belépés képernyőn, a legutóbbi étkezés, mert ez az, amit majd használni most. A design teszi hozzá bejegyzéseket, mint egyszerű és intuitív, mint lehetséges.
+2. egyetlen koppintással bejegyzést személyre szabott javaslatok: A leggyakoribb élelmiszer-termékek azonnal kell kiválasztani. A második napon kezdődik, a újabb keletű cikk javasolt mert lehet enni ugyanazt az ételt, gyakran.
+(3) fakitermelés-ban nem szükséges: szükség a nem személyes adatok vagy a kapcsolattartási információkat.
+4. több ezer tétel az adatbázisban már meglévő: a legtöbb étel cikk van pontos információt közös kiszolgáló méretben, kalória, szénhidrát, fehérje és zsír. 
+5. teljes off-line támogatás: nincs szükség-hoz lenni összekapcsolt-hoz internet. 
+6. pontos bejegyzés is gyerekjáték: pontosan adja meg a pontos összegét egy csúszka segítségével.
+(7) a napi jelentések: a menü segítségével közvetlenül megnyithatja a naplót, amely mutatja a nap összefoglalása. Itt Ön válthat kalória, fehérje és szénhidrát mellett szorongató a kis háromszög.
+8. nyomon követheti a célok: megadása után a személyes célok, az a hét jelentés segítségével a trendeket látni. 
+9. személyes emlékeztető segítenek, hogy a cél: egy kényelmes módja annak, hogy győződjön meg róla, töltse ki a napló minden étkezés után, vagy a végén a nap.
+
+Ez egy jó ötlet, hogy ellenőrizze az adatok az adatbázisban ugyanaz, mint az információ az élelmiszer-csomagolás; élelmiszer táplálkozás ingadozik a márka, és idővel.
+
+Győződjön meg arról, hogy a célok beszélje meg a kezelőorvosával vagy táplálkozási szakember.</string>
+	<string name="StoreText_2">AZ APP:
+Tartás nyom-ból amit megeszel kimutatták, hogy segít megakadályoz és megáll a túlzott evés.
+Ez app segítségével Irányítsd a diéta és egészségesebben, azáltal, hogy könnyen nyomon követhető, mit eszik. A tervezés van optimalizálva, annak érdekében, hogy amilyen gyorsan csak lehetséges,-val 1 kettyenés belépés, és a legújabb élelmiszer-javaslatokat. A beépített adatbázisban már több ezer élelmiszer-termékek, és ha a tiéd nem ismertek, megadásuk szintén egyszerű.
+
+Kérjük, vegye figyelembe: Ez app szabad-hoz letölt, és a reklámok által támogatott. Használhatja az ingyenes mindaddig, amíg ön szeret. -A \' lehetséges-hoz eltávolít a hirdetés egy díjat, amely lehetővé teszi további funkciók is.</string>
+	<string name="StoreText_1">Élelmiszer-napló: A diéta és a nyomkövető app kalória.</string>
+	<string name="StoreKeyword_5">Tápanyagok</string>
+	<string name="StoreKeyword_4">Kalória</string>
+	<string name="StoreKeyword_3">Étrend</string>
+	<string name="StoreKeyword_2">Ételnapló</string>
+	<string name="StoreKeyword_1">Kalóriaszámláló</string>
+	<string name="Screenshot_H3">Banán</string>
+	<string name="Screenshot_H2">Kávé</string>
+	<string name="Screenshot_H1">Alma</string>
+	<string name="Screenshot_3a">Tojás</string>
+	<string name="Screenshot_2b">1 szelet</string>
+	<string name="Screenshot_2a">Pirítós</string>
+	<string name="Screenshot_1b">1 csésze</string>
+	<string name="Screenshot_1a">Narancslé</string>
+	<string name="Product_2">Köszönöm részére támogatásod! Ezzel a paranccsal véglegesen távolítsa el hirdetéseket a diétához app.</string>
+	<string name="Product_1">Reklámok eltávolítása</string>
+	<string name="CantCalculateNutrition">Tömeg megadása</string>
+	<string name="TrialExpiredTitle">A próbaidőszak lejárt, megvásárolnád\?</string>
+	<string name="Screenshot_3b">1 közepes</string>
+	<string name="SendFeedback">Körülbelül</string>
+	<string name="Feedback_Header">A leggyorsabb és legegyszerűbb módja annak, hogy nyomon követése, hogy mit eszik.
+
+Görgessen le, információt adatok pontosságát.</string>
+	<string name="Feedback_Unlock">Frissítsd most</string>
+	<string name="Feedback_UnlockText">Vásárold meg a prémium változatot</string>
+	<string name="EmailReport_SubjectTemplate">Ételnapló {0} számára</string>
+	<string name="EmailReport_Exception">Váratlan hiba történt. A naplót nem sikerült elküldeni.</string>
+	<string name="EmailReport_InvalidEmailAddress">Adj meg egy érvényes e-mail címet.</string>
+	<string name="Total">Összesen</string>
+	<string name="Price">csak {0}</string>
+	<string name="Feature6_Text">Fejlesztések támogatását</string>
+	<string name="Feedback_Footer">FELELŐSSÉGET KIZÁRÓ NYILATKOZAT:
+A legtöbb, de nem az összes adatpont az adatbázis megbízható forrásból származik. Mi mindent megteszünk, hogy megbizonyosodjon arról, minden érték pontos, de nem tehető felelőssé a helytelen vagy hiányzó adatok. Tápérték márka, és idővel változik. Mellett használ ez app, Ön vállalja, hogy ellenőrizze és helyesbítse az adatokat az app, és teljes mértékben felelős a sérülés vagy kár miatt a használat.
+
+Legyen szíves hadd tudjam meg, ha bármit tudok segíteni Önnek.</string>
+	<string name="Feature6_Desc">Segíts az alkalmazás további frissítéseinek megjelenésében</string>
+	<string name="GetAllFeatures">MINDEN funkció elérése</string>
+	<string name="Feature_Header">Az ár tartalmazza:</string>
+	<string name="Feature_Footer">* MEGJEGYZÉS: A legtöbb, de nem minden adat megbízható forrásból származik. A prémium változat megvásárlásával teljes felelősséget vállalsz az adatok pontosságáért és teljességét. A részletekért írj nekünk a daily.journal@outlook.com címre.</string>
+	<string name="Feature5_Text">Új funkciókat</string>
+	<string name="Feature5_Desc">A jövőbeli frissítések minden prémium funkcióját</string>
+	<string name="Feature4_Text">Még több étkezést</string>
+	<string name="Feature4_Desc">5, 6, vagy több étkezés napi nyomon követéséhez</string>
+	<string name="Feature3_Text">Még több ételt *</string>
+	<string name="Feature3_Desc">Több száz vagy ezer élelmiszer terméket (a helytől függően)</string>
+	<string name="Feature2_Text">Az e-mailes jelentéseket</string>
+	<string name="Feature2_Desc">Elküldheted a naplód e-mailben, hogy lementhesd, kinyomtathasd vagy elemezhesd</string>
+	<string name="Feature1_Text">A hirdetésmentességet</string>
+	<string name="Feature1_Desc">Minden hirdetés véglegesen törlődik.</string>
+	<string name="BuyNow">Megvásárolom most</string>
+	<string name="EmailReport_ShowSettings">Küldés e-mailben</string>
+	<string name="EmailReport_SendNow">Küldés most</string>
+	<string name="EmailReport_Address">E-mail cím</string>
+	<string name="Product_4">Kap belépés-hoz minden jellegét meghatározza</string>
+	<string name="Product_3">Feljavít-hoz prémium</string>
+	<string name="EmailReport_Footer2">MEGJEGYZÉS: Az adatbázis legtöbb, de nem minden adata megbízható forrásból származik. Mi mindent megteszünk annak érdekében, hogy az értékek pontosak legyenek, de nem vonhatnak felelősségre helytelen vagy hiányzó adatok miatt. Az alkalmazás használatával, tudomásul veszed és elfogadod a teljes felelősséget az adatok pontosságának ellenőrzésére. Az alkalmazás lehetővé teszi, hogy frissítsd az esetleges eltéréseket.</string>
+	<string name="EmailReport_Footer1">AAA napló
+Kérdése, észrevétele\? BBB válasza</string>
+	<string name="Localization_Submit">Küldés</string>
+	<string name="Localization_TranslationsText">Kérjük, frissítse a listán szereplő szövegek jobb fordításokkal. Távolítsa el az elemeket, amelyek alkalmasak a régió összes szöveget.</string>
+	<string name="Localization_ThankYou">Köszönjük a segítséged!</string>
+	<string name="Localization_Translations">Fordítások</string>
+	<string name="Localization_Text">Itt tudsz segítséget nyújtani az alkalmazás tökéletesítéséhez.</string>
+	<string name="Localization_Original">Eredeti:</string>
+	<string name="Localization_Good">Jó</string>
+	<string name="Localization_Description">Leírás:</string>
+	<string name="Feedback_LocalizeText">Segíts tökéletesíteni az alkalmazást</string>
+	<string name="Localization_CommentText">Írd be e-mail címed, ha szeretnéd, hogy felvegyük veled a kapcsolatot.</string>
+	<string name="Localization_Comment">Megjegyzés</string>
+	<string name="Feedback_Localize">Javíts a fordításon</string>
+	<string name="AddToLauncher">Hozzáadás az indítóhoz</string>
+	<string name="Avg">Átlag</string>
+	<string name="Cancel">Mégse</string>
+	<string name="CopyFromSimilarItem">Másolás hasonló ételből</string>
+	<string name="DeleteEntry">Bejegyzés törlése</string>
+	<string name="EnterTheWeightForThisAmount">A mennyiség súlyának megadása</string>
+	<string name="MoreOptions2">További beállítások</string>
+	<string name="None">Egyik sem</string>
+	<string name="Ok">Rendben</string>
+	<string name="OneDaySalePctOff">Egy napos kedvezmény: {0}%</string>
+	<string name="Total2">Összesen</string>
+	<string name="EmailReport_Footer1a">AAA naplója</string>
+	<string name="EmailReport_Footer1b">Kérdésed vagy észrevételed van\? Válaszolj BBB-nak/nek</string>
+	<string name="Add_New">ÚJ ELEM</string>
+	<string name="Add_Note">MEGJEGYZÉS HOZZÁADÁSA</string>
+	<string name="add_target">ADD HOZZÁ A TÁPLÁLKOZÁS</string>
+	<string name="choose_time">meghatározott időpontban</string>
+	<string name="daily_target">Táplálkozás</string>
+	<string name="daily_target_hint">Napi célt (nem kötelező)</string>
+	<string name="describe_goal">A cél itt leírni</string>
+	<string name="drawer_close">Zár</string>
+	<string name="drawer_open">Nyitott</string>
+	<string name="edit_meals">VÁLASSZA KI AZ ÉTELEK</string>
+	<string name="enter_meal_time">Minden étkezés időpontja</string>
+	<string name="enter_serving_weight">Először adja meg a tömeg (g)</string>
+	<string name="enter_value">Adja meg a táplálkozás</string>
+	<string name="get_started">A kezdéshez!</string>
+	<string name="get_started_second_text">Érintse meg a "+" egy bejegyzés hozzáadása a naplóhoz.</string>
+	<string name="Input_Notes">Adja meg a megjegyzések itt</string>
+	<string name="meal_options">Étkezési lehetőségek</string>
+	<string name="Period_First_Snack">Period_First_Snack megadva</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack megadva</string>
+	<string name="Period_Second_Snack">Period_First_Snack megadva</string>
+	<string name="Period_Third_Snack">Period_First_Snack megadva</string>
+	<string name="personal_goal">Személyes cél</string>
+	<string name="Per_Cup">1 csésze (250 gramm) megadva</string>
+	<string name="Per_Grams">100 gramm</string>
+	<string name="portion_caption">rész</string>
+	<string name="RadioButton_Alpha">ABC NOTYETUSED</string>
+	<string name="RadioButton_Sort">történelem NOTYETUSED rendezése</string>
+	<string name="Serving">Tálalás</string>
+	<string name="Show_More_Options">TOVÁBBI BEÁLLÍTÁSOK</string>
+	<string name="show_total_with_meal">A következő szálláshely egy táplálkozási cél</string>
+	<string name="target_date">Céldátum</string>
+	<string name="target_date_hint">Válassza ki a céldátumot.</string>
+	<string name="transition_name_circle">átmenet: kör</string>
+	<string name="transition_name_name">átmenet: név</string>
+	<string name="transition_name_phone">átmenet: telefon</string>
+	<string name="Type_Name">Szálláshelyek keresése</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metrikus mértékegységek</string>
+	<string name="Units_US">US egységek</string>
+	<string name="Upgrade">Frissítés</string>
+	<string name="weight_gram">súly (g)</string>
+	<string name="InvalidEmailError">Érvénytelen e-mail címre</string>
+	<string name="NoGoalsTitle">Az összes bejegyzés</string>
+	<string name="SendReportTitle">Jelentést küld</string>
+	<string name="DeleteEntryMessage">Törli ezt a bejegyzést\?</string>
+	<string name="NewBody">Számos fejlesztést tartalmaz: jegyzetek, több ételek, jobb design, és így tovább.
+Letölt részére szabad\?</string>
+	<string name="NewTitle">Változat 2.0 már elérhető!</string>
+</resources>

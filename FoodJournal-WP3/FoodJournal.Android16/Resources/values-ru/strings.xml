@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">ДНЕВНИК ПИТАНИЯ</string>
+	<string name="CommonItems">Типичные продукты</string>
+	<string name="Delete">удалить</string>
+	<string name="EmptyEntryList">Ничего не выбрано</string>
+	<string name="MyRecentItems_Breakfast">Недавние продукты на завтрак</string>
+	<string name="MyRecentItems_Dinner">Недавние продукты на ужин</string>
+	<string name="MyRecentItems_Exercise">Мои недавние упражнения</string>
+	<string name="MyRecentItems_Lunch">Недавние продукты на обед</string>
+	<string name="MyRecentItems_Snack">Недавние перекусы</string>
+	<string name="PageTitle">ДНЕВНИК ПИТАНИЯ</string>
+	<string name="PageTitleBase">ДНЕВНИК ПИТАНИЯ- </string>
+	<string name="Period_Breakfast">Завтрак</string>
+	<string name="Period_Dinner">Ужин</string>
+	<string name="Period_Exercise">Упражнение</string>
+	<string name="Period_Lunch">Обед</string>
+	<string name="Period_Snack">Перекус</string>
+	<string name="Search">Поиск</string>
+	<string name="Today">Сегодня</string>
+	<string name="StandardProperty_Amount">Количество</string>
+	<string name="StandardProperty_Calcium">Кальций</string>
+	<string name="StandardProperty_Calories">Калории</string>
+	<string name="StandardProperty_Carbs">Углеводы</string>
+	<string name="StandardProperty_Cholesterol">Холестерин</string>
+	<string name="StandardProperty_Fiber">Клетчатка</string>
+	<string name="StandardProperty_Iron">Железо</string>
+	<string name="StandardProperty_MonoFat">Мононенасыщенные жиры</string>
+	<string name="StandardProperty_PolyFat">Полиненасыщенные жиры</string>
+	<string name="StandardProperty_Potassium">Калий</string>
+	<string name="StandardProperty_Protein">Белок</string>
+	<string name="StandardProperty_SatFat">Насыщенные жиры</string>
+	<string name="StandardProperty_Sodium">Натрий</string>
+	<string name="StandardProperty_Sugar">Сахар</string>
+	<string name="StandardProperty_TotalFat">Общее количество жиров</string>
+	<string name="StandardProperty_VitaminC">Витамин С</string>
+	<string name="StandardProperty_VitaminD">Витамин D</string>
+	<string name="StandardProperty_Weight">Вес</string>
+	<string name="Preferences">Настройки</string>
+	<string name="EmptySearchList">Введите слово для поиска</string>
+	<string name="NewItemSuffix">(новый продукт)</string>
+	<string name="NewRecipeSuffix"> (новый рецепт)</string>
+	<string name="SearchResults">Результаты поиска</string>
+	<string name="SearchTermNotFound">{0} не найдено, попробуйте изменить условия поиска</string>
+	<string name="AcceptNew">добавить</string>
+	<string name="Name">имя</string>
+	<string name="Nutrition">Питание</string>
+	<string name="PageTitleItemDetail">ИНФОРМАЦИЯ О ПРОДУКТЕ</string>
+	<string name="EnterWeight">Сначала введите вес</string>
+	<string name="ServingSizes">Размер порции</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Сколько\?</string>
+	<string name="MoreOptions">дополнительные параметры</string>
+	<string name="NoNutritionInfo">Нет информации о пищевой ценности</string>
+	<string name="AddServingSize">Добавить размер порции</string>
+	<string name="Add">добавить</string>
+	<string name="SelectDate">Календарь</string>
+	<string name="Advertisement">Реклама</string>
+	<string name="Unit_Centiliter">Сентилитры</string>
+	<string name="Unit_Cup">Стакан</string>
+	<string name="Unit_Deciliter">Децилитр</string>
+	<string name="Unit_FluidOunce">Жидкая унция</string>
+	<string name="Unit_Gallon">Галлон</string>
+	<string name="Unit_Gram">Грамм</string>
+	<string name="Unit_Kilogram">Килограмм</string>
+	<string name="Unit_Liter">Литр</string>
+	<string name="Unit_Milliliter">Миллилитр</string>
+	<string name="Unit_Ounce">Унция</string>
+	<string name="Unit_Pint">Пинта</string>
+	<string name="Unit_Pound">Фунт</string>
+	<string name="Unit_Quart">Кварта</string>
+	<string name="Unit_Tablespoon">Столовая ложка</string>
+	<string name="Unit_Teaspoon">Чайная ложка</string>
+	<string name="Units_Centiliter">Сентилитры</string>
+	<string name="Units_Cup">Стаканы</string>
+	<string name="Units_Deciliter">Децилитры</string>
+	<string name="Units_FluidOunce">жидкие унции</string>
+	<string name="Units_Gallon">Галлоны</string>
+	<string name="Units_Gram">Граммы</string>
+	<string name="Units_Kilogram">килограммы</string>
+	<string name="Units_Liter">литры</string>
+	<string name="Units_Milliliter">миллилитры</string>
+	<string name="Units_Ounce">унции</string>
+	<string name="Units_Pint">Пинты</string>
+	<string name="Units_Pound">Фунты</string>
+	<string name="Units_Quart">Кварты</string>
+	<string name="Units_Tablespoon">Столовые ложки</string>
+	<string name="Units_Teaspoon">Чайные ложки</string>
+	<string name="DatabaseCulture">RU</string>
+	<string name="Equivalent">сумма</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">загрузка...</string>
+	<string name="ExpiredCaption">Обновить сейчас\?</string>
+	<string name="ExpiredMessage">Благодарим вас за использование этого приложения! Эта копия устарела. Но не волнуйтесь, мы переместим вас на страницу загрузки для обновления, если нажмёте кнопку ОК.</string>
+	<string name="AgentDescription">Этот процесс обновляет живой тайл Дневника Питания</string>
+	<string name="AgentDisabled">Вы отключили приложение оживления тайлов в настройках телефона.</string>
+	<string name="PageTitleSettings">Мои предпочтения</string>
+	<string name="EnableLiveTile">Показывать пропущенные приёмы пищи на живом тайле</string>
+	<string name="Reminders">Напоминания</string>
+	<string name="SettingsScreen">параметры</string>
+	<string name="PinToStart">Настройка живого тайла</string>
+	<string name="OpenReport">Отчёт</string>
+	<string name="Report">Отчёт</string>
+	<string name="TakeAPicture">Сфотографировать</string>
+	<string name="ReviewBody">Благодарим вас за использование этого приложения! Если вы считаете его полезным, пожалуйста, помогите ему стать успешным, оставив отзыв.</string>
+	<string name="ReviewTitle">Оставить отзыв\?</string>
+	<string name="Goals">Цели</string>
+	<string name="NoGoalSet">Набор не цель</string>
+	<string name="EndOfDay">В конце дня</string>
+	<string name="ReminderContent">Что вы ели\?</string>
+	<string name="ReminderTitle">Напоминание: обновите свой дневник</string>
+	<string name="ReminderDescription">выбранные напоминания отображаются, если вы не обновили свой дневник к выбранному времени</string>
+	<string name="ScreenshotTitles">Апельсиновый сок, 1 стакан, тост, 1 ломтик, яйцо, 1 средний, банан, яблоко, кофе</string>
+	<string name="CommonServingSizes">100 g|1 унций = 28 g|Чайная ложка = 4.5 g|Столовая ложка = 12 g|1 порция = 28 g|Кусок = 14 g|Кусочек = 12 g|1 стакан = 237 g</string>
+	<string name="GoalUnder">{0} осталось</string>
+	<string name="OpenJournal">Дневник</string>
+	<string name="GoalOver">{0} превышение</string>
+	<string name="RemoveAdsTitle">Удалить рекламу\?</string>
+	<string name="Feedback_ShareText">Чтобы загрузить это приложение</string>
+	<string name="ShareMessage">Попробовать Дневник питания для Windows Phone</string>
+	<string name="Feedback_Share">Поделитесь ссылкой</string>
+	<string name="Feedback_ScreenshotText">Включены скриншоты</string>
+	<string name="Feedback_Screenshot">Помогите улучшить перевод</string>
+	<string name="Feedback_RateText">Обратная связь помогает улучшить приложение</string>
+	<string name="Feedback_Rate">Оценить это приложение</string>
+	<string name="Feedback_EmailText">Или предложите функцию или задайте вопрос</string>
+	<string name="Feedback_Email">Сообщить о проблеме</string>
+	<string name="RemoveAdsText">Нажмите кнопку OK для удаления рекламы из приложения.</string>
+	<string name="FeedbackSubject">Электронные письма от Дневника питания</string>
+	<string name="ScreenshotSubject">текст Дневника питания</string>
+	<string name="ShareTitle">Дневник питания</string>
+	<string name="CommonItems_Snack">Типичные продукты на перекус</string>
+	<string name="CommonItems_Lunch">Типичные продукты на обед</string>
+	<string name="CommonItems_Dinner">Типичные продукты на ужин</string>
+	<string name="CommonItems_Breakfast">Типичные продукты на завтрак</string>
+	<string name="Meals">Приемы пищи</string>
+	<string name="Period_SnackMidnight">Полночь</string>
+	<string name="Meals_SnacksCombined">Объединить перекусы</string>
+	<string name="Meals_SnackEveningEnabled">Отдельный вечерний перекус</string>
+	<string name="MyRecentItems_SnackMorning">Недавние продукты утром</string>
+	<string name="CommonItems_SnackMorning">Типичные продукты утром</string>
+	<string name="CommonItems_SnackMidnight">Типичные продукты ночью</string>
+	<string name="CommonItems_SnackEvening">Типичные продукты вечером</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Типичные продукты в середине дня</string>
+	<string name="CommonItems_SnackAfternoon">Типичные продукты во второй половине дня</string>
+	<string name="MyRecentItems_SnackMidnight">Недавние продукты ночью</string>
+	<string name="MyRecentItems_SnackEvening">Недавние продукты вечером</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Недавние продукты в середине дня</string>
+	<string name="MyRecentItems_SnackAfternoon">Недавние продукты во второй половине дня</string>
+	<string name="Meals_SnackMidnightEnabled">Отдельный ночной перекус</string>
+	<string name="Period_SnackEvening">Вечер</string>
+	<string name="Meals_SnackAfternoonEnabled">Отдельный дневной перекус</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Отдельный ранний перекус</string>
+	<string name="Meals_SnackMorningEnabled">Отдельный утренний перекус</string>
+	<string name="Period_SnackAfternoon">Вторая половина дня</string>
+	<string name="Period_SnackEarlyAfternoon">Ранний день</string>
+	<string name="Period_SnackMorning">Утро</string>
+	<string name="UnlockFullTitle">Разблокировать теперь\?</string>
+	<string name="TrialExpiredBody">Ваш суд теперь истек. Можно просматривать ваш журнал, но нельзя добавлять новые записи. Нажмите кнопку OK, чтобы разблокировать полную версию.</string>
+	<string name="UnlockFullBody">Спасибо за Дневник питания. У вас есть {0} дней осталось. Нажмите кнопку ОК, чтобы открыть приложение.</string>
+	<string name="StoreException">Проблема подключения к хранилищу Windows Phone. Пожалуйста, повторите попытку позже.</string>
+	<string name="Feedback_RemoveAdsText">Полностью удалить всю рекламу</string>
+	<string name="Feedback_RemoveAds">Удалить рекламу</string>
+	<string name="StoreText_5">Скачайте сейчас, потому что вы будете любить, используя его.</string>
+	<string name="AppTitle">Дневник питания</string>
+	<string name="StoreText_4">ПРЕМИУМ-ФУНКЦИИ:
+1. не больше рекламы.
+2. гораздо больше база данных продуктов питания.
+3. возможность отправить себе копию молочного.
+4. Дополнительные параметры конфигурации, включая возможность вводить до 8 отдельных приемов пищи в день.</string>
+	<string name="StoreText_3">ОСОБЕННОСТИ:
+1. простой и мощный дизайн: приложение открывает непосредственно на экране входа, на последней еды, потому что это то, что вы будете использовать наиболее. Дизайн делает добавление записей как простой и интуитивно понятный как можно скорее.
+2. одно касание запись с персонализированные предложения: можно сразу выбрать наиболее распространенных продуктов питания. Начиная со второго дня, ваши недавние элементы предлагается потому, что вы можете съесть ту же пищу часто.
+3. вход в систему не требуется: требуется без личных данных или Контактная информация.
+4. тысячи элементов уже в базе: большинство продуктов питания имеют точную информацию об общих выступающей размеры, калорий, углеводов, белков и жиров. 
+5. полный офф-лайн поддержка: не нужно быть подключен к Интернету. 
+6. Точная запись также проста: вы точно можете ввести точную сумму с помощью ползунка.
+7. Ежедневные отчеты: используя меню, вы можете непосредственно открыть дневник, который показывает резюме вашего дня. Здесь вы можете переключаться между калорий, белков и углеводов, нажав на маленький треугольник.
+8. отслеживать ваши цели: после ввода ваших личных целей, можно использовать отчет недели увидеть ваши тенденции. 
+9. Персональные напоминания помогут вам остаться на цели: они представляют собой удобный способ убедиться, что вы заполните ваш дневник, после каждого приема пищи, или в конце дня.
+
+Это хорошая идея, чтобы проверить информацию в базе данных так же, как информация о вашем упаковки продуктов питания; питание питание колеблется с брендами и со временем.
+
+Убедитесь в том обсудить ваши цели с специалисту врачу или питания.</string>
+	<string name="StoreText_2">О ПРИЛОЖЕНИИ:
+Следить за то, что вы едите было показано, чтобы помочь предотвратить и остановить переедание.
+Это приложение поможет вам контролировать свой рацион и съесть здоровую, сделав его легко отслеживать, что вы едите. Конструкция оптимизирована для сделать запись, как быстро, насколько возможно, с 1 нажмите Вход, и последние предложения. Построен в базе данных уже есть тысячи наименований продуктов питания и если у вас не известны, добавляя их легко.
+
+Пожалуйста, обратите внимание: Это приложение является бесплатным для загрузки и поддерживается объявлений. Можно использовать бесплатно до тех пор, как вам нравится. Это позволяет удалить рекламу за определенную плату, которая будет также включить дополнительные функции.</string>
+	<string name="StoreText_1">Пищевой дневник: Вашей диеты и калории, отслеживания приложения.</string>
+	<string name="StoreKeyword_5">Питание</string>
+	<string name="StoreKeyword_4">Калории</string>
+	<string name="StoreKeyword_3">Диета</string>
+	<string name="StoreKeyword_2">Журнал питания</string>
+	<string name="StoreKeyword_1">Счетчик калорий</string>
+	<string name="Screenshot_H3">Банан</string>
+	<string name="Screenshot_H2">кофе</string>
+	<string name="Screenshot_H1">яблоко</string>
+	<string name="Screenshot_3a">Яйцо</string>
+	<string name="Screenshot_2b">1 ломтик</string>
+	<string name="Screenshot_2a">Тост</string>
+	<string name="Screenshot_1b">1 чашка</string>
+	<string name="Screenshot_1a">Апельсиновый сок</string>
+	<string name="Product_2">Спасибо вам за вашу поддержку! Используйте этот параметр, чтобы окончательно удалить рекламу с вашего приложения пищевой дневник.</string>
+	<string name="Product_1">Удаление рекламы</string>
+	<string name="CantCalculateNutrition">Введите вес</string>
+	<string name="TrialExpiredTitle">Пробный период истек, разблокировать\?</string>
+	<string name="Screenshot_3b">1 среднее</string>
+	<string name="SendFeedback">О</string>
+	<string name="Feedback_UnlockText">Купить премиум-версию</string>
+	<string name="EmailReport_SubjectTemplate">Журнал питания для {0}</string>
+	<string name="EmailReport_Exception">Что-то неожиданное пошло не так. Журнал не был отправлен.</string>
+	<string name="EmailReport_InvalidEmailAddress">Пожалуйста, введите действующий адрес электронной почты.</string>
+	<string name="Total">Итого</string>
+	<string name="Price">только {0}</string>
+	<string name="Feature6_Text">Поддержите разработку</string>
+	<string name="Feedback_Footer">ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ:
+Большинство, но не все точки данных в базе данных поступают из авторитетных источников. Мы делаем все возможное, чтобы убедиться, что все значения верны, но не может нести ответственность за неправильные или отсутствующие данные. Питательной ценности различаются по марке и с течением времени. С помощью этого приложения, вы соглашаетесь, чтобы проверить и исправить любые данные в приложении и нести полную ответственность за травмы или ущерба в результате его использования.
+
+Пожалуйста, дайте мне знать, если есть что-то я могу вам помочь.</string>
+	<string name="Feature6_Desc">Помогает продолжать обновления этого приложения</string>
+	<string name="GetAllFeatures">Получите ВСЕ возможности</string>
+	<string name="Feature_Header">Включено:</string>
+	<string name="Feature_Footer">* Примечание: Большинство, но не все сведения взяты из авторитетных источников. Приобретая премиум-версию, вы принимаете на себя полную ответственность за точность и полноту данных. Пишите на электронную почту daily.journal@outlook.com для уточнения детал</string>
+	<string name="Feature5_Text">Новые функции</string>
+	<string name="Feature5_Desc">Все премиум-функции будущих обновлений</string>
+	<string name="Feature4_Text">Больше приемов пищи</string>
+	<string name="Feature4_Desc">Для отслеживания 5, 6 или более приемов пищи в день</string>
+	<string name="Feature3_Text">Больше продуктов *</string>
+	<string name="Feature3_Desc">Сотни и тысячи дополнительных продуктов (в зависимости от местоположения)</string>
+	<string name="Feature2_Text">Отчеты по электронной почте</string>
+	<string name="Feature2_Desc">Отправьте свой журнал по электронной почте, чтобы сохранить, распечатать или проанализировать</string>
+	<string name="Feature1_Text">Нет рекламы</string>
+	<string name="Feature1_Desc">Вся реклама убирается навсегда</string>
+	<string name="BuyNow">Купить сейчас</string>
+	<string name="EmailReport_ShowSettings">Отправить по электронной почте</string>
+	<string name="EmailReport_SendNow">Отправить сейчас</string>
+	<string name="EmailReport_Address">Адрес электронной почты</string>
+	<string name="Feedback_Unlock">Обновить сейчас</string>
+	<string name="Feedback_Header">Быстрый и простой способ для отслеживания того, что вы едите.
+
+Прокрутите вниз для получения информации о точности данных.</string>
+	<string name="Product_4">Получить доступ ко всем функциям</string>
+	<string name="Product_3">Переидите на премиум</string>
+	<string name="EmailReport_Footer2">Примечание: Большинство, но не все сведения в базе данных взяты из авторитетных источников. Мы делаем все возможное, чтобы убедиться, что значения верны, но не можем нести ответственность за неправильные или отсутствующие данные. Используя приложение, вы признаете и принимаете на себя всю ответственность за проверку точности данных. Приложение позволяет вам обновлять любые найденные расхождения.</string>
+	<string name="EmailReport_Footer1">Журнал AAA 
+Вопросы или комментарии\? Отвечайте BBB</string>
+	<string name="Localization_Submit">Отправить</string>
+	<string name="Localization_TranslationsText">Пожалуйста, обновите тексты в этом списке с переводами лучше. Удалите весь текст для элементов, которые не подходят для вашего региона.</string>
+	<string name="Localization_ThankYou">Спасибо за вашу помощь!</string>
+	<string name="Localization_Translations">Переводы</string>
+	<string name="Localization_Text">Здесь вы можете помочь улучшить это приложение.</string>
+	<string name="Localization_Original">Исходный текст:</string>
+	<string name="Localization_Good">Хороший</string>
+	<string name="Localization_Description">Описание:</string>
+	<string name="Feedback_LocalizeText">Помогите улучшать приложение</string>
+	<string name="Localization_CommentText">Введите свой адрес электронной почты, если вы хотите, чтобы мы с вами связались.</string>
+	<string name="Localization_Comment">Комментарий</string>
+	<string name="Feedback_Localize">Улучшить переводы</string>
+	<string name="AddToLauncher">Добавить ярлык на экран</string>
+	<string name="Avg">Сред.</string>
+	<string name="Cancel">Отмена</string>
+	<string name="CopyFromSimilarItem">Копировать из похожего элемента</string>
+	<string name="DeleteEntry">Удалить запись</string>
+	<string name="EnterTheWeightForThisAmount">Введите вес для этого значения</string>
+	<string name="MoreOptions2">Больше настроек</string>
+	<string name="None">Нет</string>
+	<string name="Ok">Ок</string>
+	<string name="OneDaySalePctOff">акция 1 день: скидка {0}%</string>
+	<string name="Total2">Всего</string>
+	<string name="EmailReport_Footer1a">Журнал добавил AAA</string>
+	<string name="EmailReport_Footer1b">Вопросы или комментарии\? Ответ на BBB</string>
+	<string name="Add_New">НОВОЕ БЛЮДО</string>
+	<string name="Add_Note">ДОБАВИТЬ ЗАМЕТКУ</string>
+	<string name="add_target">ДОБАВИТЬ ПИЩЕВУЮ ЦЕННОСТЬ</string>
+	<string name="choose_time">установить время</string>
+	<string name="daily_target">Пищевая ценность</string>
+	<string name="daily_target_hint">Ежедневная цель (необязательно)</string>
+	<string name="describe_goal">Опишите свою цель</string>
+	<string name="drawer_close">Закрыть</string>
+	<string name="drawer_open">Открыть</string>
+	<string name="edit_meals">ВЫБРАТЬ БЛЮДА</string>
+	<string name="enter_meal_time">Введите время для каждого приема пищи</string>
+	<string name="enter_serving_weight">Сначала введите вес (г)</string>
+	<string name="enter_value">Введите пищевую ценность</string>
+	<string name="get_started">Начинаем!</string>
+	<string name="get_started_second_text">Нажмите "+", чтобы добавить запись в журнал.</string>
+	<string name="Input_Notes">Введите заметку здесь</string>
+	<string name="meal_options">Варианты блюд</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Личная цель</string>
+	<string name="Per_Cup">1 чашка (250 граммов) NOTUSED</string>
+	<string name="Per_Grams">100 грамм</string>
+	<string name="portion_caption">порция</string>
+	<string name="RadioButton_Alpha">алфавитном порядке NOTYETUSED</string>
+	<string name="RadioButton_Sort">Сортировать по истории NOTYETUSED</string>
+	<string name="Serving">Порция</string>
+	<string name="Show_More_Options">ЕЩЕ ВАРИАНТЫ</string>
+	<string name="show_total_with_meal">Показать целевую пищевую ценность</string>
+	<string name="target_date">Целевая дата</string>
+	<string name="target_date_hint">Выберите целевую дату</string>
+	<string name="transition_name_circle">Переход: круг</string>
+	<string name="transition_name_name">Переход: имя</string>
+	<string name="transition_name_phone">Переход: Телефон</string>
+	<string name="Type_Name">Поиск</string>
+	<string name="Units_Kj">кДж</string>
+	<string name="Units_Metric">Метрические единицы</string>
+	<string name="Units_US">Единицы США</string>
+	<string name="Upgrade">Обновить</string>
+	<string name="weight_gram">вес (г)</string>
+	<string name="InvalidEmailError">Недопустимый адрес электронной почты</string>
+	<string name="NoGoalsTitle">Все записи</string>
+	<string name="SendReportTitle">Отправить отчет</string>
+	<string name="DeleteEntryMessage">Удалить эту запись\?</string>
+	<string name="NewBody">Множество улучшений, которые включали: заметки, больше продуктов питания, лучше дизайн и многое другое.
+Скачать бесплатно\?</string>
+	<string name="NewTitle">Версия 2.0 теперь доступна!</string>
+</resources>

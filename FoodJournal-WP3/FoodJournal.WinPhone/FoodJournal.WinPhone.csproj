@@ -1,0 +1,985 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF6AF42F-9D38-4FC4-9CB2-29B4E4201600}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FoodJournal.WinPhone</RootNamespace>
+    <AssemblyName>FoodJournal.WinPhone</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>ar-SA;bg-BG;ca-ES;cs-CZ;da-DK;de-DE;el-GR;en-GB;es-ES;es-MX;et-EE;fa-IR;fi-FI;fr-FR;he-IL;hi-IN;hu-HU;id-ID;it-IT;ja-JP;ko-KR;lt-LT;lv-LV;ms-MY;nb-NO;nl-NL;pl-PL;pt-BR;pt-PT;qps-ploc;ro-RO;ru-RU;sk-SK;sl-SI;sv-SE;th-TH;tr-TR;uk-UA;vi-VN;zh-CN;zh-TW</SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>FoodJournal.WinPhone_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>FoodJournal.WinPhone.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>TRACE;DEBUG;SILVERLIGHT;WINDOWS_PHONE;USE_WP8_NATIVE_SQLITE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release\</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\FoodJournal.Common\AppModel\AppStats.cs">
+      <Link>Common\AppModel\AppStats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\IsolatedStorageCompat.cs">
+      <Link>Common\AppModel\Data\IsolatedStorageCompat.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\LocalDB.cs">
+      <Link>Common\AppModel\Data\LocalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\ModelObject.cs">
+      <Link>Common\AppModel\Data\ModelObject.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\DataContractSerialization.cs">
+      <Link>Common\AppModel\Data\Serialization\DataContractSerialization.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\Serializer.cs">
+      <Link>Common\AppModel\Data\Serialization\Serializer.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SQLiteCompat.cs">
+      <Link>Common\AppModel\Data\SQLiteCompat.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SyncQueue.cs">
+      <Link>Common\AppModel\Data\SyncQueue.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\LocalStorage.cs">
+      <Link>Common\AppModel\LocalStorage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LittleWatson.cs">
+      <Link>Common\AppModel\Logging\LittleWatson.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LogEntryType.cs">
+      <Link>Common\AppModel\Logging\LogEntryType.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\PerformanceScope.cs">
+      <Link>Common\AppModel\Logging\PerformanceScope.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\SessionLog.cs">
+      <Link>Common\AppModel\Logging\SessionLog.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageCenter.cs">
+      <Link>Common\AppModel\MessageCenter.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\EmailOutMessage.cs">
+      <Link>Common\AppModel\MessageQueue\EmailOutMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\ExceptionMessage.cs">
+      <Link>Common\AppModel\MessageQueue\ExceptionMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueue.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueue.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueDB.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueRow.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueRow.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MilestoneMessage.cs">
+      <Link>Common\AppModel\MessageQueue\MilestoneMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Platform.cs">
+      <Link>Common\AppModel\Platform.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Reference.cs">
+      <Link>Common\AppModel\Service References\Reference.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Services.cs">
+      <Link>Common\AppModel\Service References\Services.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\SyncService.cs">
+      <Link>Common\AppModel\Service References\SyncService.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\BackgroundTask.cs">
+      <Link>Common\AppModel\UI\BackgroundTask.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Compatibility.cs">
+      <Link>Common\AppModel\UI\Compatibility.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\LocalizedStrings.cs">
+      <Link>Common\AppModel\UI\LocalizedStrings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\MenuLink.cs">
+      <Link>Common\AppModel\UI\MenuLink.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\SafeHandler.cs">
+      <Link>Common\AppModel\UI\SafeHandler.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Screen.cs">
+      <Link>Common\AppModel\UI\Screen.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\VMBase.cs">
+      <Link>Common\AppModel\UI\VMBase.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\DateTimeExtensions.cs">
+      <Link>Common\Extensions\DateTimeExtensions.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Floats.cs">
+      <Link>Common\Extensions\Floats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Ints.cs">
+      <Link>Common\Extensions\Ints.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\SortedList.cs">
+      <Link>Common\Extensions\SortedList.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Strings.cs">
+      <Link>Common\Extensions\Strings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\EntryUpdatedMessage.cs">
+      <Link>Common\Messages\EntryUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\PictureMessage.cs">
+      <Link>Common\Messages\PictureMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\RecipeUpdatedMessage.cs">
+      <Link>Common\Messages\RecipeUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ScreenshotMessage.cs">
+      <Link>Common\Messages\ScreenshotMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ServiceSearchMessage.cs">
+      <Link>Common\Messages\ServiceSearchMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\TranslationsMessage.cs">
+      <Link>Common\Messages\TranslationsMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Cache.cs">
+      <Link>Common\Model\Cache.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\CultureSettings.cs">
+      <Link>Common\Model\CultureSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDataModel.cs">
+      <Link>Common\Model\Data\FoodJournalDataModel.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDB.cs">
+      <Link>Common\Model\Data\FoodJournalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Entry.cs">
+      <Link>Common\Model\Entry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\FoodItem.cs">
+      <Link>Common\Model\FoodItem.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\NoSQL\FoodJournalNoSQL.cs">
+      <Link>Common\Model\NoSQL\FoodJournalNoSQL.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Pictures.cs">
+      <Link>Common\Model\Pictures.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\PropertyDictionary.cs">
+      <Link>Common\Model\PropertyDictionary.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Recipe.cs">
+      <Link>Common\Model\Recipe.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\ServingSizeCollection.cs">
+      <Link>Common\Model\ServingSizeCollection.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\TranslationRequest.cs">
+      <Link>Common\Model\TranslationRequest.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\UserSettings.cs">
+      <Link>Common\Model\UserSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceDatabase2.cs">
+      <Link>Common\ResourceData\ResourceDatabase2.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceRecord2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceRecord2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceSearch2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceSearch2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Resources\AppResources.Designer.cs">
+      <Link>Common\Resources\AppResources.Designer.cs</Link>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\NavigationContext.cs">
+      <Link>Common\Runtime\NavigationContext.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\ScreenshotVM.cs">
+      <Link>Common\Runtime\ScreenshotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkers.cs">
+      <Link>Common\Search\SearchWorkers.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkerServices.cs">
+      <Link>Common\Search\SearchWorkerServices.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Amount.cs">
+      <Link>Common\Values\Amount.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Period.cs">
+      <Link>Common\Values\Period.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Property.cs">
+      <Link>Common\Values\Property.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Unit.cs">
+      <Link>Common\Values\Unit.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\DayPivotVM.cs">
+      <Link>Common\ViewModels\DayPivotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\EntryDetailVM.cs">
+      <Link>Common\ViewModels\EntryDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountCollectionVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountCollectionVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\EntryRowVM.cs">
+      <Link>Common\ViewModels\Fragments\EntryRowVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IAcceptsNewEntry.cs">
+      <Link>Common\ViewModels\Fragments\IAcceptsNewEntry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IngredientVM.cs">
+      <Link>Common\ViewModels\Fragments\IngredientVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PicturesVM.cs">
+      <Link>Common\ViewModels\Fragments\PicturesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PropertyVM.cs">
+      <Link>Common\ViewModels\Fragments\PropertyVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\SearchResultVM.cs">
+      <Link>Common\ViewModels\Fragments\SearchResultVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\WeekStatsVM.cs">
+      <Link>Common\ViewModels\Fragments\WeekStatsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\JournalVM.cs">
+      <Link>Common\ViewModels\JournalVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\LocalizationVM.cs">
+      <Link>Common\ViewModels\LocalizationVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\PeriodVM.cs">
+      <Link>Common\ViewModels\PeriodVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipeDetailVM.cs">
+      <Link>Common\ViewModels\RecipeDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipesVM.cs">
+      <Link>Common\ViewModels\RecipesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SearchVM.cs">
+      <Link>Common\ViewModels\SearchVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SettingsVM.cs">
+      <Link>Common\ViewModels\SettingsVM.cs</Link>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Resources.cs" />
+    <Compile Include="Views\BuyNow.xaml.cs">
+      <DependentUpon>BuyNow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Camera.xaml.cs">
+      <DependentUpon>Camera.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\Advertisement.xaml.cs">
+      <DependentUpon>Advertisement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\JournalView.xaml.cs">
+      <DependentUpon>JournalView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\PeriodView.xaml.cs">
+      <DependentUpon>PeriodView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\PicturesView.xaml.cs">
+      <DependentUpon>PicturesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\ServingSizes.xaml.cs">
+      <DependentUpon>ServingSizes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\WeekStatsView.xaml.cs">
+      <DependentUpon>WeekStatsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DayPivot.xaml.cs">
+      <DependentUpon>DayPivot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\EntryDetail.xaml.cs">
+      <DependentUpon>EntryDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Feedback.xaml.cs">
+      <DependentUpon>Feedback.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Journal.xaml.cs">
+      <DependentUpon>Journal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Localization.xaml.cs">
+      <DependentUpon>Localization.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report.xaml.cs">
+      <DependentUpon>Report.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SearchPage.xaml.cs">
+      <DependentUpon>SearchPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Splash.xaml.cs">
+      <DependentUpon>Splash.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Views\BuyNow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Camera.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\Advertisement.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\JournalView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\PeriodView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\PicturesView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\ServingSizes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Controls\WeekStatsView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\DayPivot.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\EntryDetail.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Feedback.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Journal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Localization.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Report.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\SearchPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Settings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Splash.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="README_FIRST.txt" />
+    <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+    <None Include="..\FoodJournal.Common\AppModel\Service References\makesvc.bat">
+      <Link>Common\AppModel\Service References\makesvc.bat</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="AppResLib.dll.0401.mui" />
+    <Content Include="AppResLib.dll.0402.mui" />
+    <Content Include="AppResLib.dll.0403.mui" />
+    <Content Include="AppResLib.dll.0404.mui" />
+    <Content Include="AppResLib.dll.0405.mui" />
+    <Content Include="AppResLib.dll.0406.mui" />
+    <Content Include="AppResLib.dll.0407.mui" />
+    <Content Include="AppResLib.dll.0408.mui" />
+    <Content Include="AppResLib.dll.0409.mui" />
+    <Content Include="AppResLib.dll.040B.mui" />
+    <Content Include="AppResLib.dll.040c.mui" />
+    <Content Include="AppResLib.dll.040d.mui" />
+    <Content Include="AppResLib.dll.040E.mui" />
+    <Content Include="AppResLib.dll.0410.mui" />
+    <Content Include="AppResLib.dll.0411.mui" />
+    <Content Include="AppResLib.dll.0412.mui" />
+    <Content Include="AppResLib.dll.0413.mui" />
+    <Content Include="AppResLib.dll.0414.mui" />
+    <Content Include="AppResLib.dll.0415.mui" />
+    <Content Include="AppResLib.dll.0416.mui" />
+    <Content Include="AppResLib.dll.0418.mui" />
+    <Content Include="AppResLib.dll.0419.mui" />
+    <Content Include="AppResLib.dll.041b.mui" />
+    <Content Include="AppResLib.dll.041D.mui" />
+    <Content Include="AppResLib.dll.041e.mui" />
+    <Content Include="AppResLib.dll.041f.mui" />
+    <Content Include="AppResLib.dll.0421.mui" />
+    <Content Include="AppResLib.dll.0422.mui" />
+    <Content Include="AppResLib.dll.0424.mui" />
+    <Content Include="AppResLib.dll.0425.mui" />
+    <Content Include="AppResLib.dll.0426.mui" />
+    <Content Include="AppResLib.dll.0427.mui" />
+    <Content Include="AppResLib.dll.0429.mui" />
+    <Content Include="AppResLib.dll.042a.mui" />
+    <Content Include="AppResLib.dll.0439.mui" />
+    <Content Include="AppResLib.dll.043e.mui" />
+    <Content Include="AppResLib.dll.0804.mui" />
+    <Content Include="AppResLib.dll.0809.mui" />
+    <Content Include="AppResLib.dll.080a.mui" />
+    <Content Include="AppResLib.dll.0816.mui" />
+    <Content Include="AppResLib.dll.0c0a.mui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ar-Data.txt">
+      <Link>Common\ResourceData\V2-ar-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ar-Index.txt">
+      <Link>Common\ResourceData\V2-ar-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-bg-Data.txt">
+      <Link>Common\ResourceData\V2-bg-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-bg-Index.txt">
+      <Link>Common\ResourceData\V2-bg-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-br-Data.txt">
+      <Link>Common\ResourceData\V2-br-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-br-Index.txt">
+      <Link>Common\ResourceData\V2-br-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ca-Data.txt">
+      <Link>Common\ResourceData\V2-ca-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ca-Index.txt">
+      <Link>Common\ResourceData\V2-ca-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-cs-Data.txt">
+      <Link>Common\ResourceData\V2-cs-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-cs-Index.txt">
+      <Link>Common\ResourceData\V2-cs-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-da-Data.txt">
+      <Link>Common\ResourceData\V2-da-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-da-Index.txt">
+      <Link>Common\ResourceData\V2-da-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-de-Data.txt">
+      <Link>Common\ResourceData\V2-de-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-de-Index.txt">
+      <Link>Common\ResourceData\V2-de-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-el-Data.txt">
+      <Link>Common\ResourceData\V2-el-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-el-Index.txt">
+      <Link>Common\ResourceData\V2-el-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-en-Data.txt">
+      <Link>Common\ResourceData\V2-en-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-en-Index.txt">
+      <Link>Common\ResourceData\V2-en-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-es-Data.txt">
+      <Link>Common\ResourceData\V2-es-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-es-Index.txt">
+      <Link>Common\ResourceData\V2-es-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-et-Data.txt">
+      <Link>Common\ResourceData\V2-et-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-et-Index.txt">
+      <Link>Common\ResourceData\V2-et-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fa-Data.txt">
+      <Link>Common\ResourceData\V2-fa-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fa-Index.txt">
+      <Link>Common\ResourceData\V2-fa-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fi-Data.txt">
+      <Link>Common\ResourceData\V2-fi-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fi-Index.txt">
+      <Link>Common\ResourceData\V2-fi-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fr-Data.txt">
+      <Link>Common\ResourceData\V2-fr-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-fr-Index.txt">
+      <Link>Common\ResourceData\V2-fr-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-gb-Data.txt">
+      <Link>Common\ResourceData\V2-gb-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-gb-Index.txt">
+      <Link>Common\ResourceData\V2-gb-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-he-Data.txt">
+      <Link>Common\ResourceData\V2-he-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-he-Index.txt">
+      <Link>Common\ResourceData\V2-he-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-hi-Data.txt">
+      <Link>Common\ResourceData\V2-hi-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-hi-Index.txt">
+      <Link>Common\ResourceData\V2-hi-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-hu-Data.txt">
+      <Link>Common\ResourceData\V2-hu-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-hu-Index.txt">
+      <Link>Common\ResourceData\V2-hu-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-id-Data.txt">
+      <Link>Common\ResourceData\V2-id-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-id-Index.txt">
+      <Link>Common\ResourceData\V2-id-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-it-Data.txt">
+      <Link>Common\ResourceData\V2-it-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-it-Index.txt">
+      <Link>Common\ResourceData\V2-it-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ja-Data.txt">
+      <Link>Common\ResourceData\V2-ja-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ja-Index.txt">
+      <Link>Common\ResourceData\V2-ja-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ko-Data.txt">
+      <Link>Common\ResourceData\V2-ko-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ko-Index.txt">
+      <Link>Common\ResourceData\V2-ko-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-lt-Data.txt">
+      <Link>Common\ResourceData\V2-lt-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-lt-Index.txt">
+      <Link>Common\ResourceData\V2-lt-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-lv-Data.txt">
+      <Link>Common\ResourceData\V2-lv-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-lv-Index.txt">
+      <Link>Common\ResourceData\V2-lv-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ms-Data.txt">
+      <Link>Common\ResourceData\V2-ms-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ms-Index.txt">
+      <Link>Common\ResourceData\V2-ms-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-mx-Data.txt">
+      <Link>Common\ResourceData\V2-mx-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-mx-Index.txt">
+      <Link>Common\ResourceData\V2-mx-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-nl-Data.txt">
+      <Link>Common\ResourceData\V2-nl-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-nl-Index.txt">
+      <Link>Common\ResourceData\V2-nl-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-no-Data.txt">
+      <Link>Common\ResourceData\V2-no-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-no-Index.txt">
+      <Link>Common\ResourceData\V2-no-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-pl-Data.txt">
+      <Link>Common\ResourceData\V2-pl-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-pl-Index.txt">
+      <Link>Common\ResourceData\V2-pl-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-pt-Data.txt">
+      <Link>Common\ResourceData\V2-pt-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-pt-Index.txt">
+      <Link>Common\ResourceData\V2-pt-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ro-Data.txt">
+      <Link>Common\ResourceData\V2-ro-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ro-Index.txt">
+      <Link>Common\ResourceData\V2-ro-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ru-Data.txt">
+      <Link>Common\ResourceData\V2-ru-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-ru-Index.txt">
+      <Link>Common\ResourceData\V2-ru-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sk-Data.txt">
+      <Link>Common\ResourceData\V2-sk-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sk-Index.txt">
+      <Link>Common\ResourceData\V2-sk-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sl-Data.txt">
+      <Link>Common\ResourceData\V2-sl-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sl-Index.txt">
+      <Link>Common\ResourceData\V2-sl-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sv-Data.txt">
+      <Link>Common\ResourceData\V2-sv-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-sv-Index.txt">
+      <Link>Common\ResourceData\V2-sv-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-th-Data.txt">
+      <Link>Common\ResourceData\V2-th-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-th-Index.txt">
+      <Link>Common\ResourceData\V2-th-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-tr-Data.txt">
+      <Link>Common\ResourceData\V2-tr-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-tr-Index.txt">
+      <Link>Common\ResourceData\V2-tr-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-uk-Data.txt">
+      <Link>Common\ResourceData\V2-uk-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-uk-Index.txt">
+      <Link>Common\ResourceData\V2-uk-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-vi-Data.txt">
+      <Link>Common\ResourceData\V2-vi-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-vi-Index.txt">
+      <Link>Common\ResourceData\V2-vi-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-zh-Data.txt">
+      <Link>Common\ResourceData\V2-zh-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-zh-Index.txt">
+      <Link>Common\ResourceData\V2-zh-Index.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-zt-Data.txt">
+      <Link>Common\ResourceData\V2-zt-Data.txt</Link>
+    </Content>
+    <Content Include="..\FoodJournal.Common\ResourceData\V2-zt-Index.txt">
+      <Link>Common\ResourceData\V2-zt-Index.txt</Link>
+    </Content>
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Resources\Icons\ApplicationBar.Add.png" />
+    <Content Include="Resources\Icons\ApplicationBar.Cancel.png" />
+    <Content Include="Resources\Icons\ApplicationBar.Check.png" />
+    <Content Include="Resources\Icons\ApplicationBar.Delete.png" />
+    <Content Include="Resources\Icons\ApplicationBar.Select.png" />
+    <Content Include="Resources\Icons\cancel.png" />
+    <Content Include="Resources\Icons\lock.png" />
+    <Content Include="Resources\IconTransparent.png" />
+    <Content Include="Resources\LockIcon.png" />
+    <Content Include="Resources\TileTransparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ar-SA.resx">
+      <Link>Common\Resources\AppResources.ar-SA.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.bg-BG.resx">
+      <Link>Common\Resources\AppResources.bg-BG.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ca-ES.resx">
+      <Link>Common\Resources\AppResources.ca-ES.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.cs-CZ.resx">
+      <Link>Common\Resources\AppResources.cs-CZ.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.da-DK.resx">
+      <Link>Common\Resources\AppResources.da-DK.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.de-DE.resx">
+      <Link>Common\Resources\AppResources.de-DE.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.el-GR.resx">
+      <Link>Common\Resources\AppResources.el-GR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.en-GB.resx">
+      <Link>Common\Resources\AppResources.en-GB.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.es-ES.resx">
+      <Link>Common\Resources\AppResources.es-ES.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.es-MX.resx">
+      <Link>Common\Resources\AppResources.es-MX.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.et-EE.resx">
+      <Link>Common\Resources\AppResources.et-EE.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.fa-IR.resx">
+      <Link>Common\Resources\AppResources.fa-IR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.fi-FI.resx">
+      <Link>Common\Resources\AppResources.fi-FI.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.fr-FR.resx">
+      <Link>Common\Resources\AppResources.fr-FR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.he-IL.resx">
+      <Link>Common\Resources\AppResources.he-IL.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.hi-IN.resx">
+      <Link>Common\Resources\AppResources.hi-IN.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.hu-HU.resx">
+      <Link>Common\Resources\AppResources.hu-HU.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.id-ID.resx">
+      <Link>Common\Resources\AppResources.id-ID.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.it-IT.resx">
+      <Link>Common\Resources\AppResources.it-IT.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ja-JP.resx">
+      <Link>Common\Resources\AppResources.ja-JP.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ko-KR.resx">
+      <Link>Common\Resources\AppResources.ko-KR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.lt-LT.resx">
+      <Link>Common\Resources\AppResources.lt-LT.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.lv-LV.resx">
+      <Link>Common\Resources\AppResources.lv-LV.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ms-MY.resx">
+      <Link>Common\Resources\AppResources.ms-MY.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.nb-NO.resx">
+      <Link>Common\Resources\AppResources.nb-NO.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.nl-NL.resx">
+      <Link>Common\Resources\AppResources.nl-NL.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.pl-PL.resx">
+      <Link>Common\Resources\AppResources.pl-PL.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.pt-BR.resx">
+      <Link>Common\Resources\AppResources.pt-BR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.pt-PT.resx">
+      <Link>Common\Resources\AppResources.pt-PT.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.resx">
+      <Link>Common\Resources\AppResources.resx</Link>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ro-RO.resx">
+      <Link>Common\Resources\AppResources.ro-RO.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.ru-RU.resx">
+      <Link>Common\Resources\AppResources.ru-RU.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.sk-SK.resx">
+      <Link>Common\Resources\AppResources.sk-SK.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.sl-SI.resx">
+      <Link>Common\Resources\AppResources.sl-SI.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.sv-SE.resx">
+      <Link>Common\Resources\AppResources.sv-SE.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.th-TH.resx">
+      <Link>Common\Resources\AppResources.th-TH.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.tr-TR.resx">
+      <Link>Common\Resources\AppResources.tr-TR.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.uk-UA.resx">
+      <Link>Common\Resources\AppResources.uk-UA.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.vi-VN.resx">
+      <Link>Common\Resources\AppResources.vi-VN.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.zh-CN.resx">
+      <Link>Common\Resources\AppResources.zh-CN.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.zh-TW.resx">
+      <Link>Common\Resources\AppResources.zh-TW.resx</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdDuplex.WindowsPhone, Version=9.0.0.9, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AdDuplexWP8.9.0.0.9\lib\wp8\AdDuplex.WindowsPhone.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Advertising.Mobile.UI, Version=6.2.960.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=8.0.1.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SOMAWP8, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SOMAW81_Package.1.6.1\lib\wp8\SOMAWP8.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\SOMAW81_Package.1.6.1\lib\wp8\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\SOMAW81_Package.1.6.1\lib\wp8\System.Net.Http.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\SOMAW81_Package.1.6.1\lib\wp8\System.Net.Http.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Tile\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FoodJournal.WinPhone.Agent\FoodJournal.WinPhone.Agent.csproj">
+      <Project>{0ACB7169-B6E3-4590-87B5-D25D3B8586DC}</Project>
+      <Name>FoodJournal.WinPhone.Agent</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+</Project>

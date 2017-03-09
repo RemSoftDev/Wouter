@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>nl-NL</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>EETDAGBOEK</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Algemene items</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Niets geselecteerd</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Recente ontbijt artikelen</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Recente avondmaal artikelen</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Mijn recente oefeningen</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Recente lunch artikelen</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Recente snacks artikelen</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>EETDAGBOEK</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>EETDAGBOEK-</value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Ontbijt</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Avondmaal</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Oefening</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Snack</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Vandaag</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Hoeveelheid</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Calcium</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Calorieën</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Koolhydraten</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Cholesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Vezel</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>IJzer</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Enkelvoudig onverzadigd vetzuren</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Meervoudig onverzadigd vetzuren</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kalium</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Proteïne</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Verzadigd vet</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natrium</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Suiker</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Totaal vet</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamine C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamine D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Gewicht</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Voorkeuren</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Geef een zoekterm op</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (nieuw item)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (nieuwe recept)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Zoekresultaten</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} niet gevonden, probeer een andere zoekterm</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Toevoegen</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Voeding</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>VOEDSEL INFO</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Voer eerst het gewicht in</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>De grootte van de portie</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Geef uw gewicht op</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Hoeveel?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>meer opties</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Geen voedingswaarde-informatie</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Voeg een portie grootte toe</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Toevoegen</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Agenda</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Advertentie</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Cup</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Ounce (vloeistof)</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Gallon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Liter</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Milliliter</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Ons</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pint</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Pound</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Quart</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Eetlepel</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Theelepel</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Cups</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Fluid ounces</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Gallons</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>grammen</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>kilogrammen</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>liters</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>milliliters</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Ons</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pinten</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Ponden</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarts</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Eetlepels</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Theelepels</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>nl</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Over</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Een E-mail van het eetdagboek</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Hoeveelheid:</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>laden</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Nu bijwerken?</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Dank u voor het gebruik van deze App! Deze kopie is nu verlopen. Geen zorgen, we nemen u mee naar de downloadpagina om een nieuwe versie te downloaden als u Ok kiest.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Deze taak werkt de Live Tile bij voor het eetdagboek.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>U hebt de toepassing Live Tile in de Telefooninstellingen uitgeschakeld.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Mijn voorkeuren</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Tell de ontbrekende maaltijden op de app-tile</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Herinneringen</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Stel de tegel in</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Rapport</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Rapport</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Theelepel = 4.5 g|Eetlepel = 12 g|1 portie = 28 g|Stuk = 14 g|Segment = 12 g|1 cup = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Maak een foto</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Bedankt voor het gebruiken van deze App! Mocht u hem nuttig vinden, laat dan een reactie achter.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Een beoordeling achterlaten?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Doelstellingen</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Als geen doel is ingesteld</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Aan het eind van de dag</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Wat heb je gegeten?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Herinnering:  werk uw agenda bij</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>Geselecteerde herrineringen verschijnen als u uw agenda niet bijgewerkt hebt op de geselecteerde tijd.</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Sinaasappelsap, 1 kopje, Toast, 1 sneetje, ei, 1 medium, Apple, koffie, bananen</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} over het doel</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} resterend</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Logboek</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Kies OK om reclames te verwijderen van de app.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Reclames verwijderen?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Het was een probleem met de verbinding naar de Windows Phone-winkel. Probeer het later nog eens.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Probleem melden</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Een vraag stellen of een functie suggereren</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>De snelste en eenvoudigste manier om bij te houden wat je eet.
+
+Schuif omlaag voor informatie over de nauwkeurigheid van gegevens.</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Stem op dit app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Specifieke feedback helpt verbeteren de app</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Help bij het verbeteren van de vertaling</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Een schermafbeelding is inbegrepen</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Deel een link</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Download deze app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Eetdagboek tekst</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Bekijk het Eetdagboek voor de Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Eetdagboek</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Algemene ontbijt artikelen</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Algemene avondmaal artikelen</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Algemene lunch artikelen</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Algemene snack artikelen</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Maaltijden</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Ochtend</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Voormiddag</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Namiddag</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Afzonderlijke ochtend snack</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Afzonderlijke voormiddag snack</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Afzonderlijke namiddag snack</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Avond</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Afzonderlijke middernacht snack</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Middernacht</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Combineer snacks</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Afzonderlijke avond snack</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Recente namiddag artikelen</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Recente voormiddag artikelen</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Recente avond artikelen</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Recente middernacht artikelen</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Recente ochtend artikelen</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Algemene namiddag objecten</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Algemene voormiddag artikelen</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Algemene avond artikelen</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Algemene middernacht artikelen</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Algemene ochtend artikelen</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Dank u voor de Voedingsschema proberen. Hebt u {0} proef dag(en) te gaan. Druk op OK om te ontgrendelen de app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Ontgrendelen nu?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Uw evaluatieversie is nu verlopen. U kunt nog steeds uw dagboek weergeven, maar u kunt geen nieuwe gegevens toevoegen. Kies OK om te ontgrendelen de volledige versie.</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Proefperiode verstreken, ontgrendelen?</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Verwijder advertenties</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Verwijder alle reclames definitief</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Upgrade het nu</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Koop de premium-versie</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Wegnemen reclameaankondiging</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Dank u voor uw steun! Gebruik deze optie voor het permanent verwijderen van advertenties van uw voedsel dagboek app.</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Jus d'orange</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 kopje</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Boterham</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 snee</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Ei</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Appel</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Koffie</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banaan</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Calorieteller</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Eet logboek</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dieet</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Calorieën</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Voeding</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Voedingsschema: Uw dieet en calorie app bijhouden.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>OVER DE APP:
+Het bijhouden van wat je eet is gebleken om te helpen voorkomen en stoppen over-eating.
+Dit app helpt u de controle uw dieet en eten gezonder, door waardoor het gemakkelijk is om te volgen wat je eet. Het ontwerp is geoptimaliseerd voor het maken van post zo snel als mogelijk, met 1 klik de ingang, en recente voedsel suggesties. De ingebouwde database heeft al duizenden van voedselpunten en als jou niet bekend zijn, ze toe te voegen is gemakkelijk.
+
+Let op: Dit app is gratis te downloaden, en worden ondersteund door advertenties. U kunt het gratis gebruiken zo lang als je wilt. Het is mogelijk om te verwijderen van de advertentie voor een vergoeding, die zal ook extra functies inschakelen.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>FUNCTIES:
+1. een eenvoudig en krachtig ontwerp: app opent direct op het invoerscherm, op de meest recente maaltijd, want dat is wat u het meest zult gebruikt. Het ontwerp maakt toe te voegen posten zo eenvoudig en intuïtief als mogelijk.
+2. één kraan post met gepersonaliseerde Suggesties: de meest voorkomende voedingsmiddelen kunnen onmiddellijk worden geselecteerd. Beginnen op de tweede dag, worden uw recente items voorgesteld omdat u hetzelfde voedsel vaak eten mag.
+3. inloggen is niet nodig: geen persoonlijke gegevens of contactgegevens is vereist.
+4. duizenden items al in de database: de meeste voedselpunten hebben nauwkeurige informatie over gemeenschappelijk presenteren maten, calorieën, koolhydraten, eiwitten en vetten. 
+5. volledige off-line steun: geen behoefte om te worden aangesloten op het internet. 
+6. de nauwkeurige vermelding is ook eenvoudig: het precieze bedrag met een schuifregelaar kunt u nauwkeurig opgeven.
+7. dagelijks rapporten: via het menu, kunt u rechtstreeks openen het dagboek, waarin een samenvatting van uw dag. Hier kunt u schakelen tussen calorieën, eiwitten en koolhydraten door te drukken op de kleine driehoek.
+8. het bijhouden van uw doelen: na het invoeren van uw persoonlijke doelen, kunt u het verslag van de week om te zien uw trends. 
+9. persoonlijke herinneringen helpen je op koers te blijven: ze zijn een handige manier om ervoor te zorgen dat u uw dagboek, invullen na elke maaltijd, of aan het einde van de dag.
+
+Het is een goed idee om te controleren of dat de gegevens in de database is hetzelfde als de informatie over uw voedselverpakking; voeding voeding schommelt met merken en na verloop van tijd.
+
+Zorg ervoor dat u uw doelstellingen te bespreken met uw arts of voeding specialist.</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>PREMIUM-FUNCTIES:
+1. geen meer reclame.
+2. een veel grotere voedsel-database.
+3. de mogelijkheid om e-mail uzelf een kopie van de melkerij.
+4. meer configuratieopties, waaronder de mogelijkheid om maximaal 8 afzonderlijke maaltijden per dag.</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Nu downloaden omdat u zult gebruiken.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Eetdagboek</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 middelgrote</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>E-mailadres</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Logboek van AAA 
+Vragen of opmerkingen? Antwoord naar BBB</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>nu verzenden</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Verzend per e-mail</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Voedsel logboek voor {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Er ging onverwacht iets verkeerd. Het logboek is niet verzonden.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Voer een geldig e-mailadres in.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Totaal</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Koop nu</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Alle advertenties worden definitief verwijderd</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Geen reclame</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-mail uw logboek zodat u het kun opslaan, printen of analyseren</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>E-mail verslagen</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Honderden tot duizenden meer voedselwaren (afhankelijk van de locatie)</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Meer eetwaren *</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Voor het bijhouden van 5, 6 of meer maaltijden per dag</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Meer maaltijden</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Alle premie functies in toekomstige updates</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Nieuwe functies</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Opmerking: De meeste, maar niet alle gegevens zijn afkomstig van betrouwbare bronnen. Door de aankoop van de premium-versie, accepteert u volledige verantwoordelijkheid voor de juistheid en volledigheid van de gegevens. E-mail: daily.journal@outlook.com</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Inbegrepen:</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Krijg alle functies</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>slechts {0}</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Help om de updates van deze app bij te werken</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Ondersteun de ontwikkeling</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>DISCLAIMER:
+De meeste, maar niet alle gegevenspunten in de database afkomstig zijn van betrouwbare bronnen. We doen ons best om te controleren of alle waarden zijn nauwkeurig, maar niet aansprakelijk voor onjuiste of ontbrekende gegevens. Nutritionele waarden variëren per merk en na verloop van tijd. Met behulp van deze app, u stemt ermee in om te controleren en corrigeren van gegevens in de app om te zijn volledig verantwoordelijk voor letsel of schade als gevolg van het gebruik ervan.
+
+Laat me weten als er iets is wat die ik u kan helpen.</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Upgrade naar premium</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Krijg toegang tot alle functies</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Opmerking: De meeste, maar niet alle gegevenspunten in de database zijn afkomstig van betrouwbare bronnen. We doen ons best om ervoor te zorgen dat de waarden juist zijn, maar zijn niet aansprakelijk voor onjuiste of ontbrekende gegevens. Met behulp van de app, erkent en aanvaardt u de volledige verantwoordelijkheid voor de controle van de juistheid van de gegevens. Deze App staat u toe om discrepanties bij te werken.</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Indienen</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Werk de teksten in deze lijst met betere vertalingen. Verwijder alle tekst voor artikelen die niet geschikt is voor uw regio.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Bedankt voor uw hulp!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Vertalingen</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Hier kunt u helpen om deze app te verbeteren.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Origineel:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Goed</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Beschrijving:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Help met het verbeteren van de app</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Voer uw e-mailadres als u gecontacteerd wilt worden.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Commentaar</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Verbeter de vertaling</value>
+  </data>
+  <data name="AddToLauncher" xml:space="preserve">
+    <value>Aan startscherm toevoegen</value>
+  </data>
+  <data name="Avg" xml:space="preserve">
+    <value>Gem</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="CopyFromSimilarItem" xml:space="preserve">
+    <value>Van soortgelijk item kopiëren</value>
+  </data>
+  <data name="DeleteEntry" xml:space="preserve">
+    <value>Invoer verwijderen</value>
+  </data>
+  <data name="EnterTheWeightForThisAmount" xml:space="preserve">
+    <value>Voer het gewicht in voor deze hoeveelheid</value>
+  </data>
+  <data name="MoreOptions2" xml:space="preserve">
+    <value>Meer opties</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Geen</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Oké</value>
+  </data>
+  <data name="OneDaySalePctOff" xml:space="preserve">
+    <value>Dagaanbieding: {0}% korting</value>
+  </data>
+  <data name="Total2" xml:space="preserve">
+    <value>Totaal</value>
+  </data>
+  <data name="EmailReport_Footer1a" xml:space="preserve">
+    <value>Journal by AAA</value>
+  </data>
+  <data name="EmailReport_Footer1b" xml:space="preserve">
+    <value>Questions or comments? Reply to BBB</value>
+  </data>
+</root>

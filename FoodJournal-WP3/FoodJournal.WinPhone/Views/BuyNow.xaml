@@ -1,0 +1,103 @@
+﻿<ui:Screen
+    x:Class="FoodJournal.Views.BuyNow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:ui="clr-namespace:FoodJournal.AppModel.UI"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <ui:Screen.Resources>
+        <Style x:Key="FeatureTextStyle" TargetType="TextBlock" BasedOn="{StaticResource PhoneTextNormalStyle}">
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+        <Style x:Key="CheckStyle" TargetType="TextBlock" BasedOn="{StaticResource PhoneTextNormalStyle}">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="12,0,0,0"/>
+        </Style>
+        <Style x:Key="FeatureDescriptionStyle" TargetType="TextBlock" BasedOn="{StaticResource PhoneTextNormalStyle}">
+            <Setter Property="Margin" Value="42,0,12,18"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="FontSize" Value="19"/>
+        </Style>
+    </ui:Screen.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,24">
+            <!--            <TextBlock Text="{Binding Path=Strings.ApplicationTitle, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+    -->
+            <TextBlock Text="{Binding Path=Strings.GetAllFeatures, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextExtraLargeStyle}" HorizontalAlignment="Center" TextWrapping="Wrap"/>
+            <Grid x:Name="Price2Grid" Visibility="Collapsed">
+                <TextBlock x:Name="Price2"  Text="{Binding Path=Strings.Price, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextExtraLargeStyle}" HorizontalAlignment="Center"/>
+                <Line Stroke="{StaticResource PhoneAccentBrush}" StrokeThickness="4" X1="30" Y1="50" X2="428" Y2="12" />
+            </Grid>
+            <TextBlock x:Name="Price"  Text="{Binding Path=Strings.Price, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextExtraLargeStyle}" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel x:Name="ContentPanel" >
+
+                <TextBlock TextWrapping="Wrap" Margin="12,0,0,18" Text="{Binding Path=Strings.Feature_Header, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature1_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature1_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature3_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature3_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature2_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature2_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature4_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature4_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature6_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature6_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+                    <TextBlock Text="{Binding Path=Strings.Feature5_Text, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureTextStyle}"/>
+                </StackPanel>
+                <TextBlock Text="{Binding Path=Strings.Feature5_Desc, Source={StaticResource LocalizedStrings}}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2">
+            <Button Tap="BuyNowTap" Style="{StaticResource ButtonStyle}" Content="{Binding Path=Strings.BuyNow, Source={StaticResource LocalizedStrings}}"/>
+            <TextBlock TextWrapping="Wrap" Margin="12,0,12,6" FontSize="14" Text="{Binding Path=Strings.Feature_Footer, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+        
+    </Grid>
+
+</ui:Screen>

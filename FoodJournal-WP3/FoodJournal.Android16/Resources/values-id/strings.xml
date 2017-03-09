@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">BUKU HARIAN MAKANAN</string>
+	<string name="CommonItems">Item Umum</string>
+	<string name="Delete">hapus</string>
+	<string name="EmptyEntryList">Tidak ada yang dipilih</string>
+	<string name="MyRecentItems_Breakfast">Item Sarapan hari</string>
+	<string name="MyRecentItems_Dinner">Makan malam terakhir item</string>
+	<string name="MyRecentItems_Exercise">Excersizes hari saya</string>
+	<string name="MyRecentItems_Lunch">Makan Siang hari item</string>
+	<string name="MyRecentItems_Snack">Produk terbaru Makanan Ringan</string>
+	<string name="PageTitle">BUKU HARIAN MAKANAN</string>
+	<string name="PageTitleBase">BUKU HARIAN MAKANAN- </string>
+	<string name="Period_Breakfast">Sarapan</string>
+	<string name="Period_Dinner">Makan Malam</string>
+	<string name="Period_Exercise">Latihan</string>
+	<string name="Period_Lunch">Makan Siang</string>
+	<string name="Period_Snack">Makanan Ringan</string>
+	<string name="Search">Cari</string>
+	<string name="Today">Hari Ini</string>
+	<string name="StandardProperty_Amount">Jumlah</string>
+	<string name="StandardProperty_Calcium">Kalsium</string>
+	<string name="StandardProperty_Calories">Kalori</string>
+	<string name="StandardProperty_Carbs">Karbohidrat</string>
+	<string name="StandardProperty_Cholesterol">Kolesterol</string>
+	<string name="StandardProperty_Fiber">Serat</string>
+	<string name="StandardProperty_Iron">Besi</string>
+	<string name="StandardProperty_MonoFat">Lemak tak jenuh tunggal</string>
+	<string name="StandardProperty_PolyFat">Lemak tak jenuh ganda</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Lemak jenuh</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Gula</string>
+	<string name="StandardProperty_TotalFat">Total lemak</string>
+	<string name="StandardProperty_VitaminC">Vitamin C</string>
+	<string name="StandardProperty_VitaminD">Vitamin D</string>
+	<string name="StandardProperty_Weight">Berat</string>
+	<string name="Preferences">Preferensi</string>
+	<string name="EmptySearchList">Masukkan istilah pencarian</string>
+	<string name="NewItemSuffix"> (barang baru)</string>
+	<string name="NewRecipeSuffix"> (resep baru)</string>
+	<string name="SearchResults">Hasil pencarian</string>
+	<string name="SearchTermNotFound">{0} tidak ditemukan, cobalah mengubah istilah pencarian Anda</string>
+	<string name="AcceptNew">tambah</string>
+	<string name="Name">Nama</string>
+	<string name="Nutrition">Nutrisi</string>
+	<string name="PageTitleItemDetail">MAKANAN INFO</string>
+	<string name="EnterWeight">Masukkan berat badan pertama</string>
+	<string name="ServingSizes">Melayani ukuran</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Berapa\?</string>
+	<string name="MoreOptions">opsi lainnya</string>
+	<string name="NoNutritionInfo">Tidak ada informasi nutrisi</string>
+	<string name="AddServingSize">Tambahkan melayani ukuran</string>
+	<string name="Add">tambah</string>
+	<string name="SelectDate">Kalender</string>
+	<string name="Advertisement">Iklan</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Cup</string>
+	<string name="Unit_Deciliter">Desiliter</string>
+	<string name="Unit_FluidOunce">Fluid ounce</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Mililiter</string>
+	<string name="Unit_Ounce">Ons</string>
+	<string name="Unit_Pint">Liter</string>
+	<string name="Unit_Pound">Pon</string>
+	<string name="Unit_Quart">Liter</string>
+	<string name="Unit_Tablespoon">Tablespoon</string>
+	<string name="Unit_Teaspoon">Teaspoon</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">Cangkir</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">Cairan ons</string>
+	<string name="Units_Gallon">Galon</string>
+	<string name="Units_Gram">Gram</string>
+	<string name="Units_Kilogram">Kilogram</string>
+	<string name="Units_Liter">Liter</string>
+	<string name="Units_Milliliter">Milliliter</string>
+	<string name="Units_Ounce">Ounce</string>
+	<string name="Units_Pint">Liter</string>
+	<string name="Units_Pound">Pound</string>
+	<string name="Units_Quart">Liter</string>
+	<string name="Units_Tablespoon">Sendok makan</string>
+	<string name="Units_Teaspoon">Sendok teh</string>
+	<string name="DatabaseCulture">id</string>
+	<string name="FeedbackSubject">E-mail dari buku harian makanan</string>
+	<string name="Equivalent">Jumlah</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">memuat...</string>
+	<string name="ExpiredCaption">Perbarui sekarang</string>
+	<string name="ExpiredMessage">Terima kasih telah menggunakan aplikasi ini! Salinan ini sekarang berakhir. Tapi jangan khawatir, kami akan membawa Anda ke halaman download untuk memperbarui jika Anda tekan Ok.</string>
+	<string name="AgentDescription">Tugas ini update Live ubin untuk buku harian makanan.</string>
+	<string name="AgentDisabled">Anda telah menonaktifkan aplikasi ubin hidup dalam pengaturan telepon.</string>
+	<string name="PageTitleSettings">Preferensi saya</string>
+	<string name="EnableLiveTile">Menghitung hilang makanan di ubin app</string>
+	<string name="Reminders">Pengingat</string>
+	<string name="SettingsScreen">Setelan</string>
+	<string name="PinToStart">Mengatur ubin</string>
+	<string name="OpenReport">Laporan</string>
+	<string name="Report">Laporan</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Sendok teh = 4.5 g|Sendok makan = 12 g|1 melayani = 28 g|Sepotong = 14 g|Slice = 12 cangkir g|1 = 237 g</string>
+	<string name="TakeAPicture">Ambil gambar</string>
+	<string name="ReviewBody">Terima kasih telah menggunakan aplikasi ini! Jika Anda menemukan itu berguna, tolong bantu menjadi sukses dengan meninggalkan review.</string>
+	<string name="ReviewTitle">Meninggalkan review\?</string>
+	<string name="Goals">Tujuan</string>
+	<string name="NoGoalSet">Tidak ada kumpulan sasaran</string>
+	<string name="EndOfDay">Pada akhir hari</string>
+	<string name="ReminderContent">Apa yang Anda makan\?</string>
+	<string name="ReminderTitle">Pengingat: memperbarui buku harian Anda</string>
+	<string name="ReminderDescription">pengingat yang dipilih muncul jika Anda belum memperbarui buku harian Anda oleh waktu yang dipilih</string>
+	<string name="ScreenshotTitles">Jus jeruk, 1 cangkir, roti panggang, 1 iris, telur, 1 medium, Apple, kopi, pisang</string>
+	<string name="GoalOver">{0} atas tujuan</string>
+	<string name="GoalUnder">{0} tersisa</string>
+	<string name="OpenJournal">Jurnal</string>
+	<string name="RemoveAdsText">Pilih OK untuk menghapus iklan dari app.</string>
+	<string name="RemoveAdsTitle">Menghapus iklan\?</string>
+	<string name="StoreException">Masalah menghubungkan ke toko Windows Phone. Harap coba lagi nanti.</string>
+	<string name="Feedback_Email">Laporkan masalah</string>
+	<string name="Feedback_EmailText">Sarankan sebuah fitur atau mengajukan pertanyaan</string>
+	<string name="Feedback_Rate">Tingkat app ini</string>
+	<string name="Feedback_RateText">Umpan balik tertentu membantu meningkatkan aplikasi</string>
+	<string name="Feedback_Screenshot">Membantu meningkatkan terjemahan</string>
+	<string name="Feedback_ScreenshotText">Screen capture disertakan</string>
+	<string name="Feedback_Share">Berbagi link</string>
+	<string name="Feedback_ShareText">Untuk men-download aplikasi ini</string>
+	<string name="ScreenshotSubject">Teks buku harian makanan</string>
+	<string name="ShareMessage">Memeriksa buku harian makanan untuk Windows Phone</string>
+	<string name="ShareTitle">Buku harian makanan</string>
+	<string name="CommonItems_Breakfast">Item Sarapan Umum</string>
+	<string name="CommonItems_Dinner">Item umum makan malam</string>
+	<string name="CommonItems_Lunch">Item umum Makan Siang</string>
+	<string name="CommonItems_Snack">Item makanan ringan Umum</string>
+	<string name="Meals">Makanan</string>
+	<string name="Period_SnackMorning">Pagi</string>
+	<string name="Period_SnackEarlyAfternoon">Sore</string>
+	<string name="Period_SnackAfternoon">Sore</string>
+	<string name="Meals_SnackMorningEnabled">Snack pagi terpisah</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Snack sore awal terpisah</string>
+	<string name="Meals_SnackAfternoonEnabled">Snack sore yang terpisah</string>
+	<string name="Period_SnackEvening">Malam</string>
+	<string name="Meals_SnackMidnightEnabled">Terpisah tengah malam Makanan Ringan</string>
+	<string name="Period_SnackMidnight">Tengah malam</string>
+	<string name="Meals_SnacksCombined">Menggabungkan makanan ringan</string>
+	<string name="Meals_SnackEveningEnabled">Makanan Ringan terpisah</string>
+	<string name="MyRecentItems_SnackAfternoon">Kemarin sore item</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Hari awal sore item</string>
+	<string name="MyRecentItems_SnackEvening">Kemarin malam item</string>
+	<string name="MyRecentItems_SnackMidnight">Tengah malam hari item</string>
+	<string name="MyRecentItems_SnackMorning">Kemarin pagi item</string>
+	<string name="CommonItems_SnackAfternoon">Item umum sore</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Item umum sore awal</string>
+	<string name="CommonItems_SnackEvening">Item malam Umum</string>
+	<string name="CommonItems_SnackMidnight">Item umum tengah malam</string>
+	<string name="CommonItems_SnackMorning">Item pagi Umum</string>
+	<string name="UnlockFullBody">Terima kasih telah mencoba buku harian makanan. Anda memiliki {0} hari percobaan yang tersisa. Tekan OK untuk membuka aplikasi.</string>
+	<string name="UnlockFullTitle">Membuka sekarang\?</string>
+	<string name="TrialExpiredBody">Sidang Anda sekarang berakhir. Anda masih dapat melihat jurnal Anda, tetapi Anda tidak dapat menambahkan entri baru. Pilih OK untuk membuka versi lengkap.</string>
+	<string name="Feedback_RemoveAds">Menghapus iklan</string>
+	<string name="Feedback_RemoveAdsText">Secara permanen menghapus semua iklan</string>
+	<string name="StoreText_5">Download sekarang karena Anda akan menyukai menggunakannya.</string>
+	<string name="AppTitle">Buku harian makanan</string>
+	<string name="StoreText_4">FITUR-FITUR PREMIUM:
+1. tidak ada iklan lagi.
+2. database makanan yang jauh lebih besar.
+3. kemampuan untuk e-mail sendiri salinan susu.
+4. lebih banyak opsi konfigurasi, termasuk kemampuan untuk masukkan hingga 8 terpisah kali sehari.</string>
+	<string name="StoreText_3">FITUR:
+1. desain yang simple dan powerful: app membuka langsung di layar entri, pada Pemesanan makan, karena itulah apa yang akan Anda gunakan paling. Desain membuat entri menambahkan sebagai sederhana dan intuitif mungkin.
+2. Tekan entri dengan personalisasi saran: item makanan yang paling umum yang bisa segera dipilih. Dimulai pada hari kedua, produk terbaru yang disarankan karena Anda dapat makan makanan yang sama sering.
+3. log in tidak diperlukan: tidak ada data pribadi atau informasi kontak yang diperlukan.
+4. ribuan item sudah dalam database: item makanan yang paling memiliki informasi yang akurat tentang umum ukuran melayani, kalori, karbohidrat, protein dan lemak. 
+5. penuh off-line dukungan: tidak perlu terhubung ke internet. 
+6. tepat entri ini juga mudah: Anda dapat secara akurat memasukkan jumlah yang tepat menggunakan slider.
+7. laporan harian: menggunakan menu, Anda dapat langsung membuka buku harian, yang menunjukkan ringkasan dari hari Anda. Di sini Anda dapat beralih antara kalori, protein dan karbohidrat dengan menekan pada kecil segitiga.
+8. melacak tujuan Anda: setelah memasukkan tujuan, Anda dapat menggunakan laporan minggu untuk melihat tren Anda. 
+9. pribadi pengingat membantu Anda tetap pada sasaran: mereka adalah cara yang nyaman untuk memastikan bahwa Anda mengisi buku harian Anda, setelah setiap makan, atau di akhir hari.
+
+Ini adalah ide yang baik untuk memverifikasi informasi dalam database adalah sama dengan informasi tentang kemasan makanan Anda; nutrisi makanan berfluktuasi dengan merek terkenal dan dari waktu ke waktu.
+
+Pastikan untuk mendiskusikan cita-cita Anda dengan spesialis Anda dokter atau nutrisi.</string>
+	<string name="StoreText_2">TENTANG APP:
+Menjaga melacak dari apa yang Anda makan telah terbukti untuk membantu mencegah dan menghentikan over-makan.
+Aplikasi ini membantu Anda mengontrol diet Anda dan makan sehat, dengan membuatnya mudah untuk melacak apa yang Anda makan. Desain yang dioptimalkan untuk membuat entri secepat mungkin, dengan 1 klik entri, dan hari makanan saran. Dibangun di database sudah memiliki ribuan item makanan dan jika Anda tidak diketahui, menambahkan mereka mudah.
+
+Harap dicatat: Aplikasi ini bebas untuk men-download, dan didukung oleh iklan. Anda dapat menggunakan secara gratis selama Anda suka. Mungkin untuk menghapus iklan untuk biaya, yang juga akan mengaktifkan fitur tambahan.</string>
+	<string name="StoreText_1">Buku harian makanan: Anda diet dan kalori pelacakan app.</string>
+	<string name="StoreKeyword_5">Nutrisi</string>
+	<string name="StoreKeyword_4">Kalori</string>
+	<string name="StoreKeyword_3">Diet</string>
+	<string name="StoreKeyword_2">Jurnal makanan</string>
+	<string name="StoreKeyword_1">Kalori counter</string>
+	<string name="Screenshot_H3">Pisang</string>
+	<string name="Screenshot_H2">Kopi</string>
+	<string name="Screenshot_H1">Apel</string>
+	<string name="Screenshot_3a">Telur</string>
+	<string name="Screenshot_2b">1 iris</string>
+	<string name="Screenshot_2a">Roti panggang</string>
+	<string name="Screenshot_1b">1 cangkir</string>
+	<string name="Screenshot_1a">Jus jeruk</string>
+	<string name="Product_2">Terima kasih atas dukungan Anda! Gunakan pilihan ini untuk secara permanen menghapus iklan dari app buku harian makanan Anda.</string>
+	<string name="Product_1">Hapus iklan</string>
+	<string name="CantCalculateNutrition">Masukkan berat badan</string>
+	<string name="TrialExpiredTitle">Periode percobaan berakhir, membuka\?</string>
+	<string name="Screenshot_3b">1 medium</string>
+	<string name="SendFeedback">Tentang</string>
+	<string name="Feedback_Header">Cara tercepat dan termudah untuk melacak apa yang Anda makan.
+
+Gulir ke bawah untuk informasi tentang keakuratan data.</string>
+	<string name="Feedback_Unlock">Upgrade sekarang</string>
+	<string name="Feedback_UnlockText">Beli versi premium</string>
+	<string name="EmailReport_SubjectTemplate">Jurnal makanan untuk {0}</string>
+	<string name="EmailReport_Exception">Terjadilah sesuatu yang tidak beres. Jurnal tidak dikirim.</string>
+	<string name="EmailReport_InvalidEmailAddress">Masukkan alamat e-mail yang valid.</string>
+	<string name="Total">Total</string>
+	<string name="Price">hanya {0}</string>
+	<string name="Feature6_Text">Mendukung pengembangan</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+Sebagian besar, tapi tidak semua titik data dalam database berasal dari sumber yang memiliki reputasi baik. Kami melakukan yang terbaik untuk memastikan semua nilai akurat, tapi tidak bertanggung jawab atas data yang salah atau hilang. Nilai gizi bervariasi oleh merek dan dari waktu ke waktu. Dengan menggunakan aplikasi ini, Anda setuju untuk memverifikasi dan memperbaiki data di app, dan untuk sepenuhnya bertanggung jawab atas cedera atau kerusakan karena penggunaan.
+
+Tolong beritahu saya jika ada sesuatu yang dapat membantu Anda dengan.</string>
+	<string name="Feature6_Desc">Membantu menjaga update dari aplikasi ini datang</string>
+	<string name="GetAllFeatures">Mendapatkan semua fitur</string>
+	<string name="Feature_Header">Termasuk:</string>
+	<string name="Feature_Footer">* Catatan: Sebagian besar, tapi tidak semua data berasal dari sumber terpercaya. Dengan membeli versi premium, Anda menerima tanggung jawab penuh untuk ketepatan dan kelengkapan data. E-mail daily.journal@outlook.com untuk rincian.</string>
+	<string name="Feature5_Text">Fitur baru</string>
+	<string name="Feature5_Desc">Semua premi di masa depan memiliki update</string>
+	<string name="Feature4_Text">Menu lain</string>
+	<string name="Feature4_Desc">Untuk melacak 5, 6 atau lebih kali per hari</string>
+	<string name="Feature3_Text">Lebih banyak makanan *</string>
+	<string name="Feature3_Desc">Ratusan ribuan lebih banyak makanan item (tergantung lokasi)</string>
+	<string name="Feature2_Text">E-mail laporan</string>
+	<string name="Feature2_Desc">E-mail jurnal Anda simpan, cetak atau menganalisis</string>
+	<string name="Feature1_Text">Tidak ada iklan</string>
+	<string name="Feature1_Desc">Semua iklan yang dihapus secara permanen</string>
+	<string name="BuyNow">Beli sekarang</string>
+	<string name="EmailReport_ShowSettings">Kirim melalui e-mail</string>
+	<string name="EmailReport_SendNow">Kirim Sekarang</string>
+	<string name="EmailReport_Address">Alamat e-mail</string>
+	<string name="Product_4">Mendapatkan akses ke semua fitur</string>
+	<string name="Product_3">Meng-upgrade ke premium</string>
+	<string name="EmailReport_Footer2">Catatan: Sebagian besar, tapi tidak semua titik data dalam database datang dari sumber terpercaya. Kami melakukan yang terbaik untuk memastikan bahwa nilai-nilai akurat, tapi tidak bertanggung jawab atas data yang salah atau hilang. Dengan menggunakan apl, Anda mengakui dan menerima tanggung jawab penuh untuk memeriksa keakuratan data. App memungkinkan Anda untuk meng-update setiap perbedaan yang Anda mungkin menemukan.</string>
+	<string name="EmailReport_Footer1">Jurnal oleh AAA
+Pertanyaan atau komentar\? Membalas BBB</string>
+	<string name="Localization_Submit">Kirim</string>
+	<string name="Localization_TranslationsText">Perbarui teks-teks dalam daftar ini dengan terjemahan yang lebih baik. Menghapus semua teks untuk barang-barang yang tidak sesuai untuk wilayah Anda.</string>
+	<string name="Localization_ThankYou">Terima kasih atas bantuan Anda!</string>
+	<string name="Localization_Translations">Terjemahan</string>
+	<string name="Localization_Text">Di sini Anda dapat membantu untuk meningkatkan aplikasi ini.</string>
+	<string name="Localization_Original">Asli:</string>
+	<string name="Localization_Good">Bagus</string>
+	<string name="Localization_Description">Keterangan:</string>
+	<string name="Feedback_LocalizeText">Membantu meningkatkan aplikasi</string>
+	<string name="Localization_CommentText">Masukkan alamat e-mail jika Anda ingin dihubungi.</string>
+	<string name="Localization_Comment">Komentar</string>
+	<string name="Feedback_Localize">Memperbaiki terjemahan</string>
+	<string name="AddToLauncher">Tambahkan ke launcher</string>
+	<string name="Avg">AVG</string>
+	<string name="Cancel">Batal</string>
+	<string name="CopyFromSimilarItem">Menyalin dari item serupa</string>
+	<string name="DeleteEntry">Menghapus entri</string>
+	<string name="EnterTheWeightForThisAmount">Masukkan berat untuk jumlah ini</string>
+	<string name="MoreOptions2">Lebih banyak pilihan</string>
+	<string name="None">Tidak ada</string>
+	<string name="Ok">Oke</string>
+	<string name="OneDaySalePctOff">Dijual 1 hari: {0} % off</string>
+	<string name="Total2">Total</string>
+	<string name="EmailReport_Footer1a">Journal oleh AJ</string>
+	<string name="EmailReport_Footer1b">Pertanyaan atau komentar\? Membalas BBB</string>
+	<string name="Add_New">ITEM BARU</string>
+	<string name="Add_Note">TAMBAHKAN CATATAN</string>
+	<string name="add_target">MENAMBAHKAN NUTRISI</string>
+	<string name="choose_time">waktu</string>
+	<string name="daily_target">Nutrisi</string>
+	<string name="daily_target_hint">Harian target (opsional)</string>
+	<string name="describe_goal">Jelaskan tujuan Anda di sini</string>
+	<string name="drawer_close">Tutup</string>
+	<string name="drawer_open">Buka</string>
+	<string name="edit_meals">PILIH MENU</string>
+	<string name="enter_meal_time">Masukkan waktu untuk setiap makanan</string>
+	<string name="enter_serving_weight">Masukkan berat (g) pertama</string>
+	<string name="enter_value">Masukkan nutrisi</string>
+	<string name="get_started">Mulai!</string>
+	<string name="get_started_second_text">Tekan \'+\' untuk menambahkan entri ke jurnal Anda.</string>
+	<string name="Input_Notes">Masukkan catatan Anda di sini</string>
+	<string name="meal_options">Pilihan makanan</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Tujuan pribadi</string>
+	<string name="Per_Cup">1 cawan (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">sebagian</string>
+	<string name="RadioButton_Alpha">menurut abjad NOTYETUSED</string>
+	<string name="RadioButton_Sort">Urutkan sejarah NOTYETUSED</string>
+	<string name="Serving">Melayani</string>
+	<string name="Show_More_Options">LEBIH BANYAK PILIHAN</string>
+	<string name="show_total_with_meal">Menunjukkan target nutrisi</string>
+	<string name="target_date">Target tanggal</string>
+	<string name="target_date_hint">Pilih tanggal target</string>
+	<string name="transition_name_circle">transisi: lingkaran</string>
+	<string name="transition_name_name">transisi: nama</string>
+	<string name="transition_name_phone">transisi: telepon</string>
+	<string name="Type_Name">Cari</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Satuan Metric</string>
+	<string name="Units_US">Unit US</string>
+	<string name="Upgrade">Meng-upgrade</string>
+	<string name="weight_gram">berat (g)</string>
+	<string name="InvalidEmailError">Alamat e-mail yang tidak valid</string>
+	<string name="NoGoalsTitle">Semua entri</string>
+	<string name="SendReportTitle">Kirim laporan</string>
+	<string name="DeleteEntryMessage">Menghapus entri ini\?</string>
+	<string name="NewBody">Banyak perbaikan, termasuk: catatan, lebih banyak makanan, lebih baik desain, dan banyak lagi.
+Download gratis\?</string>
+	<string name="NewTitle">Versi 2.0 sekarang tersedia!</string>
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.dailybits.foodjournal" android:installLocation="auto" android:versionCode="13" android:versionName="2.1.1">
+	<uses-sdk android:minSdkVersion="10" android:targetSdkVersion="23" />
+	<application android:theme="@style/AppTheme" android:label="@string/AppTitle">
+		<!---		<activity android:name="com.google.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        -->
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+		<activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+		<activity android:name="com.example.testlib.adapters.MainActivity" />
+		<activity android:name="com.example.testlib.adapters.EntryEdit" />
+	</application>
+</manifest>

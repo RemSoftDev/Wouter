@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DailyLog_db" Class="DailyLogDBClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=hhdq0s5w9f.database.windows.net,1433;Initial Catalog=DailyLog_db;Persist Security Info=True;User ID=DailyLogUser" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DailyLog_dbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="DailyLog.EmailReport" Member="EmailReports">
+    <Type Name="EmailReport">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="report" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="days" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.ExceptionReport" Member="ExceptionReports">
+    <Type Name="ExceptionReport">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="report" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.Feedback" Member="Feedbacks">
+    <Type Name="Feedback">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="feedback" Member="feedback1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.PerformanceReport" Member="PerformanceReports">
+    <Type Name="PerformanceReport">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="report" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.AppInstance" Member="AppInstances">
+    <Type Name="AppInstance">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Member="appinstance1" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="istrial" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="wpmodel" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="wpversion" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="locale" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="timezone" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="themecolor" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="details" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.Query" Member="Queries">
+    <Type Name="Query">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="query" Member="query1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="locale" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="USDACount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NutritionIXCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FatsecretCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="details" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="DailyLog.WebRequest" Member="WebRequests">
+    <Type Name="WebRequest">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ipaddress" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="querystring" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="referrer" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="appinstance" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="requestdata" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timestamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

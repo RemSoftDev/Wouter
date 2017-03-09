@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="CommonItems">Butir Sepunya</string>
+	<string name="Delete">padam</string>
+	<string name="Period_Breakfast">Sarapan Pagi</string>
+	<string name="Period_Dinner">Makan malam</string>
+	<string name="Period_Lunch">Makan Tengah Hari</string>
+	<string name="Search">Carian</string>
+	<string name="Today">Hari ini</string>
+	<string name="StandardProperty_Amount">Jumlah</string>
+	<string name="StandardProperty_Weight">Berat</string>
+	<string name="Preferences">Keutamaan</string>
+	<string name="NewItemSuffix"> (perkara baru)</string>
+	<string name="SearchResults">Hasil carian</string>
+	<string name="AcceptNew">tambah</string>
+	<string name="Name">Nama</string>
+	<string name="MoreOptions">opsyen selanjutnya</string>
+	<string name="Add">tambah</string>
+	<string name="SelectDate">Kalendar</string>
+	<string name="Advertisement">Iklan</string>
+	<string name="Unit_Cup">Cawan</string>
+	<string name="Unit_FluidOunce">Auns bendalir</string>
+	<string name="Unit_Gallon">Gelen</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Ounce">Auns</string>
+	<string name="Unit_Pound">Paun</string>
+	<string name="Unit_Tablespoon">Sudu besar</string>
+	<string name="Unit_Teaspoon">Sudu kecil</string>
+	<string name="Units_Gram">Gram</string>
+	<string name="Units_Kilogram">Kilogram</string>
+	<string name="Units_Liter">Liter</string>
+	<string name="Units_Milliliter">Mililiter</string>
+	<string name="Units_Ounce">Auns</string>
+	<string name="Units_Pound">Paun</string>
+	<string name="DatabaseCulture">MS</string>
+	<string name="Equivalent">Jumlah:</string>
+	<string name="Loading">memuatkan...</string>
+	<string name="ExpiredCaption">Kemas kini sekarang</string>
+	<string name="Reminders">Peringatan</string>
+	<string name="SettingsScreen">seting</string>
+	<string name="OpenReport">Laporan</string>
+	<string name="Report">Laporan</string>
+	<string name="TakeAPicture">Ambil gambar</string>
+	<string name="OpenJournal">Jurnal</string>
+	<string name="Feedback_Email">Laporkan masalah</string>
+	<string name="Meals">Makanan</string>
+	<string name="Period_SnackMorning">Pagi</string>
+	<string name="Period_SnackAfternoon">Petang</string>
+	<string name="Period_SnackMidnight">Tengah malam</string>
+	<string name="Screenshot_H3">Pisang</string>
+	<string name="Screenshot_H2">Kopi</string>
+	<string name="Screenshot_H1">Epal</string>
+	<string name="ApplicationTitle">DIARI MAKANAN</string>
+	<string name="EmptyEntryList">Apa-apa yang dipilih</string>
+	<string name="MyRecentItems_Breakfast">Item Sarapan Pagi hari</string>
+	<string name="MyRecentItems_Dinner">Barang-barang Majlis Makan malam</string>
+	<string name="MyRecentItems_Exercise">Saya excersizes hari</string>
+	<string name="MyRecentItems_Lunch">Barang-barang makan tengahari hari</string>
+	<string name="MyRecentItems_Snack">Butiran terakhir Snek</string>
+	<string name="PageTitle">DIARI MAKANAN</string>
+	<string name="PageTitleBase">DIARI MAKANAN- </string>
+	<string name="Period_Exercise">Senaman</string>
+	<string name="Period_Snack">Snek</string>
+	<string name="StandardProperty_Calcium">Kalsium</string>
+	<string name="StandardProperty_Calories">Kalori</string>
+	<string name="StandardProperty_Carbs">Karbohidrat</string>
+	<string name="StandardProperty_Cholesterol">Kolesterol</string>
+	<string name="StandardProperty_Fiber">Serat</string>
+	<string name="StandardProperty_Iron">Besi</string>
+	<string name="StandardProperty_MonoFat">Lemak monounsaturated</string>
+	<string name="StandardProperty_PolyFat">Lemak politaktepu</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Lemak tepu</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Gula</string>
+	<string name="StandardProperty_TotalFat">Jumlah lemak</string>
+	<string name="StandardProperty_VitaminC">Vitamin C</string>
+	<string name="StandardProperty_VitaminD">Vitamin D</string>
+	<string name="EmptySearchList">Masukkan istilah carian</string>
+	<string name="NewRecipeSuffix"> (resipi baru)</string>
+	<string name="SearchTermNotFound">{0} tidak ditemui, cuba mengubah istilah carian anda</string>
+	<string name="Nutrition">Pemakanan</string>
+	<string name="PageTitleItemDetail">MAKLUMAT MAKANAN</string>
+	<string name="EnterWeight">Sila masukkan berat badan terlebih dahulu</string>
+	<string name="ServingSizes">Saiz hidangan</string>
+	<string name="CantCalculateNutrition">Masukkan berat badan</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">berapa banyak\?</string>
+	<string name="NoNutritionInfo">Tiada maklumat pemakanan</string>
+	<string name="AddServingSize">Menambah saiz hidangan</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_Milliliter">Mililiter</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Quart">Suku</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">Cawan</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">Auns bendalir</string>
+	<string name="Units_Gallon">Gelen</string>
+	<string name="Units_Pint">Pain</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">Camca besar</string>
+	<string name="Units_Teaspoon">Sudu teh</string>
+	<string name="FeedbackSubject">E-mel dari diari makanan</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="ExpiredMessage">Terima kasih kerana menggunakan aplikasi ini! Salinan ini kini telah tamat. Tetapi jangan bimbang, kami akan membawa anda ke Laman muat turun untuk mengemaskini jika anda tekan Ok.</string>
+	<string name="AgentDescription">Tugas ini mengemaskini jubin hidup untuk diari makanan.</string>
+	<string name="AgentDisabled">Anda telah menyahdayakan aplikasi jubin hidup dalam seting telefon.</string>
+	<string name="PageTitleSettings">Keutamaan saya</string>
+	<string name="EnableLiveTile">Menu hilang kiraan pada jubin aplikasi</string>
+	<string name="PinToStart">Sediakan jubin</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Sudu teh = 4.5 g|Sudu besar = 12 g|1 berkhidmat = 28 g|Sekeping = 14 g|Hirisan = 12 g|1 cawan = 237 g</string>
+	<string name="ReviewBody">Terima kasih kerana menggunakan aplikasi ini! Jika anda mendapati ia berguna, Sila membantu ia berjaya dengan meninggalkan kajian semula.</string>
+	<string name="ReviewTitle">Meninggalkan Ulasan\?</string>
+	<string name="Goals">Matlamat</string>
+	<string name="NoGoalSet">Tanpa menetapkan matlamat</string>
+	<string name="EndOfDay">Pada penghujung hari</string>
+	<string name="ReminderContent">Apa pula anda makan\?</string>
+	<string name="ReminderTitle">Peringatan: Kemaskini Terakhir diari anda</string>
+	<string name="ReminderDescription">Peringatan yang dipilih kelihatan jika anda belum dikemaskini diari anda dengan masa yang terpilih</string>
+	<string name="ScreenshotTitles">Jus oren, 1 cawan, roti bakar, 1 slice, telur, 1 medium, Apple, kopi, pisang</string>
+	<string name="GoalOver">{0} ke atas matlamat</string>
+	<string name="GoalUnder">{0} yang tinggal</string>
+	<string name="RemoveAdsText">Pilih OK untuk mengalih keluar iklan dari aplikasi ini.</string>
+	<string name="RemoveAdsTitle">Mengalih keluar iklan\?</string>
+	<string name="StoreException">Dalam masalah menyambung kepada Windows Phone kedai. Sila cuba lagi kemudian.</string>
+	<string name="Feedback_EmailText">Mencadangkan ciri-ciri atau bertanya</string>
+	<string name="Feedback_Rate">Kadar aplikasi ini</string>
+	<string name="Feedback_RateText">Maklum-balas tertentu membantu meningkatkan aplikasi</string>
+	<string name="Feedback_Screenshot">Membantu memperbaiki penterjemahan</string>
+	<string name="Feedback_ScreenshotText">Penangkapan skrin juga disediakan</string>
+	<string name="Feedback_Share">Kongsi pautan</string>
+	<string name="Feedback_ShareText">Untuk memuat turun aplikasi ini</string>
+	<string name="ScreenshotSubject">Teks diari makanan</string>
+	<string name="ShareMessage">Memeriksa makanan diari untuk Windows Phone</string>
+	<string name="ShareTitle">Diari makanan</string>
+	<string name="CommonItems_Breakfast">Item-item Sarapan Pagi yang biasa</string>
+	<string name="CommonItems_Dinner">Barang-barang makan malam yang biasa</string>
+	<string name="CommonItems_Lunch">Barang-barang makan tengahari yang biasa</string>
+	<string name="CommonItems_Snack">Item-item Snek biasa</string>
+	<string name="Period_SnackEarlyAfternoon">Awal petang</string>
+	<string name="Meals_SnackMorningEnabled">Snek pagi berasingan</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Snek petang awal yang berasingan</string>
+	<string name="Meals_SnackAfternoonEnabled">Snek petang yang berasingan</string>
+	<string name="Period_SnackEvening">Petang</string>
+	<string name="Meals_SnackMidnightEnabled">Snek tengah malam berasingan</string>
+	<string name="Meals_SnacksCombined">Menggabungkan makanan ringan</string>
+	<string name="Meals_SnackEveningEnabled">Snek petang yang berasingan</string>
+	<string name="MyRecentItems_SnackAfternoon">Item petang semalam</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Butiran terakhir petang awal</string>
+	<string name="MyRecentItems_SnackEvening">Item-item petang semalam</string>
+	<string name="MyRecentItems_SnackMidnight">Tengah malam hari item</string>
+	<string name="MyRecentItems_SnackMorning">Item-item di pagi hari</string>
+	<string name="CommonItems_SnackAfternoon">Item-item petang yang biasa</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Item-item petang awal yang biasa</string>
+	<string name="CommonItems_SnackEvening">Biasa petang item</string>
+	<string name="CommonItems_SnackMidnight">Barang-barang tengah malam yang biasa</string>
+	<string name="CommonItems_SnackMorning">Biasa pagi item</string>
+	<string name="UnlockFullBody">Terima kasih kerana mencuba diari makanan. Anda mempunyai {0} hari perbicaraan yang lain. Tekan OK untuk membuka aplikasi ini.</string>
+	<string name="UnlockFullTitle">Buka kunci sekarang\?</string>
+	<string name="TrialExpiredBody">Percubaan anda kini telah tamat. Anda masih boleh melihat jurnal anda, tetapi anda tidak boleh menambah entri baru. Pilih OK untuk membuka kunci versi penuh.</string>
+	<string name="TrialExpiredTitle">Tempoh percubaan tamat, buka kunci\?</string>
+	<string name="Feedback_RemoveAds">Keluarkan iklan</string>
+	<string name="Feedback_RemoveAdsText">Menghapuskan semua iklan</string>
+	<string name="StoreText_5">Muat turun sekarang kerana anda akan suka menggunakannya.</string>
+	<string name="AppTitle">Diari makanan</string>
+	<string name="Screenshot_3b">1 sederhana</string>
+	<string name="StoreText_4">CIRI-CIRI PREMIUM:
+1. sebarang pengiklanan yang lebih banyak.
+2. lebih besar makanan pangkalan data.
+3. keupayaan untuk e-mel sendiri salinan tenusu ini.
+4. lebih banyak opsyen konfigurasi, termasuk keupayaan untuk masukkan Menu berasingan sehingga 8 hari.</string>
+	<string name="StoreText_3">CIRI-CIRI:
+1. Reka bentuk yang sederhana dan kuat: apl yang dibuka secara langsung pada skrin kemasukan pada makanan yang terkini, kerana itu adalah apa yang anda akan gunakan tempahan. Reka bentuk membuat menambah penyertaan sebagai mudah dan intuitif yang mungkin.
+2. satu paip masuk dengan cadangan peribadi: barang-barang makanan yang paling biasa dengan serta-merta akan dipilih. Bermula pada hari kedua, barang-barang hari anda dicadangkan kerana anda boleh makan makanan yang sama kerap.
+3. pembalakan dalam tidak diperlukan: Tiada data peribadi atau maklumat yang diperlukan.
+4. beribu-ribu item sudah ada dalam pangkalan data: kebanyakan barangan makanan mempunyai maklumat yang tepat mengenai saiz hidangan biasa, kalori, karbohidrat, protein dan lemak. 
+5. penuh luar talian sokongan: tidak perlu disambungkan ke internet. 
+6. tepat entri adalah juga mudah: anda boleh memasukkan amaun yang tepat menggunakan slaid yang tepat.
+7. harian melaporkan: menggunakan menu, anda boleh terus membuka diari, yang menunjukkan ringkasan hari anda. Di sini anda boleh menukar antara kalori, protein dan karbohidrat dengan menekan pada segi tiga kecil.
+8. mengesan matlamat anda: selepas memasukkan matlamat peribadi anda, anda boleh menggunakan laporan minggu untuk melihat trend anda. 
+9. peribadi peringatan membantu anda tetamu akan ditulis oleh pelanggan kami selepas penginapan sasaran: mereka adalah cara yang mudah untuk memastikan anda mengisi diari anda, selepas setiap waktu makan, atau pada akhir hari.
+
+Ia adalah idea yang baik untuk mengesahkan maklumat dalam pangkalan data adalah sama dengan maklumat pada pembungkusan makanan anda; nutrisi makanan yang turun naik dengan jenama dan dari semasa ke semasa.
+
+Pastikan matlamat anda berbincang dengan pakar doktor atau pemakanan.</string>
+	<string name="StoreText_2">TENTANG APLIKASI:
+Mengekalkan menjejaki anak apa yang anda makan telah ditunjukkan untuk membantu mencegah dan menghentikan terlebih makan.
+Aplikasi ini membantu anda mengawal diet anda dan makan sihat, dengan menjadikan ia mudah untuk menjejaki apa yang anda makan. Reka bentuk dioptimumkan untuk membuat entry sepantas cadangan makanan yang mungkin, dengan 1 klik masuk, dan semalam. Dalam pangkalan data yang dibina dalam sudah beribu-ribu barangan makanan dan jika kamu tidak dikenali, menambah mereka mudah.
+
+Sila ambil perhatian: Aplikasi ini adalah percuma untuk men-download, dan disokong oleh iklan-iklan. Anda boleh menggunakannya secara percuma selagi anda suka. Ia adalah mungkin untuk mengeluarkan iklan untuk bayaran, yang akan juga membolehkan ciri-ciri tambahan.</string>
+	<string name="StoreText_1">Diari makanan: Diet dan anda kalori yang menjejaki aplikasi.</string>
+	<string name="StoreKeyword_5">Pemakanan</string>
+	<string name="StoreKeyword_4">Kalori</string>
+	<string name="StoreKeyword_3">Diet</string>
+	<string name="StoreKeyword_2">Jurnal makanan</string>
+	<string name="StoreKeyword_1">Kaunter kalori</string>
+	<string name="Screenshot_3a">Telur</string>
+	<string name="Screenshot_2b">1 hirisan</string>
+	<string name="Screenshot_2a">Roti bakar</string>
+	<string name="Screenshot_1b">1 cawan</string>
+	<string name="Screenshot_1a">Jus oren</string>
+	<string name="Product_2">Terima kasih atas sokongan anda! Gunakan pilihan ini untuk menghapuskan iklan daripada aplikasi diari makanan anda.</string>
+	<string name="Product_1">Keluarkan iklan</string>
+	<string name="SendFeedback">Kira-kira</string>
+	<string name="Feedback_Unlock">Menaik taraf sekarang</string>
+	<string name="EmailReport_InvalidEmailAddress">Sila masukkan alamat e-mel yang sah.</string>
+	<string name="Total">Jumlah keseluruhan</string>
+	<string name="Feature_Header">Termasuk:</string>
+	<string name="Feature5_Text">Ciri-ciri baru</string>
+	<string name="BuyNow">Beli sekarang</string>
+	<string name="EmailReport_ShowSettings">Menghantar melalui e-mel</string>
+	<string name="EmailReport_SendNow">Hantar sekarang</string>
+	<string name="EmailReport_Address">Alamat e-mel</string>
+	<string name="Feedback_Header">Cara yang paling cepat dan paling mudah untuk mengesan apa yang anda makan.
+
+Skrol ke bawah untuk mendapatkan maklumat mengenai ketepatan data.</string>
+	<string name="Feedback_UnlockText">Beli versi premium</string>
+	<string name="EmailReport_SubjectTemplate">Jurnal makanan untuk {0}</string>
+	<string name="EmailReport_Exception">Sesuatu yang tidak dijangka yang silap. Jurnal ini tidak dihantar.</string>
+	<string name="Price">hanya {0}</string>
+	<string name="Feature6_Text">Menyokong pembangunan</string>
+	<string name="Feedback_Footer">PENAFIAN:
+Kebanyakan, tetapi tidak semua titik data dalam pangkalan data yang datang dari sumber yang mempunyai reputasi yang baik. Kami melakukan yang terbaik untuk memastikan semua nilai adalah tepat, tetapi tidak boleh diadakan bertanggungjawab bagi data yang tidak betul atau hilang. Nilai-nilai pemakanan berbeza-beza mengikut jenama dan dari semasa ke semasa. Dengan menggunakan aplikasi ini, anda bersetuju untuk mengesahkan dan membetulkan mana-mana data dalam aplikasi ini, dan bertanggungjawab sepenuhnya terhadap kecederaan atau kerosakan yang disebabkan oleh penggunaan yang.
+
+Sila beritahu saya jika ada apa-apa yang saya boleh membantu anda dengan.</string>
+	<string name="Product_4">Mengakses semua ciri-ciri</string>
+	<string name="Product_3">Menaik taraf kepada premium</string>
+	<string name="Feature6_Desc">Membantu memastikan kemas kini aplikasi ini datang</string>
+	<string name="GetAllFeatures">Mendapatkan semua ciri-ciri</string>
+	<string name="Feature_Footer">* Nota: Data kebanyakan, tetapi bukan semua yang datang dari sumber yang mempunyai reputasi yang baik. Dengan membeli versi premium, anda bertanggungjawab sepenuhnya untuk ketepatan dan kesempurnaan data. E-mel daily.journal@outlook.com untuk maklumat lanjut.</string>
+	<string name="Feature5_Desc">Semua premium pada masa akan datang mempunyai pengemaskinian</string>
+	<string name="Feature4_Text">Menu lebih banyak</string>
+	<string name="Feature4_Desc">Untuk menjejaki Menu 5, 6 atau lebih setiap hari</string>
+	<string name="Feature3_Text">Lebih banyak makanan *</string>
+	<string name="Feature3_Desc">Beratus-ratus ribuan makanan lebih banyak item (bergantung kepada lokasi)</string>
+	<string name="Feature2_Text">Laporan e-mel</string>
+	<string name="Feature2_Desc">E-mel jurnal anda untuk menyimpan, mencetak, atau menganalisis</string>
+	<string name="Feature1_Text">Iklan tidak</string>
+	<string name="Feature1_Desc">Semua iklan akan dialih keluar dengan kekal</string>
+	<string name="EmailReport_Footer2">Nota: Kebanyakan, tetapi tidak semua titik data dalam pangkalan data yang datang dari sumber yang mempunyai reputasi yang baik. Kami melakukan yang terbaik untuk memastikan nilai-nilai yang tepat, tetapi tidak boleh diadakan bertanggungjawab bagi data yang tidak betul atau hilang. Dengan menggunakan aplikasi ini, anda mengakui dan menerima tanggungjawab sepenuhnya untuk menyemak ketepatan data. Aplikasi ini membolehkan anda mengemas kini sebarang percanggahan yang boleh anda dapati.</string>
+	<string name="EmailReport_Footer1">Jurnal oleh AAA
+Soalan-soalan atau komen\? Balas kepada BBB</string>
+	<string name="Localization_Submit">Mengemukakan</string>
+	<string name="Localization_TranslationsText">Sila Kemaskini teks-teks dalam senarai ini dengan terjemahan yang lebih baik. Alih keluar semua teks untuk perkara-perkara yang tidak sesuai untuk kawasan anda.</string>
+	<string name="Localization_ThankYou">Terima kasih untuk bantuan anda!</string>
+	<string name="Localization_Translations">Terjemahan</string>
+	<string name="Localization_Text">Di sini anda boleh membantu untuk meningkatkan aplikasi ini.</string>
+	<string name="Localization_Original">Asal:</string>
+	<string name="Localization_Good">Baik</string>
+	<string name="Localization_Description">Description/kawalan:</string>
+	<string name="Feedback_LocalizeText">Membantu mempertingkatkan aplikasi</string>
+	<string name="Localization_CommentText">Masukkan alamat e-mel anda jika anda mahu dihubungi.</string>
+	<string name="Localization_Comment">Komen</string>
+	<string name="Feedback_Localize">Memperbaiki terjemahan</string>
+	<string name="AddToLauncher">Tambah ke pelancar</string>
+	<string name="Avg">AVG</string>
+	<string name="Cancel">Batal</string>
+	<string name="CopyFromSimilarItem">Salin daripada perkara yang sama</string>
+	<string name="DeleteEntry">Memadam kemasukan</string>
+	<string name="EnterTheWeightForThisAmount">Masukkan berat bagi amaun ini</string>
+	<string name="MoreOptions2">Lebih banyak pilihan</string>
+	<string name="None">Tiada seorang pun</string>
+	<string name="Ok">ok</string>
+	<string name="OneDaySalePctOff">jualan 1 hari: {0} % off</string>
+	<string name="Total2">Jumlah keseluruhan</string>
+	<string name="EmailReport_Footer1a">Jurnal oleh AAA</string>
+	<string name="EmailReport_Footer1b">Pertanyaan atau komen\? Membalas BBB</string>
+	<string name="Add_New">PERKARA BARU</string>
+	<string name="Add_Note">TAMBAH NOTA</string>
+	<string name="add_target">TAMBAH PEMAKANAN</string>
+	<string name="choose_time">masa yang ditetapkan</string>
+	<string name="daily_target">Pemakanan</string>
+	<string name="daily_target_hint">Setiap sasaran (pilihan)</string>
+	<string name="describe_goal">Menerangkan matlamat anda di sini</string>
+	<string name="drawer_close">Tutup</string>
+	<string name="drawer_open">Terbuka</string>
+	<string name="edit_meals">PILIH MENU</string>
+	<string name="enter_meal_time">Masukkan masa untuk setiap hidangan</string>
+	<string name="enter_serving_weight">Masukkan berat (g) terlebih dahulu</string>
+	<string name="enter_value">Masukkan pemakanan</string>
+	<string name="get_started">Bermula!</string>
+	<string name="get_started_second_text">Tekan \'+\' untuk Tambah entri kepada jurnal.</string>
+	<string name="Input_Notes">Masukkan Nota-Nota anda di sini</string>
+	<string name="meal_options">Pilihan hidangan</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Matlamat peribadi</string>
+	<string name="Per_Cup">1 cawan (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">Bahagian</string>
+	<string name="RadioButton_Alpha">NOTYETUSED mengikut abjad</string>
+	<string name="RadioButton_Sort">menyusun mengikut sejarah NOTYETUSED</string>
+	<string name="Serving">Berkhidmat</string>
+	<string name="Show_More_Options">LEBIH BANYAK OPSYEN</string>
+	<string name="show_total_with_meal">Menunjukkan sasaran pemakanan</string>
+	<string name="target_date">Tarikh sasaran</string>
+	<string name="target_date_hint">Memilih tarikh sasaran</string>
+	<string name="transition_name_circle">peralihan: BULATAN</string>
+	<string name="transition_name_name">peralihan: nama</string>
+	<string name="transition_name_phone">peralihan: telefon</string>
+	<string name="Type_Name">Cari</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Unit-unit metrik</string>
+	<string name="Units_US">Unit-unit AS</string>
+	<string name="Upgrade">Naik taraf</string>
+	<string name="weight_gram">berat (g)</string>
+	<string name="InvalidEmailError">Alamat e-mel tidak sah</string>
+	<string name="NoGoalsTitle">Semua penyertaan</string>
+	<string name="SendReportTitle">Menghantar laporan</string>
+	<string name="DeleteEntryMessage">Menghapuskan entri ini\?</string>
+	<string name="NewBody">Pelbagai penambahbaikan termasuk: Nota-nota, lebih banyak makanan, rekabentuk, dan banyak lagi.
+Download percuma\?</string>
+	<string name="NewTitle">Versi 2.0 kini boleh didapati!</string>
+</resources>

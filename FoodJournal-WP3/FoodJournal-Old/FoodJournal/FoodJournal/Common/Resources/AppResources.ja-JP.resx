@@ -1,0 +1,857 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ja-JP</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>食事日記</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>一般的な食品</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>削除する</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>何も選択されていません</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>最近の朝食アイテム</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>最近の夕食アイテム</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>最近の運動</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>最近の昼食アイテム</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>最近の間食アイテム</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>食事日記</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>食事日記-</value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>朝食</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>夕食</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>運動</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>昼食</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>間食</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>今日</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>分量</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>カルシウム</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>カロリー</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>炭水化物</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>コレステロール</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>食物繊維</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>鉄</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>一価不飽和脂肪酸</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>多価不飽和脂肪酸</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>カリウム</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>タンパク質</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>飽和脂肪酸</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>ナトリウム</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>砂糖</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>総脂質</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>ビタミン C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>ビタミン D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>重量</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>検索用語を入力する</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value>(新しいアイテム)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value>(新しいレシピ)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>検索結果</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} が見つかりません。検索語を変更してみてください。</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>追加する</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>品名</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>栄養</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>食品情報</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>最初に重量を入力してください</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>サービングサイズ</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>どのくらいですか？</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>その他のオプション</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>栄養成分表がありません</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>サービングサイズを追加する</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>追加する</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>カレンダー</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>広告</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>センチリットル</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>カップ</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>デシリットル</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>液量オンス</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>ガロン</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>グラム</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>キログラム</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>リットル</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>ミリリットル</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>オンス</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>パイント</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>ポンド</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>クォート</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>大さじ</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>小さじ</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>センチリットル</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>カップ</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>デシリットル</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>液量オンス</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>ガロン</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>グラム</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>キログラム</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>リットル</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>ミリリットル</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>オンス</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>パイント</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>ポンド</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>クォート</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>大さじ</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>小さじ</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>JA</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>食事日記からEメールを送信する</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>強さ:</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>読み込み中...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>今すぐ更新しますか？</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>当アプリをご使用いただきありがとうございます！　このバージョンは有効期限が切れました。でもご心配なく。 [OK] を押せば、ダウンロード画面にゆき、更新することができます。</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>このタスクは「食事日記」のライブタイルを更新します。</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>電話の設定でライブタイル・アプリケーションを無効にしています。</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>個人設定</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>アプリのタイルで、データ未入力の食事数を数える</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>通知</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>タイルを設定</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>レポート</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>レポート</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 オンス = 28 インデクスティー スプーン = 4.5 インデクス本のテーブル スプーン = 12 g|1 サービング = 28 インデクス作品 14 インデクスを =スライス 12 g|1 カップ = = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>写真を撮る</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>当アプリをご利用いただきありがとうございます！　役に立つと思われましたら、アプリの人気向上のためレビューを残してください。</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>レビューを残しますか？</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>目標</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>目標が設定されていません</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>一日の終わり</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>何を食べましたか？</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>通知： 日記を更新してください</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>選択した時刻までに日記を更新しなかった場合、選択した通知が現れます</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>オレンジ ジュース、1 カップ、トースト、卵、1 スライス 1 培地、アップルは、コーヒー、バナナ</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>目標を {0} 超過</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>残り {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>日誌</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>アプリから広告を削除するには [OK] を選択してください。</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>広告を削除しますか？</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Windows Phone ストアへ接続中に問題が発生しました。後ほどもう一度お試しください。</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>問題を報告</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>または機能を提案、もしくは質問をする</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>アプリを評価</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>具体的なフィードバックはアプリの改善に役立ちます</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>翻訳の改善に協力</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>画面キャプチャ機能が含まれています</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>リンクを共有</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>当アプリをダウンロードするには</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>食事日記テキスト</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Windows Phone用アプリ「食事日記」をお試しください</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>食事日記</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>一般的な朝食アイテム</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>一般的な夕食アイテム</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>一般的な昼食アイテム</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>一般的な間食アイテム</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>食事</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>午前中</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>昼過ぎ</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>午後</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>午前中の間食を個別に設定</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>昼過ぎの間食を個別に設定</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>午後の間食を個別に設定</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>晩</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>深夜の間食を個別に設定</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>深夜</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>間食をひとまとめに設定</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>晩の間食を個別に設定</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>最近の午後のアイテム</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>最近の昼過ぎのアイテム</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>最近の晩のアイテム</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>最近の深夜のアイテム</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>最近の午前中のアイテム</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>一般的な午後のアイテム</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>一般的な昼過ぎのアイテム</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>一般的な晩のアイテム</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>一般的な深夜のアイテム</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>一般的な午前中のアイテム</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>食事日記をしようとしていただきありがとうございます。残り {0} 試用日数があります。アプリのロックを解除する [ok] を押します。</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>今すぐロックを解除？</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>あなたのトライアル今すぐ期限切れです。まだあなたのジャーナルを表示できますが、新しいエントリを追加できません。フルバージョンのロックを解除する [ok] を選択します。</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>広告を削除</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>すべての広告を永久削除</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>あなたはそれを使用して愛するので今すぐダウンロードします。</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>食事日記</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>プレミアム機能:1. より多くの広告。2. はるかに大きい食品データベース。3. 自分の乳製品のコピーを電子メールする機能。4. 詳細構成オプション、最大 8 別の食事は 1 日を入力する機能を含みます。</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>特徴：1. シンプルかつパワフルなデザイン： あなたが最も使用するものであるため最も最近の食事上のエントリー画面に直接アプリを開きます。デザインはシンプルかつ可能な限り直感的としてエントリの追加。2 パーソナライズされた提案を持つつのタップ エントリ: 最も一般的な食料品はすぐに選択できます。2 日目以降、頻繁に同じ食品を食べることができるため、最近使った項目が示唆されました。3. ログインは必要ありません： 個人情報や連絡先情報は必要ありません。4. データベース内の既存の項目の何千もの： ほとんどの食料品が共通のサービングのサイズ、カロリー、炭水化物、タンパク質、脂肪に関する正確な情報であります。5. 完全オフライン サポート: インターネットに接続する必要はありません。6. 正確なエントリも簡単です： スライダーを使用して正確な量を正確に入力することができます。7. 毎日報告: メニューを使用して、直接あなたの日の概要が表示されます日記を開くことができます。ここに小さな三角形を押すことによってカロリー、蛋白質、炭水化物の間切り替えることができます。8. あなたの目標を追跡： あなたの個人的な目標を入力した後週レポートを使用してあなたの傾向を見ることができます。9. 個人的なメモではターゲットに保ってくれる： 彼らは各食事の後や、一日の終わりにあなたの日記に記入するかどうかを確認する便利な方法です。データベース内の情報が同じ; あなたの食品包装に関する情報を確認することをお勧め食品の栄養のブランドと、時間の経過とともに変動します。あなたの医者または栄養の専門家とあなたの目標を議論することを確認します。</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>アプリケーション： について何を食べるを追跡するを防止し、過剰な食事を停止示されています。このアプリでは、あなたの食事療法を制御したり、簡単にあなたが食べるものを追跡することによって、健康的な食事することができます。デザイン可能であれば、1 クリックしてエントリと最近の食品の提案にすぐにエントリを作成する最適化されています。内蔵のデータベースは既に食料品の数千人とあなたは知られていない場合に追加することは簡単です。ご注意： このアプリは無料でダウンロード、広告によってサポートされています。使用できます無料の限り、あなたのように。追加機能も有効に有料広告を削除することは。</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>食事日記: あなたの食事やカロリー追跡アプリケーション。</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>栄養</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>カロリー</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>ダイエット</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>食事日誌</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>カロリーカウンター</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>バナナ</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>コーヒー</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>りんご</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>卵</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>１ 枚</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>トースト</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>１ カップ</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>オレンジ ジュース</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>ご支援いただき、ありがとうございます ！食事日記アプリから広告を削除するには、このオプションを使用します。</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>広告を削除します。</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>重量を入力する</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>試用期間が終了しました。ロックを解除しますか？</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>１個（Mサイズ）</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>概要</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>あなたが食べるものを追跡する最も簡単なと最も簡単な方法です。データの正確性についての情報をスクロールします。</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>今すぐアップグレードする</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>プレミアム版を購入する</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>{0} の食事日誌</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>予期しないエラーが発生。日誌は送信されませんでした。</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>有効なEメールアドレスを入力してください。</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>合計</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>{0} のみ</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>開発をサポート</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>免責事項：データベースのほとんどは、すべてではないデータ ポイントは評判が良い源から来る。すべての値は正確ですが正しくないか不足しているデータの責任を負うことはできませんを確認するために全力を尽くします。栄養値は、時間の経過とともにブランドによって異なります。このアプリを使用して、あなたを確認し、アプリのデータを修正して、その使用による損害に対して完全に責任を同意します。あなたを助けることができる何かがある場合を教えてください。</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>当アプリのアップデート継続に協力</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>すべての機能を取得する</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>含まれるもの：</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* 注意事項： 大部分のデータは信頼できるソースからのものですが、全部がそうではありません。プレミアム版を購入することで、データの正確さと完全性に対する全責任をユーザーが負うことに同意したものとみなされます。詳細は、daily.journal@outlook.com までEメールでお問い合わせください。</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>新機能</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>将来のアップデートにおける全プレミアム機能</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>より多くの食事</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>1日あたり5〜6回またはそれ以上の回数の食事を記録</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>より多くの食品 *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>数百から数千の食品を追加 (地域によって異なります)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Eメールレポート</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>保存・印刷・または分析のため、日誌をEメールで送信</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>広告なし</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>すべての広告を永久削除</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>今すぐ購入する</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Eメールで送信する</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>今すぐ送信する</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Eメールアドレス</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>すべての機能へのアクセスを得る</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>プレミアムへのアップグレードします。</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>注意事項： データベースに入っている大部分のデータポイントは信頼できるソースからのものですが、全部がそうではありません。数値が正確であるよう最大の努力を払っておりますが、不正確なデータやデータの欠損に関しては責任を負いかねます。当アプリを使用することによって、データの正確さをチェックする全責任はユーザーにあることを認め、受け入れたものとみなされます。データの食い違い等があれば、ご自身で訂正・更新することができます。</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>AAA によってジャーナル質問やコメントですか？BBB に返信</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>送信する</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>良い翻訳をこのリストでは、テキストを更新してください。お住まいの地域の適切な項目のためのすべてのテキストを削除します。</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>ご協力に感謝します！</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>翻訳</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>ここで当アプリの改善に協力することができます。</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>原文：</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>良い</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>説明：</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>アプリの改善に協力</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>連絡を受けたい場合は、あなたのEメールアドレスを入力してください。</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>コメント</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>翻訳を改善</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>ランチャーに追加する</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>平均</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>キャンセル</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>類似した食品からコピーする</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>入力データを削除する</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>この分量の重量を入力する</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>その他のオプション</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>なし</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>OK</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>１日限りの割引セール: {0} ％引き</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>合計</value>
+</data>
+<data name="EmailReport_Footer1a" xml:space="preserve">
+<value>AAA による日誌</value>
+</data>
+<data name="EmailReport_Footer1b" xml:space="preserve">
+<value>質問やご意見がありますか。BBBに返信してください。</value>
+</data>
+</root>

@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>zh-CN</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>食物日记</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>常用项</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>未选择任何内容</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>最近早餐条目</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>最近晚餐条目</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>我最近的运动量</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>最近午餐条目</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>最近的零食条目</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>食物日记</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>食物日記-</value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>早餐</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>晚餐</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>运动</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>午餐</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>小吃</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>合计</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>钙</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>卡路里</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>碳水化合物</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>胆固醇</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>纤维</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>铁</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>单不饱和脂肪</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>多不饱和脂肪</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>钾</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>蛋白</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>饱和脂肪</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>钠</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>糖</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>总脂肪</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>维生素 C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>维生素 D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>体重</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>首选项</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>输入一个搜索词</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value>(新条目)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value>(新配方)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>搜索结果</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} 未找到，请尝试更改你的搜索词</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>补充</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>名稱</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>营养</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>食品信息</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>请先输入体重</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>食用份量</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>多少？</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>其他选项</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>没有营养信息</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>添加份量</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>补充</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>日历</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>广告</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>厘升</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>量杯</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>分升</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>液量盎司</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>加仑</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>克</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>千克</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>升</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>毫升</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>盎司</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>一品脱</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>磅</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>夸脱</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>汤匙</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>茶匙</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>厘升</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>量杯</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>分升</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>液量盎司</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>加仑</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>克</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>千克</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>升</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>毫升</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>盎司</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>品脱</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>磅</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>夸脱</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>大汤匙</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>茶匙</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>ZH</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>金额</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>正在加载...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>立即更新？</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>感谢您使用此应用程序 ！此副本现在已过期。但别担心，点击OK进入最近应用软件下载页面。</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>此任务为食物日记更新动态砖。</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>您已手机设置中禁用您的动态砖的应用。</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>我的首选项</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>在应用软件动态上计数丢失食物数据</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>提醒</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>建立动态</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>报表</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>报表</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 盎司 = 28 g|茶匙 = 4.5 g|汤匙 = 12 g|1 服务 = 28 g|一块 = 14 g|切片 = 12 g|1 杯 = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>拍照</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>感谢您使用此应用软件 ！如果你觉得有用，请留下评论使其成为一个更成功的软件。</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>留下评论吗？</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>目标</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>没有目标设置</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>在一天结束后</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>你吃了什么？</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>提醒： 更新你的日记</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>如果你没有按选定的时间更新你的日记，显示选定的提醒</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>桔子汁,1 杯, 烤面包, 1 片, 鸡蛋, 1 中等, 苹果,咖啡,香蕉</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} 还剩</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>日志</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} 超额完成目标</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>确定删除广告？</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>下载这个应用程序</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>查阅微软手机的食物日记</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>共享链接</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>允许屏幕捕获功能</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>帮助改善翻译</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>具体的反馈可以帮助改进应用软件</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>评价这个应用软件</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>或推荐功能或问一个问题</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>报告问题</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>选择确定，从应用软件中移除广告。</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>来自食物日记的电子邮件</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>食物日记文本</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>食物日记</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>常见的零食条目</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>常见的午餐条目</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>常见的晚餐条目</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>常见的早餐条目</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>餐</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>午夜</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>全部点心</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>单独晚上小吃</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>最近的一个早晨条目</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>常见的早上条目</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>常见的午夜条目</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>常见的晚上条目</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>常见的早下午条目</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>常见的下午条目</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>最近的午夜条目</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>最近的晚上条目</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>最近使用的早下午条目</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>最近下午条目</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>单独午夜小吃</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>晚上</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>单独下午点心</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>单独早下午点心</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>单独上午点心</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>下午</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>早下午</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>早晨</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>立即解锁吗？</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>您的试用现在已过期。您仍可以查看你的日记，但您不能添加新条目。选择确定以解锁的完整版本。</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>谢谢你给我的食物日记。你有剩余的 {0} 审判天数。要解锁该应用程序，按确定。</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>是连接到 Windows Phone 存储的一个问题。请稍后再试。</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>永久删除所有的广告</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>删除广告</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>立即下載，因為你將會喜歡使用它。</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>食物日记</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>高級功能：1.沒有更多的廣告。2.一個大得多的食品資料庫。3.能夠自己的電子郵件副本的奶牛場。4.更多的配置選項，包括能夠進入一天達 8 單獨吃頓飯。</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>特點：1.一個簡單且功能強大的設計： 應用程式打開直接在輸入螢幕上，最近吃頓飯，因為那是你最會使用。設計盡可能簡單和直觀盡可能使添加的條目。2.一個按鍵輸入個人化的建議： 立即可以選擇的最常見的食品。從開始的第二天，您最近使用的專案被建議，因為你可能經常吃同樣的食物。3.在記錄不需要： 沒有個人資料或聯繫資訊是必需的。4.數以千計的專案已經在資料庫中： 大部分食品獲得準確的資訊，關於共同服務規模、 卡路里、 碳水化合物、 蛋白質和脂肪。5.完全離線支援： 無需連接到 internet。6.精確入境也是很容易： 您可以準確地輸入使用滑塊的確切數額。7.每天報告： 使用功能表，您可以直接打開日記，其中顯示了你的一天的總結。在這裡，你可以切換卡路里、 蛋白質和碳水化合物之間按小三角。8.跟蹤你的目標： 進入你的個人目標，可以使用週報表，來看看你的趨勢。9.個人提醒説明你保持在目標上： 他們是方便的方式，以確保你填寫你的日記，每頓飯後，或在年底的一天。這是一個好主意，以驗證資料庫中的資訊相同的資訊在食品包裝上 ；食品營養波動與品牌和隨著時間的推移。請務必與您的醫生或營養專家討論你的目標。</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>關於應用程式：跟蹤你的吃的被所示，以説明防止和制止暴飲暴食。這個應用程式可以説明您控制您的飲食，吃得更健康，使它易於跟蹤你的飲食。優化的設計可以使輸入快如可能，與 1 按一下條目和最近的食物的建議。在建成後的資料庫已經有數以千計的食品，如果你不知道，將它們添加很容易。請注意： 這款應用程式是免費下載，並由廣告支援。只要你喜歡，你可以免費使用它。很可能要刪除廣告費用，這也將使附加的功能。</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>食物日記： 你的飲食和熱量跟蹤應用程式。</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>营养</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>卡路里</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>饮食</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>食品杂志</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>卡路里计数器</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>香蕉</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>咖啡</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>苹果色</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>蛋</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 片</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>吐司</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 杯</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>桔子汁</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>谢谢您的支持 ！使用此选项可以从您的食物日记应用程序中永久移除广告。</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>删除广告</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>輸入的體重</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>試用期滿，解鎖嗎？</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 中等大小</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>買高級版</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>{0} 食品雜誌</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>出现意外。日刊未被發送。</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>請輸入一個有效的電子郵件地址。</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>共</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>僅 {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>支持發展</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>免責聲明：在資料庫中的大多數但不是所有的資料點來從可信的來源。我們做最大努力，以確保所有的值是準確的但不能對不正確或丟失的資料負責。由品牌和隨著時間的推移，會發生變化的營養價值。通過使用這款軟體，您同意以驗證並更正任何資料在應用程式中，並全面負責其用法導致傷害或損失。請讓我知道如果有什麼可以幫忙的。</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>帮助此应用软件的更新</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>具备所有的功能</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>包括：</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* 注： 大多數，但並不是所有的資料来自可信的来源。通過購買高級版本，你接受資料準確性和完整性的全部責任。发邮件至Daily.journal@outlook.com 咨询详细信息。</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>新功能</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>敬请期待更优化的功能</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>更多餐</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>用於跟蹤每天 5、 6 顿或更多餐数</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>更多食物 *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>成百上千的食物条目（根據地理位置)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>電子郵件報告</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>通過電子郵件对您的日記保存、 打印，或對其進行分析</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>沒有廣告</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>所有的廣告將被永久刪除</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>現在買</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>通過電子郵件發送</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>現在發送</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>電子郵件地址</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>現在升級</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>最快和最簡單的方法來跟蹤你吃什麼。向下滾動資訊資料的準確性。</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>獲取訪問所有功能</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>升級到特優</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>注意： 在資料庫中的大多數但不是所有的資料来自可信的来源。我們做最大努力以確保更大的精确性但不能保证其中有不正确或者丢失的数据。通過使用应用软件，您承認並承擔檢查資料的準確性全部責任。這款应用软件允許您更新您可能會發現的任何差異。</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>由AAA提问或评价的日记被BBB回答。</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>請更新此清單中的文本與更好的翻譯。刪除您的地區不適合的專案的所有文本。</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>感謝您的帮助！</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>翻譯</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>在這裡你可以帮助改善這個應用软件。</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>來源語言：</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>很好</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>說明：</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>帮助改进应用软件</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>如果您想要聯繫，請輸入您的電子郵件地址。</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>評論</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>提高翻譯品質</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>添加至主屏</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>平均值</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>取消</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>从同类项复制</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>删除条目</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>请为该数量输入重量</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>更多选项</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>无</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>确定</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>限时1天促销：优惠 {0}%</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>总计</value>
+</data>
+</root>

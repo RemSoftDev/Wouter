@@ -1,0 +1,879 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Jajce		33
+1	B	Kruh		184
+2	B	Kava		509
+3	D	Kruh		603
+4	S	Jabolko		928
+5	L	Piščanec		1209
+6	B	Jabolko		1350
+7	S	Piškotov		1631
+8	S	Kava		1791
+9	L	Kruh		1885
+10	S	Čaj		2210
+11	B	1 % mleka		2299
+12	B	Čaj		2452
+13	B	Polnozrnati kruh		2541
+14	S	Kruh		2789
+15	L	Beli riž		3115
+16	D	Jajce		3224
+17	L	Paradižnika		3376
+18	L	Jajce		3610
+19	B	Koruzni kosmiči		3762
+20	B	Slanino		3882
+21	D	Piščanec		4020
+22	D	Paradižnika		4162
+23	S	Nizko maščobe sadni jogurt		4396
+24	S	Jajce		4506
+25	L	Oljčno olje		4658
+26	D	Piščančje prsi		4770
+27	D	Beli riž		4966
+28	B	Nizko maščobe sadni jogurt		5075
+29	B	Banana		5185
+30	L	Jabolko		5203
+31	B	Ovsena kaša		5485
+32	D	Korenček		5592
+33	B	Jogurt		5861
+34	L	Korenček		5900
+35	L	Solata ledene gore		6169
+36	L	Krompirja		6581
+37	D	Jabolko		6793
+38	D	Čebula		7075
+39	D	Slanino		7357
+40	B	Oves		7495
+41	S	Banana		7592
+42	L	Prsut		7610
+43	B	Francoski kruh		7643
+44	L	Čaj		7809
+45	L	Zelena solata		7898
+46	L	Nizko maščobe sadni jogurt		8323
+47	S	Keks		8433
+48	B	Beli kruh		8641
+49	L	Polnozrnati kruh		8963
+50	B	Keks		9211
+51	L	Solata		9419
+52	B	Sveži sir		9437
+53	S	Polnozrnati kruh		9620
+54	S	Čips		9868
+55	B	Maslo		9887
+56	L	Tuna		9916
+57	D	Polnozrnati kruh		9935
+58	B	Kava z mlekom		10183
+59	D	Tuna		10202
+60	B	Paradižnika		10221
+61	L	Goveja juha		10455
+62	S	Čokolada		10594
+63	L	Puranje prsi		10614
+64	S	Mlečna čokolada		10763
+65	B	Hrenovka		10899
+66	D	Mleko		10919
+67	L	Kuhana krompirja		11016
+68	D	Banana		11212
+69	B	Mleko		11230
+70	L	Beli kruh		11327
+71	B	Soljeno maslo		11649
+72	B	Kivi		11764
+73	B	Klobasa		11782
+74	D	Beli kruh		11887
+75	D	Jogurt		12209
+76	S	Pomaranca		12248
+77	B	Kakav puder		12268
+78	L	Sveži sir		12380
+79	B	Med		12563
+80	S	Indijski orehi		12583
+81	D	Klobasa		12739
+82	L	Makaroni		12844
+83	D	Keks		13023
+84	L	Palačinka		13231
+85	D	Nizko maščobe sadni jogurt		13372
+86	B	Marmelada		13482
+87	B	Otrobi, kosmiči		13503
+88	S	Korenček		13611
+89	S	Pomarančni sok		13880
+90	L	Pire krompir		13967
+91	B	Jagoda		14104
+92	B	Ananas		14347
+93	B	Palačinka		14514
+94	B	Pomaranca		14655
+95	L	Zelje		14675
+96	D	Pica		14962
+97	B	Čokolino		14995
+98	B	Piškotov		15029
+99	S	Pomarančni sok s kalcijem		15190
+100	L	Banana		15337
+101	L	Pica		15356
+102	D	Piškotov		15390
+103	B	Kosmici		15552
+104	L	Kosi svinjine		15592
+105	D	Sveži sir		15689
+106	L	Riž		15873
+107	D	Mlečna čokolada		15979
+108	S	Mleko		16116
+109	B	Egg		16214
+110	B	2 % mleko		16313
+111	S	Jabolčni zavitek		16468
+112	D	Prepecenec		16629
+113	D	Čokolada		16649
+114	L	Kava		16670
+115	B	Sir		16766
+116	L	Sendvič		16865
+117	L	Meso		16885
+118	L	Čebula		16921
+119	B	Tuna		17204
+120	L	Pločevinkah stročji fižol		17224
+121	D	Krompirja		17384
+122	L	Piščančje prsi		17597
+123	L	Avokado		17794
+124	L	Omaka		17962
+125	L	Cvetaca		18076
+126	L	Pečene piščančje prsi		18096
+127	L	Krompir		18235
+128	L	Klobasa		18328
+129	D	Solata		18434
+130	B	Piščančje prsi		18453
+131	D	Solata ledene gore		18650
+132	D	Maslo		19063
+133	D	Sir		19093
+134	S	Hruška		19192
+135	B	Hruška		19377
+136	B	Solata		19562
+137	B	Skuta		19581
+138	B	Mango		19619
+139	B	Mlečna čokolada		19641
+140	D	Jagoda		19778
+141	D	Čaj		20022
+142	D	Lahka nizko maščobe sadni jogurt		20112
+143	L	Rjavi riž		20271
+144	L	Rezanci		20371
+145	B	Prepecenec		20484
+146	B	Toast		20504
+147	B	Puranje prsi		20523
+148	S	Paprika		20673
+149	B	Čips		20695
+150	L	Hrenovke		20715
+151	L	Krof		20736
+152	L	Bucke		20969
+153	D	Salama		20988
+154	D	Prsut		21022
+155	D	Skuta		21056
+156	D	Čokolino		21094
+157	D	1 % mleka		21129
+158	D	Koruzni kosmiči		21283
+159	L	Paprika		21404
+160	L	Piškotov		21426
+161	L	Kava z mlekom		21588
+162	D	Palačinka		21608
+163	B	Prsut		21750
+164	S	Beli riž		21784
+165	S	Piščanec		21894
+166	S	Solata ledene gore		22037
+167	S	Nizko vsebnostjo maščob mleko čokolada		22450
+168	B	Namaz sirni		22617
+169	B	Coffee		22740
+170	B	Grenivka		22776
+171	B	Pomarančni sok s kalcijem		22798
+172	B	Grski Jogurt		22946
+173	B	Neredilni mleka		22984
+174	B	Sir keks		23128
+175	B	Pomarančni sok		23326
+176	B	Navadni Jogurt		23414
+177	L	Čokolada		23435
+178	D	Paprika		23456
+179	B	Cicerika		23478
+180	B	Ovseni kosmici		23498
+181	D	Puranje prsi		23607
+182	B	Piščanec		23757
+183	B	Beli riž		23900
+184	D	Oljčno olje		24010
+185	D	Pomaranca		24123
+186	D	Pomarančni sok s kalcijem		24144
+187	D	Nutela		24292
+188	D	Med		24331
+189	B	Sok		24352
+190	L	Pločevinkah rdeči fižol v zrnju		24374
+191	B	Hrenovke		24484
+192	B	Tea		24505
+193	S	Jagoda		24538
+194	L	Jabolčni zavitek		24782
+195	S	Ovsena kaša		24943
+196	B	Rogljiček		25051
+197	L	Majoneza		25220
+198	D	Čips		25260
+199	L	Hrenovka		25280
+200	B	Salama		25301
+201	B	Grozdje		25335
+202	S	Koruzni kosmiči		25469
+203	B	Zeleni čaj		25590
+204	B	Majoneza		25624
+205	B	Majoneza lahka		25664
+206	L	Pečenega svinjskega hrbta		25685
+207	S	Apple		25789
+208	S	Slanino		25880
+209	S	Paradižnika		26019
+210	S	Pecivo		26254
+211	S	Maslo		26275
+212	S	Piškotek čips		26305
+213	S	Avokado		26419
+214	S	Cvetaca		26587
+215	S	Kakav puder		26607
+216	B	Bread		26720
+217	L	Koruza		26822
+218	L	Šunka z naravnimi sokovi		27062
+219	B	Pločevinkah rdeči fižol v zrnju		27206
+220	L	Ananas		27316
+221	B	Avokado		27484
+222	B	Rženi kruh		27652
+223	B	Šunka z naravnimi sokovi		27942
+224	B	Pecivo		28086
+225	B	Kuhana krompirja		28107
+226	B	Sataras		28304
+227	S	Piškotek čokolada čip		28331
+228	D	Soljeno maslo		28520
+229	D	Cvetaca		28636
+230	D	Kava z mlekom		28656
+231	D	Krof		28676
+232	D	Pire krompir		28909
+233	D	Otrobi, kosmiči		29047
+234	D	Grozdje		29156
+235	D	Zelena solata		29290
+236	D	Kuhana krompirja		29716
+237	D	Rženi kruh		29913
+238	B	Lahka nizko maščobe sadni jogurt		30203
+239	D	Jabolko, grozdja in hruškovega soka		30362
+240	L	Paradižnik		30504
+241	B	Šejk		30566
+242	B	Granola		30587
+243	B	Koruza		30608
+244	D	Goveja juha		30848
+245	D	Špageti		30988
+246	D	Jabolčni zavitek		31099
+247	D	Indijski orehi		31260
+248	D	Govedina		31417
+249	L	Krvavice		31448
+250	L	Pomfri		31474
+251	L	Mlečna čokolada		31509
+252	L	Zelen grah		31646
+253	L	Goveje meso		31751
+254	L	Čips		31932
+255	L	Jogurt		31952
+256	L	1 % mleka		31992
+257	B	Arašidovo maslo		32146
+258	L	Pomaranca		32246
+259	S	Mandarina		32267
+260	L	Maslo		32303
+261	L	Rženi kruh		32333
+262	L	Jagoda		32623
+263	B	Svežega pomarančnega soka		32867
+264	B	Ovseno Mleko		33015
+265	S	Palačinka		33035
+266	S	Prepecenec		33177
+267	S	Čokoladni sladoled		33197
+268	B	Mandarina		33318
+269	B	Paprika		33354
+270	S	Zelena solata		33376
+271	B	Svetlobo obogatena nizko maščobe sadni jogurt		33802
+272	S	Puranje prsi		33969
+273	B	Piškoti		34119
+274	B	Namaz		34140
+275	B	Margarina		34161
+276	S	Prsut		34189
+277	S	Rjavi riž		34223
+278	S	Kivi		34323
+279	S	Sveži sir		34342
+280	B	Solata ledene gore		34526
+281	D	Kosi svinjine		34939
+282	D	Hrenovka		35036
+283	B	Jabolčni zavitek		35057
+284	B	Pica		35218
+285	B	Krof		35252
+286	B	Potica		35485
+287	S	Ajvar		35505
+288	D	Makaroni		35542
+289	B	Kakav		35722
+290	D	Šunka z naravnimi sokovi		35826
+291	D	Sendvič		35970
+292	S	Sok		35990
+293	D	Kisla smetana		36012
+294	B	Paradižnik		36136
+295	B	Kefir		36198
+296	B	Pečene piščančje prsi		36218
+297	B	Mandarine		36357
+298	S	Piškoti		36377
+299	B	Smuti		36398
+300	S	Skuta		36419
+301	B	Ajvar		36457
+302	B	Zelena solata		36494
+303	B	Kuhana leča		36920
+304	B	All-otrobi, pšenični kosmiči		37027
+305	B	Špageti		37135
+306	L	Sok		37246
+307	B	Rjavi riž		37268
+308	B	Koruzni zdrob		37368
+309	B	Smoothie		37474
+310	B	Pločevinkah stročji fižol		37495
+311	B	Kaki		37655
+312	B	Nizko vsebnostjo maščob mleko čokolada		37695
+313	S	Staromodna krof		37862
+314	S	Neredilni mleka		38091
+315	S	Sadni jogurt		38235
+316	B	Polnomastno mleko		38273
+317	S	Tuna		38435
+318	B	Pomfri		38455
+319	S	Kaki		38490
+320	S	Rogljiček		38530
+321	S	Med		38699
+322	S	Solata		38720
+323	B	Sadni jogurt		38739
+324	S	Praženi mandlji		38777
+325	B	Korenček		38938
+326	S	Ovseni kosmici		39208
+327	B	Pasteta jetrna		39317
+328	S	Potica		39347
+329	S	Pica		39367
+330	S	Jabolko, grozdja in hruškovega soka		39401
+331	S	Jogurt		39543
+332	S	Tea		39583
+333	S	1 % mleka		39616
+334	B	Makaroni		39770
+335	S	Krompirja		39950
+336	D	Koruza		40163
+337	D	Lubenica		40403
+338	L	Soljeno maslo		40565
+339	D	Neredilni mleka		40681
+340	L	Svinjska klobasa klobasa		40825
+341	D	Pečene piščančje prsi		40934
+342	D	Kefir		41073
+343	D	Ribe		41093
+344	D	Slanina		41114
+345	D	Majoneza		41210
+346	D	Mandarine		41250
+347	D	Avokado		41270
+348	D	Pločevinkah rdeči fižol v zrnju		41438
+349	D	Ovseni kosmici		41548
+350	D	Nizko vsebnostjo maščob mleko čokolada		41657
+351	D	Namaz sirni		41824
+352	D	Svinjska klobasa klobasa		41947
+353	D	Ovseni otrobi žit		42056
+354	D	Koruzni zdrob		42168
+355	D	Gorčica		42274
+356	D	Namaz		42402
+357	D	Pločevinkah stročji fižol		42423
+358	D	Tuna v olju		42583
+359	D	Ohrovt		42604
+360	L	Riba		42729
+361	L	Pomarančni sok s kalcijem		42750
+362	L	2 % mleko		42898
+363	L	Tune v pločevinkah svetlobe		43053
+364	L	Prepecenec		43215
+365	L	Pecivo		43235
+366	L	Sir keks		43256
+367	D	Šejk		43454
+368	D	Rjavi riž		43475
+369	L	Sadni jogurt		43575
+370	L	Lahka vanilijev sladoled		43613
+371	D	Potica		43739
+372	D	Hruška		43759
+373	D	Goveje meso		43944
+374	D	Sir keks		44125
+375	D	Zelje		44323
+376	L	Pire		44611
+377	D	Toast		44650
+378	D	Egg		44669
+379	D	Rogljiček		44768
+380	D	Kava		44937
+381	L	Bread		45033
+382	L	Francoski kruh		45135
+383	L	Polenta		45302
+384	B	Riba		45342
+385	B	Cvetaca		45363
+386	B	Staromodna krof		45383
+387	B	Pire		45612
+388	B	Burek		45651
+389	B	Sirova Štrucka		45672
+390	L	Mleko		45693
+391	D	Meso		45791
+392	L	Kefir		45827
+393	D	Pecivo		45847
+394	D	Tune v pločevinkah svetlobe		45868
+395	D	Kosmici		46030
+396	D	Praženi mandlji		46070
+397	D	Piškoti		46231
+398	D	Cicerika		46252
+399	D	Kakav puder		46272
+400	D	Kivi		46385
+401	D	Smoothie		46404
+402	D	Sataras		46425
+403	D	Bucke		46452
+404	S	Pečene piščančje prsi		46471
+405	S	Riba		46610
+406	D	Omaka		46631
+407	D	Burek		46745
+408	L	Mandarina		46766
+409	L	Ohrovt		46802
+410	D	Ovsena kaša		46927
+411	D	Rezanci		47035
+412	D	Nuttela		47148
+413	D	Smuti		47175
+414	D	Pire		47196
+415	S	Marmelada		47235
+416	D	Pečenega svinjskega hrbta		47257
+417	D	Staromodna krof		47361
+418	D	Zeleni čaj		47590
+419	D	Topli sendvič		47624
+420	D	Piškotek čokolada čip		47644
+421	D	Pomarančni sok		47833
+422	D	Margarina		47921
+423	S	Klobasa		47949
+424	S	Polnomastno mleko		48055
+425	S	Svežega pomarančnega soka		48217
+426	S	Svetlobo obogatena nizko maščobe sadni jogurt		48365
+427	S	Gorčica		48532
+428	S	Soljeno maslo		48660
+429	S	Koruza		48776
+430	S	Oves		49016
+431	S	Smuti		49114
+432	S	Arašidovo maslo		49135
+433	S	Piščančje prsi		49235
+434	S	Coffee		49432
+435	S	Biscuit		49468
+436	S	Toast		49564
+437	S	Francoski kruh		49583
+438	S	Kuhana leča		49750
+439	S	Riž		49857
+440	L	Burek		49963
+441	S	Majoneza		49984
+442	S	Lignji		50024
+443	S	Paradižnik		50053
+444	S	Navadni Jogurt		50115
+445	S	Nutella		50136
+446	S	Hrenovke		50157
+447	S	Zelen grah		50178
+448	S	Ananas		50283
+449	S	Smoothie		50451
+450	S	Sendvič		50472
+451	S	Oljčno olje		50492
+452	S	Krof		50605
+453	S	Cicerika		50838
+454	S	Ohrovt		50858
+455	S	Kosi svinjine		50983
+456	B	Topli sendvič		51080
+457	L	Staromodna krof		51100
+458	B	Svinjska klobasa klobasa		51329
+459	B	Piškotek čokolada čip		51438
+460	B	Tuna v olju		51627
+461	B	Krvavice		51648
+462	B	Stepeno maslo		51674
+463	B	Jabolko, grozdja in hruškovega soka		51817
+464	B	Kosi svinjine		51959
+465	B	Čokoladni sladoled		52056
+466	B	Tune v pločevinkah svetlobe		52177
+467	B	Oljčno olje		52339
+468	B	Krompirja		52452
+469	B	Piškotek čips		52665
+470	B	Čokolada		52779
+471	B	Ribe		52800
+472	B	Nuttela		52821
+473	B	Krompir		52848
+474	B	Slanina		52941
+475	B	Lignji		53037
+476	B	Pečenega svinjskega hrbta		53066
+477	B	Ovseni otrobi žit		53170
+478	B	Ohrovt		53282
+479	B	Zelen grah		53407
+480	B	Goveje meso		53512
+481	B	Rezanci		53693
+482	B	Biscuit		53806
+483	B	Apple		53902
+484	B	Zelje		53993
+485	B	Čebula		54281
+486	L	Kosmici		54564
+487	L	Grozdje		54604
+488	L	Špageti		54738
+489	L	Koruzni kosmiči		54849
+490	L	Praženi mandlji		54970
+491	L	Piškotek čips		55131
+492	B	Omaka		55245
+493	L	Kakava, Prodnik		55359
+494	L	Sir		55465
+495	L	Nutella		55564
+496	L	Govedina		55585
+497	L	Sirova Štrucka		55616
+498	L	Ribe		55637
+499	L	Lignji		55658
+500	L	Mandarine		55687
+501	L	Keks		55707
+502	L	Koruzni zdrob		55916
+503	B	Nutela		56022
+504	B	Sendvič		56061
+505	B	Gorčica		56081
+506	L	Rogljiček		56209
+507	L	Ovsena kaša		56378
+508	L	Salama		56486
+509	L	Smuti		56520
+510	L	Svetlobo obogatena nizko maščobe sadni jogurt		56541
+511	L	Nizko vsebnostjo maščob mleko čokolada		56708
+512	S	Rezanci		56875
+513	L	Kisla smetana		56988
+514	L	Jabolko, grozdja in hruškovega soka		57112
+515	L	Gorčica		57254
+516	B	Kakava, Prodnik		57382
+517	L	Stepeno maslo		57488
+518	D	Rdeče vino		57631
+519	L	Pečen fižol		57706
+520	L	Dolgozrnatega riža		57771
+521		Breskev		57838
+522		Sladkor		57964
+523		Kumare		58093
+524		Beli fižol		58282
+525		Pirin Kruh		58394
+526		Brezglutenski Kruh		58431
+527		Laneno Seme		58467
+528		Mešani oreščki		58506
+529		Ajdova kaša		58615
+530		čičerikin namaz		58653
+531		Fige		58691
+532		Chia		58723
+533		Biskvit torta		58761
+534		Meso piščančjih prsi		58890
+535		Skusa		59029
+536		Borovnice		59061
+537		Mast		59121
+538		Orehi		59163
+539		Svinsko meso		59184
+540		Marelice		59216
+541		Piscancja Prsa		59236
+542		Rjav Fizol		59274
+543		Kuhan Pršut		59306
+544		Arašidi		59345
+545		Olive		59381
+546		Puding		59401
+547		Prosena Kaša		59422
+548		Korenje		59459
+549		Ledeni Caj		59553
+550		Črn kruh		59577
+551		Limonada		59675
+552		Cesnje		59810
+553		Sojino Mleko		59830
+554		čokolešnik		59852
+555		Frutabela		59890
+556		Nektarina		59932
+557		Soncnicno olje		59952
+558		Melona		59978
+559		Slive		60000
+560		Tortilija		60022
+561		Whey		60042
+562		Konopljino Olje		60083
+563		Zamrznjene pice		60111
+564		Breskve		60242
+565		Rožič		60271
+566		Sunka		60310
+567		Rozine		60340
+568		Fižol		60538
+569		Bela kava		60558
+570		jajca		60598
+571		g Nekuhane Ajdove Kaše (3,5jz)		60700
+572		Bonboni		60737
+573		Brusnice		60773
+574		Kokosovo mleko		60794
+575		Grški Jogurt 2%		60815
+576		Por		60855
+577		Rjavi sladkor		60875
+578		Kokosova Moka		61002
+579		Krekerji		61043
+580		Surova špinača		61083
+581		Riževo mleko		61244
+582		Jabolcni sok		61278
+583		Olivno olje		61419
+584		Feta Sir		61442
+585		Senf		61463
+586		Riževi vaflji		61484
+587		Humus		61523
+588		Jetrca		61561
+589		Sardine		61583
+590		Beljakovinski Napitek		61613
+591		Čokoladni kosmiči		61650
+592		Pasteta tunina		61689
+593		Mesana zelenjava		61730
+594		Beljakovinska Ploscica		61777
+595		Filana Paprika		61814
+596		Pšenica krekerji		61856
+597		Proso		62051
+598		Maslo olje		62091
+599		Sir edamec		62189
+600		Ajdovi zganci		62290
+601		Žemlja		62327
+602		Mortadela		62348
+603		Ledena Kava		62369
+604		Mlečen Riž		62405
+605		Muffin		62441
+606		beljakovine		62463
+607		Musli		62504
+608		Tunin sendvic		62542
+609		Rolada		62563
+610		Figa		62584
+611		Beljak		62604
+612		Čokoladni žepek		62625
+613		Rižev narastek		62664
+614		Vanilijev sendvič piškotki		62685
+615		Sejk Herbalife		62832
+616		Ajda		62854
+617		Multi-zrn kruha		62875
+618		Sojin Jogurt		63169
+619		Pletenica		63204
+620		Žganci		63225
+621		Nizka vsebnost maščob vanilijev jogurt		63263
+622		Oreh		63421
+623		Vafelj		63669
+624		Napolitanka		63784
+625		Švicarski sir		63806
+626		Ameriški sir		64054
+627		Pol in pol		64308
+628		Lahka krema		64474
+629		Težka stepena smetana		64639
+630		Smetano nadomestek v prahu		64836
+631		Celotno čokoladno mleko		65009
+632		Čokoladno mleko		65190
+633		Jutranje majoneze		65368
+634		Solatni preliv z majonezo		65516
+635		Arašidovo olje		65679
+636		Sojino olje		65820
+637		Italijanski preliv		65967
+638		Francoski jutranje		66131
+639		Nizko maščobe rastlinskega olja, širjenje		66294
+640		Koruzno olje		66451
+641		Olje oljne repice		66597
+642		Maslo palico		66742
+643		Rastlinsko olje, širjenje		66899
+644		Rastlinsko olje		67059
+645		Industrijski sojino olje		67209
+646		Industrijski sojino in olje bombaževca		67355
+647		Kokosovo olje		67501
+648		Pohan piščanec		67647
+649		Praženo piščančje meso		67860
+650		Dušena piščanec		68066
+651		Trdo kuhano jajce		68272
+652		Polovic jajčnih		68467
+653		Maslo brez soli		68661
+654		Neizpopolnjene neredilni mleka		68823
+655		Smetana nadomestek		68997
+656		Utrjeno nizko maščobe sadni jogurt		69167
+657		Piščančja bedra		69348
+658		Piščanec Rezanec juha		69518
+659		Kremna gobova juha		69692
+660		Omaka za žar		69866
+661		Zalog govejega mesa		70027
+662		Piščanca parka		70199
+663		Kremna juha školjk		70373
+664		Piščančje juha		70553
+665		Zvitek piščanca		70722
+666		Sol		70883
+667		Jabolčni sok		71014
+668		Grozdni sok		71188
+669		Dinja		71364
+670		Pomarančni sok koncentrat		71613
+671		Pomarančni sok, zamrznjen koncentrat		71790
+672		Zamrznjene jagode		71971
+673		Extra pusto šunko		72249
+674		Extra pusto pražene šunke		72404
+675		Šunko in vode		72559
+676		Šunka - dodana voda		72718
+677		Surovi brokoli		72880
+678		Brokoli		73156
+679		Zamrznjene brokoli		73431
+680		Surovo zelje		73705
+681		Kuhan korenček		74095
+682		Zamrznjeno korenje		74378
+683		Zelena		74663
+684		Rumene koruze v pločevinkah		74929
+685		Beli gob		75088
+686		Kuhane čebule		75243
+687		Spomladansko čebulo		75563
+688		Peteršilj		75780
+689		Pečen krompir		75946
+690		Krompir v kožo		76170
+691		Pečen sladki krompir		76393
+692		Sladki krompir		76602
+693		Kuhan paradižnik		76807
+694		Paradižnik v pločevinkah		77107
+695		Dušena paradižnik v pločevinkah		77282
+696		Paradižnikov sok		77580
+697		Paradižnikovo mezgo		77759
+698		Paradižnikova omaka v pločevinkah		77919
+699		Pločevinkah zelenjavni sok		78077
+700		Pločevinkah sladki krompir		78255
+701		Pločevinkah korenčkov sok		78462
+702		Pečen krompir s kožo		78639
+703		Škripcih		78865
+704		Užitkom		79114
+705		Mandlji		79274
+706		Olupljenih mandljev		79492
+707		Nasoljene praženi mandlji		79693
+708		Pivo		79895
+709		Svetlo pivo		80047
+710		Kava brez kofeina kava		80191
+711		Sadja v pločevinkah pijačo		80346
+712		Obogateni sadne pijače		80492
+713		Kava brez kofeina čaj		80649
+714		Kola		80808
+715		Voda iz pipe		80954
+716		Lahka kola		81095
+717		Sadje okusom vode		81237
+718		Zelenjavni in sadni sokovi		81380
+719		Kola brez kofeina		81541
+720		Ustekleničene vode		81683
+721		Obogateni sadja aromatiziran vode		81825
+722		Sendvič zrezek		81966
+723		Sled		82121
+724		Rakovice		82376
+725		Školjke		82563
+726		Pločevinkah školjke		82733
+727		Rdeči fižol v zrnju		82907
+728		Čebule		83063
+729		Italijanski kruh		83244
+730		Sojina omaka		83455
+731		Čokoladni sendvič piškotki		83641
+732		Arašidovo maslo piškotek		83860
+733		Slanih krekerjev		84077
+734		Krekerji z arašidovo maslo		84295
+735		Kolaček borovnic		84516
+736		Tortiljo		84700
+737		Kvas		84951
+738		Koruzni sekanci		85109
+739		Arašide M & Ms		85269
+740		M & Ms		85468
+741		Želejeve bonbone		85669
+742		Čipi		85941
+743		Zmanjšati maščobe čipov		86105
+744		Krompirček		86262
+745		Omejeno nemastnega sira		86454
+746		Beli čipov		86699
+747		Cezar preliv		86852
+748		Brusnični sok		87020
+749		Nizka vsebnost maščob švicarski sir		87192
+750		Haše rjava		87437
+751		Presto		87584
+752		Testenine s paradižnikovo omako		87719
+753		Mikrovalovna pokovko		87858
+754		Mesne in zelenjavne pice		87997
+755		Sladkor v prahu		88140
+756		Kolač od sira		88270
+757		Želeji		88413
+758		Sir puder		88553
+759		Arašidi brez soli		88700
+760		Praženi arašidi		88851
+761		Bučno pito		88998
+762		Kokice		89175
+763		Karamele		89310
+764		Črni fižol		89454
+765		Krušnih drobtin		89598
+766		Leča		89738
+767		Soljeni arašidi		89881
+768		Nasoljene praženih arašidov		90034
+769		Ostriga		90183
+770		Kozice		90323
+771		Konzervirane kozice		90455
+772		Pražene šunke		90587
+773		Puder krompirja		90720
+774		Endivija		90870
+775		Jabolčno čežano		91040
+776		Praženi Turčija		91187
+777		Praženo puranje meso		91326
+778		Oves s cimetom in začimb		91461
+779		Oves z rozinami in začimb		91606
+780		Italijanska klobasa		91755
+781		Piščančja stegna		91916
+782		Piščanca krilo		92074
+783		Piščančje prsi s kožo		92212
+784		Piščančji panirani		92364
+785		Palčka		92522
+786		Sir omako		92679
+787		Posušene jajčne		92826
+788		Jajčni rumenjak		92976
+789		Suhega mlečnega		93126
+790		Parmezan		93276
+791		Skuto		93421
+792		Mešana zelenjava		93568
+793		Kuhane špinače		93694
+794		Pločevinkah špinača		93821
+795		Lističi repe		93946
+796		Gorčica zelenja		94088
+797		Pločevinkah graha		94227
+798		Zamrznjenega graha		94354
+799		Zeleni radič		94481
+800		So Raątika		94614
+801		Beluši		94754
+802		Terenu svinjina		94872
+803		Pečenega maščobe na svinjskega hrbta		94992
+804		Pražen svinjski ledij		95099
+805		Svinjski kotleta		95206
+806		Losos		95314
+807		Goveje prsi		95432
+808		Goveje meso Prsni		95546
+809		Ribje palčke		95659
+810		Ploščatih ribah		95807
+811		Čokoladni preliv		95926
+812		Som		96051
+813		Šarenka		96168
+814		Pečen fižol s Franki		96289
+815		Čokoladna torta		96420
+816		86 dokaz alkoholnih pijač		96557
+817		80 dokaz alkoholnih pijač		96641
+818		Belo vino		96723
+819		Pečena govedina rezilo		96827
+820		Goveje krog		96942
+821		Olje praženi arašidi		97056
+822		Goveje jeter		97175
+823		Sončnično olje, pražena semena		97300
+824		Sončnična semena		97438
+825		Praženih sončničnih semen		97572
+826		Piščančja jetra		97707
+827		Pečen piščanec krila		97830
+828		Piščanec faca		97947
+829		Kosilo meso		98075
+830		Feferoni		98185
+831		Svinjsko in goveje klobase		98316
+832		Salame		98453
+833		Jetra klobasa		98586
+834		Predkuhana svinjska klobasa		98723
+835		Koruzni chex		98848
+836		Sadno prodniki		98970
+837		Grozdni matice žit		99081
+838		KIX		99210
+839		Srečen čare		99338
+840		Matica chex medu		99469
+841		Riž chex		99600
+842		Motnega kosmiči		99725
+843		Polnozrnati skupno		99857
+844		Pšenica chex		99977
+845		Nizko maščobe granolo brez rozin		100098
+846		Ovsena kaša kvadratov		100213
+847		Vlaken, eden		100348
+848		Nizko maščobe granolo z rozinami		100462
+849		Opečeni ovseni medu		100579
+850		Piščanec Zrno		100697
+851		Zmanjšati maščobe arašidovo maslo		100823
+852		Angleški Kolač		100945
+853		Peko čokolado		101059
+854		Kakovostno čokolado		101196
+855		Vanilijev sladoled		101324
+856		Pomarančni šerbet		101453
+857		Pecilni prašek		101574
+858		Granolo baru		101688
+859		Pinjenec vafelj		101796
+860		Kakav v prahu		101930
+861		Apno ledu tip		102055
+862		Medu		102160
+863		Javorjev sirup		102267
+864		Piščanec pot-pie		102390
+865		Testenine z mesne kroglice v paradižnikovi omaki		102518
+866		Piškotov z jajce in klobase		102647
+867		Piškotov s klobaso		102780
+868		Maša koruzne moke		102913
+869		Obogateni koruzne		103042
+870		Surovega belega riža		103169
+871		Polnozrnati moki		103296
+872		Vse namene moke		103423
+873		Bel kruh moke		103552
+874		Torta moke		103680
+875		Medu šopke oves z mandlji		103807
+876		Terenu govejega mesa (75/25)		103934
+877		Medu šopke oves		104053

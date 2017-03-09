@@ -1,0 +1,1446 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Cafea		33
+1	L	Pâine		159
+2	B	Pâine		410
+3	B	Ou		661
+4	S	Cafea		820
+5	D	Pâine		946
+6	S	Pâine		1197
+7	L	Pui		1448
+8	S	Biscuiti		1624
+9	S	Banane		1784
+10	B	Banane		2058
+11	S	Ceai		2333
+12	S	Ou		2412
+13	B	Paine prajita		2572
+14	B	Ceai		2853
+15	B	1% lapte		2932
+16	L	Ou		3100
+17	D	Ou		3260
+18	D	Piept de pui		3420
+19	B	Fulgi de ovăz		3611
+20	D	Cartofi prajiti		3762
+21	S	Cartofi		3937
+22	L	Salata verde		4143
+23	B	lapte 2%		4558
+24	B	Biscuiti		4730
+25	D	Salata verde		4891
+26	L	Cafea		5306
+27	L	Pulpă de pui		5433
+28	L	Orez alb		5668
+29	S	Chips-uri		5787
+30	B	Covrig		5940
+31	S	Mar		6091
+32	S	Covrig		6124
+33	L	Banane		6275
+34	D	Vin rosu		6550
+35	L	Castravete		6655
+36	S	Paine prajita		6860
+37	B	Crema de branza		7141
+38	S	Tort de ciocolata		7363
+39	D	Pui		7488
+40	D	Castravete		7665
+41	L	Tomate		7870
+42	S	Piept de pui carne		8197
+43	S	Scăzut de grăsime fructe iaurt		8346
+44	L	Paine prajita		8448
+45	L	Iahnie de fasole		8729
+46	B	Salam		8811
+47	D	Ceai		8979
+48	D	Ceapa		9058
+49	L	Varza		9357
+50	S	Salata verde		9726
+51	B	Unt sărat		10141
+52	D	Ciocolata cu lapte		10281
+53	B	Scăzut de grăsime fructe iaurt		10460
+54	D	Supa de pui		10562
+55	D	Paine prajita		10723
+56	B	Castravete		11004
+57	B	Mar		11209
+58	D	Orez alb		11242
+59	L	Covrig		11361
+60	L	Ulei de măsline		11512
+61	B	Cozonac		11605
+62	L	Fiert orez		11782
+63	L	Ceai		11866
+64	D	Pulpă de pui		11945
+65	L	Ceapa		12180
+66	S	Pui prăjit		12479
+67	L	Morcov		12690
+68	B	Fulgi de porumb		12973
+69	L	Crema de branza		13083
+70	B	Tomate		13305
+71	D	Tomate		13632
+72	D	Crema de branza		13959
+73	S	Ceapa		14181
+74	B	Ou fiert tare		14480
+75	S	Carne de porc sol		14669
+76	D	Morcov		14771
+77	S	Floricele de porumb		15054
+78	S	Migdale		15188
+79	B	Ovăz		15428
+80	D	Carne de vită		15550
+81	S	Inghetata de ciocolata		15731
+82	S	Carne de vită		15867
+83	B	Supa de pui		16048
+84	L	Cartofi prajiti		16209
+85	L	Supa de pui		16384
+86	S	Capsuni		16545
+87	L	Morcov fiert		16834
+88	B	Fibra pâine		17122
+89	D	Aripa de pui prăjit		17363
+90	B	Suc de mere		17481
+91	B	Iaurt		17608
+92	L	Piept de pui		17647
+93	B	Sunca		17838
+94	S	Rosii gatite		18040
+95	L	Ceapa de primăvară		18279
+96	D	Suc de mere		18468
+97	L	Rosii gatite		18595
+98	D	Morcov fiert		18834
+99	S	Orez brun		19122
+100	D	Mar		19222
+101	B	Miere		19256
+102	L	Scăzut de grăsime fructe iaurt		19376
+103	S	Castravete		19479
+104	D	Ceapa de primăvară		19685
+105	B	Pâine franceză		19875
+106	B	Suc de lamaie		20034
+107	B	Migdale		20124
+108	L	Piure de cartofi		20365
+109	D	Rosii gatite		20510
+110	L	Mar		20750
+111	D	Spanac crud		20784
+112	D	Clătită		20943
+113	D	Bere		21108
+114	S	Ciocolata cu lapte		21241
+115	D	Banane		21421
+116	D	Cartofi fierti		21697
+117	B	Cascaval		21923
+118	L	Supa de pui cu taitei		21943
+119	L	Sunca		22102
+120	L	Paste cu sos de rosii		22305
+121	L	Salam		22424
+122	S	Miere		22593
+123	L	Cartofi fierti		22713
+124	D	Salam		22939
+125	L	Ciuperci albe		23108
+126	B	Brânză		23267
+127	D	Sunca		23307
+128	S	Mere		23510
+129	L	Prăjitură cu brânză		23529
+130	B	Morcov		23668
+131	S	Ulei de măsline		23952
+132	L	Biscuiti		24046
+133	D	Biscuiti		24208
+134	D	Varza		24370
+135	L	Carne de porc sol		24740
+136	D	Piure de cartofi		24843
+137	L	Liliana branza		24988
+138	D	Cafea		25193
+139	S	Portocală		25321
+140	L	Cartofi		25342
+141	L	Sarmale		25549
+142	S	Biscuiti de grâu		25586
+143	D	Brânză		25758
+144	B	Cartofi prajiti		25798
+145	B	Ciocolata cu lapte		25974
+146	B	Gem		26154
+147	D	Carne de porc sol		26180
+148	S	Ulei vegetal		26283
+149	B	Suc proaspăt de portocale		26404
+150	D	Legume amestecate		26538
+151	S	lapte 2%		26641
+152	L	Cascaval		26814
+153	B	Piept de pui		26834
+154	L	Fasole albe		27026
+155	D	Rosii		27141
+156	L	Pizza		27162
+157	L	Mămăligă		27181
+158	D	Lapte integral		27200
+159	L	Carne de vită		27344
+160	D	Ulei de măsline		27526
+161	S	Supa de pui		27620
+162	L	Brânză		27782
+163	L	Pâine albă		27822
+164	B	Lapte integral		28133
+165	L	Iaurt		28277
+166	S	Supa de pui cu taitei		28317
+167	L	Smantana		28476
+168	S	Bucăţi de carne de porc		28613
+169	L	Ciocolata cu lapte		28758
+170	B	Zahăr		28938
+171	L	Legume amestecate		29157
+172	D	Pizza		29260
+173	D	Mere		29279
+174	L	Bucăţi de carne de porc		29298
+175	S	Piure de cartofi		29443
+176	B	Ceapa		29588
+177	D	Iaurt		29888
+178	D	Suc proaspăt de portocale		29928
+179	D	Bucăţi de carne de porc		30062
+180	S	Morcov		30207
+181	B	Rosii gatite		30491
+182	L	Rosii		30731
+183	L	Spanac fiert		30752
+184	B	Brânză topită		30866
+185	B	Pizza		30904
+186	S	Inghetata de vanilie		30923
+187	B	Cereale		31067
+188	B	Salata verde		31087
+189	S	Piept de pui		31503
+190	B	Omleta		31695
+191	B	Rosie		31715
+192	D	Paste cu sos de rosii		31736
+193	S	Suc proaspăt de portocale		31855
+194	L	Mere		31989
+195	S	Baton Fitness		32008
+196	S	Sunca		32049
+197	D	Porumb		32252
+198	L	Miere		32425
+199	D	lapte 2%		32545
+200	S	Pufuleti		32718
+201	L	Conserve de ton luminos		32753
+202	D	Ulei vegetal		32907
+203	S	Crema de branza		33028
+204	D	Mazăre verde		33251
+205	D	1% lapte		33355
+206	S	Cartofi prajiti		33524
+207	L	Peste		33700
+208	L	Bere		33720
+209	L	Masline		33853
+210	B	Rosii		33888
+211	D	Ciuperci albe		33909
+212	D	Tort de ciocolata		34068
+213	L	Ficat de pui		34194
+214	L	Rosie		34293
+215	B	Cereale cu lapte		34314
+216	S	Cozonac		34334
+217	B	Ouă jumări		34512
+218	D	Cartofi		34676
+219	L	Cartofi la cuptor		34883
+220	D	Covrig		35086
+221	D	Liliana branza		35238
+222	S	Salam		35443
+223	L	Clătită		35612
+224	L	Ciorba		35777
+225	B	Margarina		35798
+226	B	Biscuiti de grâu		35916
+227	D	Smantana		36088
+228	D	Rosie		36225
+229	B	Portocală		36246
+230	S	Varza		36267
+231	B	Kiwi		36637
+232	L	Cotlet de porc fript		36674
+233	B	Seminte de floarea soarelui		36823
+234	B	Cafea cu lapte		36934
+235	S	Ciocolata		37004
+236	B	Banana		37024
+237	B	Tarate de ovăz		37045
+238	B	Pulpă de pui		37082
+239	D	Mămăligă		37318
+240	L	Congelate mazare verde		37337
+241	L	Macaroane		37441
+242	B	Sandvis		37608
+243	D	Cartofi la cuptor		37629
+244	L	lapte 2%		37832
+245	D	Sarmale		38005
+246	D	Mezeluri		38042
+247	D	Scăzut de grăsime fructe iaurt		38149
+248	S	Ovăz		38252
+249	B	Iaurt fortificate fructe scăzut de grăsime		38375
+250	S	Seminte de floarea soarelui		38486
+251	B	Cartofi		38597
+252	L	Ciorba De Pui		38804
+253	B	Lapte degresat		38824
+254	S	Ou fiert tare		38969
+255	L	Portocală		39159
+256	B	Zacuscă		39180
+257	L	Ardei		39201
+258	L	Cozonac		39220
+259	D	Ou fiert tare		39398
+260	L	Lapte integral		39588
+261	B	Mere		39732
+262	D	Inghetata de vanilie		39751
+263	S	Pepene verde		39895
+264	D	Peşte plat		40387
+265	S	Ciocolata neagra		40485
+266	B	Ananas		40522
+267	B	Unt		40764
+268	L	Ou fiert tare		40864
+269	B	Suc de fructe şi legume		41054
+270	S	Linte		41181
+271	B	Ciuperci albe		41311
+272	B	Salata cu maioneza		41470
+273	B	Pâine secara		41603
+274	L	Plăcintă cu mere		41648
+275	L	Sos de cascaval		41828
+276	L	Suc proaspăt de portocale		41961
+277	D	Iahnie de fasole		42095
+278	D	Ciorba		42178
+279	B	Placinta cu dovleac		42199
+280	B	Ulei de măsline		42343
+281	B	Iaurt de vanilie scăzut de grăsimi		42437
+282	L	Tort de ciocolata		42543
+283	S	Iaurt		42669
+284	S	1% lapte		42709
+285	L	Iaurt dietetic		42878
+286	L	Ulei vegetal		42897
+287	D	Suc de lamaie		43018
+288	D	Conserve de ton luminos		43108
+289	D	Unt sărat		43262
+290	B	Smantana		43403
+291	L	Iaurt de vanilie scăzut de grăsimi		43540
+292	D	Pâine albă		43646
+293	D	Miere		43957
+294	D	Cascaval		44077
+295	L	Peşte plat		44097
+296	S	Paste cu sos de rosii		44195
+297	B	Masline		44314
+298	B	Legume amestecate		44349
+299	S	Iahnie de fasole		44452
+300	S	Ulei de soia		44535
+301	D	Ananas		44625
+302	S	Para		44867
+303	D	Cozonac		44903
+304	D	Iaurt Simplu		45081
+305	D	Fiert orez		45124
+306	D	Suc de fructe şi legume		45209
+307	S	Bere		45336
+308	L	1% lapte		45469
+309	L	Suc de lamaie		45638
+310	S	Lapte integral		45728
+311	B	Cacao cu lapte		45872
+312	S	Clătită		45911
+313	S	Plăcintă cu mere		46076
+314	B	Capsuni		46256
+315	B	Coffee		46546
+316	L	Vin rosu		46582
+317	B	Para		46688
+318	L	Para		46724
+319	L	Porumb		46760
+320	D	Portocală		46933
+321	D	Lapte degresat		46954
+322	D	Salata cu maioneza		47099
+323	L	Suc de mere		47232
+324	L	Ciocolata		47360
+325	B	Sos de cascaval		47380
+326	S	Arahide prăjite		47513
+327	B	Smoothie		47626
+328	B	Hrisca		47648
+329	S	Kiwi		47686
+330	S	Conserve de ton luminos		47723
+331	B	Liliana branza		47877
+332	S	Vin rosu		48082
+333	S	Pizza		48188
+334	D	Iaurt de vanilie scăzut de grăsimi		48207
+335	D	Spanac fiert		48313
+336	L	Piept de pui carne		48427
+337	L	Mazăre verde		48577
+338	D	Prajitura		48681
+339	D	Pufuleti		48701
+340	B	Clătită		48736
+341	B	lapte 1,5%		48901
+342	B	Plăcintă cu mere		48929
+343	B	Tort de ciocolata		49109
+344	S	Rosie		49235
+345	S	Brânză		49256
+346	D	Cotlet de porc fript		49296
+347	B	Ciocolata		49445
+348	B	Pâine albă		49465
+349	L	Zahăr		49776
+350	B	Dulceata		49995
+351	L	Pâine secara		50016
+352	L	Prajitura		50061
+353	D	Peste		50081
+354	D	Ciocolata		50101
+355	B	Eugenia		50121
+356	B	Paste cu sos de rosii		50142
+357	B	Avocado		50261
+358	S	Cotlet de porc fript		50299
+359	S	Cartofi fierti		50448
+360	B	Corn cu ciocolată		50674
+361	S	Portocale		50695
+362	S	Orez alb		50716
+363	S	Suc de mere		50836
+364	S	Biscuiti digestivi		50964
+365	S	Nuci		51001
+366	L	Cotlet de porc prăjită		51036
+367	L	Paine integrala		51167
+368	L	Salata		51212
+369	L	Spanac crud		51234
+370	D	Paine integrala		51393
+371	D	Nuci		51438
+372	B	Pateu		51473
+373	D	Crema de supa de ciuperci		51493
+374	D	Carne de vită piept		51634
+375	D	Fasole albe		51728
+376	D	Plăcintă cu mere		51843
+377	L	Fulgi de ovăz		52023
+378	S	Fasole albe		52175
+379	S	Iaurt de vanilie scăzut de grăsimi		52290
+380	L	Omleta		52396
+381	L	Crema de supa de ciuperci		52416
+382	L	Capsuni		52557
+383	L	Betisoare de peste		52847
+384	B	Iaurt dietetic		52979
+385	B	2% milk		52998
+386	S	Saratele biscuiti		53095
+387	L	Mustar		53234
+388	D	Dovleceii		53360
+389	D	Salata beof		53543
+390	D	Ouă jumări		53582
+391	B	Cartofi fierti		53746
+392	D	Fulgi de porumb		53972
+393	B	Mezeluri		54083
+394	D	Macaroane		54190
+395	D	Seminte de floarea soarelui		54357
+396	D	Sos de cascaval		54468
+397	D	Para		54601
+398	B	Piure de cartofi		54637
+399	B	Mămăligă		54782
+400	D	Cacao cu lapte		54801
+401	S	Cacao cu lapte		54840
+402	S	Alune		54879
+403	S	Liliana branza		54919
+404	B	Tort făină		55124
+405	B	Pepene verde		55227
+406	B	Ardei		55719
+407	D	Masline		55738
+408	L	Fulgi de porumb		55773
+409	L	Lapte degresat		55884
+410	L	Avocado		56029
+411	B	Briosa		56067
+412	S	Rosii		56107
+413	D	Capsuni		56128
+414	B	Saratele biscuiti		56418
+415	B	Cappuccino		56557
+416	L	Seminte de floarea soarelui		56577
+417	B	Brânză de vaca		56688
+418	L	Pui prăjit		56724
+419	L	Biscuiti de grâu		56936
+420	B	Sandwich		57108
+421	S	Cotlet de porc prăjită		57128
+422	D	Floricele de porumb		57259
+423	D	Tort făină		57394
+424	S	Mămăligă		57497
+425	D	Lapte Batut		57516
+426	D	Sos de maioneza		57555
+427	B	Vinete		57682
+428	L	Somon		57702
+429	L	Ciorba de legume		57816
+430	L	Mici		57856
+431	L	Chips-uri		57876
+432	L	Ciocolata neagra		58030
+433	L	Margarina		58067
+434	L	Nuci		58185
+435	S	Prăjitură cu brânză		58220
+436	D	Biscuiti de grâu		58359
+437	S	Struguri		58531
+438	S	Masline		58684
+439	L	Snitel		58719
+440	B	Sandwish		58739
+441	D	Avocado		58776
+442	B	Varza		58814
+443	D	Kiwi		59184
+444	B	Strudel		59221
+445	D	Ficat de pui		59242
+446	B	Betisoare de peste		59341
+447	B	Ovaz cu stafide şi condiment		59473
+448	D	Pâine secara		59602
+449	S	Ficat de pui		59647
+450	B	Pate		59746
+451	L	Ardei iute		59766
+452	L	Ardei Gras		59898
+453	L	Ciorba de perișoare		59918
+454	L	Placinta cu branza		59957
+455	L	Cereale		59977
+456	L	Ketchup-ul		59997
+457	L	Placinta cu dovleac		60122
+458	B	Carne de porc sol		60266
+459	S	Ardei iute		60369
+460	B	Ceapa de primăvară		60501
+461	S	Prajitura		60691
+462	D	Margarina		60711
+463	D	Inghetata de ciocolata		60829
+464	D	Ficat		60966
+465	D	Cola zero		61082
+466	D	Conopidă		61103
+467	S	Grapefruit		61139
+468	B	Chec		61173
+469	B	Halva		61212
+470	B	Cartofi la cuptor		61252
+471	B	Limonadă		61455
+472	B	Nuci		61599
+473	B	Orez cu lapte		61634
+474	B	Ardei Gras		61672
+475	L	Sfeclă		61692
+476	L	Salata cu maioneza		61730
+477	L	Ficat		61863
+478	L	Carne porc		61979
+479	L	Piept de pui pane		62000
+480	L	Sana		62151
+481	L	Carnati		62184
+482	L	Unt sărat		62205
+483	S	Ciorba		62346
+484	L	Inghetata de vanilie		62367
+485	L	Brocoli		62511
+486	L	Pateu		62532
+487	L	Cartofi dulci		62552
+488	S	Peste		62787
+489	L	Ananas		62807
+490	L	Carne de pui înabusită		63049
+491	S	Napolitane Joe		63230
+492	S	Banana		63267
+493	L	Pilaf		63288
+494	D	Carnati		63327
+495	D	Brânză de vaca		63348
+496	D	Supa de pui cu taitei		63384
+497	D	Migdale		63543
+498	D	Ardei		63784
+499	D	Omleta		63803
+500	D	Pui prăjit		63823
+501	L	Salata beof		64035
+502	D	Iaurt fortificate fructe scăzut de grăsime		64074
+503	D	Chec		64185
+504	B	Bucăţi de carne de porc		64224
+505	B	Ketchup-ul		64369
+506	B	Chips-uri		64494
+507	B	Iaurt grecesc		64648
+508	B	Ciocolata Amaruie		64689
+509	B	Salata de vinete		64728
+510	B	Corn		64748
+511	D	Cotlet de porc prăjită		64778
+512	D	Ketchup-ul		64909
+513	D	Hrisca		65034
+514	D	Halva		65072
+515	D	Struguri		65112
+516	B	Paine integrala		65265
+517	D	Congelate mazare verde		65310
+518	B	Rosi		65414
+519	B	Conserve de ton luminos		65435
+520	B	Lapte 3,5%		65589
+521	B	Clatite Cu Brinza		65686
+522	S	Salata cu maioneza		65722
+523	S	Fistic		65855
+524	S	Unt sărat		65876
+525	S	Suc de lamaie		66017
+526	S	Fulgi de porumb		66107
+527	S	Pui		66218
+528	S	Fulgi de ovăz		66396
+529	S	Pulpă de pui		66548
+530	D	Brânză topită		66784
+531	S	Pui rulou		66822
+532	D	Branza vaci		66960
+533	S	Zahăr		66980
+534	S	Smantana		67199
+535	S	Baton Proteic		67336
+536	D	Portocale		67378
+537	D	Ardei iute		67399
+538	B	Ciocolata neagra		67531
+539	D	Vin alb		67568
+540	S	Biscuiti cu unt de arahide		67639
+541	L	Fibra pâine		67784
+542	L	Icre		68026
+543	D	Piept de pui carne		68064
+544	L	Chifla		68214
+545	L	Linte		68254
+546	L	Sos		68384
+547	L	Chiftele		68517
+548	L	Hrisca		68556
+549	L	Salata Mixta Romana		68594
+550	B	Grapefruit		68624
+551	S	Pere		68658
+552	B	Aripa de pui prăjit		68783
+553	B	Alune		68902
+554	B	Goji		68942
+555	B	Biscuiti cu cremă		68975
+556	B	Biscuit		69012
+557	D	Banana		69109
+558	L	Ardei rosu		69130
+559	S	Mazăre verde		69152
+560	S	Ananas		69256
+561	S	Peşte plat		69498
+562	S	Stafide		69596
+563	S	Iaurt fortificate fructe scăzut de grăsime		69817
+564	S	Concentrat de suc de portocale		69928
+565	S	Cascaval		70058
+566	S	Demidulce ciocolată		70078
+567	D	Cola		70193
+568	D	Vinete		70214
+569	D	Zmeura		70234
+570	D	iaurt cu fructe		70253
+571	D	Pui rulou		70290
+572	S	Ciocolata Amaruie		70428
+573	S	Chec		70467
+574	S	Pomelo		70506
+575	B	Ulei vegetal		70528
+576	B	Demidulce ciocolată		70649
+577	B	Spanac fiert		70764
+578	B	Supa de pui cu taitei		70878
+579	B	Carne de vită		71037
+580	B	Egg		71219
+581	B	Pui		71318
+582	B	Portocale		71496
+583	L	Brânză topită		71517
+584	B	Sos		71555
+585	L	Limonadă		71688
+586	L	Smoothie		71832
+587	L	Fibrobar		71854
+588	B	Sana		71895
+589	L	Cola		71928
+590	D	Gem		71949
+591	L	Zacuscă		71975
+592	L	Lipie		71996
+593	L	Branza Vaca		72017
+594	L	Rosi		72038
+595	L	Inghetata de ciocolata		72059
+596	L	Paste		72196
+597	L	Humus		72294
+598	S	Piersici		72332
+599	L	ton		72555
+600	L	Cacao cu lapte		72595
+601	B	Salata beof		72634
+602	B	Urda		72673
+603	B	Napolitane Joe		72694
+604	B	Musli cu fructe		72731
+605	B	Ficat de pui		72768
+606	B	Coacere ciocolata		72867
+607	B	Pate vegetal		72984
+608	B	Seminte de in		73022
+609	B	Cina rola		73042
+610	B	Prăjitură cu brânză		73144
+611	B	Clatite		73283
+612	B	Shake		73303
+613	B	Biscuiti digestivi		73329
+614	S	Fiert orez		73366
+615	B	Slanina		73451
+616	S	Suc de fructe şi legume		73488
+617	B	Somon		73615
+618	B	Iaurt Degresat		73729
+619	B	Apa plata		73751
+620	B	Albuș Prajit		73772
+621	B	Pateu Cu Branza		73812
+622	S	Turta Dulce		73833
+623	S	Clementine		73872
+624	S	Corn		73894
+625	S	Unt		73924
+626	L	Mandarine		74024
+627	S	Ceai verde		74055
+628	L	Conopidă		74091
+629	B	Icre		74127
+630	D	Somon		74165
+631	L	Dovleceii		74279
+632	L	Lapte		74462
+633	D	Zahăr		74568
+634	D	Crupe de porumb		74787
+635	D	Rosii cherry		74892
+636	D	Tarate de ovăz		74911
+637	D	Cereale		74948
+638	D	Pilaf		74968
+639	D	Betisoare de peste		75007
+640	D	Chiftele		75139
+641	D	Chips-uri		75178
+642	D	Clementine		75332
+643	D	Carne de pui înabusită		75354
+644	D	Arahide prăjite		75535
+645	L	Portocale		75648
+646	L	Bomboane		75669
+647	D	Salata		75695
+648	L	Concentrat de suc de portocale		75717
+649	D	Napolitane		75847
+650	D	Conserve fasole verde		75869
+651	L	Aripa de pui prăjit		76017
+652	B	Tarate Ovaz		76136
+653	B	Rama Butter		76157
+654	B	Nutella		76178
+655	B	Unt De Arahide		76217
+656	L	Musaca		76273
+657	L	Corn cu ciocolată		76294
+658	L	Orez brun		76315
+659	L	Pepene verde		76416
+660	B	Baton Proteic		76908
+661	L	Orez Expandat		76950
+662	L	Pâine Dietetica		76984
+663	L	Sos de maioneza		77018
+664	L	Salata de varza		77145
+665	L	Bruschete		77183
+666	L	Caș		77205
+667	L	Supa Crema De Legume		77225
+668	B	Placinta		77265
+669	B	Crenvusti		77286
+670	B	Carne de pui înabusită		77318
+671	B	Sarmale		77499
+672	B	Orez alb		77536
+673	B	Iahnie de fasole		77656
+674	B	Fiert orez		77739
+675	B	Bacon		77824
+676	B	Pui rulou		77843
+677	D	Pepene verde		77981
+678	B	Inghetata de ciocolata		78473
+679	L	Demidulce ciocolată		78610
+680	B	Biscuiti cu unt de arahide		78725
+681	B	Humus		78870
+682	B	Concentrat de suc de portocale		78908
+683	B	Ceai verde		79038
+684	B	Struguri		79074
+685	B	Sos de maioneza		79227
+686	B	Eugenie		79354
+687	S	Făină de cereale integrale		79374
+688	D	Supa de legume		79477
+689	S	Sos de cascaval		79583
+690	S	Bomboane		79716
+691	S	Morcov fiert		79742
+692	S	Spanac fiert		80031
+693	S	Rosi		80145
+694	S	Ciuperci albe		80166
+695	S	Snickers		80325
+696	S	Lapte degresat		80363
+697	L	Brânză de vaca		80508
+698	L	Floricele de porumb		80544
+699	L	Oua		80679
+700	L	Cascaval pane		80781
+701	L	Chec		80802
+702	L	Ciorba fasole		80841
+703	S	Înghețată		80863
+704	D	Salata de varza		80971
+705	L	Corn		81009
+706	L	Pasca		81039
+707	L	Suc de fructe şi legume		81076
+708	D	Lipie		81203
+709	D	Tarate Ovaz		81224
+710	D	telemea de vaca		81245
+711	S	Sarmale		81266
+712	D	Limonadă		81303
+713	L	Ouă jumări		81447
+714	D	Ciorba de legume		81611
+715	D	Seminte de in		81651
+716	S	Sandwish		81671
+717	S	Caju		81708
+718	S	Limonadă		81748
+719	S	Cafea cu lapte		81892
+720	S	Placinta cu dovleac		81962
+721	D	Stafide		82106
+722	L	Eugenie		82327
+723	S	Gogosi		82347
+724	L	Paste cu ton		82368
+725	D	Baton Fitness		82464
+726	D	Pomelo		82505
+727	S	Lapte cu cacao		82527
+728	S	Struguri-fructe cu coajă lemnoasă cereale		82546
+729	S	Prune		82657
+730	S	Caise		82677
+731	S	Orez cu lapte		82710
+732	S	Mezeluri		82748
+733	D	Alune sărate		82855
+734	L	Pufuleti		82969
+735	D	Humus		83004
+736	L	Napolitane		83042
+737	S	Pâine albă		83064
+738	S	Pepsi		83375
+739	S	Apa plata		83395
+740	S	Mandarine		83416
+741	S	Zacuscă		83447
+742	S	Halva		83468
+743	S	Napolitane		83508
+744	S	Ciocolata Cu Rom		83530
+745	D	Ovaz cu stafide şi condiment		83551
+746	S	Margarina		83680
+747	S	Pate		83798
+748	S	Porumb		83818
+749	D	Salata Orientala		83991
+750	D	Smoothie		84031
+751	D	Baton Proteic		84053
+752	D	Paste		84095
+753	D	Branza de vaci		84193
+754	D	Iaurt dietetic		84213
+755	D	Corn		84232
+756	D	Fulgi de ovăz		84262
+757	S	Paine o felie		84414
+758	S	Avocado		84434
+759	S	Covrigi		84472
+760	S	Macaroane		84510
+761	D	Demidulce ciocolată		84677
+762	D	Ciocolata neagra		84792
+763	D	Redus de grăsime brânză		84829
+764	D	Cappuccino		85036
+765	D	Crenvurşti		85056
+766	D	Fasole batuta		85092
+767	D	Brocoli		85130
+768	S	Compot		85151
+769	S	Cereale		85172
+770	D	Bomboane		85192
+771	D	Chifle		85218
+772	S	Dovleceii		85239
+773	S	Coffee		85422
+774	S	Cappuccino		85458
+775	S	Ouă jumări		85478
+776	S	Ficat		85642
+777	S	Mici		85758
+778	S	Fibrobar		85778
+779	S	Placinta cu branza		85819
+780	S	Coliva		85839
+781	S	Coca cola		85877
+782	S	Cola		85898
+783	S	Eugenie		85919
+784	S	Chiftele		85939
+785	S	Carnati		85978
+786	S	Betisoare de peste		85999
+787	S	Salata		86131
+788	S	Prajitura cu nuca de cocos		86153
+789	S	Tort făină		86174
+790	D	Placinta		86277
+791	D	Gris cu lapte		86298
+792	S	Gogoasa		86319
+793	S	Sana		86339
+794	S	Omleta		86372
+795	S	Ness		86392
+796	S	Salam de biscuiti		86412
+797	S	Afine		86433
+798	S	Legume amestecate		86512
+799	S	Bread		86615
+800		Paine cu secara		86717
+801		Paine Neagra		86751
+802		Ou fiert		86772
+803		Ou Prajit		86874
+804		Cirese		86976
+805		Ardei capia		87015
+806		Pepene galben		87049
+807		Conserva Peste		87453
+808		Ciorba de Vita		87474
+809		Nectarine		87495
+810		Pepene Rosu		87514
+811		Pateu porc		87555
+812		Branza slaba		87587
+813		Albus Ou		87620
+814		Covrigei		87660
+815		Șuncă Curcan		87686
+816		Suc		87781
+817		Kefir		87803
+818		Piept de pui fript		87822
+819		Conserva Ton		87906
+820		Iaurt cu cereale		87938
+821		Măsline Verzi		87959
+822		Parizer		87997
+823		Branza Cu Smantana		88032
+824		Branza Capra		88071
+825		Branza feta		88104
+826		Lubenita		88146
+827		Ridichi		88186
+828		Ciuperci La Gratar		88224
+829		Paine de secara Wasa		88263
+830		Branza Oaie		88300
+831		Mandarina		88321
+832		Varza calita		88343
+833		Sfeclă roșie		88364
+834		piept de curcan		88402
+835		Omleta 1 Ou Și 2 Albusuri		88585
+836		Rodie		88623
+837		Shake Proteic		88663
+838		Clementina		88699
+839		Bors		88720
+840		Seminte de dovleac		88741
+841		Șuncă Presata		88761
+842		Usturoi		88782
+843		Chia		88802
+844		Iaurt Activia		88823
+845		Chefir		88866
+846		Nectarina		88896
+847		Dovleac Copt		88918
+848		Baton cu cereale		88940
+849		Ardei Copti		88961
+850		Ardei Gras Rosu		88998
+851		Broccoli		89038
+852		Ulei de nucă de cocos		89058
+853		Somon La Gratar		89167
+854		Pastrama Vita		89206
+855		Muschi file		89238
+856		Salată de icre		89258
+857		Crakers		89279
+858		Ciocolata cu alune		89319
+859		Popcorn		89339
+860		Iaurt 2%		89379
+861		Ardei iute verde		89399
+862		Mar Verde		89437
+863		Castraveti murati		89466
+864		Piersica		89508
+865		Senvis		89545
+866		Tiramisu		89565
+867		Lapte 1.5 % Zuzu		89586
+868		Ciorba De Vacuta		89623
+869		Brinza		89663
+870		Mure		89683
+871		Somon afumat		89724
+872		Ceva		89757
+873		Coca-Cola		89778
+874		Zahăr Brun		89800
+875		Baton Fibrobar Forte		89931
+876		Pufarine		89967
+877		Rulou de curcan		90004
+878		Sticks		90136
+879		Ciuperci Sote		90175
+880		Tocanita de cartofi		90211
+881		Tofu		90251
+882		Telina		90289
+883		Spaghete		90548
+884		Lapte Orez		90649
+885		Macaroane cu brânză		90669
+886		Pastrav		90707
+887		Carne de porc		90741
+888		Lapte de vaca		90833
+889		Peste Prajit		90871
+890		Croissant		90892
+891		Ovaz Cu Lapte		90997
+892		Porumb fiert		91031
+893		Ulei de seminţe de floarea soarelui prăjite		91063
+894		castraveti		91176
+895		Paste cu branza		91214
+896		Unt Arahide SanoVita		91255
+897		Tocanita		91293
+898		Ardei Umplut		91314
+899		Drob		91352
+900		Budinca		91388
+901		Sunca De Pui		91409
+902		Cas Vaca		91430
+903		Murături		91451
+904		iaurt 3,5%		91471
+905		Naut		91503
+906		Pulpa Pui La Gratar		91539
+907		Suc de grapefruit		91571
+908		Piept De Pui Lidl		91593
+909		Salata Mixta		91629
+910		Sunca Pui		91657
+911		Dorada la gratar		91693
+912		Iaurt 0,1%		91724
+913		Supa de rosii		91763
+914		Biscuiti Simpli		91801
+915		Arahide prăjite și sărate		91843
+916		Activia Cu Fulgi De Porumb		91883
+917		Seminte De Chia		91920
+918		Parizer de pui		91961
+919		Cacao		91995
+920		Musli		92034
+921		Visine		92073
+922		Otet		92092
+923		Ceai Salvie		92112
+924		Ciocolată de casă		92135
+925		Salam crud uscat		92173
+926		Bezele		92215
+927		Pateu Vegetal		92363
+928		Brânză de capră		92402
+929		Biscuiti Cu Seminte		92437
+930		Crenvusti de pui		92475
+931		Sana 3,6%		92509
+932		Soia		92550
+933		Iaurt 3,5% Pilos		92590
+934		Iaurt 0%		92627
+935		Albus		92713
+936		Smântână 12%		92750
+937		Ardei umpluti		92855
+938		Ardei Gras Verde		92876
+939		Ardei Iute În Otet		92915
+940		Cipsuri		92957
+941		Shaorma		92994
+942		Pui coapsa		93026
+943		Fornetti		93169
+944		Branzica de Casa		93206
+945		Gem Proxi		93227
+946		Parmezan		93263
+947		Arahide prăjite sărate		93400
+948		Salam Campofrio		93513
+949		Ciorbă de pește		93550
+950		Dovlecei pane		93585
+951		Hamburger		93626
+952		Ou Prepelita		93648
+953		Carnat		93748
+954		Salata De Boeuf		93768
+955		morcovi		93789
+956		Telemea		93811
+957		Ciocolata Calda		93851
+958		Curmale		93913
+959		Gulie		93944
+960		Inghetata Cacao		93966
+961		Piept de pui la grătar		94001
+962		Baton		94089
+963		Ciorba De Fasole verde		94121
+964		Cârnăciori		94162
+965		Măr (fruct)		94193
+966		Cuptor cartofi prajiti		94232
+967		Mozzarela		94410
+968		Capucino		94430
+969		Smochine		94451
+970		Raffaelo		94483
+971		Ciocolata milka		94504
+972		Prajitura cu ciocolata		94541
+973		Quinoa		94562
+974		Oreo		94597
+975		Lapte cu cereale		94632
+976		Cocos		94650
+977		Salata de rosii		94688
+978		Tort Diplomat		94712
+979		Kaki		94748
+980		Mazare Conservata		94768
+981		Dulceață de căpșuni		94792
+982		Prăjituri		94813
+983		Bake rolls		94834
+984		Fineti		94872
+985		Fasole cu porc si rosii sos		94907
+986		Gris		95037
+987		Macrou La Gratar		95058
+988		Cereale Minis		95093
+989		Rahat		95134
+990		Frisca		95160
+991		Proteina		95198
+992		Branza telemea Hochland light		95237
+993		Struguri negri		95274
+994		Pîine		95306
+995		Covridog		95327
+996		Milkshake		95363
+997		Gem De Prune		95384
+998		Sucul de struguri		95405
+999		Lapte Migdale		95532
+1000		Ghimbir		95554
+1001		Iaurt De Băut		95642
+1002		Gutui		95665
+1003		Belvita		95688
+1004		Crackers		95710
+1005		Unt 65%		95751
+1006		Lamaie		95790
+1007		Bomboane Ciocolata		95811
+1008		Ciorbă de varză		95849
+1009		Cafea Cu Zahar		95878
+1010		Castravete Murat		95946
+1011		Prăjitură de casă		95986
+1012		Paine Cu Ou		96025
+1013		Scortisoara		96047
+1014		Feta		96087
+1015		Wasa		96109
+1016		Pandispan		96131
+1017		Castraveți in otet		96153
+1018		Shake Herbalife		96176
+1019		Mar ionatan		96204
+1020		Ceafa De Porc La Gratar		96237
+1021		Iaurt de baut Zuzu Bifidus		96275
+1022		Fanta		96311
+1023		in		96334
+1024		Conserve de mazăre verde		96374
+1025		Saramura Crap		96487
+1026		Mango		96526
+1027		Paste Cu Lapte		96567
+1028		Vafe		96589
+1029		Albuș de ou		96611
+1030		Almette		96646
+1031		Cașcaval Afumat		96668
+1032		Pate Ardealu Pui		96690
+1033		Whey		96725
+1034		Biscuiti belvita		96768
+1035		Clatite Cu Gem		96804
+1036		Conserve de sos de rosii		96841
+1037		Corn ciocolata		96979
+1038		Rucola		97007
+1039		Papanasi		97047
+1040		Branzoaica		97069
+1041		Cereale integrale		97103
+1042		Minitarta cu fructe		97124
+1043		Fulgi De Orz		97159
+1044		Toba		97199
+1045		Clatite Cu Carne		97222
+1046		Ciorbă de salată		97254
+1047		Cordon Bleu		97296
+1048		Biscuiti Croco		97318
+1049		Lapte de soia îmbogăţit		97355
+1050		Macaroane cu pesmet		97502
+1051		Merisor		97539
+1052		Branza covalact		97570
+1053		Iaurt de fructe		97604
+1054		Dulceață de prune		97642
+1055		banan		97675
+1056		Kinder Bueno		97705
+1057		Friganele		97739
+1058		Inka		97779
+1059		Dovleac		97800
+1060		Apa Cu Lamaie		97821
+1061		Ciorba De Orez		97842
+1062		Sos de soia		97880
+1063		Legume Fierte		98039
+1064		sarmale de post		98079
+1065		Jumari		98118
+1066		Mancare Conopida Cu Pui		98150
+1067		Carnati De Casa		98191
+1068		Cartofi în piele		98232
+1069		Masline negre		98420
+1070		Zahar pudra		98462
+1071		Crutoane		98548
+1072		1,5% lapte		98589
+1073		Tarate		98690
+1074		Suc de mere, struguri si pere		98788
+1075		Grefa		98919
+1076		Ciorba De Porc		98940
+1077		Ansamblu de ciocolată cu lapte		98962
+1078		Cappucino		99117
+1079		Foietaj		99139
+1080		Mozarella		99161
+1081		Suc de portocale		99183
+1082		Macrou		99269
+1083		Corn proxi		99301
+1084		Grisine		99338
+1085		lapte 1,8%		99376
+1086		Branza Burduf		99415
+1087		Ostropel Pui		99437
+1088		Pesmeti		99465
+1089		Ghiveci		99506
+1090		Corn Carrefour		99548
+1091		Muschi		99584
+1092		Sunca macră suplimentare		99606
+1093		Spaghetti		99746
+1094		Fasole roşie rinichi		99768
+1095		Salata De Rosii Si Castraveti		99908
+1096		Muschi De Porc La Gratar		99929
+1097		Şniţel pui		99951
+1098		Ecler		100138
+1099		Praline		100160
+1100		Icre Crap		100197
+1101		Must		100233
+1102		Omleta 3 albusuri		100255
+1103		Ciocolată Bounty		100286
+1104		Rulada Vanatoreasca		100326
+1105		Pudră de cacao		100360
+1106		Suc Fanta		100464
+1107		Fulgi de grâu toate-bran		100493
+1108		Gusa Afumata		100604
+1109		Pufuleti Star		100638
+1110		Sunca - adaugă apă		100672
+1111		Pizza Quattro Formaggi		100814
+1112		Struguri albi		100836
+1113		Brinza Degresata		100874
+1114		Andive		100895
+1115		Fructe De Mare Pane		100966
+1116		Porc		101007
+1117		Piept de pui afumat		101029
+1118		Lapte caju		101064
+1119		Crenvurst		101106
+1120		Negresa		101128
+1121		Baton cereale		101150
+1122		Virsli		101187
+1123		Covrig Cu Ciocolata		101209
+1124		Malai		101245
+1125		Salata De Beof		101267
+1126		Peşte Somon		101306
+1127		Salam Sasesc		101328
+1128		Pate de porc		101350
+1129		Fasole		101390
+1130		Amestec Seminte		101413
+1131		Kefir 3%		101453
+1132		Cereale Fitness		101496
+1133		Iaurt cu ciocolata		101534
+1134		Lebar		101557
+1135		Placinta Cu Carne		101579
+1136		Fasole pastai		101601
+1137		rondea orez		101622
+1138		Hering		101644
+1139		Cremsnit		101868
+1140		Caise uscate		101905
+1141		Ceapa Verde		101946
+1142		Croissant 7 days		102033
+1143		Biscuiti Ovaz		102139
+1144		Păstrăv La Gratar		102161
+1145		Omletă cu şuncă		102191
+1146		Croissant cu unt		102213
+1147		Siluet bar		102234
+1148		Omleta Cu Branza Si Marar		102256
+1149		Saleuri		102294
+1150		Corn Cu Unt		102333
+1151		Pastramă de vită		102355
+1152		Kitkat		102390
+1153		Salata de fructe		102412
+1154		Crispy		102433
+1155		Ciuperci La Tigaie		102456
+1156		Saratele		102499
+1157		Covrigei Croco		102521
+1158		Grăsime prăjită pe sunca		102557
+1159		Cafea lapte		102666
+1160		Baton Proteine		102700
+1161		Oua fierte		102722
+1162		Branza dulce		102761
+1163		Crenvursti Pui		102802
+1164		Supa de pastai		102840
+1165		Pulpa pui		102939
+1166		Pastrama		103032
+1167		Lapte scăzut de grăsime de ciocolata		103054
+1168		spanac		103209
+1169		Salam de sibiu		103257
+1170		Cartofi copti		103296
+1171		Fructe		103335
+1172		Cereale cookie crisp		103371
+1173		Croissant Simplu		103410
+1174		Nes Cu Lapte		103451
+1175		Jambon		103472
+1176		Budinca De Ciocolata		103494
+1177		Prajitura Paradise		103516
+1178		Energizant		103552
+1179		Kebab		103573
+1180		Bounty		103595
+1181		Salata De Legume		103636
+1182		Frappe		103730
+1183		Sunca De Curcan		103769
+1184		Cafea verde		103791
+1185		Baton De Ciocolata		103861
+1186		Supa Cu Galusti		103902
+1187		Kurtos Colac		103940
+1188		Sardine in sos tomat		103977
+1189		Brinzica		104016
+1190		Floricele		104038
+1191		Fulgi De Cocos		104060
+1192		Mar Golden		104082
+1193		Pâine În Ou		104108
+1194		Pruna		104135
+1195		Cremeș		104167
+1196		Omleta3+		104207
+1197		Falafel		104246
+1198		Bufe cacao		104283
+1199		Ou Ochi		104398
+1200		Iaurt Pilos		104499
+1201		Branza de burduf		104522
+1202		Dulceata de visine		104543
+1203		Tomato		104565
+1204		caisa		104666
+1205		Ciocolata casa		104689
+1206		Ceai de ghimbir		104710
+1207		Pâine Prăjită Cu Ou		104733
+1208		Merisoare		104760
+1209		Iaurt Zuzu		104782
+1210		Polenta		104872
+1211		Pateuri		104894
+1212		Vânătă		104916
+1213		Carne		104938
+1214		Varza murata		105041
+1215		Ham		105080
+1216		Chicken breast		105165
+1217		Crap		105249
+1218		Taitei		105271
+1219		Unt frisca		105396
+1220		Barni		105536
+1221		Varza Fiarta		105563
+1222		Paine de secara		105583
+1223		Coaste de carne de vită		105817
+1224		Activia fibre		105930
+1225		Paine cu cascaval		105951
+1226		Ciorba De Pastai		105972
+1227		Porumb chex		106007
+1228		Toast		106120
+1229		Şuncă prăjită		106214
+1230		Smantana 12% Pilos		106327
+1231		Lapte de soia		106365
+1232		Crunch		106385
+1233		Ceafa de porc		106407
+1234		Salam Sibiu		106443
+1235		Fructe De Padure		106465
+1236		Tarate de grau		106500
+1237		Piftele Cu Sos		106539
+1238		MERDENEA		106561
+1239		Șnițele		106583
+1240		Salata Mexicana		106687
+1241		Ciorba salată		106720
+1242		Supa de dovleac		106762
+1243		Cream of mushroom soup		106784
+1244		Cafea Cu Lapte Si Zahar		106883
+1245		c		106905
+1246		Grâu		107004
+1247		Creier		107103
+1248		Lapte degresat neîmbunătățite		107144
+1249		Prigat		107270
+1250		Pastrama Porc Acasa		107351
+1251		Morcovi congelate		107389
+1252		Suc De Struguri		107679
+1253		Paine neagra prajita		107702
+1254		diverse		107724
+1255		Muschi de porc		107764
+1256		Piftele		107797
+1257		Chocolate		107832
+1258		antricot vita		107935
+1259		Lumina inghetata de vanilie		107957
+1260		Twix		108079
+1261		Migdale prăjite		108101
+1262		Modă veche gogoasa		108293
+1263		Lapte cu ciocolată		108481
+1264		Toortitzi		108627
+1265		Bana		108649
+1266		Dude		108734
+1267		Tea		108755
+1268		Cafea Cu Lapte Si Miere		108788
+1269		Băutură de energie monstru		108858
+1270		Omleta cu legume		108940
+1271		Pâine graham		108962
+1272		Toba porc		109005
+1273		Pai		109040
+1274		Omleta 2 oua		109088
+1275		M & Ms		109110
+1276		Orez alb brut		109288
+1277		Apa Tonica		109392
+1278		lapte 4%		109417
+1279		Şuncă şi apă		109518
+1280		Tortitzi		109653
+1281		White bread		109752
+1282		Snitel Vegetal		109846
+1283		Midii Fierte		109868
+1284		Pasta de peste		109902
+1285		Scorţişoară paine prajita criza		109939
+1286		Conopida pane		110060
+1287		Italiană cârnaţi		110093
+1288		Suc pepsi		110243
+1289		Ceai de mentă		110271
+1290		Covrigei Boromir		110306
+1291		Cartofi la cuptor cu pielea		110347
+1292		Cafea decafeinizată		110562
+1293		Seminte de floarea soarelui prăjite		110701
+1294		Apa de la robinet		110834
+1295		Carne de pui prăjit		110959
+1296		Ulei de soia industriale		111164
+1297		Industriale de soia şi ulei de bumbac		111307
+1298		Crema substitut		111450
+1299		Sare		111616
+1300		Ulei de arahide		111744
+1301		Ulei vegetal răspândit		111882
+1302		Sos de franceză		112039
+1303		Scăzut ulei vegetal grăsime, răspândirea		112199
+1304		Ulei de porumb		112353
+1305		Gratar sos		112496
+1306		Stocul de carne de vită		112656
+1307		Supă de scoici		112812
+1308		Bulion de carne de vită		112976
+1309		Substitut smântână praf		113125
+1310		Unt fara sare		113294
+1311		Grele biciuire crema		113453
+1312		Branza elvetiana		113645
+1313		Ulei de unt		113875
+1314		Cartofi Taticii		114022
+1315		Pătrunjel		114185
+1316		Ceapa fiartă		114351
+1317		Prime varza		114657
+1318		Sunca cu sucuri naturale		115035
+1319		Conserve de porumb galben		115196
+1320		Şuncă prăjită macră suplimentare		115349
+1321		Congelat capsuni		115502
+1322		Suc de portocale cu calciu		115810
+1323		Concentrat de suc de portocale, congelate		115972
+1324		Apă cu aromă de fructe		116137
+1325		Conserve de fructe băutură		116269
+1326		Îmbogăţit fructe băutură		116404
+1327		Decafeinizat ceai		116550
+1328		Creveţi		116693
+1329		Conserve de creveti		116835
+1330		Scoici		116977
+1331		Conserve scoici		117155
+1332		Bere rădăcină		117337
+1333		Lumina bere		117467
+1334		Mondées migdale		117600
+1335		Nuc		117838
+1336		Conserve de suc de legume		118114
+1337		Pasta de tomate		118276
+1338		Marinate		118436
+1339		Poftă		118679
+1340		Migdale prăjite sărate		118838
+1341		Nuci de cajou		119077
+1342		Conserve de tomate		119263
+1343		Conserve de tomate tocana		119447
+1344		Suc de tomate		119725
+1345		La cuptor cartofi dulci		119888
+1346		Tartacute		120096
+1347		Conserve din cartof dulce		120304
+1348		Conserve morcov suc		120510
+1349		Zahar brun		120671
+1350		Reduce grăsime de jetoane		120884
+1351		Chips-uri alb		121036
+1352		Suc de afine		121184
+1353		Elveţian brânză scăzut de grăsime		121340
+1354		Jeleurile		121567
+1355		Arahide M & Ms		121761
+1356		Structură inelară		121958
+1357		Chifla greu		122164
+1358		Turtă de mălai		122348
+1359		Drojdie de bere		122587
+1360		Porumb chips-uri		122744
+1361		Brânză Taticii		122899
+1362		Apă îmbuteliată		123059
+1363		Îmbogăţit cu aromă de fructe de apă		123185
+1364		Stafide scorţişoară covrigi		123315
+1365		Pâine prăjită alb		123493
+1366		Pâine italiană		123805
+1367		Pâine de multi-cereale		124011
+1368		Pâine de secară		124332
+1369		Alune fara sare		124650
+1370		Pesmet		124799
+1371		Fasole neagra		124939
+1372		Conserve de fasole roşie rinichi		125083
+1373		Linte fierte		125223
+1374		Praf de copt		125366
+1375		Cracare		125497
+1376		Blueangel claudia		125657
+1377		Caramele		125774
+1378		Jeleuri		125920
+1379		Stridie		126061
+1380		Rulou de curcan carne de lumina		126197
+1381		Sos de mere		126348
+1382		Ovăz cu scorţişoară şi condiment		126490
+1383		Fript de grăsime pe cotlet de porc		126632
+1384		Cotlet de porc		126780
+1385		Maro hash-ului		126929
+1386		Jumătate şi jumătate		127069
+1387		Crem deschis		127212
+1388		Ou uscate		127355
+1389		Gălbenuş de ou		127508
+1390		Lactate uscate		127656
+1391		Curcan prăjită		127803
+1392		Carne de curcan prăjită		127941
+1393		Aripa de pui		128075
+1394		Pulpe de rata		128212
+1395		Piept de pui cu piele		128379
+1396		Piept de pui prăjită		128531
+1397		Slănină de porc		128682
+1398		Lumina fortificate scăzut grăsimi fructe iaurt		128791
+1399		Lumină scăzută grăsimi fructe iaurt		128905
+1400		Curcan solului		129017
+1401		Cârnaţi de porc de pre-fierte		129126
+1402		Cacao pietricele		129253
+1403		Cookie-ul chipsuri		129371
+1404		Prânz carne		129495
+1405		Cârnaţi de porc şi de vită		129624
+1406		KIX		129763
+1407		Chex de nuci de miere		129893
+1408		Orez chex		130026
+1409		Mătuit fulgi		130149
+1410		Grâu chex		130279
+1411		Verde de cicoare		130402
+1412		Sparanghel		130530
+1413		Reese pe Taticii		130648
+1414		Fulgi de ovăz patrate		130773
+1415		Fibra unul		130906
+1416		Ovăz prăjită miere		131022
+1417		Vanilie migdale		131142
+1418		Somn		131261
+1419		Păstrăv curcubeu		131379
+1420		86 dovada lichior		131501
+1421		Friptura de lama de carne de vită		131596
+1422		Rotunde de carne de vită		131715
+1423		Partea de sus rotund friptură de vită		131833
+1424		80 dovada lichior		131951
+1425		Sirop de ciocolata		132044
+1426		Fructe cu coajă amestecate		132172
+1427		Ulei prăjită nuci amestecate		132297
+1428		Ficat de vită		132428
+1429		Conserve din spanac		132553
+1430		Frunze de nap		132678
+1431		Îmbogăţit mălai		132815
+1432		Toate scop făină		132940
+1433		Pâine albă făină		133067
+1434		Miere buchete de ovăz		133193
+1435		Teren de carne de vită (75/25)		133324
+1436		Miere buchete de ovăz cu migdale		133446
+1437		Sirop de artar		133575
+1438		Ofertelor de pui		133701
+1439		Portocaliu serbet		133831
+1440		Tipul de gheaţă de var		133952
+1441		Zară vafelă		134057
+1442		Mată prajitor de paine de patiserie		134195
+1443		Iahnie de fasole cu francii		134326
+1444		Redusă de grăsimi de unt de arahide		134455

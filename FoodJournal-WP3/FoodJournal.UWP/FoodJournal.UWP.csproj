@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{657C29BD-DA23-41A0-9E4C-1021EB4E7D7F}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FoodJournal.UWP</RootNamespace>
+    <AssemblyName>FoodJournal.UWP</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>FoodJournal.UWP_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\FoodJournal.Common\Resources\AppResources.Designer.cs">
+      <Link>Common\Resources\AppResources.Designer.cs</Link>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BlankPage2.xaml.cs">
+      <DependentUpon>BlankPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Localize.cs" />
+    <Compile Include="Services\LocalizedStrings.cs" />
+    <Compile Include="Views\BuyNow.xaml.cs">
+      <DependentUpon>BuyNow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Camera.xaml.cs">
+      <DependentUpon>Camera.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\Advertisement.xaml.cs">
+      <DependentUpon>Advertisement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\JournalView.xaml.cs">
+      <DependentUpon>JournalView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\PeriodView.xaml.cs">
+      <DependentUpon>PeriodView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\PicturesView.xaml.cs">
+      <DependentUpon>PicturesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\ServingSizes.xaml.cs">
+      <DependentUpon>ServingSizes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Controls\WeekStatsView.xaml.cs">
+      <DependentUpon>WeekStatsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DayPivot.xaml.cs">
+      <DependentUpon>DayPivot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\EntryDetail.xaml.cs">
+      <DependentUpon>EntryDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Feedback.xaml.cs">
+      <DependentUpon>Feedback.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Journal.xaml.cs">
+      <DependentUpon>Journal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report.xaml.cs">
+      <DependentUpon>Report.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SearchPage.xaml.cs">
+      <DependentUpon>SearchPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="FoodJournal.UWP_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\FoodJournal.Common\AppModel\AppStats.cs">
+      <Link>Common\AppModel\AppStats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\LocalStorage.cs">
+      <Link>Common\AppModel\LocalStorage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LittleWatson.cs">
+      <Link>Common\AppModel\Logging\LittleWatson.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LogEntryType.cs">
+      <Link>Common\AppModel\Logging\LogEntryType.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\PerformanceScope.cs">
+      <Link>Common\AppModel\Logging\PerformanceScope.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\SessionLog.cs">
+      <Link>Common\AppModel\Logging\SessionLog.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\ExceptionMessage.cs">
+      <Link>Common\AppModel\MessageQueue\ExceptionMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueue.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueue.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueDB.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueRow.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueRow.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MilestoneMessage.cs">
+      <Link>Common\AppModel\MessageQueue\MilestoneMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Platform.cs">
+      <Link>Common\AppModel\Platform.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Reference.cs">
+      <Link>Common\AppModel\Service References\Reference.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Services.cs">
+      <Link>Common\AppModel\Service References\Services.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Compatibility.cs">
+      <Link>Common\AppModel\UI\Compatibility.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Screen.cs">
+      <Link>Common\AppModel\UI\Screen.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\DateTimeExtensions.cs">
+      <Link>Common\Extensions\DateTimeExtensions.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Floats.cs">
+      <Link>Common\Extensions\Floats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Ints.cs">
+      <Link>Common\Extensions\Ints.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\SortedList.cs">
+      <Link>Common\Extensions\SortedList.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Strings.cs">
+      <Link>Common\Extensions\Strings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\EntryUpdatedMessage.cs">
+      <Link>Common\Messages\EntryUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ScreenshotMessage.cs">
+      <Link>Common\Messages\ScreenshotMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ServiceSearchMessage.cs">
+      <Link>Common\Messages\ServiceSearchMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Cache.cs">
+      <Link>Common\Model\Cache.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Entry.cs">
+      <Link>Common\Model\Entry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\FoodItem.cs">
+      <Link>Common\Model\FoodItem.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\UserSettings.cs">
+      <Link>Common\Model\UserSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceDatabase2.cs">
+      <Link>Common\ResourceData\ResourceDatabase2.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceRecord2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceRecord2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceSearch2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceSearch2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Amount.cs">
+      <Link>Common\Values\Amount.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Period.cs">
+      <Link>Common\Values\Period.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Property.cs">
+      <Link>Common\Values\Property.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Unit.cs">
+      <Link>Common\Values\Unit.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\PeriodVM.cs">
+      <Link>Common\ViewModels\PeriodVM.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\ModelObject.cs">
+      <Link>Common\AppModel\Data\ModelObject.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SQLite.cs">
+      <Link>Common\AppModel\Data\SQLite.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SQLiteCompat.cs">
+      <Link>Common\AppModel\Data\SQLiteCompat.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\EmailOutMessage.cs">
+      <Link>Common\AppModel\MessageQueue\EmailOutMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\BackgroundTask.cs">
+      <Link>Common\AppModel\UI\BackgroundTask.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\LocalizedStrings.cs">
+      <Link>Common\AppModel\UI\LocalizedStrings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\MenuLink.cs">
+      <Link>Common\AppModel\UI\MenuLink.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\SafeHandler.cs">
+      <Link>Common\AppModel\UI\SafeHandler.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\VMBase.cs">
+      <Link>Common\AppModel\UI\VMBase.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageCenter.cs">
+      <Link>Common\AppModel\MessageCenter.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\PictureMessage.cs">
+      <Link>Common\Messages\PictureMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\RecipeUpdatedMessage.cs">
+      <Link>Common\Messages\RecipeUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\TranslationsMessage.cs">
+      <Link>Common\Messages\TranslationsMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\CultureSettings.cs">
+      <Link>Common\Model\CultureSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Pictures.cs">
+      <Link>Common\Model\Pictures.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\PropertyDictionary.cs">
+      <Link>Common\Model\PropertyDictionary.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\ServingSizeCollection.cs">
+      <Link>Common\Model\ServingSizeCollection.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\TranslationRequest.cs">
+      <Link>Common\Model\TranslationRequest.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDataModel.cs">
+      <Link>Common\Model\Data\FoodJournalDataModel.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDB.cs">
+      <Link>Common\Model\Data\FoodJournalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Recipe.cs">
+      <Link>Common\Model\Recipe.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\NavigationContext.cs">
+      <Link>Common\Runtime\NavigationContext.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\ScreenshotVM.cs">
+      <Link>Common\Runtime\ScreenshotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkers.cs">
+      <Link>Common\Search\SearchWorkers.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkerServices.cs">
+      <Link>Common\Search\SearchWorkerServices.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\DayPivotVM.cs">
+      <Link>Common\ViewModels\DayPivotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\EntryDetailVM.cs">
+      <Link>Common\ViewModels\EntryDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\JournalVM.cs">
+      <Link>Common\ViewModels\JournalVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\LocalizationVM.cs">
+      <Link>Common\ViewModels\LocalizationVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipeDetailVM.cs">
+      <Link>Common\ViewModels\RecipeDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipesVM.cs">
+      <Link>Common\ViewModels\RecipesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SearchVM.cs">
+      <Link>Common\ViewModels\SearchVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SettingsVM.cs">
+      <Link>Common\ViewModels\SettingsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountCollectionVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountCollectionVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\EntryRowVM.cs">
+      <Link>Common\ViewModels\Fragments\EntryRowVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IngredientVM.cs">
+      <Link>Common\ViewModels\Fragments\IngredientVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PicturesVM.cs">
+      <Link>Common\ViewModels\Fragments\PicturesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PropertyVM.cs">
+      <Link>Common\ViewModels\Fragments\PropertyVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\SearchResultVM.cs">
+      <Link>Common\ViewModels\Fragments\SearchResultVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\WeekStatsVM.cs">
+      <Link>Common\ViewModels\Fragments\WeekStatsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IAcceptsNewEntry.cs">
+      <Link>Common\ViewModels\Fragments\IAcceptsNewEntry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\IsolatedStorageCompat.cs">
+      <Link>Common\AppModel\Data\IsolatedStorageCompat.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\DataContractSerialization.cs">
+      <Link>Common\AppModel\Data\Serialization\DataContractSerialization.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\Serializer.cs">
+      <Link>Common\AppModel\Data\Serialization\Serializer.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\LocalDB.cs">
+      <Link>Common\AppModel\Data\LocalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\NoSQL\FoodJournalNoSQL.cs">
+      <Link>Common\Model\NoSQL\FoodJournalNoSQL.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\SyncService.cs">
+      <Link>Common\AppModel\Service References\SyncService.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SyncQueue.cs">
+      <Link>Common\AppModel\Data\SyncQueue.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\PeriodDeleteVM.cs">
+      <Link>Common\ViewModels\PeriodDeleteVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\GoalsVM.cs">
+      <Link>Common\ViewModels\GoalsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\GoalLineVM.cs">
+      <Link>Common\ViewModels\Fragments\GoalLineVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Colors.cs">
+      <Link>Common\AppModel\UI\Colors.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalBackupDB.cs">
+      <Link>Common\Model\Data\FoodJournalBackupDB.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="BlankPage2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\BuyNow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Camera.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\Advertisement.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\JournalView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\PeriodView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\PicturesView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\ServingSizes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Controls\WeekStatsView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\DayPivot.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\EntryDetail.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Feedback.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Journal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Report.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\SearchPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Settings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\FoodJournal.Common\Resources\AppResources.resx">
+      <Link>Common\Resources\AppResources.resx</Link>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <PRIResource Include="Strings\en-US\Resources.resw" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

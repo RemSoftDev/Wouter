@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.Settings">
+
+
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <StackLayout Grid.Row="0" Padding="12,17,0,12">
+      <Label Text="{extensions:Translate PageTitleSettings}"  FontSize="Large"/>
+    </StackLayout>
+
+    <!--ContentPanel - place additional content here-->
+    <ScrollView x:Name="ContentPanel" Grid.Row="1" Padding="12,0,12,0">
+
+      <StackLayout Orientation="Vertical">
+
+        <Label  Text="{extensions:Translate Reminders}" />
+        <!--<Label Text="{Binding Path=Strings.ReminderDescription, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextSubtleStyle}" />
+-->
+        <StackLayout Orientation="Horizontal">
+          <Label Text="{extensions:Translate Period_Breakfast}"/>
+          <Switch IsToggled="{Binding BreakfastReminder,Mode=TwoWay}"    />
+          <TimePicker HorizontalOptions="End"  Time="{Binding BreakfastReminderTime,Mode=TwoWay}" WidthRequest="160"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+          <Label Text="{extensions:Translate Period_Lunch}" />
+          <Switch IsToggled="{Binding LunchReminder,Mode=TwoWay}"   />
+          <TimePicker HorizontalOptions="End" Time="{Binding LunchReminderTime,Mode=TwoWay}" WidthRequest="160"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+          <Label Text="{extensions:Translate Period_Dinner}" />
+          <Switch IsToggled="{Binding DinnerReminder,Mode=TwoWay}"   />
+          <TimePicker HorizontalOptions="End" Time="{Binding DinnerReminderTime,Mode=TwoWay}" WidthRequest="160"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+          <Label  Text="{extensions:Translate EndOfDay}"/>
+          <Switch IsToggled="{Binding SnackReminder,Mode=TwoWay}"  ></Switch>
+          <TimePicker HorizontalOptions="End" Time="{Binding SnackReminderTime,Mode=TwoWay}" WidthRequest="160"/>
+        </StackLayout>
+
+        <!--                <Switch IsToggled="{Binding EnableLiveTile,Mode=TwoWay}" Padding="0,12" Content="{Binding Path=Strings.EnableLiveTile, Source={StaticResource LocalizedStrings}}" />
+-->
+        <Button IsVisible="{Binding PinToStartIsVisible}"  Text="{extensions:Translate PinToStart}" Clicked="Button_OnClicked" />
+
+        <Label   Text="{extensions:Translate Goals}" />
+
+        <Label Text="{Binding CaloriesTitle}" />
+        <Entry Grid.Column="1" Text="{Binding CalorieGoal, Mode=TwoWay}" Keyboard="Numeric" />
+
+        <Label Text="{Binding TotalFatTitle}" />
+        <Entry Grid.Column="1" Text="{Binding TotalFatGoal, Mode=TwoWay}" Keyboard="Numeric" />
+
+        <Label Text="{Binding CarbsTitle}" />
+        <Entry Grid.Column="1" Text="{Binding CarbsGoal, Mode=TwoWay}" Keyboard="Numeric" />
+
+        <Label Text="{Binding ProteinTitle}" />
+        <Entry Grid.Column="1" Text="{Binding ProteinGoal, Mode=TwoWay}" Keyboard="Numeric"  />
+
+        <StackLayout IsVisible="{Binding MultiMealIsVisible}">
+          <Label   Text="{extensions:Translate Meals}" />
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnacksCombined}" IsVisible="{Binding SnacksCombinedVisibility}" />
+            <Switch IsToggled="{Binding SnacksCombined,Mode=TwoWay}" IsVisible="{Binding SnacksCombinedIsVisible}" />
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnackMorningEnabled}" IsVisible="{Binding SnackMorningVisibility}" />
+          <Switch IsToggled="{Binding SnackMorningEnabled,Mode=TwoWay}"  IsVisible="{Binding SnackMorningIsVisible}" />
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnackEarlyAfternoonEnabled}" IsVisible="{Binding SnackEarlyAfternoonVisibility}" />
+            <Switch IsToggled="{Binding SnackEarlyAfternoonEnabled,Mode=TwoWay}" IsVisible="{Binding SnackEarlyAfternoonIsVisible}" />
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnackAfternoonEnabled}" IsVisible="{Binding SnackAfternoonVisibility}" />
+            <Switch IsToggled="{Binding SnackAfternoonEnabled,Mode=TwoWay}"  IsVisible="{Binding SnackAfternoonIsVisible}" />
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnackEveningEnabled}" IsVisible="{Binding SnackEveningVisibility}" />
+            <Switch IsToggled="{Binding SnackEveningEnabled,Mode=TwoWay}"  IsVisible="{Binding SnackEveningIsVisible}" />
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label  Text="{extensions:Translate Meals_SnackMidnightEnabled}" IsVisible="{Binding SnackMidnightVisibility}" />
+            <Switch IsToggled="{Binding SnackMidnightEnabled,Mode=TwoWay}"  IsVisible="{Binding SnackMidnightIsVisible}" />
+          </StackLayout>
+          <Label  />
+        </StackLayout>
+        <!--
+
+                <toolkit:ListPicker Padding="12,12,12,60" ItemsSource="{Binding SelectableMeals}" SelectedItem="{Binding SelectedMeals,Mode=TwoWay}"/>
+         
+                <local:Advertisement Padding="-12,0,-12,0"/>
+-->
+      </StackLayout>
+    </ScrollView>
+  </Grid>
+  
+</ContentPage>

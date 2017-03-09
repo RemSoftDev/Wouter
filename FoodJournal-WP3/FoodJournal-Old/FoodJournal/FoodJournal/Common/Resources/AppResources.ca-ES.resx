@@ -1,0 +1,878 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ca-ES</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>DIARI D'ALIMENTS</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Elements comuns</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Suprimeix</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Res seleccionat</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Elements recents esmorzar</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Elements recents sopar</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>El meu excersizes recents</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Elements recents dinar</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Últims elements de mos</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>DIARI D'ALIMENTS</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>DIARI D'ALIMENTS- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Esmorzar</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Sopar</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Exercici</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Dinar</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Aperitiu</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Avui</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Quantitat</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Calci</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Calories</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Carbohidrats</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Colesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Fibra</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Ferro</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Àcid gras monoinsaturat</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Àcid gras poliinsaturat</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Potassi</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Proteïna</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Greixos saturats</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Sodi</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Sucre</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Greix total</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamina C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamina D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Pes</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Preferències</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Introduïu un terme de cerca</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (element nou)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (nova recepta)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Resultats de la cerca</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} no es troba, proveu de canviar el vostre terme de cerca</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Afegeix</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Nutrició</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>INFORMACIÓ D'ALIMENTS</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Si us plau, introdueixi el pes primer</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Grandària de la porció</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Quant?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>més opcions</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>No hi ha informació de nutrició</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Afegir una grandària de la porció</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Afegeix</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Calendari</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Anunci</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Tassa</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Decilitre</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Unça líquida</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galó</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Quilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litre</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Ml</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Unça</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pinta</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Lliura</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Quart de galó</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Cullerada</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Culleradeta</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Tasses</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Unça fluida</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galons</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Grams</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Quilograms</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litres</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mil·lilitres</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Unces</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pintes</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Lliures</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarts de galó</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Cullerades</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Culleradetes</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>ca</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Correu electrònic de diari d'aliments</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Quantitat</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>s'està carregant...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Actualitza ara</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Gràcies per utilitzar aquest App! Aquesta còpia és ara expirada. Però no et preocupis, ens portarà a la pàgina de descàrrega actualitzar si premeu Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Aquesta tasca s'actualitza la rajola de viure pel diari d'aliments.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Heu inhabilitat l'aplicació de viure rajola en escenes de telèfon.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Meves preferències</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Comte àpats que falten en el mosaic d'app</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Recordatoris</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Configuració</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Configurar la rajola</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Informe</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Informe</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Culleradeta = 4,5 g|Cullerada = 12 g|1 ració = 28 g|Peça = 14 g|Llesca = 12 g|1 Copa = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Fes una foto</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Gràcies per utilitzar aquest App! Si li resulta útil, si us plau ajudar-lo a tenir èxit en deixar un comentari.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Deixar un comentari?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Objectius</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Cap objectiu conjunt</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Al final del dia</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Què t'agrada?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Recordatori: actualitzar el seu diari</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>recordatoris seleccionats apareguin si vostè no he actualitzat l'agenda pel temps seleccionat</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Suc de taronja, 1 tassa de pa torrat, 1 llenca, ou, 1 mitjana, Poma, plàtan, cafè</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} sobre objectiu</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>restants de {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Diari</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Trieu d'acord per eliminar anuncis de l'app.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Tregui anuncis?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>El va ser un problema en connectar-se a la botiga de Windows Phone. Si us plau provar una altra vegada més tard.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Informa d'un problema</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Suggereixen una característica o una pregunta</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Valora aquest app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Resposta específica ajuda a millorar l'app</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Ajudar a millorar la traducció</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>S'inclou una captura de pantalla</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Compartir un enllaç</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Descarregar aquest app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Text de diari d'aliments</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Fes un aliment diari per a Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Diari d'aliments</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Elements comuns de l'esmorzar</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Elements comuns a sopar</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Elements comuns a dinar</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Elements comuns de mos</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Àpats</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Matí</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Hora a la tarda</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Tardes</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Berenar del matí separada</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Berenar principi separada</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Berenar separada</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Vespre</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Entrepà de mitjanit separada</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Mitjanit</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Combinar aperitius</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Nit separada</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Elements recents tarda</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Elements recents de tarda primeres</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Articles recents de nit</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Articles recents de mitjanit</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Articles recents de matí</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Elements comuns de la tarda</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Elements comuns de tarda primeres</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Elements comuns de nit</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Elements comuns a mitjanit</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Elements comuns de matí</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Gràcies per provar el menjar diari. Teniu {0} dies judici restants. Premeu d'acord per obrir l'app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Obrir ara?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>El seu judici és ara expirada. Encara pot veure el seu diari, però no podeu afegir noves entrades. Trieu d'acord per obrir la plena versió.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Tregui anuncis</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Permanentment Tregui tots els anuncis</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Descarregar ara perquè li encanta utilitzar-lo.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Diari d'aliments</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>TRETS DE COMPLEMENT:
+1. no hi ha més publicitat.
+2. una major base de dades alimentària.
+3. l'habilitat per si mateix correu electrònic una còpia de la indústria làctia.
+4. més opcions de configuració, incloent-hi l'habilitat per introduir fins a 8 separats àpats al dia.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>CARACTERÍSTIQUES:
+1. un disseny senzill i potent: L'app s'obre directament sobre la pantalla d'entrada, en l'àpat més recent, perquè això és el que utilitzareu més. El disseny fa afegint entrades tan simple i intuïtiu com sigui possible.
+2. una aixeta d'entrada amb suggeriments personalitzats: els aliments més comuns es poden seleccionar immediatament. A partir del segon dia, el seu elements recents se suggereix perquè vostè pot menjar el mateix menjar sovint.
+3. registre a no és necessari: cap dades personals o informació de contacte és necessari.
+4. milers d'articles ja en la base de dades: la majoria dels aliments tenir informació precisa sobre comú servint mides, calories, carbohidrats, proteïnes i greixos. 
+5. off-line ple suport: no hi ha necessitat d'estar connectat a internet. 
+6. precisa entrada també és fàcil: amb precisió podeu introduir la quantitat precisa utilitzant un botó lliscant.
+7. diari informa: utilitzant el menú, vostè pot obrir directament el diari, que mostra un resum del seu dia. Aquí es pot canviar entre calories, proteïnes i carbohidrats prement el petit triangle.
+8. Gestioneu els vostres objectius: després d'introduir les seves metes personals, podeu utilitzar l'informe de la setmana per veure les seves tendències. 
+9. personal recordatoris ajuden a mantenir en objectiu: són una manera convenient per assegurar-se que ompli el seu diari, després de cada àpat, o al final del dia.
+
+És una bona idea per verificar que la informació en la base de dades és el mateix que la informació sobre el seu envasament alimentari; Nutrició fluctua amb marques i amb el temps.
+
+Assegureu-vos de discutir els seus objectius amb el seu metge o nutrició especialista.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>SOBRE L'APP:
+Fer un seguiment dels que menges ha demostrat per ajudar a prevenir i deixar de menjar en excés.
+Aquest app ajuda a controlar la seva dieta i menjar de forma saludable, fent-ho fàcil de seguir el que menges. El disseny està optimitzat per fer entrada tan ràpid com suggeriments de menjar possible, amb l'entrada de 1 clic i recents. El construït en base de dades ja té milers d'aliments i si seu no es coneixen, afegint-los és fàcil.
+
+Nota: Aquest app és lliure descarregar i suportat per anuncis. Es pot utilitzar de franc mentre li agradis. És possible treure l'anunci per a una quota, que permetrà també trets addicionals.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Diari d'aliments: El seu règim i calories seguiment app.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Nutrició</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Calories</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dieta</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Diari d'aliments</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Comptador de calories</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Plàtan</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Cafè</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Poma</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Ou</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 llesca</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Notificació d'activitat</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 tassa</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Suc de taronja</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Gràcies pel vostre suport! Utilitzeu aquesta opció per esborrar permanentment anuncis des del seu app de diari d'aliments.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Tregui anuncis</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Introdueixi el pes</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Període de judici expirat, obrir?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 mitjà</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Sobre</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>La manera més ràpida i més fàcil de fer un seguiment del que menja.
+
+Mogui's avall per obtenir informació sobre l'exactitud de les dades.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Actualitza'l ara</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Compris la versió premium</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Diari d'aliments per a {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Quelcom inesperat ha fallat. La revista no va ser enviat.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Si us plau, introduïu una adreça electrònica vàlida.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>{0} només</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Donar suport al desenvolupament</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>DESCÀRREC DE RESPONSABILITAT:
+Majoria, però no tots els punts de dades en la base de dades provenen de fonts reputades. Fem tot el possible per assegurar-se tots els valors són exactes, però no es fa responsables de la incorrectes o que falten dades. Valors nutricionals varien per marca i amb el temps. Utilitzant aquest app, accepteu a verificar i corregir qualsevol dada en l'app i és plenament responsable de lesió o dany a causa del seu ús.
+
+Si us plau, hágamelo saber si hi ha alguna cosa que pot ajudar amb.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Ajudar a mantenir les actualitzacions d'aquest app ve</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Aconseguir totes les característiques</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Serveis inclosos:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Nota: La majoria, però no totes les dades prové de fonts reputades. Mitjançant la compra de la versió de complement, vostè accepta tota la responsabilitat per la precisió i la integritat de les dades. Correu electrònic daily.journal@outlook.com per a més detalls.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Novetats</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Tota prima en futur ofereix actualitzacions</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Àpats més</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Per al seguiment de 5, 6 o més àpats al dia</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Més aliments *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Centenars de milers més menjar elements (depenent de localització)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Informes de correu electrònic</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Correu electrònic teu diari per desar, imprimir o analitzar-lo</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Cap publicitat</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Tots els anuncis són permanentment trets</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>comprar ara</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Enviar per correu electrònic</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>enviar ara</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Adreça de correu electrònic</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Tenir accés a tots els trets</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Rampa a complement</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Nota: La majoria, però no tots els punts de dades en la base de dades provenen de fonts reputades. Fem tot el possible per assegurar-se els valors són exactes, però no es fa responsables de la incorrectes o que falten dades. Utilitzant l'app, vostè reconeix i accepta la plena responsabilitat per comprovar l'exactitud de les dades. L'app li permet actualitzar les discrepàncies que es poden trobar.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Revista per l'AAA
+Pregunta o comentari? ▲ respondre BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Presentar</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Si us plau actualitzi els textos en aquesta llista amb traduccions millors. Eliminar tot el text dels elements que són inadequats per a la seva regió.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Gràcies per la teva ajuda!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Traduccions</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Aquí vostè pot ajudar a millorar aquest app.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Original:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Bona</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Descripció/controls:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Ajudar a millorar l'app</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Introduïu la vostra adreça de correu electrònic si vostè vol ser contactat.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Comentari</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Millorar les traduccions</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Afegir al llançador</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>AVG</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Cancel·la</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Còpia de l'element similar</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Suprimeixi entrada</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Introdueixi el pes per a aquesta quantitat</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Més opcions</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Cap</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>Correcte</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>venda de 1 dia: {0} % de descompte</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Total</value>
+</data>
+</root>

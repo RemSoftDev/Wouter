@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">FOOD PÄEVIK</string>
+	<string name="CommonItems">Ühised üksused</string>
+	<string name="Delete">Kustuta</string>
+	<string name="EmptyEntryList">Midagi valitud</string>
+	<string name="MyRecentItems_Breakfast">Tehtud hommikusöögiga esemed</string>
+	<string name="MyRecentItems_Dinner">Tehtud õhtusöök üksused</string>
+	<string name="MyRecentItems_Exercise">Minu tehtud excersizes</string>
+	<string name="MyRecentItems_Lunch">Tehtud lõunat üksused</string>
+	<string name="MyRecentItems_Snack">Viimased suupiste üksused</string>
+	<string name="PageTitle">FOOD PÄEVIK</string>
+	<string name="PageTitleBase">FOOD PÄEVIK- </string>
+	<string name="Period_Breakfast">Hommikusöök</string>
+	<string name="Period_Dinner">Õhtusöök</string>
+	<string name="Period_Exercise">Harjutus</string>
+	<string name="Period_Lunch">Lõunasöök</string>
+	<string name="Period_Snack">Suupiste</string>
+	<string name="Search">Otsi</string>
+	<string name="Today">Täna</string>
+	<string name="StandardProperty_Amount">Summa</string>
+	<string name="StandardProperty_Calcium">Kaltsium</string>
+	<string name="StandardProperty_Calories">Kalorid</string>
+	<string name="StandardProperty_Carbs">Süsivesikuid</string>
+	<string name="StandardProperty_Cholesterol">Kolesterool</string>
+	<string name="StandardProperty_Fiber">Kiudaineid</string>
+	<string name="StandardProperty_Iron">Raud</string>
+	<string name="StandardProperty_MonoFat">Monoküllastumata rasv</string>
+	<string name="StandardProperty_PolyFat">Polüküllastamata rasv</string>
+	<string name="StandardProperty_Potassium">Kaalium</string>
+	<string name="StandardProperty_Protein">Valgu</string>
+	<string name="StandardProperty_SatFat">Küllastunud rasvhappeid</string>
+	<string name="StandardProperty_Sodium">Naatrium</string>
+	<string name="StandardProperty_Sugar">Suhkrut</string>
+	<string name="StandardProperty_TotalFat">Kokku rasva</string>
+	<string name="StandardProperty_VitaminC">C-vitamiin</string>
+	<string name="StandardProperty_VitaminD">D-vitamiini</string>
+	<string name="StandardProperty_Weight">Kaal</string>
+	<string name="Preferences">Eelistused</string>
+	<string name="EmptySearchList">Sisestage otsingusõna</string>
+	<string name="NewItemSuffix"> (uus punkt)</string>
+	<string name="NewRecipeSuffix"> (uus retsept)</string>
+	<string name="SearchResults">Otsingu tulemused</string>
+	<string name="SearchTermNotFound">{0} ei leitud, siis proovige muuta oma otsingusõna</string>
+	<string name="AcceptNew">Lisa</string>
+	<string name="Name">Nimi</string>
+	<string name="Nutrition">Toitumine</string>
+	<string name="PageTitleItemDetail">TOIDU INFO</string>
+	<string name="EnterWeight">Sisestage esmalt kaal</string>
+	<string name="ServingSizes">Serveering</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Kui palju\?</string>
+	<string name="MoreOptions">veel suvandeid</string>
+	<string name="NoNutritionInfo">Toitumisalane teave</string>
+	<string name="AddServingSize">Lisada indeksi suurus</string>
+	<string name="Add">Lisa</string>
+	<string name="SelectDate">Kalender</string>
+	<string name="Advertisement">Reklaam</string>
+	<string name="Unit_Centiliter">sentiliiter</string>
+	<string name="Unit_Cup">Tass</string>
+	<string name="Unit_Deciliter">detsiliiter</string>
+	<string name="Unit_FluidOunce">Vedelikuunts</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gramm</string>
+	<string name="Unit_Kilogram">Kilogramm</string>
+	<string name="Unit_Liter">Liiter</string>
+	<string name="Unit_Milliliter">milliliiter</string>
+	<string name="Unit_Ounce">Unts</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Pound">Nael</string>
+	<string name="Unit_Quart">Kvart</string>
+	<string name="Unit_Tablespoon">Supilusikas</string>
+	<string name="Unit_Teaspoon">Teelusikas</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">Karikad</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">vedeliku untsid</string>
+	<string name="Units_Gallon">Gallonit</string>
+	<string name="Units_Gram">Grammid</string>
+	<string name="Units_Kilogram">kilogrammi</string>
+	<string name="Units_Liter">liitrit</string>
+	<string name="Units_Milliliter">milliliitrit</string>
+	<string name="Units_Ounce">untsid</string>
+	<string name="Units_Pint">Pinti</string>
+	<string name="Units_Pound">Naelad</string>
+	<string name="Units_Quart">Kvarti</string>
+	<string name="Units_Tablespoon">SL</string>
+	<string name="Units_Teaspoon">Tl</string>
+	<string name="DatabaseCulture">et</string>
+	<string name="FeedbackSubject">Saabuvaid Food päevik</string>
+	<string name="Equivalent">summa</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">laadimine</string>
+	<string name="ExpiredCaption">Värskenda kohe</string>
+	<string name="ExpiredMessage">Tänan teid kasutades seda App! See eksemplar on nüüdseks lõppenud. Aga ärge muretsege, me võtame teid allalaadimise lehele kui vajutad Ok.</string>
+	<string name="AgentDescription">Selle ülesande uuendused Live plaatide toidu päevikut.</string>
+	<string name="AgentDisabled">Olete keelanud Live plaatide rakendus telefoni seaded.</string>
+	<string name="PageTitleSettings">Minu eelistused</string>
+	<string name="EnableLiveTile">Krahv puuduvad sööki app plaatide</string>
+	<string name="Reminders">Meeldetuletused</string>
+	<string name="SettingsScreen">Sätted</string>
+	<string name="PinToStart">Saate seadistada keraamiliste plaatide</string>
+	<string name="OpenReport">Aruanne</string>
+	<string name="Report">Aruanne</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Tl = 4,5 g|Spl = 12 g|1 teenindavad = 28 g|Tükk = 14 g|Viil = 12 g|1 cup = 237 g</string>
+	<string name="TakeAPicture">Pildistage     </string>
+	<string name="ReviewBody">Tänan teid kasutades seda App! Kui leiate kasulikku, palun aidake seda saanud edukas poolt lahkumist vaadata.</string>
+	<string name="ReviewTitle">Jäta läbivaatamine\?</string>
+	<string name="Goals">Eesmärgid</string>
+	<string name="NoGoalSet">Pole seatud eesmärki</string>
+	<string name="EndOfDay">Päeva lõpus</string>
+	<string name="ReminderContent">Mida sa sööd\?</string>
+	<string name="ReminderTitle">Meeldetuletus: Uuenda oma päevik</string>
+	<string name="ReminderDescription">Kui pole veel uuendanud oma päevikusse poolt valitud ajal kuvatakse valitud meeldetuletused</string>
+	<string name="ScreenshotTitles">Apelsinimahl, 1 tass, röstsai, 1 viil, muna, 1 Keskmine õun, kohv, banaan</string>
+	<string name="GoalOver">{0} üle eesmärgi</string>
+	<string name="GoalUnder">{0} jäänud</string>
+	<string name="OpenJournal">Päevik</string>
+	<string name="RemoveAdsText">Valige OK kui soovite eemaldada reklaamid app.</string>
+	<string name="RemoveAdsTitle">Eemalda kuulutused\?</string>
+	<string name="StoreException">Kui oli probleem ühendamisel Windows Phone poodi. Palun proovige hiljem uuesti.</string>
+	<string name="Feedback_Email">Probleemist teatamine</string>
+	<string name="Feedback_EmailText">Klienditoega ühenduse võtmine või küsida</string>
+	<string name="Feedback_Rate">Hinda seda app</string>
+	<string name="Feedback_RateText">Konkreetne tagasiside aitab parandada app</string>
+	<string name="Feedback_Screenshot">Aidata parandada tõlke</string>
+	<string name="Feedback_ScreenshotText">Ekraani püüdmist on lisatud</string>
+	<string name="Feedback_Share">Anna link ühiskasutusse</string>
+	<string name="Feedback_ShareText">Alla käesoleva app</string>
+	<string name="ScreenshotSubject">Toidu päevik tekst</string>
+	<string name="ShareMessage">Tutvu toidu päevik Windows Phone</string>
+	<string name="ShareTitle">Food päevik</string>
+	<string name="CommonItems_Breakfast">Ühine Hommikusöök üksused</string>
+	<string name="CommonItems_Dinner">Ühine õhtusöök üksused</string>
+	<string name="CommonItems_Lunch">Ühine lõunasöök üksused</string>
+	<string name="CommonItems_Snack">Ühine suupiste üksused</string>
+	<string name="Meals">Toitlustamine</string>
+	<string name="Period_SnackMorning">Hommik</string>
+	<string name="Period_SnackEarlyAfternoon">Varane pärastlõuna</string>
+	<string name="Period_SnackAfternoon">Pärastlõuna</string>
+	<string name="Meals_SnackMorningEnabled">Eraldi hommikul suupiste</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Eraldi varakult pärastlõunal suupiste</string>
+	<string name="Meals_SnackAfternoonEnabled">Eraldi pärastlõunaseid suupisteid</string>
+	<string name="Period_SnackEvening">Õhtu</string>
+	<string name="Meals_SnackMidnightEnabled">Eraldi keskööl suupiste</string>
+	<string name="Period_SnackMidnight">Keskööl</string>
+	<string name="Meals_SnacksCombined">Kombineeri suupisted</string>
+	<string name="Meals_SnackEveningEnabled">Eraldi Õhtune suupiste</string>
+	<string name="MyRecentItems_SnackAfternoon">Viimased pärastlõunal üksused</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Viimased Varajase pärastlõunal üksused</string>
+	<string name="MyRecentItems_SnackEvening">Tehtud õhtul üksused</string>
+	<string name="MyRecentItems_SnackMidnight">Eile kell 00.00 üksused</string>
+	<string name="MyRecentItems_SnackMorning">Tehtud hommikul üksused</string>
+	<string name="CommonItems_SnackAfternoon">Ühine pärastlõunal üksused</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Ühise varakult pärastlõunal üksused</string>
+	<string name="CommonItems_SnackEvening">Ühine õhtu üksused</string>
+	<string name="CommonItems_SnackMidnight">Ühine kesköö üksused</string>
+	<string name="CommonItems_SnackMorning">Ühine hommikul üksused</string>
+	<string name="UnlockFullBody">Täname, et proovida toidu päevikut. Olete {0} prooviperiood päeva jäänud. Vajutage OK, et avada rakendus.</string>
+	<string name="UnlockFullTitle">Ava nüüd\?</string>
+	<string name="TrialExpiredBody">Oma uuringus on nüüdseks lõppenud. Vaatamiseks oma ajakirja, kuid ei saa uusi kirjeid lisada. Valige OK, et avada täisversiooni.</string>
+	<string name="Feedback_RemoveAds">Eemalda kuulutused</string>
+	<string name="Feedback_RemoveAdsText">Jäädavalt eemaldada kõik kuulutused</string>
+	<string name="StoreText_5">Lae nüüd, sest sa armastad seda kasutada.</string>
+	<string name="AppTitle">Food päevik</string>
+	<string name="StoreText_4">PREMIUM FUNKTSIOONE:
+1. rohkem kuulutuse.
+2. palju suuremate toidu andmebaasi.
+3. võime e-mail endale koopia meierei.
+4. mitu seadistusvõimalusi, sealhulgas ka võimalust sisestada kuni 8 eraldi toidukorda päevas.</string>
+	<string name="StoreText_3">OMADUSED:
+1. lihtne ja võimas disain: app avaneb otse sisestamine ekraanil Viimati tehtud sööki, sest see, mida saad kasutada kõige. Konstruktsiooni tõttu lisades kanded on lihtne ja selge kui võimalik.
+2. ühe koputusega kanne isikupärastatud ettepanekuid: valida saab kohe kõige tavalisem pakke. Alates teisest päevast, oma Viimatised üksused on soovitatud sest võib süüa sama toidu sageli.
+3. sisselogimist on vaja: ei nõuta ei isikuandmeid ega kontaktandmeid.
+4. tuhandeid punkte juba andmebaasis: enamik pakke on täpset teavet ühise teenindavad suurused, kaloreid, süsivesikute, valgu ja rasva. 
+5. täielik off-line tugi: pole vaja Internetti ühendatud. 
+6 täpsed kanne on lihtne: täpselt sisestage täpne summa, kasutades liugurit.
+7. igapäevased aruanded: menüü abil saate otse avada päevik, mis näitab oma päeva kokkuvõte. Siin saate vahetada kaloreid, valku ja süsivesikuid vajutades väike kolmnurk.
+8. Jälgi oma eesmärgid: kui olete sisestanud oma isiklikud eesmärgid, saate nädal aruandes näha oma suundumusi. 
+9. isikliku meeldetuletusi aitavad teil püsi target: nad on mugav võimalus veenduda, täidad oma päevikut pärast iga sööki või päeva lõpus.
+
+See on hea mõte kontrollida andmekogus sisalduv teave on sama teavet oma toidu pakendil; Food toitumine kõigub marki ja aja jooksul.
+
+Veenduge, et arutada oma eesmärke oma arsti või Toitumine spetsialist.</string>
+	<string name="StoreText_2">APP:
+Toimuva jälgimine, mida sa sööd on näidanud vältimise ja enam üle süüa.
+See app aitab teil kontrollida oma dieeti ja söövad tervislikumat, muutes lihtsaks jälgida mida sa sööd. Kujundus on optimeeritud teha kanne nii kiiresti kui võimalik koos 1 kliki kanne ja tehtud toiduainete soovitusi. Ehitatud andmebaas on juba tuhandeid pakke ning kui teile on teada, lisades neile on lihtne.
+
+Pange tähele: See app on tasuta alla laadida ja toetatud lastesaateid. Kui soovid saab seda tasuta kasutada. On võimalik eemaldada kuulutuse tasu eest, mis võimaldab ka lisavõimalusi.</string>
+	<string name="StoreText_1">Food päevik: Teie toitumine ja kalorite jälgimise app.</string>
+	<string name="StoreKeyword_5">Toitumine</string>
+	<string name="StoreKeyword_4">Kalorid</string>
+	<string name="StoreKeyword_3">Dieet</string>
+	<string name="StoreKeyword_2">Toidu päevikut</string>
+	<string name="StoreKeyword_1">Kalorite counter</string>
+	<string name="Screenshot_H3">Banaan</string>
+	<string name="Screenshot_H2">Kohv</string>
+	<string name="Screenshot_H1">Õun</string>
+	<string name="Screenshot_3a">Muna</string>
+	<string name="Screenshot_2b">1 viil</string>
+	<string name="Screenshot_2a">Toost</string>
+	<string name="Screenshot_1b">1 tass</string>
+	<string name="Screenshot_1a">Apelsinimahl</string>
+	<string name="Product_2">Tänan teid toetuse eest! Kasutage seda suvandit jäädavalt eemaldada reklaamid toidu päevikut appi.</string>
+	<string name="Product_1">Eemalda kuulutused</string>
+	<string name="CantCalculateNutrition">Sisestage kaal</string>
+	<string name="TrialExpiredTitle">Katseaja lõppkuupäev, avada\?</string>
+	<string name="Screenshot_3b">1, Keskmine</string>
+	<string name="SendFeedback">Umbes</string>
+	<string name="Feedback_Header">Kiireim ja lihtsaim viis saada ülevaate, mida sa sööd.
+
+Kerige teavet andmete õigsust.</string>
+	<string name="Feedback_Unlock">Täienda kohe</string>
+	<string name="Feedback_UnlockText">Osta premium versiooni</string>
+	<string name="EmailReport_SubjectTemplate">Toidu päevikut {0}</string>
+	<string name="EmailReport_Exception">Midagi ootamatut läks valesti. Töölehe ei saadetud.</string>
+	<string name="EmailReport_InvalidEmailAddress">Sisestage kehtiv meiliaadress.</string>
+	<string name="Total">Kokku</string>
+	<string name="Price">ainult {0}</string>
+	<string name="Feature6_Text">Toetada</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+Enamik, kuid mitte kõik andmepunktid andmebaasi tulevad usaldusväärsetest allikatest. Teeme oma parima veendumaks, et kõik väärtused on õiged, kuid vale või puuduvate andmete vastutavaks. Toiteväärtuse erinevad brändi ja aja jooksul. See app kasutades nõustud sa kontrollida ja parandada kõiki andmeid App ja vastutab täielikult kahju või kahju tõttu selle kasutamine.
+
+Palun andke teada kas on midagi võimalik teid aidata.</string>
+	<string name="Feature6_Desc">Aita hoida uuendused sellest app tulevad</string>
+	<string name="GetAllFeatures">Saad kõik funktsioonid</string>
+	<string name="Feature_Header">Lisatud:</string>
+	<string name="Feature_Footer">* Märkus: Enamik, kuid mitte kogu teave pärit usaldusväärsetest allikatest. Premium versioon ostes aktsepteerite täielik vastutus täpsuse ja andmete tervikluse. E-post daily.journal@outlook.com üksikasju.</string>
+	<string name="Feature5_Text">Uued funktsioonid</string>
+	<string name="Feature5_Desc">Kõik premium pakub tulevikus uuendused</string>
+	<string name="Feature4_Text">Rohkem sööki</string>
+	<string name="Feature4_Desc">Jälgimise 5, 6 või enam toitu päevas</string>
+	<string name="Feature3_Text">Rohkem toite *</string>
+	<string name="Feature3_Desc">Sadu tuhandeid rohkem toidu kirjed (sõltuvalt asukohast)</string>
+	<string name="Feature2_Text">E-post aruanded</string>
+	<string name="Feature2_Desc">E-mail teie töölehe salvestada, printida või analüüsida</string>
+	<string name="Feature1_Text">Mingeid reklaame</string>
+	<string name="Feature1_Desc">Kõik kuulutused eemaldatakse jäädavalt</string>
+	<string name="BuyNow">osta nüüd</string>
+	<string name="EmailReport_ShowSettings">Saada meiliga</string>
+	<string name="EmailReport_SendNow">Saada kohe</string>
+	<string name="EmailReport_Address">E-posti aadress</string>
+	<string name="Product_4">Get juurdepääsu kõigile funktsioonidele</string>
+	<string name="Product_3">Premium Upgrade</string>
+	<string name="EmailReport_Footer2">Märkus: Enamik, kuid mitte kõik andmepunktid andmebaasi tulevad usaldusväärsetest allikatest. Teeme oma parima veendumaks, et väärtused on õiged, kuid vale või puuduvate andmete vastutavaks. App kasutades mõistate ja vastu võtta täielik vastutus andmete õigsuse kontrollimiseks. App võimaldab uuendada võib leida lahknevusi.</string>
+	<string name="EmailReport_Footer1">AAA, mida
+Küsimusi või kommentaare\? BBB vastust</string>
+	<string name="Localization_Submit">Esitada</string>
+	<string name="Localization_TranslationsText">Palun uuendage see nimekiri ja nõukogu parema tõlke. Eemalda kogu teksti üksust, mis ei sobi teie piirkonnas.</string>
+	<string name="Localization_ThankYou">Tänud abi eest!</string>
+	<string name="Localization_Translations">Tõlked</string>
+	<string name="Localization_Text">Siin võib aidata parandada seda app.</string>
+	<string name="Localization_Original">Originaal:</string>
+	<string name="Localization_Good">Hea</string>
+	<string name="Localization_Description">Kirjeldus:</string>
+	<string name="Feedback_LocalizeText">Aidata parandada app</string>
+	<string name="Localization_CommentText">Sisestage oma meiliaadress, kui soovite võtta ühendust.</string>
+	<string name="Localization_Comment">Kommentaar</string>
+	<string name="Feedback_Localize">Parandada tõlgete</string>
+	<string name="AddToLauncher">Lisage käivitaja</string>
+	<string name="Avg">AVG</string>
+	<string name="Cancel">Loobu</string>
+	<string name="CopyFromSimilarItem">Sarnase üksuse kopeerimine</string>
+	<string name="DeleteEntry">Kirje kustutamine</string>
+	<string name="EnterTheWeightForThisAmount">Sisestage selle summa kaal</string>
+	<string name="MoreOptions2">Rohkem valikuid</string>
+	<string name="None">Ükski</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 päev müümiseks: {0} % soodsamalt</string>
+	<string name="Total2">Kokku</string>
+	<string name="EmailReport_Footer1a">AAA, mida</string>
+	<string name="EmailReport_Footer1b">Küsimusi või kommentaare\? BBB vastuse</string>
+	<string name="Add_New">UUS ÜKSUS</string>
+	<string name="Add_Note">MÄRKME LISAMINE</string>
+	<string name="add_target">LISADA TOITUMINE</string>
+	<string name="choose_time">määratud aja</string>
+	<string name="daily_target">Toitumine</string>
+	<string name="daily_target_hint">Daily target (valikuline)</string>
+	<string name="describe_goal">Kirjeldage siin oma eesmärgi</string>
+	<string name="drawer_close">Sulgege</string>
+	<string name="drawer_open">Avatud</string>
+	<string name="edit_meals">VALIDA MENÜÜD</string>
+	<string name="enter_meal_time">Sisestage iga toidukorra kellaaeg</string>
+	<string name="enter_serving_weight">Esmalt sisestage kaal (g)</string>
+	<string name="enter_value">Sisestage toitumine</string>
+	<string name="get_started">Alustada!</string>
+	<string name="get_started_second_text">Koputage \'+\' kirje lisamine teie ajakiri.</string>
+	<string name="Input_Notes">Sisestage märkused siia</string>
+	<string name="meal_options">Toite Valikud</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Isikliku eesmärgi</string>
+	<string name="Per_Cup">1 tass (250 g) NOTUSED</string>
+	<string name="Per_Grams">100 grammi</string>
+	<string name="portion_caption">osa</string>
+	<string name="RadioButton_Alpha">tähestiku NOTYETUSED</string>
+	<string name="RadioButton_Sort">sortida ajalugu NOTYETUSED</string>
+	<string name="Serving">Teenindavad</string>
+	<string name="Show_More_Options">ROHKEM VALIKUID</string>
+	<string name="show_total_with_meal">Toitumise eesmärgiks näidata</string>
+	<string name="target_date">Tähtaeg</string>
+	<string name="target_date_hint">Vali oma tähtaeg</string>
+	<string name="transition_name_circle">üleminek: CIRCLE</string>
+	<string name="transition_name_name">üleminek: nimi</string>
+	<string name="transition_name_phone">üleminek: telefon</string>
+	<string name="Type_Name">Otsi hotelle</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Meetermõõdustiku ühikutes</string>
+	<string name="Units_US">USA mõõdustik</string>
+	<string name="Upgrade">Upgrade</string>
+	<string name="weight_gram">kaal (g)</string>
+	<string name="InvalidEmailError">Meiliaadress ei sobi</string>
+	<string name="NoGoalsTitle">Kõik kanded</string>
+	<string name="SendReportTitle">Saada teatis</string>
+	<string name="DeleteEntryMessage">Selle kirje kustutada\?</string>
+	<string name="NewBody">Palju parandusi lisada: märkmeid, rohkem toite, parem disain ja palju muud.
+Download Tasuta\?</string>
+	<string name="NewTitle">Versioon 2.0, mis on nüüd saadaval!</string>
+</resources>

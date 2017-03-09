@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:actionBarNavMode="list">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/advertisement" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/adbox" />
+    <LinearLayout
+        android:id="@+id/layout_note_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/mdtp_white"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/layout_time_calories"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/mdtp_white"
+            android:orientation="horizontal"
+            android:weightSum="2">
+            <LinearLayout
+                android:id="@+id/layout_totals"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="1.6"
+                android:layout_gravity="center">
+                <TextView
+                    android:id="@+id/text_totalCalories1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginEnd="@dimen/margin_normal"
+                    android:layout_marginLeft="@dimen/margin_normal"
+                    android:layout_marginRight="@dimen/margin_normal"
+                    android:layout_marginStart="@dimen/margin_normal"
+                    android:padding="@dimen/margin_normal"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/AppTheme" />
+                <TextView
+                    android:id="@+id/text_totalCalories2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginEnd="@dimen/margin_normal"
+                    android:layout_marginLeft="@dimen/margin_normal"
+                    android:layout_marginRight="@dimen/margin_normal"
+                    android:layout_marginStart="@dimen/margin_normal"
+                    android:padding="@dimen/margin_normal"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/AppTheme" />
+            </LinearLayout>
+            <Button
+                style="@style/AppTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/choose_time"
+                android:id="@+id/button_pick_time"
+                android:layout_weight="0.3"
+                android:background="?attr/selectableItemBackground"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:background="@color/button_material_dark"
+            android:layout_below="@+id/layout_time_calories"
+            android:id="@+id/view" />
+        <RelativeLayout
+            android:id="@+id/layout_notes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/mdtp_white"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/inputNotes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true">
+                <TextView
+                    android:id="@+id/text_today_notes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".90"
+                    android:layout_marginEnd="@dimen/margin_normal"
+                    android:layout_marginLeft="@dimen/margin_normal"
+                    android:layout_marginRight="@dimen/margin_normal"
+                    android:layout_marginStart="@dimen/margin_normal"
+                    android:padding="@dimen/margin_normal"
+                    android:layout_alignParentTop="true"
+                    android:text="Notes"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    style="@style/AppTheme" />
+                <ImageView
+                    android:id="@+id/btn_delete"
+                    android:src="@drawable/ic_clear"
+                    android:layout_width="0dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_weight=".10"
+                    android:layout_height="25dp"
+                    android:clickable="true"
+                    android:layout_marginBottom="0.0dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:layout_width="0px"
+                android:layout_height="0px" />
+            <EditText
+                android:id="@+id/editText_Notes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_marginEnd="@dimen/margin_normal"
+                android:layout_marginLeft="@dimen/margin_normal"
+                android:layout_marginRight="@dimen/margin_normal"
+                android:layout_marginStart="@dimen/margin_normal"
+                android:layout_weight=".1"
+                android:hint="@string/Input_Notes"
+                android:padding="@dimen/margin_normal"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme"
+                android:layout_below="@+id/inputNotes" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/view"
+                android:background="@color/button_material_dark"
+                android:layout_below="@+id/editText_Notes"
+                android:id="@+id/view" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/empty_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_icon_empty"
+        android:gravity="center"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="100dp" />
+    <TextView
+        android:id="@+id/get_started"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_started"
+        android:gravity="center"
+        android:paddingRight="@dimen/margin_standard"
+        android:paddingEnd="@dimen/margin_standard"
+        android:paddingStart="@dimen/margin_standard"
+        android:paddingLeft="@dimen/margin_standard"
+        android:paddingTop="@dimen/margin_standard"
+        android:paddingBottom="@dimen/margin_normal"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:id="@+id/get_started_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_started_second_text"
+        android:gravity="center"
+        android:paddingLeft="46dp"
+        android:paddingStart="46dp"
+        android:paddingRight="46dp"
+        android:paddingEnd="46dp"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true"
+        android:layout_marginBottom="60dp"
+        android:scrollbars="vertical" />
+</LinearLayout>

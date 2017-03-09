@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.EntryDetail">
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <StackLayout Grid.Row="0" Padding="12,17,0,12">
+      <Label Text="{extensions:Translate PageTitleItemDetail}" FontSize="Medium"/>
+      <Label Text="{Binding Text}"  FontSize="Large" />
+    </StackLayout>
+
+    <!--ContentPanel - place additional content here-->
+    <ScrollView x:Name="ContentPanel" Grid.Row="1" Padding="12,0,12,0">
+
+      <StackLayout Orientation="Vertical">
+
+        <Label Text="{Binding Description}" IsVisible="{Binding DescriptionVisibility}"   />
+
+        <!--local:PicturesView DataContext="{Binding PicturesVM}"/-->
+
+        <Label Text="{extensions:Translate Name}" />
+        <Label Text="{Binding Text, Mode=TwoWay}"   WidthRequest="456" HorizontalOptions="Start" />
+
+        <Label Text="{extensions:Translate ServingSizes}"  />
+        <!--local:ServingSizes DataContext="{Binding AmountCollectionVM}"/-->
+
+        <Label Text="{extensions:Translate Nutrition}"  />
+
+        <ListView ItemsSource="{Binding Properties}" >
+          <ListView.ItemTemplate>
+            <DataTemplate>
+              <StackLayout Orientation="Vertical" Width="456">
+                <Label Text="{Binding Text}"  VerticalOptions="Center"/>
+                <Entry Grid.Column="1" Text="{Binding Value, Mode=TwoWay}" Keyboard="Numeric" />
+              </StackLayout>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Text="{extensions:Translate DeleteEntry}" IsVisible="{Binding DeleteVisibility}"  Clicked="Button_OnClicked"/>
+
+      </StackLayout>
+    </ScrollView>
+
+    <!--
+        <local:Advertisement Grid.Row="2" />
+        -->
+
+  </Grid>
+</ContentPage>

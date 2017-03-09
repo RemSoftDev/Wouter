@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/addItemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.uidesgin.AddItem"
+    android:background="@color/mdtp_white">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_addItem"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/accent" />
+    <TextView
+        android:id="@+id/text_title_send_week_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/margin_normal"
+        android:paddingRight="@dimen/margin_normal"
+        android:paddingTop="@dimen/margin_normal"
+        android:text="@string/EmailReport_Address"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/abc_secondary_text_material_light"
+        style="@style/AppTheme" />
+    <LinearLayout
+        android:id="@+id/inputNotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:background="@color/mdtp_white">
+        <EditText
+            android:id="@+id/edittext_mail_send_week_report"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_small"
+            android:gravity="center|left"
+            android:hint="@string/EmailReport_Address"
+            android:paddingLeft="@dimen/margin_normal"
+            android:paddingRight="@dimen/margin_normal"
+            android:paddingTop="@dimen/margin_normal"
+            android:textColor="@color/abc_secondary_text_material_light"
+            android:layout_weight="1.7"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            style="@style/AppTheme" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="@dimen/clear_height"
+            android:layout_weight="0.4"
+            android:src="@drawable/ic_arrow_down"
+            android:layout_gravity="center" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <include
+        layout="@layout/fragment_journal" />
+</LinearLayout>

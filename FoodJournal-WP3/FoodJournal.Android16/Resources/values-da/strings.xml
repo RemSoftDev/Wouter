@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">MADDAGBOG</string>
+	<string name="CommonItems">Almindelige produkter</string>
+	<string name="Delete">Slet</string>
+	<string name="MyRecentItems_Breakfast">Seneste morgenmadsprodukter</string>
+	<string name="MyRecentItems_Dinner">Seneste aftenmads produkter</string>
+	<string name="MyRecentItems_Exercise">Min seneste opgaver</string>
+	<string name="MyRecentItems_Lunch">Seneste frokostprodukter</string>
+	<string name="MyRecentItems_Snack">Seneste snack produkter</string>
+	<string name="PageTitle">MADDAGBOG</string>
+	<string name="PageTitleBase">MAD DAGBOG- </string>
+	<string name="Period_Breakfast">Morgenmad</string>
+	<string name="Period_Dinner">Aftensmad</string>
+	<string name="Period_Exercise">Motion</string>
+	<string name="Period_Lunch">Middagsmad</string>
+	<string name="Period_Snack">Snack</string>
+	<string name="Search">Søg</string>
+	<string name="Today">I dag</string>
+	<string name="StandardProperty_Amount">Beløb</string>
+	<string name="StandardProperty_Calcium">Calcium</string>
+	<string name="StandardProperty_Calories">Kalorier</string>
+	<string name="StandardProperty_Carbs">Kulhydrater</string>
+	<string name="StandardProperty_Cholesterol">Kolesterol</string>
+	<string name="StandardProperty_Fiber">Fiber</string>
+	<string name="StandardProperty_Iron">Jern</string>
+	<string name="StandardProperty_MonoFat">Enkeltumættet fedt</string>
+	<string name="StandardProperty_PolyFat">Flerumættet fedt</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Mættet fedt</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Sukker</string>
+	<string name="StandardProperty_VitaminC">C-vitamin</string>
+	<string name="StandardProperty_VitaminD">D-vitamin</string>
+	<string name="StandardProperty_Weight">Vægt</string>
+	<string name="Preferences">Indstillinger</string>
+	<string name="NewItemSuffix">(nyt produkt)</string>
+	<string name="NewRecipeSuffix"> (ny opskrift)</string>
+	<string name="SearchResults">Søgeresultater</string>
+	<string name="SearchTermNotFound">{0} blev ikke fundet, prøv at ændre den søgebegreber</string>
+	<string name="AcceptNew">Tilføj</string>
+	<string name="Name">Navn</string>
+	<string name="Nutrition">Ernæring</string>
+	<string name="EnterWeight">Angiv venligst vægten først</string>
+	<string name="ServingSizes">Portionsstørrelse</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Hvor meget\?</string>
+	<string name="MoreOptions">flere muligheder</string>
+	<string name="NoNutritionInfo">Ingen ernæringsinformation</string>
+	<string name="AddServingSize">Tilføje en portionsstørrelse</string>
+	<string name="Add">Tilføj</string>
+	<string name="Advertisement">Reklame</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Kop</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_FluidOunce">Flydende unse</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Milliliter</string>
+	<string name="Unit_Ounce">Unse</string>
+	<string name="Unit_Pint">Halv Liter</string>
+	<string name="Unit_Pound">Pund</string>
+	<string name="Unit_Quart">Kvart gallon</string>
+	<string name="Unit_Tablespoon">Spiseskefuld</string>
+	<string name="Unit_Teaspoon">Teskefuld</string>
+	<string name="Units_Centiliter">Centiliter</string>
+	<string name="Units_Cup">Krus</string>
+	<string name="Units_Deciliter">Deciliter</string>
+	<string name="Units_FluidOunce">Flydende unse</string>
+	<string name="Units_Gallon">Gallons</string>
+	<string name="Units_Gram">Gram</string>
+	<string name="Units_Kilogram">Kg</string>
+	<string name="Units_Liter">Liter</string>
+	<string name="Units_Milliliter">Milliliter</string>
+	<string name="Units_Ounce">Unse</string>
+	<string name="Units_Pint">Halve Liter</string>
+	<string name="Units_Pound">Pund</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">Spiseskefulde</string>
+	<string name="Units_Teaspoon">Teskefulde</string>
+	<string name="DatabaseCulture">da</string>
+	<string name="Equivalent">beløb</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">indlæser...</string>
+	<string name="ExpiredCaption">Opdater nu</string>
+	<string name="ExpiredMessage">Tak fordi du brugte denne App! Dette eksemplar er nu udløbet. Men bare rolig, hvis du trykker OK, vil vi tage dig til download siden for at opdatere</string>
+	<string name="AgentDisabled">Du har deaktiveret programmet ‘Live Tiles’ i telefonindstillinger.</string>
+	<string name="SettingsScreen">Indstillinger</string>
+	<string name="PageTitleSettings">Mine præferencer</string>
+	<string name="AgentDescription">Denne opgave opdaterer ‘Live Tiles’ til maddagbogen.</string>
+	<string name="EmptyEntryList">Intet er valgt</string>
+	<string name="EmptySearchList">Angiv et søgeord</string>
+	<string name="SelectDate">Kalender</string>
+	<string name="Report">Rapport</string>
+	<string name="OpenReport">Rapport</string>
+	<string name="PageTitleItemDetail">MAD OPLYSNING</string>
+	<string name="TakeAPicture">Tag et billede</string>
+	<string name="ReviewTitle">Giv en anmeldelse\?</string>
+	<string name="Goals">Mål</string>
+	<string name="NoGoalSet">Ingen mål sæt</string>
+	<string name="ReviewBody">Tak fordi du bruger denne App! Hvis du finder den nyttig, kan du hjælpe den med at få success, ved at anmelde den.</string>
+	<string name="StandardProperty_TotalFat">Samlet fedt</string>
+	<string name="Reminders">Påmindelser</string>
+	<string name="PinToStart">Opsætning af fliser</string>
+	<string name="EndOfDay">Ved slutningen af dagen</string>
+	<string name="ReminderTitle">Påmindelse: opdater din dagbog</string>
+	<string name="ReminderDescription">valgte påmindelser vises hvis du ikke har opdateret din dagbog på det valgte tidspunkt</string>
+	<string name="ReminderContent">Hvad spiste du\?</string>
+	<string name="EnableLiveTile">Tælle manglende måltider på ‘app tilen’</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Tsk = 4,5 g|Spsk = 12 g|1 servering = 28 g|Stykke = 14 g|Udsnit = 12 g|1 cup = 237 g</string>
+	<string name="ScreenshotTitles">Appelsinjuice, 1 kop, Toast, 1 skive, æg, 1 medium, Apple, kaffe, bananer</string>
+	<string name="GoalUnder">{0} resterende</string>
+	<string name="OpenJournal">Journal</string>
+	<string name="GoalOver">{0} over målet</string>
+	<string name="RemoveAdsTitle">Fjern Reklamer\?</string>
+	<string name="Feedback_ShareText">At hente denne app</string>
+	<string name="ShareMessage">Prøv Maddagbogen til Windows Telefoner</string>
+	<string name="Feedback_Share">Del et link</string>
+	<string name="Feedback_ScreenshotText">En skærmhentning er inkluderet</string>
+	<string name="Feedback_Screenshot">Hjælp medforbedring af oversættelsen</string>
+	<string name="Feedback_RateText">Specifik feedback hjælper til at forbedre appen</string>
+	<string name="Feedback_Rate">Vurder denne app</string>
+	<string name="Feedback_EmailText">Foreslå en funktion eller stil et spørgsmål</string>
+	<string name="Feedback_Email">Rapporter et problem</string>
+	<string name="RemoveAdsText">Vælg OK for at fjerne reklamer fra appen.</string>
+	<string name="FeedbackSubject">E-mail fra Maddagbog</string>
+	<string name="ScreenshotSubject">Maddagbogs tekst</string>
+	<string name="ShareTitle">Maddagbog</string>
+	<string name="CommonItems_Snack">Almindelige snack produkter</string>
+	<string name="CommonItems_Lunch">Almindelige frokostsprodukter</string>
+	<string name="CommonItems_Dinner">Almindelige aftenmads produkter</string>
+	<string name="CommonItems_Breakfast">Almindelige morgenmadsprodukter</string>
+	<string name="Meals">Måltider</string>
+	<string name="Period_SnackMidnight">Midnat</string>
+	<string name="Meals_SnacksCombined">Kombiner snacks</string>
+	<string name="Meals_SnackEveningEnabled">Separat aftensnack</string>
+	<string name="MyRecentItems_SnackMorning">Seneste morgenprodukter</string>
+	<string name="CommonItems_SnackMorning">Almindelige morgenprodukter</string>
+	<string name="CommonItems_SnackMidnight">Almindelige midnatsprodukter</string>
+	<string name="CommonItems_SnackEvening">Almindelige aftensprodukter</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Almindelige tidlig eftermiddagsprodukter</string>
+	<string name="CommonItems_SnackAfternoon">Almindelige eftermiddagsprodukter</string>
+	<string name="MyRecentItems_SnackMidnight">Seneste midnatsprodukter</string>
+	<string name="MyRecentItems_SnackEvening">Seneste aftensprodukter</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Seneste tidlig eftermiddagsprodukter</string>
+	<string name="MyRecentItems_SnackAfternoon">Seneste eftermiddagsprodukter</string>
+	<string name="Meals_SnackMidnightEnabled">Separat natmad</string>
+	<string name="Period_SnackEvening">Aften</string>
+	<string name="Meals_SnackAfternoonEnabled">Separat eftermiddagssnack</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Separat tidlig eftermiddagssnack</string>
+	<string name="Meals_SnackMorningEnabled">Separat formiddagssnack</string>
+	<string name="Period_SnackAfternoon">Eftermiddag</string>
+	<string name="Period_SnackEarlyAfternoon">Tidlig eftermiddag</string>
+	<string name="Period_SnackMorning">Morgen</string>
+	<string name="UnlockFullTitle">Låse op nu\?</string>
+	<string name="TrialExpiredBody">Prøveversionen er udløbet. Du kan stadig se din journal, men du kan ikke tilføje nye poster. Vælg OK for at låse den fulde version.</string>
+	<string name="UnlockFullBody">Tak for at prøve den mad dagbog. Du har {0} retssag resterende dage. Tryk på OK for at låse app.</string>
+	<string name="StoreException">Det opstod et problem ved at skabe forbindelse til Windows Phone-butikken. Prøv igen senere.</string>
+	<string name="Feedback_RemoveAdsText">Permanent fjernelse af alle reklamer</string>
+	<string name="Feedback_RemoveAds">Fjern Reklamer</string>
+	<string name="StoreText_5">Download nu fordi du vil elske at bruge den.</string>
+	<string name="AppTitle">Maddagbog</string>
+	<string name="StoreText_4">PREMIUM-FUNKTIONER:
+1. ingen mere reklame.
+2. en meget større mad database.
+3. mulighed for at e-mail dig selv en kopi af mejeriet.
+4. flere indstillingsmuligheder, herunder evnen til at angive op til 8 separate måltider om dagen.</string>
+	<string name="StoreText_3">FUNKTIONER:
+1. en simpel og kraftfuld design: app åbner direkte om åbningsskærmbillede, på den seneste måltid, fordi det er hvad du bruger mest. Designet gør tilføje poster som enkel og intuitiv som muligt.
+2. en tap ind med personlige forslag: de mest almindelige fødevarer kan straks vælges. Starter den anden dag, er din seneste emner foreslået, fordi du kan spise den samme mad ofte.
+3. journaliserer i er ikke nødvendig: der kræves ingen personlige data eller kontaktoplysninger.
+4. tusindvis af varerne allerede i databasen: de fleste madvarer har nøjagtige oplysninger om fælles tjener størrelser, kalorier, kulhydrater, protein og fedt. 
+5. fuld offline support: ingen grund til at være tilsluttet til internettet. 
+6. præcis løsning er også nemt: kan du præcist angive det præcise beløb ved hjælp af en skyder.
+7. daglig rapporter: ved hjælp af menuen, kan du direkte åbne dagbogen, som viser en oversigt over din dag. Her kan du skifte mellem kalorier, protein og kulhydrater ved at trykke på lille trekant.
+8. spore dine mål: når du har indtastet dine personlige mål, kan du bruge rapporten uge for at se din tendenser. 
+9. personlige påmindelser hjælpe dig med at holde på mål: de er en praktisk måde at sørge for du udfylde din dagbog, efter hvert måltid, eller i slutningen af dagen.
+
+Det er en god ide at kontrollere oplysningerne i databasen svarer til oplysningerne på din emballage til fødevarer; mad ernæring svinger med mærker og over tid.
+
+Sørg for at diskutere dine mål med din læge eller ernæring specialist.</string>
+	<string name="StoreText_2">OM APP:
+At holde styr på hvad du spiser har vist sig at hjælpe med at forebygge og standse over spise.
+Denne app hjælper dig med at styre din kost og spise sundere, ved at gøre det let at holde styr på hvad du spiser. Designet er optimeret for at gøre posten så hurtigt som muligt, med 1 Klik løsning, og de seneste mad forslag. Bygget i databasen har allerede tusindvis af fødevarer, og hvis jeres ikke er kendt, tilføje dem er let.
+
+Bemærk: Denne app er gratis at downloade, og understøttes af reklamer. Du kan bruge det gratis, så længe du indkvartering. Det er muligt at fjerne reklame for et gebyr, som vil også aktivere yderligere funktioner.</string>
+	<string name="StoreText_1">Mad dagbog: Din kost og kalorieindhold tracking app.</string>
+	<string name="StoreKeyword_5">Ernæring</string>
+	<string name="StoreKeyword_4">Kalorier</string>
+	<string name="StoreKeyword_3">Kost</string>
+	<string name="StoreKeyword_2">Mad journal</string>
+	<string name="StoreKeyword_1">Kalorietæller</string>
+	<string name="Screenshot_H3">Banan</string>
+	<string name="Screenshot_H2">Kaffe</string>
+	<string name="Screenshot_H1">Æble</string>
+	<string name="Screenshot_3a">Æg</string>
+	<string name="Screenshot_2b">1 skive</string>
+	<string name="Screenshot_2a">Toast</string>
+	<string name="Screenshot_1b">1 kop</string>
+	<string name="Screenshot_1a">Appelsinjuice</string>
+	<string name="Product_2">Tak for din støtte! Brug denne indstilling til permanent fjerne reklamer fra din mad dagbog app.</string>
+	<string name="Product_1">Fjerne reklamer</string>
+	<string name="CantCalculateNutrition">Angiv vægt</string>
+	<string name="TrialExpiredTitle">Prøveperioden er udløbet, ønsker du at låse op\?</string>
+	<string name="Screenshot_3b">1 medium</string>
+	<string name="SendFeedback">Om</string>
+	<string name="Feedback_UnlockText">Køb premium-versionen</string>
+	<string name="EmailReport_SubjectTemplate">Fødevarer Journal for {0}</string>
+	<string name="EmailReport_Exception">Noget uventet gik galt. Journalen blev ikke sendt.</string>
+	<string name="EmailReport_InvalidEmailAddress">Angiv venligst en gyldig e-mail-adresse.</string>
+	<string name="Total">I alt</string>
+	<string name="Price">kun {0}</string>
+	<string name="Feature6_Text">Støt udviklingen</string>
+	<string name="Feedback_Footer">ANSVARSFRASKRIVELSE:
+De fleste, men ikke alle datapunkter i databasen kommer fra anerkendte kilder. Vi gør vores bedste for at sikre alle værdier er korrekte, men kan ikke holdes ansvarlig for forkert eller manglende data. Ernæringsmæssige værdier varierer efter mærke og over tid. Ved hjælp af denne app, accepterer du at kontrollere og rette eventuelle data i app, og for at være fuldt ansvarlig for skader på grund af dens anvendelse.
+
+Lad mig vide, hvis der er noget jeg kan hjælpe dig med.</string>
+	<string name="Feature6_Desc">Hjælp med opdatering af denne app</string>
+	<string name="GetAllFeatures">Få ALLE funktioner</string>
+	<string name="Feature_Header">Inkluderet:</string>
+	<string name="Feature_Footer">* BEMÆRK: De fleste, men ikke alle data kommer fra anerkendte kilder. Ved at købe premium-versionen, accepterer du fuldt ansvar for nøjagtigheden og fuldstændigheden af data. Send en mail til daily.journal@outlook.com for nærmere oplysninger.</string>
+	<string name="Feature5_Text">Nye funktioner</string>
+	<string name="Feature5_Desc">Alle premium funktioner i fremtidige opdateringer</string>
+	<string name="Feature4_Text">Flere måltider</string>
+	<string name="Feature4_Desc">Til at holde styr på 5, 6 eller flere måltider pr. dag</string>
+	<string name="Feature3_Text">Flere fødevarer *</string>
+	<string name="Feature3_Desc">Flere hundrede til tusinder flere madvarer (afhængigt af placering)</string>
+	<string name="Feature2_Text">E-mail-rapporter</string>
+	<string name="Feature2_Desc">E-mail din Journal for at gemme, udskrive eller analysere den</string>
+	<string name="Feature1_Text">Ingen reklamer</string>
+	<string name="Feature1_Desc">Alle reklamer er permanent fjernet</string>
+	<string name="BuyNow">Køb nu</string>
+	<string name="EmailReport_ShowSettings">Send via e-mail</string>
+	<string name="EmailReport_SendNow">Send nu</string>
+	<string name="EmailReport_Address">E-mail-adresse</string>
+	<string name="Feedback_Unlock">Opgrader nu</string>
+	<string name="Feedback_Header">Den hurtigste og nemmeste måde at holde styr på hvad du spiser.
+
+Rul ned for at få oplysninger om data nøjagtighed.</string>
+	<string name="Product_4">Få adgang til alle funktioner</string>
+	<string name="Product_3">Opgrader til premium</string>
+	<string name="EmailReport_Footer2">Bemærk: De fleste, men ikke alle datapunkter i databasen kommer fra anerkendte kilder. Vi gør vores bedste for at sikre værdierne er korrekte, men kan ikke holdes ansvarlig for forkerte eller manglende data. Du anerkender og accepterer ved brug af appen, fuldt ansvar for at kontrollere nøjagtigheden af data. Appen gør det muligt for dig, at opdatere eventuelle uoverensstemmelser, du måtte finde.</string>
+	<string name="EmailReport_Footer1">Journal af AAA
+Spørgsmål eller kommentarer\? Svar til BBB</string>
+	<string name="Localization_Submit">Indsend</string>
+	<string name="Localization_TranslationsText">Husk at opdatere tekster i denne liste med bedre oversættelser. Fjerne al tekst for varer, der er uhensigtsmæssige for dit område.</string>
+	<string name="Localization_ThankYou">Tak for din hjælp!</string>
+	<string name="Localization_Translations">Oversættelser</string>
+	<string name="Localization_Text">Her kan du bidrage til forbedring af denne app.</string>
+	<string name="Localization_Original">Original:</string>
+	<string name="Localization_Good">God</string>
+	<string name="Localization_Description">Beskrivelse:</string>
+	<string name="Feedback_LocalizeText">Hjælp med at forbedre appen</string>
+	<string name="Localization_CommentText">Hvis du ønsker at blive kontaktet, skal du indtaste din e-mail-adresse.</string>
+	<string name="Localization_Comment">Kommenter</string>
+	<string name="Feedback_Localize">Forbedring af oversættelser</string>
+	<string name="AddToLauncher">Tilføje til applikationslisten</string>
+	<string name="Avg">Gns</string>
+	<string name="Cancel">Annuller</string>
+	<string name="CopyFromSimilarItem">Kopier fra lignende produkt</string>
+	<string name="DeleteEntry">Slet indtastning</string>
+	<string name="EnterTheWeightForThisAmount">Angiv vægten for denne mængde</string>
+	<string name="MoreOptions2">Flere muligheder</string>
+	<string name="None">Ingen</string>
+	<string name="Ok">OK</string>
+	<string name="OneDaySalePctOff">1 dags udsalg: {0} % rabat</string>
+	<string name="Total2">I alt</string>
+	<string name="EmailReport_Footer1a">Journal af AAA</string>
+	<string name="EmailReport_Footer1b">Spørgsmål eller kommentarer\? Svar til BBB</string>
+	<string name="Add_New">NYT ELEMENT</string>
+	<string name="Add_Note">FØJE EN NOTE</string>
+	<string name="add_target">TILFØJ ERNÆRING</string>
+	<string name="choose_time">Indstil tid</string>
+	<string name="daily_target">Ernæring</string>
+	<string name="daily_target_hint">Daglige mål (valgfri)</string>
+	<string name="describe_goal">Beskrive dit mål her</string>
+	<string name="drawer_close">Luk</string>
+	<string name="drawer_open">Åben</string>
+	<string name="edit_meals">VÆLG MÅLTIDER</string>
+	<string name="enter_meal_time">Indtast tid for hvert måltid</string>
+	<string name="enter_serving_weight">Angiv vægt (g) først</string>
+	<string name="enter_value">Angiv ernæring</string>
+	<string name="get_started">Komme i gang!</string>
+	<string name="get_started_second_text">Tryk på \'+\' for at føje en post til din journal.</string>
+	<string name="Input_Notes">Skriv dine noter her</string>
+	<string name="meal_options">Måltid indstillinger</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Personlige mål</string>
+	<string name="Per_Cup">1 kop (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">Del</string>
+	<string name="RadioButton_Alpha">alfabetisk NOTYETUSED</string>
+	<string name="RadioButton_Sort">sortere efter historie NOTYETUSED</string>
+	<string name="Serving">Servering</string>
+	<string name="Show_More_Options">FLERE MULIGHEDER</string>
+	<string name="show_total_with_meal">Vis et ernæring mål</string>
+	<string name="target_date">Måldato</string>
+	<string name="target_date_hint">Vælg din måldato</string>
+	<string name="transition_name_circle">overgang: cirkel</string>
+	<string name="transition_name_name">overgang: navn</string>
+	<string name="transition_name_phone">overgang: telefon</string>
+	<string name="Type_Name">Søg</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metriske enheder</string>
+	<string name="Units_US">US-enheder</string>
+	<string name="Upgrade">Opgradering</string>
+	<string name="weight_gram">vægt (g)</string>
+	<string name="InvalidEmailError">Ugyldig e-mail-adresse</string>
+	<string name="NoGoalsTitle">Alle poster</string>
+	<string name="SendReportTitle">Send rapport</string>
+	<string name="DeleteEntryMessage">Slet dette indlæg\?</string>
+	<string name="NewBody">Mange forbedringer inkluderet: noter, flere fødevarer, bedre design og meget mere.
+Download gratis\?</string>
+	<string name="NewTitle">Version 2.0 nu tilgængelig!</string>
+</resources>

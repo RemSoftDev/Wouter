@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.SearchPage">
+
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <Grid Grid.Row="0" Padding="12,17,12,0">
+      
+      <Entry x:Name="Query" Text="{Binding Query}" Placeholder="{extensions:Translate Search}" />
+    </Grid>
+
+    <!--ContentPanel - place additional content here-->
+    <Grid Grid.Row="1" Padding="0,1,0,-1" x:Name="PageContent">
+      <Entry Text="{extensions:Translate EmptySearchList}" IsVisible="{Binding NoEntriesVisibility}" />
+      <ListView   ItemsSource="{Binding Results}"   />
+
+    </Grid>
+  </Grid>
+  
+</ContentPage>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">MITYBOS DIENORAŠTIS</string>
+	<string name="CommonItems">Populiarūs produktai</string>
+	<string name="Delete">Trinti</string>
+	<string name="EmptyEntryList">Nieko nepasirinkta</string>
+	<string name="MyRecentItems_Breakfast">Neseni pusryčių produktai</string>
+	<string name="MyRecentItems_Dinner">Neseni vakarienės produktai</string>
+	<string name="MyRecentItems_Exercise">Mano neseni pratimai</string>
+	<string name="MyRecentItems_Lunch">Neseni pietų produktai</string>
+	<string name="MyRecentItems_Snack">Neseni užkandžių produktai</string>
+	<string name="PageTitle">MITYBOS DIENORAŠTIS</string>
+	<string name="PageTitleBase">MAITINIMO DIENRAŠTIS- </string>
+	<string name="Period_Breakfast">Pusryčiai</string>
+	<string name="Period_Dinner">Vakarienė</string>
+	<string name="Period_Exercise">Pratimai</string>
+	<string name="Period_Lunch">Pietūs</string>
+	<string name="Period_Snack">Užkandžiai</string>
+	<string name="Search">Ieškoti</string>
+	<string name="Today">Šiandien</string>
+	<string name="StandardProperty_Amount">Kiekis</string>
+	<string name="StandardProperty_Calcium">Kalcis</string>
+	<string name="StandardProperty_Calories">Kalorijos</string>
+	<string name="StandardProperty_Carbs">Angliavandeniai</string>
+	<string name="StandardProperty_Cholesterol">Cholesterolis</string>
+	<string name="StandardProperty_Fiber">Skaidulos</string>
+	<string name="StandardProperty_Iron">Geležis</string>
+	<string name="StandardProperty_MonoFat">Mononesotieji riebalai</string>
+	<string name="StandardProperty_PolyFat">Polinesotieji riebalai</string>
+	<string name="StandardProperty_Potassium">Kalis</string>
+	<string name="StandardProperty_Protein">Baltymai</string>
+	<string name="StandardProperty_SatFat">Sotieji riebalai</string>
+	<string name="StandardProperty_Sodium">Natris</string>
+	<string name="StandardProperty_Sugar">Cukrus</string>
+	<string name="StandardProperty_TotalFat">Iš viso riebalų</string>
+	<string name="StandardProperty_VitaminC">Vitaminas C</string>
+	<string name="StandardProperty_VitaminD">Vitaminas D</string>
+	<string name="StandardProperty_Weight">Svoris</string>
+	<string name="Preferences">Nuostatos</string>
+	<string name="EmptySearchList">Įveskite paieškos žodį</string>
+	<string name="NewItemSuffix">(naujas produktas)</string>
+	<string name="NewRecipeSuffix">(naujas receptas)</string>
+	<string name="SearchResults">Ieškos rezultatai</string>
+	<string name="SearchTermNotFound">{0} nerasta, keisti paieškos žodį</string>
+	<string name="AcceptNew">Įtraukti</string>
+	<string name="Name">Pavadinimas</string>
+	<string name="Nutrition">Maistinė vertė</string>
+	<string name="PageTitleItemDetail">MAISTO INFORMACIJA</string>
+	<string name="EnterWeight">Iš pradžių įveskite svorį</string>
+	<string name="ServingSizes">Porcijos dydis</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Kiek\?</string>
+	<string name="MoreOptions">daugiau parinkčių</string>
+	<string name="NoNutritionInfo">Maistinės vertės informacijos nėra</string>
+	<string name="AddServingSize">Pridėti porciją</string>
+	<string name="Add">Įtraukti</string>
+	<string name="SelectDate">Kalendorius</string>
+	<string name="Advertisement">Reklama</string>
+	<string name="Unit_Centiliter">Centilitras</string>
+	<string name="Unit_Cup">Puodelis</string>
+	<string name="Unit_Deciliter">Dekalitras</string>
+	<string name="Unit_FluidOunce">Skysčio uncija</string>
+	<string name="Unit_Gallon">Galonas</string>
+	<string name="Unit_Gram">Gramas</string>
+	<string name="Unit_Kilogram">Kilogramas</string>
+	<string name="Unit_Liter">Litras</string>
+	<string name="Unit_Milliliter">Mililitras</string>
+	<string name="Unit_Ounce">Uncija</string>
+	<string name="Unit_Pint">Pinta</string>
+	<string name="Unit_Pound">Svaras</string>
+	<string name="Unit_Quart">Kvorta</string>
+	<string name="Unit_Tablespoon">Šaukštas</string>
+	<string name="Unit_Teaspoon">Šaukštelis</string>
+	<string name="Units_Centiliter">Centilitrai</string>
+	<string name="Units_Cup">Puodeliai</string>
+	<string name="Units_Deciliter">Decilitrai</string>
+	<string name="Units_FluidOunce">Skysčių uncijos</string>
+	<string name="Units_Gallon">Galonai</string>
+	<string name="Units_Gram">Gramai</string>
+	<string name="Units_Kilogram">Kilogramai</string>
+	<string name="Units_Liter">Litrai</string>
+	<string name="Units_Milliliter">Mililitrai</string>
+	<string name="Units_Ounce">Uncijos</string>
+	<string name="Units_Pint">Pintos</string>
+	<string name="Units_Pound">Svarai</string>
+	<string name="Units_Quart">Kvortos</string>
+	<string name="Units_Tablespoon">Šaukštai</string>
+	<string name="Units_Teaspoon">Šaukšteliai</string>
+	<string name="DatabaseCulture">LT</string>
+	<string name="FeedbackSubject">Mitybos dienoraščio el. laiškas</string>
+	<string name="Equivalent">suma</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">įkeliama…</string>
+	<string name="ExpiredCaption">Naujinti dabar\?</string>
+	<string name="ExpiredMessage">Ačiū, kad naudojate šią programą! Šio kopijos veikimas baigėsi. Tačiau nesijaudinkite – paspaudus Ok, mes jus nuvesime į puslapį, kuriame galėsite atsisiųsti atnaujinimą.</string>
+	<string name="AgentDescription">Ši užduotis atnaujina Mitybos dienoraščio Live Tile.</string>
+	<string name="AgentDisabled">Savo telefono nustatymuose išjungėte Live Tile.</string>
+	<string name="PageTitleSettings">Mano nuostatos</string>
+	<string name="EnableLiveTile">Skaičiuokite trūkstamus produktus programos plytelėje</string>
+	<string name="Reminders">Priminimai</string>
+	<string name="SettingsScreen">Nustatymai</string>
+	<string name="PinToStart">Nustatyti plytelę</string>
+	<string name="OpenReport">Ataskaita</string>
+	<string name="Report">Ataskaita</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Šaukštelis = 4.5 g|Šaukštas = 12 g|1 tarnauja = 28 g|Gabalas = 14 g|Gabalas = 12 g|1 puodelis 237 g</string>
+	<string name="TakeAPicture">Fotografuoti</string>
+	<string name="ReviewBody">Ačiū, kad naudojate šią programą! Jei manote, kad ji naudinga, parašykite atsiliepimą, tuomet ji bus dar geresnė.</string>
+	<string name="ReviewTitle">Rašyti atsiliepimą\?</string>
+	<string name="Goals">Tikslai</string>
+	<string name="NoGoalSet">Nėra tikslo rinkinys</string>
+	<string name="EndOfDay">Dienos pabaigoje</string>
+	<string name="ReminderContent">Ką jūs valgėte\?</string>
+	<string name="ReminderTitle">Priminimas: atnaujinti dienoraštį</string>
+	<string name="ReminderDescription">pasirinkti priminimai rodomi, jei iki pasirinkto laiko neatnaujinote dienoraščio</string>
+	<string name="ScreenshotTitles">Apelsinų sultys, 1 stiklinė, skrudinta duona, 1 griežinėlis, kiaušinių, 1 vidutinio, obuolių, kavos ir bananų</string>
+	<string name="GoalOver">Tikslas viršytas {0}</string>
+	<string name="GoalUnder">Liko {0}</string>
+	<string name="OpenJournal">Dienoraštis</string>
+	<string name="RemoveAdsText">Norėdami pašalinti reklamą, pasirinkite OK.</string>
+	<string name="RemoveAdsTitle">Pašalinti reklamą\?</string>
+	<string name="StoreException">Nepavyko prisijungti prie Windows Phone parduotuvės. Bandykite vėliau.</string>
+	<string name="Feedback_Email">Pranešti apie problemą</string>
+	<string name="Feedback_EmailText">Arba pasiūlykite savo funkciją arba užduokite klausimą</string>
+	<string name="Feedback_Rate">Įvertinkite šią programą</string>
+	<string name="Feedback_RateText">Konkretūs atsiliepimai padeda gerinti programą</string>
+	<string name="Feedback_Screenshot">Padėkite pagerinti vertimą</string>
+	<string name="Feedback_ScreenshotText">Yra momentinis ekrano fotografavimas</string>
+	<string name="Feedback_Share">Bendrinti saitą</string>
+	<string name="Feedback_ShareText">Norėdami parsisiųsti šią programą</string>
+	<string name="ScreenshotSubject">Mitybos dienoraščio tekstas</string>
+	<string name="ShareMessage">Susipažinkite su Mitybos dienoraščiu Windows Phone</string>
+	<string name="ShareTitle">Mitybos dienoraštis</string>
+	<string name="CommonItems_Breakfast">Populiarūs produktai pusryčiams</string>
+	<string name="CommonItems_Dinner">Populiarūs produktai vakarienei</string>
+	<string name="CommonItems_Lunch">Populiarūs produktai pietums</string>
+	<string name="CommonItems_Snack">Populiarūs produktai užkandžiams</string>
+	<string name="Meals">Valgymai</string>
+	<string name="Period_SnackMorning">Rytas</string>
+	<string name="Period_SnackEarlyAfternoon">Ankstyva popietė</string>
+	<string name="Period_SnackAfternoon">Popietė</string>
+	<string name="Meals_SnackMorningEnabled">Atskiras ryto užkandis</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Atskiras ankstyvo pavakario užkandis</string>
+	<string name="Meals_SnackAfternoonEnabled">Atskiras pavakario užkandis</string>
+	<string name="Period_SnackEvening">Vakaras</string>
+	<string name="Meals_SnackMidnightEnabled">Atskiras vidurnakčio užkandis</string>
+	<string name="Period_SnackMidnight">Vidurnaktis</string>
+	<string name="Meals_SnacksCombined">Sujungti užkandžius</string>
+	<string name="Meals_SnackEveningEnabled">Atskiras vakaro užkandis</string>
+	<string name="MyRecentItems_SnackAfternoon">Neseni popietės produktai</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Neseni ankstyvos popietės produktai</string>
+	<string name="MyRecentItems_SnackEvening">Neseni vakaro produktai</string>
+	<string name="MyRecentItems_SnackMidnight">Neseni vidurnakčio produktai</string>
+	<string name="MyRecentItems_SnackMorning">Neseni ryto produktai</string>
+	<string name="CommonItems_SnackAfternoon">Populiarūs produktai popietei</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Populiarūs produktai ankstyvai popietei</string>
+	<string name="CommonItems_SnackEvening">Populiarūs produktai vakarui</string>
+	<string name="CommonItems_SnackMidnight">Populiarūs produktai vidurnakčiui</string>
+	<string name="CommonItems_SnackMorning">Populiarūs produktai rytui</string>
+	<string name="UnlockFullBody">Ačiū, kad bando maisto dienoraštis. Jūs turite {0} tyrimo dienas likusias. Paspauskite Gerai, Norìdami atrakinti app.</string>
+	<string name="UnlockFullTitle">Atrakinti dabar\?</string>
+	<string name="TrialExpiredBody">Savo bandomąją dabar baigėsi galiojimo laikas. Galite matyti savo leidinyje, bet jūs negalite pridėti naujų įrašų. Pasirinkite gerai norėdami atrakinti pilną versiją.</string>
+	<string name="Feedback_RemoveAds">Pašalinti reklamą</string>
+	<string name="Feedback_RemoveAdsText">Visam laikui pašalinti reklamą</string>
+	<string name="StoreText_5">Atsisiųsti dabar nes jums patinka jį naudoti.</string>
+	<string name="AppTitle">Mitybos dienoraštis</string>
+	<string name="StoreText_4">PREMIUM PASLAUGŲ:
+1. daugiau reklama.
+2. daug didesnis maisto duomenų bazė.
+3. gebėjimas el. sau pieninės kopija.
+4. daugiau variantų, įskaitant pereiti iki 8 atskirą patiekalų dieną.</string>
+	<string name="StoreText_3">ĮRANGA:
+1. paprasta ir galinga dizainas: app atidaro tiesiogiai įrašas ekrano, paskutinis miltų, nes tai, ką jūs naudoti labiausiai. Jo konstrukcija neleidžia pridėti įrašų kaip paprasta ir intuityvi galima.
+2. vienu bakstelėjimu įrašą su asmeninį pasiūlymai: dažniausiai maisto produktus galima iš karto pasirinkti. Pradėti antrą dieną, savo Vėliausių elementų yra siūloma todėl, kad jūs galite valgyti tą patį maistą dažnai.
+3. Prisijungimas į nereikia: nėra asmens duomenys arba kontaktinę informaciją.
+4. tūkstančiai daiktų jau į duomenų bazę: dauguma maisto prekės turėti tikslią informaciją apie bendrą tarnauja dydžių, kalorijų, angliavandenių, baltymų ir riebalų. 
+5. visiškai off-line parama: nereikia būti prijungtas prie interneto. 
+6. tikslūs įrašas taip pat paprasta: tiksliai galite įvesti tikslią sumą, naudojant slankiklį.
+7. kasdien praneša: naudojant meniu, galite tiesiogiai atidaryti dienoraščio, kuris rodo trumpą informaciją apie savo dieną. Čia jūs galite persijungti tarp kalorijų, baltymų ir angliavandenių paspausdami mažas trikampis.
+8. sekti savo tikslus: įvedę savo asmeninių tikslų, galite naudoti ataskaitą savaitę pamatyti jūsų tendencijas. 
+9. asmens priminimus padeda likti tikslą: jie yra patogus būdas įsitikinti, kad jums užpildyti jūsų dienoraštis, po kiekvieno valgio, arba dienos pabaigoje.
+
+Tai gera idėja patikrinti duomenų bazės informacija yra tokia, kokią informaciją apie jūsų maisto pakuotės; maisto mitybos kinta su prekių ženklais ir per tam tikrą laiką.
+
+Būtinai aptarti savo tikslus su savo gydytoju ar mitybos specialistu.</string>
+	<string name="StoreText_2">APIE PROGRAMĄ:
+Nuolat stebėti, ką valgyti, buvo įrodyta, kad padėti užkirsti kelią ir sustabdyti per daug valgyti.
+Ši programa padės jums kontroliuoti savo mitybą ir valgyti sveikesni, todėl lengva sekti, ką valgyti. Dizainas yra optimizuota, kad įrašas taip greitai, kaip įmanoma, su 1 paspauskite įrašo, o neseniai maisto pasiūlymus. Pastatytas duomenų bazėje jau yra tūkstančiai maisto produktus ir jei jūsų nežinoma, įtraukdami juos lengva.
+
+Pastaba: Ši programa yra nemokamai atsisiųsti, ir palaiko savo skelbimus. Galite naudoti jį nemokamai tol, kol jums patinka. Yra galimybė pašalinti reklamos už tam tikrą mokestį, kuris leis papildomų funkcijų.</string>
+	<string name="StoreText_1">Maitinimo dienraštis: Dietos ir kalorijų sekimo programos.</string>
+	<string name="StoreKeyword_5">Maistinė vertė</string>
+	<string name="StoreKeyword_4">Kalorijos</string>
+	<string name="StoreKeyword_3">Dieta</string>
+	<string name="StoreKeyword_2">Mitybos dienoraštis</string>
+	<string name="StoreKeyword_1">Kalorijų skaitiklis</string>
+	<string name="Screenshot_H3">Bananas</string>
+	<string name="Screenshot_H2">Kava</string>
+	<string name="Screenshot_H1">Obuolys</string>
+	<string name="Screenshot_3a">Kiaušinis</string>
+	<string name="Screenshot_2b">1 riekė</string>
+	<string name="Screenshot_2a">Skrebutis</string>
+	<string name="Screenshot_1b">1 puodelis</string>
+	<string name="Screenshot_1a">Apelsinų sultys</string>
+	<string name="Product_2">Dėkojame už jūsų paramą! Naudokite šią parinktį Norėdami visam laikui pašalinti skelbimai iš savo maisto dienoraštis app.</string>
+	<string name="Product_1">Pašalinti skelbimai</string>
+	<string name="CantCalculateNutrition">Įvesti svorį</string>
+	<string name="TrialExpiredTitle">Bandomasis laikotarpis baigėsi. Atrakinti\?</string>
+	<string name="Screenshot_3b">1 vidutinio kietumo</string>
+	<string name="SendFeedback">Apie</string>
+	<string name="Feedback_Header">Greičiausias ir paprasčiausias būdas sekti, ką valgyti.
+
+Slinkite žemyn gauti informacijos apie duomenų tikslumą.</string>
+	<string name="Feedback_Unlock">Naujinti dabar</string>
+	<string name="Feedback_UnlockText">Pirkti pilną versiją</string>
+	<string name="EmailReport_SubjectTemplate">{0} mitybos dienoraštis</string>
+	<string name="EmailReport_Exception">Kažkas atsitiko. Dienoraštis neišsiųstas.</string>
+	<string name="EmailReport_InvalidEmailAddress">Įveskite galiojantį el. pašto adresą.</string>
+	<string name="Total">Iš viso</string>
+	<string name="Price">tik {0}</string>
+	<string name="Feature6_Text">Paremkite programos kūrimą</string>
+	<string name="Feedback_Footer">ATSAKOMYBĖS APRIBOJIMAS:
+Dauguma, tačiau ne visos duomenų taškų duomenų bazėje yra iš patikimų šaltinių. Mes darome viską, kad įsitikinti, kad visi dydžiai yra tikslūs, bet negali būti laikoma atsakinga už neteisingai ar trūksta duomenų. Maistinė vertė skiriasi pagal gamintoją ir per tam tikrą laiką. Naudojant šią programą, jūs sutinkate patikrinti ir ištaisyti visus programos duomenys, ir būti visiškai atsakingi už sužalojimą arba žalą dėl jo naudojimo.
+
+Prašome leiskite man žinoti, jei yra ką aš galiu padėti jums.</string>
+	<string name="Feature6_Desc">Padėkite kurti programos naujinius</string>
+	<string name="GetAllFeatures">Gauti VISAS funkcijas</string>
+	<string name="Feature_Header">Ką gaunate</string>
+	<string name="Feature_Footer">* Pastaba: didžioji dalis, tačiau ne visa duomenų bazės informacija paimta iš patikimų šaltinių. Pirkdami Premium versiją, jūs prisiimate visą atsakomybę už duomenų patikimumą. Daugiau informacijos kreipkitės daily.journal@outlook.com.</string>
+	<string name="Feature5_Text">Naujos funkcijos</string>
+	<string name="Feature5_Desc">Visos papildomos funkcijos kituose atnaujinimuose</string>
+	<string name="Feature4_Text">Daugiau patiekalų</string>
+	<string name="Feature4_Desc">Stebėkite 5, 6 ar daugiau valgymų per dieną</string>
+	<string name="Feature3_Text">Daugiau patiekalų *</string>
+	<string name="Feature3_Desc">Šimtai ar tūkstančiai naujų maisto produktų (priklausomai nuo vietovės)</string>
+	<string name="Feature2_Text">El. pašto ataskaitos</string>
+	<string name="Feature2_Desc">Siųskite savo dienoraštį el. paštu, kad galėtumėte jį išsaugoti, išspausdinti arba analizuoti</string>
+	<string name="Feature1_Text">Jokios reklamos</string>
+	<string name="Feature1_Desc">Visi skelbimai pašalinami yra visam laikui</string>
+	<string name="BuyNow">pirkti dabar</string>
+	<string name="EmailReport_ShowSettings">Siųsti el. paštu</string>
+	<string name="EmailReport_SendNow">siųsti dabar</string>
+	<string name="EmailReport_Address">El. pašto adresas</string>
+	<string name="Product_4">Gauti prieigą prie visų funkcijų</string>
+	<string name="Product_3">Atnaujinti su priemoka</string>
+	<string name="EmailReport_Footer2">Pastaba: didžioji dalis, tačiau ne visa duomenų bazės informacija paimta iš patikimų šaltinių. Mes labai stengiamės nurodyti teisingas reikšmes, tačiau neatsakome už klaidingą ar trūkstamą informaciją. Naudodami programą, jūs sutinkate prisiimti visą atsakomybę už duomenų patikimumą. Programa leidžia jums pakoreguoti rastas klaidas.</string>
+	<string name="EmailReport_Footer1">Leidinyje iš AAA
+Klausimai arba komentarai\? Atsakymas į BBB</string>
+	<string name="Localization_Submit">Pateikti</string>
+	<string name="Localization_TranslationsText">Prašome atnaujinti šį sąrašą tekstai geriau vertimai. Pašalinti visus teksto elementus, kurie netinka jūsų regione.</string>
+	<string name="Localization_ThankYou">Ačiū už jūsų pagalbą!</string>
+	<string name="Localization_Translations">Vertimai</string>
+	<string name="Localization_Text">Čia galite padėti pagerinti šią programą.</string>
+	<string name="Localization_Original">Pirminis:</string>
+	<string name="Localization_Good">Geras</string>
+	<string name="Localization_Description">Aprašymas:</string>
+	<string name="Feedback_LocalizeText">Padėkite pagerinti programą</string>
+	<string name="Localization_CommentText">Jei norite, kad su jumis susisiektų, įveskite savo el. pašto adresą.</string>
+	<string name="Localization_Comment">Komentaras</string>
+	<string name="Feedback_Localize">Pagerinti vertimą</string>
+	<string name="AddToLauncher">Įtraukti į paleidimo režimą</string>
+	<string name="Avg">VDT</string>
+	<string name="Cancel">Atšaukti</string>
+	<string name="CopyFromSimilarItem">Kopijuoti iš panašaus produkto</string>
+	<string name="DeleteEntry">Trinti įrašą</string>
+	<string name="EnterTheWeightForThisAmount">Įvesti šio kiekio svorį</string>
+	<string name="MoreOptions2">Daugiau parinkčių</string>
+	<string name="None">Nė vienas</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 dienos akcija: {0} % nuolaida</string>
+	<string name="Total2">Iš viso</string>
+	<string name="EmailReport_Footer1a">AAA dienoraštis</string>
+	<string name="EmailReport_Footer1b">Turite klausimų ar komentarų\? Atsakykite BBB</string>
+	<string name="Add_New">NAUJOS PREKĖS</string>
+	<string name="Add_Note">PRIDĖTI PASTABĄ</string>
+	<string name="add_target">PRIDĖTI MITYBOS</string>
+	<string name="choose_time">nustatytu laiku</string>
+	<string name="daily_target">Mitybos</string>
+	<string name="daily_target_hint">Dienos tikslus (pasirinktinai)</string>
+	<string name="describe_goal">Apibūdinti jūsų tikslas čia</string>
+	<string name="drawer_close">Uždaryti</string>
+	<string name="drawer_open">Atidaryti</string>
+	<string name="edit_meals">PASIRINKTI MAISTĄ</string>
+	<string name="enter_meal_time">Įveskite laiką kiekvieną valgį</string>
+	<string name="enter_serving_weight">Pirmiausia įveskite svoris (g)</string>
+	<string name="enter_value">Įveskite mitybos</string>
+	<string name="get_started">Pradėti!</string>
+	<string name="get_started_second_text">Bakstelėkite "+" Pridėti įrašą į savo žurnalą.</string>
+	<string name="Input_Notes">Įveskite savo pastabas čia</string>
+	<string name="meal_options">Pasirinkimus</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Asmens tikslas</string>
+	<string name="Per_Cup">1 puodelis (250 g) NOTUSED</string>
+	<string name="Per_Grams">100 g</string>
+	<string name="portion_caption">dalis</string>
+	<string name="RadioButton_Alpha">abėcėlės tvarka NOTYETUSED</string>
+	<string name="RadioButton_Sort">Rūšiuoti pagal istorija NOTYETUSED</string>
+	<string name="Serving">Įteikimas</string>
+	<string name="Show_More_Options">DAUGIAU PARINKČIŲ</string>
+	<string name="show_total_with_meal">Rodyti mitybos tikslą</string>
+	<string name="target_date">Planuojama data</string>
+	<string name="target_date_hint">Pasirinkite jūsų tikslinę datą</string>
+	<string name="transition_name_circle">perėjimą: ratas</string>
+	<string name="transition_name_name">perėjimą: pavadinimas</string>
+	<string name="transition_name_phone">perėjimą: telefonas</string>
+	<string name="Type_Name">Paieškos</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metrinės sistemos matavimo vienetai</string>
+	<string name="Units_US">JAV vienetai</string>
+	<string name="Upgrade">Atnaujinti</string>
+	<string name="weight_gram">svoris (g)</string>
+	<string name="InvalidEmailError">Neteisingas el. pašto adresas</string>
+	<string name="NoGoalsTitle">Visi įrašai</string>
+	<string name="SendReportTitle">Siųsti ataskaitą</string>
+	<string name="DeleteEntryMessage">Ar naikinti šį įrašą\?</string>
+	<string name="NewBody">Daug patobulinimų įtraukta: pastabos, daugiau maisto produktų, geriau dizainas ir dar daugiau.
+Parsisiųsti nemokamai\?</string>
+	<string name="NewTitle">Versija 2.0 dabar prieinamas!</string>
+</resources>

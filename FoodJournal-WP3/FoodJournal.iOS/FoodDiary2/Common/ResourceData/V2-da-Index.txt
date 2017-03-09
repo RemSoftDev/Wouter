@@ -1,0 +1,1855 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Havregryn		33
+1	B	Kaffe		195
+2	L	Rugbrød, mørkt		270
+3	L	Brød		368
+4	B	Æg		650
+5	L	Æg		896
+6	S	Kaffe		1142
+7	S	Æble, dansk, råt		1217
+8	B	Brød		1316
+9	L	Tomat		1598
+10	S	Te		1893
+11	B	Skummetmælk		1966
+12	D	Æg		2079
+13	B	Grovbolle		2326
+14	B	Smør, saltet		2422
+15	B	Skummetmælk 0.5 % fedt (Minimælk)		2528
+16	D	Brød		2657
+17	S	Appelsin, rå		2940
+18	S	Banan		3040
+19	D	Gulerod		3430
+20	B	Te		3772
+21	L	Gulerod		3845
+22	D	Kyllingebryst		4187
+23	S	Kiks		4372
+24	B	Banan		4516
+25	L	Rugbrød, fuldkorn		4906
+26	D	Grøn salat		5014
+27	L	Rugbrød		5384
+28	B	Rundstykke		5704
+29	B	Rugbrød, fuldkorn		5820
+30	D	Kylling		5928
+31	S	Brød		6192
+32	D	Tomat		6475
+33	L	Hamburgerryg, kogt		6771
+34	L	Spegepølse		6895
+35	D	Rugbrød		7006
+36	B	Müsli		7326
+37	B	1% mælk		7370
+38	S	Banan, rå		7503
+39	L	Leverpostej		7602
+40	L	Te		7709
+41	L	Kylling		7782
+42	B	Ost, fast, 45+, alle typer		8046
+43	B	Skyr		8159
+44	S	Gulerod		8191
+45	B	Letmælk, konventionel (ikke-økologisk)		8533
+46	B	Yoghurt med müsli		8637
+47	S	Mælk chokolade		8754
+48	B	Rosiner		8933
+49	S	Pære, rå		9215
+50	B	Sukker		9358
+51	B	Lav fedt frugt yoghurt		9519
+52	L	Peberfrugt, rød, rå		9671
+53	S	Rugbrød, mørkt		9768
+54	B	Franskbrød		9867
+55	S	Lav fedt frugt yoghurt		10025
+56	D	Oksekød, hakket, råt		10177
+57	B	Ost, fast, 30+, alle typer		10250
+58	B	Rugbrød		10356
+59	D	Pommes frites		10676
+60	S	Æg		10890
+61	L	Grøn salat		11137
+62	S	Mørk chokolade		11507
+63	L	Banan		11629
+64	B	Mandler		12019
+65	L	Agurk, rå		12241
+66	L	Kyllingebryst		12325
+67	D	Blandede grøntsager		12510
+68	B	Hindbærmarmelade		12619
+69	B	Yoghurt naturel		12708
+70	D	Løg		12835
+71	S	Chokolade, fyldt		13099
+72	D	Rugbrød, Hercules, Kohberg		13214
+73	B	Kaffe, drikkeklar		13249
+74	L	Hytteost		13291
+75	L	Rullepølse		13340
+76	B	Appelsinjuice, konserves		13459
+77	S	Clementin		13544
+78	S	Skummetmælk		13563
+79	S	Knækbrød, rug-, fint		13676
+80	S	Ristede mandler		13771
+81	B	Proteinpulver		13965
+82	S	Rosiner		14009
+83	L	Grovbolle		14291
+84	D	Kartoffelmos		14387
+85	S	Grovbolle		14486
+86	S	Ost, fast, 30+, alle typer		14582
+87	L	Vand		14688
+88	L	Rugbrødsboller		14811
+89	B	Rundstykker		14958
+90	D	Peberfrugt, rød, rå		14998
+91	B	Mørk chokolade		15095
+92	D	Rugbrød, fuldkorn		15217
+93	D	Oksekød		15325
+94	D	Svinemørbrad, afpudset, rå		15504
+95	S	Peanuts, (jordnød, ristet og saltet)		15596
+96	B	Avocado, rå		15700
+97	D	Vand		15809
+98	S	Rugbrød		15932
+99	S	Vindrue, rå		16252
+100	S	Nektarin, rå		16350
+101	D	Gulerod, dansk, rå		16472
+102	D	Rullepølse		16570
+103	L	Skummetmælk		16690
+104	D	Tomatsuppe, spiseklar		16804
+105	D	Blomkål, dansk, rå		16901
+106	S	Rundstykke		16999
+107	L	Mineralvand, sodavand, Cola		17116
+108	B	Nøddepasta, Nutella		17185
+109	S	Mandel, rå		17280
+110	L	Hårdkogt æg		17385
+111	L	Bacon i skiver, rå		17575
+112	L	Peanuts, (jordnød, ristet og saltet)		17682
+113	L	Icebergsalat		17787
+114	B	Knækbrød, rug-, fint		18160
+115	L	Torsk, rogn, rå		18256
+116	L	Makrel i tomat, konserves		18356
+117	D	Hamburgerryg, kogt		18467
+118	S	Æble		18592
+119	B	Smør		18739
+120	L	Saltet smør		18855
+121	L	Agurk		19014
+122	S	Mikrobølgepopcorn		19217
+123	D	Rugbrød, mørkt		19324
+124	L	Mayonnaise		19424
+125	L	Rugbrød mørkt		19538
+126	B	Havregryn, ikke beriget		19630
+127	S	Skummetmælk 0.5 % fedt (Minimælk)		19733
+128	B	Ost 17%		19863
+129	D	Spejlæg		19894
+130	L	Ost, fast, 45+, alle typer		20075
+131	D	Hamburgerryg, røget		20189
+132	B	Sukker, stødt melis (saccharose)		20300
+133	S	Ost, fast, 45+, alle typer		20372
+134	S	Æble, importeret, råt		20486
+135	D	Agurk, rå		20581
+136	D	Æble, dansk, råt		20666
+137	L	Banan, rå		20767
+138	L	Kaffe		20867
+139	S	Mineralvand, sodavand, Cola		20944
+140	S	Vandmelon		21013
+141	B	Honning		21281
+142	B	Fløde 38 %, piskefløde		21368
+143	S	Franskbrød		21479
+144	B	Banan, rå		21638
+145	B	Æble, dansk, råt		21738
+146	S	Blandet nødder		21839
+147	L	Avocado, rå		21949
+148	L	Smør, saltet		22059
+149	L	Skyr		22166
+150	D	Te		22199
+151	L	Rugbrød, Hercules, Kohberg		22273
+152	D	Saltet smør		22309
+153	L	Rejer		22468
+154	S	Havregryn		22591
+155	B	Grovfranskbrød		22755
+156	S	Pomolo		22840
+157	L	Hamburgerryg, røget		22872
+158	D	Laks		22983
+159	D	Broccoli, kogt		23079
+160	B	Yoghurt med jordbær		23174
+161	L	Franskbrød		23285
+162	L	Tun, rå		23444
+163	S	Kiwi, rå		23523
+164	S	Nøddepasta, Nutella		23628
+165	S	Skyr vanilja		23723
+166	B	Æg, hele, rå		23754
+167	L	Hvedebrød, toastbrød, groft, industrifremstillet		23856
+168	L	Hytteost, 20+		23952
+169	B	Leverpostej		24057
+170	D	Smør, saltet		24165
+171	B	Hamburgerryg, røget		24272
+172	L	Spejlæg		24383
+173	L	Skinke, kogt, skiveskåret		24564
+174	L	Æble, dansk, råt		24673
+175	B	Mini mælk, laktose fri		24774
+176	B	Krydder		24811
+177	B	Bacon i skiver, rå		24912
+178	B	Knækbrød, rug-, groft (Husmans)		25019
+179	S	Jordbær, rå		25118
+180	S	Chokolade kage		25225
+181	L	Ost, fast, 30+, alle typer		25349
+182	S	Flødechokolade		25456
+183	L	Æble		25563
+184	L	Mørk chokolade		25710
+185	D	Icebergsalat		25833
+186	D	Leverpostej		26206
+187	D	Bacon i tern, rå		26314
+188	S	Honning		26421
+189	D	Mineralvand, sodavand, Cola		26508
+190	S	Æble, uspec., råt		26577
+191	D	Skummetmælk 0.5 % fedt (Minimælk)		26678
+192	S	Rugbrød, fuldkorn		26808
+193	D	Rugbrødsboller		26917
+194	D	Hvidvin		27065
+195	S	Honningmelon, rå		27137
+196	D	Skinke		27245
+197	L	Rosiner		27300
+198	S	Mandler		27583
+199	B	Kærnemælk		27806
+200	B	Blåbær, rå		27853
+201	B	Citron, rå		27939
+202	L	Laks		28041
+203	L	Jordbær, rå		28137
+204	B	Smelteost, 45+		28244
+205	L	Havregryn		28349
+206	D	Bacon i skiver, rå		28513
+207	B	Coffee		28620
+208	D	Feta, 40+		28658
+209	B	Sødmælk		28766
+210	D	Knækbrød, rug-, fint		28901
+211	S	Mandarin, rå		28997
+212	S	Ostehaps		29095
+213	B	Hvidløg, rå		29134
+214	D	Mayonnaise		29226
+215	S	Gulerødder		29340
+216	B	Ost		29379
+217	L	Kaffe, drikkeklar		29472
+218	L	Røget svinefilet		29515
+219	B	Flødeost		29621
+220	L	Vindrue, rå		29794
+221	L	Skummetmælk 0.5 % fedt (Minimælk)		29893
+222	L	Lav fedt frugt yoghurt		30023
+223	D	Pølse		30176
+224	S	Vandmelon, rå		30284
+225	S	Skyr		30376
+226	S	Knækbrød, rug-, groft (Husmans)		30409
+227	D	Champignon, rå		30508
+228	D	Torsk, filet, kogt		30602
+229	B	Nupo		30661
+230	D	Lasagne		30699
+231	L	Kyllingepølse, pålæg		30727
+232	L	Tomat, dansk, rå		30834
+233	B	Yoghurt med pære og banan		30935
+234	L	Æg, hele, rå		31051
+235	L	Ananas		31153
+236	L	Skinke		31370
+237	L	Broccoli, rå		31425
+238	S	Hårde slik		31523
+239	S	Pære		31605
+240	S	Kaffe, drikkeklar		31793
+241	S	Leverpostej		31836
+242	B	Jordbær, rå		31944
+243	S	Vand		32051
+244	L	Oksekød		32175
+245	L	Kiwi, rå		32355
+246	D	Havregryn		32460
+247	D	Hytteost, 20+		32624
+248	D	Grovbolle		32729
+249	S	Netmelon, rå		32826
+250	L	Kartoffelmos		32911
+251	D	Avocado, rå		33011
+252	D	Flødeost		33121
+253	D	Æble		33294
+254	D	Peberfrugt, grøn, rå		33441
+255	D	Broccoli, rå		33543
+256	B	Hvedebrød, bolle, grov, industrifremstillet		33641
+257	B	Vandmelon		33733
+258	S	Spegepølse		34001
+259	B	Saltet smør		34113
+260	S	Hamburgerryg, kogt		34272
+261	B	Vindrue, rå		34397
+262	L	Tomatsuppe, spiseklar		34496
+263	L	Torsk, filet, kogt		34593
+264	B	Knækbrød, hvede-, fint		34652
+265	L	Blandede grøntsager		34769
+266	S	Coffee		34879
+267	S	Sukker		34917
+268	B	Æble		35079
+269	B	Peberfrugt, rød, rå		35226
+270	B	Bread		35324
+271	L	Saftevand		35427
+272	D	Sødmælk		35569
+273	S	Rugbrød mørkt		35704
+274	S	Rullepølse		35796
+275	S	Gulerod, dansk, rå		35916
+276	L	Soyamælk		36014
+277	L	Rundstykke		36050
+278	B	Tomat		36167
+279	S	Smør		36464
+280	B	Røræg		36580
+281	S	Peberfrugt, rød, rå		36624
+282	S	Saltet smør		36722
+283	D	Skummetmælk		36881
+284	D	Skinke, røget, kogt		36995
+285	D	Peanuts, (jordnød, ristet og saltet)		37088
+286	D	Solbærmarmelade		37193
+287	D	Yoghurt naturel		37288
+288	D	Svinekød, uspec., ca. 10 % fedt, råt		37416
+289	D	Hvidkål, rå		37505
+290	B	Tykmælk		37592
+291	B	Spejlæg		37703
+292	B	Ost, fast, 20+, alle typer		37884
+293	B	Rugbrød, Hercules, Kohberg		37986
+294	B	Rygeost, 40+		38022
+295	B	Flødeost, 60+		38134
+296	B	Skyr med blåbær og solbær		38240
+297	B	Appelsin, rå		38260
+298	B	Youghurt		38361
+299	B	Juice		38456
+300	B	Skinke		38475
+301	S	Blåbær		38530
+302	L	Havarti, 45+		38669
+303	B	Spegepølse		38785
+304	B	Hytteost, 20+		38897
+305	L	Rødbede, konserves		39002
+306	D	Fløde 38 %, piskefløde		39099
+307	D	Oksekød, hakket, lavt fedtindhold, råt		39210
+308	D	Skyr		39285
+309	D	Banan, rå		39318
+310	D	Tomat, dansk, rå		39418
+311	D	Agurk		39519
+312	L	Flødeost		39722
+313	B	Cheddar cheese		39895
+314	B	Jordbærmarmelade		39991
+315	S	Tomat		40086
+316	L	Appelsinjuice, konserves		40383
+317	B	Gulerod		40469
+318	L	Yoghurt naturel		40812
+319	L	Kødpølse		40940
+320	L	Pære, rå		41051
+321	L	Nupo		41195
+322	L	Torsk, rogn, konserves		41233
+323	S	Letmælk, konventionel (ikke-økologisk)		41340
+324	S	Agurk, rå		41445
+325	S	Kærnemælk		41530
+326	L	Hvedebrød, bolle, grov, industrifremstillet		41577
+327	L	Kalkunbryst		41669
+328	D	Juice		41839
+329	L	Hamburgerryg		41858
+330	L	Gulerod, dansk, rå		41972
+331	L	Appelsin, rå		42070
+332	L	Mælk chokolade		42171
+333	L	Mandel, rå		42351
+334	L	Smørbart blandingsprodukt, 80% fedt		42456
+335	L	Cacaomælk		42561
+336	L	Smelteost, 30+		42671
+337	B	Smørbart blandingsprodukt, 80% fedt		42779
+338	B	Havre		42884
+339	B	Cornflakes		42977
+340	B	Agurk, rå		43086
+341	D	Hvidløg, rå		43171
+342	B	Hel-hvede brød		43263
+343	B	Mysli		43480
+344	B	Hvedebrød bolle		43523
+345	B	Rugbrødsboller		43604
+346	B	Reduceret fedt ost		43752
+347	D	Creme fraiche		43960
+348	D	Rugbrød mørkt		44084
+349	D	Banan		44176
+350	D	Kærnemælk		44567
+351	D	Ost, fast, 45+, alle typer		44614
+352	D	Kalkunbryst		44728
+353	D	Hakket oksekød (75/25)		44898
+354	B	Danbo, 45+		44997
+355	S	Kanel, stang		45111
+356	B	Ananasjuice, konserves		45210
+357	S	Knækbrød, hvede-, fint		45289
+358	S	Smør, saltet		45406
+359	S	Ost, fast, 20+, alle typer		45513
+360	S	Paranød		45615
+361	S	Mysli		45708
+362	B	Letmælk		45751
+363	B	Æblegrød		45792
+364	S	Flødeost		45826
+365	S	Saftevand		45999
+366	S	Hørfrøolie		46141
+367	S	Hvidvin		46191
+368	S	Hasselnød, tørret		46263
+369	S	Valnød		46368
+370	D	Soyamælk		46622
+371	B	Grøn salat		46658
+372	S	Fersken		47029
+373	D	Wienerpølse		47215
+374	D	Hvedebrød, bolle, fin, industrifremstillet		47333
+375	D	Rødbede, konserves		47421
+376	D	Franskbrød		47518
+377	D	Fløde 18 %		47677
+378	B	Vandmelon, rå		47785
+379	B	Havrefras		47877
+380	S	Ost 17%		47920
+381	S	Slik		47951
+382	S	Æblegrød		47972
+383	D	Ost, fast, 20+, alle typer		48006
+384	D	Spegepølse		48108
+385	B	Appelsinjuice		48220
+386	D	Stegt kyllingekød		48314
+387	L	Svinemørbrad, afpudset, rå		48509
+388	L	Skinke, røget		48602
+389	L	Rundstykker		48697
+390	L	Bulgur (hvedekerner, knækkede, parboiled), rå		48738
+391	L	Ost, fast, 20+, alle typer		48838
+392	L	Champignon, rå		48940
+393	B	Fløde 18 %		49034
+394	B	A38, acidophilus tykmælk		49142
+395	B	Bacon i tern, rå		49256
+396	B	Mineralvand, sodavand, Cola		49363
+397	B	Grovboller		49432
+398	B	Ketchup		49540
+399	B	Kylling		49583
+400	B	Vand		49848
+401	B	Hamburgerryg, kogt		49972
+402	L	Svinekød, uspec., ca. 10 % fedt, råt		50097
+403	D	Ymer naturel		50186
+404	D	Skinke, røget		50295
+405	B	Toast		50390
+406	B	Skyr vanilja		50429
+407	B	Mayonnaise		50460
+408	B	Havregrød		50574
+409	B	Pære, rå		50609
+410	B	Ost spredt		50753
+411	B	Æble, importeret, råt		50873
+412	B	Kokosolie		50968
+413	B	Mandel, rå		51049
+414	B	Smelteost, 30+		51154
+415	B	Rugbrød, mørkt		51262
+416	B	Kakao		51362
+417	L	Yoghurt med müsli		51390
+418	B	Kiks		51508
+419	B	Ostehaps		51653
+420	B	Netmelon, rå		51692
+421	B	Havarti, 45+		51777
+422	B	Fresh orange juice		51893
+423	B	Cacaomælk		51984
+424	B	Blåbær		52094
+425	B	Grahamsmel, fuldkornshvedemel		52233
+426	D	Mozzarellaost		52338
+427	S	Hytteost, 20+		52546
+428	S	Torsk, rogn, rå		52651
+429	S	Skinke, kogt, skiveskåret		52751
+430	S	Juice		52860
+431	S	Hamburgerryg, røget		52879
+432	S	Fløde 38 %, piskefløde		52990
+433	S	Smoothie		53101
+434	D	Smør		53122
+435	S	Blåbær, rå		53238
+436	S	Pandekage		53324
+437	L	Kærnemælk		53509
+438	L	Kiks		53556
+439	S	Ananas		53701
+440	D	Knækbrød, rug-, groft (Husmans)		53918
+441	S	Flødechokolade med nødder		54017
+442	D	Jordbær, rå		54117
+443	D	Risengrød		54224
+444	D	Hytteost		54245
+445	D	Havarti, 45+		54295
+446	D	Dressing, thousand island		54411
+447	D	Ost		54518
+448	D	Feta, 50+		54611
+449	D	Flødeost, 60+		54718
+450	D	Skinke, kogt, skiveskåret		54824
+451	D	Pandekage		54933
+452	D	Rejer		55118
+453	D	Kaffe		55241
+454	D	Pære, rå		55318
+455	D	Oksekød, tykstegsfilet uden kappe, rå		55462
+456	L	Jordbær		55550
+457	S	Hvedebrød, bolle, fin, industrifremstillet		55819
+458	L	Pølse		55907
+459	S	Kaffe med sødmælk og sukker		56015
+460	L	Rundstykke, spansk		56060
+461	L	Juice		56149
+462	L	Nøddepasta, Nutella		56168
+463	L	Feta, 40+		56263
+464	L	Vandmelon		56371
+465	L	Lys tunfiskekonserves		56639
+466	L	Hvedebrød, toastbrød, fint, industrifremstillet		56790
+467	L	Smelteost, 45+		56892
+468	L	Knækbrød, rug-, fint		56997
+469	L	Solbærmarmelade		57093
+470	B	Hørfrøolie		57188
+471	L	Kanel, stang		57238
+472	L	Müsli		57337
+473	L	Smoothie		57382
+474	L	Bolle		57403
+475	B	Fladbrød		57424
+476	B	Philadelphia light		57514
+477	L	Blomkål, dansk, rå		57559
+478	B	Saftevand		57657
+479	L	Pære		57799
+480	L	Creme fraiche		57987
+481	L	Yoghurt med pære og banan		58111
+482	B	Svinekød, uspec., ca. 10 % fedt, råt		58227
+483	B	Hindbær		58316
+484	B	Sesamfrø, afskallede		58361
+485	B	Kiwi, rå		58455
+486	D	Selleri		58560
+487	B	Grapefrugt, rå		58813
+488	B	Skinke, kogt, skiveskåret		58917
+489	L	Sødmælk		59026
+490	B	Hvedebrød, toastbrød, fint, industrifremstillet		59161
+491	L	Netmelon, rå		59263
+492	B	Grahamsbrød		59348
+493	L	Letmælk, konventionel (ikke-økologisk)		59445
+494	B	Tun, rå		59550
+495	L	Broccoli, kogt		59629
+496	L	Pommes frites		59724
+497	L	Grovboller		59939
+498	L	Hvedebrød, sandwich/toastbrød med fedtrige frø, industrifremstillet		60047
+499	L	Havregrød		60139
+500	L	Kakao		60174
+501	B	Rullepølse		60202
+502	S	Havarti, 45+		60322
+503	D	Nøddepasta, Nutella		60438
+504	S	Svinemørbrad, afpudset, rå		60533
+505	S	Cappuccino		60626
+506	S	Avocado, rå		60655
+507	S	Makrel i tomat, konserves		60765
+508	S	Bacon i skiver, rå		60876
+509	D	Torsk, rogn, konserves		60983
+510	S	Kakao		61090
+511	D	Gulerødder		61118
+512	S	Kyllingepølse, pålæg		61157
+513	S	Nupo bar		61264
+514	S	Soyamælk		61304
+515	S	Jordbær		61340
+516	S	Koldskål		61609
+517	S	Mariekiks		61628
+518	S	Hindbær		61731
+519	S	Kylling		61776
+520	D	Havregrød		62041
+521	D	Mandarin, rå		62076
+522	D	Bulgur (hvedekerner, knækkede, parboiled), rå		62174
+523	D	Proteinshake		62274
+524	B	Hvedebrød, toastbrød, groft, industrifremstillet		62301
+525	D	Makrel i tomat, konserves		62397
+526	L	Løg		62508
+527	D	Tomatketchup		62773
+528	D	Smørbart blandingsprodukt, 80% fedt		62884
+529	D	Smelteost, 45+		62989
+530	D	Ristede mandler		63094
+531	D	Grahamsbrød		63289
+532	D	Tun, rå		63386
+533	D	Appelsin, rå		63465
+534	D	Ananas		63566
+535	D	Kiwi, rå		63783
+536	D	Vandmelon		63888
+537	D	Rosiner		64156
+538	D	Kokosolie		64439
+539	L	Selleri		64520
+540	L	Smør		64773
+541	B	Pomolo		64889
+542	L	Skinke, røget, kogt		64921
+543	L	Blåbær		65014
+544	L	Hakket oksekød (75/25)		65153
+545	L	Grovfranskbrød		65252
+546	L	Blandet nødder		65337
+547	L	Flødechokolade		65447
+548	L	Flødeost, 60+		65554
+549	L	Koldskål		65660
+550	L	Hasselnød, tørret		65679
+551	B	Figuraost, 10+		65784
+552	B	Hvidvin		65864
+553	B	Friskpresset appelsinjuice		65936
+554	L	Sukker		66064
+555	B	Soyamælk		66226
+556	L	Honningmelon, rå		66262
+557	B	Smøreost		66370
+558	B	Jordbær		66406
+559	B	Kokosmel		66675
+560	L	Ost		66772
+561	S	Myslibar		66865
+562	B	Pære		66885
+563	S	Protein		67073
+564	B	Rugbrød, lyst		67093
+565	B	Hytteost		67191
+566	B	Smoothie		67241
+567	B	Kyllingepølse, pålæg		67262
+568	S	Grøn salat		67369
+569	B	Schweizisk ost		67740
+570	B	Rugbrød mørkt		67945
+571	D	Sodavand		68037
+572	S	2% mælk		68086
+573	B	nutella		68219
+574	S	Lys tunfiskekonserves		68258
+575	S	Camembert, 45+		68409
+576	S	Mayonnaise		68516
+577	S	Oksekød		68630
+578	S	Skinke, røget		68810
+579	S	Kyllingebryst		68905
+580	S	Hindbærmarmelade		69091
+581	S	Feta, 40+		69181
+582	B	Hamburgerryg		69289
+583	S	1% mælk		69403
+584	B	Clementin		69537
+585	S	Smør olie		69557
+586	S	Apple		69698
+587	S	Toast		69790
+588	S	Yoghurt naturel		69829
+589	B	Makrel i tomat, konserves		69957
+590	B	Musling, konserves		70068
+591	B	Torsk, rogn, konserves		70155
+592	L	Lasagne		70262
+593	B	Havreklid, dansk		70290
+594	L	Kokosolie		70338
+595	B	Ymer naturel		70419
+596	B	Pandekage		70528
+597	B	Svinemørbrad, afpudset, rå		70713
+598	B	Valnød		70806
+599	B	Hytteost 20+		71060
+600	B	Parmesanost		71158
+601	B	Mango		71268
+602	B	Selleri		71302
+603	L	Ostehaps		71555
+604	L	Varm Kakao		71594
+605	L	Ristede mandler		71615
+606	B	Mozzarellaost		71810
+607	B	Ananas		72018
+608	B	Croissant		72235
+609	B	Rejer		72332
+610	B	Rundstykke, spansk		72455
+611	B	Kaffe med sødmælk og sukker		72544
+612	B	Oksekød, tykstegsfilet uden kappe, rå		72589
+613	B	Creme fraiche		72677
+614	B	Smør olie		72801
+615	L	Rygeost, 40+		72942
+616	L	Vandmelon, rå		73054
+617	B	Proteinshake		73146
+618	L	Hvidvin		73173
+619	B	2% mælk		73245
+620	L	Hvedebrød, fint, store		73378
+621	B	Rygeost, 5+		73471
+622	B	Solbærmarmelade		73577
+623	B	Oksekød, hakket, lavt fedtindhold, råt		73672
+624	B	Hårdkogt æg		73747
+625	B	Mariekiks		73937
+626	B	Koldskål		74040
+627	B	Champignon, rå		74059
+628	B	Hasselnød, tørret		74153
+629	L	Ananasjuice, konserves		74258
+630	L	Mariekiks		74337
+631	S	Rygeost, 40+		74440
+632	S	Torsk, rogn, konserves		74552
+633	S	Grovfranskbrød		74659
+634	S	Jordbærmarmelade		74744
+635	S	Hakket oksekød (75/25)		74839
+636	S	Rygeost, 5+		74938
+637	S	Feta, 50+		75044
+638	S	Yoghurt med jordbær		75151
+639	S	Proteinbar		75262
+640	S	Nupo		75290
+641	S	Ost		75328
+642	S	Smør, usaltet		75421
+643	S	Pølse		75520
+644	S	Hårdkogt æg		75628
+645	S	Fiberbrød		75818
+646	S	Tebirkes		75913
+647	S	Røræg		76013
+648	S	Friskpresset appelsinjuice		76057
+649	S	Champignon, rå		76185
+650	S	Smøreost		76279
+651	S	Kokosmel		76315
+652	S	Solbærmarmelade		76412
+653	S	Müsli		76507
+654	L	Salat, Iceberg, rå		76552
+655	L	Sild, marineret, kryddersild		76655
+656	D	Rødvin, uspec.		76730
+657	D	Rødvin		76829
+658	L	Sild, marineret		76903
+659	D	Hvide ris		77019
+660	S	Lakrids, sød		77128
+661	L	Oksekød, lårtunge, rå		77223
+662	L	Laks, røget, udskåret		77330
+663	D	Fiskefrikadelle		77436
+664	S	Figen, rå		77548
+665	D	Pizza romana, dybfrost		77650
+666	D	Kartoffel		77726
+667	D	Løg, rå		77943
+668	L	Spinat, rå		78057
+669	D	Kartoffel, chips (franske kartofler)		78167
+670	D	Hvidvin, tør		78283
+671	L	Kogt kartoffel		78379
+672	D	Øl		78593
+673	S	Vingummi		78724
+674	L	Roastbeef		78825
+675	L	Dressing, creme fraiche		78934
+676	D	Rødspætte, filet, paneret, dybfrost		79035
+677	D	Kødboller, dybfrost		79148
+678	D	Kylling, bryst (filet), kogt, pålæg		79236
+679	L	Olivenolie		79344
+680	S	Skærekage, sandkage		79440
+681	D	Grønne ærter		79535
+682	S	Pop corn, microovn		79660
+683	S	Rugbrød, lyst		79735
+684	L	Rugbrød, lyst		79847
+685	D	Svinekoteletter		79959
+686	D	Sild, marineret, i karrysauce		80100
+687	L	Fiskefrikadelle		80216
+688	S	Mineralvand, sodavand, tilsat sukker, uspec.		80328
+689	L	Kartoffel		80424
+690	S	Lakridskonfekt		80641
+691	D	Svinekotelet, fadkotelet, rå		80731
+692	S	Kogt kartoffel		80844
+693	L	Bagte bønner		81058
+694	D	Tomat, tørret		81117
+695	L	Æg, langæg, kogt, dybfrost (DANÆG)		81237
+696	L	Pølse, hot dog		81332
+697	L	Tun i vand, konserves		81450
+698	D	Asparges, hvide, rå		81556
+699	L	Tun i olie, konserves		81655
+700	D	Flødeis		81768
+701	S	Kartoffel, chips (franske kartofler)		81866
+702	S	Grønne ærter		81982
+703	S	Flødeis		82107
+704	L	Hvedebrød, bolle, fin, industrifremstillet		82205
+705	S	Frugtsaft, blandet, usødet, koncentreret		82308
+706	D	Melboller, uspec.		82405
+707	L	Rødvin, uspec.		82482
+708	D	Grønne bønner, rå		82581
+709	D	Rosenkål, uspec., rå		82686
+710	L	Lammekød, kølle, afpudset, rå		82797
+711	D	Kaffe, instant, pulver		82907
+712	D	Kogt gulerod		83016
+713	L	Kylling, kød, rå		83333
+714	D	Oksekød bryst		83441
+715	D	Kogt kartoffel		83558
+716	S	Øl		83772
+717	S	Marcipan		83903
+718	S	Frugtpålæg, figen		84010
+719	D	Rosenkål, dybfrost		84126
+720	D	Grønne ærter, rå		84235
+721	S	Cacaomælk		84343
+722	D	Salami		84457
+723	D	Svinekød, hakket, ca.  6% fedt, råt		84569
+724	D	Svinebov til fars, ca. 16 % fedt, rå		84681
+725	S	Fiskefrikadelle		84788
+726	S	Whisky		84900
+727	D	Porre, rå		84995
+728	S	Tørkage, uspec.		85104
+729	L	Rapsolie		85176
+730	L	Æg, hvide, rå		85305
+731	L	Solsikkebrød		85405
+732	D	Ris, polerede, rå		85495
+733	S	Småkage, finsk brød		85605
+734	S	Bolcher, uspec.		85692
+735	L	Byggryn, rå		85768
+736	D	Kyllingepølse, pålæg		85880
+737	D	Æg, and, rå		85993
+738	D	Æg, langæg, kogt, dybfrost (DANÆG)		86097
+739	D	Asparges, konserves		86192
+740	D	Kylling lår		86305
+741	D	Kartoffel, uspec., rå		86463
+742	D	Baked beans i tomatsovs, konserves		86577
+743	S	Befæstede lav fedt frugt yoghurt		86680
+744	D	Ingefær, rod, rå		86863
+745	D	Grillkylling		86964
+746	L	Grønne bønner, dybfrost		87189
+747	S	Grønne bønner, rå		87295
+748	L	Hvidvin, medium		87400
+749	L	Hvide ris		87498
+750	D	Hjerte, kalv, råt		87607
+751	D	Kartoffel, gammel (februar - juni), rå		87719
+752	L	Kippers i olie, konserves		87798
+753	L	Citronsaft, friskpresset		87888
+754	S	Gin		87988
+755	L	Emmentaler, 45+		88079
+756	S	Flødeboller, skumboller		88196
+757	D	Karry, pulver		88289
+758	S	Kirsebær, rå		88402
+759	L	Dressing, fransk		88515
+760	D	Nektarin, rå		88625
+761	L	Pizza romana, dybfrost		88730
+762	S	Pistacienød, tørret		88806
+763	D	Svinekam uden svær, rå		88916
+764	D	Svinekød, spareribs, rå		89027
+765	L	Svinekoteletter		89140
+766	D	Pølser, cocktailpølser		89281
+767	S	Te, drikkeklar		89399
+768	D	Rå spinat		89495
+769	S	Øl, pilsner, skatteklasse 1, uspec.		89675
+770	L	Øl, pilsner, skatteklasse 1, uspec.		89774
+771	L	Øl		89873
+772	D	Oksekød, slag, råt		90004
+773	D	Oksekød, lårtunge, rå		90114
+774	S	Nougatis		90221
+775	L	Torsk, rogn, røget		90320
+776	L	Sild, marineret, i karrysauce		90421
+777	D	Salat, Iceberg, rå		90537
+778	S	Rom		90640
+779	D	Rødkål, konserves, uden tilsat sukker		90731
+780	S	Småkage, uspec.		90839
+781	D	Rødbede, rå		90955
+782	S	Rismel		91064
+783	D	Rismel		91176
+784	D	Reje, kogt		91288
+785	D	Rapsolie		91399
+786	D	Vand fra hanen		91528
+787	D	Majs		91648
+788	D	Medisterpølse, rå		91939
+789	D	Tun i olie, konserves		92059
+790	D	Vanilleis		92172
+791	S	Limonadeis, uspec.		92271
+792	S	Smelteost, 30+		92319
+793	S	Byggryn, rå		92438
+794	D	Chokolade is		92550
+795	S	Vodka		92674
+796	D	Sennep		92762
+797	D	Sild		92896
+798	D	Sild, marineret		93143
+799	D	Skinke, kogt, konserves		93259
+800		Chokolade		93369
+801		Cornflakes, uspec		93390
+802		Vanilleskyr		93484
+803		Smør (bakke dal)		93516
+804		Æggehvide		93552
+805		Muffin		93579
+806		Solsikkekerner		93600
+807		Cheasy drikkeskyr m/ appelsin		93660
+808		Æblejuice		93698
+809		Ymerdrys		93718
+810		Syltetøj, uspec		93738
+811		Pitabrød		93809
+812		Ost, fast, 40+, alle typer		93838
+813		Sirup		93956
+814		Melboller, uspec		94026
+815		Omelet		94093
+816		Kage		94128
+817		Cocio one		94149
+818		Ost 13%		94185
+819		Grøntsagsjuice, pasteuriseret		94277
+820		Brombær, rå		94380
+821		Oliven, sorte, uden sten, i saltlage		94460
+822		Finvalsede Havregryn		94517
+823		Grødris		94554
+824		Nupobar		94589
+825		Småkage, uspec		94626
+826		Mineralvand, sodavand, tilsat sukker, uspec		94724
+827		Peanuts		94777
+828		Wienerbrød, uspec		94816
+829		Hotdog		94906
+830		Kalkun, bryst (filet), kogt/røget, pålæg		95012
+831		Æble-/gulerodskompot Ubberup		95109
+832		Wienerbrød, julekage		95134
+833		Vafler		95226
+834		Jordbær, syltede		95247
+835		Rugfras		95315
+836		Cheddar, 50+		95356
+837		Brie, 50+		95452
+838		Skæreost		95554
+839		Minimælk		95627
+840		Sukker, brun farin		95664
+841		Peanutbutter		95729
+842		Medisterpølse, røget		95767
+843		Tomat, flået, konserves		95888
+844		Møllehjul		95982
+845		Brie, 45+		96018
+846		Rabarber, rå		96121
+847		Roulade, hindbær-		96217
+848		Mangofrugt, mangoblomme, mangga, rå		96281
+849		Yoghurt med peach melba		96379
+850		Sardin, i olie, konserves		96498
+851		Sojamælk		96583
+852		Havregryn, uspec.		96605
+853		Te, blade		96722
+854		Pizza, dybfrost, uspec.		96814
+855		Øl, skatteklasse 2, uspec.		96898
+856		Müsli, uspec.		97001
+857		Müsli uden tilsat sukker.		97114
+858		Laks, gravad		97196
+859		Remoulade, uspec.		97310
+860		Syltetøj, uspec.		97428
+861		Letmælksyoghurt med saft		97530
+862		Æble, tørret		97644
+863		Lammekød, bryst, råt		97754
+864		Rosin uden kerner		97865
+865		Selleri, rod, rå		97978
+866		Langkornet ris		98089
+867		Cornflakes, uspec.		98150
+868		Havregryn, beriget		98265
+869		Brune ris		98378
+870		Fedtfattig vanille yoghurt		98497
+871		Paneret kylling		98675
+872		Flaskevand		98902
+873		Dåser røde kidneybønner		99023
+874		Tyggegummi, uden sukker, uspec.		99156
+875		Kødpølse, fedtreduceret		99236
+876		Paté, pålæg		99306
+877		Softrugbrød (uden fedtrige frø)		99416
+878		Svinekød, rullesteg af slag, rå		99519
+879		Skummetmælk, økologisk		99629
+880		Svinekød, mørbrad royal, rå		99743
+881		Svinekød, kæbeklump, rå		99852
+882		Blåbær, frosne, usukrede		99960
+883		Kartoffel, konserves		100046
+884		Rugkerner, hele/knækkede		100154
+885		Torsk, filet, stegt		100266
+886		Torsk, filet, paneret, rå		100322
+887		Tunge, svin, saltet		100434
+888		Lammekød, kølle, med fedt, rå		100543
+889		Risengryn, grødris, polerede, rå		100653
+890		Trekornsbrød		100764
+891		Æg, hele, tørret		100866
+892		Surbrød		100976
+893		Kylling, bryst, kød og skind, rå		101089
+894		Likør, uspec.		101195
+895		Snaps, 40 % vol., uspec.		101269
+896		Sælkød, råt		101343
+897		Karameller, uspec.		101430
+898		Æblegele		101508
+899		Eddike		101577
+900		Høne, kød, rå		101675
+901		Cacao, instant, uden mælk, pulver		101781
+902		And, kød og skind, rå		101892
+903		Rødkål, konserves		102001
+904		Ris, parboiled, rå		102108
+905		Reje, dybfrost		102219
+906		Creme fraiche 18 %		102333
+907		Lammekød, bov, rå		102449
+908		Kaviar, uægte (stenbiderrogn)		102556
+909		Laks, rå		102668
+910		Mineralvand, sodavand, uden tilsat sukker, uspec.		102776
+911		Kikærter, tørrede, rå		102857
+912		Pølsebrød		102971
+913		Agurk, syltet		103074
+914		Granatæble, punisk æble, råt		103168
+915		Paradisæble, råt		103251
+916		Spidskål, rå		103351
+917		Tomatpure		103460
+918		Bolcher, blandede		103567
+919		Oksekød, culotte, rå		103665
+920		Oksekød, tykstegsfilet med kappe, rå		103773
+921		Oksekød, inderlår uden kappe, rå		103879
+922		Asier, syltede		103989
+923		Kylling hotdog		104083
+924		Havkat		104213
+925		Våd mozzarellaost		104331
+926		Pisket smør		104562
+927		Halvdelen og halvdelen		104763
+928		Lys creme		104923
+929		Tunge piskefløde		105083
+930		Creme stedfortræder pulver		105259
+931		Amerikansk ost		105414
+932		Hele chokolade mælk		105650
+933		Chokolade mælk		105810
+934		Fedtfattig chokolade mælk		105967
+935		Jordnøddeolie		106121
+936		Sojaolie		106246
+937		Lys befæstede lav fedt frugt yoghurt		106377
+938		Lys lavt fedt frugt yoghurt		106556
+939		Creme erstatning		106733
+940		Lav fedt vegetabilsk olie spredt		106885
+941		Majsolie		107080
+942		Vegetabilsk olie spredt		107210
+943		Vegetabilsk olie		107354
+944		Industrielle soja olie		107488
+945		Industrielle soja og bomuldsfrø olie		107618
+946		Kyllingelår		107748
+947		Druesaft		107924
+948		Druer		108079
+949		Oksekød bouillon		108230
+950		Fløde af champignon suppe		108374
+951		Sovs		108527
+952		Oksekød lager		108667
+953		Hønsefond		108818
+954		Fiskesuppe		108971
+955		Kylling bouillon		109130
+956		Frosne gulerod		109278
+957		Frosne jordbær		109597
+958		Dåse grønne bønner		109901
+959		Rå kål		110073
+960		Kål		110399
+961		Gul majs på dåse		110723
+962		Frosne majs		110870
+963		Hvide champignon		111161
+964		Skinke med naturlig juice		111321
+965		Skinke og vand		111475
+966		Skinke - vand tilsat		111625
+967		Æblesaft		111778
+968		Æblesaft med c-vitamin		111931
+969		Saltet ristede mandler		112085
+970		Cashewnødder		112316
+971		Lys øl		112495
+972		Beriget frugtsmagende vand		112652
+973		Koffeinfri te		112806
+974		Dåse frugt drik		112944
+975		Beriget frugt drik		113103
+976		Koffeinfri kaffe		113273
+977		Dåse rejer		113407
+978		Muslinger		113551
+979		Dåse muslinger		113730
+980		Kartoffel pust		113913
+981		Ovn pommes frites		114073
+982		Blancheret mandler		114269
+983		Bagt sød kartoffel		114499
+984		Sød kartoffel		114700
+985		Dåse sød kartoffel		114897
+986		Dåse gulerodsjuice		115096
+987		Bagt kartoffel med hud		115252
+988		Tomatpuré		115468
+989		Lage		115623
+990		Bagt kartoffel		115850
+991		Kartoffel i huden		116064
+992		Kogte løg		116277
+993		Forårsløg		116566
+994		Persille		116768
+995		Kogt tomat		116925
+996		Dåse tomat		117195
+997		Stuvet dåsetomater		117374
+998		Tomatjuice		117642
+999		Dåse tomatsauce		117800
+1000		Krabbe		117951
+1001		Sojasovs		118147
+1002		Beriget sojamælk		118313
+1003		Røde kidneybønner		118470
+1004		Ost krakker		118618
+1005		Krakker		118850
+1006		Kiks med jordnøddesmør		119078
+1007		Hvede kiks		119310
+1008		Gammeldags småkager		119539
+1009		Italiensk brød		119827
+1010		Multi korn brød		120032
+1011		Hvidt brød		120328
+1012		M & Ms		120623
+1013		Skumfiduser		120815
+1014		Flormelis		120979
+1015		Ost pust		121143
+1016		Gær		121301
+1017		Vingummitoppe		121448
+1018		Bagning chokolade		121790
+1019		Halvsød chokolade		121956
+1020		Makaroni		122113
+1021		Brun farin		122285
+1022		Kringle		122492
+1023		Fedtfattig amerikansk ost		122641
+1024		Tranebærsaft		122868
+1025		Fedtfattig schweizisk ost		123020
+1026		Bagepulver		123248
+1027		Appelsin sorbet		123367
+1028		Vaffel		123497
+1029		Kærnemælk vaffel		123661
+1030		Karameller		123825
+1031		Æbletærte		123972
+1032		Gelé		124157
+1033		Sorte bønner		124298
+1034		Sandkage		124436
+1035		Brødkrummer		124581
+1036		Hvide bønner		124715
+1037		Linser		124850
+1038		Kogte linser		124987
+1039		Saltet jordnødder		125124
+1040		Saltet ristede jordnødder		125273
+1041		Ristede jordnødder		125418
+1042		Østers		125561
+1043		Fisk pinde		125700
+1044		Kogt fedt på Svinekam		125886
+1045		Kogt svinekød lænd		126027
+1046		Stegt Svinekam		126167
+1047		Æblemos		126308
+1048		Asparges		126442
+1049		Ristede fedt på skinke		126584
+1050		Ristet skinke		126716
+1051		Svinekød nedskæringer		126846
+1052		Endivie		126991
+1053		Italiensk pølse		127148
+1054		Frokost kød		127304
+1055		Svinekød og oksekød pølse		127456
+1056		Havre med kanel og krydderi		127619
+1057		Havre med rosiner og krydderi		127757
+1058		Underlår		127899
+1059		Kylling vinge		128067
+1060		Brændt Tyrkiet		128201
+1061		Ristede kalkunkød		128337
+1062		Kyllingebryst med hud		128469
+1063		Paneret kylling bryst		128632
+1064		Stegt kyllingebryst		128801
+1065		Kylling bryst kød		128963
+1066		Tør mælk		129131
+1067		Æggeblomme		129274
+1068		Tørret æg		129421
+1069		Ostesauce		129570
+1070		Ricottaost		129711
+1071		Svinekød, vikingsteaks, rå		129851
+1072		Svinekød, skinketern af yderlår, rå		129965
+1073		Svinekød, skinkestrimler af yderlår, rå		130078
+1074		Svinekød, bov i tern, rå		130191
+1075		Skinkemignon, rå		130303
+1076		Svinekød, nakkekotelet, rå		130416
+1077		Skinkeschnitzel, inderlår, rå		130525
+1078		Svinekød, wokstrimler af skinkeinderlår, rå		130637
+1079		Koriander, blade, friske		130748
+1080		Isvaffel med vaniljeis, uspec.		130853
+1081		Marcipanprodukt, m/chokolade, uspec.		130904
+1082		Dragé, lakrids		130983
+1083		Nougat		131061
+1084		Dragéprodukt, uspec.		131145
+1085		Svinekød, filet royal af svinefilet, rå		131223
+1086		Svinekød, medaillon af svinefilet, rå		131334
+1087		Svinekød, sautéskiver af svinefilet, rå		131447
+1088		Hvedebrød, bolle, grov, med fedtrige frø, industrifremstillet		131557
+1089		Hvedebrød, store, med fedtrige frø		131662
+1090		Hvedebrød, store, italiensk		131772
+1091		Flûte, med fedtrige frø, industrifremstillet		131881
+1092		Hvedebrød, bolle, italiensk, industrifremstillet		131984
+1093		Letmælk, økologisk		132088
+1094		Hindbær, dybfrost		132206
+1095		Creme Fraiche 9%		132321
+1096		Smelteost, 20+		132443
+1097		Læskedrik, koncentreret (1+5), tilsat sukker, uspec.		132563
+1098		Læskedrik (light), koncentreret (1+10), uden tilsat sukker, uspec.		132661
+1099		Svinekød, ribsteaks, rå		132747
+1100		Svinekam med svær, rå		132860
+1101		Svinekød, flæskesteg af svinekam med svær, rå		132972
+1102		Svinekød, ribbensteg, rå		133084
+1103		Svinekød, flæskesteg af nakkekam med svær, rå		133197
+1104		Svinekød, revelsben, rå		133311
+1105		Svinekød, bovsteaks, rå		133425
+1106		Softrugbrød med fedtrige frø og hele kerner		133534
+1107		Bondebrød, uden fedtrige frø, industrifremstillet		133639
+1108		Bondebrød med fedtrige frø, industrifremstillet		133741
+1109		Kartoffelchips, grove		133844
+1110		Snacks, ekspanderet, kartoffelbasis		133937
+1111		Snacks, ekspanderet, majsbasis		134031
+1112		Snacks, ekstruderet, majsbasis		134125
+1113		Pop corn, traditionelle		134219
+1114		Rugbrød med fedtrige frø og hele kerner		134324
+1115		Hvedebrød, groft uden fedtrige frø, uden kerner		134427
+1116		Flûte, fint, industrifremstillet		134533
+1117		Flûte, groft, industrifremstillet		134634
+1118		Frugtkvark		134737
+1119		Modermælk, colostrum		134861
+1120		Modermælk, overgangsmælk (10. dag efter fødslen)		134957
+1121		Modermælk, moden		135061
+1122		Pumpernickel		135173
+1123		Leverpostej, fedtreduceret		135268
+1124		Tørkage, linse		135378
+1125		Sødmælk, økologisk		135446
+1126		Hvidvin, uspec.		135564
+1127		Spædbørnsmad, modermælkserstatning, højt jernindhold, pulver		135651
+1128		Svinekød, hakket, højt fedtindhold, råt		135760
+1129		Svinekød, hakket, lavt fedtindhold, råt		135843
+1130		Kalv og flæsk, hakket, højt fedtindhold, råt		135931
+1131		Kalkunkød, hakket, råt		136016
+1132		Konfektureprodukt, skumvare, uspec.		136095
+1133		Vekao		136175
+1134		Svinekød, bagskank uden svær, rå		136257
+1135		Yderlår, skinkesteg (med svær), rå		136342
+1136		Yderlår, skinkeculotte, ca. 2 mm spæk, rå		136399
+1137		Svinebov med svær, rå		136458
+1138		Minarine, 30 %, vegetabilsk fedt		136568
+1139		Minarine, 40 %, vegetabilsk fedt		136674
+1140		Margarine, 80 %, bordbrug, vegetabilsk fedt		136786
+1141		Margarine, 70 %, bordbrug, blød, vegetabilsk fedt		136898
+1142		Margarine, 80 %, stegning/bagning, vegetabilsk fedt		137010
+1143		Margarine, 80 %, bordbrug, blød, vegetabilsk fedt		137122
+1144		Broccoli, dybfrost		137232
+1145		Sukkerært (mangetout), rå		137330
+1146		Drueagurk (sylteagurk), rå		137389
+1147		Boghvede, hel, rå		137445
+1148		Risengryn, grødris, brune, rå		137505
+1149		Kørvel, hakket, dybfrost		137566
+1150		Brune linser, tørrede, rå		137671
+1151		Tyggegummi, med sukker, uspec.		137732
+1152		Sildepostej		137808
+1153		Musling, kogt		137914
+1154		Pastiller, med sukker, uspec.		138022
+1155		Pastiller, sukkerfri, uspec.		138100
+1156		Dressing, creme fraiche, kalorielet		138180
+1157		Dressing, mayonnaise		138277
+1158		Dressing, mayonnaise, kalorielet		138394
+1159		Dressing, olie-eddike		138495
+1160		Dressing, olie-eddike, kalorielet		138579
+1161		Tidselolie		138654
+1162		Røde linser, tørrede, rå		138751
+1163		Rugsigtemel (udmalingsgrad ca. 70 %)		138812
+1164		Rugmel, halvsigtet (udmalingsgrad ca. 85 %)		138888
+1165		Kirsebær, syltede		138962
+1166		Jordbærsaft, sød, koncentreret		139036
+1167		Jordbærsaft, sur, koncentreret		139106
+1168		Hindbærsaft, sød, koncentreret		139180
+1169		Hindbærsaft, sur, koncentreret		139244
+1170		Kirsebærsaft, sød, koncentreret		139312
+1171		Kirsebærsaft, sur, koncentreret		139384
+1172		Ribssaft, sød, koncentreret		139457
+1173		Ribssaft, sur, koncentreret		139532
+1174		Selleri, blade, rå		139611
+1175		Solbærsaft, sød, koncentreret		139689
+1176		Solbærsaft, sur, koncentreret		139767
+1177		Hyldebærsaft, sur, koncentreret		139848
+1178		Solbær, syltede		139928
+1179		Kogechokolade		139999
+1180		Birkes, frø		140111
+1181		Kokosfedt, Palmin		140212
+1182		Hvalkød, råt		140311
+1183		Helleflynder, røget		140404
+1184		Kartoffelmos, -pulver u/tørmælk		140511
+1185		Sild, høstsild, fedsild, rå		140620
+1186		Lakrids, uspec.		140730
+1187		Lakrids, salt		140832
+1188		Rabarber, dybfrost		140934
+1189		Svinefedt, afsmeltet, Raffinol		141044
+1190		Ribsgele		141143
+1191		Torsk, lever, røget		141234
+1192		Gåsefedt		141334
+1193		Gulerod, importeret, rå		141427
+1194		Snaps, krydder-, uspec.		141531
+1195		Rødvin, rosévin, uden alkohol		141606
+1196		Hvidvin, uden alkohol		141704
+1197		Dressing, blue cheese		141802
+1198		Safflowerolie (højt linolsyreindhold)		141906
+1199		Safflowerolie (højt oliesyreindhold)		142003
+1200		Sesamolie		142098
+1201		Kokosfedt		142196
+1202		Mayonnaise, fedtreduceret		142295
+1203		Rapsolie (lavt erucasyreindhold)		142401
+1204		Bomuldsfrøolie		142498
+1205		Palmeolie		142596
+1206		Cacaosmør		142694
+1207		Likør, brun cacao		142789
+1208		Likør, kaffe		142859
+1209		Likør, kaffe med fløde		142965
+1210		Likør, Crème de Menthe		143074
+1211		Rosévin		143175
+1212		Hvidvin, Rhinskvin		143274
+1213		Hvidvin, mousserende, champagne		143373
+1214		Kaffe, instant, decaffeinated, pulver		143470
+1215		Kaffe, instant, decaffeinated, drikkeklar		143573
+1216		Kaffe, instant, drikkeklar		143660
+1217		Cacao, instant, med mælk, pulver		143751
+1218		Sorbitol		143863
+1219		Saccharin		143924
+1220		Fruktose		144017
+1221		Sukker, demerara		144119
+1222		Marmelade, engelsk type		144220
+1223		Kødextrakt, terning		144313
+1224		Appelsinmarmelade		144422
+1225		Kylling, lår, kød og skind, rå		144514
+1226		Kylling, vinge, kød og skind, rå		144616
+1227		Lever, ande, rå		144726
+1228		Muskatnød, hel		144835
+1229		Tang, konbu, tørret (kelp)		144946
+1230		Tang, agar		145052
+1231		Sauce, shaslik		145132
+1232		Tomatketchup, stærk		145222
+1233		Gærekstrakt, marmite		145300
+1234		Peber, hvid		145404
+1235		Bouillon, oksekød, terning, spiseklar		145507
+1236		Bouillon, hønsekød, spiseklar		145603
+1237		Gær, tørret		145699
+1238		Lever, gåse, rå		145787
+1239		Poulard, kød og skind, rå		145891
+1240		Æg, blomme, tørret		145997
+1241		Æg, hvide, tørret		146102
+1242		Sauce, gravad laks		146198
+1243		Risstivelse		146297
+1244		Risklid		146361
+1245		Tørkage, kokosmakroner		146447
+1246		Tørkage, kransekage		146519
+1247		Valnøddebrød		146605
+1248		Ostekiks, Cream Crackers		146683
+1249		Knækbrød, hvede-, granhamstype		146789
+1250		Müsli med tilsat sukker.		146895
+1251		Æg, gås, rå		146978
+1252		Kylling, kød og skind, grillstegt		147083
+1253		Kylling, kød og skind, paneret, friturestegt		147191
+1254		And, brystkød, rå		147307
+1255		Fasan, kød og skind, rå		147405
+1256		Fasan, kød, rå		147504
+1257		Rype, kød, rå		147608
+1258		Flødeskumskage, uspec.		147702
+1259		Remoulade, fedtreduceret, uspec.		147771
+1260		Pizza napolitana, dybfrost		147884
+1261		Wienerpølse, konserves		147960
+1262		Boghvedemel		148073
+1263		Bygmel		148168
+1264		Rugbrød, revet, med brunt sukker, uspec.		148278
+1265		Cornflakes, frosted		148386
+1266		Kastanjebrød		148496
+1267		Wienerbrød, uspec.		148588
+1268		Lammekød, rygstykke, råt		148692
+1269		Øl, ubeskattet, uspec.		148806
+1270		Tvebakker		148904
+1271		Kammerjunkere		149014
+1272		Skærekage, formkage, uspec.		149086
+1273		Brissel, kalv, rå		149181
+1274		Lammekød, slag, råt		149289
+1275		Tunge, kalv, saltet		149403
+1276		Brisling, rå		149520
+1277		Stenbider, rå		149606
+1278		Stenbider, røget		149708
+1279		Torsk, filet, røget, med skind		149801
+1280		Aborre, rå		149892
+1281		Sperling, kød, rå		150001
+1282		Brosme, rå		150056
+1283		Rødfisk, lille, filet, rå		150140
+1284		Lubbe, rå		150197
+1285		Hvilling, rå		150274
+1286		Kulmule, rå		150370
+1287		Kaviar, uægte (lodderogn)		150458
+1288		Brisling (ansjovis), marineret, konserves		150521
+1289		Brisling (sardin), i olie, konserves		150630
+1290		Brisling (sardin), i tomat, konserves		150739
+1291		Brasen, rå		150852
+1292		Sej, filet, dybfrost		150960
+1293		Frølår, dybfrost		151069
+1294		Sild, marineret, i madeirasauce		151147
+1295		Kuller, paneret, stegt		151249
+1296		Hummer, kogt		151347
+1297		Sild, paneret, stegt, i lage		151458
+1298		Hellefisk, gravad		151522
+1299		Laks, saltet		151629
+1300		Svinekød, skinkemuskler -skank, helt afpudsede, rå		151740
+1301		Skinke, yderlår, helt afpudset, råt		151851
+1302		Skinkeculotte (yderlår), ca. 5 mm spæk, råt		151962
+1303		Skinkemignon, lårtunge, helt afpudset, rå		152072
+1304		Skinkesteg uden svær, helt afpudset, rå		152183
+1305		Skinke, inderlår, helt afpudset, rå		152292
+1306		Skinke, hoftestykke, helt afpudset, råt		152402
+1307		Svinebov, helt afpudset, rå		152513
+1308		Svinebryst, kogestykke uden svær, ca. 2 mm spæk, rå		152623
+1309		Svinefilet, helt afpudset, rå		152732
+1310		Svinekød, mørbradstykke, helt afpudset, råt		152843
+1311		Svinebryst, stegestykke, uden svær, ca. 2 mm spæk, rå		152954
+1312		Oksetalg		153063
+1313		Sandart, rå		153163
+1314		Helt, rå		153277
+1315		Ørred, dam-, sø-, rå		153379
+1316		Knude, rå		153467
+1317		Hvedekerner, hele/knækkede		153575
+1318		Hirseflager		153687
+1319		Kartoffelmos, -pulver m/tørmælk		153776
+1320		Flødeyoghurt med frugt, 9 % fedt		153889
+1321		Kvark, 45+, med vanille		154007
+1322		Lucerne, alfalfa, frø		154119
+1323		Fiskeboller, konserves		154193
+1324		Fiskefars, rå		154283
+1325		Gaffelbidder		154373
+1326		Jomfruhummer, rå		154463
+1327		Krebs, rå		154569
+1328		Bækforel, rå		154683
+1329		Krabbekløer, rå		154768
+1330		Havkat, plettet, rå		154877
+1331		Rødfisk, rå		154979
+1332		Sortmund, blåhvilling, filet, rå		155085
+1333		Lange, filet, rå		155161
+1334		Sej, filet, rå		155233
+1335		Levertran (Sej)		155340
+1336		Fiskeolie, hydrogeneret		155430
+1337		Bækforel, filet, røget		155514
+1338		Ørred, regnbue-, rå		155600
+1339		Blomkål, importeret, rå		155707
+1340		Rosenkål, efterår (oktober til december), rå		155821
+1341		Rosenkål, vinter (januar til april), rå		155904
+1342		Rødbede, konserves, uden tilsat sukker		155986
+1343		Mælkebøtte, blade, rå		156097
+1344		Hybensaft		156185
+1345		Palmekerneolie		156273
+1346		Hvedekimolie		156370
+1347		Valnøddeolie		156464
+1348		Ispind, vanille		156561
+1349		Ispind, jordbær		156608
+1350		Ispind, limonade		156654
+1351		Ispind, vanille med chokoladeovertræk		156701
+1352		Fennikel, knold, rå		156747
+1353		Kiks, fuldkorns-, digestivetype		156838
+1354		Fontina, 50+		156945
+1355		St. Paulin, 50+		157070
+1356		Tomat, importeret, rå		157194
+1357		Kvark, 45+		157309
+1358		Ost, blå- og hvidskimmel, 70+		157425
+1359		Samsø, 45+		157545
+1360		Fynbo, 45+		157667
+1361		Camembert, 30+		157790
+1362		Asparges, grønne, rå		157903
+1363		Bønnespirer, mung, rå		158003
+1364		Bønnespirer, uspec., rå		158108
+1365		Kartoffel, ny (maj til september), rå		158212
+1366		Kartoffel, efterår (oktober til januar), rå		158294
+1367		Brombær, dybfrost, usukrede		158373
+1368		Bitter, uspec.		158461
+1369		Bitter, sød, uspec.		158524
+1370		Miso, sojapasta		158586
+1371		Tofu, sojabønneost		158683
+1372		Dild, tørret		158777
+1373		Is, 3. farvet		158866
+1374		Gulerod, dybfrost		158966
+1375		Blomkål, dybfrost		159070
+1376		Løg, ristede		159170
+1377		Frugtpålæg, uspec.		159276
+1378		Tyttebær, syltede		159394
+1379		Citronskal, rå		159486
+1380		Gruyere, 45+		159586
+1381		Hingino, 32+		159706
+1382		Chesire, 50+		159823
+1383		Brie, 60+		159940
+1384		Yoghurt med appelsinsaft		160057
+1385		Kefir		160179
+1386		Cultura, syrnet sødmælk		160295
+1387		Fløde 9 %, syrnet		160411
+1388		Sødmælk (UHT)		160528
+1389		Danablu 50+		160646
+1390		Danablu 60+		160769
+1391		Grana, 32+		160888
+1392		Mycella, 50+		161006
+1393		Mynster, 50+		161127
+1394		Maribo, 45+		161249
+1395		Svenbo, 45+		161371
+1396		Elbo, 40+		161495
+1397		Samsø, 30+		161619
+1398		Danbo, 30+		161742
+1399		Danbo, 20+		161862
+1400		Maribo, 30+		161979
+1401		Havarti, 60+		162100
+1402		Havarti, 30+		162225
+1403		Esrom, 60+		162344
+1404		Esrom, 45+		162467
+1405		Fontina, 45+		162591
+1406		Mozzarella, 45+		162710
+1407		Mozzarella, 30+		162834
+1408		Svinekød, halssnitte, rå		162955
+1409		Svinebryst, slag, rullesteg, råt		163064
+1410		Svinebryst, stegestykke med svær, rå		163175
+1411		Svinebryst, kogestykke med svær, rå		163279
+1412		Skinke med skank, rå		163390
+1413		Flødeost, 70+		163498
+1414		Parmesan, revet		163616
+1415		Skummetmælkspulver		163737
+1416		Sødmælkspulver		163853
+1417		Boghvedegryn, rå		163975
+1418		Svinekød , mellemkam med svær, rå		164087
+1419		Svinekam uden svær, ca. 3 mm spæk, rå		164196
+1420		Svinekød, nakkefilet, helt afpudset (Nakkekotelet), rå		164306
+1421		Svinekød, nakkekam med svær, rå		164414
+1422		Marmelade, uspec.		164524
+1423		Soja sauce		164612
+1424		Bouillon, oksekød, koncentreret, terning		164711
+1425		Salt, stensalt, køkkensalt		164820
+1426		Salt, bordsalt		164905
+1427		Frugtsaft, blandet, sødet, koncentreret		164989
+1428		Buddingpulver		165087
+1429		Makaroni, spaghetti, kogt		165188
+1430		Kødboller, konserves		165290
+1431		Hyldebærsaft, sød, koncentreret		165378
+1432		Squash, zucchini, rå		165459
+1433		Sojadrik, kommercielt tilberedt		165563
+1434		Kødextrakt, flydende, Bovril		165668
+1435		Peber, sort		165771
+1436		Artiskok, rå		165875
+1437		Ansjos, marineret, konserves		165965
+1438		Abrikos, konserves, let sukkerlage		166077
+1439		Bambusskud, rå		166185
+1440		Bambusskud, konserves, saltet		166271
+1441		Bambusskud, konserves, usaltet		166357
+1442		Oksekød, yderlår, råt		166441
+1443		Oksekød, klump uden kappe, rå		166547
+1444		Karameller, blandede		166653
+1445		Kartoffel, chips (franske kartofler), fedtreducerede		166767
+1446		Portvin		166858
+1447		Sherry, tør		166957
+1448		Sherry, medium		167057
+1449		Sherry, sød		167156
+1450		Vermouth, tør		167256
+1451		Vermouth, sød		167355
+1452		Likør, Advocaat		167455
+1453		Likør, Cherry Brandy		167522
+1454		Likør, Curacao		167601
+1455		Spirituosa, gennemsnitlige værdier		167680
+1456		Oksekød, skank (osso-buco), rå		167774
+1457		Oksekød, inderlår med kappe, rå		167880
+1458		Oksekød, tyndsteg med mørbrad, rå		167988
+1459		Oksekød, tyndstegsfilet med fedtkant, rå		168097
+1460		Oksekød, mørbrad, afpudset, rå		168206
+1461		Oksekød, højrebsfilet med kappe, rå		168316
+1462		Oksekød, entrecote med kappe, rå		168425
+1463		Oksekød, højrebsfilet, afpudset, rå		168533
+1464		Oksekød, tykkam, rå		168639
+1465		Oksekød, mellemskært, råt		168751
+1466		Oksekød, tyndbov + mellembov, rå		168857
+1467		Oksekød, tykbov (marvpibebov), rå		168962
+1468		Oksekød, spidsbryst, råt		169070
+1469		Oksekød, tykbryst, råt		169180
+1470		Oksekød, tyndbryst, råt		169289
+1471		Oksekød, tværreb, råt		169400
+1472		Tomatjuice, konserves		169511
+1473		Tunge, kalv, rå		169615
+1474		Tunge, okse, rå		169729
+1475		Tunge, svin, rå		169840
+1476		Tun i tomat, konserves		169949
+1477		Ylette naturel		170057
+1478		Tyttebær, rå		170176
+1479		Vand, drikke-, vejl. værdier		170283
+1480		Vindruekerneolie		170365
+1481		Æg, blomme, rå		170462
+1482		Øl, skatteklasse 3, uspec.		170578
+1483		Øl, let pilsner, ubeskattet, uspec.		170682
+1484		Ørred, hav-, rå		170783
+1485		Østers, rå		170892
+1486		Ål, rå		171000
+1487		Ål, røget		171110
+1488		Yoghurt med frugt, uspec.		171222
+1489		Æblemost, uspec.		171342
+1490		Grønne ærter, dybfrost		171448
+1491		Grønne ærter, konserves		171560
+1492		Gule ærter (flækærter), rå		171675
+1493		Øl, mørkt hvidtøl, ubeskattet, uspec.		171790
+1494		Sylte		171888
+1495		Søtunge, rå		171998
+1496		Tomatpure, koncentreret		172107
+1497		Torsk, filet, rå		172219
+1498		Torsk, lever, rå		172322
+1499		Torsk, lever, konserves		172422
+1500		Torsk, levertran		172536
+1501		Dressing, italiensk		172646
+1502		Tomat, uspec., rå		172753
+1503		Spinat, hakket, dybfrost		172870
+1504		Solbær, rå		172976
+1505		Solsikkeolie		173091
+1506		Stikkelsbær, rå		173185
+1507		Sveske, rå		173295
+1508		Svinefedt, afsmeltet		173408
+1509		Svinekød, uspec., fedt, råt		173508
+1510		Svinekød, uspec., magert, råt		173613
+1511		Svinekød, uspec., ca. 20 % fedt, råt		173720
+1512		Svinespæk, rygspæk		173828
+1513		Pistacienød, tørristet		173936
+1514		Sesamfrø, hele, tørrede		174049
+1515		Yams, rå		174160
+1516		Batat, sød kartoffel, rå		174261
+1517		Knudekål, glaskål, rå		174370
+1518		Kinaradise, japanræddike, rå		174471
+1519		Løg, hakkede, dybfrost		174572
+1520		Forårsløg, rå		174673
+1521		Maniok, cassava, rå		174777
+1522		Paksoi, pak-choi, pai tsai, rå		174885
+1523		Bladbede, sølvbede, rå		174985
+1524		Passionsfrugt, grenadil, rå		175073
+1525		Tamarind, rå		175164
+1526		Ananaskirsebær, kapstikkelbær, rå		175272
+1527		Cashewnød, tørristet		175352
+1528		Cashewnød, olieristet		175457
+1529		Pecannød, tørret		175567
+1530		Pecannød, tørristet		175675
+1531		Pecannød, olieristet		175785
+1532		Pinjefrø, tørrede		175894
+1533		Kakifrugt (Sharon), rå		176002
+1534		Kaktusfigen, rå		176111
+1535		Kumquat, guldorange, dværgappelsin, rå		176197
+1536		Lime, rå		176307
+1537		Litchi, lichiblomme, kinesisk blomme, rå		176410
+1538		Loquat, japansk mispel, rå		176499
+1539		Melbanan, grønsagsbanan, plantain, rå		176599
+1540		Cantaloupe (melon), rå		176688
+1541		Makaroni, spaghetti, fuldkorns-, rå		176794
+1542		Madeira		176893
+1543		Vinbjergssnegle, rå		176974
+1544		Cognac		177040
+1545		Kvæde, rå		177108
+1546		Abrikos, rå		177207
+1547		Guavabær, guajavabær, rå		177311
+1548		Loganbær, frosne		177420
+1549		Tranebær, rå		177507
+1550		Carambol, bilimbing, stjernefrugt, rå		177611
+1551		Cherimoya, chirimoya, rå		177697
+1552		Agurk, syltet, uden tilsat sukker		177775
+1553		Asier, syltede, uden tilsat sukker		177850
+1554		Bønnespirer, adzuki, rå		177943
+1555		Cacaoskummetmælk		178007
+1556		Cacaomælk (UHT)		178125
+1557		Cacaoskummetmælk (UHT)		178243
+1558		Fløde 13 % (UHT)		178361
+1559		Småkage, vanillekranse		178480
+1560		Wienerbrød, kringle/stang		178570
+1561		Roulade, uspec.		178662
+1562		Roulade, abrikos-		178769
+1563		Salat, Romaine, romersk, rå		178842
+1564		Salat, egeløv, rå		178943
+1565		Salat, endivie, bredbladet (escarole), rå		179045
+1566		Salat, endivie, kruset (frisee), rå		179148
+1567		Salat, Radicchio rosso, rå		179249
+1568		Savoykål, rå		179352
+1569		Cayote, Kayote, rå		179451
+1570		Peber, chili, rå		179539
+1571		Peber, chili, konserves		179638
+1572		Okra, gumbo, rå		179740
+1573		Sauce, barbeque		179836
+1574		Syre (krydderplante), rå		179939
+1575		Gulerod, juice, konserves		180023
+1576		Linsespirer, rå		180124
+1577		Lucernespirer, rå		180232
+1578		Gulerod, konserves		180335
+1579		Wienerpølse, ristet		180439
+1580		Wienerpølse (bayersk pølse), kogt		180561
+1581		Kartoffel, pommes frites, friturestegte		180680
+1582		Kylling, kød og skind, friturestegt		180787
+1583		Rødspætte, filet, paneret, friturestegt		180896
+1584		Sennep, brun, færdiglavet		180971
+1585		Sennep, gul, færdiglavet		181076
+1586		Æg, hele, pasteuriseret, dybfrost		181159
+1587		Æg, blomme, saltet, pasteuriseret, dybfrost		181257
+1588		Æg, blomme, tilsat sukker, pasteuriseret, dybfrost		181368
+1589		Æg, hvide, pasteuriseret, dybfrost		181480
+1590		Salt kød		181568
+1591		Sprængt nakke, svinekød		181681
+1592		Kogt oksebryst		181785
+1593		Pølse, cervelatpølse		181896
+1594		Leverpølse		182018
+1595		Skærekage, citronkage		182128
+1596		Skærekage, chokoladekage/-pie		182215
+1597		Skærekage, mazarinkage		182302
+1598		Tørkage, mazariner		182387
+1599		Tørkage, napoleonshatte		182470
+1600		Bayonneskinke, udbenet		182540
+1601		Spegepølse, oksekød		182650
+1602		Rullepølse, lammekød		182734
+1603		Rugmel, groft, fuldkornsrugmel		182848
+1604		Rasp		182966
+1605		Hvedemel		183077
+1606		Sigtebrød		183194
+1607		Sigtemel		183311
+1608		Mungbønner, tørrede, rå		183423
+1609		Rødtunge, rå		183533
+1610		Peberfrugt, konserves		183639
+1611		Koriander, frø		183745
+1612		Koriander, blade, tørrede		183850
+1613		Kaseinat, natrium-, Damipro RHV		183961
+1614		Grønkål, konserves		184033
+1615		Vallepulver, tørret		184120
+1616		Valle		184233
+1617		Gedemælk		184339
+1618		Lammebrissel, rå		184456
+1619		Skorzonnerrod, rå		184563
+1620		Wienerbrød, spandauer		184651
+1621		Wienerbrød, smørkrans		184748
+1622		Mineralvand, dansk vand o.lign.		184843
+1623		Flæskesvær, snacks		184928
+1624		Solsikkefrø, afskallede, tørrede		185030
+1625		Hørfrø, rå		185135
+1626		Mælkeis, uspec.		185239
+1627		Jordbær i sukkerlage, konserves		185346
+1628		Jordbær, dybfrost, usukrede		185453
+1629		Jordbær, dybfrost, sukrede		185563
+1630		Pop Corn (poppede majskærner)		185664
+1631		Squash, alle typer, rå		185767
+1632		Kuller, rå		185874
+1633		Hirse, hele korn		185979
+1634		Fennikel, frø		186068
+1635		Papaya, mamaja, træmelon, rå		186177
+1636		Laks, konserves		186290
+1637		Klipfisk		186399
+1638		Kylling, kød og skind, rå		186505
+1639		Kørvel, rå		186619
+1640		Kålrabi (kålroe), rå		186728
+1641		Kinakål, pe-tsai, rå		186834
+1642		Kartoffelmel		186942
+1643		Kastanje, ægte, rå		187049
+1644		Kongeål (pighaj), rå		187153
+1645		Krabbe, kogt		187247
+1646		Krabbekløer, konserves		187357
+1647		Kråse, kylling, rå		187467
+1648		Lammekød, kølle, uspec., rå		187574
+1649		Lever, høne, rå		187685
+1650		Lever, kylling, rå		187798
+1651		Lever, kalv, rå		187910
+1652		Lever, okse, rå		188016
+1653		Lever, svin, rå		188127
+1654		Linser, tørrede, uspec.		188243
+1655		Majroe, rå		188340
+1656		Majskolbe, rå		188430
+1657		Majs, kerner, konserves		188541
+1658		Majs, kerner, dybfrost		188653
+1659		Sojamel		188767
+1660		Sødmælk, konventionel (ikke-økologisk)		188882
+1661		Lammekød, uspec., råt		189000
+1662		Creme fraiche 38 %		189112
+1663		Fløde 9 %		189232
+1664		Fløde 13 %		189350
+1665		Champignon, konserves		189465
+1666		Majsmel		189573
+1667		Majsstivelse		189680
+1668		Makaroni, spaghetti, rå		189784
+1669		Makrel, rå		189892
+1670		Makrel, filet, naturel, konserves		190003
+1671		Makrel, røget		190115
+1672		Nyre, kalv, rå		190225
+1673		Nyre, okse, rå		190338
+1674		Nyre, svin, rå		190451
+1675		Musling, rå		190560
+1676		Hvedegryn, mannagryn		190669
+1677		Mandarin, konserves		190778
+1678		Kærnemælk med citronsaft		190891
+1679		Reje, konserves		191008
+1680		Ribs, rå		191120
+1681		Ris, brune, rå		191233
+1682		Purløg, rå		191340
+1683		Pære, konserves		191443
+1684		Radise, rå		191552
+1685		Ræddike, rå		191658
+1686		Oksekød, uspec., helt magert, råt		191754
+1687		Oksekød, uspec., fedt, råt		191860
+1688		Oksekød, uspec., magert, råt		191970
+1689		Oksekød, uspec., middelfedt, råt		192078
+1690		Oliven, grønne, marinerede, konserves		192186
+1691		Oliven, sorte, saltede, i olie		192297
+1692		Pastinak, rå		192403
+1693		Jordnøddesmør		192511
+1694		Kokosnød, rå		192630
+1695		Jordnød, tørret		192741
+1696		Peberrod, rå		192858
+1697		Persille, rå		192973
+1698		Persillerod, rå		193082
+1699		Pighvarre, rå		193196
+1700		Rødspætte, rå		193298
+1701		Sild, røget		193405
+1702		Sild, rå		193517
+1703		Spegesild		193630
+1704		Rødkål, rå		193744
+1705		Sagogryn (kartoffelstivelse)		193850
+1706		Salat, hovedsalat, rå		193951
+1707		Sardin, i tomat, konserves		194061
+1708		Camembert, 50+		194172
+1709		Roquefort, 50+		194291
+1710		Kvark, 5+		194408
+1711		Myseost, 33+		194521
+1712		Parmesan, 32+		194641
+1713		Salt, havsalt (ikke jodberiget)		194762
+1714		Skrubbe, rå		194845
+1715		And, kød, rå		194953
+1716		Asparges, uspec., rå		195057
+1717		Aubergine, rå		195168
+1718		Ananas, rå		195272
+1719		Ananas, konserves		195378
+1720		Abrikos, tørret		195486
+1721		Brøndkarse, rå		195600
+1722		Svinebryst, kogestykke, helt, saltet		195707
+1723		Svinebryst, stegestykke, helt, saltet		195818
+1724		Bladselleri, rå		195938
+1725		Blodpølse		196046
+1726		Blomkål, uspec., rå		196153
+1727		Blomme, rå		196269
+1728		Blæksprutte, rå		196381
+1729		Brune bønner, tørrede		196485
+1730		Voksbønner, rå		196597
+1731		Voksbønner, konserves		196687
+1732		Sojabønner, tørrede		196780
+1733		Bønnespirer, soja, rå		196892
+1734		Bønnespirer, soja, konserves		196979
+1735		Cacao, pulver		197067
+1736		Hvidløg, tørret, pulver		197180
+1737		Hyben, rå		197290
+1738		Hyben pulver, tørret		197385
+1739		Hyldebær, rå		197478
+1740		Hjerte, høne (kylling), råt		197585
+1741		Hjerte, okse, råt		197694
+1742		Hjerte, svin, råt		197806
+1743		Hornfisk, rå		197916
+1744		Hummer, rå		198021
+1745		Hummer, konserves		198130
+1746		Hvedekim, rå		198241
+1747		Hvedeklid		198356
+1748		Høne, kød og skind, rå		198473
+1749		Ising, rå		198578
+1750		Hvidvin, sød		198664
+1751		Jordskok, rå		198763
+1752		Julesalat, rå		198872
+1753		Kaffebønne, ristet, formalet		198979
+1754		Kanin, kød, rå		199089
+1755		Karse, frisk		199192
+1756		Kantarel, rå		199302
+1757		Kalkun, kød og skind, rå		199390
+1758		Kalkun, kød, rå		199495
+1759		Kalvekød, helt magert		199603
+1760		Kalvekød, magert, råt		199712
+1761		Kalvekød, middelfedt, råt		199821
+1762		Kalvekød, fedt, råt		199931
+1763		Due, kød og skind, rå		200044
+1764		Due, kød, rå		200150
+1765		Fersken, rå		200254
+1766		Fersken, konserves		200365
+1767		Fersken, tørret		200477
+1768		Figen, tørret		200591
+1769		Fårekød, bov, rå		200708
+1770		Fårekød, kølle, rå		200817
+1771		Gedde, rå		200925
+1772		Gelatine		201031
+1773		Hvide bønner, tørrede		201132
+1774		Grønne bønner, konserves		201248
+1775		Grapefrugtjuice, konserves, usødet		201359
+1776		Græskar, rå		201461
+1777		Græskar, konserves		201567
+1778		Grønkål, rå		201677
+1779		Grønkål, dybfrost		201787
+1780		Gulerod, uspec., rå		201896
+1781		Gås, kød og skind, rå		202008
+1782		Gås, kød, rå		202119
+1783		Bagegær, presset, rå		202227
+1784		Hare, rå		202336
+1785		Havkat, rå		202440
+1786		Hellefisk, rå		202545
+1787		Hellefisk, røget		202653
+1788		Helleflynder, rå		202764
+1789		Hestekød, råt		202871
+1790		Hindbær, rå		202981
+1791		Daddel, tørret		203096
+1792		Dild, rå		203204
+1793		Kyllingelever		203306
+1794		Jorden Tyrkiet		203432
+1795		Ristet kylling vinge		203553
+1796		Svinefedt		203670
+1797		Reeses pust		203776
+1798		Havregryn firkanter		203902
+1799		Havre klid korn		204032
+1800		Fiber, en		204164
+1801		Kakao pust		204281
+1802		Honning ristet havre		204404
+1803		Vanille mandel		204525
+1804		Pre kogte svinekød pølse		204645
+1805		Apple-stik		204773
+1806		Kakao småsten		204893
+1807		Majs chex		205012
+1808		Branflakes		205129
+1809		Drue-nødder korn		205253
+1810		KIX		205385
+1811		Honning møtrik chex		205516
+1812		Rosin klid korn		205650
+1813		Ris chex		205773
+1814		Hele korn samlede		205893
+1815		Hvede chex		206016
+1816		Gryn af majs		206140
+1817		Grønkål		206267
+1818		Cikorie grønne		206393
+1819		Hakket svinekød		206518
+1820		Fladfisk		206641
+1821		86 bevis spiritus		206762
+1822		80 bevis spiritus		206859
+1823		Chokolade sirup		206954
+1824		Oksekød runde		207079
+1825		Olie ristede solsikkekerner		207197
+1826		Olie brændt blandet nødder		207328
+1827		Oksekød lever		207461
+1828		Majroer		207586
+1829		Dåse grønne ærter		207720
+1830		Frosne grønne ærter		207846
+1831		Ristede solsikkekerner		207972
+1832		Kogt spinat		208100
+1833		Dåse spinat		208226
+1834		Bagte bønner med frankerne		208350
+1835		Regnbueørred		208476
+1836		Kakaopulver		208599
+1837		Ahornsirup		208724
+1838		Beriget majsmel		208847
+1839		Hele korn mel		208969
+1840		Alle formål mel		209091
+1841		Hvidt brød mel		209215
+1842		Kage mel		209338
+1843		Bær brødrister bagværk		209460
+1844		Matteret brødrister wienerbrød		209592
+1845		Lys vanilleis		209724
+1846		Rig vanilleis		209857
+1847		Honning klaser af havre		209984
+1848		Honning klaser af havre med mandler		210116
+1849		Nudler		210246
+1850		Kiks med æg og pølse		210370
+1851		Kiks med pølse		210504
+1852		Rå hvid ris		210638
+1853		Kylling bud		210760

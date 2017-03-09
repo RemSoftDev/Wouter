@@ -1,0 +1,1473 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Yumurta		33
+1	B	Çay		307
+2	B	Ekmek		446
+3	B	Domates		685
+4	D	Ekmek		940
+5	B	Salatalık		1179
+6	S	Çay		1419
+7	L	Ekmek		1558
+8	B	Az yağlı peynir		1797
+9	S	Elma		2021
+10	B	Haşlanmış yumurta		2314
+11	S	Bisküvi		2636
+12	B	Tam buğday ekmeği		2815
+13	B	Kaşar peyniri		3039
+14	L	Domates		3290
+15	B	Beyaz peynir		3546
+16	S	Kahve		3610
+17	D	Yeşil salata		3744
+18	D	Beyaz pirinç		4191
+19	L	Elma		4307
+20	B	%1 süt		4601
+21	S	Ekmek		4747
+22	D	Domates		4987
+23	D	Tavuk		5243
+24	L	Tavuk		5438
+25	B	Kahve		5633
+26	B	Kızarmış ekmek		5767
+27	D	Yarım yağlı yoğurt		6045
+28	B	Bal		6155
+29	S	Çikolatalı kek		6256
+30	S	Yumurta		6402
+31	L	Yarım yağlı yoğurt		6677
+32	L	Çay		6787
+33	L	Makarna		6927
+34	L	Yumurta		7073
+35	B	Zeytin		7348
+36	D	Tavuk göğsü		7367
+37	B	Mısır gevreği		7746
+38	D	Patates kızartması		7994
+39	S	Muz		8204
+40	D	Tam buğday ekmeği		8627
+41	D	Yumurta		8851
+42	B	Elma		9126
+43	L	Beyaz pirinç		9420
+44	L	Kuru fasulye		9536
+45	S	Kayısı		9749
+46	D	Yayla çorbası		9933
+47	S	Karışık Kuruyemiş		10075
+48	D	Bulgur pilavı		10238
+49	D	Tarhana çorbası		10334
+50	D	Şehriye çorbası		10476
+51	D	Mercimek çorbası		10628
+52	L	Patates kızartması		10801
+53	S	Ceviz		11011
+54	D	Pirinç pilavı		11274
+55	S	Kuru üzüm		11459
+56	S	Portakal		11742
+57	D	Yeşil fasulye		12023
+58	D	Kaşar peyniri		12216
+59	B	Çavdar ekmeği		12467
+60	L	Çikolatalı kek		12746
+61	B	Yulaf ezmesi		12892
+62	D	Soğan		13146
+63	D	Ayran		13419
+64	D	Sade Yoğurt		13556
+65	B	Bisküvi		13813
+66	S	Çikolatalı kurabiye		13992
+67	L	Ayran		14182
+68	B	Muz		14319
+69	B	Doğal Peynir		14742
+70	S	Makarna		14991
+71	L	Sütlü çikolata		15137
+72	L	Salatalık		15277
+73	S	Patlamış mısır		15518
+74	S	Kızarmış ekmek		15665
+75	B	Simit		15943
+76	S	Düşük yağ meyve yoğurt		16197
+77	B	Hazır kahve		16278
+78	D	Mercimek köftesi		16342
+79	S	Tuzlu bisküvi kraker		16527
+80	B	Salam		16750
+81	B	Reçel		17062
+82	D	Havuç		17173
+83	D	Kuru fasulye		17488
+84	S	Badem		17701
+85	L	Çavdar ekmeği		17880
+86	L	Tam buğday ekmeği		18159
+87	B	Eski moda poğaça		18383
+88	S	Az yağlı peynir		18643
+89	B	Kepekli ekmek		18868
+90	L	Zeytin yağı		18948
+91	L	Muz		19025
+92	B	Yulaf		19448
+93	L	Havuç		19575
+94	B	Düşük yağ meyve yoğurt		19890
+95	D	Kızarmış ekmek		19971
+96	D	Makarna		20249
+97	L	Düşük yağ meyve yoğurt		20395
+98	S	Fındık		20476
+99	L	Sigara böreği		20660
+100	L	Kaşar peyniri		20795
+101	L	Kepekli tost		21047
+102	D	Yoğurt tam yağlı		21323
+103	D	Salata		21361
+104	L	Kepekli ekmek		21380
+105	B	Sahanda yumurta		21461
+106	D	Pastırma		21631
+107	D	Köfte		21765
+108	L	Sade Yoğurt		22096
+109	L	Mercimek çorbası		22354
+110	S	Çilek		22528
+111	D	Kepekli ekmek		22801
+112	S	Turuncu		22882
+113	B	Turuncu		23021
+114	S	Sütlü çikolata		23160
+115	B	Beyaz ekmek		23301
+116	L	Pirinç pilavı		23593
+117	B	Patates kızartması		23779
+118	B	Ispanaklı börek		23990
+119	S	Armut		24139
+120	L	Konserve yeşil bezelye		24321
+121	L	Yeşil salata		24432
+122	L	Bisküvi		24880
+123	S	Hazır kahve		25060
+124	B	Fransız ekmeği		25125
+125	B	Tam yağlı süt		25282
+126	D	Elma		25674
+127	B	Patatesli börek		25969
+128	B	Pastırma		26106
+129	B	Menemen		26240
+130	B	Tereyağı yağ		26428
+131	D	Şekerli çay		26543
+132	B	yağlı peynir		26576
+133	D	Yaprak sarma		26676
+134	L	Bulgur pilavı		26813
+135	L	Haşlanmış yumurta		26910
+136	B	Ceviz		27233
+137	B	Peynır		27497
+138	S	Mandalina (Mandalin Portakal)		27527
+139	L	Zeytin		27767
+140	D	Çay		27787
+141	L	Kahve		27928
+142	L	Karisik Tost		28063
+143	L	Turuncu		28219
+144	S	Çubuk kraker		28358
+145	S	Simit		28402
+146	B	Biber		28657
+147	D	Haşlanmış tavuk		28684
+148	S	Sütlü Çikolata (Milka)		28881
+149	B	Poğaça		28959
+150	D	Patates salatası		28999
+151	D	Haşlanmış patates		29158
+152	L	Köfte		29366
+153	D	Çiğ köfte		29697
+154	L	Kepekli bisküvi		29844
+155	L	Şehriye çorbası		29883
+156	D	Çeşitli Sebzelerle Marul Salatası (Domates ve/veya Havuç'da Dahil Olmak Üzere)		30036
+157	D	Mandalina (Mandalin Portakal)		30199
+158	D	Kısır		30439
+159	D	Tavuk sote		30592
+160	B	Karisik Tost		30718
+161	S	Gofret		30874
+162	B	Maydanoz		30894
+163	L	Doğal Peynir		31067
+164	B	Krem peynir		31317
+165	D	Yeşil çay		31489
+166	D	Kremalı mantar çorbası		31570
+167	D	Fırında patates		31715
+168	L	Çiğ köfte		31906
+169	L	Az yağlı peynir		32053
+170	L	Tarhana çorbası		32279
+171	L	Çikolatalı kurabiye		32422
+172	S	Erik		32613
+173	L	Soğan		32634
+174	B	Sütlü çikolata		32908
+175	L	Simit		33049
+176	L	Tavuk döner		33304
+177	S	Cips		33446
+178	L	Salata		33580
+179	D	Turşu		33599
+180	L	Menemen		33818
+181	B	Çok tahıl ekmeği		34006
+182	B	Marul		34291
+183	B	Sut		34657
+184	S	Salatalık		34998
+185	D	Sığır eti		35240
+186	D	Patates		35611
+187	L	Mandalina (Mandalin Portakal)		35803
+188	L	Beyaz ekmek		36043
+189	L	Eski moda poğaça		36335
+190	L	Portakal		36596
+191	B	Domates salçası		36878
+192	B	Siyah Zeytin		37013
+193	B	Mercimek çorbası		37050
+194	B	Çilek		37224
+195	L	Beyaz peynir		37497
+196	L	Çok tahıl ekmeği		37562
+197	L	Yoğurt tam yağlı		37847
+198	L	Sahanda yumurta		37885
+199	D	Portakal		38055
+200	L	Hazır kahve		38337
+201	D	Konserve yeşil bezelye		38402
+202	D	Salatalık		38513
+203	D	Patatesli börek		38755
+204	D	Kabak yemeği		38892
+205	B	Greyfurt		39026
+206	S	Domates		39048
+207	B	Sade Yoğurt		39305
+208	D	Çavdar ekmeği		39563
+209	L	Yeşil fasulye		39843
+210	B	Yumurta beyazı		40037
+211	D	Beyaz ekmek		40162
+212	D	Patlıcan Musakka		40454
+213	B	Yarım yağlı yoğurt		40589
+214	D	Haşlanmış yumurta		40700
+215	D	Yaş pasta		41023
+216	B	Kepekli tost		41062
+217	B	Havuç		41338
+218	B	Tost Ekmeği (Uno)		41654
+219	B	Yeşil Biber		41767
+220	S	Kabak yemeği		41824
+221	S	Leblebi		41958
+222	S	Ayva		42100
+223	L	Patates salatası		42120
+224	L	Haşlanmış patates		42279
+225	D	Bisküvi		42487
+226	B	Un helvası		42667
+227	B	Çikolatalı kek		42687
+228	B	Meyveli gevreğin		42834
+229	B	Portakal		42940
+230	B	Yeşil çay		43222
+231	L	Sığır eti		43303
+232	L	Haşlanmış tavuk		43674
+233	L	Fırında patates		43871
+234	D	Ispanaklı börek		44062
+235	D	Nohut		44211
+236	S	Çikolatalı süt		44251
+237	B	Sucuk		44399
+238	B	Kayısı		44435
+239	D	Işık ton balığı konserve		44620
+240	B	Haşlanmış patates		44752
+241	B	Şeftali		44960
+242	S	Hurma		45432
+243	D	Karisik Tost		45453
+244	D	Tost Ekmeği (Uno)		45609
+245	L	Salam		45722
+246	S	Eski moda poğaça		46035
+247	D	Kızarmış Kepekli Ekmek		46296
+248	S	Bitter		46613
+249	L	Mercimek köftesi		46634
+250	B	Makarna		46820
+251	S	Ananas (Katı ve Sıvı, Meyve Suyu Paketi, Konservelenmiş)		46967
+252	S	Havuç		47289
+253	S	Yeşil çay		47605
+254	L	Kremalı mantar çorbası		47686
+255	L	Yayla çorbası		47831
+256	L	%1 süt		47974
+257	L	Leblebi		48121
+258	L	Yaprak sarma		48263
+259	L	Kızarmış Kepekli Ekmek		48400
+260	B	Fıstık Ezmesi (Tuzlu)		48717
+261	D	Salam		48912
+262	D	Sahanda yumurta		49225
+263	D	Sütlü çikolata		49395
+264	B	Zeytinyağı		49536
+265	D	Sigara böreği		49660
+266	D	Eski moda poğaça		49796
+267	D	Çok tahıl ekmeği		50057
+268	B	Omlet		50342
+269	D	Tavuk Göğüs eti		50377
+270	D	Ketçap		50578
+271	D	Künefe		50782
+272	L	Marul		50819
+273	L	Kabak yemeği		51185
+274	L	Şekerli çay		51319
+275	B	Tarhana çorbası		51352
+276	L	Turşu		51495
+277	B	Baklava		51714
+278	L	Yeşil çay		51743
+279	L	Kısır		51824
+280	B	Patates salatası		51977
+281	D	Reçel		52136
+282	S	Sade Yoğurt		52248
+283	S	Çikolatalı dondurma		52506
+284	S	Bal		52628
+285	S	Tam yağlı süt		52730
+286	D	Mayonez sos		53122
+287	D	Yeşil bezelye		53233
+288	D	Tavuk döner		53372
+289	D	Tam yağlı süt		53514
+290	D	Çikolatalı kek		53906
+291	D	Un helvası		54053
+292	S	Patatesli börek		54073
+293	D	Brokoli		54210
+294	L	Meyve aromalı su		54449
+295	L	Çilek		54555
+296	L	Reçel		54828
+297	L	Tavuk sote		54940
+298	L	Peynır		55066
+299	D	Cips		55096
+300	B	Mücver		55230
+301	B	Patlıcan		55272
+302	B	Kaşarlı Tost		55291
+303	B	Kızarmış Kepekli Ekmek		55433
+304	B	İtalyan sosis		55750
+305	D	Az yağlı peynir		55899
+306	D	Zeytin		56125
+307	B	Soğan		56145
+308	D	Marul		56419
+309	S	Meyve suyu		56785
+310	D	Kıvı		56822
+311	S	Fıstık Ezmesi (Tuzlu)		56861
+312	S	Kola		57056
+313	L	Yulaf ezmesi		57082
+314	B	Pirinç pilavı		57337
+315	L	Ispanaklı börek		57523
+316	L	Nohut		57672
+317	L	Kayısı		57712
+318	D	Çikolata		57897
+319	S	Karisik Tost		57922
+320	D	Lahana		58078
+321	L	Çikolata		58430
+322	D	Doğal Peynir		58455
+323	L	Bitter		58705
+324	L	Sut		58726
+325	L	Çorba		59067
+326	B	Karışık Kuruyemiş		59106
+327	B	Patates		59270
+328	B	Yayla çorbası		59462
+329	S	Kepekli ekmek		59605
+330	D	Kek		59686
+331	B	Kek		59706
+332	S	Sünger kek		59726
+333	B	Leblebi		59852
+334	S	Kepekli tost		59994
+335	S	%1 süt		60270
+336	B	Kıvı		60417
+337	L	Nutella		60456
+338	L	Patates		60477
+339	L	Un helvası		60669
+340	L	Yulaf		60689
+341	L	Kraker		60817
+342	S	Şeftali		61012
+343	S	Şehriye çorbası		61484
+344	S	Çikolata		61637
+345	S	Doğal Peynir		61662
+346	S	Latte Kahve		61912
+347	S	Menemen		62120
+348	S	Kraker		62308
+349	S	Yeşil salata		62503
+350	S	Sıcak çikolata		62951
+351	S	Un helvası		63009
+352	L	Lahana		63029
+353	S	Zeytin		63381
+354	S	Bulgur pilavı		63401
+355	S	Sut		63498
+356	S	Kıvı		63839
+357	L	Kola		63878
+358	S	Türk kahvesi		63904
+359	B	Sıcak Suda Pişirilmiş Yumurta		64047
+360	D	Sucuklu yumurta		64274
+361	D	Sosis		64434
+362	D	Mücver		64543
+363	D	Muz		64585
+364	D	Tavuk budu		65009
+365	D	Maydanoz		65388
+366	D	Tereyağı yağ		65561
+367	D	Üzüm		65676
+368	D	Sütlaç		65808
+369	D	Tavuk Baget		65958
+370	B	Nesfit		66421
+371	D	Tadımca Antep Fıstıklı (Tadım)		66442
+372	B	Cezerye		66518
+373	B	Çikolata		66546
+374	B	Susamlı Simit		66571
+375	B	2% süt		66751
+376	B	Meyve aromalı su		66903
+377	B	Sigara böreği		67009
+378	B	Portakal suyu		67145
+379	B	Ayran		67305
+380	L	Brokoli		67443
+381	B	Tam yagli peynir		67682
+382	L	Şeftali		67703
+383	L	Sucuk		68175
+384	L	Patatesli börek		68211
+385	L	Kuru üzüm		68348
+386	L	Armut		68632
+387	L	Tuzlu bisküvi kraker		68814
+388	L	Kıvı		69038
+389	L	Maydanoz		69077
+390	L	2% süt		69250
+391	L	Patlıcan Musakka		69402
+392	L	Nar		69537
+393	L	Portakal suyu		69559
+394	S	Special K		69719
+395	D	Tavuklu börek		69758
+396	D	Sut		69877
+397	D	Portakal suyu		70218
+398	L	Domates salçası		70378
+399	D	Karpuz		70513
+400	S	Baklava		70813
+401	S	Ispanaklı börek		70842
+402	S	Yarım yağlı yoğurt		70991
+403	S	Marul		71102
+404	S	Reçel		71468
+405	S	Düşük yağlı kaşar peyniri		71580
+406	D	Latte Kahve		71800
+407	S	Yayla çorbası		72008
+408	D	Çikolatalı kurabiye		72151
+409	S	Beyaz ekmek		72342
+410	D	Armut		72634
+411	S	Yoğurt tam yağlı		72816
+412	S	Sert şeker		72854
+413	S	Portakal suyu		73088
+414	S	Köfte		73248
+415	S	Ayran		73579
+416	S	Yulaf		73717
+417	S	Soğan		73845
+418	D	Yoğurt çorbası		74119
+419	L	Krep (Kuru Karışım)		74140
+420	B	Salata		74306
+421	B	Badem		74325
+422	B	Tavuk göğsü		74505
+423	B	Zeytin yağı		74885
+424	B	Kraker		74963
+425	B	Bread		75158
+426	B	Sıcak çikolata		75260
+427	L	Gofret		75318
+428	L	Mısır gevreği		75338
+429	D	Yumurta salatası		75587
+430	L	Tavuk göğsü		75629
+431	D	Çubuk kraker		76009
+432	L	Ketçap		76053
+433	L	Tavuk budu		76257
+434	L	Tam yağlı süt		76636
+435	B	Helva		77028
+436	D	Düşük yağ meyve yoğurt		77069
+437	L	Çubuk kraker		77151
+438	B	Şekerli çay		77195
+439	D	Pizza		77228
+440	D	Türk kahvesi		77263
+441	D	Gofret		77406
+442	D	Ceviz		77426
+443	B	Yarım yağlı süt		77690
+444	B	Lahana		77755
+445	B	Bitter		78107
+446	B	Sütlaç		78128
+447	B	Mayonez sos		78278
+448	B	Kabak yemeği		78389
+449	B	Kısır		78523
+450	B	Köfte		78676
+451	B	Çeşitli Sebzelerle Marul Salatası (Domates ve/veya Havuç'da Dahil Olmak Üzere)		79007
+452	D	Kahve		79170
+453	B	Yoğurt tam yağlı		79305
+454	B	Yulaf Ezmeli Kurabiye		79343
+455	B	Türk kahvesi		79577
+456	B	Toast		79720
+457	B	Künefe		79814
+458	B	Tavuk Baget		79851
+459	B	Nutella		80314
+460	B	Sütlü Çikolata (Milka)		80335
+461	B	Kepekli bisküvi		80413
+462	B	Çırpılmış yumurta		80452
+463	B	Yeşil salata		80633
+464	B	Krep (Kuru Karışım)		81081
+465	B	Yumurta salatası		81247
+466	B	Kuru üzüm		81289
+467	B	Tuzlu bisküvi kraker		81573
+468	B	Peynirli Börek		81797
+469	B	Üzüm		81817
+470	B	Kuru fasulye		81949
+471	L	Domates suyu		82163
+472	B	Latte Kahve		82295
+473	B	Kavrulmuş Patates		82503
+474	B	Keçiboynuzu Pekmezi (Koska)		82819
+475	B	Yumurtalı patates		82875
+476	B	Taze Kaşar Peyniri (Bahçıvan)		82910
+477	B	Sucuklu yumurta		82964
+478	B	Sosis		83124
+479	B	Gofret		83233
+480	B	Çubuk kraker		83253
+481	B	Çikolatalı süt		83297
+482	B	Erik		83445
+483	B	Hurma		83466
+484	D	Peynirli kraker		83487
+485	D	Sünger kek		83697
+486	D	Şeftali		83823
+487	D	Domates salçası		84295
+488	D	Fındık		84430
+489	D	Çikolatalı dondurma		84615
+490	D	Çikolatalı süt		84737
+491	D	Baklava		84885
+492	D	Kola		84914
+493	D	Müsli (Kurutulmuş Meyve ve Fındık)		84940
+494	D	Yeşil Biber		85059
+495	D	Beyaz peynir		85116
+496	D	Yulaf ezmesi		85181
+497	L	Peynirli Börek		85436
+498	L	Tavuk Göğüs eti		85456
+499	D	Kırmızı Barbunya Fasulyesi		85657
+500	L	Yeşil Biber		85810
+501	L	Tost Ekmeği (Uno)		85867
+502	L	Türk kahvesi		85980
+503	L	Poğaça		86123
+504	L	Tam yagli peynir		86163
+505	L	Ayva		86184
+506	L	Greyfurt (Pembe ve Kırmızı)		86204
+507	L	Yumurta beyazı		86395
+508	L	Greyfurt		86520
+509	L	Ananas (Katı ve Sıvı, Meyve Suyu Paketi, Konservelenmiş)		86542
+510	L	Yulaf Ezmeli Kurabiye		86864
+511	L	Zeytinyağı		87098
+512	D	Kepekli tost		87222
+513	S	Haşlanmış patates		87498
+514	S	Mercimek çorbası		87706
+515	S	Sığır eti		87880
+516	S	Tam buğday ekmeği		88251
+517	S	Kaşar peyniri		88476
+518	S	Çırpılmış yumurta		88728
+519	S	Çavdar ekmeği		88909
+520	S	Tavuk döner		89189
+521	S	Kepekli bisküvi		89331
+522	S	Meyveli gevreğin		89370
+523	S	Sütlaç		89476
+524	S	Bread		89626
+525	S	Tavuk		89728
+526	D	Peynirli Börek		89924
+527	S	Tarhana çorbası		89944
+528	D	Peynır		90087
+529	S	Zeytinyağı		90117
+530	S	Karpuz		90241
+531	S	Meyve aromalı su		90541
+532	S	Üzüm		90647
+533	S	Şekerli çay		90779
+534	S	Yaprak sarma		90812
+535	S	Coffee		90949
+536	S	Greyfurt		90987
+537	S	Yarım yağlı süt		91009
+538	S	Tavuk Baget		91074
+539	S	Tadımca Antep Fıstıklı (Tadım)		91537
+540	D	Salata Soslu veya Mayonezli Yuvarlak Ekmek Üzerine Hamburger		91613
+541	D	Hazır kahve		91766
+542	S	Salata		91831
+543	L	Peynirli kraker		91850
+544	D	Simit		92060
+545	L	Meyve suyu		92315
+546	L	Tereyağı yağ		92352
+547	L	Ceviz		92467
+548	L	Patlamış mısır		92731
+549	L	Cips		92879
+550	L	Karpuz		93013
+551	L	Çikolatalı dondurma		93313
+552	L	Mayonez sos		93435
+553	L	Bal		93546
+554	L	Işık ton balığı konserve		93648
+555	L	Yaş pasta		93780
+556	B	Tavuk		93819
+557	B	Mixed vegetables		94015
+558	B	Tavuklu börek		94107
+559	B	Bulgur pilavı		94226
+560	B	Çikolatalı kurabiye		94323
+561	B	Cips		94514
+562	B	Taze portakal suyu		94648
+563	B	Kremalı mantar çorbası		94790
+564	B	Konserve yeşil bezelye		94935
+565	B	Tereyağı		95046
+566	B	Mercimek köftesi		95250
+567	B	Tavuk budu		95436
+568	B	Sünger kek		95815
+569	B	Yeşil fasulye		95941
+570	B	Gozleme		96135
+571	B	Yeşil bezelye		96212
+572	B	Karpuz		96351
+573	B	Kola		96651
+574	S	Taze portakal suyu		96677
+575	B	Çiğ köfte		96819
+576	B	Sebze ve meyve suyu		96966
+577	B	Fırın patates kızartması		97081
+578	B	Şehriye çorbası		97257
+579	B	Sığır eti		97410
+580	S	Sebze ve meyve suyu		97781
+581	S	Taze Kaşar Peyniri (Bahçıvan)		97896
+582	S	Sıcak Suda Pişirilmiş Yumurta		97950
+583	S	Konserve meyve içecek		98177
+584	S	Poğaça		98285
+585	S	Lahana		98325
+586	S	Tereyağı		98677
+587	S	Soda		98881
+588	S	Kızarmış Kepekli Ekmek		98901
+589	S	Krem peynir		99218
+590	S	Yeşil bezelye		99390
+591	S	Fırın patates kızartması		99529
+592	S	Tavuk göğsü		99705
+593	S	Işık ton balığı konserve		100085
+594	S	Mısır gevreği		100217
+595	S	Çiğ köfte		100466
+596	S	Haşlanmış yumurta		100613
+597	S	Patates kızartması		100936
+598	S	Patates		101147
+599	S	Sahanda yumurta		101339
+600	D	Biber		101509
+601	S	Beyaz peynir		101536
+602	B	Tavuk sote		101601
+603	S	Omlet		101727
+604	S	Tost		101762
+605	S	Yulaf ezmesi		101815
+606	S	Kaşarlı Tost		102070
+607	L	Sünger kek		102212
+608	B	Lor Peyniri (Yörsan)		102338
+609	B	Nar		102390
+610	B	Greyfurt (Pembe ve Kırmızı)		102412
+611	B	Mandalina (Mandalin Portakal)		102603
+612	B	Yumurta (Bütün)		102843
+613	B	Pizza		103067
+614	B	Ayva		103102
+615	B	Düşük yağlı kaşar peyniri		103122
+616	L	Krem peynir		103342
+617	L	Biber		103514
+618	D	Domates suyu		103541
+619	L	Sebze ve meyve suyu		103673
+620	B	Patlıcan Musakka		103788
+621	L	Gozleme		103923
+622	L	Yeşil bezelye		104000
+623	L	Yarım yağlı süt		104139
+624	L	Yumurta (Bütün)		104204
+625	L	Çeşitli Sebzelerle Marul Salatası (Domates ve/veya Havuç'da Dahil Olmak Üzere)		104428
+626	L	Sütlü Çikolata (Milka)		104591
+627	L	Müsli (Kurutulmuş Meyve ve Fındık)		104669
+628	L	Tavuk Baget		104788
+629	B	Soda		105251
+630	S	Keçiboynuzu Pekmezi (Koska)		105271
+631	L	Fındık		105327
+632	D	Sert şeker		105512
+633	B	Çikolatalı dondurma		105746
+634	D	Sıcak çikolata		105868
+635	D	Çorba		105926
+636	D	Krem peynir		105965
+637	D	Erik		106137
+638	D	Kaşarlı Tost		106158
+639	D	2% süt		106300
+640	D	Sebze ve meyve suyu		106452
+641	D	Bal		106567
+642	D	Menemen		106669
+643	B	Coffee		106857
+644	D	Çırpılmış yumurta		106895
+645	B	Ananas (Katı ve Sıvı, Meyve Suyu Paketi, Konservelenmiş)		107076
+646	D	Tereyağı		107398
+647	B	Ketçap		107602
+648	B	Işık ton balığı konserve		107806
+649	B	Yaş pasta		107938
+650	B	Kırmızı Barbunya Fasulyesi		107977
+651	B	Special K		108130
+652	B	Yoğurt çorbası		108169
+653	B	Kepekli Makarna		108190
+654	B	Konserve meyve içecek		108226
+655	B	Salata Soslu veya Mayonezli Yuvarlak Ekmek Üzerine Hamburger		108334
+656	B	Yaprak sarma		108487
+657	D	Gozleme		108624
+658	D	Kırmızı Şarap		108701
+659	D	Pişmiş ıspanak		108886
+660	D	Tavuk Çorbası		109014
+661	L	Kaynatılmış pirinç		109239
+662	D	Karışık sebze		109307
+663	D	Patates Püresi		109434
+664	D	Pişmiş Mercimek		109812
+665	D	Siyah Fasulye		110122
+666	D	Karnıyarık		110298
+667	D	Tulumba Tatlısı		110455
+668	L	Düşük yağlı vanilyalı yoğurt		110664
+669	L	Ton Balıklı Sandviç		110821
+670	L	Siyah Fasulye		111028
+671	D	Hardal		111204
+672	L	Karışık sebze		111447
+673	L	Kavrulmuş Tavuk eti		111574
+674	D	Beyaz mantar		111769
+675	L	Kavrulmuş ayçiçeği tohumu		111923
+676	D	Fıstık ezmesi kurabiye		112059
+677	L	Hafif düşük yağlı meyve yoğurt		112279
+678	S	Zenginleştirilmiş meyve içecek		112435
+679	S	Beyaz mantar		112592
+680	S	Buğday kraker		112746
+681	S	Tulumba Tatlısı		112978
+682	L	Beyaz mantar		113187
+683	D	Tavuk karaciğer		113341
+684	D	Domates soslu makarna		113468
+685	L	Tavuk Çorbası		113609
+686	L	Mısır ve Pirinç Patlağı		113834
+687	D	Kış kabak		113911
+688	L	Lahmacun		114126
+689	D	Kızarmış tavuk		114318
+690	D	Kek un		114518
+691	D	Kırmızı Barbunya		114646
+692	L	Pırasa		114803
+693	S	Kavrulmuş ayçiçeği tohumu		115039
+694	D	Pırasa		115175
+695	S	Pırasa		115411
+696	L	Vanilyalı dondurma		115647
+697	S	Vanilyalı dondurma		115777
+698	S	Bira		115907
+699	L	Çiğ lahana		116050
+700	D	Ton Balıklı Sandviç		116444
+701	D	Öğle yemeğinde et		116651
+702	L	Badem		116785
+703	L	Mısır		117012
+704	D	Mısır		117363
+705	D	Mercimek		117714
+706	D	Pirzola		117922
+707	D	Balık çorbası		118051
+708	L	Mercimek		118222
+709	L	Kek un		118430
+710	L	Sarı mısır konserve		118558
+711	L	Ekmekli Tavuk		118724
+712	D	Kavrulmuş Tavuk eti		118926
+713	S	Süt Burger		119121
+714	L	Kadayıf		119197
+715	L	Köfte, domates soslu makarna		119382
+716	L	Taze soğan		119512
+717	L	Pişmiş Mercimek		119734
+718	D	Hafif düşük yağlı meyve yoğurt		120044
+719	D	Düşük yağlı vanilyalı yoğurt		120200
+720	D	Tavuk kanadı		120357
+721	D	Tost		120494
+722		Kabak		120737
+723		Patates yemeği		121008
+724		Ev Kızartması		121142
+725		Domates salatasi		121447
+726		Biber kızartması		121468
+727		Kremalı Çikolata Tabakası		121488
+728		Lokum		121622
+729		Kuru incir		121656
+730		Süzme Yoğurt (Sütaş)		121694
+731		Poaça		121727
+732		Muzlu süt		121748
+733		Lor		121770
+734		Peynirli Sandviç		121852
+735		Şeftali (Katı ve Sıvı, Meyve Suyu Paketi, Konservelenmiş)		122003
+736		Şekerleme		122185
+737		Fıstık ezmesi		122328
+738		Kuymak		122426
+739		Sade Krep		122447
+740		İskender Kebap		122610
+741		Limonata		122757
+742		Margarin		122904
+743		Mısır ve Pirinç Patlağı (Eti Form)		123009
+744		Kızarmış biber		123068
+745		%2 Yağlı Süt		123108
+746		Pankek		123433
+747		Sütlü kremalı yulaflı bisküvi		123454
+748		Sulu Köfte		123487
+749		Haşlanmış Mısır		123628
+750		Siyah ekmek		123649
+751		Musli		123694
+752		Humus		123714
+753		Maximus		123735
+754		Kepek ekmeği		123774
+755		Sütlü Çikolatalı Şekerlemeler		123819
+756		Tuzlu Kraker		123967
+757		Kahve (Demlenmiş)		124238
+758		Kaşar Peyniri (Sütaş)		124370
+759		Yulaf Ezmesi	Doğa	124407
+760		Yarım Yağlı Yoğurt	Yörsan	124482
+761		Sütlü Çikolata	Eti	124532
+762		Şişe su		124609
+763		Mısır ve Pirinç Patlağı	Eti	124742
+764		Peynir yayıldı		124819
+765		Süt Burger	Eti	124971
+766		Sıcak Çikolata	Nestle	125047
+767		Kavrulmuş Karışık Kuruyemiş		125116
+768		Yer Fıstığı		125313
+769		Kestane		125452
+770		Kuru Kavrulmuş Pekan Fındığı (Tuz İlave Edilmeden)		125626
+771		Yer Fıstıklı Kavrulmuş Karışık Kuruyemiş		125774
+772		Akıcı Fıstık Ezmesi (Tuzlu)		126047
+773		Akıcı Fıstık Ezmesi (Yağı Azaltılmış)		126260
+774		Tavuk Karaciğeri Ezmesi (Konservelenmiş)		126389
+775		Karaciğer Ezmesi (Konservelenmiş)		126576
+776		Fransız Tostu (Dondurulmuş)		126762
+777		Fransız Tostu (%2 Düşük Yağlı Süt ile yapılmış)		126938
+778		Tereyağlı Fransız Tostu		127106
+779		Fransız Tost Çubukları		127274
+780		Fransız Salata Sosu (Kalorisi Azaltılmış)		127463
+781		Fransız Salata Sosu (Yağı Azaltılmış)		127624
+782		Fransız Salata Sosu		127840
+783		Fransız Salata Sosu (Yağsız)		128070
+784		Enginar (Küre Biçiminde veya Fransız)		128292
+785		Portakallı Gazoz		128494
+786		Zencefilli Gazoz		128709
+787		Gözleme		128969
+788		Patates Krep		129177
+789		Böğürtlenli Krep		129497
+790		Yeşil Bezelye (Dondurulmuş)		129706
+791		Kar veya Şeker Bezelyeleri		129929
+792		Pişmiş Fasulye		130141
+793		Yeşil Fasulye (Katı ve Sıvı, Konservelenmiş)		130319
+794		Kuru Üzümlü Ekmek		130520
+795		Yapışkan Pirinç ve Kuru Fasulye ile Yapılan Kek		130741
+796		Fırında Pişirilmiş Boston Fasulye		130934
+797		Domuz Eti ile Fırında Pişmiş Fasulye (Konservelenmiş)		131145
+798		Kuru Üzüm (Çekirdeksiz)		131326
+799		Çikolata Kaplı Kuru Üzüm		131606
+800		Kahvaltı Bar (Yulaf, Şeker, Kuru Üzüm, Hindistan Cevizi, Müsli Bar)		131838
+801		Altın Kuru Üzüm (Çekirdeksiz)		132003
+802		Kuru Üzümlü Tarçın Simit		132183
+803		Sütlü Çikolata Kaplı Kuru Üzüm		132512
+804		Meyveli Simit (Kuru Üzüm Hariç)		132677
+805		Yeşil Bezelye (Süzülmüş Olanlar, Konservelenmiş)		132940
+806		Pişmiş Yeşil Bezelye (Konservelenmiş)		133174
+807		Kivi Meyvesi		133406
+808		Krem Peyniri		133647
+809		Krem Peyniri (Düşük Yağlı)		133960
+810		Sürmelik Krem Peyniri		134195
+811		Etli, Fasulyeli, Peynirli ve Ekşi Kremalı Nacho		134378
+812		Peynirli Kremli Pasta		134611
+813		Krem (Yarı Yarıya, Yağsız)		134760
+814		Krem Peynir (Yağsız)		135042
+815		Krem (Yarı Yarıya)		135178
+816		Krem Şanti		135418
+817		Krem Şanti (Basınçlı)		135738
+818		Spagetti		135936
+819		Taze Makarnalar (Pişmiş)		136167
+820		Et Soslu Makarna		136312
+821		Peynirli ve Et Soslu Makarna		136500
+822		Domatesli Etsiz Spagetti		136724
+823		Sebzeli Makarna		136919
+824		Kepekli Spagetti		137103
+825		Makarna veya Makarna Salatası		137335
+826		Makarna veya Tavuklu Makarna Salatası		137543
+827		Makarna veya Tuna Balıklı Makarna Salatası		137750
+828		Makarna veya Peynirli Makarna Salatası		137956
+829		Etli Mantı		138166
+830		Domates Soslu Mantı		138365
+831		Peynirli Mantı		138542
+832		Mayonez (Kolesterolsuz)		138735
+833		Mayonez		138938
+834		Peynir Sosu		139153
+835		Yeşil Yapraklı Marul		139348
+836		Karışık Yeşil Salata		139588
+837		Çesitli Sebzelerle Marul Salatası		139846
+838		Peynirli, Domatesli ve/veya Havuçlu Marul Salatası		140046
+839		Roka Marulu		140256
+840		Avokadolu, Domatesli ve/veya Havuçlu Marul Salatası		140398
+841		Marul veya Romaine Marulu		140595
+842		Roka (Roket)		140877
+843		Meyveli Kır Peyniri		141030
+844		Sarı Tatlı Mısır		141269
+845		Patates Salatası Garnitürü		141634
+846		Çoban Salatası Sosu (Yağsız)		141809
+847		Çoban Salatası Sosu		141942
+848		Çoban Salatası Sosu (Yağı Azaltılmış)		142116
+849		Tropikal Meyve Salatası (Ananas Papaya Muz ve Guava, Katı ve Sıvı, Ağır Şurup, Konservelenmiş)		142323
+850		Dut		142500
+851		Mandalina (Mandalina Portakal, Meyve Suyu Paketi, Konservelenmiş)		142654
+852		Şeftali (Katı ve Sıvı, Su Paketi, Konservelenmiş)		142848
+853		Ahududu		143139
+854		Su Kestanesi		143350
+855		Patlamış Mısır (Düşük Yağ ve Sodyum, Mikrodalga)		143597
+856		Mısır Nişastası		143741
+857		Sarı Mısır		143940
+858		Mısır Ekmeği (Kuru Karışım, Hazırlanmış)		144139
+859		Mısırlar Koçanı Üzerinde Tereyağıyla Birlikte		144317
+860		Kızarmış Olgun Muz		144487
+861		Haşlanmış Olgun Muz		144868
+862		Gevrek		145127
+863		Peynir Tadında Patlamış Mısır		145330
+864		Kepek Gevreği		145502
+865		Yağda Patlayan Beyaz Patlamış Mısır		145684
+866		Havaya Patlayan Patlamış Mısır		145830
+867		Yulaf Gevreği (Tuzsuz, Su ile Pişirilmiş, Unenriched ile Pişirilmiş, Koyulaştırılmamış)		146012
+868		Margarin-Tereyağı Karışımı (%60 Mısır Yağı ve %40 Tereyağı)		146207
+869		Yağda Patlayan Patlamış Mısır		146458
+870		Meyveli Cheesecake		146633
+871		Cheesecake (Karışımdan, Fırında Olmayan Türden)		147023
+872		Sığır Eti Pastırma (%98 Yağsız)		147236
+873		Hindi Pastırma		147426
+874		Pastırmalı Sandviç		147634
+875		Fırında Pişmiş Patates (Kabuğu Yenmiş)		147839
+876		Pişmiş Patates (Kabuğu Yenmeden)		148235
+877		Fransız Patates Kızartması		148637
+878		Patates Püresi (Tam Yağlı Süt ve Margarin Eklenilmiş)		149027
+879		Patates Püresi (Tam Yağlı Süt ve Tereyağı Eklenilmiş)		149232
+880		Patates Püresi (Kuru Olan)		149437
+881		Tatlı Patates (Püre Halinde, Konservelenmiş)		149711
+882		Patates Püresi (Tam Yağlı Süt Eklenilmiş)		149950
+883		Alman Usulü Patates Salatası		150157
+884		Yumurtalı Patates Salatası		150338
+885		Çedar Peyniri		150547
+886		Amerikan Peyniri		150848
+887		İsviçre Peyniri		151113
+888		Yarı Yağlı Mozzarella Peyniri		151410
+889		Yağı Azaltılmış Amerikan Peyniri		151736
+890		Amerikan Peyniri (Soğuk Paket)		152013
+891		Çedar veya Amerikan Tipi Peynir		152198
+892		Mavi Peynir		152527
+893		Peynirli Nacho		152740
+894		Peynirli Pızza (36 cm)		152937
+895		Domuz Jambonulu ve Peynirli Sandviç		153146
+896		Peynirli Pizza (36 cm, Ince Kabuklu)		153318
+897		Yumurta ve Peynirli Sandviç		153524
+898		Peynirli Pizza (36 cm, Kalın Kabuklu)		153697
+899		Mavi ve Rokfor Peynirli Salata		153903
+900		Peynirli Kruvasan		154118
+901		Normal Kahve		154350
+902		Kuru Kavrulmuş Karışık Kuruyemiş (Yer Fıstığı, Tuz İlave Edilmiş)		154713
+903		Etsiz Sebzeli Hamburger veya Börek		154850
+904		Kabak (Tuzsuz, Konservelenmiş)		155055
+905		Kabaklar		155256
+906		Bebek Kabak		155478
+907		Kurutulmuş Kabak ve Kabak Tohumu Çekirdekleri		155654
+908		Sarı Hardal		155827
+909		Ballı Hardal Sosu		156018
+910		Tatlı Patates (Kabuksuz, Pişmiş, Haşlanmış)		156252
+911		Süt ile Yapılan Patates Püresi (Taze Olandan)		156473
+912		Patates Püresi (Taze Olandan)		156879
+913		Sarı Tatlı Mısır (Mısırlar Koçanı Üzerinde, Tuzlu, Dondurulmuş, Süzülmüş, Pişmiş, Haşlanmış)		157272
+914		Kabak (Tuzlu, Süzülmüş, Pişmiş, Haşlanmış)		157538
+915		Tavuk veya Hindi Salatası		157786
+916		Yumurtalı Tavuk veya Hindi Salatası		157997
+917		Karamelli Muhallebi Böreği (Kuru Karışım)		158206
+918		Atıştırmalık Kraker		158370
+919		Pirinç Krakerler		158750
+920		Kahve (Demlenmiş Espresso)		158922
+921		Kahve veya Masa Kremi (Hafif)		159038
+922		Ispanak		159310
+923		Ispanak (Süzülmüş Olanlar, Konservelenmiş)		159557
+924		Ispanak (Kıyılmış veya Yaprak, Dondurulmuş)		159759
+925		Ispanak Sufle		159971
+926		Hafif Mayonez		160206
+927		Büyük Hamburger		160405
+928		Yuvarlak Ekmek Üzerinde Hamburger		160577
+929		1/4 Lb Etli Yuvarlak Ekmek Üzerine Hamburger		160796
+930		Yuvarlak Ekmek Üzerinde Domuz Pastırmalı Cheeseburger 1/4 Lb Etli Mayonezli veya Salata Soslu ve Domatesli		160974
+931		Muzlu Ekmek (Margarinle Birlikte)		161151
+932		Pişmiş Havuç		161327
+933		Patates ve Sebzeli Sığır Eti Güveci (Havuç, Brokoli ve/veya Koyu Yeşil Yaprağı Da Dahil Olmak Üzere) Domates Sosu Içinde		161716
+934		Havuç (Dondurulmuş)		161937
+935		Yavru Havuç		162188
+936		Tavuk veya Hindi ve Sebze Tabanlı Soya Sosu (Havuç, Brokoli, ve/veya Koyu Yeşil Yapraklı, Patates Olmadan, Karışım)		162398
+937		Karışık Sebzeler (Mısır, Kuru Fasulye, Bezelye, Yeşil Fasulye, Havuç) (Tuzsuz, Konservelenmiş)		162599
+938		Havuç (Katı ve Sıvı, Konservelenmiş)		162800
+939		Bezelye ve Havuç (Dondurulmuş)		163064
+940		Havuç Suyu		163276
+941		Kahve (Çabuk Hazırlanan Toz)		163512
+942		Kahve (Çabuk Hazırlanan)		163749
+943		Kahve (Tad Veren Cappuccino Tozu , Çabuk Hazırlanan, Şeker ile Birlikte)		163875
+944		Hazır Kahve(Tozdan yapılmış)		164109
+945		Salsa (Servis Yapılmaya Hazır)		164357
+946		Kuşkonmaz (Hazır Olmayan, Dondurulmuş)		164530
+947		Domates Ketçabı		164738
+948		Kokteyl Sosu		165025
+949		Kırmızı Barbunya Fasulyesi (Konservelenmiş)		165232
+950		Kırmızı Barbunya Fasulyesi (Tuzlu, Pişirilmiş, Haşlanmış)		165445
+951		Barbunya Fasulyesi (Tuzsuz, Pişmiş, Haşlanmış)		165622
+952		Barbunya Fasulyesi (Konservelenmiş)		165836
+953		Barbunya (Olgun Tohumlar)		166020
+954		Barbunya (Olgun Tohumlar, Konservelenmiş)		166230
+955		Kırmızı Vişne		166415
+956		Üzüm (Kırmızı veya Yeşil, Avrupa Çeşitlerine Benzer Örneğin Thompson Çekirdeksiz)		166667
+957		Merlot Şarabı		167013
+958		Zinfandel Şarap		167194
+959		Pinot Noir Şarabı		167343
+960		Syrah Şarap		167495
+961		Cabernet Sauvignon Şarabı		167642
+962		Chianti Şarabı		167776
+963		Pinot Gris (Grigio) Şarabı		168063
+964		Muscat Şarabı		168215
+965		Spagetti Kış Kabağı		168373
+966		Terbiyeli Kruton		168541
+967		Kızarmış Tahıllı Ekmek		168737
+968		Kızarmış Sarımsaklı Ekmek		169046
+969		Sade Kruton		169337
+970		Kızarmış Üzümlü Ekmek		169519
+971		Kaplamasız Kızarmış Tavuk Baget (Derisi Yenerek)		169786
+972		Kaplamasız Kızarmış Tavuk Göğsü (Derisi Yenmeden)		170160
+973		Tavuklu Kızarmış Pirinç		170519
+974		Kaplamasız Kızarmış Tavuk Budu (Derisi Yenerek)		170730
+975		Kaplamasız Kızarmış Tavuk(Derisi Yenerek)		171105
+976		Fransız Kızarmış Patates (Parça Süzme Peyniri , Ortalama Kızarmış, Dondurulmuş)		171475
+977		Kaplamasız Kızarmış Tavuk Kanadı (Derisi Yenerek)		171684
+978		Fırınlanmış veya Kızarmış Kaplı Tavuk Goğsü Derisi ile Birlikte		172056
+979		Sığır Eti Köftesi		172456
+980		İzmir Köfte		172828
+981		Soslu Köfte (Karışım)		173083
+982		Tavuk Köfte		173319
+983		İçli Köfte		173632
+984		Izgara Köfte		173896
+985		Kadınbudu Köfte		174137
+986		Kayısı Reçeli ve Konserveleri		174362
+987		Şişirilmiş Pirinç Gevreği (Güçlendirilmiş)		174575
+988		Kahverengi Pirinç Keki		174727
+989		Tahıllı Kahverengi Pirinç Keki		174926
+990		Kahverengi Pirinç (Uzun-Öğütülmüş, Pişmiş)		175112
+991		Kahverengi Pirinç (Orta-Öğütülmüş, Pişmiş)		175311
+992		Yabani Pirinç (Pişirilmiş)		175501
+993		Pandispanya Keki		175699
+994		Kremasız Havuçlu Pasta		175946
+995		Limonlu Pasta		176341
+996		Cupcake		176741
+997		Pandispanya		176949
+998		Beyaz Pasta (Sert Kaplamasız)		177157
+999		Sarı Pasta (Sert Çikolata Kaplamalı)		177430
+1000		Sarı Pasta (Sert Vanilya Kaplamalı)		177640
+1001		Cheesecake		177856
+1002		Kepekli Spagetti (Pişmiş)		178068
+1003		Kepekli Beyaz Peynirli Tost		178273
+1004		Kızarmış %100 Kepekli Ekmek		178475
+1005		Kuru Kavrulmuş Karışık Kuruyemiş		178775
+1006		Karışık Sebzeler (Katı ve Sıvı, Konservelenmiş)		178976
+1007		Karışık Sebzeler (Süzülmüş Olanlar, Konservelenmiş)		179168
+1008		Karışık Sebzeler (Dondurulmuş)		179363
+1009		Pişmiş Karışık Sebze (Mısır, Kuru Fasulye, Bezelye, Yeşil Fasulye, Havuç)		179575
+1010		Provolone Peyniri		179781
+1011		Kavrulmuş Ayçiçeği Tohumu (Tuz İlave Edilmiş)		180034
+1012		Kuru Kavrulmuş Ayçiçeği Tohumu Çekirdekleri (Tuzsuz)		180192
+1013		Kuru Kavrulmuş Soyulmuş Ayçiçeği Tohumu		180393
+1014		Yonca Tohumu (Filizlenmiş)		180711
+1015		Kurutulmuş Ayçiçeği Tohum Çekirdeği		180904
+1016		Keten Tohumu		181103
+1017		Buğday Tohumu		181433
+1018		Hindi Eti (Pişmiş, Kavrulmuş)		181605
+1019		Hindi Göğsü Eti (Fritöz-Kavurma, Pişmiş, Kavrulmuş)		181880
+1020		Tavuk Göğsü (Fırında Kavrulmuş, Yağsız, Dilimlenmiş)		182127
+1021		Kuru Kayısı		182301
+1022		Peynirli İri Taneli Yulaf		182510
+1023		Yulaf Gevreği (Hemen Olan, Kuru, Güçlendirilmiş)		182806
+1024		Tahıllı Yulaf Ezmesi		182939
+1025		Yulaf Gevreği (Hemen Olan, Su ile Hazırlanmış, Güçlendirilmiş)		183238
+1026		Hazır Yulaf Ezmesi (1 veya 3 Dakika)		183543
+1027		Pişmiş Yeşil Bezelye		183840
+1028		Pişmiş Yeşil İp Fasulye (Taze Olandan)		184107
+1029		Az Yağlı Sade Yoğurt		184387
+1030		Tam Yağlı Meyve Çeşitli Yoğurt		184620
+1031		Vanilyalı Donmuş Yoğurtlar (Yumuşak Servis)		184889
+1032		İtalyan Salata Sosu (Yağı Azaltılmış)		185077
+1033		İtalyan Salata Sosu		185289
+1034		Yulaf Kepeği		185499
+1035		Meyveli Yulaf Ezmesi		185651
+1036		Tavuk Eti ve Derisi (Kavurma)		185893
+1037		Tavuk Eti (Kavurma)		186133
+1038		Kavrulmuş, Izgara veya Fırında Tavuk Göğsü		186396
+1039		Ağır Ateşde Pişirilmiş Tavuk Göğsü (Derisi Yenmeden)		186740
+1040		Böğürtlenli Pasta		187118
+1041		Kremsi Vanilya Tabakası		187311
+1042		Tam Yağlı Süt Mozzarella Peyniri		187492
+1043		Sade Fransız Tostu		187813
+1044		Yeşil Fasulye (Süzülmüş Katılar, Konservelenmiş)		188134
+1045		Yeşil Fasulye (Dondurulmuş)		188368
+1046		Mantar Soslu Pişmiş Yeşil Fasulye		188578
+1047		Yeşil İp Fasulye		188793
+1048		Düşük Sodyumlu Yeşil Fasulye (Konservelenmiş)		189060
+1049		İtalyan Salata Sosu (Kalorisi Azaltılmış)		189266
+1050		Sezar Salata Sosu (Düşük Kalorili)		189453
+1051		Tam Yağlı Sade Yoğurt		189647
+1052		Rafadan Yumurta		189888
+1053		Kızarmış Yumurta		190188
+1054		Alkollü İçecek (80 Alkol Derecesi, Cin Rom Votka Viski)		190517
+1055		Böğürtlen		190687
+1056		Yaban Mersini		190873
+1057		Susam Yağı		191047
+1058		Bitkisel Kanola Yağı		191241
+1059		Kavrulmuş, Izgara veya Fırında Tavuk Göğsü (Derisi Yenmeden)		191436
+1060		Fırında Pişirilmiş veya Kızartılmış Derisiz Tavuk Göğsü (Kaplaması Yenerek)		191779
+1061		Kaplamasız Kızarmış Tabuk Göğsü (Derisi Yenerek)		192182
+1062		Hindi Göğsü (%97 Yağsız,Limon Biberi Tadında, Tütsülenmiş)		192557
+1063		Hindi Göğsü Eti		192727
+1064		Tavuk Göğüs Eti ve Derisi		192961
+1065		Bıldırcın Eti		193333
+1066		Ciğer		193641
+1067		Kavrulmuş, Izgara veya Fırında Tavuk (Derisi Yenmeden))		193772
+1068		Kavrulmuş, Izgara veya Fırında Tavuk		194146
+1069		Tavuk Göğsü (Derisi Yenmeden)		194520
+1070		Izgara Tavuk (Derisi Yenmeden)		194863
+1071		Hafif Tavuk Eti (Kavurma)		195235
+1072		Tavuklu Piriç Çorbası		195494
+1073		Tavuk Suyu, Bulyon veya Konsome		195726
+1074		Izgara Tavuk		195952
+1075		Tavuk Bage Eti ve Derisi		196324
+1076		Tavuk Sosu (Konservelenmiş)		196609
+1077		Taze Domuz Sosisi		196820
+1078		Tuzlu Hafif Tereyağı Çubuğu		197052
+1079		Margarin (Bitkisel Yağ, %20 Yağ)		197397
+1080		Tereyağı (Tuzlu)		197588
+1081		Çırpılmış Tereyağı (Tuzlu)		197879
+1082		Vanilyalı Sandviç Kurabiyeler (Krem Doldurmalı)		198166
+1083		Şerbet		198415
+1084		Turuncu Şerbet		198712
+1085		Margarin (Normal, %80 Yağ ve Tuzlu, Kalıp)		198946
+1086		Hafif Vanilyalı Dondurma (Sulu Servis)		199146
+1087		Zengin Vanilyalı Dondurma		199362
+1088		Dondurma Sandviç		199549
+1089		Hafif Dondurma Külahı		199815
+1090		Yumuşak Dondurma		200110
+1091		Yumurta Salatalı Sandviç		200319
+1092		Sert Şekerler		200525
+1093		Siyah Fasulye (Olgun Tohumlar, Tuzlu, Pişmiş, Haşlanmış)		200688
+1094		Soğanlar		200864
+1095		Soğan veya Taze Soğan		201261
+1096		Pişmiş Olgun Soğan		201545
+1097		Genç Yeşil Soğan		201903
+1098		Tatlı Soğan		202181
+1099		Pişmiş veya Sote yapılmış Olgun Soğan (Pişirilirken Yağ Eklenmiş)		202354
+1100		Kırmızı Soğan		202707
+1101		Genç Yeşil Soğan (Sadece Üstleri)		203105
+1102		Süt		203272
+1103		Vejetaryen Burger		203652
+1104		Mısır Ekmeği ((% 2) Az Yağlı Süt ile)		203809
+1105		Süt (Yağsız)		203975
+1106		Kızılcık Suyu Kokteyli (Su ile Dondurulmuş Konsantre)		204179
+1107		Tarhana		204374
+1108		Çikolata Kaplı Yumuşak Çikolatalı Müsli Barlar		204607
+1109		Çikolata Şurubu		204731
+1110		Çikolatalı Pudingler		204965
+1111		Yumuşak Çikolatalı Müsli Barlar		205192
+1112		Sert Beyaz Buğday		205360
+1113		Makarnalık Buğday		205560
+1114		Şeftali (Katı ve Sıvı, Hafif Şurup Paketi, Konservelenmiş)		205738
+1115		Şeftali (Katı ve Sıvı, Ekstra Hafif Şurup, Konservelenmiş)		206034
+1116		Zeytinyağlı Yaprak Sarma		206279
+1117		Etli ve Pirinçli Sarma		206444
+1118		Lahana Sarması		206626
+1119		Buzlu Tatlı Tarçınlı Çörek		206773
+1120		Tatlı Tarçınlı Çörek		207049
+1121		Parmesan Peyniri (Sert)		207323
+1122		Keçi Peyniri (Sert)		207543
+1123		Sert Ipeksi Soya Peyniri		207696
+1124		Extra Sert Ipeksi Soya Peyniri		207883
+1125		Sıcak Çikolata Kakao (Tam Yağlı Süt ile yapılmış)		208071
+1126		Kakao ve Şeker Karışımı (Yağsız Süt ile)		208256
+1127		Sıcak Kakaolu Süt		208448
+1128		Kakao ve Şeker Karışımı (Az Yağlı Süt ile)		208674
+1129		Tas Kebabı		208860
+1130		Biftek		209064
+1131		Sığır Üst Filetosu (0.3 cm Yağ İçeren, Yüksek Kalite)		209408
+1132		Sığır Eteği İçi Bifteği (0.5 cm Yağ İçeren)		209573
+1133		Sığır Kıyması (%75 Yağsız/%25 Yağ)		209708
+1134		Ince Dilimlenmiş Sandviç Biftek		209896
+1135		Sığır Bifteği (Yağsız Yenerek)		210173
+1136		Dana Eti Suyu (Konservelenmiş)		210524
+1137		Tahıllı Simit		210737
+1138		Sert Tuzlu Simit		210993
+1139		Yumuşak Simit		211123
+1140		Tam Buğdaylı Simit		211356
+1141		Kızarmış Simit		211600
+1142		% 100 Kepekli Simit		211862
+1143		Buğday Simit		212120
+1144		Elma Suyu (Konservede veya Şişede)		212364
+1145		Kızılcık-Elma Suyu (Şişede)		212629
+1146		Kızılcık-Üzüm Suyu (Şişede)		212859
+1147		Kızılcık Suyu Kokteyli (Şişede)		213098
+1148		Limon Suyu (Konservede veya Şişelenmiş)		213332
+1149		Portakal Suyu (Dondurulmuş, Konsantre İçerir)		213568
+1150		Taze Sıkılmış Portakal Suyu		213739
+1151		Dondurulmuş Portakal Suyu (Su ile Sulandırılmış)		214009
+1152		Reçel Konserveleri		214253
+1153		Marmelat		214497
+1154		Reçel, Konserve, Marmelat (Düşük Şeker)		214726
+1155		Şekeri Azaltılmış Jöle		214963
+1156		Jöle (Tüm Tadlarda)		215185
+1157		Sığır Eti Salamı		215432
+1158		Yumurta Sarısı		215811
+1159		Yumurta Simidi		216009
+1160		Tatlı Salatalık Turşusu		216325
+1161		Ekşi Salatalık Turşusu		216708
+1162		Dereotu Salatalık Turşusu		217040
+1163		Dereotu Salatalık Turşusu (Düşük Sodyum)		217397
+1164		Ekmek Kırıntıları		217574
+1165		Sade Ekmek Çubukları		217756
+1166		Sosisli Sandviç		218100
+1167		Et, Kümes Hayvanlı veya Balıklı, Sebzeli Sandviç		218273
+1168		Hindili Sandviç Ezmeyle Birlikte		218468
+1169		Tavuklu Sandviç Ezmeyle Birlikte		218674
+1170		Yumuşak Salam		218859
+1171		Domuz Salamı (Kuru veya Sert)		219168
+1172		Kuru veya Sert Salam		219427
+1173		Çoban Salatası		219789
+1174		Tavuk veya Hindi Bahçe Salatası (Tavuk ve / veya Hindi, Domates ve /veya Havuç, Diğer Sebzeler)		219985
+1175		Zeytinyağı ve Zirkeli Salata Sosu (Ev Tarifi)		220223
+1176		Salata Sosu		220418
+1177		Sezar Salata Sosu		220690
+1178		Salatalık (Soyulmuş)		220899
+1179		Salatalık (Kabuklu)		221263
+1180		Pişmiş Pırasa		221500
+1181		Portakal (Kabuklu)		221837
+1182		Mandalina (Konservelenmiş veya Dondurulmuş)		222039
+1183		Portakal Marmelatı		222243
+1184		Portakal Suyu İçeceği		222450
+1185		Yumurta Omleti		222695
+1186		Çikolatalı Cheesecake		222902
+1187		Yağda Patlayan Az Yağlı Patlamış Mısır		223234
+1188		Yağın İçinde Patlayan Tereyağlı Patlamış Mısır		223459
+1189		Havaya Patlayan Tereyağlı Patlamış Mısır		223763
+1190		Tulum Peyniri		224017
+1191		Zeytinyağlı Pırasa		224174
+1192		Sake		224387
+1193		Sığır Kısa Kaburga Etler		224529
+1194		Kaburga		224903
+1195		Mangalda Sığır Kısa Kaburga Etleri (Sos ile)		225014
+1196		Sığır Kaburgası (Küçük Ucu, 0.3 cm Yağ İçeren)		225412
+1197		Mangalda Soslu Domuz Kaburga		225557
+1198		Doğranmış Jambon		225960
+1199		Domuz Pirzola (Üst Bel, Kemiksiz)		226116
+1200		Domuz Pirzola (Kemiksiz, Üst Bel, Yağsız)		226246
+1201		Izgara veya Fırında Pişirilmiş Ekmekli veya Unlu Domuz Pirzola		226380
+1202		Domuz Kaburga		226778
+1203		Pişmiş Ispanak (Taze Olandan)		227159
+1204		Pişmiş Ispanak (Donmuş Olandan, Pişirilirken Yağ Eklenmemiş)		227364
+1205		Yabani Tavşan Eti (Pişmiş, Ağır Ateşde Pişmiş)		227717
+1206		Yuvarlatılmış Arpa (Pişmiş)		228008
+1207		Tuzlu tereyağı		228213
+1208		Şanti tereyağı		228383
+1209		Pişmiş soğan		228553
+1210		Patates cilt		228866
+1211		Çiğ ıspanak		229078
+1212		Konserve fasulye		229271
+1213		Çiğ brokoli		229449
+1214		Kıyılmış brokoli		229711
+1215		Donmuş brokoli		229971
+1216		Donmuş mısır		230231
+1217		Donmuş havuç		230534
+1218		Kereviz		230868
+1219		Konserve domates sosu		231138
+1220		Konserve patates		231299
+1221		Konserve havuç suyu		231476
+1222		Deri ile fırında patates		231645
+1223		Pişmiş tatlı patates		231860
+1224		Tatlı patates		232039
+1225		Pişmiş domates		232214
+1226		Konserve domates		232497
+1227		Konserve haşlanmış domates		232686
+1228		Beyazlatılmış badem		232967
+1229		Kavrulmuş badem		233171
+1230		Tuzlu kavrulmuş badem		233374
+1231		Kaju fıstığı		233579
+1232		Yengeç		233774
+1233		Karides		233971
+1234		Konserve karides		234114
+1235		İstiridye		234257
+1236		Konserve istiridye		234438
+1237		İtalyan ekmeği		234623
+1238		Tarçınlı üzümlü çörek		234827
+1239		Soya sosu		235008
+1240		Zenginleştirilmiş soya sütü		235187
+1241		Hafif bira		235356
+1242		Biftek sandviç		235501
+1243		Konserve sebze suyu		235657
+1244		Kafeinsiz kahve		235827
+1245		Kök bira		235974
+1246		Ringa balığı		236116
+1247		Zenginleştirilmiş Meyve aromalı su		236363
+1248		Canavar enerji içeceği		236505
+1249		Kafeinsiz çay		236649
+1250		Musluk suyu		236800
+1251		Enerji içeceği		236933
+1252		Hindi göğsü		237078
+1253		Tavuk suyu		237267
+1254		Tavuk rulo		237428
+1255		Et suyu		237588
+1256		Barbekü sosu		237741
+1257		Sığır eti Menkul Kıymetler		237902
+1258		Portakal suyu konsantresi		238066
+1259		Kalsiyum ile portakal suyu		238235
+1260		Dondurulmuş portakal suyu konsantresi		238405
+1261		Üzüm suyu		238578
+1262		Kavun		238746
+1263		Elma suyu		239161
+1264		Türkiye'de rulo		239327
+1265		Avokado		239482
+1266		Ananas		239679
+1267		Dondurulmuş çilek		239936
+1268		Elma, üzüm ve armut suyu		240245
+1269		Jambon		240413
+1270		İlave yağsız jambon		240566
+1271		Doğal meyve suları ile jambon		240720
+1272		Jambon ve su		240882
+1273		-Ham su eklendi		241040
+1274		Tereyağı tuz		241201
+1275		Mayonez salata sosu		241370
+1276		Fıstık yağı		241530
+1277		Soya yağı		241668
+1278		İtalyan sosu		241812
+1279		Fransız sosu		241973
+1280		Düşük yağ bitkisel yağ yayıldı		242133
+1281		Mısır yağı		242297
+1282		Mavi peynir sosu		242440
+1283		Kanola yağı		242605
+1284		Tereyağı sopa		242747
+1285		Bitkisel yağ yayıldı		242911
+1286		Bitkisel yağ		243068
+1287		Endüstriyel soya yağı		243215
+1288		Endüstriyel soya ve ayçiçek yağı		243358
+1289		Hindistan cevizi yağı		243501
+1290		Yarı yarıya		243644
+1291		Açık krem		243811
+1292		Ağır Kırbaçlanan krem		243971
+1293		Az yağlı çikolatalı süt		244163
+1294		Krema tozu yerine		244330
+1295		Bütün çikolatalı süt		244498
+1296		Yağsız süt		244671
+1297		Tuz		244839
+1298		Bebek yulaf ezmesi		244967
+1299		Krem yerine		245116
+1300		Müstahkem düşük yağlı meyve yoğurt		245281
+1301		Düşük yağ meyve yoğurt ışığı güçlendirilmiş		245444
+1302		Katı pişmiş yumurta		245603
+1303		Kahverengi şeker		245810
+1304		Şeker		246019
+1305		Mısır cipsi		246220
+1306		Fıstık M & Ms		246378
+1307		M & Ms		246576
+1308		Düşük yağlı cips		246776
+1309		Harika		246931
+1310		Çikolatalı sandviç kurabiye		247334
+1311		Kruvasan		247557
+1312		Fıstık ezmesi ile kraker		247734
+1313		Halka		247970
+1314		Zor ekmek rulo		248207
+1315		Tarçın rulo		248388
+1316		Böğürtlenli kek		248571
+1317		Maya		248775
+1318		Az yağlı Amerikan peynir		248927
+1319		Kızılcık suyu		249170
+1320		Beyaz fişleri		249334
+1321		Sezar sos		249485
+1322		Tereyağlı gözleme		249650
+1323		Karamela		249816
+1324		Elmalı turta		249962
+1325		Kabak böreği		250139
+1326		Kabartma tozu		250319
+1327		Ekmek kırıntısı		250452
+1328		Karma kahverengi		250591
+1329		Pudra şekeri		250741
+1330		Kurutulmuş yumurta		250873
+1331		Biber tozu		251024
+1332		Kuru süt		251171
+1333		Peynir sos		251324
+1334		Cilt ile tavuk göğsü		251470
+1335		Ekmekli tavuk göğsü		251627
+1336		Kavrulmuş tavuk göğsü		251790
+1337		Tavuk uyluk		251946
+1338		Baget		252109
+1339		Kavrulmuş hindi		252271
+1340		Kavrulmuş hindi eti		252413
+1341		Elma püresi		252551
+1342		Işık et Türkiye rulo		252701
+1343		Tarçın ve baharat ile yulaf		252847
+1344		Kuru üzüm ve baharat ile yulaf		252995
+1345		Balık köftesi		253147
+1346		Tuzsuz yer fıstığı		253331
+1347		Kavrulmuş fıstık		253479
+1348		Kızartılmış fasulye		253623
+1349		Dermason Fasulye		253770
+1350		Tuzlu fıstık		253910
+1351		Kavrulmuş tuzlu fıstık		254060
+1352		Kırmızı fasulye konserve		254206
+1353		Dondurulmuş yeşil ek fasulye		254345
+1354		Yeşil ek fasulye		254488
+1355		Hindiba		254633
+1356		Lifalif Yulaf Ezmesi	Eti	254799
+1357		Activia	Danone	254873
+1358		Meyveli Yoğurt	Sütaş	254939
+1359		Light Tost Ekmegi	Ekmecik	254992
+1360		Light Yoğurt	Sütaş	255054
+1361		Mini Rulo Pasta	Alpella	255109
+1362		Mocha	Nescafe	255216
+1363		Light Hindi Salam	Pınar	255287
+1364		Hindi Salam	Polonez	255361
+1365		Hindi Salam	Namet	255409
+1366		Sofra Tam Buğday Ekmeği	Uno	255464
+1367		Burçak Sütlü Çikolatalı	Eti	255546
+1368		Kepekli Etli Sandviç	McDonald's	255622
+1369		Yarım Yağlı Süt	Dost	255703
+1370		Sarı Leblebi	Tadım	255756
+1371		İkisi Bir Arada	Nescafe	255812
+1372		Kekstra	Ülker	255887
+1373		Whopper Jr.	Burger King	255966
+1374		Simbat Ayçekirdeği	Bim	256036
+1375		Organik Kuruyemiş Akşam	Mlife	256095
+1376		3 Ü 1 Arada	Nescafe	256150
+1377		Bol Kahve	Nescafe	256225
+1378		Burgu	Barilla	256298
+1379		Light Kaşar	Sütaş	256372
+1380		Light Kaşar	Mis	256435
+1381		Crax	Eti	256485
+1382		Special K Kraker	Ülker	256564
+1383		Balik Kraker	Eti	256633
+1384		Kepekli Grissini	Ülker	256693
+1385		Hardal yeşilliği		256788
+1386		Dondurulmuş yeşil bezelye		256925
+1387		Hindiba Yeşiller		257054
+1388		Karalahana		257185
+1389		Ayçiçeği tohumu petrol kavrulmuş		257323
+1390		Karışık Kuruyemiş petrol kavrulmuş		257463
+1391		Dana karaciğer		257596
+1392		Ayçiçeği tohumları		257721
+1393		Konserve ıspanak		257857
+1394		Şalgam		257984
+1395		Pişmiş fasulye ile domuz eti ve domates sos		258124
+1396		Yayın balığı		258253
+1397		Gökkuşağı alabalığı		258373
+1398		Düşük yağ fıstık ezmesi		258497
+1399		Mısır ekmeği		258617
+1400		Yassı balık		258752
+1401		Somon		258874
+1402		86 kanıtı likör		258995
+1403		Anlık çay		259096
+1404		Beyaz şarap		259237
+1405		Dana döş		259338
+1406		Dana kaburga		259455
+1407		80 kanıtı likör		259571
+1408		Biftek bıçağı kızartma		259670
+1409		Sığır eti yuvarlak		259788
+1410		En iyi sığır filetosu		259905
+1411		Yulaf ezmesi kareler		260026
+1412		Yulaf Kepekli tahıl		260163
+1413		Bir lif		260294
+1414		Toplam üzümlü gevrek		260410
+1415		Akıllı başlangıç tahıl		260534
+1416		Bal tost yulaf		260655
+1417		Vanilya badem		260775
+1418		Fındıklı üzüm Mısır gevreği		260894
+1419		KIX		261025
+1420		Bal fındık chex		261155
+1421		Üzümlü gevrek		261288
+1422		Kuru üzüm kepek gevreği		261422
+1423		Pirinç Mısır gevreği		261552
+1424		Bütün tahıl toplam		261679
+1425		Buğday Mısır gevreği		261801
+1426		Buğday		261924
+1427		Mısır ezmesi		262048
+1428		Domuz ve sığır sosis		262182
+1429		Kakao çakıl		262318
+1430		Çerez cips		262436
+1431		Mısır mısır gevreği		262560
+1432		Tavuk sosis		262684
+1433		Karaciğer sosis		262814
+1434		Önceden pişmiş domuz sosisi		262951
+1435		All-kepekli buğday gevreği		263078
+1436		Kuşkonmaz		263192
+1437		Domuz eti keser		263312
+1438		Zemin domuz		263424
+1439		Domuz pirzolası		263546
+1440		Zemin Türkiye		263655
+1441		Kavrulmuş Tavuk kanadı		263764
+1442		Ekşi krema		263882
+1443		Bebek pirinç tahıl		264008
+1444		Domuz yağı		264129
+1445		Akçaağaç şurubu		264233
+1446		Kireç buz türü		264354
+1447		Kakao tozu		264461
+1448		Peynir Puff		264584
+1449		Portakal şerbeti		264707
+1450		Çizburger		264830
+1451		Erişte		264968
+1452		Yumurta ve sosis ile bisküvi		265099
+1453		Sosisli bisküvi		265233
+1454		Zenginleştirilmiş Mısır unu		265367
+1455		Kahverengi pirinç		265496
+1456		Çiğ beyaz pirinç		265623
+1457		Tam buğday unu		265752
+1458		Tüm amaçlı un		265881
+1459		Beyaz ekmek unu		266012
+1460		Vanilya sandviç kurabiye		266142
+1461		İngiliz çöreği		266273
+1462		Akşam yemeği rulo		266388
+1463		Çikolata pişirme		266509
+1464		Çikolata kaplı fondan		266652
+1465		Işık vanilyalı dondurma		266760
+1466		Buzlu tost böreği		266896
+1467		Duble çizburger		267023
+1468		Domuz eti ile Çin böreği		267160
+1469		Kıyma (75/25)		267289
+1470		Çikolata güç çubuğu		267414
+1471		Bal badem ile yulaf, demet		267533

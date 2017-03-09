@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">MATDAGBOK</string>
+	<string name="CommonItems">Vanliga livsmedel</string>
+	<string name="Delete">Ta bort</string>
+	<string name="EmptyEntryList">Inget är valt</string>
+	<string name="MyRecentItems_Breakfast">Senaste frukost ingredienser</string>
+	<string name="MyRecentItems_Dinner">Senaste middags ingredienser</string>
+	<string name="MyRecentItems_Exercise">Min senaste motion</string>
+	<string name="MyRecentItems_Lunch">Senaste lunch ingredienser</string>
+	<string name="MyRecentItems_Snack">Senaste mellanmåls ingredienser</string>
+	<string name="PageTitle">MATDAGBOK</string>
+	<string name="PageTitleBase">MATDAGBOK- </string>
+	<string name="Period_Breakfast">Frukost</string>
+	<string name="Period_Dinner">Middag</string>
+	<string name="Period_Exercise">Motion</string>
+	<string name="Period_Lunch">Lunch</string>
+	<string name="Period_Snack">Mellanmål</string>
+	<string name="Search">Sök</string>
+	<string name="Today">Idag</string>
+	<string name="StandardProperty_Amount">Mängd</string>
+	<string name="StandardProperty_Calcium">Kalcium</string>
+	<string name="StandardProperty_Calories">Kalorier</string>
+	<string name="StandardProperty_Carbs">Kolhydrater</string>
+	<string name="StandardProperty_Cholesterol">Kolesterol</string>
+	<string name="StandardProperty_Fiber">Fiber</string>
+	<string name="StandardProperty_Iron">Järn</string>
+	<string name="StandardProperty_MonoFat">Enkelomättat fett</string>
+	<string name="StandardProperty_PolyFat">Fleromättat fett</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Mättat fett</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Socker</string>
+	<string name="StandardProperty_TotalFat">Total mängd fett</string>
+	<string name="StandardProperty_VitaminC">C-vitamin</string>
+	<string name="StandardProperty_VitaminD">D-vitamin</string>
+	<string name="StandardProperty_Weight">Vikt</string>
+	<string name="Preferences">Inställningar</string>
+	<string name="EmptySearchList">Ange ett sökord</string>
+	<string name="NewItemSuffix">(ny ingrediens)</string>
+	<string name="NewRecipeSuffix">(nytt recept)</string>
+	<string name="SearchResults">Sökresultat</string>
+	<string name="SearchTermNotFound">{0} hittades inte, pröva att ändra ditt sökord</string>
+	<string name="AcceptNew">Lägg till</string>
+	<string name="Name">Namn</string>
+	<string name="Nutrition">Näringslära</string>
+	<string name="PageTitleItemDetail">MAT INFO</string>
+	<string name="EnterWeight">Ange vikt först</string>
+	<string name="ServingSizes">Portionsstorlek</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Hur mycket\?</string>
+	<string name="MoreOptions">fler alternativ</string>
+	<string name="NoNutritionInfo">Ingen näringsinformation</string>
+	<string name="AddServingSize">Lägg till en portion</string>
+	<string name="Add">Lägg till</string>
+	<string name="SelectDate">Kalender</string>
+	<string name="Advertisement">Annons</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Kopp</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_FluidOunce">Fluid ounce</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Milliliter</string>
+	<string name="Unit_Ounce">Ounce</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Pound">Pound</string>
+	<string name="Unit_Quart">Quart</string>
+	<string name="Unit_Tablespoon">Matsked</string>
+	<string name="Unit_Teaspoon">Tesked</string>
+	<string name="Units_Centiliter">Centiliter</string>
+	<string name="Units_Cup">Koppar</string>
+	<string name="Units_Deciliter">Deciliter</string>
+	<string name="Units_FluidOunce">Fluid ounces</string>
+	<string name="Units_Gallon">Gallons</string>
+	<string name="Units_Gram">Gram</string>
+	<string name="Units_Kilogram">Kilogram</string>
+	<string name="Units_Liter">Liter</string>
+	<string name="Units_Milliliter">Milliliter</string>
+	<string name="Units_Ounce">Ounces</string>
+	<string name="Units_Pint">Pints</string>
+	<string name="Units_Pound">Pounds</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">Matskedar</string>
+	<string name="Units_Teaspoon">Teskedar</string>
+	<string name="DatabaseCulture">sv</string>
+	<string name="FeedbackSubject">E-post från matdagboken</string>
+	<string name="Equivalent">belopp</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">laddar…</string>
+	<string name="ExpiredCaption">Uppdatera nu\?</string>
+	<string name="ExpiredMessage">Tack för att du använder denna App! Giltigheten har gått ut för denna version. Men oroa dig inte, vi tar dig till nedladdningssidan där du kan  uppdatera genom att trycka på Ok.</string>
+	<string name="AgentDescription">Denna funktion uppdaterar Live Ikonen  i matdagboken.</string>
+	<string name="AgentDisabled">Du har avaktiverat Live Ikon  appen  i telefonens inställningar.</string>
+	<string name="PageTitleSettings">Mina inställningar</string>
+	<string name="EnableLiveTile">Räkna saknade måltider på appens ikon</string>
+	<string name="Reminders">Påminnelser</string>
+	<string name="SettingsScreen">Inställningar</string>
+	<string name="PinToStart">Ställ in ikonen</string>
+	<string name="OpenReport">Rapport</string>
+	<string name="Report">Rapport</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Tesked = 4,5 g|Msk = 12 g|1 servering = 28 g|Bit = 14 g|Skiva = 12 g|1 cup = 237 g</string>
+	<string name="TakeAPicture">Ta ett foto</string>
+	<string name="ReviewBody">Tack för att du använder denna App! Lämna en recension om du tycker om appen, och vill att den ska bli framgångsrik.</string>
+	<string name="ReviewTitle">Lämna en recension\?</string>
+	<string name="Goals">Mål</string>
+	<string name="NoGoalSet">Inga mål-set</string>
+	<string name="EndOfDay">Vid dagens slut</string>
+	<string name="ReminderContent">Vad åt du\?</string>
+	<string name="ReminderTitle">Påminnelse: uppdatera din dagbok</string>
+	<string name="ReminderDescription">valda påminnelser visas om du inte har uppdaterat din dagbok vid den valda tiden</string>
+	<string name="ScreenshotTitles">Apelsinjuice, 1 kopp, Toast, 1 skiva, ägg, 1 medium, äpple, kaffe, banan</string>
+	<string name="GoalOver">{0} över mål</string>
+	<string name="GoalUnder">{0} återstår</string>
+	<string name="OpenJournal">Dagbok</string>
+	<string name="RemoveAdsText">Välj OK för att ta bort reklam från appen.</string>
+	<string name="RemoveAdsTitle">Ta bort reklam\?</string>
+	<string name="StoreException">Det var problem med att ansluta till Windows Phone store. Försök igen senare.</string>
+	<string name="Feedback_Email">Rapportera ett problem</string>
+	<string name="Feedback_EmailText">Föreslå en funktion eller ställ en fråga</string>
+	<string name="Feedback_Rate">Betygsätt denna app</string>
+	<string name="Feedback_RateText">Specifik feedback hjälper till att förbättra appen</string>
+	<string name="Feedback_Screenshot">Bidra till att förbättra översättningen</string>
+	<string name="Feedback_ScreenshotText">En skärmbild ingår</string>
+	<string name="Feedback_Share">Dela en länk</string>
+	<string name="Feedback_ShareText">Ladda ner denna app</string>
+	<string name="ScreenshotSubject">Matdagbok text</string>
+	<string name="ShareMessage">Kolla in  Matdagboken för Windows Phone</string>
+	<string name="ShareTitle">Matdagbok</string>
+	<string name="CommonItems_Breakfast">Vanliga frukost ingredienser</string>
+	<string name="CommonItems_Dinner">Vanliga middags ingredienser</string>
+	<string name="CommonItems_Lunch">Vanliga lunch ingredienser</string>
+	<string name="CommonItems_Snack">Vanliga mellanmåls ingredienser</string>
+	<string name="Meals">Måltider</string>
+	<string name="Period_SnackMorning">Morgon</string>
+	<string name="Period_SnackEarlyAfternoon">Tidigt på eftermiddagen</string>
+	<string name="Period_SnackAfternoon">Eftermiddag</string>
+	<string name="Meals_SnackMorningEnabled">Separat morgonfika</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Separat tidig eftermiddags mellanmål</string>
+	<string name="Meals_SnackAfternoonEnabled">Separat eftermiddagsfika</string>
+	<string name="Period_SnackEvening">Kväll</string>
+	<string name="Meals_SnackMidnightEnabled">Separat nattmat</string>
+	<string name="Period_SnackMidnight">Midnatt</string>
+	<string name="Meals_SnacksCombined">Kombinera mellanmål</string>
+	<string name="Meals_SnackEveningEnabled">Separat kvällsnacks</string>
+	<string name="MyRecentItems_SnackAfternoon">Senaste eftermiddags val</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Senaste tidig eftermiddags val</string>
+	<string name="MyRecentItems_SnackEvening">Senaste kvälls val</string>
+	<string name="MyRecentItems_SnackMidnight">Senaste midnatts val</string>
+	<string name="MyRecentItems_SnackMorning">Senaste morgon val</string>
+	<string name="CommonItems_SnackAfternoon">Vanliga eftermiddags val</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Vanliga tidig eftermiddags val</string>
+	<string name="CommonItems_SnackEvening">Vanliga kvälls val</string>
+	<string name="CommonItems_SnackMidnight">Vanliga midnatts val</string>
+	<string name="CommonItems_SnackMorning">Vanliga morgon val</string>
+	<string name="UnlockFullBody">Tack för att du provar den matdagbok. Du har {0} rättegång dagar kvar. Tryck OK för att låsa upp app.</string>
+	<string name="UnlockFullTitle">Låsa upp nu\?</string>
+	<string name="TrialExpiredBody">Din rättegång har nu gått ut. Du kan fortfarande Visa din journal, men du kan inte lägga till nya poster. Välj OK för att låsa upp fullversionen.</string>
+	<string name="Feedback_RemoveAds">Ta bort annonser</string>
+	<string name="Feedback_RemoveAdsText">Ta bort alla annonser permanent</string>
+	<string name="StoreText_5">Hämta nu eftersom du kommer att älska användande den.</string>
+	<string name="AppTitle">Matdagbok</string>
+	<string name="StoreText_4">PREMIUM-FUNKTIONER:
+1. ingen mer reklam.
+2. en mycket större mat databas.
+3. möjlighet att maila dig en kopia av mejeriet.
+4. fler konfigurationsalternativ, inklusive möjligheten att ange upp till 8 separata måltider om dagen.</string>
+	<string name="StoreText_3">FUNKTIONER:
+1. en enkel och kraftfull design: app öppnas direkt på det att skärmen på senaste måltiden, eftersom det är vad du kommer att använda mest. Design gör lägga till poster som enkel och intuitiv som möjligt.
+2. en kran inmatning med personlig förslag: de vanligaste livsmedel omedelbart kan väljas. Start på den andra dagen, föreslås din senaste objekt eftersom du kan äta samma mat ofta.
+3. Logga in behövs inte: inga personuppgifter eller kontaktinformation krävs.
+4. tusentals poster som redan finns i databasen: de flesta livsmedel har korrekt information om gemensamma tjänstgör storlekar, kalorier, kolhydrater, protein och fett. 
+5. fullt off-line stöd: utan att behöva vara ansluten till internet. 
+6. exakta inträde är också lätt: du kan ange det exakta beloppet med ett reglage.
+7. dagliga rapporter: med hjälp av menyn, kan du direkt öppna dagboken, som visar en sammanfattning av din dag. Här kan du växla mellan kalorier, protein och kolhydrater genom att trycka på lilla triangeln.
+8. spåra dina mål: efter in dina personliga mål, kan du använda rapporten vecka för att se din trender. 
+9. personliga påminnelser hjälper dig att hålla på mål: de är ett bekvämt sätt att se till att du fyller i din dagbok, efter varje måltid, eller i slutet av dagen.
+
+Det är en bra idé att kontrollera informationen i databasen är det samma information på din mat förpackningen. mat näring varierar med varumärken och över tiden.
+
+Se till att diskutera dina mål med din läkare eller näring specialist.</string>
+	<string name="StoreText_2">OM APP:
+Att hålla reda på vad du äter har visat för att förebygga och förhindra över-ätande.
+Denna app hjälper dig att kontrollera din kost och äta hälsosammare, genom att göra det enkelt att spåra vad du äter. Designen är optimerad för att göra post så fort som möjligt, med 1 Klicka på posten och de senaste mat förslag. Den inbyggda databasen har redan tusentals livsmedel och om din inte är kända, att lägga till dem är lätt.
+
+Observera: Denna app är gratis att ladda ner, och stöds av annonser. Du kan använda det gratis så länge du vill. Det är möjligt att ta bort annonsen för en avgift, som också kommer att möjliggöra ytterligare funktioner.</string>
+	<string name="StoreText_1">Matdagbok: Din kost och kalori spårning app.</string>
+	<string name="StoreKeyword_5">Näringslära</string>
+	<string name="StoreKeyword_4">Kalorier</string>
+	<string name="StoreKeyword_3">Kost</string>
+	<string name="StoreKeyword_2">Matdagboken</string>
+	<string name="StoreKeyword_1">Kaloriräknare</string>
+	<string name="Screenshot_H3">Banan</string>
+	<string name="Screenshot_H2">Kaffe</string>
+	<string name="Screenshot_H1">Äpple</string>
+	<string name="Screenshot_3a">Ägg</string>
+	<string name="Screenshot_2b">1 skiva</string>
+	<string name="Screenshot_2a">Rostat bröd</string>
+	<string name="Screenshot_1b">1 kopp</string>
+	<string name="Screenshot_1a">Apelsinjuice</string>
+	<string name="Product_2">Tack för ert stöd! Använd alternativet att permanent ta bort annonser från din matdagbok app.</string>
+	<string name="Product_1">Ta bort reklam</string>
+	<string name="CantCalculateNutrition">Ange vikt</string>
+	<string name="TrialExpiredTitle">Utvärderingsperioden  är slut, låsa upp\?</string>
+	<string name="Screenshot_3b">1 mellan</string>
+	<string name="SendFeedback">Om</string>
+	<string name="Feedback_Header">Det snabbaste och enklaste sättet att hålla koll på vad du äter.
+
+Scrolla ner för information om datanoggrannhet.</string>
+	<string name="Feedback_Unlock">Uppgradera nu</string>
+	<string name="Feedback_UnlockText">Köp premium-versionen</string>
+	<string name="EmailReport_SubjectTemplate">Matdagbok för {0}</string>
+	<string name="EmailReport_Exception">Något oväntat gick fel. Journalen skickades inte.</string>
+	<string name="EmailReport_InvalidEmailAddress">Ange en giltig e-postadress.</string>
+	<string name="Total">Totalt</string>
+	<string name="Price">endast {0}</string>
+	<string name="Feature6_Text">Stöd utvecklingen</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+De flesta, men inte alla datapunkter i databasen kommer från välrenommerade källor. Vi gör vårt bästa för att se till att alla värden är korrekta, men ansvarar inte för felaktiga eller saknade data. Näringsvärdena varierar av märket och över tid. Med hjälp av denna app, godkänner du att kontrollera och korrigera data i app, och för att vara fullt ansvariga för skada eller skada på grund av dess användning.
+
+Låt mig veta om det är något jag kan hjälpa dig med.</string>
+	<string name="Feature6_Desc">Bidra till fortsatta uppdateringar av denna app</string>
+	<string name="GetAllFeatures">Få ALLA funktioner</string>
+	<string name="Feature_Header">Ingår:</string>
+	<string name="Feature_Footer">* OBS: De flesta, men inte alla data kommer från vedertagna källor. Genom att köpa premium-versionen, accepterar du fullt ansvar för riktigheten och fullständigheten av uppgifterna. Sänd en e-post till daily.journal@outlook.com för mer uppgifter.</string>
+	<string name="Feature5_Text">Nya funktioner</string>
+	<string name="Feature5_Desc">Alla premium funktioner  i framtida uppdateringar</string>
+	<string name="Feature4_Text">Fler måltider</string>
+	<string name="Feature4_Desc">För att hålla reda på 5, 6 eller fler måltider per dag</string>
+	<string name="Feature3_Text">Mer livsmedel *</string>
+	<string name="Feature3_Desc">Hundra- till tusentals mer mat varor (beroende av plats)</string>
+	<string name="Feature2_Text">E-rapporter</string>
+	<string name="Feature2_Desc">E-posta din journal för att spara, skriva ut, eller analysera den</string>
+	<string name="Feature1_Text">Ingen reklam</string>
+	<string name="Feature1_Desc">Alla annonser tas bort permanent</string>
+	<string name="BuyNow">köp nu</string>
+	<string name="EmailReport_ShowSettings">Skicka e-post</string>
+	<string name="EmailReport_SendNow">skicka nu</string>
+	<string name="EmailReport_Address">E-postadress</string>
+	<string name="Product_4">Få tillgång till alla funktioner</string>
+	<string name="Product_3">Uppgradera till premium</string>
+	<string name="EmailReport_Footer2">OBS: De flesta, men inte alla data i databasen kommer från vedertagna källor. Vi gör vårt bästa för att se till att värdena är korrekta, men ansvarar inte för felaktiga eller saknade data. Genom att använda appen, bekräftar och accepterar du fullt ansvar för att kontrollera riktigheten av uppgifterna. Du har möjlighet att uppdatera appen för att korrigera felaktigeheter.</string>
+	<string name="EmailReport_Footer1">Journal för AAA
+Frågor eller kommentarer\? Svar till BBB</string>
+	<string name="Localization_Submit">Posta kommentar</string>
+	<string name="Localization_TranslationsText">Uppdatera texterna i den här listan med bättre översättningar. Ta bort all text för artiklar som är olämpliga för din region.</string>
+	<string name="Localization_ThankYou">Tack för din hjälp!</string>
+	<string name="Localization_Translations">Översättningar</string>
+	<string name="Localization_Text">Här kan du bidra till att förbättra denna app.</string>
+	<string name="Localization_Original">Original:</string>
+	<string name="Localization_Good">Bra:</string>
+	<string name="Localization_Description">Beskrivning:</string>
+	<string name="Feedback_LocalizeText">Bidra till att förbättra appen</string>
+	<string name="Localization_CommentText">Ange din e-postadress om du vill bli kontaktad.</string>
+	<string name="Localization_Comment">Kommentera</string>
+	<string name="Feedback_Localize">Förbättra översättningen</string>
+	<string name="AddToLauncher">Lägg till i launcher</string>
+	<string name="Avg">Genomsnittligt</string>
+	<string name="Cancel">Avbryt</string>
+	<string name="CopyFromSimilarItem">Kopiera från liknande val</string>
+	<string name="DeleteEntry">Ta bort inmatning</string>
+	<string name="EnterTheWeightForThisAmount">Ange vikten för denna mängd</string>
+	<string name="MoreOptions2">Fler alternativ</string>
+	<string name="None">Ingen</string>
+	<string name="Ok">Okej</string>
+	<string name="OneDaySalePctOff">1 dags rea: {0} % rabatt</string>
+	<string name="Total2">Totalt</string>
+	<string name="EmailReport_Footer1a">Dagbok för AAA</string>
+	<string name="EmailReport_Footer1b">Frågor eller kommentarer\? Svar till BBB</string>
+	<string name="Add_New">NYTT OBJEKT</string>
+	<string name="Add_Note">LÄGGA TILL EN ANTECKNING</string>
+	<string name="add_target">LÄGG TILL NÄRING</string>
+	<string name="choose_time">Ställ in tid</string>
+	<string name="daily_target">Nutrition</string>
+	<string name="daily_target_hint">Dagliga mål (valfritt)</string>
+	<string name="describe_goal">Beskriv ditt mål här</string>
+	<string name="drawer_close">Stäng</string>
+	<string name="drawer_open">Öppen</string>
+	<string name="edit_meals">VÄLJA MÅLTIDER</string>
+	<string name="enter_meal_time">Ange tid för varje måltid</string>
+	<string name="enter_serving_weight">Ange vikt (g) först</string>
+	<string name="enter_value">Ange näring</string>
+	<string name="get_started">Komma igång!</string>
+	<string name="get_started_second_text">Tryck på "+" för att lägga till en post i din journal.</string>
+	<string name="Input_Notes">Skriv in dina anteckningar här</string>
+	<string name="meal_options">Måltid alternativ</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Personliga mål</string>
+	<string name="Per_Cup">1 kopp (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">portion</string>
+	<string name="RadioButton_Alpha">alfabetiskt NOTYETUSED</string>
+	<string name="RadioButton_Sort">sortera efter historia NOTYETUSED</string>
+	<string name="Serving">Som serverar</string>
+	<string name="Show_More_Options">FLER ALTERNATIV</string>
+	<string name="show_total_with_meal">Visa en kost mål</string>
+	<string name="target_date">Måldatum</string>
+	<string name="target_date_hint">Välj din måldatum</string>
+	<string name="transition_name_circle">övergången: cirkeln</string>
+	<string name="transition_name_name">övergången: namn</string>
+	<string name="transition_name_phone">övergången: telefon</string>
+	<string name="Type_Name">Sök</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metriska enheter</string>
+	<string name="Units_US">USA-enheter</string>
+	<string name="Upgrade">Uppgradera</string>
+	<string name="weight_gram">vikt (g)</string>
+	<string name="InvalidEmailError">Ogiltig e-postadress</string>
+	<string name="NoGoalsTitle">Alla poster</string>
+	<string name="SendReportTitle">Skicka rapport</string>
+	<string name="DeleteEntryMessage">Ta bort denna post\?</string>
+	<string name="NewBody">Många förbättringar ingår: anteckningar, mer mat, bättre design och mycket mer.
+Hämta gratis\?</string>
+	<string name="NewTitle">Version 2.0 finns nu!</string>
+</resources>

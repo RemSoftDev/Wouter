@@ -1,0 +1,392 @@
+﻿Row	Meal	Name	Pos
+0	B	Kaffe	33
+1	B	Brød	153
+2	B	Banan	407
+3	B	Kaffe	701
+4	L	Brød	830
+5	S	Te	1084
+6	B	Te	1192
+7	B	Banan	1300
+8	D	Brød	1538
+9	B	Havremel	1792
+10	B	Lav fett fruktyoghurt	1918
+11	L	Tomat	2020
+12	D	Hvit ris	2242
+13	B	Hel-hvete brød	2351
+14	D	Gulrot	2547
+15	S	Kjeks	2765
+16	B	Kaffe	2923
+17	D	Tomat	3053
+18	L	Hvit ris	3319
+19	S	Kaffe	3428
+20	S	Lav fett fruktyoghurt	3549
+21	L	Tomat	3651
+22	S	Brød	3917
+23	B	Banan	4172
+24	D	Løk	4418
+25	D	Kylling	4700
+26	B	Lav fett fruktyoghurt	4823
+27	D	Cheddarost	4991
+28	S	Banan	5176
+29	B	1% melk	5471
+30	B	Cheddarost	5620
+31	S	Banan	5805
+32	L	Hvit ris	6044
+33	D	Rødvin	6154
+34	B	Kaffe	6214
+35	L	Gulrot	6309
+36	B	Brød	6527
+37	L	Kylling	6759
+38	S	Oransje	6845
+39	L	Lav fett fruktyoghurt	7006
+40	B	Oransje	7172
+41	B	Havre	7333
+42	B	Fransk brød	7455
+43	B	Banan	7625
+44	B	Brød	7906
+45	L	Bakte bønner	8095
+46	D	Tomat	8154
+47	B	Cheddarost	8376
+48	L	Banan	8489
+49	L	Cheddarost	8784
+50	B	Pulverkaffe	8969
+51	D	Rødvin	9037
+52	D	Tomat	9099
+53	L	Olivenolje	9366
+54	L	Tomat	9459
+55	L	Oransje	9668
+56	D	Kyllingbryst	9829
+57	L	Te	9930
+58	L	Tomat	10039
+59	L	Brød	10306
+60	B	Banan	10538
+61		Kremost	10819
+62		Parmesanost	11010
+63		Sveitsisk ost	11146
+64		Amerikansk ost	11336
+65		Amerikansk ost	11532
+66		Kremost	11726
+67		Todeling	11872
+68		Lys krem	12006
+69		Tunge kremfløte	12163
+70		Saltet smør	12300
+71		Smør	12455
+72		Olje	12610
+73		Cheddarost	12752
+74		Rømme	12944
+75		Krem erstatning pulver	13068
+76		Helmelk	13220
+77		2% melk	13377
+78		1% melk	13533
+79		Tørr melk	13689
+80		Hele sjokolademelk	13818
+81		Sjokolademelk	13980
+82		Sjokolade lettmelk	14139
+83		Lav fett vanilje yoghurt	14295
+84		Lav fett fruktyoghurt	14467
+85		Eggeplomme	14642
+86		Speilegg	14788
+87		Ostesaus	14970
+88		Lite fett cheddarost	15108
+89		Lys lav fett fruktyoghurt	15292
+90		Krem erstatning	15463
+91		Forsterkede lav fett fruktyoghurt	15612
+92		Lys befestet lav fett fruktyoghurt	15789
+93		Sennep	15962
+94		Smult	16094
+95		Peanøttolje	16196
+96		Soyaolje	16318
+97		Olivenolje	16446
+98		Lav fett vegetabilsk olje spre	16576
+99		Maisolje	16725
+100		Rapsolje	16852
+101		Margarin	16979
+102		Vegetabilsk olje spre	17127
+103		Vegetabilsk olje	17269
+104		Industrielle soyaolje	17401
+105		Kokosolje	17529
+106		Kylling	17657
+107		Panert	17804
+108		Kylling	17956
+109		Stekt kylling	18099
+110		Stekt kyllingkjøtt	18250
+111		Stuet kylling	18396
+112		Kylling lever	18542
+113		Kyllingbryst med hud	18667
+114		Panert kyllingbryst	18784
+115		Stekt kylling bryst	18907
+116		Kyllingbryst kjøtt	19023
+117		Kyllingbryst	19145
+118		Kylling lår	19262
+119		Kylling vinge	19414
+120		Stekt kylling vinge	19550
+121		Stekt kalkun	19667
+122		Stekt kalkunkjøtt	19805
+123		Bakken Tyrkia	19939
+124		Biff kjøttkraft	20047
+125		Kylling nudelsuppe	20194
+126		Kremen av sopp suppe	20350
+127		Saus	20506
+128		Barbecue-saus	20644
+129		Biff lager	20782
+130		Kylling lager	20936
+131		Blåskjellsuppe	21092
+132		Kylling buljong	21254
+133		Leveren pølse	21405
+134		Kylling pølse	21541
+135		Lunsjen kjøtt	21670
+136		Pølse	21822
+137		Svinekjøtt og oksekjøtt pølse	21950
+138		Kalkun bryst	22085
+139		Italiensk pølse	22272
+140		Ferdiglaget pølse	22428
+141		Apple-kontakter	22557
+142		Lue'n	22677
+143		Kakao småstein	22808
+144		Korn chex	22928
+145		Alle-kli hvete flak	23045
+146		Kli flak	23161
+147		Fruktig småstein	23286
+148		Drue-nøtter frokostblanding	23401
+149		KIX	23534
+150		Heldig sjarm	23666
+151		Honning mutter chex	23801
+152		Rosin kli	23936
+153		Rosin kli frokostblandinger	24063
+154		Ris chex	24186
+155		Frostet flak	24306
+156		Fullkorn totalt	24433
+157		Hvete chex	24557
+158		Havre	24682
+159		Havremel	24816
+160		Havre med kanel og krydder	24955
+161		Havre med rosiner og krydder	25094
+162		Havremel ruter	25237
+163		Havre kli frokostblandinger	25367
+164		Totalt rosin kli	25500
+165		Honning ristet havre	25617
+166		Vanilje mandelmelk	25739
+167		Eplejuice	25860
+168		Avokado	26016
+169		Banan	26180
+170		Blåbær	26483
+171		Druer	26631
+172		Oransje	26785
+173		Fersk appelsinjuice	26958
+174		Appelsinjuice konsentrat	27110
+175		Appelsinjuice med kalsium	27269
+176		Frossen appelsinjuice konsentrat	27429
+177		Fersken	27592
+178		Pære	27791
+179		Ananas	27981
+180		Rosiner	28211
+181		Jordbær	28408
+182		Frosne jordbær	28693
+183		Vannmelon	28982
+184		Grillet fett på svinekam	29203
+185		Svinekoteletter	29310
+186		Skinke	29418
+187		Stekt fett på skinke	29564
+188		Stekt skinke	29698
+189		Ekstra mager skinke	29830
+190		Ekstra mager stekt skinke	29977
+191		Svinekjøtt kutt	30124
+192		Hakket svinekjøtt	30235
+193		Skinke med naturlig juice	30359
+194		Skinke og vann	30514
+195		Skinke - vann lagt	30665
+196		Asparges	30819
+197		Grønne snapin-bønner	30924
+198		Hermetisk grønne bønner	31061
+199		Frosne grønne snapin-bønner	31235
+200		Rå brokkoli	31370
+201		Brokkoli	31630
+202		Hakket brokkoli	31889
+203		Frosne brokkoli	32147
+204		Rå kål	32405
+205		Kål	32701
+206		Gulrot	32995
+207		Kokt gulrot	33221
+208		Frosne gulrot	33445
+209		Selleri	33671
+210		Sikori greener	33931
+211		Korn	34056
+212		Hermetisk gule korn	34296
+213		Frosne korn	34446
+214		Agurk	34686
+215		Isbergsalat	34925
+216		Grønn salat	35217
+217		Hvit sopp	35509
+218		Sennep greener	35640
+219		Løk	35771
+220		Kokt løk	36061
+221		Vårløk	36354
+222		Persille	36557
+223		Erter	36699
+224		Hermetisk erter	36813
+225		Frosne erter	36927
+226		Potet	37041
+227		Bakt potet	37268
+228		Potet i huden	37492
+229		Kokte poteter	37715
+230		Potetmos	37939
+231		Ovnen pommes frites	38066
+232		Rå spinat	38263
+233		Kokt spinat	38443
+234		Hermetisk spinat	38557
+235		Bakt søtpotet	38669
+236		Søtpotet	38820
+237		Tomat	38967
+238		Kokte tomater	39292
+239		Salat av syltet tomat	39568
+240		Hermetisk stuet tomater	39748
+241		Tomatjuice	40022
+242		Tomatpuré	40183
+243		Hermetisk tomatsaus	40334
+244		Nepe greener	40483
+245		Hermetisert grønnsaker	40617
+246		Blandede grønnsaker	40777
+247		Hermetisk søtpotet	40890
+248		Hermetisk gulrotjuice	41039
+249		Bakt potet med huden	41198
+250		Tomatpuré	41424
+251		Velsmak	41577
+252		Solsikkefrø	41727
+253		Stekt solsikkefrø	41856
+254		Mandler	41986
+255		Forvellet mandler	42187
+256		Brente mandler	42375
+257		Valnøtt	42562
+258		Olje stekt solsikkefrø	42734
+259		Saltet brente mandler	42867
+260		Cashewnøtter	43056
+261		Blandede nøtter	43204
+262		Olje stekt nøtter	43330
+263		Biff lever	43462
+264		Biff lever	43586
+265		Biff brystkasse	43710
+266		Biff ribbein	43827
+267		Biff	43943
+268		Biff blad stekt	44144
+269		Biff ribbein	44262
+270		Biff ribbein	44381
+271		Biff runde	44503
+272		Toppen runde biff	44620
+273		Toppen runde biff	44743
+274		Toppen mørbrad	44860
+275		Toppen mørbrad	44981
+276		Øl	45098
+277		Lys øl	45232
+278		80 bevis brennevin	45363
+279		Rødvin	45445
+280		Hvitvin	45537
+281		Ingefærøl	45627
+282		Sitron brus	45753
+283		Rot øl	45886
+284		Sjokolade sirup	46014
+285		Koffeinfri kaffe	46136
+286		Kaffe	46273
+287		Pulverkaffe	46418
+288		Hermetisk frukt drikke	46544
+289		Beriket frukt drikke	46677
+290		Brus	46821
+291		Koffeinfri kaffe	46974
+292		Te	47115
+293		Vann fra springen	47256
+294		86 bevis brennevin	47379
+295		Flaskevann	47463
+296		Fisken kjepper	47587
+297		Sild	47769
+298		Laks	48019
+299		Hermetisk lys tunfisk	48138
+300		Krabbe	48282
+301		Reker	48403
+302		Hermetisk reker	48548
+303		Muslinger	48693
+304		Hermetisk muslinger	48878
+305		Østers	49067
+306		Steinbit	49188
+307		Regnbueørret	49306
+308		Bakte bønner	49428
+309		Bakte bønner med frankere	49552
+310		Svarte bønner	49678
+311		Boks røde kidneybønner	49814
+312		Røde kidneybønner	49946
+313		Hvite bønner	50092
+314		Linser	50225
+315		Kokte linser	50367
+316		Saltet peanøtter	50502
+317		Stekt saltet peanøtter	50652
+318		Soyasaus	50798
+319		Redusert fett peanøttsmør	50964
+320		Ristede peanøtter	51083
+321		Kjeks	51227
+322		Kjeks	51393
+323		Maiskaker	51565
+324		Fransk brød	51699
+325		Italiensk brød	51935
+326		Multi-korn brød	52140
+327		Rugbrød	52401
+328		Brød	52659
+329		Loff	52922
+330		Loff	53182
+331		Hel-hvete brød	53434
+332		Brødsmuler	53693
+333		Sjokoladekake	53825
+334		Svamp kake	53959
+335		Ostekake	54091
+336		Sjokoladekjeks	54236
+337		Ost sprakk	54398
+338		Sprakk	54569
+339		Kjeks med peanøttsmør	54736
+340		Hvete sprakk	54907
+341		Gammeldags bolle	55075
+342		Hjuldiagrammer	55317
+343		Engelsk muffins	55564
+344		Pannekake	55678
+345		Eplepai	55847
+346		Gresskar pai	55991
+347		Bakepulver	56138
+348		Gjær	56254
+349		Vaffel	56397
+350		Frostet brødrister kringle	56530
+351		Hvit tortillachips	56658
+352		Karameller	56793
+353		Bakervarer sjokolade	56939
+354		Lys vaniljeis	57057
+355		Rik vaniljeis	57177
+356		Vaniljeis	57291
+357		Appelsin sorbet	57406
+358		Gelédropsene	57513
+359		Melkesjokolade	57678
+360		M & Ms	57794
+361		Kakao	57964
+362		Sjokolade iskrem	58086
+363		Honning	58198
+364		Gelé	58302
+365		Brunt sukker	58444
+366		Sukker	58585
+367		Melis	58718
+368		Lønnesirup	58817
+369		Lønnesirup	58937
+370		Sjetonger	59045
+371		Redusert fett sjetonger	59187
+372		Brun ris	59322
+373		Rå hvit ris	59442
+374		Hvit ris	59564
+375		Hele korn mel	59685
+376		Alle mel	59807
+377		Hvitt brød mel	59931
+378		Kaken mel	60054
+379		Makaroni	60176
+380		Nudler	60296
+381		Kjeks med pølse	60420
+382		Frites	60553
+383		Kylling anbud	60749
+384		Kjøttdeig (75/25)	60880
+385		Gul tortillachips	60999
+386		Redusert fett ost	61136
+387		Hvit sjetonger	61324
+388		Lav fett amerikansk ost	61455
+389		Tranebærjuice	61642
+390		Lav fett sveitserost	61796

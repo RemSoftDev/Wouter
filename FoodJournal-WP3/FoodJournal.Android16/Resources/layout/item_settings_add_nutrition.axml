@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nutrition_button"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        style="@style/AppTheme"
+        android:id="@+id/text_button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingLeft="@dimen/show_more"
+        android:paddingStart="@dimen/show_more"
+        android:paddingRight="@dimen/show_more"
+        android:paddingEnd="@dimen/show_more"
+        android:paddingTop="@dimen/margin_standard"
+        android:paddingBottom="@dimen/show_more_serving_bottom"
+        android:text="@string/add_target"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/accent"
+        android:textStyle="bold" />
+</LinearLayout>

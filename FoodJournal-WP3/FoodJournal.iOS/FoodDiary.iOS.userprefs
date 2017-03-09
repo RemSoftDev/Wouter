@@ -1,0 +1,81 @@
+﻿<Properties StartupItem="FoodDiary2/FoodDiary2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodDiary2/Controllers/FDSelectItemVC/FDSelectItemVCSource.cs">
+    <Files>
+      <File FileName="FoodDiary2/Platform/Bind.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/ViewModels/SettingsVM.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/UI/VMBase.cs" Line="20" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Platform.cs" Line="48" Column="14" />
+      <File FileName="FoodDiary2/Common/Model/UserSettings.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/LocalStorage.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Values/Amount.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/FDSettingsDataSource.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/Cache.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/Data/FoodJournalDataModel.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/Data/FoodJournalDB.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/NoSQL/FoodJournalNoSQL.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/FoodItem.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/ServingSizeCollection.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/PropertyDictionary.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Data/SQLite.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Logging/SessionLog.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Values/Property.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Data/SyncQueue.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Service References/Reference.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Service References/Services.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/Service References/SyncService.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/AppStats.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/AppModel/CultureSettings.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/ResourceData/ResourceSearch2Enumerator.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/ViewModels/SearchVM.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/ViewModels/SearchResultVM.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/FDSettingsVC.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Model/Entry.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Search/SearchWorkers.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/Extensions/Strings.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Common/ViewModels/GoalsVM.cs" Line="20" Column="33" />
+      <File FileName="FoodDiary2/Common/ViewModels/Fragments/GoalLineVM.cs" Line="13" Column="43" />
+      <File FileName="FoodDiary2/Controllers/GoalsController/FDGoalsVC.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/GoalsController/FDGoalsVC.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/FDSettingsVC.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/NutritionCell.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/AppDelegate.cs" Line="19" Column="4" />
+      <File FileName="FoodDiary2/Controllers/RootViewController.cs" Line="12" Column="49" />
+      <File FileName="FoodDiary2/Controllers/SideBarController/SlideBarController.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddSettingsItemCell.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddSettingsItemCell.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddNutritionController.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddNutritionController.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SideBarController/SideBarDataSource.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/AppResources.cs" Line="68" Column="106" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddMealController.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/AddMealController.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Localization/Resources.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Resources/Base.lproj/Localizable.strings" Line="155" Column="25" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/MealShowCell.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/MealCell.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/MealShowCell.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/MainViewController/FDMainDataSource.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/GoalsController/FDGoalsDataSource.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/FDSelectItemVC/FDSelectItemVCSource.cs" Line="95" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/ShowTotalModel.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/MealCell.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/SettingsController/NutritionCell.designer.cs" Line="1" Column="1" />
+      <File FileName="FoodDiary2/Controllers/MainViewController/FDMainVC.cs" Line="45" Column="10" />
+      <File FileName="FoodDiary2/Common/Runtime/NavigationContext.cs" Line="109" Column="43" />
+      <File FileName="FoodDiary2/Common/ViewModels/Fragments/IAcceptsNewEntry.cs" Line="8" Column="29" />
+      <File FileName="FoodDiary2/Controllers/FDSelectItemVC/FDSelectItemVC.cs" Line="27" Column="32" />
+      <File FileName="FoodDiary2/Common/ViewModels/PeriodVM.cs" Line="292" Column="22" />
+      <File FileName="FoodDiary2/Common/ViewModels/EntryRowVM.cs" Line="36" Column="4" />
+      <File FileName="FoodDiary2/Main.cs" Line="12" Column="1" />
+      <File FileName="FoodDiary2/Controllers/FDSelectItemVC/FDSelectItemVC.designer.cs" Line="39" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Projects/FoodJournal-WP3/FoodDiary.iOS/FoodDiary.iOS/Controllers/MainViewController/FDMainVC.cs" line="38" column="1" />
+      <Breakpoint file="/Users/denissugakov/FoodJournal2/foodjournal/FoodJournal-WP3/FoodJournal.iOS/FoodDiary2/Common/ViewModels/PeriodVM.cs" line="292" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

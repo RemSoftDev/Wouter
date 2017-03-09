@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="FoodJournal.Views.ServingSizes"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480">
+
+    <StackPanel x:Name="LayoutRoot" Background="{StaticResource PhoneBackgroundBrush}">
+        <ItemsControl x:Name="AmountsList" ItemsSource="{Binding Amounts}" MaxHeight="{Binding MaxHeight}" Width="456">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <RadioButton Visibility="{Binding NotCheckedVisibility}" Content="{Binding Text}" IsChecked="{Binding IsChecked, Mode=TwoWay}" />
+
+                        <StackPanel Visibility="{Binding CheckedVisibility}" Orientation="Horizontal">
+                            <RadioButton Visibility="{Binding DeleteVisibility}" IsChecked="True" Margin="0,0,-24,0"/>
+                            <TextBox Margin="0,0,0,0" Text="{Binding Text, Mode=TwoWay}" InputScope="Text" Width="{Binding TextWidth}" GotFocus="Text_GotFocus" />
+                            <Button Margin="-12,0,0,0" Tap="DeleteAmountTap" Visibility="{Binding DeleteVisibility}" Style="{StaticResource PlainButtonStyle}" HorizontalAlignment="Right">
+                                <TextBlock Text="&#x2715;" Margin="0" Style="{StaticResource PhoneTextNormalStyle}" FontFamily="Segoe UI Symbol"/>
+                            </Button>
+                        </StackPanel>
+
+                        <StackPanel Visibility="{Binding EquivalentSectionVisibility}" Orientation="Horizontal">
+                            <TextBlock Text="=" Width="30" Style="{StaticResource PhoneTextLargeStyle}" VerticalAlignment="Center"/>
+                            <TextBox Text="{Binding EquivalentNumber, Mode=TwoWay}" Width="120" InputScope="Digits"/>
+                            <TextBlock Text="{Binding Gram}" Style="{StaticResource PhoneTextNormalStyle}" VerticalAlignment="Center"/>
+                        </StackPanel>
+
+                        <Slider Visibility="{Binding CheckedVisibility}" Value="{Binding SliderValue, Mode=TwoWay}" Maximum="2" SmallChange=".25" LargeChange="1" Width="456" HorizontalAlignment="Left" LostMouseCapture="Slider_LostMouseCapture" />
+
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <Button Visibility="{Binding MoreOptionsVisibility}" Tap="MoreOptionsTap" Style="{StaticResource ButtonStyle}" Content="{Binding Path=Strings.MoreOptions, Source={StaticResource LocalizedStrings}}"/>
+
+    </StackPanel>
+</UserControl>

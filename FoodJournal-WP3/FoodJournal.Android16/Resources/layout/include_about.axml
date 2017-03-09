@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/addItemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mdtp_white"
+    android:orientation="vertical"
+    tools:context="com.uidesgin.AddItem">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SendFeedback"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/abc_primary_text_material_light"
+        style="@style/AppTheme" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/StoreText_2"
+        android:layout_margin="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/abc_secondary_text_material_light"
+        style="@style/AppTheme" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_upgrade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_flag" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Upgrade"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_UnlockText"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_premiumpurchased"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_flag"
+            android:id="@+id/imageView2" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:id="@+id/linearLayout2">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="You have the premium version"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme"
+                android:id="@+id/textView3" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thank you for your purchase!"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme"
+                android:id="@+id/textView4" />
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_report" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_Email"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_EmailText"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_star" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_Rate"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rate us"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_share" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_Share"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Feedback_ShareText"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+        </LinearLayout>
+    </LinearLayout>
+  <!--
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+    <LinearLayout
+        android:id="@+id/layout_about_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:src="@drawable/ic_deletedata" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/activity_horizontal_margin">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Delete_Database"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_primary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Delete_DatabaseText"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+        </LinearLayout>
+    </LinearLayout> -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:background="@color/button_material_dark" />
+</LinearLayout>

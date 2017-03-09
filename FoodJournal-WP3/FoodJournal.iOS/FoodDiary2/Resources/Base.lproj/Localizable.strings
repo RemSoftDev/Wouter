@@ -1,0 +1,155 @@
+﻿
+/* 
+  Localizable.strings
+  FoodDiary
+
+  Created by Kirti Parghi on 8/30/15.
+  Copyright (c) 2015 Kirti Parghi. All rights reserved.
+*/
+
+/* SELECT ITEM SCREEN */
+"Select_Item_To_Add"="Select Item To Add";
+"Search"="Search";
+"Sort_by_history"="Sort by history";
+"Sort_alphabetically"="Sort alphabetically";
+"Cancel"="Cancel";
+
+/* ADD ITEM SCREEN */
+New_Item="New Item";
+Done="Done";
+Item_Name="Item Name";
+Input_Item_Name="Input Item Name";
+Serving="SERVING";
+Portion="Portion";
+Grams="Grams";
+Show_More_Portions="Show More Portions";
+Nutrition="NUTRITION";
+Per_Hundred_grams="Per 100 grams";
+Per_One_Cup_TwoFiftygrams="Per 1 Cup (250grams)";
+Calories="Calories";
+Fat="Fat";
+Carbs="Carbs";
+Protein="Protein";
+Copy_From_Similar_Item="Copy From Similar Item";
+Add_New_Serving="Add New Serving";
+
+/* SELECT TO COPY SCREEN */
+Select_To_Copy="Select To Copy";
+Coffee_with_milk="Coffee with milk";
+Tea="Tea";
+Juice="Juice";
+Decaffeinated_coffee_with_cream="Decaffeinated coffee with cream";
+Green_Tea="Green Tea";
+
+/* MENU SCREEN */
+"Menu"="Menu";
+"Today"="Today";
+"Journal"="Journal";
+"Report"="Report";
+"Goals"="Goals";
+"Settings"="Settings";
+"About_And_Info"="About & Info";
+
+/* GOAL SCREEN */
+Description_of_the_goal="DESCRIPTION OF THE GOAL";
+Input_your_description="Input your description";
+Target_Date="Target Date";
+Daily_Targets="DAILY TARGETS";
+Daily_Number="Daily Number";
+Add_Target="Add Target";
+
+/* SELECT TARGET TO ADD SCREEN */
+Select_Target_To_Add="Select Target To Add";
+Sodium="Sodium";
+
+/* TODAY SCREEN */
+Today="Today";
+Total_Calories="Total Calories";
+Notes="Notes";
+Input_Notes="Input Notes";
+Period_Breakfast="Breakfast";
+"Period_Lunch"="Lunch";
+Period_Dinner="Dinner";
+Period_Exercise="Exercise";
+Period_Snack="Snack";
+firstSnack="1st snack";
+secondSnack="2nd snack";
+
+
+"Period_SnackMorning"="Morning";
+"Period_SnackEarlyAfternoon"="Early afternoon";
+"Period_SnackAfternoon"="Afternoon";
+"Period_SnackEvening"="Evening";
+"Period_SnackMidnight"="Midnight";
+
+/* SETTINGS SCREEN */
+Settings="Settings";
+Choose_Which_Information_Enter_In_Today_Screen="CHOOSE WHICH INFORMATION ENTER IN TODAY SCREEN";
+Meal_Time="Meal Time";
+Show_Total="Show Total";
+Units_Of_Measure="UNITS OF MEASURE";
+Kj="Kj";
+Metric="Metric";
+US_Units="US Units";
+Meals="MEALS";
+Input_Meal_Name="Input Meal Name";
+Add_Meal="Add Meal";
+Add_Reminder="Add Reminder";
+"Add_Nutrition"="Add Nutrition";
+Only_activate_if_you_forgot_to_open_the_journal="Only activate if you forgot to open the journal";
+Reminders="REMINDERS";
+
+/* ABOUT SCREEN */
+About_and_info="About & Info";
+About="About";
+You_have_premium="You have premium version! Thank you for your purchase.";
+Upgrade="Upgrade";
+Buy_the_premium_version="Buy the premium version";
+Report_a_Problem="Report a Problem";
+Or_Suggest="or suggest a feature or ask a question";
+Rate_This_App="Rate This App";
+Specific_feedback="Specific feedback helps improve the app";
+Share_a_Link="Share a Link";
+To_download="To download this app";
+
+/* JOURNAL SCREEN */
+Send_Week="Send Week";
+Journal="Journal";
+
+/* SEND WEEK/DAY REPORT SCREEN */
+Send_Week_Report="Send Week Report";
+Send_Day_Report="Send Day Report";
+email="EMAIL";
+report="REPORT";
+Input_Email="Input Email";
+
+/* REPORT SCREEN */
+Report="Report";
+FirstSnack="1st Snack";
+SecondSnack="2nd Snack";
+ThirdSnack="3d Snack";
+"StandardProperty_Amount"="Amount";
+"StandardProperty_Calcium"="Calcium";
+"StandardProperty_Calories"="Calories";
+"StandardProperty_Carbs"="Carbs";
+"StandardProperty_Cholesterol"="Cholesterol";
+"StandardProperty_Fiber"="Fiber";
+"StandardProperty_Iron"="Iron";
+"StandardProperty_MonoFat"="Monounsaturated fat";
+"StandardProperty_PolyFat"="Polyunsaturated fat";
+"StandardProperty_Potassium"="Potassium";
+"StandardProperty_Protein"="Protein";
+"StandardProperty_SatFat"="Saturated fat";
+"StandardProperty_Sodium"="Sodium";
+"StandardProperty_Sugar"="Sugar";
+"StandardProperty_TotalFat"="Total fat";
+"StandardProperty_VitaminC"="Vitamin C";
+"StandardProperty_VitaminD"="Vitamin D";
+"StandardProperty_Weight"="Weight";
+"Show a nutrition target"="Show a nutrition target";
+"enter_meal_time" = "Enter time for every meal";
+"ADD_A_REMINDER" = "Add a Reminder";
+
+"FeedbackSubject"="E-mail from Food Diary";
+"Today"="Today";
+"SelectDate"="Calendar";

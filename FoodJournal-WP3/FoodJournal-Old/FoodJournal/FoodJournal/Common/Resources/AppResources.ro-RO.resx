@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ro-RO</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>JURNAL ALIMENTAR</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Elemente comune</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Șterge</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Nimic selectat</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Produse recente de mic dejun</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Produse recente de cină</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Exercițiile mele recente</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Produse recente de prânz</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Produse recente de gustare</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>JURNAL ALIMENTAR</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>JURNAL ALIMENTAR- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Mic dejun</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Cină</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Exerciții</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Prânz</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Gustare</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Căutare</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Azi</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Cantitate</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Calciu</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Calorii</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Carbohidrați</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Colesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Fibră</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Fier</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Grăsimi mononesăturate</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Grăsimi polinesăturate</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Potasiu</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Proteine</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Grăsimi săturate</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Sodiu</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Zahăr</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Total grăsimi</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamina C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamina D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Greutate</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Preferințe</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Introdu un termen de căutare</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value>(produs nou)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (reţetă nouă)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Rezultatele căutării</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} nu a fost găsit, încearcă cu schimbarea termenului de căutare</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Adăugare</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Numele</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Nutriție</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>INFORMAȚII DESPRE ALIMENTE</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Te rugăm să introduci greutatea prima dată</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Porție</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Cât?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>mai multe opțiuni</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Nu există informaţii de nutriţie</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Adaugă o porție</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Adăugare</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Calendar</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Reclamă</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centilitru</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Ceașcă</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Decilitru</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Uncie lichidă</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litru</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Mililitru</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Uncie</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Halbă</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Livră</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Sfert de galon</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Lingură</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Linguriță</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centilitri</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Cupe</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Decalitri</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Uncii fluide</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galoane</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Grame</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilograme</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litri</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililitri</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Uncii</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Halbe</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Livre</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Litri</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Linguri</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Lingurițe</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>ro</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-mail de la Jurnalul Alimentar.</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Cantitate</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>se încarcă...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Actualizezi acum?</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Mulţumim pentru folosirea aplicației! Această copie este expirat acum. Dar să nu faci griji, dacă apești butonul OK, te vom duce la pagina de download unde o poți actualiza.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Această activitate actualizează Plăcile Vii pentru Jurnalul Alimentar.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Ai dezactivat aplicarea Plăcilor Vii în setările telefonului.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Preferinţele mele</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Numără mesele lipsă de pe plăcile aplicației</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Mementouri</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Setări</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Configurarea plăcilor</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Raport</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Raport</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Lingurita = 4.5 g|Lingura = 12 g|1 portie = 28 g|Bucata = 14 g|Felie = 12 g|1 Cupa = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Fotografiere</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Mulţumim pentru folosirea acestei aplicații! Dacă ți se pare utilă, te rugăm să ajuți să devină de succes cu părtășirea opiniei tale.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Vrei să lași un comentariu?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Ținte</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Nici un set de obiectiv</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>La sfârşitul zilei</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Ce ai mâncat?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Memento: Actualizează jurnalul tău</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>Mementourile selectate apar dacă nu ai actualizat jurnalul tău în timpul selectat.</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Suc de portocale, 1 ceasca, paine prajita, 1 felie, ou, 1 mediu, mere, cafea, banane</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>Cu {0} peste țintă</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} a rămas.</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Jurnal</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Selectează OK pentru a elimina reclamele din aplicație.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Eliminezi reclamele?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>A fost o problemă la conectarea la magazinul de Windows Phone. Te rugăm să încerci din nou mai târziu.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Raportează o problemă</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Sugerează o funcție sau pune o întrebare</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Evaluează această aplicație</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Feedback-ul specific ajută la îmbunătăţirea aplicației</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Ajută la îmbunătăţirea traducerii</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>O captură de ecran este inclusă</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Share-uiește linkul</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>pentru a descărca această aplicație</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Textul Jurnalului Alimentar</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Încearcă Jurnalul Alimentar pentru Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Jurnal Alimentar</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Elemente comune de mic dejun</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Elemente comune de cină</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Elemente comune de prânz</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Elemente comune de gustare</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Mese</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Dimineața</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>După-amiază devreme</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>După amiază</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Gustare separată de dimineaţă</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Gustare separată de după-amiază devreme</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Gustare separată de după-amiază</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Seara</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Gustare separată de la miezul nopţii</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Miezul nopții</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Combinarea gustărilor</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Gustare separată de seară</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Produse recente de după-amiază</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Produse recente de după-amiază devreme</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Produse recente de seară</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Produse recente de la miezul nopții</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Produse recente de dimineață</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Elemente comune de după-amiază</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Elemente comune de după-amiază devreme</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Elemente comune de seară</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Elemente comune de la miezul nopţii</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Elemente comune de dimineață</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Vă mulţumim pentru a încerca jurnal alimentar. Aveţi {0} zile proces rămase. Apăsaţi OK pentru a debloca app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Debloca acum?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Proces dumneavoastră acum este expirat. Puteţi vedea încă jurnal, dar nu puteţi adăuga noi intrări. Selectaţi OK pentru a debloca versiunea completă.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Elimină reclamele</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Elimină definitiv toate reclamele</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Descărcaţi acum pentru că vă va plăcea folosind-o.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Jurnal Alimentar</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>CARACTERISTICI PREMIUM:
+(1) nici o reclama mai mult.
+2. o bază de date alimente mult mai mare.
+3. capacitatea de a-te de e-mail o copie de produse lactate.
+4. mai multe opţiuni de configurare, inclusiv capacitatea de a intra până la 8 separat de mese pe zi.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>CARACTERISTICI:
+1. un design simplu şi puternic: app deschide direct pe ecranul de intrare, pe cele mai recente mesei, pentru că este ceea ce veţi folosi cel mai. Design face adăugând intrări ca simplu şi intuitiv posibil.
+2. un robinet de intrare cu sugestii personalizate: cele mai comune produse alimentare imediat pot fi selectate. Începând cu a doua zi, articole recente sunt sugerate pentru că te pot Mănâncă aceeaşi mâncare frecvent.
+3. de logare în nu este necesară: nu datele personale sau informaţii de contact este necesară.
+4. mii de elemente deja în baza de date: cele mai multe produse alimentare au informaţii exacte despre servire dimensiuni comune, calorii, carbohidrati, proteine si grasimi. 
+5. complet off-line suport: nu este nevoie să fie conectat la internet. 
+6. precise de intrare este de asemenea uşor: se poate introduce cu precizie valoarea exactă folosind un cursor.
+7. zilnic rapoarte: folosind meniul, puteţi deschide direct jurnal, care afişează un rezumat de ziua ta. Aici aveţi posibilitatea să comutaţi între calorii, proteine şi carbohidraţi apăsând pe Triunghiul de mic.
+8. evidenţa obiectivele: după introducerea obiectivele personale, puteţi utiliza raportul de săptămână pentru a vedea tendinţele dumneavoastră. 
+9. personal memento-urile vă ajuta să staţi pe ţintă: ele sunt un mod convenabil să vă asiguraţi că aţi completat jurnalul dumneavoastră, dupa fiecare masa, sau la sfârşitul zilei.
+
+Este o idee bună pentru a verifica informaţiile în baza de date este la fel ca informaţiile dumneavoastră ambalaje alimentare; alimentare fluctuează cu producatorii si peste timp.
+
+Asiguraţi-vă că pentru a discuta despre obiectivele tale cu specialistul dumneavoastră medicul sau de nutriţie.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>DESPRE APP:
+Urmărirea de ceea ce mancam a fost demonstrat pentru a ajuta la prevenirea şi stoparea supra-mananca.
+Acest app vă ajută să controlaţi dieta ta şi mănâncă sănătos, de a face mai uşor pentru a urmări ceea ce mananci. Design-ul este optimizat pentru a face intrarea la fel de rapid ca posibil, cu 1 faceţi clic pe intrare, şi recente alimentare sugestii. Construit în baza de date are deja mii de produse alimentare şi dacă a ta nu sunt cunoscute, adăugându-le este uşor.
+
+Vă rugăm să reţineţi: Acest app este liber pentru a descărca, şi sprijinit de reclame. Îl puteţi folosi gratuit, atâta timp cât vă place. Este posibil pentru a elimina reclama pentru o taxă, care va permite, de asemenea, caracteristici suplimentare.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Jurnal alimentar: Dumneavoastră dieta şi urmărire app de calorii.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Nutriție</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Calorii</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dietă</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Jurnal alimentar</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Contor de calorii</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banană</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Cafea</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Măr</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Ou</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 felie</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Pâine prăjită</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 ceașcă</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Suc de portocale</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Vă mulţumim pentru sprijinul dumneavoastră! Utilizaţi această opţiune pentru a elimina permanent reclame la app jurnal alimentar.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Scoateţi reclame</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Introducerea greutății</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Perioada de probă a expirat, vrei să-l cumperi?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 mediu</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Despre</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Cale mai rapidă şi mai uşoară de a ţine evidenţa a ceea ce mănânci.
+
+Derulaţi în jos pentru informaţii despre acurateţea datelor.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Actualizează acum</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Cumpără versiunea Premium</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Jurnal Alimentar pentru {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>S-a întâmplat ceva neașteptat. Jurnalul nu a fost trimis.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Te rugăm să introduci o adresă validă de e-mail.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>numai {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Sprijinirea dezvoltării</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>DISCLAIMER:
+Cele mai multe, dar nu toate puncte de date în baza de date provin din surse reputate. Vom face tot posibilul să vă asiguraţi că toate valorile sunt exacte, dar nu este responsabil pentru datele lipsă sau incorecte. Valori nutritive variază de brand şi în timp. Utilizând acest app, sunteţi de acord pentru a verifica şi corecta orice date în app, şi de a fi complet responsabil pentru prejudicii sau daune din cauza utilizării acestuia.
+
+Vă rugăm să-mi spuneţi dacă există ceva care te pot ajuta cu.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Ajută în apariția noilor actualizări ale acestei aplicații</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Obţine TOATE caracteristicile</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Include:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* NOTĂ: Cele mai multe, dar nu toate datele provin din surse reputate. Prin achiziţionarea versiunii Premium, accepți întreaga responsabilitate pentru exactitatea şi integralitatea datelor. Trimite un e-mail pe daily.journal@outlook.com pentru mai ulte detalii.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Caracteristici noi</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Toate caracteristicile premium a actualizărilor viitoare</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Mai multe mese</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Pentru urmărirea a 5, 6 sau mai multor mese pe zi</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Mai multe alimente *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Mii de produse alimentare (în funcţie de locaţie)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Rapoarte prin e-mail</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Trimite jurnalul prin e-mail pentru a-l salva, imprima, sau analiza.</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>O versiune fără reclame</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Elimină reclamele definitiv</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>cumpară acum</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Trimite prin e-mail</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>trimite acum</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Adresa de e-mail</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Obţine acces la toate caracteristicile</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Upgrade la spre premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>NOTĂ: Cele mai multe, dar nu toate punctele în baza de date provin din surse reputate. Vom face tot posibilul să asigurăm corectitudinea valorilor, dar nu putem fi considerați responsabili pentru lipsa sau incorectitudinea datelor. Prin utilizarea aplicației, recunoști şi accepți întreaga responsabilitate pentru verificarea exactității datelor. Aplicația permite să actualizezi orice discrepanţă pe care găsești.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Jurnal de AAA
+Întrebări sau Comentarii? Răspuns la BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Trimitere</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Vă rugăm să actualizaţi textele în această listă cu traduceri mai bine. Elimina tot textul pentru elementele care sunt nepotrivite pentru regiunea dvs.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Mulţumim pentru ajutor!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Traduceri</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Aici poți ajuta la îmbunătăţirea acestei aplicații.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Original:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Bun</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Descriere:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Ajută la îmbunătăţirea aplicației</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Introdu adresa de e-mail, dacă vrei să fi contactat.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Comentariu</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Îmbunătățește traducerea</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Adaugă la lansator</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>Medie</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Anulare</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Copiează din elemente similare</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Şterge intrarea</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Introdu greutatea pentru această cantitate</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Mai multe opțiuni</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Nici unul</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>Ok</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>Ofertă pentru o zi: cu {0} % mai ieftin</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Total</value>
+</data>
+<data name="EmailReport_Footer1a" xml:space="preserve">
+<value>Jurnal de AAA</value>
+</data>
+<data name="EmailReport_Footer1b" xml:space="preserve">
+<value>Ai întrebări sau observații? Răspuns pentru BBB</value>
+</data>
+</root>

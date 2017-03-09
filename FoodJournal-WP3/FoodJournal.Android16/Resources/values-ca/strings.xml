@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">DIARI D\'ALIMENTS</string>
+	<string name="CommonItems">Elements comuns</string>
+	<string name="Delete">Suprimeix</string>
+	<string name="EmptyEntryList">Res seleccionat</string>
+	<string name="MyRecentItems_Breakfast">Elements recents esmorzar</string>
+	<string name="MyRecentItems_Dinner">Elements recents sopar</string>
+	<string name="MyRecentItems_Exercise">El meu excersizes recents</string>
+	<string name="MyRecentItems_Lunch">Elements recents dinar</string>
+	<string name="MyRecentItems_Snack">Últims elements de mos</string>
+	<string name="PageTitle">DIARI D\'ALIMENTS</string>
+	<string name="PageTitleBase">DIARI D\'ALIMENTS- </string>
+	<string name="Period_Breakfast">Esmorzar</string>
+	<string name="Period_Dinner">Sopar</string>
+	<string name="Period_Exercise">Exercici</string>
+	<string name="Period_Lunch">Dinar</string>
+	<string name="Period_Snack">Aperitiu</string>
+	<string name="Search">Cerca</string>
+	<string name="Today">Avui</string>
+	<string name="StandardProperty_Amount">Quantitat</string>
+	<string name="StandardProperty_Calcium">Calci</string>
+	<string name="StandardProperty_Calories">Calories</string>
+	<string name="StandardProperty_Carbs">Carbohidrats</string>
+	<string name="StandardProperty_Cholesterol">Colesterol</string>
+	<string name="StandardProperty_Fiber">Fibra</string>
+	<string name="StandardProperty_Iron">Ferro</string>
+	<string name="StandardProperty_MonoFat">Àcid gras monoinsaturat</string>
+	<string name="StandardProperty_PolyFat">Àcid gras poliinsaturat</string>
+	<string name="StandardProperty_Potassium">Potassi</string>
+	<string name="StandardProperty_Protein">Proteïna</string>
+	<string name="StandardProperty_SatFat">Greixos saturats</string>
+	<string name="StandardProperty_Sodium">Sodi</string>
+	<string name="StandardProperty_Sugar">Sucre</string>
+	<string name="StandardProperty_TotalFat">Greix total</string>
+	<string name="StandardProperty_VitaminC">Vitamina C</string>
+	<string name="StandardProperty_VitaminD">Vitamina D</string>
+	<string name="StandardProperty_Weight">Pes</string>
+	<string name="Preferences">Preferències</string>
+	<string name="EmptySearchList">Introduïu un terme de cerca</string>
+	<string name="NewItemSuffix"> (element nou)</string>
+	<string name="NewRecipeSuffix"> (nova recepta)</string>
+	<string name="SearchResults">Resultats de la cerca</string>
+	<string name="SearchTermNotFound">{0} no es troba, proveu de canviar el vostre terme de cerca</string>
+	<string name="AcceptNew">Afegeix</string>
+	<string name="Name">Nom</string>
+	<string name="Nutrition">Nutrició</string>
+	<string name="PageTitleItemDetail">INFORMACIÓ D\'ALIMENTS</string>
+	<string name="EnterWeight">Si us plau, introdueixi el pes primer</string>
+	<string name="ServingSizes">Grandària de la porció</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Quant\?</string>
+	<string name="MoreOptions">més opcions</string>
+	<string name="NoNutritionInfo">No hi ha informació de nutrició</string>
+	<string name="AddServingSize">Afegir una grandària de la porció</string>
+	<string name="Add">Afegeix</string>
+	<string name="SelectDate">Calendari</string>
+	<string name="Advertisement">Anunci</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Tassa</string>
+	<string name="Unit_Deciliter">Decilitre</string>
+	<string name="Unit_FluidOunce">Unça líquida</string>
+	<string name="Unit_Gallon">Galó</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Quilogram</string>
+	<string name="Unit_Liter">Litre</string>
+	<string name="Unit_Milliliter">Ml</string>
+	<string name="Unit_Ounce">Unça</string>
+	<string name="Unit_Pint">Pinta</string>
+	<string name="Unit_Pound">Lliura</string>
+	<string name="Unit_Quart">Quart de galó</string>
+	<string name="Unit_Tablespoon">Cullerada</string>
+	<string name="Unit_Teaspoon">Culleradeta</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">Tasses</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">Unça fluida</string>
+	<string name="Units_Gallon">Galons</string>
+	<string name="Units_Gram">Grams</string>
+	<string name="Units_Kilogram">Quilograms</string>
+	<string name="Units_Liter">Litres</string>
+	<string name="Units_Milliliter">Mil·lilitres</string>
+	<string name="Units_Ounce">Unces</string>
+	<string name="Units_Pint">Pintes</string>
+	<string name="Units_Pound">Lliures</string>
+	<string name="Units_Quart">Quarts de galó</string>
+	<string name="Units_Tablespoon">Cullerades</string>
+	<string name="Units_Teaspoon">Culleradetes</string>
+	<string name="DatabaseCulture">ca</string>
+	<string name="FeedbackSubject">Correu electrònic de diari d\'aliments</string>
+	<string name="Equivalent">Quantitat</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">s\'està carregant...</string>
+	<string name="ExpiredCaption">Actualitza ara</string>
+	<string name="ExpiredMessage">Gràcies per utilitzar aquest App! Aquesta còpia és ara expirada. Però no et preocupis, ens portarà a la pàgina de descàrrega actualitzar si premeu Ok.</string>
+	<string name="AgentDescription">Aquesta tasca s\'actualitza la rajola de viure pel diari d\'aliments.</string>
+	<string name="AgentDisabled">Heu inhabilitat l\'aplicació de viure rajola en escenes de telèfon.</string>
+	<string name="PageTitleSettings">Meves preferències</string>
+	<string name="EnableLiveTile">Comte àpats que falten en el mosaic d\'app</string>
+	<string name="Reminders">Recordatoris</string>
+	<string name="SettingsScreen">Configuració</string>
+	<string name="PinToStart">Configurar la rajola</string>
+	<string name="OpenReport">Informe</string>
+	<string name="Report">Informe</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Culleradeta = 4,5 g|Cullerada = 12 g|1 ració = 28 g|Peça = 14 g|Llesca = 12 g|1 Copa = 237 g</string>
+	<string name="TakeAPicture">Fes una foto</string>
+	<string name="ReviewBody">Gràcies per utilitzar aquest App! Si li resulta útil, si us plau ajudar-lo a tenir èxit en deixar un comentari.</string>
+	<string name="ReviewTitle">Deixar un comentari\?</string>
+	<string name="Goals">Objectius</string>
+	<string name="NoGoalSet">Cap objectiu conjunt</string>
+	<string name="EndOfDay">Al final del dia</string>
+	<string name="ReminderContent">Què t\'agrada\?</string>
+	<string name="ReminderTitle">Recordatori: actualitzar el seu diari</string>
+	<string name="ReminderDescription">recordatoris seleccionats apareguin si vostè no he actualitzat l\'agenda pel temps seleccionat</string>
+	<string name="ScreenshotTitles">Suc de taronja, 1 tassa de pa torrat, 1 llenca, ou, 1 mitjana, Poma, plàtan, cafè</string>
+	<string name="GoalOver">{0} sobre objectiu</string>
+	<string name="GoalUnder">restants de {0}</string>
+	<string name="OpenJournal">Diari</string>
+	<string name="RemoveAdsText">Trieu d\'acord per eliminar anuncis de l\'app.</string>
+	<string name="RemoveAdsTitle">Tregui anuncis\?</string>
+	<string name="StoreException">El va ser un problema en connectar-se a la botiga de Windows Phone. Si us plau provar una altra vegada més tard.</string>
+	<string name="Feedback_Email">Informa d\'un problema</string>
+	<string name="Feedback_EmailText">Suggereixen una característica o una pregunta</string>
+	<string name="Feedback_Rate">Valora aquest app</string>
+	<string name="Feedback_RateText">Resposta específica ajuda a millorar l\'app</string>
+	<string name="Feedback_Screenshot">Ajudar a millorar la traducció</string>
+	<string name="Feedback_ScreenshotText">S\'inclou una captura de pantalla</string>
+	<string name="Feedback_Share">Compartir un enllaç</string>
+	<string name="Feedback_ShareText">Descarregar aquest app</string>
+	<string name="ScreenshotSubject">Text de diari d\'aliments</string>
+	<string name="ShareMessage">Fes un aliment diari per a Windows Phone</string>
+	<string name="ShareTitle">Diari d\'aliments</string>
+	<string name="CommonItems_Breakfast">Elements comuns de l\'esmorzar</string>
+	<string name="CommonItems_Dinner">Elements comuns a sopar</string>
+	<string name="CommonItems_Lunch">Elements comuns a dinar</string>
+	<string name="CommonItems_Snack">Elements comuns de mos</string>
+	<string name="Meals">Àpats</string>
+	<string name="Period_SnackMorning">Matí</string>
+	<string name="Period_SnackEarlyAfternoon">Hora a la tarda</string>
+	<string name="Period_SnackAfternoon">Tardes</string>
+	<string name="Meals_SnackMorningEnabled">Berenar del matí separada</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Berenar principi separada</string>
+	<string name="Meals_SnackAfternoonEnabled">Berenar separada</string>
+	<string name="Period_SnackEvening">Vespre</string>
+	<string name="Meals_SnackMidnightEnabled">Entrepà de mitjanit separada</string>
+	<string name="Period_SnackMidnight">Mitjanit</string>
+	<string name="Meals_SnacksCombined">Combinar aperitius</string>
+	<string name="Meals_SnackEveningEnabled">Nit separada</string>
+	<string name="MyRecentItems_SnackAfternoon">Elements recents tarda</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Elements recents de tarda primeres</string>
+	<string name="MyRecentItems_SnackEvening">Articles recents de nit</string>
+	<string name="MyRecentItems_SnackMidnight">Articles recents de mitjanit</string>
+	<string name="MyRecentItems_SnackMorning">Articles recents de matí</string>
+	<string name="CommonItems_SnackAfternoon">Elements comuns de la tarda</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Elements comuns de tarda primeres</string>
+	<string name="CommonItems_SnackEvening">Elements comuns de nit</string>
+	<string name="CommonItems_SnackMidnight">Elements comuns a mitjanit</string>
+	<string name="CommonItems_SnackMorning">Elements comuns de matí</string>
+	<string name="UnlockFullBody">Gràcies per provar el menjar diari. Teniu {0} dies judici restants. Premeu d\'acord per obrir l\'app.</string>
+	<string name="UnlockFullTitle">Obrir ara\?</string>
+	<string name="TrialExpiredBody">El seu judici és ara expirada. Encara pot veure el seu diari, però no podeu afegir noves entrades. Trieu d\'acord per obrir la plena versió.</string>
+	<string name="Feedback_RemoveAds">Tregui anuncis</string>
+	<string name="Feedback_RemoveAdsText">Permanentment Tregui tots els anuncis</string>
+	<string name="StoreText_5">Descarregar ara perquè li encanta utilitzar-lo.</string>
+	<string name="AppTitle">Diari d\'aliments</string>
+	<string name="StoreText_4">TRETS DE COMPLEMENT:
+1. no hi ha més publicitat.
+2. una major base de dades alimentària.
+3. l\'habilitat per si mateix correu electrònic una còpia de la indústria làctia.
+4. més opcions de configuració, incloent-hi l\'habilitat per introduir fins a 8 separats àpats al dia.</string>
+	<string name="StoreText_3">CARACTERÍSTIQUES:
+1. un disseny senzill i potent: L\'app s\'obre directament sobre la pantalla d\'entrada, en l\'àpat més recent, perquè això és el que utilitzareu més. El disseny fa afegint entrades tan simple i intuïtiu com sigui possible.
+2. una aixeta d\'entrada amb suggeriments personalitzats: els aliments més comuns es poden seleccionar immediatament. A partir del segon dia, el seu elements recents se suggereix perquè vostè pot menjar el mateix menjar sovint.
+3. registre a no és necessari: cap dades personals o informació de contacte és necessari.
+4. milers d\'articles ja en la base de dades: la majoria dels aliments tenir informació precisa sobre comú servint mides, calories, carbohidrats, proteïnes i greixos. 
+5. off-line ple suport: no hi ha necessitat d\'estar connectat a internet. 
+6. precisa entrada també és fàcil: amb precisió podeu introduir la quantitat precisa utilitzant un botó lliscant.
+7. diari informa: utilitzant el menú, vostè pot obrir directament el diari, que mostra un resum del seu dia. Aquí es pot canviar entre calories, proteïnes i carbohidrats prement el petit triangle.
+8. Gestioneu els vostres objectius: després d\'introduir les seves metes personals, podeu utilitzar l\'informe de la setmana per veure les seves tendències. 
+9. personal recordatoris ajuden a mantenir en objectiu: són una manera convenient per assegurar-se que ompli el seu diari, després de cada àpat, o al final del dia.
+
+És una bona idea per verificar que la informació en la base de dades és el mateix que la informació sobre el seu envasament alimentari; Nutrició fluctua amb marques i amb el temps.
+
+Assegureu-vos de discutir els seus objectius amb el seu metge o nutrició especialista.</string>
+	<string name="StoreText_2">SOBRE L\'APP:
+Fer un seguiment dels que menges ha demostrat per ajudar a prevenir i deixar de menjar en excés.
+Aquest app ajuda a controlar la seva dieta i menjar de forma saludable, fent-ho fàcil de seguir el que menges. El disseny està optimitzat per fer entrada tan ràpid com suggeriments de menjar possible, amb l\'entrada de 1 clic i recents. El construït en base de dades ja té milers d\'aliments i si seu no es coneixen, afegint-los és fàcil.
+
+Nota: Aquest app és lliure descarregar i suportat per anuncis. Es pot utilitzar de franc mentre li agradis. És possible treure l\'anunci per a una quota, que permetrà també trets addicionals.</string>
+	<string name="StoreText_1">Diari d\'aliments: El seu règim i calories seguiment app.</string>
+	<string name="StoreKeyword_5">Nutrició</string>
+	<string name="StoreKeyword_4">Calories</string>
+	<string name="StoreKeyword_3">Dieta</string>
+	<string name="StoreKeyword_2">Diari d\'aliments</string>
+	<string name="StoreKeyword_1">Comptador de calories</string>
+	<string name="Screenshot_H3">Plàtan</string>
+	<string name="Screenshot_H2">Cafè</string>
+	<string name="Screenshot_H1">Poma</string>
+	<string name="Screenshot_3a">Ou</string>
+	<string name="Screenshot_2b">1 llesca</string>
+	<string name="Screenshot_2a">Notificació d\'activitat</string>
+	<string name="Screenshot_1b">1 tassa</string>
+	<string name="Screenshot_1a">Suc de taronja</string>
+	<string name="Product_2">Gràcies pel vostre suport! Utilitzeu aquesta opció per esborrar permanentment anuncis des del seu app de diari d\'aliments.</string>
+	<string name="Product_1">Tregui anuncis</string>
+	<string name="CantCalculateNutrition">Introdueixi el pes</string>
+	<string name="TrialExpiredTitle">Període de judici expirat, obrir\?</string>
+	<string name="Screenshot_3b">1 mitjà</string>
+	<string name="SendFeedback">Sobre</string>
+	<string name="Feedback_Header">La manera més ràpida i més fàcil de fer un seguiment del que menja.
+
+Mogui\'s avall per obtenir informació sobre l\'exactitud de les dades.</string>
+	<string name="Feedback_Unlock">Actualitza\'l ara</string>
+	<string name="Feedback_UnlockText">Compris la versió premium</string>
+	<string name="EmailReport_SubjectTemplate">Diari d\'aliments per a {0}</string>
+	<string name="EmailReport_Exception">Quelcom inesperat ha fallat. La revista no va ser enviat.</string>
+	<string name="EmailReport_InvalidEmailAddress">Si us plau, introduïu una adreça electrònica vàlida.</string>
+	<string name="Total">Total</string>
+	<string name="Price">{0} només</string>
+	<string name="Feature6_Text">Donar suport al desenvolupament</string>
+	<string name="Feedback_Footer">DESCÀRREC DE RESPONSABILITAT:
+Majoria, però no tots els punts de dades en la base de dades provenen de fonts reputades. Fem tot el possible per assegurar-se tots els valors són exactes, però no es fa responsables de la incorrectes o que falten dades. Valors nutricionals varien per marca i amb el temps. Utilitzant aquest app, accepteu a verificar i corregir qualsevol dada en l\'app i és plenament responsable de lesió o dany a causa del seu ús.
+
+Si us plau, hágamelo saber si hi ha alguna cosa que pot ajudar amb.</string>
+	<string name="Feature6_Desc">Ajudar a mantenir les actualitzacions d\'aquest app ve</string>
+	<string name="GetAllFeatures">Aconseguir totes les característiques</string>
+	<string name="Feature_Header">Serveis inclosos:</string>
+	<string name="Feature_Footer">* Nota: La majoria, però no totes les dades prové de fonts reputades. Mitjançant la compra de la versió de complement, vostè accepta tota la responsabilitat per la precisió i la integritat de les dades. Correu electrònic daily.journal@outlook.com per a més detalls.</string>
+	<string name="Feature5_Text">Novetats</string>
+	<string name="Feature5_Desc">Tota prima en futur ofereix actualitzacions</string>
+	<string name="Feature4_Text">Àpats més</string>
+	<string name="Feature4_Desc">Per al seguiment de 5, 6 o més àpats al dia</string>
+	<string name="Feature3_Text">Més aliments *</string>
+	<string name="Feature3_Desc">Centenars de milers més menjar elements (depenent de localització)</string>
+	<string name="Feature2_Text">Informes de correu electrònic</string>
+	<string name="Feature2_Desc">Correu electrònic teu diari per desar, imprimir o analitzar-lo</string>
+	<string name="Feature1_Text">Cap publicitat</string>
+	<string name="Feature1_Desc">Tots els anuncis són permanentment trets</string>
+	<string name="BuyNow">comprar ara</string>
+	<string name="EmailReport_ShowSettings">Enviar per correu electrònic</string>
+	<string name="EmailReport_SendNow">enviar ara</string>
+	<string name="EmailReport_Address">Adreça de correu electrònic</string>
+	<string name="Product_4">Tenir accés a tots els trets</string>
+	<string name="Product_3">Rampa a complement</string>
+	<string name="EmailReport_Footer2">Nota: La majoria, però no tots els punts de dades en la base de dades provenen de fonts reputades. Fem tot el possible per assegurar-se els valors són exactes, però no es fa responsables de la incorrectes o que falten dades. Utilitzant l\'app, vostè reconeix i accepta la plena responsabilitat per comprovar l\'exactitud de les dades. L\'app li permet actualitzar les discrepàncies que es poden trobar.</string>
+	<string name="EmailReport_Footer1">Revista per l\'AAA
+Pregunta o comentari\? ▲ respondre BBB</string>
+	<string name="Localization_Submit">Presentar</string>
+	<string name="Localization_TranslationsText">Si us plau actualitzi els textos en aquesta llista amb traduccions millors. Eliminar tot el text dels elements que són inadequats per a la seva regió.</string>
+	<string name="Localization_ThankYou">Gràcies per la teva ajuda!</string>
+	<string name="Localization_Translations">Traduccions</string>
+	<string name="Localization_Text">Aquí vostè pot ajudar a millorar aquest app.</string>
+	<string name="Localization_Original">Original:</string>
+	<string name="Localization_Good">Bona</string>
+	<string name="Localization_Description">Descripció/controls:</string>
+	<string name="Feedback_LocalizeText">Ajudar a millorar l\'app</string>
+	<string name="Localization_CommentText">Introduïu la vostra adreça de correu electrònic si vostè vol ser contactat.</string>
+	<string name="Localization_Comment">Comentari</string>
+	<string name="Feedback_Localize">Millorar les traduccions</string>
+	<string name="AddToLauncher">Afegir al llançador</string>
+	<string name="Avg">AVG</string>
+	<string name="Cancel">Cancel·la</string>
+	<string name="CopyFromSimilarItem">Còpia de l\'element similar</string>
+	<string name="DeleteEntry">Suprimeixi entrada</string>
+	<string name="EnterTheWeightForThisAmount">Introdueixi el pes per a aquesta quantitat</string>
+	<string name="MoreOptions2">Més opcions</string>
+	<string name="None">Cap</string>
+	<string name="Ok">Correcte</string>
+	<string name="OneDaySalePctOff">venda de 1 dia: {0} % de descompte</string>
+	<string name="Total2">Total</string>
+	<string name="EmailReport_Footer1a">Revista per l\'AAA</string>
+	<string name="EmailReport_Footer1b">Pregunta o comentari\? Respondre a BBB</string>
+	<string name="Add_New">NOU ELEMENT</string>
+	<string name="Add_Note">AFEGIR UNA NOTA</string>
+	<string name="add_target">AFEGIR NUTRICIÓ</string>
+	<string name="choose_time">temps determinat</string>
+	<string name="daily_target">Nutrició</string>
+	<string name="daily_target_hint">Objectiu diari (opcional)</string>
+	<string name="describe_goal">Descriure el seu objectiu</string>
+	<string name="drawer_close">Tancar</string>
+	<string name="drawer_open">Obert</string>
+	<string name="edit_meals">TRIAR ELS ÀPATS</string>
+	<string name="enter_meal_time">Entrar a temps per a cada menjar</string>
+	<string name="enter_serving_weight">Entrar primer en pes (g)</string>
+	<string name="enter_value">Introduïu la nutrició</string>
+	<string name="get_started">Començar!</string>
+	<string name="get_started_second_text">Aixeta "+" per afegir una entrada al teu diari.</string>
+	<string name="Input_Notes">Entrar les notes aquí</string>
+	<string name="meal_options">Plats a la carta</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Objectiu personal</string>
+	<string name="Per_Cup">1 tassa (250 grams) NOTUSED</string>
+	<string name="Per_Grams">100 grams</string>
+	<string name="portion_caption">porció</string>
+	<string name="RadioButton_Alpha">NOTYETUSED per ordre alfabètic</string>
+	<string name="RadioButton_Sort">ordenar per història NOTYETUSED</string>
+	<string name="Serving">Ració</string>
+	<string name="Show_More_Options">MÉS OPCIONS</string>
+	<string name="show_total_with_meal">Mostrar un objectiu de nutrició</string>
+	<string name="target_date">Data límit</string>
+	<string name="target_date_hint">Trieu la data límit</string>
+	<string name="transition_name_circle">transició: cercle</string>
+	<string name="transition_name_name">transició: nom</string>
+	<string name="transition_name_phone">transició: telèfon</string>
+	<string name="Type_Name">Cerca</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Unitats mètriques</string>
+	<string name="Units_US">Unitats nord-americanes</string>
+	<string name="Upgrade">Actualització</string>
+	<string name="weight_gram">pes (g)</string>
+	<string name="InvalidEmailError">Adreça de correu electrònic no vàlid</string>
+	<string name="NoGoalsTitle">Totes les entrades</string>
+	<string name="SendReportTitle">Envia l\'informe</string>
+	<string name="DeleteEntryMessage">Voleu suprimir aquesta entrada\?</string>
+	<string name="NewBody">Moltes millores incloses: notes, més aliments, millor disseny i més.
+Descarregar gratis\?</string>
+	<string name="NewTitle">Versió 2.0 ja està disponible!</string>
+</resources>

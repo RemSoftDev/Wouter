@@ -1,0 +1,479 @@
+﻿Row	Meal	Name	Pos
+0	B	Jajko	33
+1	B	Kawa	199
+2	B	Tosty	327
+3	B	Chleb	595
+4	B	Banan	918
+5	B	Kawa	1237
+6	L	Chleb	1374
+7	S	Herbata	1697
+8	B	Herbata	1813
+9	B	Tosty	1929
+10	B	Banan	2251
+11	D	Chleb	2515
+12	B	Płatki owsiane	2839
+13	B	Niskie owoców tłuszczu Jogurt	2972
+14	L	Pomidor	3077
+15	L	Jajko	3303
+16	D	Ryż biały	3470
+17	B	Chleb razowy	3583
+18	D	Marchew	3848
+19	S	Herbatniki	4172
+20	B	Kawa	4332
+21	D	Pomidor	4470
+22	B	Boczek	4740
+23	L	Ryż biały	4913
+24	S	Kawa	5026
+25	S	Niskie owoców tłuszczu Jogurt	5155
+26	L	Pomidor	5260
+27	S	Chleb	5530
+28	B	Banan	5854
+29	D	Jajko	6125
+30	D	Cebula	6292
+31	D	Kurczaka	6607
+32	B	Niskie owoców tłuszczu Jogurt	6815
+33	S	Banan	6986
+34	B	1% mleka	7306
+35	S	Banan	7463
+36	L	Ryż biały	7727
+37	D	Czerwone wino	7841
+38	B	Kawa	7916
+39	L	Marchew	8019
+40	B	Chleb	8343
+41	L	Kurczaka	8644
+42	L	Niskie owoców tłuszczu Jogurt	8815
+43	B	Owies	8984
+44	B	Francuski chleb	9112
+45	B	Banan	9287
+46	B	Chleb	9593
+47	L	Fasolka po bretońsku	9851
+48	D	Pomidor	9914
+49	L	Banan	10140
+50	D	Tosty	10460
+51	B	Kawa rozpuszczalna	10729
+52	L	Ryż parzony	10808
+53	D	Czerwone wino	10873
+54	D	Pomidor	10950
+55	D	Boczek	11221
+56	L	Oliwa z oliwek	11394
+57	L	Pomidor	11500
+58	S	Jajko	11713
+59	D	Pierś z kurczaka	11880
+60	L	Herbata	12033
+61	L	Pomidor	12150
+62	B	Płatki kukurydziane	12421
+63	L	Chleb	12543
+64	S	Tosty	12844
+65	B	Banan	13113
+66		Serek	13419
+67		Mokre mozzarellą	13624
+68		Ser parmezan	13885
+69		Ser szwajcarski	14028
+70		Amerykański ser	14288
+71		Amerykański ser	14554
+72		Serki	14818
+73		Pół i pół	14960
+74		Lekki krem	15117
+75		Ciężkie śmietany kremówki	15280
+76		Masło solone	15470
+77		Masło bitą	15656
+78		Bezwodny tłuszcz mleczny	15842
+79		Śmietana	16015
+80		Krem zastępstwo w proszku	16142
+81		Mleko	16312
+82		2% mleka	16477
+83		1% mleka	16641
+84		Beztłuszczowe mleko	16805
+85		Suche mleko	16970
+86		Całej czekolady mlecznej	17121
+87		Mleko czekoladowe	17291
+88		Czekoladowe mleko pełnotłuste	17458
+89		Niskotłuszczowy jogurt waniliowy	17622
+90		Niskie owoców tłuszczu Jogurt	17797
+91		Jajko	17975
+92		Żółtko	18149
+93		Jajko sadzone	18295
+94		Jajkiem na twardo	18471
+95		Jajecznica jajko	18673
+96		Suszone jajko	18874
+97		Masło bez soli	19031
+98		Nieulepszonych beztłuszczowe mleko	19216
+99		Ser, sos	19379
+100		Niskie tłuszczu ser	19524
+101		Lekkie niskie owoców tłuszczu Jogurt	19779
+102		Krem zastępstwo	19954
+103		Wzmacniane niskie owoców tłuszczu Jogurt	20122
+104		Światło wzmocnione niskie owoców tłuszczu Jogurt	20303
+105		Musztarda	20480
+106		Sól	20624
+107		Dziecko płatki owsiane	20764
+108		Dziecko zbóż ryżu	20921
+109		Smalec	21044
+110		Sos majonez	21150
+111		Sos sałatkowy z majonezem	21293
+112		Olej z orzeszków ziemnych	21451
+113		Olej sojowy	21587
+114		Oliwa z oliwek	21729
+115		Sos włoski	21873
+116		Sos francuski	22032
+117		Niskie tłuszczu olej roślinny rozprzestrzeniania	22190
+118		Olej kukurydziany	22371
+119		Olej rzepakowy	22512
+120		Kij masła	22652
+121		Margaryna	22833
+122		Olej roślinny rozprzestrzeniania	23012
+123		Olej roślinny	23167
+124		Olej sojowy przemysłowe	23312
+125		Przemysłowych soi i olej z nasion bawełny	23453
+126		Olej kokosowy	23594
+127		Kurczaka	23735
+128		Kurczak panierowany	23967
+129		Kurczaka	24204
+130		Smażony kurczak	24432
+131		Mięso z kurczaka pieczone	24667
+132		Duszony kurczak	24897
+133		Wątroba drobiowa	25127
+134		Pierś kurczaka ze skórą	25252
+135		Pierś z kurczaka panierowany	25421
+136		Pieczona pierś z kurczaka	25596
+137		Mięso z piersi kurczaka	25764
+138		Pierś z kurczaka	25938
+139		Podudzie	26107
+140		Noga kurczaka	26270
+141		Udko z kurczaka	26434
+142		Kurczaka skrzydła	26588
+143		Pieczony kurczak skrzydło	26730
+144		Pieczony indyk	26850
+145		Pieczony indyk mięso	26989
+146		Indyka ziemi	27124
+147		Bryłka kurczaka	27232
+148		Bulion z mięsa wołowego	27360
+149		Zupa grzybowa	27515
+150		Sos	27679
+151		Wołowe	27830
+152		Kurczaka	27992
+153		Bulion z kurczaka	28156
+154		Sosem pomidorowym	28315
+155		Bolonia	28444
+156		Kiełbasa wątroby	28612
+157		Kiełbasa wieprzowa kiełbasa	28749
+158		Mielonka	28894
+159		Kiełbasa	29024
+160		Wieprzowina i wołowina kiełbasa	29149
+161		Pierś z indyka	29287
+162		Lekkie mięso Turcja rolki	29489
+163		Turcja rolki	29641
+164		Włoskiej kiełbasy	29800
+165		Wstępnie gotowane wieprzowe kiełbasy	29961
+166		Chrupka	30087
+167		Kakaowy kamyczków	30215
+168		Chrupki ciasteczko	30332
+169		Kukurydza chex	30455
+170		Płatki kukurydziane	30576
+171		Wszystko otręby pszenicy, płatki	30702
+172		Owocowy kamyki	30815
+173		Muesli	30927
+174		Winogron orzechy zbóż	31055
+175		KIX	31185
+176		Talizmany	31314
+177		Miód nakrętka chex	31446
+178		Otręby rodzynek	31578
+179		Rodzynek otręby zbożowe	31709
+180		Ryż chex	31836
+181		Smakołyki	31960
+182		Oszronione płatki	32093
+183		Całe ziarna ogółem	32224
+184		Pszenica chex	32345
+185		Kasza kukurydziana	32467
+186		Owies	32598
+187		Płatki owsiane	32738
+188		Owies z cynamonem i przyprawy	32883
+189		Owies rodzynkami i przyprawy	33028
+190		Niskie tłuszczu muesli bez rodzynek	33177
+191		Reese chrupki	33293
+192		Płatki owsiane kwadraty	33417
+193		Owsiane otręby zbożowe	33551
+194		Jeden z włókna	33681
+195		Całkowita rodzynek otręby	33796
+196		Kakao chrupki	33917
+197		Niskie tłuszczu musli z rodzynkami	34038
+198		Miód tosty owsa	34156
+199		Waniliowy, migdałowy	34275
+200		Sok jabłkowy	34393
+201		Jabłkowy	34557
+202		Awokado	34702
+203		Banan	34905
+204		Jagody	35233
+205		Sok z winogron	35385
+206		Winogron	35551
+207		Kantalupa	35710
+208		Świeżego soku pomarańczowego	35940
+209		Koncentrat soku pomarańczowego	36100
+210		Sok pomarańczowy z wapniem	36267
+211		Koncentrat soku pomarańczowego, mrożone	36435
+212		Brzoskwinia	36606
+213		Gruszka	36822
+214		Ananas	37040
+215		Rodzynki	37307
+216		Truskawka	37595
+217		Mrożone truskawki	37906
+218		Arbuz	38221
+219		Sok jabłko, winogrona i gruszka	38447
+220		Pieczonej tłuszczu na schab	38613
+221		Pieczonej schab	38752
+222		Schab pieczony	38890
+223		Kotlety wieprzowe	39029
+224		Boczek	39169
+225		Szynka	39354
+226		Tłuszczu pieczona szynka	39511
+227		Pieczona szynka	39646
+228		Dodatkowych chudej szynki	39779
+229		Dodatkowych chudej szynki pieczone	39937
+230		Kawałki wieprzowiny	40095
+231		Wieprzowina ziemi	40238
+232		Szynka z naturalnych soków	40359
+233		Szynka i wody	40525
+234		Szynka - dodana woda	40687
+235		Szparagi	40852
+236		Zielona fasola przystawki	40973
+237		Puszkach fasola szparagowa	41114
+238		Fasolka szparagowa Zielona przystawki	41291
+239		Surowe brokuły	41430
+240		Brokuły	41702
+241		Posiekane brokuły	41973
+242		Brokuły mrożone	42243
+243		Surowej kapusty	42513
+244		Kapusta	42893
+245		Marchew	43271
+246		Gotowana marchew	43603
+247		Marchew mrożone	43933
+248		Seler	44265
+249		Cykoria zielonych	44547
+250		Kukurydza	44679
+251		Puszki kukurydzy	44953
+252		Frytki zamrożone	45096
+253		Ogórek	45370
+254		Endywia	45624
+255		Kapusta	45791
+256		Sałata rzymska	45924
+257		Sałata lodowa	46312
+258		Zielona sałata	46704
+259		Grzyby białe	47096
+260		Gorczycy	47255
+261		Cebula	47393
+262		Cebula gotowana	47716
+263		Szczypiorkiem	48042
+264		Pietruszka	48256
+265		Zielony groszek	48423
+266		Puszki groszku	48553
+267		Zielony groszek mrożony	48683
+268		Ziemniak	48813
+269		Pieczone ziemniaki	49039
+270		Ziemniak w skórze	49262
+271		Ugotowane ziemniaki	49484
+272		Mieszanych brązy	49707
+273		Tłuczone ziemniaki	49852
+274		Chrupki ziemniaczane	49983
+275		Piec frytki	50158
+276		Surowy szpinak	50347
+277		Gotowanego szpinaku	50542
+278		Konserwowane szpinak	50672
+279		Pieczone słodkie ziemniaki	50800
+280		Słodkie ziemniaki	51009
+281		Pomidor	51214
+282		Gotowanych pomidorów	51612
+283		Puszki pomidorów	51892
+284		Duszone pomidory w puszkach	52079
+285		Sok pomidorowy	52357
+286		Pasta pomidorowa	52526
+287		Puszkach sos pomidorowy	52686
+288		Rzepa	52844
+289		Sok z warzyw w puszkach	52985
+290		Mieszane warzywa	53153
+291		Zajmujący się produkcją konserw słodkie ziemniaki	53282
+292		Sok z marchwi w puszkach	53489
+293		Pieczone ziemniaki ze skóry	53656
+294		Pasta pomidorowa	53881
+295		Keczup	54043
+296		Marynowane	54186
+297		Smaczek	54434
+298		Nasiona słonecznika	54596
+299		Prażone nasiona słonecznika	54729
+300		Migdały	54863
+301		Migdały blanszowane	55082
+302		Prażone migdały	55287
+303		Orzech	55491
+304		Nasiona słonecznika olej palona	55810
+305		Solone migdały prażone	55947
+306		Orzechy nerkowca	56153
+307		Mieszanych orzechów	56339
+308		Olej palona mieszanych orzechów	56467
+309		Wątroba	56601
+310		Wątroba	56726
+311		Kanapki stek	56851
+312		Mostek	57009
+313		Żebra wołowiny	57127
+314		Wołowiny	57244
+315		Pieczeń wołowa ostrze	57449
+316		Żebra wołowiny	57568
+317		Żebra wołowiny	57686
+318		Okrągłe wołowiny	57807
+319		Góry cały stek wołowy	57925
+320		Piwo	58043
+321		Piwo jasne	58185
+322		80 dowód alkohol	58323
+323		Czerwone wino	58405
+324		Białe wino	58512
+325		Sok z warzyw i owoców	58617
+326		Piwo imbirowe	58768
+327		Piwo imbirowe	58901
+328		Syrop czekoladowy	59036
+329		Kawa bezkofeinowa	59161
+330		Kawa	59306
+331		Ekspres	59459
+332		Kawa rozpuszczalna	59578
+333		Konserwy owocowe napój	59715
+334		Napój owocowy wzbogacony	59855
+335		Lemoniada	60006
+336		Herbata bezkofeinowa	60166
+337		Herbata	60315
+338		Woda z kranu	60464
+339		Wody o smaku owoców	60595
+340		86 dowód alkohol	60732
+341		Woda butelkowana	60816
+342		Wzbogacony o smaku owoców wody	60948
+343		Napój energetyczny potwora	61083
+344		Paluszki rybne	61220
+345		Płaskie ryby	61406
+346		Śledź	61526
+347		Łosoś	61778
+348		Światło tuńczyka w puszkach	61904
+349		Krab	62100
+350		Krewetki	62317
+351		Konserwowane krewetki	62459
+352		Małże	62601
+353		Zajmujący się produkcją konserw małże	62778
+354		Ostrygi	62959
+355		Sum	63099
+356		Pstrąg tęczowy	63217
+357		Fasolka po bretońsku	63339
+358		Fasolka po bretońsku z Franków	63467
+359		Pieczona fasola z wieprzowiną i pomidor sosie	63597
+360		Czarna fasola	63723
+361		Czerwona fasola	63866
+362		Białej fasoli	64022
+363		Soczewica	64162
+364		Gotowane soczewica	64304
+365		Orzeszki ziemne solone	64446
+366		Prażone orzeszki ziemne solone	64605
+367		Masło orzechowe	64760
+368		Grillowana	64887
+369		Sos sojowy	65029
+370		Wzbogacone mleko sojowe	65215
+371		Zmniejszenie tłuszczu masła orzechowego	65382
+372		Orzeszki ziemne, bez soli	65504
+373		Prażone orzeszki ziemne	65661
+374		Bajgiel	65814
+375		Rodzynek cynamon bułeczki	65993
+376		Herbatniki	66172
+377		Herbatniki	66340
+378		Francuski chleb	66514
+379		Chleb włoski	66755
+380		Ciemne pieczywo	66965
+381		Chleb żytni	67295
+382		Chleb	67622
+383		Tosty	67954
+384		Biały chleb	68285
+385		Białego pieczywa	68614
+386		Chleb razowy	68935
+387		Pełnoziarniste tosty	69263
+388		Bułka tarta	69592
+389		Ciasto czekoladowe	69731
+390		Biszkopt	69877
+391		Sernik	70021
+392		Czekoladowe ciasteczka	70170
+393		Kanapka czekoladowe ciasteczka	70330
+394		Masło orzechowe ciasteczka	70491
+395		Ciasteczka waniliowe kanapka	70650
+396		Dziadek do orzechów sera	70819
+397		Dziadek do orzechów	71021
+398		Krakersy z masłem orzechowym	71219
+399		Pszenne	71421
+400		Rogalik	71620
+401		Staromodny pączek	71793
+402		Pączek	72027
+403		Naleśnik	72266
+404		Szarlotka	72432
+405		Ciasto z dyni	72573
+406		Obiad rolki	72717
+407		Twarde bułki	72838
+408		Jagoda wypieki toster	73032
+409		Proszek do pieczenia	73159
+410		Drożdże	73287
+411		Wafel	73444
+412		Maślanka wafel	73579
+413		Ciasta toster matowe	73714
+414		Kukurydziane	73841
+415		Ser ciasta francuskiego	73999
+416		Karmelki	74171
+417		Pieczenia czekoladę	74323
+418		Półsłodki czekolada	74465
+419		Lekkie lody waniliowe	74598
+420		Bogate lody waniliowe	74735
+421		Lodami waniliowymi	74866
+422		Pomarańczowy sorbet	74998
+423		Żelki	75122
+424		Landrynki	75336
+425		Porcję	75454
+426		Czekolada mleczna	75622
+427		Orzechowe M & Ms	75762
+428		M & Ms	75955
+429		Pasek Twix	76150
+430		Kakao w proszku	76314
+431		Czekoladowe lody	76439
+432		Wapno lodu typu	76568
+433		Miód	76676
+434		Galaretki	76783
+435		Brązowego cukru	76927
+436		Cukier	77145
+437		Cukier puder	77355
+438		Syrop klonowy	77489
+439		Syrop klonowy	77612
+440		Żetony	77723
+441		Zmniejszenie tłuszczu frytki	77885
+442		Wzbogacony kukurydziana	78040
+443		Ryż brązowy	78166
+444		Surowy ryż biały	78290
+445		Ryż biały	78416
+446		Ryż parzony	78541
+447		Błyskawiczne ryżu	78667
+448		Pełnoziarniste mąki	78786
+449		Wszystkie mąki	78912
+450		Biały chleb mąki	79040
+451		Mąki tortowej	79167
+452		Makaron	79293
+453		Makaron	79485
+454		Herbatniki z jajkiem i kiełbasą	79613
+455		Herbatniki z kiełbasą	79746
+456		Sieka brązy	79879
+457		Kanapka	80028
+458		Frytki	80163
+459		Powstanie skorupa pizzy	80351
+460		Mrożonego mięsa i warzyw pizzy	80496
+461		Gruba skorupa pizzy	80641
+462		Cienka skorupa pizzy	80787
+463		Hamburgerów dwuosobowym	80946
+464		Ofert kurczaka	81083
+465		Makaron z Pulpety w sosie pomidorowym	81212
+466		Makaron z sosem pomidorowym	81340
+467		Toczyć jajko z wieprzowiną	81479
+468		Mielonej wołowiny (75/25)	81608
+469		Pasek kryzysu	81729
+470		Miód pęczki owsa z migdałami	81834
+471		Zmniejszonej zawartości tłuszczu, ser	81962
+472		Biały chipy	82220
+473		Bananowy nakrętki kryzysu	82371
+474		Precel	82507
+475		Sok żurawinowy	82654
+476		Miód Bukiety z owsa	82816
+477		Niskiej zawartości tłuszczu, ser szwajcarski	82946

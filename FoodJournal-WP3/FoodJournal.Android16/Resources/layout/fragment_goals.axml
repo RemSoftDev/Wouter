@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/contentpanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/mdtp_white"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_standard"
+        tools:context="com.uidesgin.AddItem">
+    <!-- Dummy item to prevent TextView from receiving focus -->
+        <LinearLayout
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="0px"
+            android:layout_height="0px" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/advertisement" />
+        <LinearLayout
+            android:id="@+id/contentpanel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/mdtp_white"
+            android:orientation="vertical"
+            tools:context="com.uidesgin.AddItem">
+            <TextView
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_standard"
+                android:layout_marginStart="@dimen/margin_standard"
+                android:layout_marginEnd="@dimen/margin_standard"
+                android:text="@string/personal_goal"
+                android:textColor="@color/abc_secondary_text_material_light"
+                android:textSize="@dimen/small_font_size" />
+            <EditText
+                android:id="@+id/editText_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_standard"
+                android:layout_marginEnd="@dimen/margin_standard"
+                android:hint="@string/describe_goal"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/abc_secondary_text_material_light"
+                style="@style/AppTheme" />
+            <TextView
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_standard"
+                android:layout_marginStart="@dimen/margin_standard"
+                android:layout_marginEnd="@dimen/margin_standard"
+                android:text="@string/target_date"
+                android:textColor="@color/abc_secondary_text_material_light"
+                android:textSize="@dimen/small_font_size" />
+            <EditText
+                android:id="@+id/editDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/target_date_hint"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary_text_default_material_light"
+                android:layout_marginStart="@dimen/margin_standard"
+                android:layout_marginEnd="@dimen/margin_standard"
+                android:focusable="false" />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:layout_marginTop="@dimen/margin_standard"
+            android:background="@color/button_material_dark" />
+        <LinearLayout
+            android:id="@+id/contentpanel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/mdtp_white"
+            android:orientation="vertical"
+            tools:context="com.uidesgin.AddItem">
+            <TextView
+                style="@style/AppTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_standard"
+                android:layout_marginStart="@dimen/margin_standard"
+                android:layout_marginEnd="@dimen/margin_standard"
+                android:text="@string/daily_target"
+                android:textColor="@color/abc_secondary_text_material_light"
+                android:textSize="@dimen/small_font_size" />
+            <LinearLayout
+                android:id="@+id/contentView"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:descendantFocusability="beforeDescendants"
+                android:focusableInTouchMode="true" />
+            <TextView
+                style="@style/AppTheme"
+                android:id="@+id/text_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:paddingLeft="@dimen/show_more"
+                android:paddingStart="@dimen/show_more"
+                android:paddingRight="@dimen/show_more"
+                android:paddingEnd="@dimen/show_more"
+                android:paddingTop="@dimen/margin_standard"
+                android:paddingBottom="@dimen/show_more_serving_bottom"
+                android:text="@string/add_target"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/accent"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+    </LinearLayout>
+</ScrollView>

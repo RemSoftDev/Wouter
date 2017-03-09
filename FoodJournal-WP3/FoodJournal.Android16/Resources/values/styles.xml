@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+  <style name="AppBaseTheme" parent="@style/Theme.AppCompat.NoActionBar"> <!-- Theme.AppCompat.Light -->
+    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    <item name="android:activatedBackgroundIndicator">@drawable/listsectionbackground</item>
+
+  </style>
+  <style name="AppThemeDialog" parent="Theme.AppCompat.Light.Dialog">
+
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+
+  </style>
+  <style name="FullHeightDialog" parent="android:style/Theme.Dialog">
+    <item name="android:windowNoTitle">true</item>
+  </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+            <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+      <item name="android:activatedBackgroundIndicator">@drawable/listsectionbackground</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="windowActionModeOverlay">true</item>
+
+        <!--<item name="android:fontFamily">sans-serif-light</item> -->
+
+        <!-- enable window content transitions -->
+        <item name="android:windowContentTransitions">true</item>
+
+        <item name="android:textColor">@color/primaryDark</item>
+
+        <item name="android:windowEnterTransition">@android:transition/slide_bottom</item>
+        <item name="android:windowExitTransition">@android:transition/slide_bottom</item>
+
+
+        <item name="android:activatedBackgroundIndicator">@color/accentToolbar</item>
+
+        <!-- enable overlapping of exiting and entering activities-->
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+
+    </style>
+
+
+    <style name="editTextStyle" parent="@android:style/Widget.EditText">
+    	<item name="android:textColor">#0f0</item>
+    </style>
+
+    <style name="AppTheme.ToolbarStyle" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar"> <!---parent="AppBaseTheme" -->
+        <!--<item name="actionOverflowButtonStyle">@style/AppTheme.OverflowButtonStyle</item>-->
+        <item name="android:textColor">@color/mdtp_white</item> 
+        <item name="android:textColorPrimary">@color/mdtp_white</item>	
+<!---        <item name="titleTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="android:titleTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item> -->
+    </style>
+  
+    <style name="Toolbar" parent="AppBaseTheme">
+        <item name="colorAccent">@color/accentToolbar</item>
+    </style>
+
+
+
+  <!-- Application theme. -->
+  <style name="AppTheme8" parent="AppBaseTheme">
+    <!-- All customizations that are NOT specific to a particular API-level can go here.
+    -->
+    <item name="android:actionBarStyle">@style/AppTheme8.ActionBarStyle</item> 
+    <item name="android:checkboxStyle">@style/CheckBoxWorkaround</item>
+    <item name="android:actionOverflowButtonStyle">@style/AppTheme8.ActionOverflowButtonStyle</item>
+            <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+  </style>
+
+<!--  android:textAppearance="?android:attr/textAppearanceLarge"
+  android:textAppearance="?android:attr/textAppearanceMedium"
+  android:textAppearance="?android:attr/textAppearanceSmall"
+-->
+  <style name="CheckBoxWorkaround" parent="android:Widget.CompoundButton.CheckBox">
+    <item name="android:button">?android:attr/listChoiceIndicatorMultiple</item>
+</style>
+
+  <style name="AppTheme8.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@color/ActionBar_Background</item>
+    <item name="android:titleTextStyle">@style/AppTheme8.ActionBar.TitleTextStyle</item>
+    <item name="android:subtitleTextStyle">@style/AppTheme8.ActionBar.SubTitleTextStyle</item>
+  </style>
+
+  <style name="AppTheme8.ActionBar.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+    <item name="android:textColor">@color/ActionBar_ForeColor</item>
+  </style>
+  <style name="AppTheme8.ActionBar.SubTitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+    <item name="android:textColor">@color/ActionBar_ForeColor</item>
+  </style>
+
+  <style name="AppTheme8.ActionBarStyle.TabView">
+    <item name="android:paddingLeft">30dip</item>
+    <item name="android:paddingRight">20dip</item>
+</style>
+
+  <style name="AppTheme8.ActionOverflowButtonStyle" parent="android:style/Widget.Holo.ActionButton.Overflow">
+     <item name="android:src">@drawable/ic_overflow</item> 
+  </style>
+   
+  <style name="SearchBoxStyle">
+    <item name="android:textColor">@color/ActionBar_ForeColor</item>
+  </style> 
+
+  <style name="PhoneTextLargeStyle">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+  </style>
+
+  <style name="PhoneTextExtraLargeStyle">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+  </style>
+
+  <style name="PhoneTextExtraLargeCenterStyle">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textColor">@color/ButtonForecolor</item>
+  </style>
+  
+  <style name="PhoneTextSmallStyle" >
+    <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    <item name="android:textColor">@color/NormalTextColor</item> 
+        <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+  <style name="PhoneTextSubtleStyle" >
+    <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    <item name="android:textColor">@color/SubtleTextColor</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+  <style name="PhoneTextSubtleStyleAllCaps" parent="PhoneTextSubtleStyle">
+    <item name="android:textAllCaps">true</item> 
+  </style>
+
+  <style name="EmptyStyle">
+    <item name="android:paddingTop">12dip</item>
+    <item name="android:paddingBottom">24dip</item>
+    <item name="android:paddingLeft">12dip</item>
+    <item name="android:paddingRight">12dip</item>
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    <item name="android:textColor">@color/SubtleTextColor</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+  <style name="PhoneTextNormalStyle">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    <item name="android:textColor">@color/NormalTextColor</item> 
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+    <style name="SectionStyle" parent="PhoneTextSubtleStyle">
+	   <item name="android:paddingTop">16dp</item>
+     <item name="android:textAllCaps">true</item>
+    </style>
+
+  <style name="SmallPrintStyle" >
+    <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    <item name="android:textColor">@color/SubtleTextColor</item>
+  </style>
+
+  <style name="FeedbackButtonTextStyle" parent="PhoneTextSmallStyle">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:layout_marginBottom">10dp</item>
+    <item name="android:textColor">@color/ButtonForecolor</item>
+  </style>
+
+    <style name="FeedbackButtonSubtleTextStyle" parent="PhoneTextSubtleStyle">
+    <item name="android:layout_gravity">center</item>
+    <item name="android:layout_marginTop">10dp</item>
+    <item name="android:textColor">@color/ButtonSubtleForecolor</item>
+  </style>
+
+    <style name="FeatureTextStyle" parent="PhoneTextSmallStyle">
+	    <item name="android:textStyle">bold</item>
+    </style>
+  <style name="FeatureTextTick" parent="PhoneTextSmallStyle">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">@color/ActionBar_Background</item>
+  </style>
+          <style name="FeatureDescriptionStyle" parent="PhoneTextSmallStyle">
+	    <item name="android:layout_marginBottom">8dip</item>
+    </style>
+
+  <!--android:selector="@drawable/listitemselector"
+  <item name="android:background">@color/ListItemBackcolor</item>
+-->
+  <style name="mydialogstyle" parent="android:style/Theme.Dialog">
+    <item name="android:windowBackground">@null</item>
+    <item name="android:windowNoTitle">false</item>
+  </style>
+  <style name="PaneStyle">
+    <item name="android:background">@color/ListItemBackcolor</item>
+    <item name="android:padding">@dimen/activity_standard_padding</item>
+  </style>
+
+  <style name="BackStyle">
+    <item name="android:background">@color/ListItemBackcolor</item>
+  </style>
+
+  <style name="ListViewStyle">
+    <item name="android:divider">#00FFFFFF</item>
+    <item name="android:dividerHeight">0px</item>
+<!---    <item name="android:childDivider">#00FFFFFF</item> -->
+<!---    <item name="android:divider">@drawable/divider</item> 
+    <item name="android:dividerHeight">2px</item>
+    <item name="android:childDivider">@drawable/divider</item>-->
+  </style>
+
+    <style name="ListItemStyle">
+    <item name="android:background">@drawable/listsectionbackground</item>
+<!--    <item name="android:background">@color/ListItemBackcolor</item> -> probelm with pressed and selectec color -->
+    <item name="android:padding">12dip</item>
+  </style>
+
+    <style name="ListItemStyle2" parent="PhoneTextLargeStyle">
+    <item name="android:background">@drawable/listsectionbackground</item>
+<!--    <item name="android:background">@color/ListItemBackcolor</item> -> probelm with pressed and selectec color -->
+    <item name="android:padding">12dip</item>
+  </style>
+
+    <style name="SubmitButtonStyle">
+		<item name="android:layout_margin">0dip</item>
+		<item name="android:padding">0dip</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">40dip</item>
+		<item name="android:layout_alignParentBottom">true</item>
+		<item name="android:background">@color/ButtonBackcolor</item> 
+<!--		<item name="android:background">@color/drawerbackcolor</item> -->
+		<item name="android:textSize">40sp</item>
+		<item name="android:typeface">monospace</item>
+		<item name="android:textColor">@color/ButtonForecolor</item>
+	</style>
+
+
+  	<style name="ButtonStyle">
+<!--		<item name="android:background">@drawable/btn_bg</item> (see store.droid if needed)
+		<item name="android:textColor">#ffffff</item>
+	-->
+	</style>
+
+	  	<style name="PlainButtonStyle">
+		<item name="android:background">@null</item>
+<!--		<item name="android:background">@drawable/btn_bg</item> (see store.droid if needed)
+		<item name="android:textColor">#ffffff</item>
+	-->
+	</style>
+
+	<style name="SettingsTimeStyle">
+		<item name="android:inputType">time</item>
+		<item name="android:layout_width">@dimen/settings_timewidth</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_gravity">right</item>
+		<item name="android:padding">@dimen/hitzone_standard_padding</item>
+    </style>
+
+	<style name="customCheckBoxStyle" parent="android:style/Widget.Holo.Light.CompoundButton.CheckBox">
+		<!--- <item name="android:textColor">@android:color/black</item> -->
+	</style>
+
+
+
+
+
+    <style name="Widget.MyApp.HeaderBar.Spinner" parent="Widget.AppCompat.Spinner.Underlined">
+        <item name="android:divider">@null</item>
+    </style>
+
+    <style name="Dialog" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="android:background">@color/mdtp_white</item>
+    </style>
+
+    <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="Drawer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">#F00</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:activatedBackgroundIndicator">@color/accentToolbar</item>
+    </style>
+
+    <style name="Setting" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+    </style>
+  
+    <!---
+	<style name="Dialog" >
+    </style>
+
+	<style name="Toolbar" >
+		<item name="android:textColorPrimary">@color/mdtp_white</item>	
+    </style>
+
+	<style name="ProgressBar" >
+    </style> -->
+
+    <!-- Base application theme. 
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorPrimaryDark">@color/accent</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+
+        <item name="android:textColor">@color/primaryDark</item>
+
+    </style>
+
+    	<style name="Dialog" parent="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="android:background">@color/mdtp_white</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accentSecondTheme</item>
+        <item name="android:colorPrimaryDark">@color/accentSecondTheme</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+
+        <item name="android:textColor">@color/primaryDarkSecondTheme</item>
+
+    </style>
+
+
+    <style name="Widget.MyApp.HeaderBar.Spinner" parent="Widget.AppCompat.Spinner.Underlined">
+        <item name="android:divider">@null</item>
+
+    </style>
+
+
+
+    <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="Drawer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+
+    </style>
+
+    <style name="Setting" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>
+    </style>
+    -->
+</resources>

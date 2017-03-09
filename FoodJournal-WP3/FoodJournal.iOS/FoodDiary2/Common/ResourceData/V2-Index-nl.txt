@@ -1,0 +1,2263 @@
+﻿Row	Meal	Name	Pos
+0	B	Brood	33
+1	L	Brood	318
+2	S	Roomboterkoekje	603
+3	D	Broccoli gekookt	758
+4	B	Spek mager	996
+5	B	Melk halfvolle	1155
+6	S	Brood	1274
+7	D	Spek mager	1559
+8	S	Chocolade melk-	1718
+9	B	Cornflakes	1859
+10	D	Spaghetti Bolognaise diepvries	1977
+11	L	Kaas 45+	2082
+12	D	Turkse pizza	2306
+13	B	Kaas 45+	2448
+14	D	Brood	2672
+15	B	Roomboterkoekje	2958
+16	D	Chips	3114
+17	S	Chips	3240
+18	B	Koffie	3366
+19	L	Chips	3461
+20	L	Spek mager	3587
+21	B	Granola	3747
+22	L	Broccoli gekookt	3864
+23	S	Melk halfvolle	4103
+24	L	Volkorenbrood	4223
+25	D	Avocado	4511
+26	B	Volkorenbrood	4678
+27	B	Cappuccino vers	4966
+28	B	Yoghurt magere	5094
+29	B	Pindakaas	5233
+30	D	Roomboterkoekje	5334
+31	B	Roomboter puntjes	5490
+32	S	Mandarijn	5670
+33	B	Pap havermout	5822
+34	S	Koekje	5949
+35	B	Honing	6113
+36	D	Groenten gekookt	6176
+37	L	Yoghurt magere	6273
+38	L	Melk halfvolle	6412
+39	S	Spek mager	6532
+40	L	Stokbrood	6692
+41	L	Turkse pizza	6979
+42	B	Jam	7121
+43	D	Melk halfvolle	7204
+44	B	Halvarineproduct	7324
+45	B	Kiwi	7499
+46	D	Yoghurt magere	7611
+47	B	Avocado	7750
+48	B	Stokbrood wit	7917
+49	B	Latte	8204
+50	L	Krekker	8327
+51	B	Soya joghurt	8544
+52	D	Kool rode gekookt	8713
+53	D	Tomaat	9003
+54	D	Ei gekookt	9256
+55	B	Smeerkaas 20+	9442
+56	B	Smeerkaas 40+	9568
+57	B	Thee	9683
+58	B	Spaghetti Bolognaise diepvries	9755
+59	L	Avocado	9860
+60	L	Halvarineproduct	10027
+61	S	Koek	10202
+62	D	Rijst witte gekookt	10318
+63	B	Boterham 	10411
+64	S	Krekker	10435
+65	S	Kaas 45+	10652
+66	S	Appel m schil	10876
+67	S	Koffie	11074
+68	S	Cornflakes	11169
+69	S	Yoghurt magere	11288
+70	B	Havermoutpap	11427
+71	D	Noodles	11549
+72	L	Tomaat	11670
+73	L	Koekje roomboter-	11923
+74	D	Koekje	12079
+75	D	Frites	12243
+76	D	Cornflakes	12417
+77	L	Boter gezouten	12536
+78	D	Krekker	12723
+79	B	Banaan	12940
+80	B	Roggebrood donker	13223
+81	S	Muesli krokante Cruesli Balans	13512
+82	L	Pindakaas	13600
+83	D	Kaas 45+	13701
+84	S	Water	13925
+85	S	Banaan	13993
+86	L	Spaghetti Bolognaise diepvries	14276
+87	L	Noodles	14381
+88	B	Melkchocolade	14502
+89	B	Ontbijtkoek	14644
+90	S	Granola	14793
+91	S	Kiwi	14910
+92	S	Avocado	15022
+93	D	Ontbijtkoek	15189
+94	B	Turkse pizza	15338
+95	S	Thee	15480
+96	D	Pasta witte gem gekookt	15552
+97	D	Soya joghurt	15701
+98	B	Ei gekookt	15870
+99	L	Thee	16056
+100	B	Krekker	16128
+101	S	Broccoli gekookt	16346
+102	B	Tomaat	16586
+103	L	Jam	16840
+104	L	Koffie	16924
+105	L	Roti	17020
+106	L	Ontbijtkoek	17326
+107	L	Latte	17476
+108	L	Melkchocolade	17600
+109	L	Kiwi	17743
+110	S	Walnoot 	17856
+111	B	Speculaas	18132
+112	L	Banaan	18239
+113	S	Turkse pizza	18523
+114	B	Ontbijtproduct Special K chocolade	18666
+115	D	Stokbrood wit	18771
+116	B	Mandarijn	19059
+117	S	Sinaasappel	19212
+118	L	Ei gekookt	19374
+119	L	Mandarijn	19561
+120	B	Kristalsuiker	19714
+121	D	Ui gebakken	19880
+122	B	Boter gezouten	20164
+123	B	Rietsuiker	20352
+124	L	Pate	20535
+125	D	Frisdrank cola	20572
+126	L	Koekje	20678
+127	S	Soya joghurt	20843
+128	D	Mandarijn	21013
+129	S	Wijn rode	21166
+130	B	Koek	21218
+131	D	Aardappelkroketten diepvries	21335
+132	D	Aardappelen	21537
+133	D	Roggebrood donker	21705
+134	D	Jam	21995
+135	L	Ui gebakken	22079
+136	D	Oliebol	22363
+137	D	Pangasius	22501
+138	D	Roti	22714
+139	S	Boterham 	23020
+140	D	Spinazie gekookt	23045
+141	S	Tomaat	23206
+142	B	Kipfilet (vleeswaar)	23460
+143	B	Broccoli gekookt	23652
+144	B	Spinazie gekookt	23892
+145	S	Amandelen	24053
+146	L	Appelstroop	24294
+147	L	Ahornsiroop	24363
+148	L	Beenham	24425
+149	L	Ei	24560
+150	D	Aardappels	24725
+151	L	Spinazie gekookt	24942
+152	L	Ananas	25103
+153	D	Pastinaak soep	25310
+154	L	Water	25373
+155	B	Ananas	25442
+156	L	Pastinaak soep	25649
+157	B	Appel m schil	25712
+158	L	Appel m schil	25911
+159	L	Boterham 	26110
+160	S	Spaghetti Bolognaise diepvries	26135
+161	S	Kaas Mozzarella	26241
+162	S	Latte	26469
+163	L	Roomboter puntjes	26593
+164	L	Roggebrood donker	26774
+165	D	Water	27064
+166	D	Thee	27133
+167	D	Vanille room ijs	27206
+168	D	Ananas	27315
+169	B	Oploscappuccino	27522
+170	B	Water	27667
+171	B	Chips	27736
+172	D	Kipfilet	27863
+173	D	Kiwi	28000
+174	L	Sinaasappel	28113
+175	B	Zonnebloempitten	28275
+176	B	Noodles	28372
+177	S	Frites	28494
+178	B	Beenham	28669
+179	B	Kipfilet	28804
+180	B	Chocoladehagelslag	28941
+181	S	Kipfilet (vleeswaar)	29075
+182	B	Kaas Mozzarella	29267
+183	L	Herbareep	29495
+184	D	Boterham 	29654
+185	D	Leverpastei	29679
+186	D	Kipfilet (vleeswaar)	29785
+187	D	Ei kippen- gekookt	29977
+188	D	Appel m schil	30142
+189	D	Komkommersalade	30341
+190	D	Latte	30568
+191	D	Prei gekookt	30692
+192	L	Cola light	30796
+193	L	Aardappelmeel	30927
+194	S	Noodles	31081
+195	L	Leverworst	31203
+196	S	Frisdrank cola	31329
+197	L	Fruitreep	31435
+198	L	Kool rode gekookt	31646
+199	L	Zalm gerookt	31937
+200	S	Donker roggebrood	32038
+201	S	Kwark volle	32328
+202	S	Pate	32446
+203	S	Pap havermout	32483
+204	S	Cola light	32611
+205	S	Beenham	32742
+206	S	Fruitreep	32877
+207	L	Mozzarella kaas	33088
+208	S	Stokbrood	33316
+209	D	Aardappelpuree bereid m hv melk m marg	33604
+210	L	Aardappelen	33715
+211	L	Aardappels	33883
+212	L	Volle chocolademelk	34100
+213	L	Wijn rode	34247
+214	L	Aardappelkroketten diepvries	34299
+215	L	Magere chocolademelk	34501
+216	L	Friet	34636
+217	S	Volkorenbrood	34826
+218	L	Bleekselderij	35115
+219	S	Appel Elstar z schil	35346
+220	S	Roomboter puntjes	35501
+221	S	Rijstkoeken met choco	35682
+222	S	Boter gezouten	35823
+223	S	Volle chocolademelk	36011
+224	S	Aardappelkroketten diepvries	36158
+225	S	Aardappelen	36360
+226	S	Aardappels	36528
+227	D	Aardappelpuree gem instant	36745
+228	B	Sinaasappel	36826
+229	B	Koekje	36988
+230	B	Fruitreep	37153
+231	B	Tomaat	37364
+232	D	Volkorenbrood	37492
+233	D	Kaas Mozzarella	37781
+234	D	Koek	38009
+235	L	Granola	38126
+236	D	Wijn rode	38244
+237	B	Kippen ei gekookt	38296
+238	D	Koffie	38461
+239	D	Beenham	38557
+240	S	Magere chocolademelk	38692
+241	L	Hamburger	38827
+242	L	Zuurkool	38943
+243	L	Soya joghurt	39019
+244	L	Groenten gekookt	39189
+245	D	Pate	39287
+246		Roomkaas	39324
+247		Parmezaanse kaas	39546
+248		Zwitserse kaas	39686
+249		Amerikaanse kaas	39940
+250		Amerikaanse kaas	40200
+251		Kaas verspreiden	40458
+252		Lichte room	40602
+253		Zware ranselende room	40765
+254		Gezouten boter	40949
+255		Slagroom boter	41162
+256		Boterolie	41375
+257		Cheddarkaas	41575
+258		Zure room	41831
+259		Crème plaatsvervanger poeder	41958
+260		Volle melk	42121
+261		2% melk	42281
+262		1% melk	42440
+263		Droge melk	42599
+264		Hele chocolade melk	42743
+265		Chocolade melk	42908
+266		Magere chocolade melk	43070
+267		Laag vet vanille yoghurt	43229
+268		Ei	43410
+269		Eigeel	43604
+270		Gebakken ei	43750
+271		Gedroogde ei	43946
+272		Boter zonder zout	44095
+273		Kaassaus	44307
+274		Laag vet cheddarkaas	44454
+275		Crème Plaatsvervanger	44702
+276		Chilipoeder	44862
+277		Mosterd	45009
+278		Zout	45149
+279		Smilac-voorschot	45284
+280		Reuzel	45422
+281		Aardnotenolie	45527
+282		Sojaolie	45660
+283		Olijfolie	45799
+284		Laag vet plantaardige olie verspreid	45940
+285		Maïsolie	46147
+286		Canola-olie	46285
+287		Boter stok	46422
+288		Plantaardige olie verspreid	46629
+289		Plantaardige olie	46781
+290		Industriële sojaolie	46923
+291		Industriële soja en katoenzaad olie	47061
+292		Kokosolie	47199
+293		Kip	47337
+294		Gepaneerde kip	47555
+295		Kip	47778
+296		Gebakken kip	47992
+297		Gebraden kippenvlees	48213
+298		Gestoofde kip	48429
+299		Kippenlever	48645
+300		Kippenborst met huid	48768
+301		Gepaneerde kipfilet	48928
+302		Geroosterde kip-borst	49094
+303		Kip borstvlees	49253
+304		Kipfilet	49418
+305		Kip been	49578
+306		Kip dij	49744
+307		Kip vleugel	49899
+308		Geroosterde kip vleugel	50041
+309		Geroosterde Turkije	50160
+310		Geroosterde kalkoenvlees	50296
+311		Grond Turkije	50428
+312		Rundvlees bouillon	50548
+313		Kip noodlesoep	50697
+314		Crème van champignonsoep	50855
+315		Jus	51013
+316		Rundvlees voorraad	51161
+317		Kippenbouillon	51317
+318		Kippenbouillon	51475
+319		Leverworst	51628
+320		Hotdog	51761
+321		Kip hotdog	51886
+322		Lunch vlees	52017
+323		Worst	52173
+324		Varkens- en rundvlees worst	52298
+325		Kalkoenfilet	52454
+326		Lichte vlees Roulade van kalkoen	52646
+327		Roulade van kalkoen	52793
+328		Italiaanse worst	52944
+329		Voorgekookt varkensworst	53105
+330		Apple-aansluitingen	53231
+331		Cacao steentjes	53352
+332		Maïs chex	53469
+333		Cornflakes	53587
+334		All-zemelen tarwe vlokken	53710
+335		Fruitige steentjes	53823
+336		Muesli	53935
+337		Druif-noten granen	54060
+338		KIX	54190
+339		Gelukssymbolen	54319
+340		Honing moer chex	54451
+341		Rozijn zemelen	54583
+342		Rozijn zemelen granen	54711
+343		Rijst chex	54835
+344		Gehele korrel totale	54956
+345		Tarwe chex	55077
+346		Maïs grutten	55199
+347		Haver	55327
+348		Havermout	55461
+349		Haver met kaneel en specerijen	55600
+350		Haver met rozijnen en specerijen	55739
+351		Laag vet muesli zonder rozijnen	55882
+352		Havermout pleinen	55998
+353		Haver zemelen granen	56129
+354		Vezel een	56259
+355		Totale rozijnen zemelen	56374
+356		Cacao soezen	56492
+357		Laag vet muesli met rozijnen	56613
+358		Honing geroosterd haver	56731
+359		Vanille amandel	56850
+360		Appelsap	56968
+361		Appelmoes	57126
+362		Banaan	57263
+363		Bosbessen	57585
+364		Druivensap	57736
+365		Druiven	57896
+366		Meloen	58050
+367		Verse jus d'orange	58408
+368		Oranje sap concentraat	58562
+369		Jus d'orange bevroren concentraat	58723
+370		Perzik	58888
+371		Ananas	59108
+372		Rozijnen	59359
+373		Aardbei	59629
+374		Bevroren aardbeien	59932
+375		Watermeloen	60239
+376		Druif, appel- en perenbomen SAP	60593
+377		Gebraden vet op varkensvlees lendenen	60753
+378		Gebraden varkensvlees lendenen	60897
+379		Geroosterde varkensvlees lendenen	61040
+380		Koteletten	61184
+381		Varkensvlees bezuinigingen	61329
+382		Grond varkensvlees	61477
+383		Asperges	61598
+384		Groene module bonen	61739
+385		Ingeblikte groene bonen	61876
+386		Bevroren groene bonen van de module	62055
+387		Rauwe kool	62190
+388		Kool	62532
+389		Wortel	62872
+390		Gekookte wortel	63208
+391		Bevroren wortel	63542
+392		Selderij	63878
+393		Cichorei Groenen	64162
+394		Loofgroenten	64287
+395		Maïs	64419
+396		Ingeblikte gele maïs	64721
+397		Bevroren maïs	64873
+398		Komkommer	65175
+399		Andijvie	65416
+400		Boerenkool	65578
+401		Ijsbergsla	65704
+402		Groene sla	66062
+403		Witte paddestoel	66420
+404		UI	66578
+405		Gekookte UI	66884
+406		Lente-ui	67193
+407		Peterselie	67401
+408		Groene erwten	67559
+409		Ingeblikte groene erwten	67684
+410		Bevroren groene erwten	67809
+411		Aardappel	67934
+412		Gebakken aardappel	68158
+413		Gekookte aardappel	68379
+414		Aardappelpuree	68600
+415		Aardappel soezen	68728
+416		Ruwe spinazie	68898
+417		Gekookte spinazie	69086
+418		Ingeblikte spinazie	69211
+419		Gebakken zoete aardappel	69334
+420		Zoete aardappel	69538
+421		Tomaat	69738
+422		Gekookte tomaten	70096
+423		Ingeblikte tomaten	70379
+424		Gestoofde tomaten in blik	70565
+425		Tomatensap	70846
+426		Tomatenpuree	71009
+427		Ingeblikte tomatensaus	71166
+428		Raapstelen	71321
+429		Ingeblikte groentesap	71455
+430		Gemengde groenten	71617
+431		Zomerpompoen	71741
+432		Ingeblikte zoete aardappel	71951
+433		Ingeblikte wortelsap	72153
+434		Gebakken aardappel met huid	72314
+435		Tomatenpuree	72537
+436		Augurk	72696
+437		Zonnebloempitten	72936
+438		Geroosterde zonnebloempitten	73064
+439		Amandelen	73193
+440		Gebleekte amandelen	73445
+441		Geroosterde amandelen	73682
+442		Geroosterde olie zonnebloempitten	73918
+443		Gezouten geroosterde amandelen	74050
+444		Cashewnoten	74288
+445		Gemengde noten	74469
+446		Olie geroosterde gemengde noten	74594
+447		Rundvlees lever	74725
+448		Rundvlees lever	74851
+449		Rundvlees "briskets" aangeduide	74977
+450		Rundvlees	75092
+451		Rundvlees ronde	75286
+452		Bier	75401
+453		80 bewijs drank	75537
+454		Rode wijn	75631
+455		Witte wijn	75734
+456		Groente- en fruitsector SAP	75835
+457		Rode stier energiedrank	75980
+458		Chocolade siroop	76150
+459		Koffie	76279
+460		Oploskoffie	76426
+461		Verrijkte vruchten drankje	76559
+462		Limonade	76736
+463		Thee	76922
+464		Leidingwater	77065
+465		86 bewijs drank	77190
+466		Platte vis	77286
+467		Haring	77409
+468		Zalm	77663
+469		Lichte tonijnconserven	77782
+470		Krab	77962
+471		Garnalen	78164
+472		Ingeblikte garnalen	78309
+473		Kokkels	78454
+474		Ingeblikte kokkels	78637
+475		Oester	78824
+476		Meerval	78964
+477		Regenboogforel	79085
+478		Gebakken bonen	79210
+479		Gebakken bonen met Franken	79335
+480		Zwarte bonen	79462
+481		Witte bonen	79601
+482		Linzen	79737
+483		Gekookte linzen	79879
+484		Gezouten pinda 's	80017
+485		Gezouten geroosterde pinda 's	80165
+486		Pindakaas	80309
+487		Gebakken bonen	80440
+488		Sojasaus	80579
+489		Verrijkte sojamelk	80756
+490		Lagere vet pindakaas	80917
+491		Pinda's zonder zout	81043
+492		Geroosterde pinda 's	81189
+493		Koekje	81331
+494		Koekje	81498
+495		Maïsbrood	81671
+496		Frans brood	81820
+497		Italiaans brood	82066
+498		Multi graan brood	82281
+499		Roggebrood	82596
+500		Brood	82908
+501		Wit brood	83225
+502		Volkoren brood	83539
+503		Broodkruimels	83852
+504		Chocoladetaart	83987
+505		Biscuit	84135
+506		Kaas kraker	84281
+507		Ringdiagrammen	84514
+508		Pannenkoek	84797
+509		Appeltaart	85013
+510		Diner rollen	85205
+511		Bakpoeder	85325
+512		Gist	85455
+513		Wafel	85607
+514		Karnemelk wafel	85771
+515		Berijpte broodrooster gebak	85935
+516		Kaas soezen	86061
+517		Witte tortillachips	86228
+518		Karamels	86377
+519		Bakken chocolade	86524
+520		Halfzoete chocolade	86689
+521		Lichte vanille-ijs	86845
+522		Vanille-ijs	86977
+523		Oranje sorbet	87104
+524		Gomlekkers	87233
+525		Heemst	87558
+526		Melk chocolade	87721
+527		Pinda M & Ms	87884
+528		M & Ms	88077
+529		Cacaopoeder	88272
+530		Chocolade-ijs	88396
+531		Honing	88520
+532		Gelei	88626
+533		Bruine suiker	88765
+534		Suiker	88993
+535		Poedersuiker	89213
+536		Verrijkte maïsmeel	89383
+537		Bruine rijst	89506
+538		Rauwe witte rijst	89627
+539		Witte rijst	89750
+540		Volkoren meel	89872
+541		Alle doeleinden meel	89995
+542		Wit broodmeel	90120
+543		Noedels	90244
+544		Koekje met ei en worst	90369
+545		Koekje met worst	90501
+546		Friet	90633
+547		Kip offertes	90830
+548		Gemalen rundvlees (75/25)	90959
+549		Gele tortillachips	91079
+550		Krakeling	91230
+551		Laag vet kaas van Amerikaanse	91380
+552		Laag vet Zwitserse kaas	91630
+553	P	Rijstwafels Zeezout (AH)	91881
+554	P	Rijstwafel (Aldi)	91951
+555	P	Rijstwafel met Chocolade (Euro Shopper)	92058
+556	P	Rijstwafel met Zout (Crusti Croc)	92171
+557	P	Rijstwafel met Zeezout (Brink)	92235
+558	P	Rijstwafels	92297
+559	P	Rijstwafel Barbecue Paprika (Snack A Jacks)	92453
+560	P	Biologische Rijstwafels (AH Puur & Eerlijk)	92592
+561	P	Ice Tea (Lipton)	92655
+562	P	Ice Tea Green (Lipton)	92718
+563	P	Iced Tea Peach (Euro Shopper)	92791
+564	P	Ice Tea (Blikje) (Lipton)	92847
+565	P	Ice Tea Zero (Lipton)	92926
+566	P	Ice Tea (Westminster)	92998
+567	P	Ice Tea Perzik (C1000)	93057
+568	P	Ice Tea Lemon (Lipton)	93112
+569	P	Ice Tea (Pataya)	93165
+570	P	Ice Tea Perzik (Karvan Cevitam)	93228
+571	P	Hummus	93285
+572	P	Gemengd Volkoren Brood	93458
+573	P	Geroosterd Gemengd Volkoren Brood	93640
+574	P	Havermout Brood	93825
+575	P	Wit Brood (Caloriearme)	93984
+576	P	Tarwezemelen Brood	94133
+577	P	Wit Brood	94293
+578	P	Brood Vulsel (Droge Mix)	94651
+579	P	Brood Vulsel (Droge Mix, Gefabriceerd)	94807
+580	P	Banaan Brood (met Margarine)	94920
+581	P	Gebroken Tarwe Brood	95073
+582	P	Naturel Light (Philadelphia)	95321
+583	P	Cake Biscuit	95415
+584	P	Koffie (Gemalen)	95504
+585	P	Koffie (Espresso)	95680
+586	P	Koffie (Oplos-Koffiepoeder)	95789
+587	P	Koffie (Oploskoffie)	95978
+588	P	Koffie (Oploskoffie, Cappuccino Poeder, met Suiker)	96094
+589	P	Bieslook Light (Philadelphia)	96299
+590	P	Light (Philadelphia)	96396
+591	P	Kruiden (Philadelphia)	96477
+592	P	Naturel (Philadelphia)	96578
+593	P	Rijstwafel (Euro Shopper)	96645
+594	P	Rijstwafel (Zonnatura)	96700
+595	P	Light Gegrilde Paprika (Philadelphia)	96821
+596	P	Sweet Chili Light (Philadelphia)	96876
+597	P	Naturel Light (Philadelphia)	96939
+598	P	Light Uitjes en Zwarte Peper (Philadelphia)	97001
+599	P	Zalm & Dille (Philadelphia)	97064
+600	P	Appel	97126
+601	P	Pink Lady Appels	97528
+602	P	Appels (zonder Schil)	97925
+603	P	Granny Smith Appels	98151
+604	P	Golden Delicious Appels	98553
+605	P	Fuji Appels	98921
+606	P	Braeburn Appels	99322
+607	P	Appelbol	99702
+608	P	Zoete Kleine Appeltjes (AH)	99861
+609	P	Appel-Abrikozen Taartje (AH)	99915
+610	P	Spaghetti / Marinara Pastasaus	99973
+611	P	Volkoren Spaghetti (Gekookt)	100112
+612	P	Droge Spaghetti	100250
+613	P	Vloeibare Boter	100375
+614	P	Plantaardige Margarine (Caloriearm)	100472
+615	P	Plantaardige Margarine (Kuipje, Caloriearm, Gezouten)	100610
+616	P	Margarine-Boter Mengsel (60% Maïsolie en 40% Boter)	100734
+617	P	Soja-Eiwit Isolaat	100942
+618	P	Aardappelpuree (met Volle Melk en Boter)	101043
+619	P	Boter (Gezouten)	101185
+620	P	Opgeklopte Boter (Gezouten)	101423
+621	P	Boter	101657
+622	P	Koekjes met Chocolate Chip Topping (met Boter)	101895
+623	P	Rijstwafel BBQ (Plus)	102063
+624	P	Milde Yoghurt (Vecozuivel)	102123
+625	P	Taco Saus Mild (AH)	102160
+626	P	Mild Appel Troebel (Appelsientje)	102220
+627	P	Geraspte Kaas Mild (C1000)	102293
+628	P	Olijfolie Mild (Jumbo)	102336
+629	P	Milde Magere Yoghurt (Bio+)	102390
+630	P	Biologische Milde Magere Yoghurt (AH)	102452
+631	P	Magere Milde Kwark (Melkan)	102507
+632	P	Mild Bosfruit (Appelsientje)	102569
+633	P	Milde Halfvolle Yoghurt Kers (Almhof)	102630
+634	P	Kerriesaus (Gedroogd)	102671
+635	P	Teriyakisaus	102815
+636	P	Salsa (Kant en Klaar)	102977
+637	P	Chilisaus	103116
+638	P	Kaassaus	103235
+639	P	Tomatensaus (uit Blik)	103405
+640	P	Sojasaus (Shoyu)	103588
+641	P	Sojasaus (Tamari)	103801
+642	P	Sojasaus (Shoyu) (Natriumarm)	103988
+643	P	Thee (Cafeïnevrije)	104153
+644	P	Bagels (met Ui, Maanzaad, Sesam) (met Calcium)	104322
+645	P	Knäckebröd (Naturel of met Honing, met Kaneel)	104602
+646	P	Cola (met Cafeïne, met Aspartaam)	104889
+647	P	Koekjes met Chocolate Chip Topping (met Margarine)	105043
+648	P	Kruidenthee (Anders dan Kamille)	105257
+649	P	Cola (met Cafeïne)	105421
+650	P	Cranberrysap Cocktail (Diepgevroren Concentraat met Water)	105741
+651	P	Whisky met Citroensap	105889
+652	P	Smeerkaas Balans 15+ (ERU)	106057
+653	P	Rundergehakt (15% Vet)	106110
+654	P	Rundergehakt (Burger, 15% Vet, Gebraden)	106245
+655	P	Bakkers Crackers (Bolletje)	106470
+656	P	Bakkers Crackers Meerzaden (Bolletje)	106583
+657	P	Bakkers Crackers Volkoren (Bolletje)	106697
+658	P	Crackers	106805
+659	P	Crackers (met Pindakaas Vulling)	107075
+660	P	Tarwe Crackers	107259
+661	P	Volkoren Crackers	107496
+662	P	Kaascrackers	107698
+663	P	Rogge Knäckebröd	107991
+664	P	Melba Toast	108282
+665	P	Groene Olijven (Ingemaakt, uit Blik of Glas)	108509
+666	P	Multi Vitamientje (Appelsientje)	108614
+667	P	Multivitamientje (Appelsientje)	108684
+668	P	Mango (Appelsientje)	108767
+669	P	Multi Vitamientje Appel-Peer (Appelsientje)	108806
+670	P	Multi Vitamientje Rood Fruit (Appelsientje)	108878
+671	P	Sprankelfruit Sinaasappel (Appelsientje)	108941
+672	P	Dubbeldrank Ananas & Guave (Appelsientje)	109011
+673	P	Vitamientje Bosvruchten (Appelsientje)	109065
+674	P	Koude Schotel (Onze Trots)	109130
+675	P	Yoghurt Biscuit (Jumbo)	109198
+676	P	Yoghurt (Mager)	109315
+677	P	Yoghurt (Halfvol)	109509
+678	P	Yoghurt (Vol)	109700
+679	P	Vanille Yoghurt (Vetarm)	109907
+680	P	Vanille of Citroen Yoghurt (Vetarm met Caloriearme Zoetstoffen)	110095
+681	P	Vanille Yoghurtsoftijs	110192
+682	P	Chocolade Yoghurtsoftijs	110354
+683	P	Vruchtenyoghurt (Vetarm)	110498
+684	P	Gebakken Spekjes (AH)	110683
+685	P	Spekjes Gerookt (De Vegetarische Slager)	110738
+686	P	Mosterdsoep met Spekjes (AH)	110803
+687	P	Zomer Zuurkoolstamppot met Spekjes (Coquette)	110864
+688	P	Aardappelblokjes met Kruidenolie en Spekjes (Peka)	110929
+689	P	Vakantievla Spekjessmaak (Campina)	110992
+690	P	Melk (Vetarm met Toegevoegde Vitamine A)	111059
+691	P	Melk (Mager, Calcium Verrijkt)	111281
+692	P	Melk (Vetvrij)	111434
+693	P	Chocolade Gebak (zonder Chocolade Glazuur)	111610
+694	P	Mueslirepen met Chocolade Chip en Chocolade Topping	111840
+695	P	Melk (Halfvol met Toegevoegde Vitamine A)	111975
+696	P	Melk (Mager met Toegevoegde Vitamine A)	112186
+697	P	Chocolade Milkshake (Dikke)	112405
+698	P	Bruine Boterham	112572
+699	P	Boterham met Kaas	112807
+700	P	Boterham met Pindakaas	112997
+701	P	Witte Boterham	113181
+702	P	Boterham met Kipfilet en Boter	113409
+703	P	Boterham met Ham en Boter	113573
+704	P	Parijzer Boterhamworst (Aldi)	113759
+705	P	Boterhamkorrels Licht (Quino)	113861
+706	P	Boterham met Rosbief	113926
+707	P	Boterham met Tonijnsalade	114114
+708	P	Wit Kalkoenvlees (Gegrild, in Plakjes)	114301
+709	P	Wit Grapefruitsap	114399
+710	P	Wit Pitabrood	114639
+711	P	Fries Roggebrood	114777
+712	P	Framboos Drink (Optimel)	115005
+713	P	Magere Kwark Aardbei (Optimel)	115060
+714	P	Limoen Drink (Optimel)	115122
+715	P	Vanille Yoghurt 0% Vet (Optimel)	115182
+716	P	Aardbei-Kers Drink (Optimel)	115245
+717	P	Drink Mango Passievrucht (Optimel)	115295
+718	P	Aardbei Yoghurt (Optimel)	115335
+719	P	Yoghurt Bosvruchten (Optimel)	115388
+720	P	Yoghurt Griekse Stijl Framboos (Optimel)	115459
+721	P	Magere Kwark (Appel/Kaneel) (Optimel)	115516
+722	P	Volkoren Spaghetti (Honig)	115555
+723	P	Biologische Volkoren Spaghetti (AH)	115613
+724	P	Volkoren Spaghetti	115671
+725	P	Volkoren Spaghetti met Vleessaus	115845
+726	P	Droge Volkoren Pasta	116024
+727	P	Volkoren Spaghetti (Jumbo)	116135
+728	P	Zachte Volkoren Broodjes	116202
+729	P	Pistolet	116525
+730	P	Pistolet Bruin (AH)	116695
+731	P	Witte Pistolets (AH)	116738
+732	P	Pistolets Meergranen (Plus)	116799
+733	P	Bruine Pistolet (Hema)	116898
+734	P	Pistolets Wit (Plus)	116963
+735	P	Voorgebakken Pistolets (Euro Shopper)	117075
+736	P	Pistolet Meergranen (Jumbo)	117126
+737	P	Bruine Pistolets (AH)	117220
+738	P	Koffie	117281
+739	P	Koffie met Melk	117529
+740	P	Koffie met Melk en Suiker	117742
+741	P	Cappuccino	117953
+742	P	Koffie (Gezoet)	118260
+743	P	Espresso	118513
+744	P	Dark Roast (Senseo)	118718
+745	P	Koffie Latte	118768
+746	P	Oploskoffie (Poeder)	119037
+747	P	Muffin (Neutraal)	119237
+748	P	Muffin met Chocolate Chip	119476
+749	P	Bosbes Muffins	119715
+750	P	Muffin met Fruit en/of Noten	119963
+751	P	Mini Muffins (Trader Joe's )	120215
+752	P	Verwen Muffins Chocolade (Dr. Oetker)	120302
+753	P	Double Chocolate Muffin (McDonald's)	120389
+754	P	Engelse Muffin	120449
+755	P	Volkoren Muffins	120667
+756	P	Ambachtelijke Yoghurt Bosbessen Muffin (AH)	120833
+757	P	Groene Erwten	120891
+758	P	Groene Erwten (Uitgelekt, uit Blik)	121076
+759	P	Peultjes of Sugar Snaps	121291
+760	P	Groene Erwten (Ingevroren)	121477
+761	P	Erwtjes en Worteltjes (Ingevroren)	121688
+762	P	Gemengde Groenten (Mais, Lima Bonen, Erwten, Groene Bonen, Wortelen) (zonder Zout, uit Blik)	121846
+763	P	Koekjes met Chocolate Chip Topping (Vetarm)	122032
+764	P	Koekjes met Chocolate Chip Topping (Zacht)	122176
+765	P	Deeg Voor Koekjes met Chocolate Chip Topping	122327
+766	P	Maïs Chips Naturel	122486
+767	P	Chips met Barbecue Smaak	122608
+768	P	Chips met Zure Room en Ui Smaak	122719
+769	P	Original (Pringles)	122830
+770	P	Paprika (Pringles)	122932
+771	P	Sour Cream & Onion (Pringles)	123035
+772	P	Hot & Spicy (Pringles)	123096
+773	P	Geroosterde Amandelen (Gezouten)	123156
+774	P	Amandelschaafsel (AH)	123318
+775	P	Dry Roasted Amandelen (Duyvis)	123376
+776	P	Amandelen (Neal's Yard Wholefoods)	123436
+777	P	in Honing Geroosterde Amandelen	123498
+778	P	Oven Roasted Amandelen (Duyvis)	123664
+779	P	Amandel (Mars)	123725
+780	P	Bloemkool	123787
+781	P	Gekookte Bloemkool (Vers, zonder Olie Bereid)	124056
+782	P	Gekookte Bloemkool (Vers)	124402
+783	P	Gekookte Bloemkool (zonder Olie Bereid)	124786
+784	P	Gehakt met Bloemkool en Roomsaus (Maggi)	124962
+785	P	Bloemkool Broccoli Roosjes (AH)	125045
+786	P	4-Kazen Saus (Maggi)	125099
+787	P	Bloemkoolroosjes (AH)	125175
+788	P	Gekookte Bloemkool (uit de Diepvries, zonder Olie Bereid)	125230
+789	P	Bloemkool (Ingevroren)	125462
+790	P	Tortilla Chips (Naturel)	125636
+791	P	Salt & Vinegar (Pringles)	125754
+792	P	Xtra Cheesy Nacho Cheese (Pringles)	125856
+793	P	Frieten	125922
+794	P	Frieten (Gefrituurd, uit de Diepvries)	126312
+795	P	Zelfgemaakte Frieten	126506
+796	P	Patat (Golden)	126895
+797	P	Ras Patat (Aviko)	126944
+798	P	Patat Frites (Jumbo)	127012
+799	P	Patat Frites (Aldi)	127077
+800	P	Patat Frites (Plus)	127142
+801	P	Patatje Joppie (Lay's)	127209
+802	P	Patat Frites (C1000 Basis)	127259
+803	P	Snickers (Snickers)	127302
+804	P	Mini (Snickers)	127373
+805	P	Cruncher (Snickers)	127478
+806	P	Snickers Ice Cream (Snickers)	127556
+807	P	Noedelsoep met Kipsmaak (Gedroogd)	127670
+808	P	Varkensvlees Salami (Gedroogd)	127851
+809	P	Bouillabaisse (AH Excellent)	128053
+810	P	Appelsap (Diepgevroren Concentraat, Verdund met Water)	128118
+811	P	Perziken (in Water, uit Blik, Vloeistof en Vaste Stof)	128317
+812	P	Fruit Punch (Diepgevroren Concentraat met Water)	128552
+813	P	Roze Limonade (Diepgevroren Concentraat met Water)	128732
+814	P	Geroosterde Zonnebloempitten (met Gezouten)	128906
+815	P	Green Tea (Lipton)	129027
+816	P	Ice Tea Green Tea (Lipton)	129108
+817	P	Green Tea Intense Mint (Lipton)	129165
+818	P	Green Tea Mandarin Orange (Lipton)	129222
+819	P	Green Tea Strawberry Cupcake (Lipton)	129295
+820	P	Chocolade Sandwich Koekjes (met Creme Vulling)	129348
+821	P	Havermoutkoekjes (met Rozijnen)	129510
+822	P	Suiker Koekjes (met Vanille)	129676
+823	P	Suiker Koekjes (met Margarine)	129841
+824	P	Vanille-Sandwich Koekjes (met Creme Vulling)	130029
+825	P	Koekjes van Melk of Karnemelk (Droge Mix, van te Voren Bereid)	130241
+826	P	Filet Americain (Extra Mager)	130337
+827	P	Filet Americain Naturel (Lidl)	130528
+828	P	Filet Americain Naturel (AH)	130594
+829	P	Filet Americain met Uitjes (AH)	130655
+830	P	Filet Americain (Euro Shopper)	130715
+831	P	Filet Americain (C1000)	130777
+832	P	Filet Americain (AH)	130831
+833	P	Filet Americain Pesto (AH)	130890
+834	P	Filet Americain Sweet Onions (AH)	130951
+835	P	Filet Americain (Kips')	131013
+836	P	Aardappelen (zonder Schil, met Zout, Gekookt)	131075
+837	P	Gebakken Aardappelen	131261
+838	P	Vastkokende Aardappelen (AH)	131473
+839	P	Aardappelen (zonder Schil, zonder Zout, Gekookt)	131525
+840	P	Aardappel (Vlees en Schil)	131711
+841	P	Aardappelpartjes (Aviko)	132055
+842	P	Geroosterde Aardappel	132112
+843	P	Aardappelpuree (van Verse Aardappelen)	132457
+844	P	Aardappelpuree	132850
+845	P	Oven Aardappelen Gratin (AH)	133238
+846	P	Tarwe Melba Toast	133289
+847	P	Tarwe Muffins	133455
+848	P	Harde Witte Tarwe	133620
+849	P	Witte Tarwebloem	133761
+850	P	Durumtarwe	133898
+851	P	Tarwezemelen (Ruw)	134027
+852	P	Tarwekiem	134170
+853	P	Snelkookrijst (Aldi)	134300
+854	P	Snelkookrijst (C1000)	134402
+855	P	Zilvervlies Snelkookrijst (Golden Sun)	134463
+856	P	Stoofvlees	134525
+857	P	Stoofpot met Rundvlees, Aardappelen en Groeten in Saus op Tomatenbasis	134669
+858	P	Curry met Rundvlees	134843
+859	P	Stoofpot met Rundvlees, Aardappelen en Groeten (Waaronder Wortellen, Broccoli en/of Groene Bladgroenten) in Saus op Tomatenbasis	135026
+860	P	Oosterse Stijl Rijstnoedelsoep met Rundvlees (Vietnamese Phó Bo)	135219
+861	P	Roze Koeken (Plus)	135397
+862	P	Roze Koek Pudding (Mona)	135498
+863	P	Mini Roze Koek (AH)	135561
+864	P	Roze Koek (AH)	135629
+865	P	Roze Grapefruitsap	135694
+866	P	Grapefruit (Roze en Rood)	135856
+867	P	Roze Zalm	136092
+868	P	Runder-Riblap (Klein Uiteinde, 0,3 cm Vet)	136266
+869	P	Runder Biefstuk (0,3 cm Vet)	136386
+870	P	Runder Biefstuk (Mager, 0 cm Vet)	136505
+871	P	Franse Salade Dressing (Olie Basis, Vetarm)	136641
+872	P	Italiaanse Salade Dressing (Olie Basis, Vetarm)	136820
+873	P	Italiaanse Salade Dressing (Olie Basis)	136994
+874	P	Franse Salade Dressing (Olie Basis)	137166
+875	P	Franse Salade Dressing (Olie Basis, Vetvrij)	137367
+876	P	Roquefort & Schimmelkaas Salade Dressing	137552
+877	P	Italiaanse Salade Dressing (Vetvrij)	137730
+878	P	Salade Dressing (Karnemelk en Mayonaise Basis, Vetarm)	137902
+879	P	Seroendeng (Conimex)	138073
+880	P	Shake Mix Chocolate (Atkins)	138127
+881	P	Milk Chocolate Shake (Atkins)	138235
+882	P	Chocolade Shake (Cambridge)	138345
+883	P	Slavink (AH)	138494
+884	P	Slavink (Lidl)	138558
+885	P	Slavink (Aldi)	138626
+886	P	Slavink met Spinazie (C1000)	138694
+887	P	Komkommersalade (AH)	138770
+888	P	Komkommersalade (Bon Appetit)	138826
+889	P	Komkommersalade (Saladinettes)	138890
+890	P	Komkommer in Yoghurtdressing (AH)	138947
+891	P	Augurken	139011
+892	P	Kalkoenvlees (Gekookt, Gebakken)	139252
+893	P	Kalkoenborst met Vel (Gekookt, Gebakken)	139464
+894	P	Kalkoenborst (Gekookt, Gebakken)	139674
+895	P	Gerookte Kalkoen Drumstick (met Vel)	139896
+896	P	Kipfilet (Gekookt, Gebakken)	140275
+897	P	Bacon (Gekruid, Geroosterd, Gebakken of Gebraden)	140497
+898	P	Spek (Gekruid, Gebakken)	140702
+899	P	Russet Aardappelen (Vlees en Schil, Gebakken)	140905
+900	P	Witte Aardappelen (Vlees en Schil, Gebakken)	141217
+901	P	Rode Aardappelen (Vlees en Schil, Gebakken)	141529
+902	P	Edammer Kaas	141839
+903	P	Cheddar Kaas	141989
+904	P	Havermout (De Halm)	142277
+905	P	Ultra Fine Oats (Body & Fit)	142335
+906	P	Colby Kaas	142391
+907	P	Feta Kaas	142650
+908	P	Goudse Kaas	142844
+909	P	Monterey Kaas	142996
+910	P	Mozzarella Kaas (Vetarm)	143240
+911	P	Münster Kaas	143366
+912	P	Parmezaanse Kaas (Geraspt)	143650
+913	P	Parmezaanse Kaas	143844
+914	P	Harde Kaiserbroodjes	144020
+915	P	Kaiserbroodje (Jumbo)	144200
+916	P	Kaiserbroodje Oven (AH)	144273
+917	P	Kaiserbroodjes Wit met Sesam (Aldi)	144338
+918	P	Kaiserbroodjes (De Molenhoeve)	144412
+919	P	Kaiserbroodje (Plus)	144485
+920	P	Cake	144547
+921	P	Fijne Cake (Koopmans)	144835
+922	P	Roomboter Cake (AH)	144922
+923	P	Appel-Kaneel Cake (Koopmans)	144985
+924	P	Chocolade Cakegebakje (Cupcake)	145037
+925	P	Cakegebakje (Cupcake)	145334
+926	P	Cakegebakje	145552
+927	P	Wolken Citroen Cake (Dr. Oetker)	145852
+928	P	Indische Cake (Lindemulder)	145949
+929	P	Koffie Cake	146055
+930	P	Ijskoffie	146435
+931	P	Ice Macchiato (Douwe Egberts)	146686
+932	P	Frappuccino (Starbucks)	146742
+933	P	Ijskoffie met Slagroom en Suiker	146806
+934	P	Cappucino (Moreno)	147073
+935	P	Café Zero (OLA)	147136
+936	P	Ice Mocha Latte (Douwe Egberts)	147206
+937	P	Ijskoffie met Slagroom	147270
+938	P	Ijskoffie Light (Aldi)	147547
+939	P	Kip-Crème Soep (uit Blik, Gecondenseerd)	147605
+940	P	Champignon-Crème Soep (uit Blik, Gecondenseerd)	147782
+941	P	Pepernoten (Kruidvat)	147950
+942	P	Pepernoten (Bolletje)	148017
+943	P	Bakkers Pepernoten (AH)	148076
+944	P	Friese Pepernoten (Bolletje)	148117
+945	P	Chocolade Pepernoten (Kruidvat)	148181
+946	P	Kippensoep	148241
+947	P	Kippensoep (Honig)	148438
+948	P	Hollandse Kippensoep (Unox)	148488
+949	P	Kippensoep (AH)	148597
+950	P	Maaltijdsoep Kip (Struik)	148667
+951	P	Kippensoep met Wortel en Vermicelli (Unox)	148751
+952	P	Kippenbouillon met Kippenvlees (AH)	148816
+953	P	Kippen Groentesoep (uit Blik)	148874
+954	P	Romige Kippensoep (Unox)	149085
+955	P	Kaasfondue	149148
+956	P	Kaasfondue (Emmi)	149319
+957	P	Luchtige Crackers Meergranen (Markant)	149379
+958	P	Luxe Crackers Meergranen (Van Vlegelaar )	149487
+959	P	Luchtige Crackers Meergranen (C1000)	149557
+960	P	Meergranen Rijstwafels	149622
+961	P	Goede Start (Blue Band)	149792
+962	P	Dieet (Becel)	149873
+963	P	Halvarine (Blue Band)	149944
+964	P	Boter (Becel)	150023
+965	P	Roomboter (Milsani)	150068
+966	P	Bevel Light (Becel)	150118
+967	P	Halvarine (Hella)	150174
+968	P	Dieetella Light (Aldi)	150247
+969	P	Smeerbare Roomboter Gezouten (AH)	150313
+970	P	Roompate (C1000)	150382
+971	P	Smeerpaté Ardenner (Linera)	150420
+972	P	Ardennerpate (AH)	150506
+973	P	Cremepate (AH)	150570
+974	P	Paté met Cranberry (AH)	150633
+975	P	Leverworst	150694
+976	P	Ardenner Paté (C1000)	151071
+977	P	Groene Peperpate (AH)	151109
+978	P	Champignon Pate (AH)	151173
+979	P	Room Paté (Kips')	151235
+980	P	Appelstroop (10g) (Rinse Appelstroop)	151298
+981	P	Appelstroop (AH)	151377
+982	P	Appelstroop (Aldi)	151441
+983	P	Appelstroop	151551
+984	P	Appelstroop (15g) (Rinse Appelstroop)	151703
+985	P	Rinse Appelstroop (Canisius)	151774
+986	P	Appelstroop (Hero)	151839
+987	P	Peer Appelstroop (Zonnatura)	151880
+988	P	Appelstroop (Canisius)	151939
+989	P	Appelstroop (Euro Shopper)	151986
+990	P	Pastasalade	152039
+991	P	Pastasalade met Kip	152223
+992	P	Pastasalade met Tonijn	152407
+993	P	Pastasalade met Vlees	152591
+994	P	Pastasalade Mozzarella (AH)	152776
+995	P	Pastasalade Rode Pesto (Saladinettes)	152834
+996	P	Pastasalade met Olie en Azijn Dressing	152901
+997	P	Pastasalade Geitenkaas (AH)	153079
+998	P	Pastasalade Kip en Bacon (AH)	153125
+999	P	Pastasalade met Roomsaus (Saladinettes)	153189
+1000	P	Havermout (40g) (Quaker)	153255
+1001	P	Havermout	153323
+1002	P	Havermout (Quaker)	153535
+1003	P	Havermout (Euro Shopper)	153600
+1004	P	Havermout (Quaker)	153679
+1005	P	Havermout (30g) (Quaker)	153791
+1006	P	Havermout (AH Basic)	153859
+1007	P	Havermout (Ekoplaza)	153915
+1008	P	Champagne	153966
+1009	P	Fruit Punch (Alcoholische)	154166
+1010	P	Omelet of Roerei met Kaas en Ham of Spek	154371
+1011	P	Kipfilet Gegrild Naturel (Aldi)	154650
+1012	P	Kipfilet Gegrild Naturel (Aldi)	154743
+1013	P	Portabella Paddenstoelen (Gegrild)	154806
+1014	P	Kipfilet met Vel	154921
+1015	P	Kipfilet (Gekookt, Geroosterd)	155188
+1016	P	Kipfilet (Geroosterd, Vetvrij, Gesneden)	155442
+1017	P	Tomatensoep	155577
+1018	P	Tomatensoep Met Gehaktballetjes (Unox)	155773
+1019	P	Tomatensoep (Bereid met Water)	155851
+1020	P	Stevige Tomatensoep (Unox)	156045
+1021	P	Romige Tomatensoep (Unox)	156109
+1022	P	Pittige Tomatensoep (Unox)	156168
+1023	P	Tomaten-Crèmesoep (Bereid met Melk)	156220
+1024	P	Tomatensoep Met Gehaktballetjes (Unox)	156421
+1025	P	Stevige Chinese Tomatensoep (Unox)	156485
+1026	P	Hollandse Tomatensoep (Unox)	156548
+1027	P	Kalkoenborst (97% Vetvrij, Citroen Peper Smaak, Gerookt)	156611
+1028	P	Citroen Slagroomtaart	156757
+1029	P	Vol au Vent	156923
+1030	P	Melk (Vol)	157094
+1031	P	Chocolademelk (Vol)	157328
+1032	P	Vanille Ijs (Vol)	157552
+1033	P	Chocolade Ijs (Vol)	157715
+1034	P	Muesli	157910
+1035	P	Tomaat en Groentesap (Laag Sodium)	158019
+1036	P	Popcorn (Sodium en Vetarm, Magnetron)	158247
+1037	P	Melk (Halfvol met Toegevoegde Vitamine A en Eiwitten)	158352
+1038	P	Melk (Mager met Toegevoegde Vitamine A en Eiwitten)	158532
+1039	P	Melk (Vetarm met Toegevoegde Vitamine A en Eiwitten)	158702
+1040	P	Olie en Azijn Dressing (uit Eigen Keuken)	158874
+1041	P	Salade Dressing (Karnemelk en Mayonaise Basis, Vetvrij)	159031
+1042	P	Salade Dressing (Karnemelk en Mayonaise Basis)	159128
+1043	P	Erwtensoep	159266
+1044	P	Stevige Erwtensoep (Unox)	159391
+1045	P	Hollandse Erwtensoep (Unox)	159453
+1046	P	Erwtensoep (Baroni)	159511
+1047	P	Erwtensoep (AH)	159578
+1048	P	Erwtensoep (Hema)	159640
+1049	P	Erwtensoep (Honig)	159708
+1050	P	Erwtensoep (Struik)	159776
+1051	P	Erwtensoep (C1000)	159836
+1052	P	Erwtensoep (Calida)	159903
+1053	P	Roomkaas	159943
+1054	P	Roomkaas (Vetvrij)	160223
+1055	P	Roomkaas (Vetarm)	160344
+1056	P	Perzik, Abrikoos, Peren, Ananas, Kersen Fruitsalade (in Water, uit Blik, Vloeistof en Vaste Stof)	160542
+1057	P	Ananas	160700
+1058	P	Ananas (in Water, uit Blik, Vloeistof en Vaste Stof)	160995
+1059	P	Ananas (in Eigen Sap, uit Blik, Vloeistof en Vaste Stof)	161256
+1060	P	Ananas (in Siroop, uit Blik, Vloeistof en Vaste Stof)	161503
+1061	P	Tropische Fruitsalade (Ananas, Papaya, Banaan en Guave, in Zware Siroop, uit Blik,  Vloeistof en Vaste Stof)	161731
+1062	P	Zalm Sashimi	161886
+1063	P	Tonijn Sashimi	162053
+1064	P	Sushi met Groenten en Zeevruchten	162236
+1065	P	Sushi Nori (Saitaku)	162436
+1066	P	Sushi Sakemaki (AH)	162481
+1067	P	Sushi Otegoro (AH)	162529
+1068	P	Sushibox Otoshi (AH)	162591
+1069	P	Havermoutpap (Melkunie)	162657
+1070	P	Havermoutpap (Campina)	162710
+1071	P	Havermoutpap (Friesche Vlag)	162775
+1072	P	Bagels met Ei	162828
+1073	P	Gekookt Eiwit	163124
+1074	P	Gepocheerd Ei	163314
+1075	P	Gekookt Eigeel	163582
+1076	P	Boterham met Kaas en Ei	163806
+1077	P	Yam (zonder Zout, Uitgelekt, Gekookt, Gebakken)	163957
+1078	P	Ei-Vervanger (Vloeibaar)	164158
+1079	P	Geel Suikermaïs (Hele Kolf, zonder Zout, Ingevroren, Uitgelekt, Gekookt)	164337
+1080	P	Zoete Aardappel (zonder Schil, Gekookt)	164565
+1081	P	Brie	164773
+1082	P	Roombrie 60+ (AH)	165002
+1083	P	Brie 60+ (Président)	165051
+1084	P	Zachte Franse Roombrie (AH)	165094
+1085	P	Brie (Jumbo)	165150
+1086	P	Crème de Brie (Président)	165212
+1087	P	Brie Light (Président)	165269
+1088	P	Choco Rijstwafel Puur (Zonnatura)	165308
+1089	P	Choco Rijstwafels Kokos (Zonnatura)	165415
+1090	P	Peperkoek (Céréal)	165533
+1091	P	Peperkoek Minder Suiker (Peijnenburg)	165633
+1092	P	Sandwich (Aldi)	165708
+1093	P	Club Sandwich	165822
+1094	P	Sandwich Bacon Ei Eiersalade (AH)	165994
+1095	P	Boterham met Ham, Kaas, Sla en Boter	166054
+1096	P	Chicken Sandwich (AH)	166235
+1097	P	Sandwich Gezond (Qizini)	166296
+1098	P	Bacon Ei Sandwich (Qizini)	166357
+1099	P	Sandwich Spread Naturel (Heinz)	166421
+1100	P	Boterham met Kalkoenfilet en Boter	166513
+1101	P	Knoppers (Storck)	166699
+1102	P	Hazelnootmelk (Alpro)	166749
+1103	P	Aloe Green Tea (Tropical)	166810
+1104	P	Green Tea Fresh Mint (AH)	166850
+1105	P	Original Green Tea With Honey (Arizona)	166906
+1106	P	Pannenkoeken	166955
+1107	P	Geroosterde Wafels Naturel (Bevroren)	167162
+1108	P	Tortilla Chips (Nacho Smaak)	167385
+1109	P	Tortilla Chips (Taco Smaak)	167505
+1110	P	Zachte Mueslirepen met Chocolade Chip	167616
+1111	P	Chips (Gezouten)	167765
+1112	P	Fruitreep Bosvruchten (AH)	167888
+1113	P	Fruitreep (Lidl)	167985
+1114	P	Fruitreep Appel (Perfekt)	168077
+1115	P	Fruitreep Bosvruchten (Jumbo)	168204
+1116	P	Fruitreep Appel (AH)	168317
+1117	P	Fruitreep Framboos (Jumbo)	168379
+1118	P	Fruitreep Aardbei (Sirius)	168479
+1119	P	Fruitreep Sinaasappel & Chocolade (Jumbo)	168587
+1120	P	Fruitreep Appel (Plus)	168693
+1121	P	Fruitreep Bosvruchten (Sirius)	168807
+1122	P	Bruine Broodjes (De Molenhoeve)	168915
+1123	P	Voorgebakken Bruine Broodjes (De Afbakker)	169033
+1124	P	Geroosterd Volkoren Brood	169146
+1125	P	Gedroogde Kokos	169494
+1126	P	Karnemelk (Campina)	169602
+1127	P	Karnemelk (Arla)	169675
+1128	P	Karnemelk (AH)	169720
+1129	P	Karnemelk (De Zaanse Hoeve)	169779
+1130	P	Boerenland Karnemelk (Campina)	169844
+1131	P	Karnemelk (Milsani)	169906
+1132	P	Karnemelk (Milbona)	169970
+1133	P	Karnemelk (Jumbo)	170023
+1134	P	Karnemelk (AH Puur & Eerlijk)	170089
+1135	P	Karnemelk (Bio+)	170152
+1136	P	Ontbijtkoek Gember (Peijnenburg)	170216
+1137	P	Gember	170294
+1138	P	Shanghai Nootjes (Jumbo)	170499
+1139	P	Borrel Nootjes Provencale (Duyvis)	170629
+1140	P	Leeuw Nootjes (Duyvis)	170705
+1141	P	Melk Nootjes (Côte d'Or)	170763
+1142	P	Rode Paprika	170819
+1143	P	Gele Paprika's	171212
+1144	P	Groene Paprika	171397
+1145	P	Punt Paprika (AH)	171781
+1146	P	Gegrilde Rode Paprika (AH)	171831
+1147	P	Zoete Rode Paprika	171894
+1148	P	Paprika	172271
+1149	P	Snackpaprika (AH)	172664
+1150	P	Zoete Gele Paprika	172719
+1151	P	Gegrilde Rode Paprika (Baktat)	172959
+1152	P	Italiaans Brood	173015
+1153	P	Bueno (Kinder)	173285
+1154	P	Bueno White (Kinder)	173398
+1155	P	Walnoten	173523
+1156	P	Engels Walnoten	173850
+1157	P	Walnootolie (AH)	174149
+1158	P	Tortelloni met Kaas en Walnoot (AH)	174202
+1159	P	Gember & Walnootstaafjes (Billy's Farm)	174275
+1160	P	Roomyoghurt Walnoot Griekse Honing (Almhof)	174334
+1161	P	Maaltijdsalade Geitenkaas en Walnoot (Hema)	174378
+1162	P	Gefrituurde Frieten (uit de Diepvries)	174445
+1163	P	Ovenfriet (Aviko)	174836
+1164	P	Verse Franse Friet (AH)	174878
+1165	P	Vlaamse Friet (Aviko)	174938
+1166	P	Roomboter Ongezouten (AH)	175004
+1167	P	Roomboter (Euro Shopper)	175066
+1168	P	Roomboter Ongezouten (Melkan)	175130
+1169	P	Botergoud Ongezouten Roomboter (Campina)	175204
+1170	P	Smeerbare Roomboter Ongezouten (AH)	175268
+1171	P	Roomboterblokjes (Jumbo)	175330
+1172	P	Biologische Roomboter Ongezouten (AH Puur & Eerlijk)	175431
+1173	P	Botergoud Halfvolle Roomboter (Campina)	175488
+1174	P	Krekkers Meergranen (Jumbo)	175556
+1175	P	Instant Noodles Chicken Flavour (Indomie)	175663
+1176	P	Egg Noodles (Go Tan)	175782
+1177	P	Good Noodles Groente (Unox)	175821
+1178	P	Japanse Noodles (Honig)	175930
+1179	P	Instant Noodles Shrimp Flavour (Indomie)	176043
+1180	P	Noodles (Amoy)	176154
+1181	P	Mix met Noten, Zaden en Stukjes Chocolade (Ongezouten)	176196
+1182	P	Gedroogde Noten en Vruchtenmix (Studentenhaver)	176301
+1183	P	Gedroogde Noten en Tropische Vruchtenmix	176402
+1184	P	Krekkers Naturel (Jumbo)	176505
+1185	P	Koolsoep	176622
+1186	P	Bier (Duvel)	176795
+1187	P	Noedels	176852
+1188	P	Good Noodles Kip (Unox)	177085
+1189	P	Instant Noodles Chicken Flavour (Indomie)	177174
+1190	P	Gepofte Rijst (Verrijkt)	177233
+1191	P	Chinese Noedels (Mung Bonen) (Cellofaan of Langkorrelige Rijst)	177364
+1192	P	Bruine Rijst (Lange Korrel, Gekookt)	177527
+1193	P	Bruine Rijst (Halflange Korrel, Gekookt)	177666
+1194	P	Witte Rijst (Lange Korrel, Gekookt)	177798
+1195	P	Geroosterde Pecannoten (Ongezout)	177991
+1196	P	Gedroogde Pijnboompitten	178097
+1197	P	Pistachenoten	178267
+1198	P	Geroosterde Pistachenoten (Ongezout)	178436
+1199	P	Droge Geraspte Parmezaanse Kaas	178621
+1200	P	Geitenkaas (Halfzachte)	178813
+1201	P	Geitenkaas (Zacht)	178942
+1202	P	Rundergehakt (Burger, 5% Vet, Gebraden)	179070
+1203	P	Rundergehakt (Burger, 10% Vet, Gebraden)	179296
+1204	P	Rundergehakt (Burger, 20% Vet, Gebraden)	179518
+1205	P	Witte Rijst (Halflange Korrel, Gekookt)	179708
+1206	P	Witte Rijst (Korte Korrel, Gekookt)	179881
+1207	P	Wilde Rijst (Gekookt)	180042
+1208	P	Droge Rijst Noedels	180226
+1209	P	Witte Rijst (Lange Korrel)	180345
+1210	P	Rijstwafel met Pure Chocolade (Biotrend)	180486
+1211	P	Rijstwafel Caramel (Snack A Jacks)	180600
+1212	P	Rijstwafels met Melkchocolade (Aldi)	180710
+1213	P	Hollandse Rauwkost (AH)	180817
+1214	P	Rauwkostmix Naturel (Jumbo)	180879
+1215	P	Rauwkost Pittig (AH)	180941
+1216	P	Chinese Roerbakgroenten (Jumbo)	180999
+1217	P	Italiaanse Roerbakgroenten (Jumbo)	181066
+1218	P	Champignon Roerbakgroenten (Jumbo)	181127
+1219	P	Hollandse Roerbakgroenten (Plus)	181191
+1220	P	Oosterse Roerbakgroenten (Plus)	181233
+1221	P	Thaise Roerbakgroenten (Plus)	181297
+1222	P	Basis Roerbakgroenten (Jumbo)	181355
+1223	P	Chinese Roerbakgroenten (Plus)	181418
+1224	P	Thaise Roerbakgroenten (C1000)	181482
+1225	P	Franse Roerbakgroenten (Jumbo)	181561
+1226	P	Rijsttaart	181625
+1227	P	Frisse Rauwkost (C1000)	181805
+1228	P	Komkommer Rauwkost (Bieze)	181871
+1229	P	Rauwkost Compleet Coleslaw (AH)	181919
+1230	P	Rauwkost Paprika (AH)	181984
+1231	P	Hollandse Rauwkost (C1000)	182045
+1232	P	Komkommer Rauwkost (Jumbo)	182119
+1233	P	Rauwkost Grieks (AH)	182185
+1234	P	Bananenchips	182244
+1235	P	Bananenchips (Neal's Yard Wholefoods)	182416
+1236	P	Bananenchips (Ekoplaza)	182483
+1237	P	Muesli met Rozijnen, Bananenchips en Hazelnoot (C1000)	182528
+1238	P	Grote Hamburger met Rauwkost en Groenten	182599
+1239	P	Gemengde Groenten (uit Blik, Vloeistof en Vaste Stof)	182748
+1240	P	Kippenvleugel met Vel (Gekookt, Geroosterd)	182925
+1241	P	Kip Drumstick met Vel	183208
+1242	P	Bagels met Kaneel en Rozijnen	183454
+1243	P	Shake	183775
+1244	P	Eiwitshake	183923
+1245	P	Aardbei Shake (Cambridge)	184141
+1246	P	Shake Vanille (Modifast)	184304
+1247	P	Shake (Herbalife)	184376
+1248	P	Vanille Shake (Cambridge)	184476
+1249	P	Smart Shake (Body & Fit)	184636
+1250	P	Perfect Muscle Shake (Body & Fit)	184712
+1251	P	Vers Geperst Sinaasappelsap	184816
+1252	P	Sinaasappel (Appelsientje)	185070
+1253	P	Vers Geperst Sinaasappelsap (Plus)	185138
+1254	P	Sinaasappelsap	185207
+1255	P	Sinaasappelsap (AH)	185447
+1256	P	Sinaasappel met Vruchtvlees (Aldi)	185504
+1257	P	Sinaasappelsap Light (CoolBest)	185569
+1258	P	Sinaasappelsap (Perfekt)	185635
+1259	P	Sinaasappelsap (Vitafit)	185712
+1260	P	Sinaasappelsap met Vruchtvlees (Jumbo)	185778
+1261	P	Misosoep	185831
+1262	P	Toscana (Valess)	185999
+1263	P	Kip Rode Curry Salade (Johma)	186074
+1264	P	Chinese Kool (Bok Choy-, Pak-Choi)	186140
+1265	P	Chocolade Koekjes (Aldi)	186363
+1266	P	Chocolade Chip Koekje	186435
+1267	P	Chocolade Wafels	186794
+1268	P	Chocolade Chip Koekje (Gekocht of Zelf Gebakken)	186925
+1269	P	Nogal Lange Koekjes Chocolade (Bolletje)	187222
+1270	P	Mini Crackers Olijfolie en Oregano (LU)	187275
+1271	P	Mini Crackers (LU)	187359
+1272	P	Mini Crackers Zongedroogde Tomaat & Basilicum (LU)	187435
+1273	P	Boterham met Ham en Kaas	187514
+1274	P	Boterham met Rosbief en Kaas	187664
+1275	P	Sake	187813
+1276	P	Goudkuipje (ERU)	187902
+1277	P	Pangasius Filets (AH)	187946
+1278	P	Pangasiusfilet	187989
+1279	P	Pangasiusfilet (Jumbo)	188171
+1280	P	Pangasiusfilet (Select Horeca)	188242
+1281	P	Pangasius Citroen Knoflook (AH)	188304
+1282	P	Gemarineerde Pangasiusreepjes (AH)	188366
+1283	P	Pangasiusfilet Tuinkruiden (AH)	188421
+1284	P	Pangasiusfilet (AH)	188485
+1285	P	Pangasiusfilet (Trawlic)	188542
+1286	P	Pangasiusfilet (AH Puur & Eerlijk)	188603
+1287	P	Zeebaars	188675
+1288	P	Krokante Muesli Aardbei met Yoghurtflakes (AH)	189064
+1289	P	Popcorn met Olie (Magnetron)	189127
+1290	P	Rijstwafels (Euro Shopper)	189281
+1291	P	Rijstwafels met Kaassmaak (De Molenhoeve)	189356
+1292	P	Rijstwafel met Yoghurt (Aldi)	189459
+1293	P	Yoghurt Rijstwafels (Zonnatura)	189568
+1294	P	Rijstwafel met Yoghurtcoating (Euro Shopper)	189684
+1295	P	Rijstwafels (De Molenhoeve)	189791
+1296	P	Nacho Cheese (Doritos)	189911
+1297	P	Sweet Chili Pepper (Doritos)	189972
+1298	P	Nacho Cheese (Zakje) (Doritos)	190033
+1299	P	Cool American (Doritos)	190135
+1300	P	Bits (Doritos)	190211
+1301	P	Pure Paprika (Doritos)	190307
+1302	P	Dippas Naturel (Doritos)	190366
+1303	P	Hot Salsa (Doritos)	190436
+1304	P	Barbecue Style (Doritos)	190498
+1305	P	Sensational Salsa (Doritos)	190559
+1306	P	Chips	190621
+1307	P	Paprika Chips (Lay's)	191010
+1308	P	Naturel Chips (Zakje) (Lay's)	191092
+1309	P	Cheese Onion (Lay's)	191203
+1310	P	Nibb It (Smiths)	191289
+1311	P	Super Chips Paprika (Lay's)	191404
+1312	P	Bolognese (Lay's)	191453
+1313	P	Hamka's Mini (Smiths)	191531
+1314	P	Surimi	191640
+1315	P	Surimi Sticks (VICI)	191818
+1316	P	Surimi Flakes (AH Puur & Eerlijk)	191886
+1317	P	Surimi-Krab Salade (AH)	191944
+1318	P	Geïmiteerde King Krab (Gemaakt van Surimi)	192000
+1319	P	Suikerbrood (AH)	192120
+1320	P	Suikerbrood	192219
+1321	P	Suikerbrood (Lidl)	192348
+1322	P	Ijshoorntjes (Cake of Koek Type)	192417
+1323	P	Aardpeer	192610
+1324	P	Aardappelschijfjes (Plus)	192726
+1325	P	Aardappel Partjes (AH)	192797
+1326	P	Aardappelschijfjes (AH)	192860
+1327	P	Gekruide Aardappelpartjes met Schil (AH)	192919
+1328	P	Gepofte Aardappel (met Schil)	192975
+1329	P	Risotto Rijst (AH Excellent)	193365
+1330	P	Risotto met Kip en Champignons (La Cuisine Culinaire)	193427
+1331	P	Kaas Risotto	193484
+1332	P	Risotto Rijst (Lassie)	193667
+1333	P	Italiaanse Risotto Funghi (AH)	193730
+1334	P	Italiaanse Risotto (Knorr)	193786
+1335	P	Risotto (Knorr)	193853
+1336	P	Italiaanse Risotto (Iglo)	193920
+1337	P	Gelderse Rookworst (Unox)	193984
+1338	P	Magere Rookworst (Unox)	194049
+1339	P	Rookworst (Hema)	194110
+1340	P	Ambachtelijke Rookworst (Baroni)	194151
+1341	P	Magere Rookworst (AH)	194214
+1342	P	Runder Rookworst (Unox)	194273
+1343	P	Veluwse Rookworst Fijn (AH)	194333
+1344	P	Rookworst (C1000 Basis)	194391
+1345	P	Extra Magere Rookworst (Unox)	194455
+1346	P	Rookworst (Baroni)	194514
+1347	P	Bacon (TUC)	194574
+1348	P	Pastinaken	194641
+1349	P	Ganzenleverpaté (Gerookt uit Blik)	194788
+1350	P	Kip Leverpastei (uit Blik)	194939
+1351	P	Smeerkaas (La Vache qui rit)	195091
+1352	P	Spaghetti	195200
+1353	P	Spaghetti Bolognese (Plus)	195404
+1354	P	Spaghetti met Tomatensaus en Gehaktballetjes	195461
+1355	P	Spaghetti met Tomatensaus en Groenten	195685
+1356	P	Spaghetti met Italiaanse Tomatensaus (Knorr)	195863
+1357	P	Spaghetti (Grand'Italia)	195941
+1358	P	Spaghetteria Carbonara (Knorr)	195992
+1359	P	Spaghettisaus Bolognese (Honig)	196107
+1360	P	Smeerkaas (La Vache qui rit)	196197
+1361	P	Spinazie	196260
+1362	P	Spinazie (Uitgelekt, uit Blik)	196458
+1363	P	Spinazie (Gehakt of Hele Bladeren, Ingevroren)	196646
+1364	P	Spinazie Soufflé	196805
+1365	P	Light (La Vache qui rit)	197021
+1366	P	Cheez Dippers (La Vache qui rit)	197127
+1367	P	Mini Cubes (La Vache qui rit)	197223
+1368	P	Macaroni	197273
+1369	P	Macaroni Bolognese (Daily Chef)	197596
+1370	P	Mix Voor Macaroni en Spaghetti (Honig)	197694
+1371	P	Volkoren Macaroni	197809
+1372	P	Mix Voor Macaroni en Spaghetti (Honig)	198087
+1373	P	Macaroni Bolognese (Plus)	198151
+1374	P	Macaroni met Kaas en Room	198218
+1375	P	Macaroni Vlugkokend (AH)	198349
+1376	P	Macaroni met Italiaanse Kruiden en Groenten (Knorr)	198415
+1377	P	Mango's	198472
+1378	P	Mango Gesneden (AH)	198690
+1379	P	Doosjevol Mango Stukjes (AH)	198770
+1380	P	Smoothie Sinaasappel-Mango-Passievrucht... (AH)	198830
+1381	P	Zoete Mango Chutney (Patak's)	198891
+1382	P	Gedroogde Mango	198933
+1383	P	Mango Sorbetijs (AH)	199133
+1384	P	Versgeperst Ananas-Meloen-Mango-Passievruc... (AH)	199190
+1385	P	Mangosap (Appelsientje)	199243
+1386	P	Smoothie Mango Passievrucht (Chiquita)	199305
+1387	P	Maaltijdreep (Kruidvat)	199365
+1388	P	Maaltijdreep Pinda Noga (Kruidvat)	199468
+1389	P	Maaltijdreep Aardbei Yoghurt (Kruidvat)	199582
+1390	P	Maaltijdreep Chocolade (Etos)	199695
+1391	P	Maaltijdreep Pinda Nougat (Etos)	199802
+1392	P	Icetea (Westminster)	199915
+1393	P	Icetea Citroen (Westminster)	199981
+1394	P	Maaltijdshake (Weight Care)	200043
+1395	P	Shake (Weight Care)	200129
+1396	P	Maaltijdreep (Weight Care)	200210
+1397	P	12-Uurtje Pinda-Noga (Weight Care)	200298
+1398	P	12-Uurtje Karamel (Weight Care)	200407
+1399	P	Choco Crisp (Weight Care)	200515
+1400	P	Maaltijdreep de Luxe (Weight Care)	200620
+1401	P	Schuddebuikjes (Bolletje)	200722
+1402	P	Schuddebuikjes (Bolletje)	200799
+1403	P	Standyoghurt (Activia)	200858
+1404	P	Appeltaart	200922
+1405	P	Appeltaart (Koopmans)	201081
+1406	P	Appeltaart (Koopmans)	201185
+1407	P	Appeltaart (Honig)	201247
+1408	P	Appeltaart (Jumbo)	201312
+1409	P	Magere Yoghurt Aardbei (Friesche Vlag)	201449
+1410	P	Magere Yoghurt Aardbei (AH)	201505
+1411	P	Magere Yoghurt Aardbei (Milbona)	201575
+1412	P	Yoghurt Aardbeien (Mona)	201638
+1413	P	Yoghurt Drink Aardbei-Kers (Linessa)	201680
+1414	P	Aardbei Yoghurt Drink (C1000)	201748
+1415	P	Aardbei Framboos Yoghurt (Melkunie)	201788
+1416	P	Boer'n Yoghurt Aardbei (Zuivelhoeve)	201845
+1417	P	Spa Fruit Bosvruchten (SPA)	201887
+1418	P	Lemon Cactus (SPA)	201944
+1419	P	Fruit Appel (SPA)	202003
+1420	P	Spa Fruit Bosvruchten Light (SPA)	202059
+1421	P	Fruit Orange (SPA)	202123
+1422	P	Citron (SPA)	202181
+1423	P	Spa Fruit Lemon Cactus (SPA)	202238
+1424	P	Fruit Lemon Cactus (SPA)	202296
+1425	P	Royale Vlokken Extra Puur (De Ruijter)	202361
+1426	P	Vlokken (Choca)	202422
+1427	P	7 Koren Vlokken (De Halm)	202468
+1428	P	Quinoa Vlokken (De Halm)	202544
+1429	P	Vlokken Melk (Twinkelz)	202591
+1430	P	Bison Filet (Mager)	202662
+1431	P	Kalkoen Bacon (Gekookt)	202772
+1432	P	Kalkoen Worst	202950
+1433	P	Varkenslende (Filet, Mager)	203052
+1434	P	Varkenslende (Filet)	203169
+1435	P	Hazelnootpasta (Nutella)	203282
+1436	P	Chocoladepasta (Nutella)	203390
+1437	P	Paasei	203486
+1438	P	Mihoen (Conimex)	203691
+1439	P	Gekookte Mihoen (AH)	203748
+1440	P	Mihoen Goreng (Daily Chef)	203804
+1441	P	Kip Ketjap Mihoen (AH)	203887
+1442	P	Mix&Wok Mihoen (Amoy)	203963
+1443	P	Mihoen Goreng (Jumbo)	204005
+1444	P	Mihoen Goreng (C1000)	204071
+1445	P	Kip Ketjap Mihoen (AH)	204137
+1446	P	Mihoen Speciaal (Conimex)	204200
+1447	P	Mihoen Goreng (AH)	204283
+1448	P	Multivitaminen Superfruit (Healthy People)	204347
+1449	P	Mozzarella Light (Galbani)	204411
+1450	P	Mozzarella Light (Linessa)	204467
+1451	P	Mozzarella Kaas (Vetvrij)	204531
+1452	P	Vanille Ijs (Light, zonder Toegevoegde Suiker)	204668
+1453	P	Vlokken Melk (De Ruijter)	204851
+1454	P	Vlokken Puur (De Ruijter)	204915
+1455	P	Vlokken (Choca)	204976
+1456	P	Chocolade Vlokken Melk (Kiekeboe)	205066
+1457	P	Pindakaas Koekjes	205193
+1458	P	Amandel Koekjes	205347
+1459	P	Tomatensoep Met Soepballen (C1000)	205511
+1460	P	Drinkyogurt Framboos (AH)	205584
+1461	P	Zoete Chocolade Snoepjes	205639
+1462	P	Witte Chocolade Snoepjes	205758
+1463	P	Donuts met Chocolade Glazuur	205903
+1464	P	Chocolade Vla (Vetvrij)	206170
+1465	P	Chocolade Rozijnen (Melkcohocolade)	206273
+1466	P	Eiersalade	206397
+1467	P	Vrije Uitloop Ei Salade (Johma)	206618
+1468	P	Eiersalade (Euro Shopper)	206744
+1469	P	Surinaamse Vrije Uitloop Ei Salade (Johma)	206805
+1470	P	Farmer Salade (Johma)	206871
+1471	P	Eiersalade zonder Mayonaise (Johma)	206952
+1472	P	Eiersalade (Johma)	207018
+1473	P	Eiersalade (Vitakrone)	207071
+1474	P	Scharrel-Ei Salade (AH)	207139
+1475	P	Tosti Ham en Kaas	207202
+1476	P	Tosti met Kaas	207379
+1477	P	Tosti met Tonijn	207571
+1478	P	Tosti Quick (Remia)	207735
+1479	P	Choco Prince (Prince)	207800
+1480	P	Chocolade Pinda's (Aldi)	207863
+1481	P	Choco Schelpjes (Golden Bridge)	207940
+1482	P	Chocolade Tarwebiscuit (AH)	208056
+1483	P	Handijsje met Ijs en Chocolade	208118
+1484	P	Choco (Snelle Jelle)	208286
+1485	P	Choco Momentje (Hertog)	208394
+1486	P	Chocolade Croissant	208443
+1487	P	Alcoholische Drank (Gin, Rum, Wodka, Whisky)	208634
+1488	P	Chow Mein Chinese Noedels	208787
+1489	P	Chinese Broccoli (Gekookt)	208984
+1490	P	Chipolata	209172
+1491	P	Chipolata Worstjes (AH)	209314
+1492	P	Chipolata Pudding (Mona)	209377
+1493	P	Chipolataworstjes (Oldenlander)	209421
+1494	P	Chocolademelk (Halfvol)	209488
+1495	P	Hot Chocolate Mix (Nestlé)	209693
+1496	P	Chocolademelk	209758
+1497	P	Halfvolle Chocolademelk (Chocomel)	209920
+1498	P	Chocolademelk (Nesquik)	209985
+1499	P	Chocomel Light (Chocomel)	210065
+1500	P	Light (Chocomel)	210122
+1501	P	Chocolademelk (Mager)	210187
+1502	P	Chocolademelk (Optimel)	210372
+1503	P	Groene Olijven	210437
+1504	P	Groene Olijven met Knoflook (AH)	210796
+1505	P	Gevulde Groene Olijven	210862
+1506	P	Groene Olijven in Plakjes (AH)	211138
+1507	P	Olijven (Klein tot Extra Groot)	211197
+1508	P	Groene Snijbonen	211363
+1509	P	Groene Snijbonen (uit Blik, Vloeistof en Vaste Stof)	211584
+1510	P	Groene Olijven met Piment (AH)	211770
+1511	P	Groene Snijbonen (Uitgelekt, uit Blik)	211832
+1512	P	Groentensoep	212050
+1513	P	Heldere Groentensoep (AH)	212227
+1514	P	Vegetarische Groentensoep (Bereid met Water)	212289
+1515	P	Groentensoep (C1000)	212463
+1516	P	Chunky Groentensoep (uit Blik)	212530
+1517	P	Groentensoep (DIETImeal)	212710
+1518	P	Goulash Kroket (Beckers)	212826
+1519	P	Kaneel	212933
+1520	P	Appels	213083
+1521	P	Granenkoffie (Zonnatura)	213477
+1522	P	Sandwichspread Naturel (Heinz)	213537
+1523	P	Tomato Ketchup (Heinz)	213642
+1524	P	Tomaten Ketchup (Heinz)	213686
+1525	P	Sandwichspread Komkommer (Heinz)	213739
+1526	P	Sandwichspread Tomaat Lente-Ui (Heinz)	213840
+1527	P	Curry (Heinz)	213952
+1528	P	Pasta Sauce Traditional (Heinz)	213993
+1529	P	Tomato Frito (Heinz)	214059
+1530	P	Sandwichspread Mediterraan (Heinz)	214123
+1531	P	Coburger Gerookte Rauwe Ham (AH)	214216
+1532	P	Gerookte Rauwe Ham (AH)	214277
+1533	P	Varkensworst (Gerookt)	214333
+1534	P	Gerookt Rundvlees Sticks	214517
+1535	P	Gesneden Ham (Extra Dun)	214620
+1536	P	Gesneden Ham (ca. 11% Vet)	214788
+1537	P	Ham Gehakte	214984
+1538	P	Gehakte Spinazie (Eskimo)	215169
+1539	P	Gehakte Spinazie (Jumbo)	215229
+1540	P	Gehakte Spinazie (De Beste)	215285
+1541	P	Gehakte Spinazie (Bonduelle)	215329
+1542	P	Gehakte Hollandse Spinazie (All Seasons)	215397
+1543	P	Gehakte Spinazie (C1000)	215456
+1544	P	Gehakte Spinazie (Green Grocer's)	215524
+1545	P	Pannenkoeken (Koopmans)	215579
+1546	P	Pannenkoeken Naturel (Jan)	215645
+1547	P	Pannenkoeken met Spek (AH)	215758
+1548	P	Volkoren Pannenkoeken	215828
+1549	P	Pannenkoeken 6-Granen (Koopmans)	216223
+1550	P	Pannenkoeken Speciaal (Koopmans)	216286
+1551	P	Spek Pannenkoeken (Jan)	216351
+1552	P	Pannenkoeken (Perfekt)	216459
+1553	P	Pannenkoeken Scharrelei (Koopmans)	216594
+1554	P	Galia Meloen	216660
+1555	P	Cantaloupe Meloenen	217043
+1556	P	Meloenmix (Plus)	217437
+1557	P	Vers Gesneden Meloenmix (Jumbo)	217477
+1558	P	Honingdauw Meloenen	217531
+1559	P	Fruitsalade Ananas, Meloen, Appel en Druif (AH)	217906
+1560	P	Meloen Salade (AH)	217961
+1561	P	Cantaloupe (Muskmelon)	217999
+1562	P	Ingevroren Cantaloupe (Ballen)	218398
+1563	P	Meloenmix (C1000)	218637
+1564	P	Aardappelpuree (met Volle Melk en Margarine)	218693
+1565	P	Pinda's in de Dop (Schil niet Gegeten)	218884
+1566	P	Instant Havermout (1 of 3 minuten)	219217
+1567	P	Havermout met Fruit	219429
+1568	P	Cocolademelk (Mager)	219665
+1569	P	Heilbot (Vis) (Gebakken)	219835
+1570	P	Snapper (Vis) (Gemengde Soorten)	220005
+1571	P	Blauwvintonijn (Vis)	220168
+1572	P	Geelvintonijn (Vis)	220285
+1573	P	Tilapia (Vis)	220472
+1574	P	Tilapia (Vis) (Gebakken)	220589
+1575	P	Mayonaise (Zaanse)	220706
+1576	P	Halfvolle Mayo (Zaanse)	220797
+1577	P	Zwarte Bonen (Rijpe Zaden, met Zout, Gekookt)	220903
+1578	P	Witte Tafelwijn	221057
+1579	P	Riesling	221233
+1580	P	Sauvignon Blanc	221350
+1581	P	Crackertjes (Euro Shopper)	221471
+1582	P	Muscat	221530
+1583	P	Witte Bonen in Tomatensaus	221652
+1584	P	Zoete Kaneelbroodjes (met Rozijnen)	221809
+1585	P	Witte Suikermaïs (Hele Kolf, Ingevroren)	222014
+1586	P	Witte Bonen in Tomatensaus met Varkensvlees (uit Blik)	222231
+1587	P	Witte Tonijn (Uitgelekt, uit Blik)	222391
+1588	P	Geschrapte Worteltjes (AH)	222562
+1589	P	Worteltjes (HAK)	222622
+1590	P	Geschrapte Worteltjes (Lidl)	222683
+1591	P	Parijse Worteltjes (AH)	222744
+1592	P	Doperwtjes met Worteltjes (HAK)	222808
+1593	P	Jonge Worteltjes (Bonduelle)	222871
+1594	P	Worteltjes Extra Fijn (Perfekt)	222938
+1595	P	Doperwtjes & Worteltjes (Bonduelle)	222994
+1596	P	Doperwten en Worteltjes, Diepvries (C1000)	223057
+1597	P	Pittige Soep Thaise Kip (Jumbo)	223133
+1598	P	Thaise Rode Curry Soep (Knorr)	223200
+1599	P	Taart (met Chocolade Glazuur)	223264
+1600	P	Chocoladetaart (met Chocolade Glazuur)	223434
+1601	P	Kersen	223607
+1602	P	Taart (met Vanille Glazuur)	223854
+1603	P	Luchtige Taart	224028
+1604	P	Cupcakes met Glazuur (Vetarm)	224195
+1605	P	Time Out Robuuste Koeken (LU)	224364
+1606	P	Tumtum	224475
+1607	P	Turkse Pizza	224614
+1608	P	Turkse Pizza (Mekkafood)	224789
+1609	P	Turkse Pizza (Aldi)	224885
+1610	P	Pizza met Vlees en Groente (36 cm)	224982
+1611	P	Kaas Pizza (36 cm)	225149
+1612	P	Pizza Kaas (36 cm, Dikke Korst)	225318
+1613	P	Kaas Pizza (36 cm, Dunne Korst)	225485
+1614	P	Pepperoni Pizza (36 cm)	225651
+1615	P	Pepperoni Pizza (36 cm, Dikke Korst)	225818
+1616	P	Duivenvlees	225986
+1617	P	Duivenvlees met Vel	226174
+1618	P	Duif	226401
+1619	P	Kaas Croissants	226713
+1620	P	Luchtige Dame Blanche Pudding (Mona)	226924
+1621	P	Fanta Zero (Fanta)	226968
+1622	P	Lemon Zero (Fanta)	227043
+1623	P	Pomelo Zero (Fanta)	227099
+1624	P	Cassis Zero (Fanta)	227155
+1625	P	Bevroren Fruit op een Stokje Appel/Peer (Hero)	227211
+1626	P	Puddinggebakje met Caramel (Droge Mix uit een Pakje)	227269
+1627	P	Volkoren Rogge Cracker (Fjord)	227400
+1628	P	Vitalu Volkoren Crackers (LU)	227469
+1629	P	Luchtige Crackers Volkoren (AH)	227545
+1630	P	Volkoren Cracker (Vitalu)	227606
+1631	P	Volkoren Rogge Cracker (Fjord)	227701
+1632	P	Volkoren Cracker (Wasa)	227816
+1633	P	Volkoren Crackers Sunny (Lidl)	227882
+1634	P	Luchtige Crackers Naturel (Perfekt)	227993
+1635	P	Waldkorn The Original Cracker (AH)	228111
+1636	P	Cracottes (LU)	228226
+1637	P	Volkoren Knackebrod (Bolletje)	228310
+1638	P	Goudbruin (Wasa)	228414
+1639	P	Knäckebröd Volkoren (Lidl)	228492
+1640	P	Knäckebröd Volkoren (Wasa)	228579
+1641	P	Coca-Cola Light (Blikje) (Coca-Cola)	228693
+1642	P	Coca-Cola Light (Flesje) (Coca-Cola)	228745
+1643	P	Cola Light (Freeway)	228791
+1644	P	Cola Light (First Choice)	228874
+1645	P	Cola Light (AH)	228934
+1646	P	Cola Light (Jumbo)	228988
+1647	P	Cola Light (Blikje) (Euro Shopper)	229046
+1648	P	Cornflakes (Kellogg's)	229117
+1649	P	Cornflakes	229210
+1650	P	Cornflakes (AH)	229411
+1651	P	Cornflakes Chocolate (Kellogg's)	229471
+1652	P	Cornflakes (Jumbo)	229526
+1653	P	Cornflakes (Plus)	229647
+1654	P	Cornflakes (Pure & Free)	229767
+1655	P	Cornflakes (Kellogg's)	229829
+1656	P	Cornflakes Glutenvrij (Schär)	229889
+1657	P	Cornflakes (Ritter Sport)	229964
+1658	P	Kip of Kalkoen en Groenten in Saus op Soja Basis (Inclusief Wortelen, Broccoli, en/of Donker-Groene Bladgroenten, Geen Aardappelen, uit een Pakje)	230031
+1659	P	Thaise Groene Curry Saus (AH Excellent)	230214
+1660	P	Groene Chilipepers	230277
+1661	P	Groene Chilipepers (uit Blik)	230468
+1662	P	Groene Thee	230645
+1663	P	Kruidenthee	230835
+1664	P	Groene Thee Honing (Lipton)	231025
+1665	P	Groene Thee & Kamille Oplosthee (Zonnatura)	231086
+1666	P	Yoghurt Griekse Stijl (AH)	231154
+1667	P	Griekse Yoghurt (Lidl)	231212
+1668	P	Griekse Yoghurt 0% (Total)	231279
+1669	P	Griekse Yoghurt 0% (Katharos)	231333
+1670	P	Yoghurt Griekse Stijl (Eridanous)	231369
+1671	P	Griekse Yoghurt met Honing (Elinas)	231445
+1672	P	Griekse Yoghurt (Yiaourti)	231497
+1673	P	Yoghurt Griekse Stijl Aardbei (Eridanous)	231553
+1674	P	Originele Griekse Yoghurt 0% (Yogood)	231634
+1675	P	Yoghurt Griekse Stijl (Optimel)	231676
+1676	P	Time Out Krokante Graanreep (LU)	231732
+1677	P	Graanreep (Bridge)	231806
+1678	P	Gnocchi (AH)	231906
+1679	P	Aardappelgnocchi	231969
+1680	P	Gnocchi Di Patate (De Cecco)	232167
+1681	P	Glutenvrije Luchtige Crackers (Consenza)	232233
+1682	P	Beschuit	232333
+1683	P	Granola	232493
+1684	P	Honey Granola (Dorset Cereals)	232679
+1685	P	Zelfgemaakte Muesli	232763
+1686	P	Granola Granen	232943
+1687	P	Really Nutty Muesli (Dorset Cereals)	233066
+1688	P	Bramen (Ongezoet, Ingevroren)	233129
+1689	P	Bosbessen (Ongezoet, Ingevroren)	233284
+1690	P	Cacaopoeder (Ongezoet)	233439
+1691	P	Cranberrysap (Ongezoet)	233609
+1692	P	Room (Half om Half)	233765
+1693	P	Room (Half om Half, Vetvrij)	233986
+1694	P	Kersen (Haribo)	234193
+1695	P	Kersen (Haribo)	234286
+1696	P	Boekweit	234352
+1697	P	Boekweit (Ekoland )	234484
+1698	P	Boekweitmeel (Ekoland )	234547
+1699	P	Boekweitmeel (Koopmans)	234618
+1700	P	Boekweit Havermout (Gekookt, Geroosterd)	234677
+1701	P	Boekweit (Ekoplaza)	234864
+1702	P	Boekweit Havermout	234909
+1703	P	Boekweit Havermout (zonder Olie Bereid)	235122
+1704	P	Boekweitgrutten (Koopmans)	235335
+1705	P	Boekweit Grutten (Ekoplaza)	235401
+1706	P	Franse Salade (AH)	235451
+1707	P	Caloriearme Sladressing	235513
+1708	P	Artisjokken (Globe of Franse)	235723
+1709	P	Verse Franse Frietjes (Lidl)	235911
+1710	P	Kip Frietjes (Perdix)	235975
+1711	P	Kreukel Friet (Potato King)	236027
+1712	P	Gedroogde Veenbessen (Gesuikerd)	236094
+1713	P	Gedroogde Pompoen en Pompoenzaad Kernels	236213
+1714	P	Gedroogde Hele Sesamzaadjes	236370
+1715	P	Gedroogde Zonnebloempitten	236550
+1716	P	Gekookte Wortelen	236729
+1717	P	Wortelen	237119
+1718	P	Wortelen (Ui Blik, Vloeistof en Vaste Stof)	237467
+1719	P	Wortelen (Ingevroren)	237650
+1720	P	Bospeen	237825
+1721	P	Aardappelschillen (met Zout, Gekookt)	238019
+1722	P	Gedroogde Appel	238192
+1723	P	Queso Anejo Kaas	238349
+1724	P	Cheddar of Colby Kaas (Vetarm)	238508
+1725	P	Burrito met Bonen en Kaas	238757
+1726	P	Nacho's met Kaas	238908
+1727	P	Fruit Punch (Gemaakt met Fruitsap en Frisdrank)	239067
+1728	P	Bami	239270
+1729	P	Bami Goreng (C1000)	239453
+1730	P	Nasi Bami Groente (AH)	239509
+1731	P	Babi Pangang met Bami (AH)	239566
+1732	P	Mix Voor Bami Speciaal (Honig)	239626
+1733	P	Bami Goreng (Jumbo)	239690
+1734	P	Bami Goreng (Toko Lien)	239758
+1735	P	Bamischijf	239827
+1736	P	Bami Goreng (Daily Chef)	240012
+1737	P	Nasi-Bamivlees (AH)	240074
+1738	P	Baileys (Baileys)	240124
+1739	P	Beschuit Volkoren (Jumbo)	240164
+1740	P	Volkoren Beschuit (Aldi)	240262
+1741	P	Spelt Beschuit (GIJS)	240382
+1742	P	Volkoren Beschuit (Euro Shopper)	240447
+1743	P	Volkoren Beschuit (AH)	240557
+1744	P	Kalkoenfilet (Beleg) (Jumbo)	240621
+1745	P	Goudse Kaas Jong Belegen 30+ (AH)	240700
+1746	P	Jong Belegen 30+ (Jogging)	240764
+1747	P	Smeerkaas Belegen (Linesse)	240844
+1748	P	Jong Belegen 48+ (Molenland)	240883
+1749	P	Goudse Kaas Jong Belegen 48+ (AH)	240951
+1750	P	Jong Belegen Kaas 30+ (Euro Shopper)	241017
+1751	P	Extra Belegen 48+ (Beemster)	241076
+1752	P	Belegen Plakken (Uniekaas)	241140
+1753	P	Jong Belegen Geraspte Kaas 48+ (Plus)	241179
+1754	P	Biogarde (AH)	241220
+1755	P	Biogarde (Konings)	241276
+1756	P	Halfvolle Biogarde Stand Naturel (AH)	241330
+1757	P	Biogarde Stand Naturel (AH)	241388
+1758	P	Biogarde Magere Kwark (AH)	241442
+1759	P	Biogarde Aardbei Roer (C1000)	241502
+1760	P	Biogarde Volle Kwark (Demeter)	241573
+1761	P	Biogarde Halfvolle Kwark (Demeter)	241614
+1762	P	Macaroni en Kaas (als Voorgerecht, uit Blik)	241654
+1763	P	Cheeseburger met Bacon en Rauwkost	241802
+1764	P	Mini Worstenbroodjes (AH)	241951
+1765	P	Worstenbroodje (Euro Shopper)	242012
+1766	P	Worstenbroodjes (AH)	242073
+1767	P	Worstenbroodjes (Jumbo)	242133
+1768	P	Worstenbroodjes (Baroni)	242247
+1769	P	Worstenbroodjes (De Beste)	242314
+1770	P	Rundvlees Lever- of Boterhamworst (Vetarm)	242424
+1771	P	Boterham met Dungesneden Rundvlees	242580
+1772	P	Boterham met Rundvlees	242801
+1773	P	Gebakken Varkenskarbonade	242998
+1774	P	Gebakken Gepaneerde Varkenskarbonade	243373
+1775	P	Delicious Pancakes (XXL Nutrition)	243770
+1776	P	Gerookte Pangafilet (Deen)	243838
+1777	P	Panini (Délifrance)	243902
+1778	P	Varkenskarbonade	243946
+1779	P	Hamlap of Kotelet	244321
+1780	P	Chinese Noedels	244693
+1781	P	Bacon (Gekruid, uit de Magnetron)	244824
+1782	P	Bruine Champignons	245032
+1783	P	Uien	245171
+1784	P	Chia Zaden (Mattisson)	245567
+1785	P	Chiazaad	245634
+1786	P	Chiazaad (Terrasana)	245736
+1787	P	Pure Chiazaad (Body & Fit)	245801
+1788	P	Chia Zaad (Mattisson)	245856
+1789	P	Chiazaad (Healthy Planet)	245919
+1790	P	Chianti	245977
+1791	P	Cava	246223
+1792	P	Geiten Kaas (Hard)	246381
+1793	P	Pinto Bonen (Rijpe Zaden)	246510
+1794	P	Pinto Bonen (Rijpe Zaden, uit Blik)	246692
+1795	P	Witte Bonen (Rijpe Zaden, uit Blik)	246813
+1796	P	Chili met Bonen (uit Blik)	246926
+1797	P	Baby Lima Bonen (Rijpe Zaden)	247111
+1798	P	Chili Con Carne met Bonen (als Voorgerecht, uit Blik)	247276
+1799	P	Rijstwafels (Volkoren)	247430
+1800	P	in Honing Geroosterde Pinda's	247615
+1801	P	Bleekselderij	247782
+1802	P	Bleekselderij (AH)	248097
+1803	P	Groentesoep met Bleekselderij en Gehaktballetjes (Unox)	248149
+1804	P	Broccoli	248215
+1805	P	Gekookte Broccoli (zonder Olie Bereid)	248449
+1806	P	Gekookte Broccoli (Vers)	248711
+1807	P	Gekookte Broccoli (Vers, zonder Olie Bereid)	249033
+1808	P	Broccoli Roosjes (AH)	249348
+1809	P	Broccoli (Krob)	249411
+1810	P	Gekookte Broccoli (uit de Diepvries, zonder Olie Bereid)	249576
+1811	P	Broccoli (Gesneden, Ingevroren)	249920
+1812	P	Broccoliroosjes (AH)	250074
+1813	P	Gehakt met Broccoli en Kaassaus (Maggi)	250126
+1814	P	Café Au Lait (Dolce Gusto)	250216
+1815	P	Sprookjesboom Cakejes (Koopmans)	250333
+1816	P	Roomboter Cakejes (AH)	250419
+1817	P	Roomboter Cakejes (Oma's Cake)	250481
+1818	P	Pudding Chocolade Cakejes (Oma's Cake)	250583
+1819	P	Cappuccino Cakeje (Jumbo)	250691
+1820	P	Mini Fondant Cakejes (Jumbo)	250807
+1821	P	Zacht Wit Broodje	250874
+1822	P	Harde Broodjes	251246
+1823	P	Bruine Bollen (AH)	251411
+1824	P	Witte Bollen (AH)	251469
+1825	P	Hard Broodje	251533
+1826	P	Meergranen Bollen (C1000)	251781
+1827	P	Quiche Lorraine (AH)	251860
+1828	P	Vegetarische Spinazie Quiche	251921
+1829	P	Vegetarische Kaas Quiche	252305
+1830	P	Quiche Ham & Prei (AH)	252685
+1831	P	Quiche met Vlees of Vis	252750
+1832	P	Quiche met Spinazie en Blauwschimmelkaas (AH)	253136
+1833	P	Quiche met Mediterrane Groente (AH)	253197
+1834	P	Quiche met Tomaat en Mozzarella (AH)	253261
+1835	P	Rijstpap (Aldi)	253323
+1836	P	Rijstpapier	253374
+1837	P	Rijstpapier met Groenten en Vlees en/of Garnalen	253589
+1838	P	Rijstmelk (Vivera)	253820
+1839	P	Chocolade Pudding	253883
+1840	P	Roomboter Stroopkoek (AH)	254080
+1841	P	Roomboter Stroopkoek (Estella)	254140
+1842	P	Roomboter Stroopkoeken (Bakkersbest)	254206
+1843	P	Roomboter Stroopkoeken (Lidl)	254321
+1844	P	Roompate (AH)	254387
+1845	P	Melk-Rijstdessert (Zuivelmeester)	254434
+1846	P	Hollandse Rijstepap (Melkunie)	254482
+1847	P	Rijst Dessert (Melkan)	254540
+1848	P	Rijstwafel met Melkchocolade (Biotrend)	254603
+1849	P	Mini Rijstwafels met Melkchocolade (Deen)	254648
+1850	P	Magere Yoghurt met Perzik (AH)	254723
+1851	P	Perzik Yoghurt (Campina)	254781
+1852	P	Yoghurt Griekse Stijl Perzik (Optimel)	254847
+1853	P	Yoghurt Perzik (Linessa)	254903
+1854	P	Magere Yoghurt Perzik (Milsani)	254969
+1855	P	Perzik Yoghurt 0% Vet (Melkunie)	255034
+1856	P	Perzik Yoghurt Drink (C1000)	255086
+1857	P	Perzik Maracuja Yoghurt (Optimel)	255145
+1858	P	Biologische Yoghurt Perzik Abrikoos (Almhof)	255204
+1859	P	Peperroomsaus (Kania)	255250
+1860	P	Rode Peper of Cayennepeper	255321
+1861	P	Jalapenos (AH)	255503
+1862	P	Zoete Pepertjes Gevuld met Roomkaas (Hema)	255563
+1863	P	Uitjes & Zwarte Peper (Philadelphia)	255625
+1864	P	Peper Cervelaat (Hofstee de Drie Eiken)	255667
+1865	P	Gerookte Makreelfilet met Peper (Lidl)	255786
+1866	P	Pompelmoen (Appelsientje)	255851
+1867	P	Pizza Mozzarella (Dr. Oetker)	255914
+1868	P	Kaas Pizza met Dunne Korst, met Groenten	256028
+1869	P	Pizza Hawaii (Dr. Oetker)	256430
+1870	P	Ristorante Pizza Salame (Dr. Oetker)	256523
+1871	P	Kaas Pizza	256591
+1872	P	Pizza met Vlees en Groenten	256992
+1873	P	Pizza Due Prosciutti (AH Excellent)	257394
+1874	P	Ristorante Pizza Funghi (Dr. Oetker)	257452
+1875	P	Bereide Pinto, Calico of Rode Bonen	257567
+1876	P	Bereide Pinto, Calico of Rode Bonen (zonder Olie Bereid)	257864
+1877	P	Pintobonen in Chilisaus (AH)	258179
+1878	P	Energy Drink (Red Bull)	258243
+1879	P	Sugarfree (Red Bull)	258301
+1880	P	Zero Calories (Red Bull)	258367
+1881	P	Poffertjes (Jan)	258422
+1882	P	Poffertjes (Koopmans)	258488
+1883	P	Poffertjes (AH)	258593
+1884	P	Poffertjes Naturel (AH)	258658
+1885	P	Poffertjes (C1000 Basis)	258719
+1886	P	Poffertjes (Euro Shopper)	258762
+1887	P	Poffertjes (Jan)	258816
+1888	P	Poffertjes (Daily Chef)	258881
+1889	P	Pepperoni Pizza (Bevroren, Gebakken)	258944
+1890	P	Smeerworst (Vivera)	259118
+1891	P	Vegetarische Smeerworst Tuinkruiden (Tivall)	259156
+1892	P	Vegetarische Smeerworst (Tivall)	259246
+1893	P	Smeerkaas 20+ (Slankie)	259310
+1894	P	Smeerkaas	259380
+1895	P	Smeerkaas (ERU)	259592
+1896	P	Smeerkaas 20+ (Lidl)	259631
+1897	P	Smeerkaas 48+ (C1000 Basis)	259689
+1898	P	Smeerkaas Naturel 20+ (Jogging)	259744
+1899	P	Smeerkaas Sambal (Slankie)	259794
+1900	P	Smeerkaas (AH)	259865
+1901	P	Fruit Smoothie (van Fruit of Vruchtensap)	259923
+1902	P	Fruit Smoothie (met Vruchtensap en Zuivelproducten)	260163
+1903	P	Fruit Smoothie Drink	260405
+1904	P	Kiwi & Banaan Smoothie (C1000)	260639
+1905	P	Groene Smoothie	260711
+1906	P	Smoothie Aardbeien-Framboos (FormaSlim)	260852
+1907	P	Smoothie (Innocent)	260980
+1908	P	Smoothie Aardbei Banaan (McDonald's)	261040
+1909	P	Smoothie (Chiquita)	261114
+1910	P	Gemengde Sla	261184
+1911	P	Ijsbergsla	261388
+1912	P	Gemengde Sla (All Seasons)	261752
+1913	P	Gemengde Salade (AH)	261821
+1914	P	Sla	261879
+1915	P	Rucola Sla	262243
+1916	P	Kropsla	262368
+1917	P	Veldsla (AH)	262710
+1918	P	Maaltijdsalade Nicoise (AH)	262748
+1919	P	Ijsbergsla (AH)	262811
+1920	P	Soja Melk Ongezoet (Alpro Soya)	262872
+1921	P	Wine Gums (Red Band)	262937
+1922	P	Harde Snoepjes	262983
+1923	P	Soesje	263126
+1924	P	Perziken (Haribo)	263308
+1925	P	Drop	263362
+1926	P	Feestspekken (Frisia)	263700
+1927	P	Tum Tum (AH)	263759
+1928	P	Pepermunt	263820
+1929	P	Kindermix (Haribo)	263914
+1930	P	Vruchtenhartjes (Jumbo)	263958
+1931	P	Champignonsoep	264019
+1932	P	Champignon Crème Soep (Knorr)	264192
+1933	P	Noedelsoep met Kip	264269
+1934	P	Kervelsoep	264462
+1935	P	Snijbonen (AH)	264583
+1936	P	Snijbonen (Jumbo)	264635
+1937	P	Hollandse Snijbonen (HAK)	264697
+1938	P	Snijbonen Vers (Jumbo)	264760
+1939	P	Groene Snijbonen (Ingevroren)	264815
+1940	P	Hollandse Snijbonen (Bonduelle)	265008
+1941	P	Sperziebonen	265071
+1942	P	Hollandse Snijbonen met Witte Bonen (Bonduelle)	265252
+1943	P	Ananas Stukjes (King's Crown)	265317
+1944	P	Stroopwafel	265378
+1945	P	Stroopwafel (AH)	265566
+1946	P	Mini Stroopwafels (Bakkersbest)	265629
+1947	P	Stroopwafel (Kanjers)	265711
+1948	P	Roomboter Stroopwafel (Aldi)	265789
+1949	P	Stroopwafel (Lidl)	265866
+1950	P	Extra Grote Stroopwafel (Kanjers)	265932
+1951	P	Honing Stroopwafels (Jumbo)	266003
+1952	P	Stroopwafels met Roomboter-Karamelvulling (Bakkersbest)	266115
+1953	P	Stroopwafel (Damhert)	266206
+1954	P	Studentenhaver (Euro Shopper)	266283
+1955	P	Cruesli Studentenhaver (Quaker)	266343
+1956	P	Studentenhaver (Oké)	266413
+1957	P	Gebroken Lijnzaad (Ekoplaza)	266472
+1958	P	Lijnzaad	266521
+1959	P	Gebroken Lijnzaad (Zonnatura)	266698
+1960	P	Pure Lijnzaad Gebroken (Body & Fit)	266761
+1961	P	Lijnzaad Zaden	266816
+1962	P	Gebroken Lijnzaad (De Tuinen)	267091
+1963	P	Lijnzaad (Ekoplaza)	267146
+1964	P	Lijnzaadolie (Natufood)	267189
+1965	P	Vezelrijk Meergranenbrood (Caloriearm)	267247
+1966	P	Lijnzaad Cracker (Wasa)	267460
+1967	P	Rundergehakt Mager (AH)	267522
+1968	P	Mager Rundergehakt	267593
+1969	P	Extra Mager Rundergehakt	267937
+1970	P	Mager Rundergehakt (AH)	268281
+1971	P	Rundergehakt Extra Mager (Dekamarkt)	268345
+1972	P	Extra Mager Rundergehakt (Lidl)	268413
+1973	P	Mager Rundergehakt (Vomar)	268479
+1974	P	Extra Mager Rundergehakt (Oldenlander)	268522
+1975	P	Mager Rundergehakt (Aldi)	268582
+1976	P	Extra Mager Rundergehakt (Deen)	268650
+1977	P	Ceasar Salade (Jumbo)	268689
+1978	P	Ceasar Salade (Saladinettes)	268752
+1979	P	Witte Saus (Knorr)	268821
+1980	P	Cocktailsaus	268888
+1981	P	Hollandaise Saus (Knorr)	269073
+1982	P	Sweet Chili Saus (Conimex)	269139
+1983	P	Peperroom Saus (Knorr)	269201
+1984	P	Vis-Dille Saus (Knorr)	269260
+1985	P	Frites Saus (Jumbo)	269322
+1986	P	Barbecuesaus	269407
+1987	P	Tandoori Saus (Calvé)	269629
+1988	P	Pasta Pesto (AH)	269734
+1989	P	Pasta met Pesto, Kipfilet en Groenten (Iglo)	269794
+1990	P	Verse Pasta met Spinazie en Groene Pesto (Jumbo)	269856
+1991	P	Café Latte (Senseo)	269923
+1992	P	Vanilla Latte (Tall) (Starbucks)	269996
+1993	P	Latte Macchiato Caramel (Dolce Gusto)	270068
+1994	P	Latte Hazelnut (Nescafé)	270170
+1995	P	Latte Macchiato (Buisman)	270275
+1996	P	Vetarme Latte Koffie	270359
+1997	P	Espresso Shot Macchiato Latte (Bellarom)	270625
+1998	P	Kruidenboter (AH)	270690
+1999	P	Stokbrood Kruidenboter (Aldi)	270747
+2000	P	Kruidenboter (Euro Shopper)	270845
+2001	P	Botergoud Kruidenboter (Campina)	270904
+2002	P	Kruidenboter (Milbona)	270965
+2003	P	Stokbrood met Kruidenboter (C1000)	271030
+2004	P	Halfvolle Kruidenboter (Linessa)	271105
+2005	P	Baguette Kruidenboter (Farmland)	271173
+2006	P	Stokbrood met Kruidenboter (AH Basic)	271214
+2007	P	Focaccia Kruidenboter Mozzarella (Boboli)	271275
+2008	P	Ratatouille	271332
+2009	P	Ratatouille (Bonduelle)	271510
+2010	P	Konijnenvlees	271564
+2011	P	Wild Konijnenvlees (Gekookt, Gestoofd)	271676
+2012	P	Konijn	271903
+2013	P	Mandarijn	272245
+2014	P	Clementines	272552
+2015	P	Mandarijnen (C1000)	272670
+2016	P	Tangerine	272734
+2017	P	Mandarijn (uit Blik of Diepvries)	273115
+2018	P	Mandarijn (in Eigen Sap, uit Blik)	273300
+2019	P	Mandarijn (in Siroop, uit Blik)	273473
+2020	P	Rundvlees of Vlees Jus	273589
+2021	P	Jus Naturel (Maggi)	273797
+2022	P	Jus Rundvlees (Maggi)	273868
+2023	P	Bruine Jus	273939
+2024	P	Vlees en Jus (Becel)	274147
+2025	P	Jus Voor Stamppot (Knorr)	274210
+2026	P	Bakken en Braden (Remia)	274283
+2027	P	Smeltjus (Croma)	274349
+2028	P	Jus Light (AH)	274418
+2029	P	Jus Naturel (AH)	274482
+2030	P	Hutspot	274546
+2031	P	Hutspot (Hema)	274730
+2032	P	Stampot Hutspot met Gehaktbal (Jumbo)	274787
+2033	P	Hutspot (AH)	274884
+2034	P	Hutspot Gesneden Peen en Ui (Plus)	274943
+2035	P	Hutspot (Jumbo)	275016
+2036	P	Hutspot Hachee (AH)	275080
+2037	P	Hutspot met Runderlapje (Daily Chef)	275142
+2038	P	Hutspot (Euro Shopper)	275221
+2039	P	Stamppotje Hutspot (HAK)	275280
+2040	P	Hot Dog met Ketchup en/of Mosterd	275340
+2041	P	Hot Dog Broodje	275572
+2042	P	Hotdog (Unox)	275793
+2043	P	Hotdogs (AH)	275898
+2044	P	Magere Knaks (Unox)	275963
+2045	P	Hotdog	276038
+2046	P	Broodje Unox (Unox)	276186
+2047	P	Bokworst of Hot Dog	276315
+2048	P	Runder Knaks (Unox)	276534
+2049	P	Hot Dog met Chili	276608
+2050	P	Hot Dog Pizza (Trattoria Alfredo )	276843
+2051	P	Kippenvlees (Geroosterd, Gebraden, Gekookt)	276887
+2052	P	Kippenvlees Vetarm (Geroosterd, Gebraden, Gekookt)	277097
+2053	P	Kippendij (Gekookt, Geroosterd)	277312
+2054	P	Koekje	277601
+2055	P	Zandkoekjes (AH)	277802
+2056	P	Volkoren Biscuit (Plus)	277867
+2057	P	Speculaas (Euro Shopper)	277939
+2058	P	Suikerkoekje	278053
+2059	P	Bastogne (LU)	278328
+2060	P	Digestive Koekies (Verkade)	278446
+2061	P	Gevulde Koek	278562
+2062	P	Koffiekoek (Koekkie)	278748
+2063	P	Gevulde Koek (Gooskens)	278861
+2064	P	Koekrepen (Peijnenburg)	278906
+2065	P	Zoete Aardappel (Puree, uit Blik)	278979
+2066	P	Koffie Verkeerd (Buisman)	279199
+2067	P	Kiwi Gold (Zespri)	279258
+2068	P	Kiwi Gold (Zespri)	279328
+2069	P	Banaan Golden Kiwi Drink (Optimel)	279402
+2070	P	Vitamin Water Appel Golden Kiwi (Sourcy)	279460
+2071	P	Kabeljauw	279517
+2072	P	Gebakken of Geroosterde Kabeljauw	279869
+2073	P	Kabeljauwfilet (AH)	280219
+2074	P	Gebakken Gepaneerde Kabeljauw	280276
+2075	P	Atlantische Kabeljauw	280627
+2076	P	Kabeljauwfilet (Trawlic)	280764
+2077	P	Pacifische Kabeljauw	280821
+2078	P	Kabeljauw Filet (Golden Seafood)	280997
+2079	P	Caramel Nut Chew Bar (Atkins)	281054
+2080	P	Komkommer (met Schil)	281150
+2081	P	Komkommer (Geschild)	281354
+2082	P	Dille Komkommer Augurk	281682
+2083	P	Zoete Komkommer Augurk	282012
+2084	P	Zure Komkommer Augurk	282384
+2085	P	Dille Komkommer Augurk (Laag Sodium)	282695
+2086	P	Salade met Tonijn	282858
+2087	P	Taco Salade	283029
+2088	P	Italiaanse Salade Dressing (Caloriearm)	283183
+2089	P	Franse Salade Dressing (Caloriearm)	283339
+2090	P	Mineola	283470
+2091	P	Multifrucht Müsli (Master Crumble)	283706
+2092	P	Müsli (Master Crumble)	283775
+2093	P	Müsli (Master Crumble)	283834
+2094	P	Woknoedels (Conimex)	283940
+2095	P	Chinese Noedels met Kip	284006
+2096	P	Chinese Eiermie (Soubry)	284137
+2097	P	Noodles Oosterse Groenten (Conimex)	284185
+2098	P	Beef Flavour (YumYum)	284292
+2099	P	Roerbak Noedels Kip Kerrie (Maggi)	284363
+2100	P	Nasi	284432
+2101	P	Nasi met Kip	284620
+2102	P	Nasi met Varkensvlees	284808
+2103	P	Chinese Nasi	284996
+2104	P	Vegetarische Nasi	285182
+2105	P	Nasi Goreng (AH)	285368
+2106	P	Nasi Goreng met Saté Ajam (Daily Chef)	285432
+2107	P	Nasi Goreng met Babi Pangang (Daily Chef)	285510
+2108	P	Mix Voor Nasi (Knorr)	285588
+2109	P	Latte Amaretto (Nescafé)	285679
+2110	P	Latte Amaretto (Nescafé)	285781
+2111	P	Rose en Witte Muisjes (De Ruijter)	285842
+2112	P	Blauwe en Witte Muisjes (De Ruijter)	285888
+2113	P	Gestampte Muisjes (De Ruijter)	285934
+2114	P	Muisjes (De Ruijter)	285992
+2115	P	Knackerbrod Volkoren (Rivercote)	286059
+2116	P	Knackerbrod Goud Volkoren (Van Vlegelaar )	286140
+2117	P	Vlees	286254
+2118	P	Dagmenu Vlees (AH)	286599
+2119	P	Vlees, Gevogelte of Vis, Groenten Wrap	286661
+2120	P	Herten Vlees	286832
+2121	P	Wilde Zwijnen Vlees	286949
+2122	P	Kwartel Vlees	287045
+2123	P	Rendier Vlees	287273
+2124	P	Pizza Calzone met Vlees en Kaas	287386
+2125	P	Mierikswortel	287610
+2126	P	Whisky Mix (Gebotteld)	287796
+2127	P	Pannenkoeken (Droge Mix)	287934
+2128	P	Krielaardappeltjes (Bonduelle)	288155
+2129	P	Lasagne met Vlees	288208
+2130	P	Vegetarische Lasagne met Groenten	288525
+2131	P	Lasagne met Vlees en Spinazie	288918
+2132	P	Lasagne met Kip of Kalkoen	289310
+2133	P	Vegetarische Lasagne	289629
+2134	P	Pure Chocolade (Verkade)	290023
+2135	P	Zuurkool (Bereid)	290091
+2136	P	Zuurkool (AH)	290277
+2137	P	Zuurkoolschotel	290335
+2138	P	Zuurkoolstampot (AH)	290507
+2139	P	Zuurkoolstamppot (Unox)	290573
+2140	P	Wijnzuurkool (C1000)	290692
+2141	P	Milde Wijnzuurkool (AH)	290761
+2142	P	Zuurkool Ovenschotel (Maggi)	290824
+2143	P	Wortelen Extra Fijn (AH)	290935
+2144	P	Doperwten en Wortelen (Perfekt)	290994
+2145	P	Chinese Wokgroente (AH)	291058
+2146	P	Oosterse Wokgroente (AH)	291116
+2147	P	Woksaus Sweet (AH)	291178
+2148	P	Woksaus Teriyaki (AH Excellent)	291235
+2149	P	Thaise Wokgroente (Jumbo)	291294
+2150	P	Mix&Wok Noodles (Amoy)	291358
+2151	P	Woksaus met Oestersaus en Knoflook (AH)	291398
+2152	P	Woknoedels (Conimex)	291450
+2153	P	Tapas	291567
+2154	P	Macadamia Noten	291746
+2155	P	Amandelen	291920
+2156	P	Gepelde Amandelen	292204
+2157	P	Geroosterde Amandelen (Ongezout)	292353
+2158	P	Amandel Notenpasta	292514
+2159	P	Kastanjes	292653
+2160	P	Kokosnoot	292743
+2161	P	Hazelnoten	292936
+2162	P	Pecannoten	293153
+2163	P	Rundvlees Pastrami (Gekruid)	293335
+2164	P	Rundvlees Pastrami (98% Vetvrij)	293509
+2165	P	Boterham met Pastrami (Gerookt Rundvlees)	293637
+2166	P	Kalkoen Pastrami	293823
+2167	P	Tomaten	294010
+2168	P	Snack Tomaatjes (AH)	294411
+2169	P	Blokjes Tomaat in Tomatensap (AH)	294467
+2170	P	Blokjes Tomaat (C1000)	294529
+2171	P	Salade met Sla, Ei, Tomaat en/of Wortelen	294588
+2172	P	Salade met Sla, Kaas, Tomaat en/of Wortelen	294776
+2173	P	Tomaat & Pesto (Philadelphia)	294963
+2174	P	Tomaat (Cup-A-Soup)	295034
+2175	P	Pastasaus met Tomaat en Mascarpone (AH)	295145
+2176	P	Biologische Tofu (AH)	295206
+2177	P	Tofu Reepjes Pittig Gekruid (Alpro Soya)	295268
+2178	P	Super Tahoe Tofu (Jumbo)	295344
+2179	P	Tofu Reepjes (Alpro Soya)	295404
+2180	P	Stevige Silken Tofu	295465
+2181	P	Tofu (Taifun)	295582
+2182	P	Tofu (C1000)	295626
+2183	P	Zachte Silken Tofu	295688
+2184	P	Extra Stevige Silken Tofu	295852
+2185	P	Tomatensaus (Combino)	296017
+2186	P	Tomatensaus (Tante Fanny)	296060
+2187	P	Napolitaanse Paprika-Tomatensaus (Honig)	296124
+2188	P	Pesto Tomatensaus (Honig)	296184
+2189	P	Spaghetti met Italiaanse Tomatensaus (Knorr)	296287
+2190	P	Ravioli met Tomatensaus	296352
+2191	P	Cherrytomaten	296512
+2192	P	Snacktomaatjes (AH)	296660
+2193	P	Trostomaten	296717
+2194	P	Trostomaten (AH)	296934
+2195	P	Roma Tomaten (AH)	296992
+2196	P	Zongedroogde Tomaten (Grand'Italia)	297052
+2197	P	Tomatenblokjes in Tomatensap (AH)	297102
+2198	P	Tomatenpuree	297162
+2199	P	Tonijn Pizza (New York Pizza)	297384
+2200	P	Krokante Pizza Tonijn (Perfekt)	297446
+2201	P	Tonijn (Uitgelekt, Vetarm, uit Blik)	297551
+2202	P	Sushi met Groenten Gerold in Zeewier	297765
+2203	P	Sushi	297968
+2204	P	Sushi met Groenten	298173
+2205	P	Paddestoelen Melange (AH)	298374
+2206	P	Paddestoelensoep (Unox)	298410
+2207	P	Paddestoelen Drinkbouillon (Cup-A-Soup)	298474
+2208	P	Muesli 4-Granen (AH)	298573
+2209	P	Muesli met Noten en Vruchten (Bio+)	298638
+2210	P	Muesli Rijkgevuld (Zonnatura)	298704
+2211	P	Muesli met Fruit (AH)	298783
+2212	P	Krokante Muesli Noten (AH)	298846
+2213	P	Biologische Muesli Vruchten en Noten (AH Puur & Eerlijk)	298909
+2214	P	Cruesli (Quaker)	298973
+2215	P	Krokante Muesli 4 Noten (Jumbo)	299025
+2216	P	Muesli (Euro Shopper)	299113
+2217	P	Fruitbiscuit Appel (Sultana)	299210
+2218	P	Bosvruchten (Sultana)	299325
+2219	P	Naturel (Sultana)	299443
+2220	P	Knappers Kaneel (Sultana)	299561
+2221	P	Knappers Kokos (Sultana)	299679
+2222	P	Fruitbiscuit Bosvruchten (Sultana)	299798
+2223	P	Fruitbiscuit Peer Kaneel (Sultana)	299917
+2224	P	Gebakken Banaan	300035
+2225	P	Kip (Gepaneerd en Gebakken)	300272
+2226	P	Tortilla Chips (Vetarm, Gebakken)	300445
+2227	P	Gebakken Tofu	300542
+2228	P	Uienringen (Gepaneerd en Gebakken)	300666
+2229	P	Edamame	300833
+2230	P	Gekookt Ei	301006
+2231	P	Gebakken Ei	301293
+2232	P	Ei	301592
+2233	P	Omelet of Roerei	301890
+2234	P	Zacht Gekookt Ei	302207
+2235	P	Hardgekookt Ei	302477
+2236	P	Gebakken Ei zonder Vet	302679
+2237	P	Eiwit	302978
+2238	P	Uitsmijter	303168
+2239	P	Geplette Tomaten (uit Blik)	303309
+2240	P	Zongedroogde Tomaten	303426
+2241	P	Rode Tomaten	303602
+2242	P	Rode Tomaten (uit Blik)	303998
+2243	P	Tomatensaus	304279
+2244	P	Scampi	304460
+2245	P	Scampi's (Iglo)	304625
+2246	P	Stoommaaltijd Scampi Limone (AH)	304686
+2247	P	Scampi Limoenblad Noodle Salade (AH Excellent)	304743
+2248	P	Blond Bier (Jupiler)	304807
+2249	P	Force (Jupiler)	304854
+2250	P	Goji Bessen	304960
+2251	P	Verse Pasta	305102
+2252	P	Verse Pasta (Gekookt)	305230
+2253	P	Sojamelk (Calcium Verrijkte)	305342
+2254	P	Chocolade Sojamelk	305507
+2255	P	Sojameel	305663
+2256	P	Sojamelk	305805
+2257	P	Soja Yoghurt (Alpro Soya)	305960
+2258	P	Yoghurt Perzik (Alpro Soya)	306038
+2259	P	Soja Yoghurt	306101
+2260	P	Soja Yoghurt (Provamel )	306284
+2261	P	Mild & Creamy Aardbei met Rabarber (Alpro Soya)	306338

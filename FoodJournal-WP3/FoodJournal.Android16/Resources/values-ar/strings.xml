@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">الغذاء اليومي</string>
+	<string name="CommonItems">أصناف شائعة</string>
+	<string name="Delete">حذف</string>
+	<string name="EmptyEntryList">لم يتم تحديد أي شيء</string>
+	<string name="MyRecentItems_Breakfast">أصناف الفطور الحديثة</string>
+	<string name="MyRecentItems_Dinner">أصناف العشاء الحديثة</string>
+	<string name="MyRecentItems_Exercise">تماريني الرياضية الحديثة</string>
+	<string name="MyRecentItems_Lunch">أصناف العشاء الحديثة</string>
+	<string name="MyRecentItems_Snack">أصناف السناكس الحديثة</string>
+	<string name="PageTitle">الغذاء اليومي</string>
+	<string name="PageTitleBase">يوميات الغذاء- </string>
+	<string name="Period_Breakfast">فطور</string>
+	<string name="Period_Dinner">عشاء</string>
+	<string name="Period_Exercise">تمرين رياضي</string>
+	<string name="Period_Lunch">غداء</string>
+	<string name="Period_Snack">سناكس</string>
+	<string name="Search">بحث</string>
+	<string name="Today">اليوم</string>
+	<string name="StandardProperty_Amount">الكمية</string>
+	<string name="StandardProperty_Calcium">الكالسيوم</string>
+	<string name="StandardProperty_Calories">السعرات الحرارية</string>
+	<string name="StandardProperty_Carbs">الكربوهيدرات</string>
+	<string name="StandardProperty_Cholesterol">الكوليسترول</string>
+	<string name="StandardProperty_Fiber">ألياف</string>
+	<string name="StandardProperty_Iron">حديد</string>
+	<string name="StandardProperty_MonoFat">الدهون غير المشبعة الأحادية</string>
+	<string name="StandardProperty_PolyFat">الدهون غير المشبعة المتعددة</string>
+	<string name="StandardProperty_Potassium">البوتاسيوم</string>
+	<string name="StandardProperty_Protein">بروتين</string>
+	<string name="StandardProperty_SatFat">الدهون المشبعة</string>
+	<string name="StandardProperty_Sodium">الصوديوم</string>
+	<string name="StandardProperty_Sugar">السكر</string>
+	<string name="StandardProperty_TotalFat">المجموع الكلي للدهون</string>
+	<string name="StandardProperty_VitaminC">فيتامين ج</string>
+	<string name="StandardProperty_VitaminD">فيتامين د</string>
+	<string name="StandardProperty_Weight">الوزن</string>
+	<string name="Preferences">تفضيلات</string>
+	<string name="EmptySearchList">أدخل مصطلح البحث</string>
+	<string name="NewItemSuffix">(صنف جديد)</string>
+	<string name="NewRecipeSuffix">((وصفة جديدة)</string>
+	<string name="SearchResults">نتائج البحث</string>
+	<string name="SearchTermNotFound">{0} غير موجود، حاول تغيير مصطلح البحث الخاص بك</string>
+	<string name="AcceptNew">أضف</string>
+	<string name="Name">الاسم</string>
+	<string name="Nutrition">التغذية</string>
+	<string name="PageTitleItemDetail">معلومات الطعام</string>
+	<string name="EnterWeight">الرجاء أدخل الوزن أولاً</string>
+	<string name="ServingSizes">حجم حصة الطعام</string>
+	<string name="HowMuch">ما هو السعر؟</string>
+	<string name="MoreOptions">المزيد من الخيارات</string>
+	<string name="NoNutritionInfo">لا يوجد معلومات تغذية</string>
+	<string name="AddServingSize">أضف حجم حصة الطعام</string>
+	<string name="Add">أضف</string>
+	<string name="SelectDate">التقويم</string>
+	<string name="Advertisement">إعلان</string>
+	<string name="Unit_Centiliter">سنتيلتر</string>
+	<string name="Unit_Cup">كأس</string>
+	<string name="Unit_Deciliter">ديسيلتر</string>
+	<string name="Unit_FluidOunce">أونصة سائل</string>
+	<string name="Unit_Gallon">غالون</string>
+	<string name="Unit_Gram">غرام</string>
+	<string name="Unit_Kilogram">كيلوغرام</string>
+	<string name="Unit_Liter">لتر</string>
+	<string name="Unit_Milliliter">ملليلتر</string>
+	<string name="Unit_Ounce">آونس</string>
+	<string name="Unit_Pint">نصف لتر</string>
+	<string name="Unit_Pound">رطل</string>
+	<string name="Unit_Quart">كوارت</string>
+	<string name="Unit_Tablespoon">ملعقة كبيرة</string>
+	<string name="Unit_Teaspoon">ملعقة شاي</string>
+	<string name="Units_Centiliter">سنتيلتر</string>
+	<string name="Units_Cup">كوب</string>
+	<string name="Units_Deciliter">ديسيلتر</string>
+	<string name="Units_FluidOunce">أونصات سائلة</string>
+	<string name="Units_Gallon">جالونات</string>
+	<string name="Units_Gram">غرام</string>
+	<string name="Units_Kilogram">كيلوغرام</string>
+	<string name="Units_Liter">لتر</string>
+	<string name="Units_Milliliter">ملليلتر</string>
+	<string name="Units_Ounce">أونصات</string>
+	<string name="Units_Pint">باينتات</string>
+	<string name="Units_Pound">أرطال</string>
+	<string name="Units_Quart">كوارتات</string>
+	<string name="Units_Tablespoon">ملعقة كبيرة</string>
+	<string name="Units_Teaspoon">ملعقة صغيرة</string>
+	<string name="DatabaseCulture">‏‏ar
+ </string>
+	<string name="FeedbackSubject">بريد الكتروني من الغذاء اليومي</string>
+	<string name="Equivalent">المقدار:</string>
+	<string name="Loading">يتم الآن التحميل...</string>
+	<string name="ExpiredCaption">تحديث الآن؟</string>
+	<string name="ExpiredMessage">شكرا لك لاستخدام هذا التطبيق! لقد انتهت صلاحية هذه النسخة الآن. ولكن لا تقلق، ونحن سوف نأخذك إلى صفحة التحميل للتحديث إذا قمت بالضغط على موافق.</string>
+	<string name="AgentDescription">هذه المهمة تحدث "مستوى العيش" للغذاء اليومي".</string>
+	<string name="AgentDisabled">لقد قمت بتعطيل تطبيق مستوى العيش في اعدادات الهاتف</string>
+	<string name="PageTitleSettings">تفضيلاتي</string>
+	<string name="EnableLiveTile">عدد الوجبات مفقود في التطبيق</string>
+	<string name="Reminders">اشعارات</string>
+	<string name="SettingsScreen">إعدادات</string>
+	<string name="PinToStart">اضبط المستوى</string>
+	<string name="OpenReport">تقرير</string>
+	<string name="Report">تقرير</string>
+	<string name="CommonServingSizes">100 g|1 أوقية = 28 g|ملعقة صغيرة = 4.5 g|ملعقة كبيرة = 12 g|1 تخدم = 28 g|قطعة = 14 g|شريحة = 12 g|1 كأس = ز 237</string>
+	<string name="TakeAPicture">التقاط صورة</string>
+	<string name="ReviewBody">شكرا لك لاستخدام هذا التطبيق! إذا كنت تجده مفيدا، الرجاء ساعده بأن يكون ناجحا من خلال ترك معاينة.</string>
+	<string name="ReviewTitle">اترك معاينة؟</string>
+	<string name="Goals">الأهداف</string>
+	<string name="NoGoalSet">لم يتم تعيين الهدف</string>
+	<string name="EndOfDay">في نهاية اليوم</string>
+	<string name="ReminderContent">ماذا أكلت؟</string>
+	<string name="ReminderTitle">إشعار: حدث مفكرتك اليومية</string>
+	<string name="ReminderDescription">تظهر الاشعارات المحددة إذا لم تقم بتحديث مفكرتك اليومية حسب الوقت المحدد</string>
+	<string name="ScreenshotTitles">عصير البرتقال، 1 كوب، نخب، 1 شريحة، بيضة، 1 المتوسطة، أبل، والبن، والموز</string>
+	<string name="GoalOver">{0} فوق الهدف</string>
+	<string name="GoalUnder">{0}  الباقي</string>
+	<string name="OpenJournal">مجلة</string>
+	<string name="RemoveAdsText">اختر موافق إزالة الإعلانات من التطبيق.</string>
+	<string name="RemoveAdsTitle">إزالة الإعلانات؟</string>
+	<string name="StoreException">كان هناك مشكلة في الاتصال بمخزون هاتف ويندوز. الرجاء المحاولة مرة أخرى فيما بعد.</string>
+	<string name="Feedback_Email">الإبلاغ عن مشكلة</string>
+	<string name="Feedback_EmailText">أو اقترح ميزة أو اسأل سؤالا</string>
+	<string name="Feedback_Rate">قيم هذا التطبيق</string>
+	<string name="Feedback_RateText">ملاحظات خاصة تساعد في تحسيت التطبيق</string>
+	<string name="Feedback_Screenshot">ساعد في تحسين الترجمة</string>
+	<string name="Feedback_ScreenshotText">تم ادراج لقطة للشاشة</string>
+	<string name="Feedback_Share">مشاركة رابط</string>
+	<string name="Feedback_ShareText">لتحميل هذا التطبيق</string>
+	<string name="ScreenshotSubject">نص الغذاء اليومي</string>
+	<string name="ShareMessage">افحص الغذاء اليومي لهاتف ويندوز</string>
+	<string name="ShareTitle">الغذاء اليومي</string>
+	<string name="CommonItems_Breakfast">أصناف فطور شائعة</string>
+	<string name="CommonItems_Dinner">أصناف عشاء شائعة</string>
+	<string name="CommonItems_Lunch">أصناف غداء الشائعة</string>
+	<string name="CommonItems_Snack">أصناف السناكس الشائعة</string>
+	<string name="Meals">الوجبات</string>
+	<string name="Period_SnackMorning">صباحاً</string>
+	<string name="Period_SnackEarlyAfternoon">بعد الظهر</string>
+	<string name="Period_SnackAfternoon">الظهر</string>
+	<string name="Meals_SnackMorningEnabled">الوجبات الخفيفة منفصلة صباح</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">وجبة خفيفة بعد الظهر منفصلة</string>
+	<string name="Meals_SnackAfternoonEnabled">وجبة خفيفة الظهر منفصلة</string>
+	<string name="Period_SnackEvening">مساء</string>
+	<string name="Meals_SnackMidnightEnabled">الوجبات الخفيفة في منتصف الليل منفصلة</string>
+	<string name="Period_SnackMidnight">منتصف الليل</string>
+	<string name="Meals_SnacksCombined">الجمع بين الوجبات</string>
+	<string name="Meals_SnackEveningEnabled">الوجبات الخفيفة مساء منفصلة</string>
+	<string name="MyRecentItems_SnackAfternoon">أصناف الظهر الحديثة</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">أصناف بعد الظهر الحديثة</string>
+	<string name="MyRecentItems_SnackEvening">أصناف المساء الحديثة</string>
+	<string name="MyRecentItems_SnackMidnight">أصناف منتصف الليل الحديثة</string>
+	<string name="MyRecentItems_SnackMorning">أصناف الصباح الحديثة</string>
+	<string name="CommonItems_SnackAfternoon">أصناف الظهر الشائعة</string>
+	<string name="CommonItems_SnackEarlyAfternoon">أصناف ما بعد الظهر الشائعة</string>
+	<string name="CommonItems_SnackEvening">أصناف المساء الشائعة</string>
+	<string name="CommonItems_SnackMidnight">أصناف منتصف الليل الشائعة</string>
+	<string name="CommonItems_SnackMorning">أصناف الصباح الشائعة</string>
+	<string name="UnlockFullBody">شكرا لكم لمحاولة "يوميات الغذاء". لديك {0} أيام المحاكمة المتبقية. اضغط "موافق" لفتح التطبيق.</string>
+	<string name="UnlockFullTitle">افتح الآن؟</string>
+	<string name="TrialExpiredBody">الآن انتهت مدة صلاحية الإصدار التجريبي. لا يزال يمكنك عرض دفتر اليومية الخاصة بك، ولكن لا يمكنك إضافة إدخالات جديدة. اختر "موافق" لفتح النسخة الكاملة.</string>
+	<string name="Feedback_RemoveAds">إزالة الإعلانات</string>
+	<string name="Feedback_RemoveAdsText">إزالة جميع الإعلانات بشكل دائم</string>
+	<string name="StoreText_5">تحميل الآن لأنه سوف تحب استخدامه.</string>
+	<string name="AppTitle">الغذاء اليومي</string>
+	<string name="StoreText_4">ميزات قسط:
+1-لا يوجد إعلانات أكثر.
+2-قاعدة بيانات أغذية أكبر بكثير.
+3-القدرة على البريد الإلكتروني نفسك نسخة من منتجات الألبان.
+4-المزيد من خيارات التكوين، بما في ذلك القدرة على دخول تصل إلى 8 وجبات منفصلة في اليوم.</string>
+	<string name="StoreText_3">الميزات:
+1-تصميم بسيطة وقوية: يفتح التطبيق مباشرة على الشاشة الإدخال، على الوجبة الأخيرة، لأن هذا ما سوف تستخدمه أكثر. يجعل التصميم إضافة إدخالات بسيطة وبديهية ممكن.
+2-واحد الصنبور الدخول مع اقتراحات شخصية: المواد الغذائية الأكثر شيوعاً يمكن تحديده فورا. اعتبارا من اليوم الثاني، يقترح البنود الأخيرة الخاصة بك لكنت قد يأكلون نفس الطعام كثيرا.
+3. قطع الأشجار غير مطلوب: مطلوب لا بيانات شخصية أو معلومات جهة الاتصال.
+4-الآلاف من العناصر الموجودة مسبقاً في قاعدة البيانات: معظم المواد الغذائية تحتوي على معلومات دقيقة حول المشترك خدمة الأحجام، والسعرات الحرارية، والكربوهيدرات، والبروتين والدهون. 
+5. كامل دون اتصال الدعم: لا حاجة أن تكون متصلاً بالإنترنت. 
+6-دقة الإدخال أيضا من السهل: يمكنك إدخال المبلغ الدقيق باستخدام شريط تمرير بدقة.
+7. يوميا تقارير: باستخدام القائمة، يمكنك فتح مباشرة اليوميات، الذي يعرض ملخصاً ليومك. هنا يمكنك التبديل بين السعرات الحرارية والبروتين والكربوهيدرات بالضغط على مثلث قليلاً.
+8-تتبع أهدافك: بعد دخول الأهداف الشخصية الخاصة بك، يمكنك استخدام تقرير الأسبوع لمعرفة الاتجاهات الخاصة بك. 
+9. شخصية التذكيرات تساعدك على البقاء على الهدف: فطريقة ملائمة للتأكد من أن تقوم بتعبئة اليوميات الخاصة بك، وبعد كل وجبة، أو في نهاية اليوم.
+
+أنها فكرة جيدة للتحقق من المعلومات الموجودة في قاعدة البيانات هي نفس المعلومات على تغليف المواد الغذائية الخاصة بك؛ التغذية الغذاء يتقلب مع العلامات التجارية، ومع مرور الوقت.
+
+تأكد من مناقشة أهدافك مع أخصائي الطبيب أو التغذية الخاصة بك.</string>
+	<string name="StoreText_2">حول التطبيق:
+تتبع من ما تأكله قد ثبت للمساعدة في منع ووقف الإفراط في تناول الطعام.
+هذا التطبيق يساعدك على التحكم في النظام الغذائي الخاص بك وأكل صحية، مما يجعل من السهل تعقب ما تأكله. التصميم هو الأمثل لجعل دخول أسرع وقت الغذاء المحتملة، مع 1 انقر فوق الإدخال، ومؤخرا اقتراحات. بنيت في قاعدة البيانات لديها بالفعل آلاف مواد الغذائية، وإذا كانت غير معروفة لك، من السهل إضافة لهم.
+
+يرجى ملاحظة: هذا التطبيق مجاني لتحميل، ومدعومة بالإعلانات. يمكنك استخدامه مجاناً كما تشاء. من الممكن إزالة الإعلان مقابل رسوم، مما سيمكن أيضا ميزات إضافية.</string>
+	<string name="StoreText_1">يوميات الغذاء: الخاص بك النظام الغذائي والسعرات الحرارية التي تتبع التطبيق.</string>
+	<string name="StoreKeyword_5">التغذية</string>
+	<string name="StoreKeyword_4">السعرات الحرارية</string>
+	<string name="StoreKeyword_3">النظام الغذائي</string>
+	<string name="StoreKeyword_2">مجلة الطعام</string>
+	<string name="StoreKeyword_1">عداد السعرات الحرارية</string>
+	<string name="Screenshot_H3">موز</string>
+	<string name="Screenshot_H2">قهوة</string>
+	<string name="Screenshot_H1">تفاحة</string>
+	<string name="Screenshot_3a">البيض</string>
+	<string name="Screenshot_2b">شريحة واحدة</string>
+	<string name="Screenshot_2a">خبز محمص</string>
+	<string name="Screenshot_1b">كأس واحد</string>
+	<string name="Screenshot_1a">عصير برتقال</string>
+	<string name="Product_2">شكرا لكم على دعمكم! استخدم هذا الخيار لإزالة الإعلانات بشكل دائم من التطبيق الخاص بك "يوميات الغذاء".</string>
+	<string name="Product_1">إزالة الإعلانات</string>
+	<string name="CantCalculateNutrition">أدخل الوزن</string>
+	<string name="TrialExpiredTitle">انتهت الفترة التجريبية، إزالة القفل؟</string>
+	<string name="Screenshot_3b">واحدة متوسطة الحجم</string>
+	<string name="SendFeedback">حول</string>
+	<string name="Feedback_Header">أسرع وأسهل طريقة لتعقب ما تأكله.
+
+قم بالتمرير لأسفل للحصول على معلومات حول دقة البيانات.</string>
+	<string name="Feedback_Unlock">الترقية الآن</string>
+	<string name="Feedback_UnlockText">شراء الإصدار المميز</string>
+	<string name="EmailReport_SubjectTemplate">مجلة الغذاء ل {0}</string>
+	<string name="EmailReport_Exception">حدث خطأ ما غير متوقع. لم يتم إرسال النشرة</string>
+	<string name="EmailReport_InvalidEmailAddress">الرجاء إدخال عنوان بريد إلكتروني صالح.</string>
+	<string name="Total">المجموع الكلي</string>
+	<string name="Price">فقط {0}</string>
+	<string name="Feature6_Text">ادعم التطوير</string>
+	<string name="Feedback_Footer">إخلاء المسؤولية:
+معظم، ولكن ليس كافة نقاط البيانات في قاعدة البيانات تأتي من مصادر حسنة السمعة. ونحن نبذل قصارى جهدنا للتأكد من أن كافة قيم صحيحة، ولكن لا يمكن أن يكون مسؤولاً عن بيانات غير صحيحة أو مفقودة. وتختلف القيم الغذائية حسب العلامة التجارية، ومع مرور الوقت. باستخدام هذا التطبيق، أنت توافق على التحقق وتصحيح أي بيانات في التطبيق، ويكون مسؤولاً مسؤولية كاملة عن الإصابات أو الأضرار الناجمة عن الاستخدام.
+
+واسمحوا لي أن أعرف إذا كان هناك أي شيء يمكن أن تساعدك مع.</string>
+	<string name="Feature6_Desc">ساعد للحفاظ على التحديثات لهذا التطبيق القادم</string>
+	<string name="GetAllFeatures">احصل على كافة الميزات</string>
+	<string name="Feature_Header">مدرج:</string>
+	<string name="Feature_Footer">* ملاحظة: معظم، ولكن ليس جميع البيانات متوفرة من مصادر جيدة. عن طريق شراء نسخة مميزة، يمكنك قبول المسؤولية الكاملة عن دقة واكتمال البيانات. البريد الإلكتروني   daily.journal@outlook.com للحصول على التفاصيل.</string>
+	<string name="Feature5_Text">ميزات جديدة</string>
+	<string name="Feature5_Desc">كل الصفات المميزة في التحديثات المستقبلية</string>
+	<string name="Feature4_Text">مزيد من الوجبات</string>
+	<string name="Feature4_Desc">لمراقبة 5,6 أو أكثر من الوجبات يوميا</string>
+	<string name="Feature3_Text">المزيد من الأطعمة *</string>
+	<string name="Feature3_Desc">مئات إلى آلاف أو المزيد من أصناف الطعام (بناء على الموقع)</string>
+	<string name="Feature2_Text">أرسل التقارير عبر البريد الالكتروني</string>
+	<string name="Feature2_Desc">أرسل مجلتك عبر البريد الالكتروني لحفظها أو طباعتها أو تحليلها</string>
+	<string name="Feature1_Text">لا يوجد إعلانات</string>
+	<string name="Feature1_Desc">تم إزالة جميع الإعلانات بشكل دائم</string>
+	<string name="BuyNow">اشتري الآن</string>
+	<string name="EmailReport_ShowSettings">أرسل عبر البريد الإلكتروني</string>
+	<string name="EmailReport_SendNow">أرسل الآن</string>
+	<string name="EmailReport_Address">عنوان البريد الإلكتروني</string>
+	<string name="Product_4">الحصول على حق الوصول إلى كافة الميزات</string>
+	<string name="Product_3">الترقية إلى بريميوم</string>
+	<string name="EmailReport_Footer2">ملاحظة: معظم، ولكن ليس كافة نقاط البيانات في قاعدة البيانات متوفرة من مصادر جيدة. ونحن نبذل أفضل ما لدينا للتأكد أن القيم صحيحة، ولكن لا يمكن تحميلنا المسؤولية عن بيانات غير صحيحة أو مفقودة. باستخدام التطبيق، أن تعرف وتقبل المسؤولية الكاملة للتحقق من دقة البيانات. التطبيق يسمح لك بتحديث أي تناقضات قد تجدها.</string>
+	<string name="EmailReport_Footer1">دفتر اليومية قبل AAA
+أسئلة أو تعليقات؟ الرد إلى بي بي بي</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Localization_TranslationsText">الرجاء تحديث النصوص الواردة في هذه القائمة مع ترجمة أفضل. إزالة كافة النص للعناصر التي غير ملائمة للمنطقة الخاصة بك.</string>
+	<string name="Localization_ThankYou">شكرا لمساعدتك!</string>
+	<string name="Localization_Translations">الترجمات</string>
+	<string name="Localization_Text">هنا يمكنك المساعدة في تحسين هذا التطبيق.</string>
+	<string name="Localization_Submit">تقديم</string>
+	<string name="Localization_Original">أصلي:</string>
+	<string name="Localization_Good">جيد</string>
+	<string name="Localization_Description">وصف:</string>
+	<string name="Localization_CommentText">أدخل عنوان البريد الإلكتروني الخاص بك إذا كنت ترغب في الاتصال بك.</string>
+	<string name="Localization_Comment">تعليق</string>
+	<string name="Feedback_LocalizeText">ساعد على تحسين التطبيق</string>
+	<string name="Feedback_Localize">حسن الترجمات</string>
+	<string name="AddToLauncher">أضف إلى المنصة</string>
+	<string name="Avg">متوسط</string>
+	<string name="Cancel">إلغاء</string>
+	<string name="CopyFromSimilarItem">نسخ من صنف مشابه</string>
+	<string name="DeleteEntry">حذف الإدخال</string>
+	<string name="EnterTheWeightForThisAmount">أدخل الوزن لهذه القيمة</string>
+	<string name="MoreOptions2">المزيد من الخيارات</string>
+	<string name="None">لا شيء</string>
+	<string name="Ok">موافق</string>
+	<string name="OneDaySalePctOff">بيع يوم 1: {0} ٪</string>
+	<string name="Total2">المجموع الكلي</string>
+	<string name="EmailReport_Footer1a">نشرة حسب أسئلة أو تعليقات AAA؟ أجب إلى BBB</string>
+	<string name="EmailReport_Footer1b">أسئلة أو تعليقات؟ الرد إلى بي بي بي</string>
+	<string name="Add_New">عنصر جديد</string>
+	<string name="Add_Note">إضافة ملاحظة</string>
+	<string name="add_target">إضافة التغذية</string>
+	<string name="choose_time">تعيين الوقت</string>
+	<string name="daily_target">التغذية</string>
+	<string name="daily_target_hint">الهدف اليومي (اختياري)</string>
+	<string name="describe_goal">وصف الهدف الخاص بك هنا</string>
+	<string name="drawer_close">قم بإغلاق</string>
+	<string name="drawer_open">فتح</string>
+	<string name="edit_meals">اختيار وجبات الطعام</string>
+	<string name="enter_meal_time">أدخل الوقت لكل وجبة</string>
+	<string name="enter_serving_weight">أدخل الوزن (ز) أولاً</string>
+	<string name="enter_value">قم بإدخال التغذية</string>
+	<string name="get_started">الشروع في العمل!</string>
+	<string name="get_started_second_text">اضغط على \'+\' لإضافة إدخال إلى دفتر اليومية الخاصة بك.</string>
+	<string name="Input_Notes">أدخل ملاحظاتك هنا</string>
+	<string name="meal_options">خيارات وجبة</string>
+	<string name="Period_First_Snack">Period_First_Snack نوتوسيد</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack نوتوسيد</string>
+	<string name="Period_Second_Snack">Period_First_Snack نوتوسيد</string>
+	<string name="Period_Third_Snack">Period_First_Snack نوتوسيد</string>
+	<string name="personal_goal">هدف شخصي</string>
+	<string name="Per_Cup">1 كوب (250 غراما) نوتوسيد</string>
+	<string name="Per_Grams">100 غرام</string>
+	<string name="portion_caption">جزء</string>
+	<string name="RadioButton_Alpha">نوتييتوسيد أبجدياً</string>
+	<string name="RadioButton_Sort">فرز حسب التاريخ نوتييتوسيد</string>
+	<string name="Serving">خدمة</string>
+	<string name="Show_More_Options">المزيد من الخيارات</string>
+	<string name="show_total_with_meal">إظهار هدف التغذية</string>
+	<string name="target_date">التاريخ المستهدف</string>
+	<string name="target_date_hint">اختر التاريخ المستهدف الخاص بك</string>
+	<string name="transition_name_circle">مرحلة انتقالية: دائرة</string>
+	<string name="transition_name_name">مرحلة انتقالية: الاسم</string>
+	<string name="transition_name_phone">مرحلة انتقالية: الهاتف</string>
+	<string name="Type_Name">البحث عن</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">وحدات مترية</string>
+	<string name="Units_US">الوحدات الأميركية</string>
+	<string name="Upgrade">ترقية</string>
+	<string name="weight_gram">الوزن (ز)</string>
+	<string name="InvalidEmailError">عنوان بريد إلكتروني غير صالح</string>
+	<string name="NoGoalsTitle">كافة إدخالات</string>
+	<string name="SendReportTitle">إرسال تقرير</string>
+	<string name="DeleteEntryMessage">هل تريد حذف هذا الإدخال؟</string>
+	<string name="NewBody">العديد من التحسينات تشمل: الملاحظات والمزيد من الأطعمة، وتصميم أفضل وأكثر.
+تحميل مجاناً؟</string>
+	<string name="NewTitle">الإصدار 2.0 متاحة الآن!</string>
+</resources>

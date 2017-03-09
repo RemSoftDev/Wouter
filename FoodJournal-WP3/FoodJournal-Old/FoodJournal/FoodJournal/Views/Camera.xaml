@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.Camera">
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <StackLayout Grid.Row="0" Padding="12,17,0,28">
+      <Label Text="{extensions:Translate PageTitle}" FontSize="Medium"/>
+      <Label Text="{extensions:Translate TakeAPicture}"  FontSize="Large" />
+    </StackLayout>
+
+    <!--ContentPanel - place additional content here-->
+    <Grid x:Name="ContentPanel" Grid.Row="1" Padding="12,0,12,0">
+
+      <!--Canvas x:Name="viewfinderCanvas" Width="480" Height="640"
+             HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,-80,0,0" >
+
+        <Canvas.Clip>
+          <RectangleGeometry Rect="0,80,480,480" />
+        </Canvas.Clip>
+
+        <!Camera viewfinder -->
+      <!--Canvas.Background>
+          <VideoBrush x:Name="viewfinderBrush" />
+        </Canvas.Background-->
+
+        <!-- Brackets for Touch Focus -->
+      <!--Label
+        x:Name="focusBrackets"
+        Text="[   ]"
+        FontSize="40"
+        IsVisible="False"/>
+
+      </Canvas-->
+
+    </Grid>
+  </Grid>
+</ContentPage>

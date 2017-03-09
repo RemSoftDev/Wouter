@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>sv-SE</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>MATDAGBOK</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Vanliga livsmedel</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Ta bort</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Inget är valt</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Senaste frukost ingredienser</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Senaste middags ingredienser</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Min senaste motion</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Senaste lunch ingredienser</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Senaste mellanmåls ingredienser</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>MATDAGBOK</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>MATDAGBOK- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Frukost</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Middag</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Motion</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Lunch</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Mellanmål</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Sök</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Idag</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Mängd</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Kalcium</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorier</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Kolhydrater</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Kolesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Fiber</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Järn</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Enkelomättat fett</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Fleromättat fett</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kalium</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Protein</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Mättat fett</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natrium</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Socker</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Total mängd fett</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>C-vitamin</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>D-vitamin</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Vikt</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Inställningar</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Ange ett sökord</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value>(ny ingrediens)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value>(nytt recept)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Sökresultat</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} hittades inte, pröva att ändra ditt sökord</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Lägg till</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Namn</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Näringslära</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>MAT INFO</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Ange vikt först</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Portionsstorlek</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Hur mycket?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>fler alternativ</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Ingen näringsinformation</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Lägg till en portion</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Lägg till</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalender</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Annons</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Kopp</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Fluid ounce</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Gallon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Liter</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Milliliter</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Ounce</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pint</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Pound</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Quart</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Matsked</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Tesked</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Koppar</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Fluid ounces</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Gallons</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Liter</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Milliliter</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Ounces</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pints</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Pounds</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarts</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Matskedar</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Teskedar</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>sv</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-post från matdagboken</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>belopp</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>laddar…</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Uppdatera nu?</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Tack för att du använder denna App! Giltigheten har gått ut för denna version. Men oroa dig inte, vi tar dig till nedladdningssidan där du kan  uppdatera genom att trycka på Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Denna funktion uppdaterar Live Ikonen  i matdagboken.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Du har avaktiverat Live Ikon  appen  i telefonens inställningar.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Mina inställningar</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Räkna saknade måltider på appens ikon</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Påminnelser</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Inställningar</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Ställ in ikonen</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Rapport</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Rapport</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Tesked = 4,5 g|Msk = 12 g|1 servering = 28 g|Bit = 14 g|Skiva = 12 g|1 cup = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Ta ett foto</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Tack för att du använder denna App! Lämna en recension om du tycker om appen, och vill att den ska bli framgångsrik.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Lämna en recension?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Mål</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Inga mål-set</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Vid dagens slut</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Vad åt du?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Påminnelse: uppdatera din dagbok</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>valda påminnelser visas om du inte har uppdaterat din dagbok vid den valda tiden</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Apelsinjuice, 1 kopp, Toast, 1 skiva, ägg, 1 medium, äpple, kaffe, banan</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} över mål</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} återstår</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Dagbok</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Välj OK för att ta bort reklam från appen.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Ta bort reklam?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Det var problem med att ansluta till Windows Phone store. Försök igen senare.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Rapportera ett problem</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Föreslå en funktion eller ställ en fråga</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Betygsätt denna app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Specifik feedback hjälper till att förbättra appen</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Bidra till att förbättra översättningen</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>En skärmbild ingår</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Dela en länk</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Ladda ner denna app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Matdagbok text</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Kolla in  Matdagboken för Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Matdagbok</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Vanliga frukost ingredienser</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Vanliga middags ingredienser</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Vanliga lunch ingredienser</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Vanliga mellanmåls ingredienser</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Måltider</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Morgon</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Tidigt på eftermiddagen</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Eftermiddag</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Separat morgonfika</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Separat tidig eftermiddags mellanmål</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Separat eftermiddagsfika</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Kväll</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Separat nattmat</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Midnatt</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Kombinera mellanmål</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Separat kvällsnacks</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Senaste eftermiddags val</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Senaste tidig eftermiddags val</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Senaste kvälls val</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Senaste midnatts val</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Senaste morgon val</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Vanliga eftermiddags val</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Vanliga tidig eftermiddags val</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Vanliga kvälls val</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Vanliga midnatts val</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Vanliga morgon val</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Tack för att du provar den matdagbok. Du har {0} rättegång dagar kvar. Tryck OK för att låsa upp app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Låsa upp nu?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Din rättegång har nu gått ut. Du kan fortfarande Visa din journal, men du kan inte lägga till nya poster. Välj OK för att låsa upp fullversionen.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Ta bort annonser</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Ta bort alla annonser permanent</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Hämta nu eftersom du kommer att älska användande den.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Matdagbok</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>PREMIUM-FUNKTIONER:
+1. ingen mer reklam.
+2. en mycket större mat databas.
+3. möjlighet att maila dig en kopia av mejeriet.
+4. fler konfigurationsalternativ, inklusive möjligheten att ange upp till 8 separata måltider om dagen.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>FUNKTIONER:
+1. en enkel och kraftfull design: app öppnas direkt på det att skärmen på senaste måltiden, eftersom det är vad du kommer att använda mest. Design gör lägga till poster som enkel och intuitiv som möjligt.
+2. en kran inmatning med personlig förslag: de vanligaste livsmedel omedelbart kan väljas. Start på den andra dagen, föreslås din senaste objekt eftersom du kan äta samma mat ofta.
+3. Logga in behövs inte: inga personuppgifter eller kontaktinformation krävs.
+4. tusentals poster som redan finns i databasen: de flesta livsmedel har korrekt information om gemensamma tjänstgör storlekar, kalorier, kolhydrater, protein och fett. 
+5. fullt off-line stöd: utan att behöva vara ansluten till internet. 
+6. exakta inträde är också lätt: du kan ange det exakta beloppet med ett reglage.
+7. dagliga rapporter: med hjälp av menyn, kan du direkt öppna dagboken, som visar en sammanfattning av din dag. Här kan du växla mellan kalorier, protein och kolhydrater genom att trycka på lilla triangeln.
+8. spåra dina mål: efter in dina personliga mål, kan du använda rapporten vecka för att se din trender. 
+9. personliga påminnelser hjälper dig att hålla på mål: de är ett bekvämt sätt att se till att du fyller i din dagbok, efter varje måltid, eller i slutet av dagen.
+
+Det är en bra idé att kontrollera informationen i databasen är det samma information på din mat förpackningen. mat näring varierar med varumärken och över tiden.
+
+Se till att diskutera dina mål med din läkare eller näring specialist.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>OM APP:
+Att hålla reda på vad du äter har visat för att förebygga och förhindra över-ätande.
+Denna app hjälper dig att kontrollera din kost och äta hälsosammare, genom att göra det enkelt att spåra vad du äter. Designen är optimerad för att göra post så fort som möjligt, med 1 Klicka på posten och de senaste mat förslag. Den inbyggda databasen har redan tusentals livsmedel och om din inte är kända, att lägga till dem är lätt.
+
+Observera: Denna app är gratis att ladda ner, och stöds av annonser. Du kan använda det gratis så länge du vill. Det är möjligt att ta bort annonsen för en avgift, som också kommer att möjliggöra ytterligare funktioner.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Matdagbok: Din kost och kalori spårning app.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Näringslära</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorier</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Kost</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Matdagboken</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Kaloriräknare</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banan</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kaffe</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Äpple</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Ägg</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 skiva</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Rostat bröd</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 kopp</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Apelsinjuice</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Tack för ert stöd! Använd alternativet att permanent ta bort annonser från din matdagbok app.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Ta bort reklam</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Ange vikt</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Utvärderingsperioden  är slut, låsa upp?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 mellan</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Om</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Det snabbaste och enklaste sättet att hålla koll på vad du äter.
+
+Scrolla ner för information om datanoggrannhet.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Uppgradera nu</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Köp premium-versionen</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Matdagbok för {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Något oväntat gick fel. Journalen skickades inte.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Ange en giltig e-postadress.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Totalt</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>endast {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Stöd utvecklingen</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>DISCLAIMER:
+De flesta, men inte alla datapunkter i databasen kommer från välrenommerade källor. Vi gör vårt bästa för att se till att alla värden är korrekta, men ansvarar inte för felaktiga eller saknade data. Näringsvärdena varierar av märket och över tid. Med hjälp av denna app, godkänner du att kontrollera och korrigera data i app, och för att vara fullt ansvariga för skada eller skada på grund av dess användning.
+
+Låt mig veta om det är något jag kan hjälpa dig med.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Bidra till fortsatta uppdateringar av denna app</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Få ALLA funktioner</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Ingår:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* OBS: De flesta, men inte alla data kommer från vedertagna källor. Genom att köpa premium-versionen, accepterar du fullt ansvar för riktigheten och fullständigheten av uppgifterna. Sänd en e-post till daily.journal@outlook.com för mer uppgifter.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Nya funktioner</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Alla premium funktioner  i framtida uppdateringar</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Fler måltider</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>För att hålla reda på 5, 6 eller fler måltider per dag</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Mer livsmedel *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Hundra- till tusentals mer mat varor (beroende av plats)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>E-rapporter</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-posta din journal för att spara, skriva ut, eller analysera den</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Ingen reklam</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Alla annonser tas bort permanent</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>köp nu</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Skicka e-post</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>skicka nu</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>E-postadress</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Få tillgång till alla funktioner</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Uppgradera till premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>OBS: De flesta, men inte alla data i databasen kommer från vedertagna källor. Vi gör vårt bästa för att se till att värdena är korrekta, men ansvarar inte för felaktiga eller saknade data. Genom att använda appen, bekräftar och accepterar du fullt ansvar för att kontrollera riktigheten av uppgifterna. Du har möjlighet att uppdatera appen för att korrigera felaktigeheter.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Journal för AAA
+Frågor eller kommentarer? Svar till BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Posta kommentar</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Uppdatera texterna i den här listan med bättre översättningar. Ta bort all text för artiklar som är olämpliga för din region.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Tack för din hjälp!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Översättningar</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Här kan du bidra till att förbättra denna app.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Original:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Bra:</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Beskrivning:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Bidra till att förbättra appen</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Ange din e-postadress om du vill bli kontaktad.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Kommentera</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Förbättra översättningen</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Lägg till i launcher</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>Genomsnittligt</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Avbryt</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Kopiera från liknande val</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Ta bort inmatning</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Ange vikten för denna mängd</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Fler alternativ</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Ingen</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>Okej</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>1 dags rea: {0} % rabatt</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Totalt</value>
+</data>
+<data name="EmailReport_Footer1a" xml:space="preserve">
+<value>Dagbok för AAA</value>
+</data>
+<data name="EmailReport_Footer1b" xml:space="preserve">
+<value>Frågor eller kommentarer? Svar till BBB</value>
+</data>
+</root>

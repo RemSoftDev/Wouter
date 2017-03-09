@@ -1,0 +1,1054 @@
+﻿Row	Meal	Name	Brand	Pos
+0	S	Arbata		33
+1	B	Kiaušinių		119
+2	B	Kavos		293
+3	S	Kavos		411
+4	B	Arbata		529
+5	L	Vištienos		615
+6	B	Avižiniai dribsniai		816
+7	S	Sausainių		944
+8	S	Kiaušinių		1120
+9	S	Bananų		1294
+10	B	Kava		1603
+11	S	Duona		1697
+12	B	Duona		1968
+13	L	Duona		2239
+14	D	Duona		2510
+15	B	Bananų		2781
+16	L	Pomidorų		3091
+17	B	Balta duona		3378
+18	D	Pica		3683
+19	D	Kiaušinių		3835
+20	S	Oranžinė		4010
+21	B	1 % pieno		4170
+22	B	Skrudinta duona		4321
+23	L	Žalios salotos		4649
+24	S	Mažai riebalų vaisiai jogurtas		5057
+25	D	Vištienos		5218
+26	L	Arbata		5420
+27	L	Kava		5507
+28	L	Baltieji ryžiai		5601
+29	B	Kietai virtų kiaušinių		5718
+30	L	Kiauliena		5918
+31	B	Mažai riebalų vaisiai jogurtas		6031
+32	B	Avižų		6192
+33	L	Kiaušinių		6312
+34	D	Pomidorų		6487
+35	D	Vištienos krūtinėlė		6774
+36	L	Morkų		6956
+37	B	Oranžinė		7288
+38	S	Skrudinta duona		7448
+39	D	Kiauliena		7776
+40	D	Baltieji ryžiai		7889
+41	L	Bananų		8006
+42	L	Salotoms su majonezu		8316
+43	D	Morkų		8448
+44	D	Vynuogės		8780
+45	L	Šokoladinis pyragas		8897
+46	D	Kopūstai		9019
+47	D	Skrudinta duona		9371
+48	L	Alyvuogių aliejaus		9699
+49	B	Kukurūzų dribsnių		9778
+50	S	Obuolys		9888
+51	D	Šviesos mažai riebalų vaisiai jogurtas		9911
+52	B	Sviestas		10085
+53	L	Mažai riebalų vaisiai jogurtas		10216
+54	D	Arbata		10377
+55	L	Paruoštas kiaulienos dešra		10464
+56	B	Prancūziška duona		10584
+57	B	Kava su pienu		10770
+58	L	Oranžinė		10789
+59	D	Svogūnų		10949
+60	L	Obuolių sulčių		11239
+61	L	Lęšiai		11377
+62	B	Pomidorų		11498
+63	B	Obuolys		11785
+64	B	Sūrelis		11808
+65	L	Keptos bulvių		11842
+66	L	Blynas		12049
+67	L	Pica		12215
+68	B	Sausainių		12367
+69	B	Paruoštas kiaulienos dešra		12544
+70	D	Žalios salotos		12664
+71	B	Kumpis		13072
+72	D	Kava		13204
+73	L	Sriuba		13298
+74	B	Varškė		13318
+75	D	Varškė		13337
+76	L	Kava su pienu		13356
+77	B	Sausi Pusryčiai		13375
+78	B	Sūris		13408
+79	B	Sumuštinis su sūriu		13506
+80	D	Keptos bulvių		13525
+81	S	Šokoladas		13732
+82	D	Sausainių		13771
+83	L	Obuolys		13948
+84	D	Bananų		13971
+85	B	Šviesos mažai riebalų vaisiai jogurtas		14281
+86	B	Blynas		14455
+87	L	Kepta vištiena		14621
+88	L	Eksportą ryžių		14842
+89	B	Agurkas		14900
+90	L	Makaronai su mėsos kukuliai pomidorų padaže		15084
+91	S	Šokoladinis pyragas		15199
+92	S	Bandelė		15321
+93	B	grikiu koše		15341
+94	B	Avižinė Košė		15361
+95	L	Kopūstai		15381
+96	S	Kriaušė		15733
+97	S	Apelsinas		15908
+98	B	Sumuštinis		15927
+99	D	Obuolys		15946
+100	L	Sumaišyti daržoves		15969
+101	L	Lašiša		16086
+102	S	Bananas		16190
+103	S	Vištienos krūtinėlė		16212
+104	B	Grikiai		16395
+105	B	Dešra		16415
+106	B	Bandelė		16545
+107	L	Makaronai		16566
+108	B	Jogurtas		16694
+109	L	Grikiai		16713
+110	S	Sūrelis		16733
+111	L	Avižiniai dribsniai		16768
+112	S	Kava		16898
+113	S	Kava su pienu		16993
+114	D	Paruoštas kiaulienos dešra		17013
+115	S	Pomidorų		17134
+116	B	Amerikos sūris		17422
+117	L	Bandelė		17661
+118	L	Sūrelis		17682
+119	D	Mažai riebalų vaisiai jogurtas		17717
+120	L	Sausainių		17879
+121	S	Baltieji ryžiai		18057
+122	S	Traškučiai		18175
+123	D	Sriuba		18297
+124	S	Avižiniai dribsniai		18318
+125	D	Lašiša		18448
+126	D	Blynas		18552
+127	D	Sumaišyti daržoves		18719
+128	B	Žalios salotos		18836
+129	S	Saldainis		19245
+130	L	Vištienos krūtinėlė		19265
+131	L	Bulvių pūkinės		19448
+132	L	Grietine		19561
+133	L	Balandėliai		19621
+134	B	Sumuštiniai		19642
+135	B	Grikiai virti		19681
+136	B	Cukrus		19720
+137	B	Apelsinas		19747
+138	B	Sumuštinis Su Lašiša		19767
+139	D	Kefyras		19788
+140	B	Baltieji ryžiai		19808
+141	L	Balta duona		19926
+142	L	Skrudinta duona		20232
+143	B	Obuoliai		20561
+144	L	Agurkas		20589
+145	S	Keptos bulvių		20774
+146	S	Saldainiai		20982
+147	S	Kiauliena		21021
+148	D	Bulvių pūkinės		21135
+149	D	Balta duona		21248
+150	B	Ryziu kose		21554
+151	B	Melionas		21595
+152	B	Sviesto be druskos		21615
+153	B	Avokadas		21732
+154	B	Bananas		21841
+155	S	Ananasų		21863
+156	S	Mandarinas		22091
+157	S	Kefyras		22113
+158	S	Pasukos		22133
+159	L	Kepta kiaulienos nugarinė		22155
+160	L	Pasukos		22296
+161	S	Pica		22318
+162	D	Salotoms su majonezu		22471
+163	D	Grikiai		22604
+164	L	Kriaušė		22624
+165	L	Saldainiai		22800
+166	D	Kava su pienu		22839
+167	L	Varškė		22859
+168	L	Sumuštinis		22879
+169	B	Ananasų		22899
+170	S	Grikiai		23127
+171	B	Saldainis		23147
+172	B	Grietine		23167
+173	S	1 % pieno		23227
+174	D	Avižiniai dribsniai		23379
+175	D	Šokoladinis pyragas		23509
+176	B	Uogiene		23632
+177	B	Šokoladinis pyragas		23671
+178	D	Obuolių sulčių		23794
+179	L	Sūris		23933
+180	S	Blynas		24032
+181	S	Žalios salotos		24199
+182	S	Obuolių sulčių		24608
+183	S	Šokoladiniai ledai		24747
+184	L	Grikiai virti		24871
+185	L	Sviestas		24910
+186	B	Varškės sūris		25042
+187	B	Ryziu Trapuciai		25063
+188	L	Amerikos sūris		25095
+189	B	Grudėta Varškė		25334
+190	B	Grikių		25374
+191	D	Sviestas		25395
+192	D	Šokoladiniai ledai		25527
+193	D	Jogurtas		25651
+194	B	Nenugriebto pieno		25670
+195	B	Kriaušė		25825
+196	B	Pica		26001
+197	B	Miltiniai Blynai		26154
+198	B	Keptos bulvių		26175
+199	D	Traškučiai		26383
+200	L	Bulvių koše		26505
+201	L	Riešutai		26623
+202	L	Avokadas		26644
+203	B	Varškės Sūrelis		26753
+204	B	Pasukos		26786
+205	S	Citrina		26808
+206	S	Varškė		26840
+207	S	Vištienos		26860
+208	L	Avižų		27063
+209	B	Kečupas		27184
+210	D	Tortas		27307
+211	D	Alus		27328
+212	D	Avokadas		27349
+213	L	Kečupas		27458
+214	B	Rudojo cukraus		27581
+215	D	Mandarinas		27748
+216	D	Aliejus Saulėgrąžų		27770
+217	B	Šviežių apelsinų sulčių		27798
+218	B	Šokoladas		27944
+219	B	Vynuogės		27984
+220	B	Obuolių sulčių		28102
+221	B	Rikotos sūriu		28241
+222	S	Vynuogės		28372
+223	L	Cukrus		28490
+224	S	Sviestas		28517
+225	S	Rudojo cukraus		28649
+226	S	Kepta kiaulienos nugarinė		28816
+227	B	Makaronai		28957
+228	D	Tunas		29085
+229	D	Koldunai		29117
+230	D	Sūrelis		29151
+231	D	Apelsinas		29186
+232	D	batonas		29206
+233	L	Virtos morkos		29227
+234	D	Šaltibarščiai		29559
+235	L	Plovas		29579
+236	D	Agurkas		29618
+237	L	Koldunai		29803
+238	L	Apelsinas		29837
+239	D	Makaronai su mėsos kukuliai pomidorų padaže		29857
+240	L	1 % pieno		29973
+241	D	Kepta kiaulienos nugarinė		30125
+242	D	Kepta vištiena		30266
+243	D	Grikių		30488
+244	D	Keptos bulvės su oda		30509
+245	D	Grietine		30715
+246	D	Alyvuogių aliejaus		30775
+247	D	Sumuštinis su sūriu		30855
+248	B	Kelių grūdų duona		30875
+249	D	Sumuštinis Su Lašiša		31193
+250	B	batonas		31214
+251	B	Lašiša		31235
+252	L	Bananas		31339
+253	L	Pomidorų pasta		31361
+254	B	Makaronai su mėsos kukuliai pomidorų padaže		31483
+255	B	Kepimo šokolado		31599
+256	L	Salotos		31717
+257	B	Tunas		31755
+258	B	Kavos su pienu		31787
+259	L	Šviežių apelsinų sulčių		31857
+260	B	Keksas		32003
+261	L	batonas		32024
+262	L	Šaltibarščiai		32045
+263	D	Kakava		32065
+264	S	Sūdytų žemės riešutų		32085
+265	S	Makaronai su mėsos kukuliai pomidorų padaže		32209
+266	S	Kepta vištiena		32325
+267	S	Salotoms su majonezu		32547
+268	S	Paruoštas kiaulienos dešra		32680
+269	S	Balta duona		32801
+270	L	Aliejus Saulėgrąžų		33107
+271	B	Kose		33135
+272	B	Obuolis		33156
+273	B	Avižiniai Sausainiai		33188
+274	B	Pienas		33209
+275	B	Kiausiniene		33229
+276	B	Kivi		33250
+277	B	Dešrelė		33270
+278	B	Sriuba		33291
+279	B	soja		33312
+280	B	Senamadiškas spurga		33344
+281	L	Senamadiškas spurga		33547
+282	B	Salotoms su majonezu		33750
+283	B	Kiauliena		33883
+284	L	Traškučiai		33997
+285	L	Vynuogės		34119
+286	L	keptas kiaušinis		34237
+287	L	Dešrainis		34341
+288	L	Karbonadas		34450
+289	L	Žuvis		34471
+290	L	Paprika		34570
+291	B	Mažai riebalų vanilės jogurtas		34590
+292	D	Pomidorų pasta		34764
+293	S	Sumuštinis		34886
+294	S	Makaronai		34906
+295	S	Kumpis		35034
+296	S	Grikių		35167
+297	S	Trapučiai		35188
+298	S	Arbuzas		35209
+299	S	Bandelių		35526
+300	D	Bananas		35695
+301	D	Sumuštinis		35717
+302	D	Kepimo šokolado		35737
+303	D	Grikiai virti		35855
+304	D	Majonezas		35894
+305	D	Tinginys		35915
+306	D	Pomidorai		35950
+307	S	Obuolis		35970
+308	D	Avižų		36002
+309	S	Riešutai		36123
+310	B	Sumažinti riebalų sūrio		36144
+311	B	Kefyras		36380
+312	B	Koldunai		36400
+313	B	Saliamis		36434
+314	L	Kietai virtų kiaušinių		36550
+315	L	Pieniskos desreles		36751
+316	L	Kelių grūdų duona		36782
+317	B	Medus		37100
+318	L	Obuoliai		37182
+319	B	Manų Košė		37210
+320	B	Omletas		37231
+321	B	Jogurtas activia		37252
+322	B	Razinos		37291
+323	B	Cepelinai		37312
+324	B	Kavytė		37409
+325	B	Liesa Varske		37448
+326	B	Sausainių su dešra		37470
+327	B	Vištienos sultinys		37587
+328	B	Pomidorai		37753
+329	B	Graikiskas Jogurtas		37773
+330	S	Dešra		37805
+331	S	Bandelė Su Varške		37935
+332	S	Pienas		37960
+333	S	Tortas		37980
+334	S	Virtos morkos		38001
+335	S	Morkų		38333
+336	S	Sūrio pyragas		38666
+337	S	Sumuštinis su sūriu		38816
+338	S	Saulėgrąžų sėklos		38836
+339	L	Saldainis		38940
+340	S	Kiviai		38960
+341	L	Burokeliai		38980
+342	L	Dešra		39023
+343	L	Nenugriebto pieno		39153
+344	B	Morkų		39308
+345	L	Sunkiųjų apmėtymas grietinėlės		39641
+346	L	Sultys		39805
+347	L	Sūrelis su aguonomis		39827
+348	L	Dešrelės		39866
+349	L	Cepelinai		39887
+350	S	Sriuba		39984
+351	D	Žuvis		40005
+352	D	Bandelių		40104
+353	D	Visą šokoladinis pienas		40273
+354	D	1 % pieno		40437
+355	D	Sūrio pyragas		40589
+356	D	Bulvių traškučiai		40739
+357	D	Riešutai		40776
+358	D	Saldainis		40797
+359	D	Pekino Kopustas		40817
+360	D	Pasukos		40837
+361	D	Omletas		40859
+362	L	Kefyras		40880
+363	D	Sūris		40900
+364	D	Bulvių koše		40999
+365	D	Cukrus		41117
+366	D	Vafliniai		41144
+367	D	Sultys		41293
+368	D	Obuoliai		41315
+369	D	Miltiniai Blynai		41343
+370	D	meduoliai		41364
+371	S	Sausi Pusryčiai		41391
+372	S	Konservuoti žalieji žirneliai		41425
+373	S	Amerikos sūris		41539
+374	S	Pomidorai		41778
+375	S	Keksas		41798
+376	S	Bulvių pūkinės		41819
+377	S	Bulvių traškučiai		41932
+378	D	Lašiniai		41969
+379	D	Kavos		41990
+380	D	Avižiniai Sausainiai		42110
+381	D	Uogiene		42131
+382	S	Cipsai		42170
+383	D	Grudėta Varškė		42197
+384	D	Silke		42237
+385	D	Kumpis		42394
+386	D	Rudojo cukraus		42527
+387	D	Makaronai		42694
+388	D	Šviežių apelsinų sulčių		42822
+389	D	Kriaušė		42968
+390	D	Ananasų		43144
+391	D	Šokoladas		43372
+392	D	Cipsai		43412
+393	D	Amerikos sūris		43439
+394	S	Balandėliai		43678
+395	B	Ryziu traputis		43699
+396	B	Pomidorų pasta		43736
+397	B	Šaldytos braškės ir žemuogės		43858
+398	B	Kiausinis virtas		44127
+399	B	Tinginys		44167
+400	B	Margarinas		44202
+401	B	Desra rukyta		44223
+402	B	Pieniskos desreles		44254
+403	B	Kepta kiaulienos nugarinė		44285
+404	S	Senamadiškas spurga		44426
+405	S	Alus		44629
+406	S	Medus		44650
+407	S	Sumuštiniai		44732
+408	S	Sumaišyti daržoves		44771
+409	S	Šviežių apelsinų sulčių		44888
+410	S	batonas		45034
+411	S	Sultys		45055
+412	S	Jogurtas		45077
+413	S	Visą šokoladinis pienas		45096
+414	S	Lašiša		45260
+415	S	Kukurūzų dribsnių		45364
+416	S	Kepimo šokolado		45475
+417	S	Obuoliai		45593
+418	S	Belvita		45621
+419	S	Cukrus		45642
+420	B	Vafliniai		45669
+421	L	Rikotos sūriu		45818
+422	L	Kotletas		45949
+423	L	Obuolis		45970
+424	L	Silke		46002
+425	L	Šokoladiniai ledai		46159
+426	D	Arbuzas		46283
+427	B	Sumuštinis su dešra		46600
+428	B	Kakava		46634
+429	B	Sūrio pyragas		46654
+430	B	Sumaišyti daržoves		46804
+431	L	Svogūnų		46921
+432	B	Sultys		47212
+433	B	Trapučiai		47234
+434	S	Mėsa		47255
+435	D	Dešrainis		47276
+436	L	Rudojo cukraus		47385
+437	L	Plonas pluta pica		47552
+438	L	Ananasų		47716
+439	D	Sumažinti riebalų sūrio		47944
+440	D	Pienas		48180
+441	B	Coffee		48200
+442	L	Vafliniai		48238
+443	L	Šokoladas		48387
+444	D	Cepelinai		48427
+445	D	Dešrelės		48524
+446	S	Kietai virtų kiaušinių		48545
+447	S	Tinginys		48746
+448	S	Mandarinai		48781
+449	S	Agurkai		48822
+450	S	Desra rukyta		48855
+451	S	Aliejus Saulėgrąžų		48886
+452	B	keptas kiaušinis		48914
+453	S	Keksiukas		49018
+454	S	Ledai		49039
+455	S	Saliamis		49078
+456	S	Dešrainis		49194
+457	S	Grikiai virti		49303
+458	S	Sausainiai		49342
+459	S	Kepsnys		49373
+460	S	Svogūnų		49394
+461	S	Keptos bulvės su oda		49685
+462	S	Šaldytos apelsinų sulčių koncentrato		49891
+463	B	Krabas		50039
+464	B	Bandelės		50193
+465	B	Traškučiai		50232
+466	B	Vištienos krūtinėlė		50354
+467	B	Bandelių		50537
+468	B	Šokoladiniai ledai		50706
+469	B	Lęšiai		50830
+470	B	Obuolių		50952
+471	B	2 % pieno		51073
+472	B	Avižų Košė		51232
+473	B	Plonas pluta pica		51318
+474	B	Saldainiai		51482
+475	B	Troškinys		51521
+476	B	Agurkai		51559
+477	B	Sūrio padažu		51592
+478	B	Ledai		51732
+479	B	Sumažinti riebalų žemės riešutų sviestas		51771
+480	B	Bulvių pūkinės		51874
+481	B	Surelis Nykštukas		51987
+482	B	Konservuoti žalieji žirneliai		52008
+483	B	meduoliai		52122
+484	S	Kopūstai		52149
+485	B	Majonezas		52502
+486	B	Natūralus Jogurtas		52523
+487	B	Bulvių traškučiai		52555
+488	B	Kepsnys		52592
+489	B	Kiausinis		52613
+490	B	Sunkiųjų apmėtymas grietinėlės		52713
+491	D	vistiena		52877
+492	D	Nenugriebto pieno		52909
+493	D	Vištienos sultinys		53064
+494	S	Kakava		53230
+495	D	Eksportą ryžių		53250
+496	S	Koldunai		53309
+497	D	Salotos		53343
+498	D	Dešrelė		53381
+499	D	Kečupas		53402
+500	D	Keksas		53525
+501	D	Troškinys		53546
+502	D	Avižų Košė		53584
+503	L	Margarinas		53670
+504	D	Mandarinai		53691
+505	D	Sumuštinis su dešra		53732
+506	D	Varškėčiai		53766
+507	D	Burokeliai		53801
+508	D	Konservuotų raudonųjų daržinių pupelių		53844
+509	D	Kepta kumpis		53954
+510	D	Kotletas		54071
+511	D	Graikiskas Jogurtas		54092
+512	D	Kiausinis		54124
+513	D	Arbata zalia		54224
+514	D	Kelių grūdų duona		54258
+515	D	Manų Košė		54576
+516	D	Sausi Pusryčiai		54597
+517	D	Bandelė		54631
+518	L	Sūrio pyragas		54652
+519	S	Sviesto be druskos		54802
+520	S	Bulvių koše		54919
+521	S	Mažai riebalų vanilės jogurtas		55037
+522	L	Kukurūzų dribsnių		55211
+523	L	Dešrelė		55322
+524	L	Šparagai		55343
+525	L	Šviesos mažai riebalų vaisiai jogurtas		55459
+526	D	Vaniliniai ledai		55634
+527	L	Kose		55754
+528	L	Majonezas		55775
+529	L	Mandarinas		55796
+530	L	Sausainių su dešra		55818
+531	L	Cipsai		55935
+532	L	grikiu koše		55962
+533	L	Kavos		55983
+534	L	Arbata zalia		56103
+535	L	Grudėta Varškė		56137
+536	L	Kiausinis virtas		56177
+537	L	Kepta kumpis		56217
+538	L	Sūdytų žemės riešutų		56334
+539	L	Kiaulienos karbonadas		56458
+540	L	Sumažinti riebalų žemės riešutų sviestas		56484
+541	L	Kiausinis		56587
+542	L	Kavytė		56687
+543	L	Agurkai		56726
+544	L	Konservuotų raudonųjų daržinių pupelių		56759
+545	B	Tepamas suris		56869
+546	B	Kopūstai		56909
+547	B	Keptos bulvės su oda		57262
+548	B	Kepta vištiena		57468
+549	B	Visą šokoladinis pienas		57690
+550	B	Salotos		57854
+551	B	Silke		57892
+552	L	Pienas		58049
+553	B	Vaniliniai ledai		58069
+554	B	Šaltibarščiai		58189
+555	D	Medus		58209
+556	D	Kukurūzų dribsnių		58291
+557	D	Prancūziška duona		58402
+558	D	Dešra		58589
+559	D	Kakavos milteliai		58719
+560	D	Mišrainė		58827
+561	D	Saulėgrąžų sėklos		58848
+562	D	Kivi		58952
+563	D	Saldainiai		58972
+564	S	Silke		59011
+565	D	Mažai riebalų vanilės jogurtas		59168
+566	D	Kopustu sriuba		59342
+567	D	Trapučiai		59373
+568	D	Senamadiškas spurga		59394
+569	D	Kiausiniene		59597
+570	D	Kose		59618
+571	D	Bandelės		59639
+572	D	Balandėliai		59678
+573	S	Šviesos mažai riebalų vaisiai jogurtas		59699
+574	D	Špinatai		59874
+575	D	Greifurtas		59895
+576	D	Rikotos sūriu		59926
+577	L	Tinginys		60057
+578	D	Liesa Varske		60092
+579	D	Sūrelis su aguonomis		60114
+580	D	Praturtintas vaisių gėrimas		60153
+581	D	Kavos su pienu		60267
+582	D	Ryziu Trapuciai		60337
+583	D	Ryziu kose		60369
+584	D	grikiu koše		60410
+585	D	Sakotis		60431
+586	D	Sumuštiniai		60451
+587	D	Pomidorų sultys		60490
+588	D	Grybai		60631
+589	D	Razinos		60661
+590	D	Melionas		60682
+591	D	Ledai		60702
+592	D	Želė		60741
+593	D	Sūrio padažu		60763
+594	D	Virtos morkos		60903
+595	D	Braškių		61235
+596	S	Salotos		61509
+597	D	keptas kiaušinis		61547
+598	S	Kepta kumpis		61651
+599	S	meduoliai		61768
+600	S	Vištienos sultinys		61795
+601	S	Sumažinti riebalų sūrio		61961
+602	S	Varškės Sūrelis		62197
+603	S	Sausainių su dešra		62230
+604	S	keptas kiaušinis		62347
+605	S	Sūrio padažu		62451
+606	S	Zefyrai		62591
+607	S	Avižų		62728
+608	S	Varškėčiai		62849
+609	S	grikiu koše		62884
+610	S	Lašiniai		62905
+611	S	Džiuvesėliai		62926
+612	S	Chalva		62948
+613	S	Liesa Varske		62983
+614	S	Šokoladukas		63005
+615	S	Tunas		63047
+616	S	Agurkas		63079
+617	S	Pomidorų pasta		63264
+618	S	vistiena		63386
+619	S	Cukraus		63418
+620	S	Pomidorų sultys		63579
+621	S	Šaltibarščiai		63720
+622	S	Braškių		63740
+623	S	Sumuštinis su dešra		64014
+624	S	Nenugriebto pieno		64048
+625	S	Kečupas		64203
+626	S	Sūris		64326
+627	S	Kose		64425
+628	S	Grudėta Varškė		64446
+629	S	Kakavos milteliai		64486
+630	S	Rikotos sūriu		64594
+631	S	Kivi		64725
+632	S	Dešrelė		64745
+633	S	Obuolių		64766
+634	S	Coffee		64887
+635	S	2 % pieno		64925
+636	S	Manų Košė		65084
+637	S	Ryziai		65105
+638	S	Arbata zalia		65139
+639	L	soja		65173
+640	S	Grietine		65205
+641	B	Karbonadas		65265
+642	B	Kondensuotas Pienas		65286
+643	B	Džiuvesėliai		65318
+644	B	Kokosų aliejus		65340
+645	B	Mandarinai		65455
+646	B	Paprika		65496
+647	B	Žuvis		65516
+648	B	Citrina		65615
+649	B	Arbata zalia		65647
+650	B	Sausainiai		65681
+651	B	Alus		65712
+652	B	Špinatai		65733
+653	B	Dešrainis		65754
+654	B	Sūrelis su aguonomis		65863
+655	B	Praturtintas vaisių gėrimas		65902
+656	B	Mėsa		66016
+657	B	Chalva		66037
+658	B	Belvita		66072
+659	B	Bandelė Su Varške		66093
+660	D	Kokosų aliejus		66118
+661	B	Tortas		66233
+662	B	Pyragas		66254
+663	B	Kakavos milteliai		66275
+664	B	Cukraus		66383
+665	B	Latte		66544
+666	B	Mišrainė		66565
+667	B	Saulėgrąžų sėklos		66586
+668	B	Šparagai		66690
+669	B	Kiviai		66806
+670	B	Bulvių koše		66826
+671	B	vistiena		66944
+672	B	Želė		66976
+673	B	Šaldytos apelsinų sulčių koncentrato		66998
+674	L	Kumpis		67146
+675	L	Varškėčiai		67279
+676	L	Pyragas		67314
+677	L	Sūrio padažu		67335
+678	L	Sausainiai		67475
+679	L	Sumuštiniai		67506
+680	L	Mangas		67545
+681	L	Pomidorai		67567
+682	L	Grikių		67587
+683	L	Kiausiniene		67608
+684	L	Vištienos sultinys		67629
+685	L	Keptos bulvės su oda		67795
+686	L	Latte		68001
+687	L	Obuolių		68022
+688	L	Mišrainė		68143
+689	L	2 % pieno		68164
+690	L	Keksas		68323
+691	L	Kivi		68344
+692	L	Kiviai		68364
+693	L	Jogurtas activia		68384
+694	L	Chalva		68423
+695	L	Kopustu sriuba		68458
+696	L	Kakava		68489
+697	L	Prancūziška duona		68509
+698	L	Sumažinti riebalų sūrio		68696
+699	S	Želė		68932
+700	L	Mėsa		68954
+701	L	Želė		68975
+702	L	Liesa Varske		68997
+703	L	Šokoladukas		69019
+704	L	Tunas		69061
+705	L	Ryziu Trapuciai		69093
+706	L	Konservuoti žalieji žirneliai		69125
+707	L	Mandarinai		69239
+708	L	Varškės Sūrelis		69280
+709	L	Ryziai		69313
+710	L	Bulvių traškučiai		69347
+711	L	Keptos pupos		69384
+712	L	Kiaušinis		69448
+713	D	Kiaušinis		69632
+714	D	Raudonas vynas		69816
+715	D	Skrebutis		69892
+716	S	Kiaušinis		70169
+717	S	Skrebutis		70353
+718		grudu dribsniai		70630
+719		Pienas Farm Milk		70666
+720		Slyvos		70700
+721		Virtų bulvių		70731
+722		Mėlynes		70940
+723		Miežiniai Dribsniai		71013
+724		Varškė Vilkyškių		71052
+725		Troškinta vištiena		71089
+726		Piemenelio Varske		71302
+727		Varškėtukai		71340
+728		Nektarinas		71361
+729		Obuolių Pyragas		71382
+730		Svogūnai		71476
+731		Kopūstų Sriuba Su Kubeliu		71685
+732		Moliūgų pyragas		71718
+733		Vištienos šlaunį		71893
+734		Žuvies piršteliai		72035
+735		Baltos pupelės		72134
+736		Žemės Riešutai		72258
+737		Rudieji ryžiai		72279
+738		Batonėlis		72382
+739		Spagečiai		72422
+740		Datules		72522
+741		Arbata su pienu		72548
+742		Persikai		72568
+743		Trijų Grūdų košė		72588
+744		Juoda duona		72622
+745		vafliai		72664
+746		Kibinas		72685
+747		Visi miltų		72724
+748		Pasukų varškė		72830
+749		Makaronai su pomidorų padažu		72861
+750		Avietės		72984
+751		Anakardźio Riešutai		73003
+752		Abrikosas		73113
+753		Kepta duona		73143
+754		Bandelė su dešrele		73164
+755		Fermentinis sūris		73197
+756		Kefyras 2,5%		73223
+757		Actimel		73264
+758		Varškytė		73303
+759		2,5 % pieno		73324
+760		Neriebus pienas		73428
+761		Avižų sėlenoms grūdų		73570
+762		Kukurūzų traškučiai		73688
+763		Kiausiniai		73809
+764		Farsas		73911
+765		Žemuoges		73932
+766		Sultys Apelsinu		73954
+767		Apelsinų sultys		73988
+768		Daktariška Dešra		74069
+769		Rukola		74104
+770		Šampinjonai		74123
+771		Balandelis		74143
+772		Itališka Duona		74164
+773		Sūrio pūkinės		74367
+774		Kiaušinių baltymai		74478
+775		Plakta kiaušinių		74579
+776		Kremas pakeisti milteliai		74813
+777		Šokoladinį pieną		74997
+778		Mažai riebalų šokoladinį pieną		75172
+779		Sūdyto sviesto		75344
+780		Plakto sviesto		75517
+781		Grietinėlės sūris		75690
+782		Šveicariškas sūris		75910
+783		Pusė ir pusė		76167
+784		Lengvas kremas		76350
+785		Kalakuto krūtinėlė		76532
+786		Jautienos sultinio		76736
+787		Grietinėlės grybų sriuba		76898
+788		Padažas		77069
+789		Barbekiu padažas		77236
+790		Jautienos atsargų		77413
+791		Vi tienos rankų		77582
+792		Vištienos sultinio		77753
+793		Bolonijos		77919
+794		Viščiuko koja		78090
+795		Žemės riešutų aliejus		78272
+796		Sojų aliejus		78424
+797		Džiūvėsėliuose vištienos		78582
+798		Majonezo padažas		78822
+799		Skrudintos vištienos		78981
+800		Kremas Pavaduojantis narys		79214
+801		Spirituoto mažai riebalų vaisiai jogurtas		79395
+802		Šviesos spirituoto mažai riebalų vaisiai jogurtas		79591
+803		Druska		79783
+804		Kūdikių avižiniai dribsniai		79941
+805		Italijos padažu		80107
+806		Prancūzų padažu		80282
+807		Mažai riebalų augalinio aliejaus plitimo		80456
+808		Kukurūzų aliejus		80623
+809		Rapsų aliejus		80780
+810		Margarino		80936
+811		Augalinio aliejaus plitimo		81101
+812		Augalinio aliejaus		81272
+813		Pramonės Sojų aliejus		81433
+814		Pramonės sojų ir medvilnės sėklų aliejus		81590
+815		Kantalupa		81747
+816		Apelsinų sulčių koncentrato		82164
+817		Apelsinų sultys su kalcio		82338
+818		Persikų		82513
+819		Razinų		82745
+820		Arbūzas		82990
+821		Obuolių, vynuogių ir kriaušių sultys		83403
+822		Baltųjų grybų		83576
+823		Vynuogių sultys		83745
+824		Kukurūzų		83918
+825		Konservuoti geltona kukurūzų		84258
+826		Šaldyti kukurūzai		84414
+827		Virti svogūnai		84754
+828		Bulvių		85081
+829		Bulvių odos		85316
+830		Kumpis su natūralios sultys		85547
+831		Kumpis ir vandens		85716
+832		Kumpis - vandens		85881
+833		Labai liesas kumpis		86049
+834		Labai liesa kepta kumpis		86210
+835		Sušaldytos morkų		86371
+836		Salierai		86729
+837		Žalias brokoliai		87041
+838		Brokoliai		87314
+839		Smulkintų brokolių		87586
+840		Šaldytų brokolių		87857
+841		Žalias kopūstas		88128
+842		Kava be kofeino kavos		88521
+843		Vanduo buteliuose		88673
+844		Praturtintas vaisių skonio vandens		88812
+845		Šviesos tuno konservus		88949
+846		Krevečių		89138
+847		Konservuotų krevečių		89287
+848		Moliuskai		89436
+849		Konservuotų moliuskai		89627
+850		Konservuotų vaisių gėrimas		89822
+851		Limonadas		89964
+852		Daržovių ir vaisių sulčių		90126
+853		Kaukas		90284
+854		Šaknų alus		90427
+855		Jautienos		90564
+856		Alaus		90764
+857		Šviesusis alus		90913
+858		Virtų pomidorų		91053
+859		Konservuotų pomidorų		91365
+860		Konservuoti uogienę pomidorai		91571
+861		Konservuotų pomidorų padažas		91881
+862		Žalias špinatai		92052
+863		Keptos saldžiosios bulvės		92242
+864		Saldžiosios bulvės		92419
+865		Vasaros skvošas		92592
+866		Žiemos moliūgo		92829
+867		Konservuotų saldžiųjų bulvių		93065
+868		Konservuotų morkų sultys		93240
+869		Marinatas		93414
+870		Skonį		93675
+871		Migdolai		93848
+872		Blanširuotų migdolai		94075
+873		Skrudinti migdolai		94283
+874		Graikinių riešutų		94490
+875		Sūdyti su kepintais migdolais		94775
+876		Anakardžio riešutai		94984
+877		Konservuotų daržovių sultys		95174
+878		Sumuštinis kepsnys		95349
+879		Bulvytės		95509
+880		Cezaris padažu		95696
+881		Mažai riebalų Amerikos sūris		95875
+882		Spanguolių sultys		96128
+883		Mažai riebalų šveicariškas sūris		96297
+884		Vandentiekio vandens		96551
+885		Vaisių skonio vandens		96689
+886		Silkė		96828
+887		Raudonųjų daržinių pupelių		97079
+888		Sojų padažas		97247
+889		Praturtintas sojos		97434
+890		Šokolado sumuštinis slapukus		97608
+891		Žemės riešutų sviestas slapukas		97827
+892		Balta skrudinta duona		98044
+893		Ruginė duona		98372
+894		Cinamono razinų riestainiai		98706
+895		Sūrio krekingas		98893
+896		Krekingo		99148
+897		Krekeriai su žemės riešutų sviesto		99399
+898		Kviečių krekerių		99654
+899		Raguolis		99906
+900		Žiedinė diagrama		100096
+901		Mėlynių Blynai		100316
+902		Mielių		100540
+903		Kava be kofeino arbatos		100710
+904		Žemės riešutų M & Ms		100866
+905		M & Ms		101050
+906		Twix baras		101236
+907		Pieninis šokoladas		101398
+908		Apelsinų šerbetas		101541
+909		Karamelė		101677
+910		Pūsti		101802
+911		Karamelės		101937
+912		Kepimo miltelių		102086
+913		Pasukos Vafliniai		102218
+914		Žemės riešutų be druskos		102387
+915		Skrudintus žemės riešutus		102544
+916		Duonos trupinius		102697
+917		Vanilės sumuštinis slapukus		102850
+918		Bis		103024
+919		Virti lęšiai		103167
+920		Sūdyti skrudintus žemės riešutus		103323
+921		Juodosios pupelės		103478
+922		Baltos skiedros		103635
+923		Drebučiai (želė)		103773
+924		Maišas rudi		103916
+925		Šaldytos picos		104065
+926		Didėjančios pluta pica		104215
+927		Šaldytos mėsos ir daržovių pica		104364
+928		Mikrobangų pūsti		104513
+929		Miltelinis cukrus		104652
+930		Sumažinti riebalų lustai		104783
+931		Storio pluta pica		104925
+932		Mėsos ir daržovių pica		105075
+933		Vanilinis kokteilis		105223
+934		Austrės		105371
+935		Momentiniai arbata		105512
+936		Kiaulienos gabalai		105681
+937		Skrudintos riebalų ant kumpio		105837
+938		Maišos rudi		105974
+939		Petražolės		106119
+940		Trūkažolės		106287
+941		Konservuotų šparaginių pupelių		106457
+942		Kepta kiaulienos nugarinė riebalų		106632
+943		Mėlynės		106784
+944		Avižų su cinamonu ir prieskonių		106923
+945		Avižų su razinomis ir prieskonių		107067
+946		Čili miltelių		107215
+947		Garstyčių		107378
+948		Vištienos krūtinėlė su odele		107521
+949		Džiūvėsėliuose vištienos krūtinėlė		107684
+950		Skrudintos vištienos krūtinėlė		107853
+951		Vištienos krūtinėlė mėsos		108015
+952		Koja be kulšies		108183
+953		Vištienos sparnai		108358
+954		Tyrolska		108499
+955		Italijos dešra		108665
+956		Skrudinti kalakutiena		108833
+957		Skrudinti kalakutų mėsa		108974
+958		Sūris išplito		109111
+959		Parmezano sūris		109262
+960		Sauso pieno		109420
+961		Džiovinti kiaušinių		109572
+962		Kiaušinių trynys		109739
+963		Žemės Turkija		109886
+964		Kakavos pūstų		109994
+965		Kakavos akmenukai		110121
+966		Slapukas traškučiai		110240
+967		Kukurūzų chex		110365
+968		Visos sėlenoms kviečių dribsniai		110486
+969		Sėlenos dribsniai		110601
+970		Vaisių žvirgždas		110725
+971		Grape nuts grūdų		110839
+972		Kix		110971
+973		Pasisekė žavesio		111102
+974		Medaus riešutų chex		111236
+975		Razinų sėlenų		111370
+976		Razinų sėlenoms grūdų		111501
+977		Ryžių chex		111628
+978		Matinio dribsnių		111752
+979		Nesmulkintų grūdų viso		111883
+980		Kviečių chex		112006
+981		Kukurūzų kruopos		112130
+982		Peperoni		112261
+983		Kiaulienos ir jautienos dešra		112394
+984		Skrudintos vištienos sparnai		112529
+985		Kepenų dešra		112648
+986		Vištienos dešrainis		112786
+987		Vištienos kepenys		112919
+988		Kūdikių ryžių grūdų		113044
+989		Kiaulinių taukų		113181
+990		Avižiniai dribsniai kvadratų		113301
+991		Pluošto, vienas		113435
+992		Bendras razinų sėlenų		113552
+993		Cinamono taurę krizė		113673
+994		Medaus kepinti avižų		113809
+995		Vanilės migdolų		113930
+996		Garstyčių žalumynai		114050
+997		Kopūstas		114190
+998		Žalieji žirneliai		114325
+999		Šaldyti žalieji žirneliai		114455
+1000		Trūkažolės (cikorijos) žali		114585
+1001		Žuvies lazdeles		114720
+1002		Plekšniažuvės		114869
+1003		Šamas		114989
+1004		Vaivorykštinis upėtakis		115107
+1005		Tilapija		115229
+1006		Šokolado sirupas		115347
+1007		80 įrodymas alkoholiniai gėrimai		115476
+1008		Balto vyno		115573
+1009		Jautienos mentės kepsnys		115679
+1010		Jautiena šonkauliu		115799
+1011		Jautienos apvalios		115906
+1012		Virti špinatai		116025
+1013		Konservuotų špinatai		116156
+1014		Ropių		116285
+1015		Jautienos krūtininė		116429
+1016		Mišrios riešutų		116548
+1017		Aliejaus apkepti mišrios riešutų		116662
+1018		Mėsainis		116782
+1019		Jautienos kepenų		116907
+1020		Skrudintų saulėgrąžų sėklų		117038
+1021		Kiaušinių vyniotinis su kiauliena		117176
+1022		Mėsainių (95 % liesos)		117295
+1023		Mėsainių (90 % liesos)		117403
+1024		Mėsainių (85 % liesos)		117513
+1025		Mėsainių (80 % liesos)		117622
+1026		Mėsainių (75 % liesos)		117728
+1027		Maltos jautienos (75/25)		117834
+1028		Dvivietis mėsainis		117956
+1029		Dvigubai sūrainis		118092
+1030		Vištienos pasiūlymų		118228
+1031		Vištienos puodą pyragas		118360
+1032		Žalias baltieji ryžiai		118490
+1033		Klevų sirupas		118617
+1034		Sausainių su kiaušinių ir dešrų		118755
+1035		Nesmulkintų grūdų miltų		118888
+1036		Baltos duonos miltai		119015
+1037		Rupių miltų		119143
+1038		Šokolado galios juostą		119270
+1039		Krizė baras		119400
+1040		Medaus kekių avižų su migdolais		119517
+1041		Bananų riešutų krizė		119648
+1042		Medaus kekių avižų		119785
+1043		Keptos pupos su frankai		119918
+1044		Keptos pupelės su kiaulienos ir pomidorų padažu		120049
+1045		86 įrodymas alkoholiniai gėrimai		120176
+1046		Žemės riešutų sviestas		120275
+1047		Uogų skrudintuvas pyragaičiai		120406
+1048		Matinio skrudintuvas pyragaičiai		120540
+1049		Šokolado dengtas karamelė		120674
+1050		Šviesos vaniliniais ledais		120782
+1051		Turtingas vaniliniais ledais		120920
+1052		Kalkių ledo tipo		121052

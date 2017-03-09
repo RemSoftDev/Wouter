@@ -1,0 +1,3683 @@
+﻿Row	Meal	Name	Pos
+0	B	Café	33
+1	L	Yaourt	168
+2	B	Yaourt	334
+3	B	Banane	500
+4	D	Yaourt	793
+5	S	Café	959
+6	S	Banane	1094
+7	B	Jus d'orange	1387
+8	B	Lait écrémé	1521
+9	L	Banane	1673
+10	D	Pizza Margherite, cuite au four	1966
+11	B	Pain blanc	2116
+12	D	Potage	2427
+13	D	Spaghetti	2586
+14	D	Coca-Cola 	2641
+15	B	Pain toast	2751
+16	L	Riz blanc	3077
+17	L	Café	3178
+18	L	Coca-Cola 	3314
+19	B	Beurre	3424
+20	L	Pizza Margherite	3639
+21	S	Yaourt	3789
+22	D	Hamburger	3956
+23	B	Corn Flakes	4026
+24	L	Pommes frites	4101
+25	B	Gouda	4285
+26	L	Carotte	4445
+27	B	Thé	4770
+28	D	Café	4843
+29	D	Riz blanc	4979
+30	L	Pain blanc	5080
+31	S	Lait écrémé	5391
+32	D	Banane	5544
+33	B	Chocolat au lait	5838
+34	B	Coca-Cola 	5985
+35	D	Gouda	6095
+36	D	Salade verte	6255
+37	L	Hamburger	6386
+38	B	Orange	6456
+39	D	Carotte	6619
+40	L	Tomate	6944
+41	L	Pomme	7224
+42	B	Spaghetti	7458
+43	L	Gouda	7513
+44	B	Fromage à pâte molle	7673
+45	S	Chocolat au lait	7883
+46	D	Ketchup	8030
+47	B	Biscuits aux noisettes	8162
+48	L	Purée de pommes de terre	8343
+49	S	Coca-Cola 	8399
+50	B	Pizza Margherite	8509
+51	D	Pommes frites	8659
+52	L	Ketchup	8843
+53	D	Tomate	8975
+54	B	Lait chocolaté	9255
+55	S	Hamburger	9424
+56	D	Pain blanc	9494
+57	D	Pomme	9805
+58	B	Sucre	10039
+59	L	Salade verte	10241
+60	L	Spaghetti	10372
+61	L	Sprite 	10427
+62	S	Pomme	10543
+63	B	Mandarine	10777
+64	L	Lait écrémé	10939
+65	S	Ketchup	11092
+66	B	Nesquik Céréales	11224
+67	B	Jambon cuit de devant	11294
+68	B	Jambon cru	11448
+69	L	Jambon cru	11603
+70	L	Orange	11758
+71	L	Chocolat au lait	11921
+72	L	Poulet Innenfilet	12068
+73	D	Poulet Innenfilet	12208
+74	L	Jambon cuit de devant	12348
+75	D	Vin, rouge, 12 vol%	12502
+76	S	Sucre	12576
+77	L	Lion (Nestlé)	12778
+78	L	Oignon	13041
+79	L	Légumes	13346
+80	L	Brocoli	13479
+81	D	Jambon cru	13689
+82	L	Fromage à pâte molle	13844
+83	D	Jambon cuit de devant	14054
+84	B	Expresso	14208
+85	S	Riz blanc	14311
+86	S	Pain blanc	14412
+87	B	Expresso crème	14723
+88	B	Demi-crème	14880
+89	S	Pizza Margherite	15046
+90	B	Jus de pomme	15196
+91	L	Jus d'orange	15335
+92	D	Viande hachée	15470
+93	D	Fromage à pâte molle, double crème	15662
+94	L	Mandarine	15872
+95	L	Thé	16034
+96	S	Cheese cracker	16107
+97	B	Confiture	16315
+98	L	Laitue	16426
+99	B	Pain complet	16765
+100	D	Purée de pommes de terre	17006
+101	D	Mandarine	17063
+102	B	Tartines 	17226
+103	L	Eau minérale Eden	17535
+104	B	Hamburger	17633
+105	S	Thé, non sucré	17704
+106	S	Pain au chocolat	17778
+107	D	Thé	17862
+108	D	Chocolat au lait	17936
+109	B	Pomme	18084
+110	B	Ketchup	18319
+111	L	Pommes Chips, nature	18452
+112	L	Galette des rois	18676
+113	L	Pain toast	18730
+114	D	Kiwi	19057
+115	D	Eau minérale Eden	19172
+116	D	Chou farci	19270
+117	D	Oeuf de poule	19619
+118	D	Pommes Chips	19806
+119	B	Pommes frites	20030
+120	D	Lait écrémé	20215
+121	B	Poulet Innenfilet	20369
+122	S	Pommes frites	20510
+123	S	Jus d'orange	20695
+124	S	Carotte	20831
+125	S	Penne Panzani 	21157
+126	D	Légumes	21351
+127	D	Penne Panzani 	21485
+128	D	Crêpes	21679
+129	S	Crêpes	21888
+130	D	Pain toast	22100
+131	B	Cacao en poudre	22427
+132	D	Crêpes	22550
+133	D	Beurre	22762
+134	S	Crêpes	22978
+135	L	Corn Flakes (Kellogg's)	23187
+136	S	Mandarine	23263
+137	S	Nesquik Céréales (Nestlé)	23426
+138	B	Eau minérale Eden	23497
+139	L	Potage	23595
+140	B	Pain au chocolat	23755
+141	L	Saucisson	23839
+142	L	Fromage fondu à tartiner, à la crème	23971
+143	L	Glace	24107
+144	L	Frites	24227
+145	L	Yaourt nature 	24416
+146	L	Jus de raisin	24579
+147	L	Kiwi	24706
+148	L	Endives 	24821
+149	S	Beurre	24969
+150	S	Jus de pomme	25185
+151	S	Spaghetti	25325
+152	S	Confiture	25381
+153	B	Crème au chocolat	25493
+154	B	Kiwi	25617
+155	B	Fromage fondu à tartiner	25732
+156	L	Sucre	25868
+157	L	Poulet Nuggets	26071
+158	B	Lait entier	26136
+159	D	Endives 	26254
+160	D	Fromage fondu à tartiner	26402
+161	D	Avocat	26538
+162	D	Saucisson	26716
+163	B	Raisin	26848
+164	S	Pâtes alimentaires aux oeufs	26997
+165	S	Poire	27131
+166	S	Sprite 	27333
+167	L	Anna's Best Winter Fruchtsalat aus Ananas, Clementine, Physalis, Datteln	27450
+168	L	Poire	27639
+169	D	Oeuf	27841
+170	D	Belvita	28064
+171	B	Brocoli	28248
+172	B	Fruit	28459
+173	S	Pain Campagnard	28681
+174	B	Jus de raisin	28757
+175	D	Qualité & Prix Qualité & Prix Compote de pommes (Coop)	28884
+176	B	Terrine de gibier	28950
+177	B	Beurre de cacahuète	29207
+178	B	Gateaux  &  Biscuits – Mix C (Dr. Schär)	29323
+179	B	Fromage blanc 0% 	29422
+180	B	Yaourt nature 	29561
+181	D	Maggi Bouillon de poule dégraissé (Nestlé)	29724
+182	B	Petit suisse fruit	29838
+183	L	Beurre	30043
+184	L	Foie gras grillé 	30259
+185	L	Pâtes alimentaires au blé complet	30287
+186	D	Camembert	30464
+187	D	Sprite 	30703
+188	D	Poulet Nuggets	30820
+189	D	Glace	30885
+190	D	Oeuf de poule	31005
+191	S	Cheeseburgers 	31193
+192	L	Biscuits aux noisettes	31334
+193	S	Huile d'olive	31516
+194	L	Oeuf de poule	31625
+195	L	Baguette au jambon	31812
+196	L	Lard à cuire, fumé	31956
+197	D	Fromage blanc 0% 	32146
+198	D	Baguette au jambon	32285
+199	L	Oeuf	32429
+200	D	Confiture	32652
+201	S	Lait chocolaté	32764
+202	L	Lait entier	32934
+203	D	Saumon fumé	33052
+204	L	Confiture	33136
+205	L	Jus de pomme	33248
+206	L	Crème au chocolat	33388
+207	L	Nesquik Céréales	33512
+208	L	Camembert	33583
+209	L	Oeuf de poule	33822
+210	L	Vin rouge	34010
+211	L	Petit suisse fruit	34085
+212	D	Pain de seigle valaisan	34290
+213	L	Raisin	34606
+214	L	Pain complet	34755
+215	L	Viande hachée	34997
+216	S	Expresso	35190
+217	S	Expresso crème, non sucré	35294
+218	S	Pain toast	35452
+219	S	Raisin	35779
+220	S	Yaourt nature 	35928
+221	S	Jambon cuit de devant	36091
+222	S	Jambon cru	36246
+223	L	Fruit	36402
+224	D	Pâtes alimentaires au blé complet	36624
+225	B	Bel Vita petit déjeuner 	36801
+226	B	Passion Joghurt Himbeer-Cranberry 0%	36951
+227	B	Laitue	37056
+228	D	Pain complet	37396
+229	D	Jaune d'oeuf	37638
+230	D	Poire	37774
+231	D	Dinde, poitrine, escalope ou émincé	37976
+232	D	Nesquik Céréales (Nestlé)	38138
+233	L	Tartines 	38209
+234	D	Jus d'orange	38518
+235	L	Avocat	38654
+236	D	Galette des rois	38832
+237	D	Laitue	38886
+238	S	Orange	39226
+239	D	Fruit	39390
+240	D	Petit suisse fruit	39612
+241	L	Maggi Bouillon de poule dégraissé (Nestlé)	39817
+242	L	Jus de tomate	39931
+243	B	Poire	40071
+244	D	Frites	40273
+245		Fromage à la crème	40462
+246		Fromage Suisse	40693
+247		Fromage américain	40925
+248		Fromage américain	41163
+249		Fromage à tartiner	41399
+250		Moitié-moitié	41545
+251		Crème légère	41716
+252		Crème à fouetter lourde	41884
+253		Beurre salé	42077
+254		Beurre fouetté	42304
+255		Huile de beurre	42531
+256		Crème sure	42745
+257		Substitut de crème en poudre	42878
+258		Lait entier	43047
+259		lait 2 %	43211
+260		lait 1 %	43374
+261		Lait écrémé	43537
+262		Lait sec	43701
+263		Lait entier au chocolat	43847
+264		Chocolat au lait	44016
+265		Lait au chocolat faible en gras	44182
+266		Yogourt faible en gras vanille	44345
+267		Yogourt aux fruits graisse faible	44519
+268		Oeuf	44696
+269		Jaune d'oeuf	44890
+270		Oeuf au plat	45040
+271		Oeuf dur	45236
+272		Œuf brouillé	45460
+273		Oeufs	45683
+274		Beurre sans sel	45840
+275		Non enrichi de lait	46066
+276		Yogourt aux fruits de graisse faible lumière	46228
+277		Substitut de crème	46401
+278		Yogourt aux fruits de graisse faible fortifiée	46567
+279		Yogourt aux fruits de graisse faible fortifiée légère	46746
+280		Moutarde	46921
+281		Sel	47061
+282		Céréales riz pour bébés	47202
+283		Saindoux	47341
+284		Huile d'arachide	47452
+285		Huile de soja	47590
+286		Huile d'olive	47734
+287		Vinaigrette italienne	47880
+288		Pansement français	48041
+289		Bas niveau d'huile végétale grasse répartis	48201
+290		Huile de maïs	48422
+291		Vinaigrette fromage bleu	48565
+292		Bâton de beurre	48730
+293		Huile végétale se propager	48951
+294		Huile végétale	49108
+295		Huile de soja industriels	49255
+296		Soja industriel et huile de coton	49398
+297		Huile de noix de coco	49541
+298		Poulet	49684
+299		Poulet pané	49878
+300		Poulet	50077
+301		Poulet frit	50267
+302		Viande de poulet rôti	50464
+303		Ragoût de poulet	50656
+304		Foie de poulet	50848
+305		Poitrine de poulet avec peau	50970
+306		Poitrine de poulet pané	51121
+307		Poitrine de poulet rôti	51278
+308		Viande de poitrine de poulet	51428
+309		Poitrine de poulet	51584
+310		Pilon	51735
+311		Cuisse de poulet	51893
+312		Cuisse de poulet	52044
+313		Aile de poulet	52205
+314		Aile de poulet rôti	52346
+315		Rôti de dinde	52467
+316		Viande de dinde rôtie	52604
+317		Dinde hachée	52737
+318		Bouillon de bœuf	52859
+319		Soupe de nouilles de poulet	53012
+320		Velouté de champignons	53174
+321		Sauce	53336
+322		Bouillon de boeuf	53489
+323		Bouillon de poulet	53649
+324		Chaudrée de palourdes	53811
+325		Bouillon de poulet	53979
+326		Bologne	54136
+327		Saucisson de foie	54298
+328		Rouleau de poulet	54436
+329		Poulet Hot-Dog	54594
+330		Pain de viande	54725
+331		Saucisse	54855
+332		Saucisse de porc et de boeuf	54981
+333		Poitrine de dinde	55148
+334		Roulade de dinde viande léger	55341
+335		Roulade de dinde	55492
+336		Saucisse italienne	55645
+337		Saucisse de porc précuit	55807
+338		Prises d'Apple	55934
+339		Cailloux cacao	56055
+340		Maïs chex	56173
+341		Flocons de maïs	56291
+342		Cailloux fruité	56414
+343		Céréales raisin-noix	56527
+344		Kix	56658
+345		Porte-bonheur	56788
+346		Miel noix chex	56921
+347		Chex riz	57054
+348		Blé chex	57175
+349		Grains de maïs	57298
+350		Avoine	57426
+351		Farine d'avoine	57546
+352		Avoine à la cannelle et aux épices	57671
+353		Souffles de Reese	57796
+354		Carrés gruau	57921
+355		Céréales de son d'avoine	58052
+356		Fibre un	58183
+357		Choux à cacao	58299
+358		Crise du pain Cannelle	58421
+359		Avoine grillé miel	58556
+360		Vanille amande	58676
+361		Jus de pomme	58795
+362		Compote de pommes	58957
+363		Avocat	59094
+364		Banane	59286
+365		Bleuets	59602
+366		Jus de raisin	59752
+367		Raisins	59916
+368		Mangue	60071
+369		Cantaloup	60220
+370		Jus d'orange	60566
+371		Jus d'orange concentré	60724
+372		Concentré de jus d'orange congelé	60889
+373		Poire	61058
+374		Ananas	61270
+375		Fraise	61529
+376		Fraises congelées	61832
+377		Melon d'eau	62139
+378		Jus de pomme, raisin et poire	62481
+379		Gras grillé sur la longe de porc	62645
+380		Longe de porc grillé	62796
+381		Longe de porc rôti	62946
+382		Côtelettes de porc	63097
+383		Jambon	63249
+384		Rôti de gras sur le jambon	63400
+385		Jambon rôti	63533
+386		Jambon extra-maigre	63664
+387		Jambon rôti extra maigre	63816
+388		Coupes de porc	63968
+389		Porc haché	64123
+390		Jambon avec jus de fruits naturels	64245
+391		Jambon et eau	64405
+392		Jambon - eau ajoutée	64561
+393		Asperges	64720
+394		Haricots verts	64866
+395		Haricots verts en conserve	65003
+396		Haricots verts surgelés	65177
+397		Brocoli cru	65312
+398		Brocoli	65538
+399		Brocoli haché	65763
+400		Brocoli	65987
+401		Chou cru	66211
+402		Chou	66573
+403		Jus de carotte	66933
+404		Carottes cuites	67252
+405		Carottes surgelées	67569
+406		Céleri	67888
+407		Verts de chicorée	68135
+408		Chou vert	68261
+409		Maïs	68394
+410		Maïs en conserve	68686
+411		Maïs congelé	68838
+412		Concombre	69130
+413		Chou frisé	69376
+414		Salade verte	69503
+415		Champignon blanc	69855
+416		Feuilles de moutarde	70022
+417		Oignon	70154
+418		Oignon cuit	70466
+419		Ciboule	70781
+420		Persil	70991
+421		Pois verts	71155
+422		Pois verts en conserve	71282
+423		Pois verts congelés	71409
+424		Pomme de terre	71536
+425		Pomme de terre cuite	71756
+426		Pomme de terre dans la peau	71973
+427		Pomme de terre bouillie	72189
+428		Purée de pommes de terre	72406
+429		Choux à la pomme de terre	72534
+430		Frites au four français	72712
+431		Épinards crus	72908
+432		Épinards cuits	73088
+433		Épinards en conserve	73215
+434		Patate au four	73340
+435		Patate douce	73554
+436		Tomate	73764
+437		Tomate cuite	74118
+438		Tomates en conserve	74407
+439		Tomates à l'étuvée en conserve	74598
+440		Jus de tomate	74885
+441		Pâte de tomate	75052
+442		Navet	75215
+443		Jus de légumes en conserve	75350
+444		Mélange de légumes	75516
+445		Courges d'été	75642
+446		Courge d'hiver	75855
+447		Patates douces en conserve	76067
+448		Jus de carotte en conserve	76279
+449		Pomme de terre cuite avec la peau	76444
+450		Pâte de tomate	76663
+451		Graines de tournesol	76828
+452		Graines de tournesol grillées	76956
+453		Amandes	77085
+454		Amandes blanchies	77340
+455		Amandes rôties	77579
+456		Noyer	77817
+457		Graines de tournesol huile rôti	78105
+458		Amandes grillées salées	78237
+459		Noix de cajou	78477
+460		Noix mélangées	78660
+461		Huile rôti noix mélangées	78786
+462		Foie de boeuf	78918
+463		Foie de boeuf	79044
+464		Poitrine de boeuf	79170
+465		Côte de boeuf	79286
+466		Boeuf	79401
+467		Rôti de palette de boeuf	79600
+468		Côte de boeuf	79717
+469		Côte de boeuf	79834
+470		Ronde de boeuf	79954
+471		Bifteck de haut de ronde	80070
+472		Haut de surlonge	80186
+473		Haut de surlonge	80306
+474		Bière	80424
+475		Bière légèreliqueur de preuve	80564
+476		80	80729
+477		Vin rouge	80823
+478		Vin blanc	80927
+479		Jus de fruits et de légumes	81029
+480		Boisson énergisante RedBull	81178
+481		Sirop au chocolat	81349
+482		Décaféiné café	81479
+483		Café	81622
+484		Expresso	81773
+485		Café instantané	81896
+486		Boisson aux fruits en conserve	82029
+487		Boisson aux fruits enrichi	82196
+488		Limonade	82374
+489		Thé décaféiné	82561
+490		Thé	82708
+491		Thé instantané	82855
+492		Eau du robinet	82992
+493		Eau de fruits aromatisée	83121
+494		86 preuve liqueur	83285
+495		Eau embouteillée	83381
+496		Eau enrichie de fruits aromatisée	83511
+497		Bâtonnets de poisson	83673
+498		Poisson plat	83854
+499		Hareng	83974
+500		Saumon	84214
+501		Thon pâle en conserve	84319
+502		Crabe	84506
+503		Crevettes	84713
+504		Crevettes en conserve	84859
+505		Palourdes	85005
+506		Palourdes en conserve	85191
+507		Huître	85381
+508		Silure	85518
+509		Truite arc-en-ciel	85636
+510		Fèves au lard	85758
+511		Haricots noirs	85883
+512		Haricots rouges en conserve	86028
+513		Les haricots rouges	86169
+514		Haricots blancs	86326
+515		Lentilles	86468
+516		Lentilles cuites	86618
+517		Arachides salées	86762
+518		Cacahuètes grillées salées	86911
+519		Beurre d'arachide	87056
+520		Haricots frits	87188
+521		Boisson de soya enrichie	87326
+522		Réduit la graisse de beurre d'arachide	87491
+523		Cacahuètes sans sel	87618
+524		Arachides grillées	87765
+525		Pain de maïs	87908
+526		Pain français	88053
+527		Pain italien	88295
+528		Pain multi-grains	88506
+529		Pain de seigle	88821
+530		Pain	89133
+531		Pain blanc	89450
+532		Pain blanc	89764
+533		Pain de blé entier	90070
+534		Pain de blé entier grillé	90383
+535		Mie de pain	90697
+536		Gâteau au chocolat	90838
+537		Gâteau éponge	90988
+538		Gâteau au fromage	91136
+539		Cookies aux pépites de chocolat	91284
+540		Biscuits sandwichs au chocolat	91458
+541		Biscuits au beurre d'arachides	91633
+542		Biscuits sandwichs vanille	91806
+543		Biscuit de fromage	91981
+544		Biscuits salés	92197
+545		Biscuits au beurre d'arachide	92410
+546		Craquelins de blé	92626
+547		En anneau	92839
+548		Crêpe	93088
+549		Tarte aux pommes	93285
+550		Tarte à la citrouille	93475
+551		Rouleau de dîner	93668
+552		Rouleau de pain dur	93791
+553		Rouleau de cannelle	93982
+554		La poudre à pâte	94175
+555		Levure	94303
+556		Gaufre	94461
+557		Gaufres au babeurre	94615
+558		Pâtisserie grille-pain givré	94769
+559		Croustilles de maïs	94902
+560		Feuilletés de fromage	95054
+561		Maïs soufflé	95229
+562		Maïs soufflé	95357
+563		Chocolat à cuisson	95495
+564		Chocolat mi-sucré	95643
+565		Lumière de glace vanille	95782
+566		Riche en glace vanille	95916
+567		Glace à la vanille	96044
+568		Gélifiés	96173
+569		Bonbons durs	96482
+570		Guimauves	96599
+571		Chocolat au lait	96762
+572		Cacahuète M & Ms	96908
+573		M & Ms	97075
+574		Twix barre	97244
+575		Cacao en poudre	97411
+576		Crème glacée au chocolat	97541
+577		Miel	97667
+578		Gelées	97779
+579		Cassonade	97920
+580		Sucre	98166
+581		Sucre en poudre	98404
+582		Sirop d'érable	98583
+583		Sirop d'érable	98711
+584		Puces	98827
+585		Semoule de maïs enrichi	98983
+586		Riz brun	99106
+587		Riz blanc cru	99227
+588		Riz blanc	99350
+589		Riz étuvé	99472
+590		Riz instantané	99595
+591		Farine de grains entiers	99711
+592		Farine tout usage	99834
+593		Farine pain blanc	99959
+594		Farine de gâteau	100083
+595		Nouilles	100206
+596		Frites	100331
+597		Viande congelée et les pizzas légumes	100526
+598		Offres de poulet	100672
+599		Pâté au poulet	100802
+600		Boeuf haché (75/25)	100929
+601		Barre d'alimentation chocolat	101052
+602		Miel de grappes d'avoine aux amandes	101179
+603		Fromage réduit en gras	101308
+604		Éclats blancs	101537
+605		Croquant de banane noix	101682
+606		Vinaigrette César	101815
+607		Bretzel	101980
+608		Jus de canneberge	102130
+609		Miel de grappes d'avoine	102290
+610	P	Yaourt Vanille (La Laitière)	102421
+611	P	Yaourt à la Vanille (Bio Village)	102463
+612	P	Yaourt Vanille 0% (Printiligne)	102533
+613	P	Yaourt à la Vanille (Bonne Maman)	102583
+614	P	Yaourt Brassé Saveur Vanille (Monoprix Bio)	102660
+615	P	Yaourt Onctueux à la Vanille de Madagascar (Michel et Augustin)	102720
+616	P	Yaourt Saveur Vanille (Kingfrais)	102762
+617	P	YAOURT BIFIDUS VANILLE (Auchan)	102826
+618	P	Yaourt à la Vanille (Faible en Gras)	102889
+619	P	Coquillettes (Lidl)	103077
+620	P	Coquillettes (Cora)	103136
+621	P	Coquillettes (Auchan)	103181
+622	P	Coquillettes (Netto)	103247
+623	P	Coquillettes Blé Complet (Cora)	103302
+624	P	Coquillettes au Blé Complet (Barilla)	103345
+625	P	Galettes de Riz Complet (Bjorg)	103412
+626	P	Galette de Riz	103528
+627	P	Galette de Riz (U)	103713
+628	P	Galettes de Riz Complet (Bio Village)	103821
+629	P	Galettes de Riz Nappées de Chocolat Noir (Monoprix Bio)	103912
+630	P	Galette de Riz Complet (Gerblé)	104003
+631	P	Galettes de Riz Complet (Casino Bio)	104118
+632	P	Galette de Riz Complet (Leader Price)	104195
+633	P	Pêches (Solides et Liquides, Pack d'Eau, en Conserve)	104289
+634	P	Ananas (Solides et Liquides, Pack d'Eau, en Conserve)	104515
+635	P	Châtaignes d'Eau Chinoise	104724
+636	P	Céréale d'Avoine (sans Sel, Cuites à l'Eau, Non Enrichie)	104903
+637	P	Céréale d'Avoine (Instantanée, Préparée avec de l'Eau, Fortifiée)	105081
+638	P	Jus de Pomme (Concentré Congelé, Dilué avec de l'Eau)	105337
+639	P	Eau de Coco	105525
+640	P	Crème Chantilly	105753
+641	P	Crème Chantilly Légère (Auchan)	105906
+642	P	Chantilly 11,5% (Bridelight)	105981
+643	P	Banane Parfum Chantilly (La Laitière)	106037
+644	P	Mélange de Margarine et de Beurre (60% d'Huile de Maïs et 40% de Beurre)	106094
+645	P	Mélange de Légumes (Solides et Liquides, en Conserve)	106325
+646	P	Mélange de Légumes (Égouttés Solides, en Conserve)	106495
+647	P	Mélange de Légumes (Surgelés)	106668
+648	P	Soupe de Légumes et de Poulet (avec Volume d'Eau  Égal, en Conserve)	106863
+649	P	Soupe de Légumes (Faible en Sodium, avec de l'Eau)	107076
+650	P	Pizza à Base de Viande et de Légumes (36 Cm)	107239
+651	P	Mélange Montagnard aux Pépites de Chocolat, Noix et Graines (Non Salé)	107425
+652	P	Mélange de Légumes (Maïs, Haricots de Lima, Pois, Haricots Verts, Carottes) (sans Sel Ajouté, en Conserve)	107530
+653	P	Soupe de Légumes (avec Volume d'Eau Égal, en Conserve)	107710
+654	P	Couscous aux Légumes et Son Poulet (Leader Price)	107905
+655	P	Couscous (Cuit)	107982
+656	P	Couscous Royal (Claude Léger)	108218
+657	P	Couscous Volaille et Merguez (Côté Table)	108308
+658	P	Couscous aux 9 Légumes (Zapetti)	108370
+659	P	Couscous A la Marocaine (Garbit)	108486
+660	P	Couscous (Picard)	108595
+661	P	Couscous Moyen (Carrefour)	108654
+662	P	Couscous Oriental (Weight Watchers)	108709
+663	P	Légumes Pour Couscous (Picard)	108787
+664	P	Coquillettes (Panzani)	108827
+665	P	Coquillettes (Turini)	108864
+666	P	Coquillettes (Barilla)	108974
+667	P	Coquillettes (Carrefour)	109033
+668	P	Galettes de Jambon (Jambon)	109081
+669	P	Boeuf Haché (95% de Maigre / 5% de Matières Grasses, Pâté, Cuit, Grillé)	109248
+670	P	Boeuf Haché (85% de Maigre / 15% de Matières Grasses, Pâté, Cuit, Grillé)	109472
+671	P	Kiri (Kiri)	109697
+672	P	Kiri à la Crème de Lait (20g) (Kiri)	109760
+673	P	Kiri Goûter (Kiri)	109824
+674	P	Kiri à la Crème de Lait  (18g) (Kiri)	109883
+675	P	Biscotte	109953
+676	P	Biscotte (Auchan)	110186
+677	P	La Biscotte (Heudebert)	110237
+678	P	Biscottes 6 Céréales (Heudebert)	110345
+679	P	Biscotte (Brioche Pasquier)	110453
+680	P	Biscottes au Froment (Super U)	110559
+681	P	Biscottes Complètes (Carrefour Bio)	110626
+682	P	Biscotte Tradition (Pelletier)	110742
+683	P	Biscottes Fibres + (Heudebert)	110840
+684	P	Biscottes (Lidl)	110956
+685	P	Fromage Blanc	111043
+686	P	Fromage Blanc 0% (Délisse)	111257
+687	P	Fromage Blanc 20% (Auchan)	111328
+688	P	Fromage Blanc 3% (Delisse)	111385
+689	P	Fromage Frais Nature 0% (Carrefour)	111433
+690	P	Fromage Blanc Nature (Super U)	111482
+691	P	Câlin (Yoplait)	111522
+692	P	Fromage Blanc avec Des Fruits	111585
+693	P	Câlin Nature 0% Mat.Gr. (Yoplait)	111787
+694	P	Fromage Blanc Vanille 0% (Auchan)	111849
+695	P	Châtaigne	111895
+696	P	Marrons (Cassegrain)	111983
+697	P	Crème de Marrons (Clément Faugier)	112024
+698	P	Marrons Glacés (Motta)	112062
+699	P	Purée de Marrons (Créaline)	112129
+700	P	Marrons Entiers (Auchan)	112195
+701	P	Le Fondant aux Marrons (Senoble)	112259
+702	P	Clémentines	112323
+703	P	Mandarine	112439
+704	P	Jus de Clémentine (Cora)	112813
+705	P	Jus de Clémentine (Grand Jury)	112866
+706	P	Clémentines Pressées (Andros)	112928
+707	P	Jus de Clémentine (Andros)	112989
+708	P	Chocolat en Poudre (Banania)	113049
+709	P	Pâte à Tartiner (Banania)	113110
+710	P	Pâte à Tartiner (Banania)	113191
+711	P	Compote de Pommes	113260
+712	P	Compote Pommes sans Sucres Ajoutés (Carrefour)	113572
+713	P	Compote (Andros)	113630
+714	P	Compote Pomme Fraise (Andros)	113686
+715	P	Compote Pomme Poire (Andros)	113725
+716	P	Compote de Pommes Non Sucrée	113778
+717	P	Compote Pomme Abricot (Andros)	114121
+718	P	Compote Pomme sans Sucre Ajouté (Charles & Alice)	114160
+719	P	Compote Allégée Pomme Banane (Leader Price)	114223
+720	P	Compote Pomme Banane (Andros)	114278
+721	P	Corn Flakes	114330
+722	P	Bleuets (Sucrés, Congelés)	114542
+723	P	Morceaux d'Ananas (Sucrés, Congelés)	114734
+724	P	Beignets Sucrés ou Dorés	114913
+725	P	Beignets au Chocolat Sucrés ou Dorés	115098
+726	P	Bonbons au Chocolat Mi-Sucrés	115327
+727	P	Bonbons au Chocolat Sucrés	115581
+728	P	Bran Flakes	115699
+729	P	Maïs Blanc Éclaté dans l'Huile	115825
+730	P	Maïs Soufflé (Faible en Gras et en Sodium, Micro-Onde)	115956
+731	P	Boisson de Soja Calcium + Vitamine D (Sojasun)	116060
+732	P	Cocktail Vitaminé aux 13 Fruits (Leader Price)	116140
+733	P	Actimel Vitamine C (Danone)	116205
+734	P	Lait (2% Écrémé avec Vitamine A Ajoutée)	116271
+735	P	Lait (2% Écrémé avec Vitamine A et Protéine Ajoutées)	116471
+736	P	Lait (1% Écrémé avec Vitamine A Ajoutée)	116652
+737	P	Lait (1% Écrémé avec Vitamine A et Protéine Ajoutées)	116809
+738	P	Lait (sans Matières Grasses avec Vitamine A Ajoutée)	116980
+739	P	Lait	117191
+740	P	Lait avec 2% de Matières Grasses	117535
+741	P	Viande de Canard	117878
+742	P	Magret de Canard	118077
+743	P	Aiguillette de Canard (Le Gaulois)	118378
+744	P	Cuisse de Canard Confite (Picard)	118415
+745	P	Confit de Canard	118486
+746	P	Aiguillettes de Canard du Sud-Ouest (Picard)	118707
+747	P	Magret de Canard Tranché Séché (Reflets de France)	118749
+748	P	Parmentier de Canard (Picard)	118786
+749	P	Mousse de Canard (Hénaff)	118856
+750	P	Canard Sauté (Raynal et Roquelaure)	118892
+751	P	Spécial K Pépites aux 5 Céréales (Kellogg's)	118937
+752	P	Yaourt Nature (Faible en Gras)	118995
+753	P	Yaourt Nature (Lait Écrémé)	119186
+754	P	Yaourt Nature (Lait Entier)	119380
+755	P	Yaourt aux Fruits (Faible en Gras, 9G de Protéines Par 8Oz)	119587
+756	P	Yaourt aux Fruits (Faible en Gras, 11G de Protéines Par 8Oz)	119775
+757	P	Yaourts Glacés au Chocolat (Servi Mous)	119954
+758	P	Yaourt 0% (Auchan)	120100
+759	P	Yaourt à la Vanille ou de Citron (Non Gras avec Édulcorant à Basses Calories)	120168
+760	P	Yaourt aux Fruits (Non Gras)	120265
+761	P	Pâté Lorrain	120451
+762	P	Farfalle (Panzani)	120609
+763	P	Coquillettes (Tous les Jours)	120669
+764	P	Spaghetti (Aldi)	120730
+765	P	Macaroni (Carrefour)	120780
+766	P	Penne Rigate (Panzani)	120827
+767	P	Tagliatelles au Basilic (Lustucru)	120887
+768	P	Penne Rigate (Lidl)	120946
+769	P	Coquillettes (Top Budget)	120991
+770	P	Torsettes Tricolores (Lustucru)	121030
+771	P	Pamplemousse	121071
+772	P	Pamplemousse (Rose et Rouge)	121463
+773	P	Jus de Pamplemousse Fraîchement Pressé	121707
+774	P	Jus de Pamplemousse Blanc	121948
+775	P	Pamplemousse Rose (Tropicana)	122168
+776	P	Tonic Pamplemousse Rose (Kriss-Laure)	122227
+777	P	Infusion Framboise Pamplemousse (Elephant)	122306
+778	P	Yaourt aux Fruits 0% Pamplemousse (Taillefine)	122378
+779	P	Cocktail de Fruits ou une Combinaison	122428
+780	P	Jus de Pamplemousse	122616
+781	P	Rôti de Porc	122827
+782	P	Rôti de Porc (Maigre Mangé Seulement)	123187
+783	P	Rôti de Longe de Porc	123529
+784	P	Rôti d'Epaule de Porc	123889
+785	P	Rôti de Boeuf	124230
+786	P	Agneau Rôti	124603
+787	P	Blanc de Dinde (Friteuse-Rôtissoires, Cuit, Rôti)	124946
+788	P	Viande de Dinde (Cuite, Rôtie)	125167
+789	P	Blanc de Dinde et de Peau (Cuits, Rôtis)	125382
+790	P	Venaison Rôtie / Chevreuil	125585
+791	P	Gaspacho (Carrefour)	125825
+792	P	Gaspacho	125890
+793	P	Gaspacho (Auchan)	126023
+794	P	Gaspacho Concombre (La Potagère)	126070
+795	P	Gaspacho Vert (Picard)	126134
+796	P	Gaspacho de Tomates Vertes (GreenShoot)	126199
+797	P	Gaspacho Andalou (Ferme d'Anchin)	126262
+798	P	Gâteau au Yaourt	126327
+799	P	Gâteau au Chocolat (avec Glaçage au Chocolat)	126546
+800	P	Gâteau au Chocolat (sans Glaçage)	126725
+801	P	Gâteau au Fromage	126968
+802	P	Gâteau au Fromage (à partir de la Mixture, de Type sans Cuisson)	127147
+803	P	Soupe aux Choux	127333
+804	P	Soupe aux Choux (Gayelord Hauser)	127507
+805	P	Soupe de Régime aux Choux (Juvamine)	127582
+806	P	Soupe aux Choux (Milical)	127657
+807	P	Sandwich au Jambon et au Fromage	127751
+808	P	Riz au Lait	127899
+809	P	Patate Douce	127997
+810	P	Patate Douce (sans la Peau, Cuite, Bouillie)	128166
+811	P	Écrasée de Pommes de Terre à l'huile d'olive (Picard)	128322
+812	P	Patate Douce (sans Sel, Cuite dans la Peau, Cuite)	128388
+813	P	Poêlée à la Sarladaise (Picard)	128603
+814	P	Patate Douce en Cubes (Picard)	128652
+815	P	Poêlée Façon Galette Bretonne (Leader Price)	128714
+816	P	Blanc de Poulet (Peau Pas Mangée)	128776
+817	P	Blanc de Poulet Grillé Rôti ou Cuit au Four	129117
+818	P	Blanc de Poulet (Carrefour)	129490
+819	P	Yaourt aux Fruits (Taillefine)	129548
+820	P	Yaourt de Lait Entier aux Variétés de Fruits	129607
+821	P	Yaourt Faible en Matières Grasses aux Variétés de Fruits	129847
+822	P	Yaourt aux Fruits Mixés (Milsa)	130178
+823	P	Yaourt aux Fruits 0% Mûre (Taillefine)	130249
+824	P	Yaourt aux Fruits 0% Fraise (Taillefine)	130327
+825	P	Yaourt aux Fruits (Monoprix)	130404
+826	P	Yaourt aux Fruits Mixés 0% (Auchan)	130468
+827	P	Gratin Savoyard (Auchan)	130522
+828	P	Pommes Alphabet (Picard)	130601
+829	P	Patate Douce (en Purée, en Conserve)	130643
+830	P	Pancakes	130869
+831	P	Pancakes (Picard)	131014
+832	P	Pancakes (Brioche Pasquier)	131064
+833	P	Pancakes (Monoprix)	131194
+834	P	Pancake (KOT)	131261
+835	P	Pancake Protéiné (Myprotein)	131333
+836	P	Pancakes (Thiriet)	131409
+837	P	Pain de Mie Complet (86G) (Harry's)	131482
+838	P	Pain de Mie Complet (Super U)	131598
+839	P	Pain de Mie Complet Tranché (Carrefour)	131715
+840	P	Pain de Mie Complet (Carrefour)	131853
+841	P	Pain de Mie Complet (Marque Repère)	131991
+842	P	Pain de Mie Complet (Jacquet)	132041
+843	P	Pain de Mie Moelleux Complet (Auchan)	132157
+844	P	Pain de Mie Complet (Lidl)	132225
+845	P	Pain de Mie Complet (Casino)	132325
+846	P	Pain de Mie Complet Spécial Sandwich (Auchan)	132440
+847	P	Chocolat (BN)	132556
+848	P	Mini BN (BN)	132627
+849	P	Ptit Déj (BN)	132728
+850	P	Biscuit à la Pulpe de Fraise (BN)	132818
+851	P	Casse Croûte (BN)	132935
+852	P	Mini BN Goût Fraise (BN)	133004
+853	P	Croc'pirates (BN)	133117
+854	P	Blanc de Poulet	133200
+855	P	Blanc de Poulet (40g) (Fleury Michon)	133542
+856	P	Blanc de Poulet Rôti (Fleury Michon)	133611
+857	P	Blanc de Poulet Doré au Four (Carrefour)	133668
+858	P	Escalope de Poulet (Auchan)	133732
+859	P	Blanc de Poulet (Marque Repère)	133778
+860	P	Blanc de Poulet (30g) (Fleury Michon)	133836
+861	P	Blanc de Dinde	133881
+862	P	Blanc de Dinde (30g) (Fleury Michon)	134062
+863	P	Blanc de Dinde (40g) (Fleury Michon)	134151
+864	P	Blanc de Dinde (Auchan)	134217
+865	P	Blanc de Dinde (Carrefour)	134268
+866	P	Blanc de Dinde (Carrefour)	134338
+867	P	Blanc de Dinde (Lidl)	134400
+868	P	Blanc de Dinde Fumé (Fleury Michon)	134466
+869	P	Blanc de Dinde Fumé (Marque Repère)	134550
+870	P	Blanc de Dinde et de Peau	134611
+871	P	Biscuit Thé (LU)	134816
+872	P	Biscuits Secs ou du Babeurre	134889
+873	P	Biscuits aux Flocons d'Avoine	135157
+874	P	Biscuits Secs ou Pâte de Babeurre (Moins de Gras)	135352
+875	P	Biscuits au Sucre (y compris la Vanille)	135533
+876	P	Sablé (Type de Biscuit)	135697
+877	P	Biscuits Graham (Ordinaire ou du Miel, la Cannelle y compris)	135786
+878	P	Biscuits Secs ou du Babeurre (Mélange Sec, Préparé)	136069
+879	P	Biscuits aux Flocons d'Avoine (avec Des Raisins Secs)	136164
+880	P	Biscuits aux Beurre de Cacahuète	136332
+881	P	Country Potatoes aux Herbes (McCain)	136484
+882	P	Potato Wedges (Aldi)	136553
+883	P	Potatoes Poulet Kebab (William Saurin)	136636
+884	P	Paprika Potatoes (Netto)	136698
+885	P	Poulet Rôti et Potatoes Sauce Blanche (Fleury Michon)	136766
+886	P	Original Potatoes aux Épices Douces (McCain)	136864
+887	P	Potato'up (McCain)	136926
+888	P	Sauce Potatoes (McDonald's)	137032
+889	P	Poivron Rouge ou Cayenne	137102
+890	P	Poivrons Rouges Doux	137302
+891	P	Vin de Table Rouge	137643
+892	P	Raisins (Rouges ou Verts, Variétés de Type Européen tels que Thompson sans Pépins)	137792
+893	P	Cerises Rouges Acides	138051
+894	P	Chou Rouge	138257
+895	P	Laitue à Feuilles Rouges	138636
+896	P	Oignons	138818
+897	P	Pommes de Terre Rouges (Chair et Peau)	139164
+898	P	Steak Haché 5% (Charal)	139452
+899	P	Steak Haché 15% (Charal)	139499
+900	P	Steak Haché Pur Boeuf 15% MG (Carrefour)	139554
+901	P	Steak Haché Pur Boeuf 5% (Carrefour)	139611
+902	P	Steak Haché 5%	139667
+903	P	Steak Haché Façon Bouchère (Aldi)	139781
+904	P	Steak Haché (Auchan)	139856
+905	P	Steak Haché (Aldi)	139920
+906	P	Steak Haché 10% (Jean Rozé)	139981
+907	P	Brioche	140034
+908	P	Brioche (Harry's)	140345
+909	P	Brioche Tranchée Pur Beurre (Super U)	140461
+910	P	Briochettes Rondes (Auchan)	140544
+911	P	Briochette (Brioche Pasquier)	140654
+912	P	Brioche Pépites de Chocolat (Pitch)	140734
+913	P	Brioche Tressée (Carrefour Discount)	140828
+914	P	Brioche Tressée (Brioche Pasquier)	140915
+915	P	Brioche Tranchée Gourmande (Harry's)	141019
+916	P	Brioche Tranchée (Marque Repère)	141123
+917	P	Biscuits Sablés	141238
+918	P	Pain de Maïs (avec Peu de Matières Grasses (2%) de Lait)	141399
+919	P	Pain de Blé (y compris les Baies de Blé)	141505
+920	P	Pain de Son de Blé	141622
+921	P	Pain Blanc	141741
+922	P	Pain Blanc Grillé	142088
+923	P	Pain Blanc (Teneur Réduite en Calories)	142469
+924	P	Pain Pita Blanc	142622
+925	P	Sucre	142796
+926	P	Sucre Poudre (Béghin Say)	143047
+927	P	Sucre de Canne (Béghin Say)	143101
+928	P	Sucre Blanc (Cristallisé ou en Morceaux)	143165
+929	P	Dosette de Sucre en Poudre (Béghin Say)	143416
+930	P	Sucre (Tutti Free)	143462
+931	P	Xylitol	143526
+932	P	Rapadura (Rapunzel)	143661
+933	P	Prince Petit Dej (LU)	143702
+934	P	Croque Monsieur	143776
+935	P	Croque Monsieur (Herta)	143955
+936	P	Croque Monsieur (Casino)	144018
+937	P	Croque Monsieur (Carrefour)	144131
+938	P	Croque Monsieur (Marque Repère)	144182
+939	P	Croque Monsieur (Claude Léger)	144242
+940	P	Emmental Râpé (Carrefour Discount)	144328
+941	P	Emmental Portion (Auchan)	144410
+942	P	Emmental Cœur de Meule (Président)	144486
+943	P	Emmental Français (Président)	144533
+944	P	Emmental (Carrefour Discount)	144586
+945	P	Emmental Râpé Fondant (Président)	144629
+946	P	Salade et Serpentini Jambon Emmental (Mix Buffet)	144713
+947	P	Emmental Râpé, Extra Fin (Entremont)	144778
+948	P	Emmental Râpé (Les Croisés)	144820
+949	P	Emmental (Entremont)	144896
+950	P	Glacée Italienne	144949
+951	P	Soupe Potagère de Légumes (Knorr)	145102
+952	P	Soupe de Légumes Végétarienne (Préparé avec de l'Eau)	145179
+953	P	Soupe Moulinée de Légumes, Carottes, Poireaux, Haricots Verts (Leader Price)	145355
+954	P	Soupe de Légumes	145422
+955	P	Soupe Douceur de 8 Légumes à la Crème Fraîche (Knorr)	145561
+956	P	Muesli (Fruits Secs et Noix)	145622
+957	P	Muesli Croustillant Chocolat (Monoprix Bio)	145732
+958	P	Muesli Croustillant au Chocolat (Casino)	145812
+959	P	Muesli Floconneux (Casino)	145872
+960	P	Muesli Croustillant Fruits Rouges (Monoprix Bio)	145938
+961	P	Spécial Muesli (Jordans)	146012
+962	P	Muesli sans Sucres Ajoutés aux Graines Gourmandes (Jardin Bio)	146071
+963	P	Muesli aux Fruits (Terres et Céréales Bio )	146138
+964	P	Muesli Croustillant Nature (Monoprix Bio)	146203
+965	P	Muesli Quinoa Chocolat (Carrefour Bio)	146265
+966	P	Oreo (Oreo)	146369
+967	P	Double Oreo (Oreo)	146483
+968	P	Oreo Chocolat Blanc (Oreo)	146594
+969	P	Ice Cream Sandwich (Oreo)	146689
+970	P	Ice Cream (Oreo)	146806
+971	P	Yaourt Nature	146911
+972	P	Yaourt Nature (Danone)	147120
+973	P	Panier de Yoplait (Yoplait)	147200
+974	P	Yaourt Nature 0% (Auchan)	147259
+975	P	Saveur Vanille (Activia)	147300
+976	P	Yaourt Nature 0% (Taillefine)	147373
+977	P	Haricots Plats Coupés (Picard)	147445
+978	P	Haricots Verts Plats Coupés (d'Aucy)	147490
+979	P	Haricots Verts	147551
+980	P	Haricots Verts Plats à la Provencale (Cassegrain)	147722
+981	P	Haricots Rouges (en Conserve)	147763
+982	P	Duo de Haricots Plats Coupés (Picard)	147882
+983	P	Haricots Cuits au Four	147943
+984	P	Haricots Pinto (Graines Mûres, en Conserve)	148101
+985	P	Haricots Verts (Solides et Liquides, en Conserve)	148266
+986	P	Haricots Cuits au Four avec du Porc(en Conserve)	148425
+987	P	Haricots Blancs (Graines Mûres, en Conserve)	148586
+988	P	Piment avec Haricots (en Conserve)	148743
+989	P	Muesli Croustillant aux Pépites de Chocolat (Brin de Jour)	148894
+990	P	Muesli Croustillant aux Pépites de Chocolat (Marque Repère)	148968
+991	P	Muesli Croustillant Chocolat (Cora)	149031
+992	P	Muesli Chocolat (Marque Repère)	149094
+993	P	Muesli Croustillant aux 3 Chocolats (Leader Price)	149167
+994	P	Muesli Avoine Chocolat (Bjorg)	149229
+995	P	Crunchy Muesli Chocolat Caramel (Carrefour)	149296
+996	P	Muesli Gourmand au Chocolat (Jardin Bio)	149356
+997	P	Pêche Poire Abricot Anana Cerise Salade de Fruits (Solides et Liquides,Paquets d'Eaux, en Conserve)	149421
+998	P	Chayote (Fruit, avec du Sel, Égouttée, Bouillie, Cuite)	149580
+999	P	Punch aux Fruits (Concentré Congelé, avec de l'Eau)	149744
+1000	P	Salade de Fruits Tropicaux (Ananas Papaye Banane et Goyave, Solides et Liquides, Sirop Épais, en Conserve)	149913
+1001	P	Chili Con Carne avec Des Haricots Comme Entrée (en Conserve)	150070
+1002	P	Haricots Verts(Égouttés Solides, en Conserve)	150226
+1003	P	Nouilles Chinoises (Haricots Mungo) (Cellophane ou de Riz Long)	150404
+1004	P	Petits Haricots de Lima (Graines Mûres)	150569
+1005	P	Fromage Blanc (Non Gras)	150736
+1006	P	Fromage Blanc ( Lait Faible en Matières Grasses de 2%)	150937
+1007	P	Fromage Blanc (Lait Faible en Matières Grasses de 1%)	151086
+1008	P	Soja (Fromage Blanc)	151236
+1009	P	Fromage Blanc (Faible en Gras, 1% Matière Grasse, Pas de Sodium)	151353
+1010	P	Fromage Blanc Faible en Gras (1-2% de Matières Grasses)	151481
+1011	P	Recette au Fromage Blanc (Activia)	151618
+1012	P	Fromage de Chèvre	151677
+1013	P	Fromage de Chèvre (Auchan)	151887
+1014	P	Sainte Maure (Soignon)	151940
+1015	P	Fromage de Chèvre (Mou)	151979
+1016	P	Fromage de Chèvre Frais (Auchan)	152100
+1017	P	Fromage de Chèvre (Dur)	152143
+1018	P	Fromage de Chèvre (Chavroux)	152265
+1019	P	Fromage de Chèvre (Demi Mou)	152307
+1020	P	Fromage de Chèvre (Carrefour)	152429
+1021	P	Buche de Chèvre Allégée (Soignon)	152472
+1022	P	Fromage Blanc 0% (Auchan)	152523
+1023	P	Fromage Blanc 0% (Délisse)	152578
+1024	P	Fromage Blanc 0% (Carrefour Discount)	152651
+1025	P	Fromage Blanc 0% (Yoplait)	152708
+1026	P	Fromage Blanc 0% (Leader Price)	152774
+1027	P	Fromage Blanc 0% (Casino)	152833
+1028	P	Fromage Blanc 0% (Super U)	152895
+1029	P	Fromage Blanc 0% (Pâturages)	152950
+1030	P	Fromage Blanc 0% (Taillefine)	153015
+1031	P	Gaufrettes à la Vanille (Faibles en Gras)	153081
+1032	P	Gaufrettes à la Vanille (Plus de Gras)	153274
+1033	P	Gaufrettes Vanille (Top Budget)	153429
+1034	P	Épaisse Milkshake à la Vanille	153472
+1035	P	Extrait de Vanille	153618
+1036	P	Glace à la Vanille Légère	153778
+1037	P	Huile du Poisson Saumon	153939
+1038	P	Saumon Sauvage de l'Atlantique	154109
+1039	P	Saumon Rose	154237
+1040	P	Saumon Sockeye	154369
+1041	P	Saumon de l'Atlantique (d'Elevage)	154520
+1042	P	Bagels d'Oeufs	154648
+1043	P	Bagels de Raisins et de Cannelles	154951
+1044	P	Blanquette de Veau (William Saurin)	155286
+1045	P	Blanquette de Veau et Riz (Carrefour)	155406
+1046	P	Blanquette de Veau (Charal)	155488
+1047	P	Blanquette de Veau (U)	155531
+1048	P	Barres Granola Enrobées de Chocolat aux Pépites de Chocolat	155584
+1049	P	Barres de Chocolat Noir Speciales	155721
+1050	P	Glaçage au Chocolat Crémeux	155940
+1051	P	Puddings au Chocolat (sans Gras)	156116
+1052	P	Glaces au Chocolat	156219
+1053	P	Barres Granola aux Pépites de Chocolat Mou	156405
+1054	P	Caprice Des Dieux (Caprice des Dieux)	156555
+1055	P	Mini Caprice (Caprice des Dieux)	156598
+1056	P	Caprice Des Anges (Caprice des Dieux)	156655
+1057	P	Fromage (Caprice des Dieux)	156695
+1058	P	en Cas de Caprice (Caprice des Dieux)	156742
+1059	P	Camembert	156783
+1060	P	Camembert (Coeur de Lion)	156990
+1061	P	Camembert (Président)	157045
+1062	P	Camembert Portions (Carrefour)	157093
+1063	P	Camembert le Rustique (Le Rustique)	157166
+1064	P	Camembert Allégé (Coeur de Lion)	157207
+1065	P	Camembert 5% (Bridelight)	157265
+1066	P	Camembert de Pays (Les Croisés)	157321
+1067	P	Camembert (Carrefour Discount)	157380
+1068	P	Camembert de Campagne (Président)	157438
+1069	P	Fromage Brie	157477
+1070	P	Pointe de Brie (Auchan)	157692
+1071	P	Pointe de Brie (Marque Repère)	157750
+1072	P	Pointe de Brie (Leader Price)	157809
+1073	P	Briefing Chocolat au Lait (Chabrior)	157850
+1074	P	Café	157929
+1075	P	Café Expresso	158240
+1076	P	Café au Lait	158441
+1077	P	Café (Carte Noire)	158688
+1078	P	Café Soluble (Nescafé)	158749
+1079	P	Café Instantané (à partir de Poudre)	158792
+1080	P	Café Régulier	158981
+1081	P	Café (Instantané)	159289
+1082	P	Espresso (Nescafé)	159395
+1083	P	Purée de Pommes de Terre (Lait Entier Ajouté)	159482
+1084	P	Purée de Pommes de Terre (Lait Entier et Beurre Ajoutés)	159670
+1085	P	Purée (Mousline)	159856
+1086	P	Purée (E.Leclerc)	159972
+1087	P	Purée de Carottes (Créaline)	160041
+1088	P	Purée Délice Trio Vert (Bonduelle)	160110
+1089	P	Purée (Vico)	160207
+1090	P	Purée de Pommes de Terre (Auchan)	160327
+1091	P	Purée de Pomme de Terre (Picard)	160400
+1092	P	Quinoa (Cuit)	160470
+1093	P	Quinoa (Céréal Bio)	160669
+1094	P	Quinoa Gourmand (Tipiak)	160738
+1095	P	Quinoa	160781
+1096	P	Quinoa de Bolivie (Carrefour Bio)	160909
+1097	P	Quinoa et Céréales Cuisinés aux Petits Légumes (Picard)	160993
+1098	P	Quinoa Gourmand (Tipiak)	161104
+1099	P	Mélange Quinoa Boulgour (Monoprix Bio)	161170
+1100	P	Quinoa (Biocoop)	161242
+1101	P	Duo de Quinoa aux Légumes (Jardin Bio)	161293
+1102	P	Pruneau Sec	161361
+1103	P	Pruneaux d'agen (Carrefour)	161611
+1104	P	Pruneaux d'agen (Casino)	161674
+1105	P	Crème de Pruneaux (Maître Prunille)	161737
+1106	P	Muesli Figues Pruneaux et Son (Grillon d'Or)	161800
+1107	P	Pruneau (Activia)	161874
+1108	P	Pruneaux au Lard Fumé (Picard)	161953
+1109	P	Pomme Pruneau (Charles & Alice)	162001
+1110	P	Compote Pomme Pruneau (Andros)	162070
+1111	P	Viande de Bison (Maigre Seulement)	162132
+1112	P	Viande de Sanglier	162237
+1113	P	Viande d'Elan	162326
+1114	P	Viande de Chèvre	162431
+1115	P	Viande d'Orignal	162535
+1116	P	Viande de Lapin	162641
+1117	P	Viande de Lapin Sauvage (Cuite, Bouillie)	162746
+1118	P	Blanquette de Veau aux Champignons et Son Riz (Marque Repère)	162934
+1119	P	Blanquette de Veau et Son Riz (Cora)	162996
+1120	P	Boeuf Haché (80% de Maigre / 20% de Matières Grasses)	163060
+1121	P	Boeuf Haché (80% de Maigre / 20% de Matières Grasses, Pâté, Cuit, Grillé)	163190
+1122	P	Boeuf Haché (75% de Maigre / 25% de Matières Grasses)	163374
+1123	P	Petit Gâteau avec Glaçage (Faible en Gras)	163504
+1124	P	Entrecôte de Bœuf (Petit Bout, Garni à 0 Cm Gras)	163664
+1125	P	Entrecôte de Bœuf (Petit Bout, Maigre Seulement, Coupé à 0 Cm Matières Grasses)	163768
+1126	P	Côtes de Boeuf (Petit Bout, Garni de 0,3 Cm Matières Grasses)	163873
+1127	P	Poireaux	163987
+1128	P	Poêlée de Légumes Verts (Picard)	164160
+1129	P	Poêlée de Légumes à la Provençale (Picard)	164242
+1130	P	Poêlée de Légumes Croquants (Carrefour)	164308
+1131	P	Poêlée de Légumes aux Choux et Carottes (Thiriet)	164374
+1132	P	Poêlée de Légumes aux Petits Pois Maïs et Champignons (Thiriet)	164438
+1133	P	Poêlée de Légumes Verts (Carrefour)	164504
+1134	P	Poêlée de Légumes Grillés (Picard)	164568
+1135	P	Safari Choco (P'tit Déli)	164635
+1136	P	Laitue Verte Frisée	164694
+1137	P	Beignets Enrobés de Chocolat ou Gelés	164907
+1138	P	Mélange Montagnard aux Pépites de Chocolat, Noix et Graines Salées	165189
+1139	P	Bonbons de Chocolat au Lait	165297
+1140	P	Raisins Secs Enrobés de Chocolat au Lait	165481
+1141	P	Filets de Maquereaux au Vin Blanc (Petit Navire)	165605
+1142	P	Filets de Maquereaux au Vin Blanc (Saupiquet)	165678
+1143	P	Filets de Maquereaux Espagnols Marinés au Vin Blanc et aux Aromates (Carrefour Discount)	165743
+1144	P	Filets de Maquereaux Marinés au Vin Blanc et aux Aromates (Leader Price)	165798
+1145	P	Filets de Maquereaux au Vin Blanc, au Citron et au Romarin (Petit Navire)	165861
+1146	P	Vin Sauvignon Blanc	165931
+1147	P	Vin Pinot Blanc	166042
+1148	P	Vin de Table Blanc	166153
+1149	P	Vin Pinot Gris (Gris)	166319
+1150	P	Vin Chenin Blan	166432
+1151	P	Délice (Kinder)	166539
+1152	P	Nougatti (Côte d'Or)	166657
+1153	P	Nougatti (Côte d'Or)	166759
+1154	P	Beignets (Ordinaire)	166826
+1155	P	Beignet Pomme (Pitch)	167172
+1156	P	Churros	167309
+1157	P	Beignets de Crevette (Carrefour)	167501
+1158	P	Beignets de Légumes (Picard)	167628
+1159	P	Beignet Framboise (Pitch)	167679
+1160	P	Beignets de Crevettes (Casino)	167798
+1161	P	Garniture Fouettée (Faible en Gras, Congelé)	167839
+1162	P	Noix de Pécan Grillées à Sec (sans Sel Ajouté)	167977
+1163	P	Pizza au Fromage avec Croûte Mince	168083
+1164	P	Pizza au Fromage avec Croûte Épaisse	168481
+1165	P	Pizza à Croûte Mince avec de la Viande et Des Légumes	168878
+1166	P	Pizza au Pepperoni (Surgelée, Cuite)	169278
+1167	P	Pizza Maison	169453
+1168	P	Pizza Regina (Picard)	169786
+1169	P	Pizza au Fromage (36 Cm, Croûte Épaisse)	169856
+1170	P	Pizza au Fromage (36 Cm, Croûte Mince)	170043
+1171	P	Pizza au Fromage avec Des Légumes	170230
+1172	P	Spaghetti à la Sauce Tomate et Légumes	170627
+1173	P	Fins Spaghettis aux Gambas (Weight Watchers)	170808
+1174	P	Sauce de Spaghetti sans Viande	170918
+1175	P	Sauce de Spaghetti avec Des Légumes (Style Fait Maison )	171062
+1176	P	Spaghetti (Ficello)	171246
+1177	P	Filet de Boeuf (Maigre Seulement, Taillé à 0,5 Cm Matières Grasses)	171318
+1178	P	Longe de Porc (Filet, Maigre Seulement)	171424
+1179	P	Longe de Porc (Filet)	171534
+1180	P	Pommes Dauphine (Findus)	171640
+1181	P	Pommes Dauphines (Picard)	171701
+1182	P	Pommes Dauphine (Pom'lisse)	171752
+1183	P	Poisson	171815
+1184	P	Poisson Sauce Beurre Citron (Auchan)	171950
+1185	P	Poisson Pané (Aldi)	172019
+1186	P	Nuggets de Poisson (Findus)	172123
+1187	P	Poisson A la Bordelaise (Aldi)	172186
+1188	P	Poisson à la Bordelaise (Eco +)	172268
+1189	P	Morue	172339
+1190	P	Parmentier de Poisson à la Ciboulette (Fleury Michon)	172691
+1191	P	Bâton Pâté ou Filet de Poisson Cuit au Four ou Grillé	172764
+1192	P	Croquettes de Poisson Panées (Marque Repère)	173044
+1193	P	Thon Rouge (Poisson)	173106
+1194	P	Tilapia (Poisson)	173216
+1195	P	Tilapia (Poisson) (Cuit, la Chaleur Sèche)	173326
+1196	P	Poulet (Pané et Frit)	173436
+1197	P	Pizza au Fromage	173608
+1198	P	Poêlée de Légumes Grillés (Carrefour)	174009
+1199	P	Poêlée de Légumes Courgette Thym Citron (d'Aucy)	174075
+1200	P	Poêlée de Légumes Grillés (Saint Eloi)	174139
+1201	P	Poêlée de Légumes Grillés (Thiriet)	174202
+1202	P	Poêlée de Légumes Anciens (Picard)	174270
+1203	P	Poêlée de Légumes Grillés (Leader Price)	174312
+1204	P	Pizza au Pepperoni (36 Cm)	174378
+1205	P	Pizza au Pepperoni (36 Cm, Croûte Épaisse)	174565
+1206	P	Lentilles	174754
+1207	P	Soupe de Poulet en Miettes (en Conserve)	174905
+1208	P	Moulinée de 8 Légumes (Liebig)	175110
+1209	P	Velouté de Potiron à la Crème Fraîche (Knorr)	175176
+1210	P	Velouté de Poireaux Pommes de Terre et Pointe de Crème (Liebig)	175246
+1211	P	Soupe Moulinée aux 9 Légumes (Maggi)	175311
+1212	P	Soupe Passée Poireaux et Légumes Variés (Knorr)	175391
+1213	P	Soupe Glacée Légumes du Soleil (Créaline)	175466
+1214	P	Soupe à la Thaï Légumes et Lait de Coco (Liebig)	175509
+1215	P	Soupe de Nouilles Ramen Saveur Poulet (Sèche, Déshydratée)	175575
+1216	P	Soupe Chinoise (Maggi)	175754
+1217	P	Soupe Chinoise (Sveltesse)	175837
+1218	P	Chow Mein Nouilles Chinoises	175911
+1219	P	Soupe Chinoise du Sichuan (Knorr)	176103
+1220	P	Soupe à la Chinoise (Liebig)	176162
+1221	P	Soupe à la Chinoise (Toque du Chef)	176229
+1222	P	Soupe Asperges Vertes et Petits Pois (Le Jardin d'Orante)	176294
+1223	P	Asperge	176358
+1224	P	Asperge (Non-Préparée, Surgelée)	176704
+1225	P	Spaghetti (Auchan)	176897
+1226	P	Spaghetti Bolognaise	177007
+1227	P	Spaghetti Intégrale (Barilla)	177191
+1228	P	Spaghetti à la Sauce Tomate et Boulettes de Viande	177256
+1229	P	Sushi Saumon	177469
+1230	P	10 Sushi (Picard)	177662
+1231	P	Sushi Crevette (Planet Sushi)	177771
+1232	P	Sushi	177840
+1233	P	Sushi (Aldi)	178047
+1234	P	Sushi de Légumes Roulé dans les Algues	178161
+1235	P	Sushi de Légumes	178366
+1236	P	Sushi de Légumes et de Fruits de Mer	178569
+1237	P	Bâtonnets Glacés Citron (Picard)	178771
+1238	P	Glaces à la Fraise	178845
+1239	P	Tarte au Citron Meringuée	179007
+1240	P	Cornets de Glace (Type de Gâteau ou Galette)	179181
+1241	P	Glace à la Vanille Riche	179376
+1242	P	Whisky-Citron (Préparé)	179540
+1243	P	Glace (sans Sucre)	179699
+1244	P	Glaces à la Vanille Légères (Servies Molles)	179808
+1245	P	Blanc de Dinde (97% sans Gras, Arôme de Citron Poivre, Fumé)	179986
+1246	P	Glaces à la Vanille	180135
+1247	P	Chapelure	180303
+1248	P	Chapelure Fine (Marque Repère)	180427
+1249	P	Croûtons	180494
+1250	P	Pain de Viande	180682
+1251	P	Pain de Viande de Bœuf et de Porc	181079
+1252	P	Cheeseburger	181482
+1253	P	Cheeseburger avec Tomate et / ou Ketchup sur Petit Pain	181632
+1254	P	Cheeseburger Large	181821
+1255	P	Cheeseburger au Bacon avec 1 / 4 Lb de Viande, Mayonnaise ou Sauce à Salade et Tomates sur Petit Pain	181970
+1256	P	Cheeseburger Ordinaire sur Petit Pain	182141
+1257	P	Cheeseburger au Bacon et aux Condiments	182323
+1258	P	Cheeseburger avec 1 / 4 Lb de Viande sur Petit Pain	182474
+1259	P	Cheeseburger (Picard)	182666
+1260	P	Olives Vertes (Conservées, en Conserve ou en Bouteille)	182787
+1261	P	Lentilles Cuites	182894
+1262	P	Lentilles Cuisinées (Cassegrain)	183130
+1263	P	Lentilles (Marque Repère)	183171
+1264	P	Lentilles Cuisinées (Bonduelle)	183235
+1265	P	Lentilles Préparées (Saint Eloi)	183300
+1266	P	Lentilles (Carrefour)	183349
+1267	P	Boulettes de Poulet	183414
+1268	P	Boulettes de Poulet A la Thailandaise (Picard)	183705
+1269	P	Boulettes de Poulet et Wedges Sauce Kebab (Picard)	183774
+1270	P	Boulettes de Poulet (Thiriet)	183880
+1271	P	Boulette de Bœuf (Lidl)	183948
+1272	P	Boulettes de Bœuf	183991
+1273	P	Boulettes au Bœuf et Jardinière de Légumes (Claude Léger)	184328
+1274	P	Boulettes de Boeuf à la Provençale et Pommes de Terre Rissolées (Picard)	184392
+1275	P	Boulettes de Bœuf et de Porc	184505
+1276	P	Bouchées Vapeur au Porc et Paksoi (Picard)	184837
+1277	P	Bouchées Vapeur Aux Crevettes, Sauce Soja (Picard)	184893
+1278	P	Soja (Graines à Maturité, à la Vapeur, Cuits)	184943
+1279	P	Tarte aux Fromages (Auchan)	185123
+1280	P	Tarte aux Fromages (Picard)	185186
+1281	P	Maïs Soufflé au Goût de Fromage	185257
+1282	P	Pâtisserie Danoise au Fromage	185409
+1283	P	Craquelins au Fromage	185584
+1284	P	Pizza au Fromage (36 Cm)	185895
+1285	P	Escalope de Veau	186084
+1286	P	Escalope de Veau (Charal)	186224
+1287	P	Escalope de Veau (Picard)	186279
+1288	P	Rognons de Veau (Cuit)	186347
+1289	P	Foie de Veau	186454
+1290	P	Côtelettes de Porc (Longe de Haut, Désossées, Viande Maigre Seulement)	186553
+1291	P	Pommes de Terre Frites (de l'Achat, Sel Ajouté, Congelées)	186665
+1292	P	Rognons de Veau	186785
+1293	P	Tarte aux Oignons (Casino)	186894
+1294	P	Tarte aux Pommes	186961
+1295	P	Bagels (Comprend l'Oignon, Pavot, Sésame) (avec du Propionate de Calcium)	187127
+1296	P	Soupe à l'oignon (en Conserve, Condensée)	187413
+1297	P	Pommes de Terre Frites à la Saveur de Crème Sure et d'Oignon	187571
+1298	P	Rondelles d'Oignons (Panées et Frites)	187685
+1299	P	Pain au Lait (Brioche Pasquier)	187860
+1300	P	Pain au Chocolat (Brioche Pasquier)	187977
+1301	P	Brioche en Tranches au Levain (Brioche Pasquier)	188112
+1302	P	Couronne des Rois Nature (Brioche Pasquier)	188229
+1303	P	Panettone (Brioche Pasquier)	188330
+1304	P	Pain au Lait Pépites de Chocolat (Brioche Pasquier)	188371
+1305	P	Grilletines Blé Complet (Brioche Pasquier)	188468
+1306	P	Maïs Soufflé	188548
+1307	P	Muesli 4 Céréales (Monoprix Bio)	188713
+1308	P	Céréales Nesquik (Nestlé)	188775
+1309	P	Müesli 5 Céréales (Priméal)	188859
+1310	P	Céréales Fourrées Chocolat (Brin de Jour)	188927
+1311	P	Cappucino (Casino)	188986
+1312	P	Steack Haché Colin au Citron et Persil (Marque Repère)	189081
+1313	P	Steak Tartare	189146
+1314	P	Steak Haché 5% (Carrefour)	189312
+1315	P	Steak de Poulet Grillé (Maître Coq)	189370
+1316	P	Steak 3 Fromages (Crusti Frais)	189410
+1317	P	Steak Haché Pur Boeuf (Carrefour Discount)	189474
+1318	P	Noix Mélangées Grillées à Sec (avec Des Cacahuètes, du Sel Ajouté)	189533
+1319	P	Ciboules ou Cives	189657
+1320	P	Tarte aux Bleuets	189909
+1321	P	Tarte aux Cerises (Commercial)	190077
+1322	P	Carottes Cuites	190300
+1323	P	Carottes Rapées (Casino)	190690
+1324	P	Carottes Râpées (Carrefour)	190730
+1325	P	Carottes Râpées (Auchan)	190784
+1326	P	Carottes Râpées Au Citron De Sicile (Bonduelle)	190836
+1327	P	Carottes en Rondelles (d'Aucy)	190894
+1328	P	Carottes Râpées (Notre Jardin)	190956
+1329	P	Carottes (Congelées)	191013
+1330	P	Carottes Râpées Assaisonnées (Carrefour Discount)	191178
+1331	P	Sauce Bourguignonne (Auchan)	191234
+1332	P	Sauce Bourguignonne (Amora)	191278
+1333	P	Sauce de Cari (Sèche, Déshydratée)	191321
+1334	P	Sauce Teriyaki	191465
+1335	P	Poivre ou Sauce Piquante	191630
+1336	P	Sauce au Fromage	191760
+1337	P	Spaghetti / Sauce Marinara	191934
+1338	P	Sauce de Soja (Shoyu)	192078
+1339	P	Sauce de Soja (Tamari)	192315
+1340	P	Sandwich Wrap Rempli de Légumes	192524
+1341	P	Sandwich au Poulet Style Fajita avec Fromage, Laitue et Tomate sur Pain Pita	192713
+1342	P	Sandwich au Fromage Grillé	192906
+1343	P	Sandwich Wrap de Viande, Volaille ou Poisson, Légumes	193099
+1344	P	Saucisses de Strasbourg (Aldi)	193275
+1345	P	Saucisses de Strasbourg (Netto)	193360
+1346	P	Saucisses de Strasbourg (Lidl)	193401
+1347	P	Saucisse de Francfort	193468
+1348	P	Saucisse de Porc Fraîche	193626
+1349	P	Saucisse de Porc Italien	193825
+1350	P	Sandwich Jambon Beurre	193985
+1351	P	Sandwich Poulet Crudités (Claude Léger)	194147
+1352	P	Sandwich Pavot Poulet (Paul)	194191
+1353	P	Sandwich à la Salade de Thon	194306
+1354	P	Sandwich au Fromage	194495
+1355	P	Sandwich Poulet Rôti Crudités (Super U)	194687
+1356	P	Sandwich Thon Crudités (Daunat)	194800
+1357	P	Sandwich Poulet Rôti Mayonnaise (Daunat)	194897
+1358	P	Sandwich Poulet Rôti Crudités Pain Polaire (Casino)	195019
+1359	P	Sandwich Poulet Crudités (Carrefour)	195095
+1360	P	Sandwich d'Oeuf et de Fromage	195161
+1361	P	Sandwich Poulet Crudités Médium (Carrefour)	195312
+1362	P	Bâtonnets de Boeuf Fumé	195379
+1363	P	Salade Verte	195483
+1364	P	Salade Mixte	195620
+1365	P	Mâche (Casino)	195823
+1366	P	Cœur de Laitue (Monoprix)	195868
+1367	P	Bouquets de Mâche (Carrefour)	195933
+1368	P	Salade de Laitue avec Fromage, Tomate et / ou Carottes	195979
+1369	P	Salade de Laitue avec Des Légumes Assortis	196169
+1370	P	Mâche (Florette)	196349
+1371	P	Salade de Laitue avec Des Oeufs, Fromage, Tomate, et / ou Carottes	196389
+1372	P	Batavia (Florette)	196636
+1373	P	Salade de Fruits	196678
+1374	P	Salade de Fruits Exotiques (Picard)	196867
+1375	P	Salade de Fruits Rouges (Picard)	196935
+1376	P	Salade de Fruits Rouges (Thiriet)	196976
+1377	P	Lardons Fumés (Carrefour)	197018
+1378	P	Lardons Nature (Tradilège)	197074
+1379	P	Lardons Fumés (Herta)	197142
+1380	P	Allumettes de Lardons Nature (Saint Alby)	197183
+1381	P	Lardons Fumés (Tradilège)	197222
+1382	P	Lardons de Volaille (Auchan)	197289
+1383	P	Allumettes de Lardons Nature (Tradilège)	197350
+1384	P	Lardons Fumés (Casino)	197416
+1385	P	Lentilles aux Petits Lardons (Carrefour)	197470
+1386	P	L'ovale Lardons Chèvre Affiné (Sodeb'O)	197530
+1387	P	Lait Demi Écrémé (Milsani)	197583
+1388	P	Lait Demi Écrémé (Bio Village)	197647
+1389	P	Lait Demi-Écrémé (Netto)	197711
+1390	P	Lait au Chocolat	197755
+1391	P	Lait au Chocolat (Nesquik)	197908
+1392	P	Lait Écrémé au Chocolat	197985
+1393	P	Candy'up Chocolaté (Candia)	198146
+1394	P	Lait au Chocolat (Entier)	198214
+1395	P	Lait au Chocolat (Faible en Gras)	198428
+1396	P	Candy'up (Candia)	198559
+1397	P	Lait au Chocolat avec 2% Réduite en Matières Grasses	198624
+1398	P	Lait Chocolaté (Dia)	198850
+1399	P	Lait au Chocolat (Teneur Réduite en Gras)	198927
+1400	P	Macedoine (Marque Repère)	199122
+1401	P	Macédoine de Légumes (Auchan)	199179
+1402	P	Boeuf Haché (Galettes Surgelées, Cuites, Grillées)	199242
+1403	P	Poitrine de Boeuf Salé (Salée, Cuite)	199412
+1404	P	Steak de Bœuf	199637
+1405	P	Steak de Boeuf (Maigre Mangé Seulement)	199981
+1406	P	Corned-Beef	200325
+1407	P	Saucisse de Boeuf	200671
+1408	P	Café au Lait (Dolce Gusto)	201054
+1409	P	Macédoine de Légumes (Bonduelle)	201125
+1410	P	Macédoine de Légumes (Carrefour)	201247
+1411	P	Macédoine (Notre Jardin)	201311
+1412	P	Macédoine de Légumes Surgelés (Notre Jardin)	201367
+1413	P	Macédoine (Bonduelle)	201415
+1414	P	Macédoine de Légumes Surgelée (Cora)	201478
+1415	P	Macédoine de Légumes (Marque Repère)	201519
+1416	P	Macédoine (d'Aucy)	201576
+1417	P	Maltesers (Maltesers)	201637
+1418	P	Étendu de Beurre d'Huile Végétale (Teneur Réduite en Calories)	201709
+1419	P	Beurre Allégé (Bâton avec du Sel)	201862
+1420	P	Jus de Citron (en Conserve ou en Bouteille)	201961
+1421	P	Saucisses aux Lentilles (Auchan)	202191
+1422	P	Lentilles Cuisinées aux Oignons et Carottes (Cassegrain)	202278
+1423	P	Lentilles (Leader Price)	202319
+1424	P	Levure de Bière (Gayelord Hauser)	202383
+1425	P	Levure de Bière en Paillettes (La Vie Claire)	202450
+1426	P	Levure	202509
+1427	P	Levure (Sulfate d'Aluminium et de Sodium, à Double Effet)	202662
+1428	P	Tendre Noix Supérieur (Herta)	202776
+1429	P	Jambon Supérieur sans Couenne (Auchan)	202833
+1430	P	Jambon Cru	202927
+1431	P	Le Supérieur sans Couenne (Fleury Michon)	203101
+1432	P	Jambon de Paris (Carrefour)	203176
+1433	P	Jambon Frais	203240
+1434	P	Jambon de Paris -25% de Sel (Auchan)	203615
+1435	P	Jambon de Bayonne (Carrefour Discount)	203715
+1436	P	Jambon Supérieur (Marque Repère)	203779
+1437	P	Foie de Volaille	203847
+1438	P	Jambon de Dinde	204029
+1439	P	Jambon de Dinde (Fleury Michon)	204254
+1440	P	Jambon de Dinde (Leader Price)	204301
+1441	P	Jambon de Dinde Halal (Fleury Michon)	204365
+1442	P	Jambon de Dinde (Isla Mondial)	204430
+1443	P	Sauce de Dinde (en Conserve)	204480
+1444	P	Jus de Cranberry (Paquito)	204711
+1445	P	Jus de Cranberry (Gayelord Hauser)	204777
+1446	P	Palets Bretons (Monoprix)	204832
+1447	P	Palets Bretons (Carrefour Discount)	204925
+1448	P	Palets Bretons (Leader Price)	204985
+1449	P	Paella	205025
+1450	P	Paëlla Volaille et Fruits de Mer (Auchan)	205208
+1451	P	Paella Royale (Marque Repère)	205292
+1452	P	Jus de Canneberge et de Raisin (en Bouteille)	205363
+1453	P	Cocktail de Jus de Canneberge (en Bouteille)	205549
+1454	P	Paella (Toque du Chef)	205724
+1455	P	Paella Valenciana (Picard)	205791
+1456	P	Paella (Blédina)	205834
+1457	P	Paella aux Fruits de Mer	205903
+1458	P	Paella Royale (Marie)	206076
+1459	P	Paella (Lidl)	206136
+1460	P	Paella au Poulet (Leader Price)	206199
+1461	P	Ourson Guimauve (Cémoi)	206264
+1462	P	Guimauves	206325
+1463	P	Perle de Lait Nature (Yoplait)	206528
+1464	P	Perle de Lait Vanille (Yoplait)	206593
+1465	P	Perle de Lait Coco (Yoplait)	206652
+1466	P	Perle de Lait Citron (Yoplait)	206721
+1467	P	Perle de Lait sur Lit de Framboise (Yoplait)	206778
+1468	P	Lait (sans Matières Grasses)	206820
+1469	P	Lait (sans Matières Grasses avec Vitamine A et Protéine Ajoutées)	206999
+1470	P	Penne (Panzani)	207172
+1471	P	Penne à Poêler (Panzani)	207238
+1472	P	Penne Court (Panzani)	207299
+1473	P	Nouilles Chinoises (Claude Léger)	207362
+1474	P	Nouilles Recette Chinoise (Monoprix)	207478
+1475	P	Nouilles Chinoises (Leader Price)	207533
+1476	P	Nouilles Chinoises (Auchan)	207572
+1477	P	Nouilles Chinoises à la Farine de Blé Tendre (Carrefour)	207638
+1478	P	Nouilles Sautées à la Chinoise (Picard)	207704
+1479	P	Boeuf aux Oignons et Nouilles Chinoises aux Légumes (Picard)	207755
+1480	P	Nouilles Japonaises Soba Cuites	207871
+1481	P	Petits Pains	208034
+1482	P	Petit Pain Précuit (Auchan)	208410
+1483	P	Pain au Lait	208495
+1484	P	Petit Pain à l'italienne (Picard)	208663
+1485	P	Petit Pain au Sésame (Picard)	208723
+1486	P	Petits Pains Spéciaux Précuits (Carrefour)	208804
+1487	P	Petits Pains de Blé	208932
+1488	P	Petits Pains aux Figues (Picard)	209090
+1489	P	Petit Pain Precuit (Dia)	209165
+1490	P	Petit Salé aux Lentilles (Marque Repère)	209280
+1491	P	Lard (Salé, Cuit au Four, Cuit)	209318
+1492	P	Lard (Salé)	209519
+1493	P	Pastrami (Salé)	209782
+1494	P	Petit Salé Aux Lentilles À La Graisse De Canard (Casino)	209955
+1495	P	Lentilles Façon Petit Salé (Jardin Bio)	210020
+1496	P	Chicorée Café au Lait (Carrefour)	210086
+1497	P	Café (en Poudre Instantané)	210150
+1498	P	Pain Français ou de Vienne (y compris au Levain)	210358
+1499	P	Lait de Soja au Chocolat	210617
+1500	P	Bolino Pâtes à la Bolognaise (Maggi)	210788
+1501	P	Pain Grillé Bio Campanel (Céréal Bio)	210909
+1502	P	Lentilles Riz & Soja (Céréal Bio)	211014
+1503	P	Céréale	211078
+1504	P	Céréales Chocolatées Fourrées au Chocolat (Super U)	211260
+1505	P	Céréales Lion (Nestlé)	211351
+1506	P	Céréales et Légumes (Comptoir du Grain)	211424
+1507	P	Croq'soja Champignons s##takés et Gingembre (Céréal Bio)	211485
+1508	P	Sablés Bio Chocolat Noir Intense (Céréal Bio)	211562
+1509	P	Céréales Fitness Chocolat Noir (Nestlé)	211673
+1510	P	Céréales à Poêler (Ferrero)	211764
+1511	P	Cookies Choco Macadamia (Carrefour)	211826
+1512	P	Cookie Noix de Macadamia et Chocolat Blanc (Subway)	211886
+1513	P	Noix de Macadamia	211983
+1514	P	Noix de Macadamia Rôties à Sec (avec du Sel Ajouté)	212157
+1515	P	Cookies aux Pépites de Chocolat (avec du Beurre)	212331
+1516	P	Cookies aux Pépites de Chocolat (Moins de Matières Grasses)	212499
+1517	P	Cookies aux Pépites de Chocolat (Mous)	212643
+1518	P	Pâte à Cookie aux Pépites de Chocolat	212794
+1519	P	Cookies aux Pépites de Chocolat (avec de la Margarine)	212976
+1520	P	Mini Babybel (Babybel)	213189
+1521	P	Babybel (Babybel)	213271
+1522	P	Mini Babybel à l'emmental (Babybel)	213314
+1523	P	Mini Babybel Léger (Babybel)	213386
+1524	P	Petit Brun (LU)	213459
+1525	P	Petit Brun Extra (LU)	213542
+1526	P	Gâteaux de Riz Brun	213629
+1527	P	Steak Haché Pur Bœuf 15% (Casino)	213815
+1528	P	le Pur Bœuf (Charal)	213870
+1529	P	L'extra Moelleux (Charal)	213917
+1530	P	Faux-Filet de Bœuf (Maigre Seulement, Taillé à 0,3 Cm Matières Grasses)	213956
+1531	P	Compote Pomme Pêche (Andros)	214069
+1532	P	Compote Pommes Pêches Mangues (Hipp)	214128
+1533	P	Compote Pêches (Bonne Maman)	214193
+1534	P	Compote Pommes Pêche (Charles & Alice)	214239
+1535	P	Compote Pomme Pêche Fraise (Blédina)	214304
+1536	P	Compote Pommes Pêches (Carrefour)	214365
+1537	P	Compote Pomme Pêche Abricot sans Sucres Ajoutés (Paquito)	214427
+1538	P	Pêches	214491
+1539	P	Fromage à Tartiner (Faible en Gras)	214864
+1540	P	Biscuit Soja Orange (Gerblé)	215080
+1541	P	Biscuit Lait Chocolat (Gerblé)	215197
+1542	P	Biscuit Muesli Fructose (Gerblé)	215265
+1543	P	Biscuit Complet au Germe de Ble (Gerblé)	215383
+1544	P	Biscuit Chocolat Amande (Gerblé)	215501
+1545	P	Biscuit Lait Chocolat (Gerblé)	215575
+1546	P	Biscuit Complet au Germe de Blé (Gerblé)	215659
+1547	P	Biscuit Pomme Noisette (Gerblé)	215776
+1548	P	Biscuit Sésame Chocolat (Gerblé)	215894
+1549	P	Jambon Blanc (Fleury Michon)	215961
+1550	P	Blanc d'Oeuf	216024
+1551	P	Sablés Anglais (10g) (McVitie's)	216180
+1552	P	Hob'nobs (McVitie's)	216249
+1553	P	Sablés Anglais (16g) (McVitie's)	216316
+1554	P	Hob'nobs (McVitie's)	216404
+1555	P	Boulgour (Cuit)	216470
+1556	P	Whisky Mélange Aigre (en Bouteille)	216633
+1557	P	Vivaneau (Poisson) (Mélange d'Espèces)	216759
+1558	P	Comté (Carrefour)	216915
+1559	P	Comté (Auchan)	216975
+1560	P	Fromage à Tartiner	217042
+1561	P	Saint Nectaire	217338
+1562	P	Coulommiers (Coeur de Lion)	217500
+1563	P	Emmental Râpé (Auchan)	217545
+1564	P	Biscottes (Auchan)	217593
+1565	P	Biscottes (Heudebert)	217677
+1566	P	Biscottes 6 Céréales (Carrefour)	217794
+1567	P	Biscottes au Froment (Marque Repère)	217895
+1568	P	Pain Grillé à la Farine de Blé Complet (Pelletier)	217970
+1569	P	Biscottes Goût Brioché (Heudebert)	218084
+1570	P	Prince Choco (LU)	218203
+1571	P	Prince (LU)	218276
+1572	P	Prince Goût Chocolat (LU)	218345
+1573	P	Prince Vanille (LU)	218419
+1574	P	Prince Chocolat (LU)	218489
+1575	P	Prince Choco Lait (LU)	218549
+1576	P	P'tit Prince (LU)	218613
+1577	P	Petit Prince (LU)	218729
+1578	P	Prince Chocolat Blanc (LU)	218780
+1579	P	Soupe Légumes du Soleil (Liebig)	218851
+1580	P	Soupe Chorba au Poulet (Picard)	218916
+1581	P	Coquille Saint-Jacques (Mélange d'Espèces)	219021
+1582	P	Soupe Champignons Sauvages (New Covent Garden Food Co.)	219176
+1583	P	Soupe Poule aux Vermicelles (Knorr)	219216
+1584	P	Soupe Poireaux et Pommes de Terre (Marque Repère)	219291
+1585	P	Fibres (Wasa)	219354
+1586	P	Léger (Wasa)	219423
+1587	P	Minéral Plus (Wasa)	219526
+1588	P	Crisp & Cereals (Wasa)	219610
+1589	P	Fibres (Wasa)	219717
+1590	P	Yaourts Glacés à la Vanille (Servi Mous)	219781
+1591	P	Banane Plantain	219947
+1592	P	Poivre de la Banane	220146
+1593	P	Tartine P'tit Dej (Jacquet)	220386
+1594	P	Tartines au Blé Complet (Carrefour)	220504
+1595	P	Tartine P'tit Déj Complet (Jacquet)	220602
+1596	P	Tartine (Heudebert)	220720
+1597	P	Tartines Spécial Campagne (La Boulangère)	220794
+1598	P	Pâte A Tartiner (Auchan)	220857
+1599	P	Tartines Apéritives (Picard)	220942
+1600	P	Tartines (Dia)	221012
+1601	P	Tartine au Froment (Carrefour)	221067
+1602	P	Tartines Craquantes au Blé Complet (Leader Price)	221180
+1603	P	Maki Saumon	221281
+1604	P	Maki Thon	221484
+1605	P	Maki Concombre	221691
+1606	P	Sashimi de Saumon	221891
+1607	P	California Maki	222062
+1608	P	California Roll	222249
+1609	P	Gâteau de Savoie	222438
+1610	P	Gâteau Blanc (sans Glaçage)	222662
+1611	P	Pois et Carottes (Surgelés)	222918
+1612	P	Petits Pois (Égouttés Solides, en Conserve)	223110
+1613	P	Petits Pois (Surgelés)	223290
+1614	P	Petits Pois	223449
+1615	P	Carottes (Solides et Liquides, en Conserve)	223630
+1616	P	Pois de Neige ou de Sucre	223820
+1617	P	Mini-Carottes	224014
+1618	P	Pain Complet aux 3 Céréales (Evernat)	224190
+1619	P	Pain aux Céréales (U Bio)	224259
+1620	P	Petits Pains Grillés aux 7 Céréales (Auchan Bio)	224328
+1621	P	Pain de Blé Concassé	224429
+1622	P	Pain de Maïs (Mélange Sec, Préparé)	224734
+1623	P	Bun's (McCain)	224847
+1624	P	Bun's Poulet Fromage Frais (McCain)	224908
+1625	P	Bun's Bolognaise (McCain)	224970
+1626	P	Bun's Jambon Ketchup (McCain)	225030
+1627	P	Bun's Raclette (McCain)	225090
+1628	P	Bo Bun	225150
+1629	P	Bo Bun Poulet (Picard)	225336
+1630	P	Blé (Ebly)	225438
+1631	P	Blé Cuit (Ebly)	225488
+1632	P	Grains de Blé Précuits (Auchan)	225524
+1633	P	Blé Dur	225564
+1634	P	Germe de Blé	225688
+1635	P	Riz et Blé Complet Nature (Fine Ligne)	225813
+1636	P	Son de Blé (Brut)	225867
+1637	P	Blé Blanc Dur	226005
+1638	P	Pain Grillé de Blé Entier	226141
+1639	P	Muffins Anglais de Blé	226513
+1640	P	Cruesli au Chocolat (Quaker)	226678
+1641	P	Cruesli 4 Noix (Quaker)	226776
+1642	P	Cruesli Chocolat au Lait (Quaker)	226881
+1643	P	Cruesli Chocolat Cappuccino (Quaker)	226972
+1644	P	Boulettes de Viande au Bœuf et Oignons (Picard)	227080
+1645	P	Boulettes de Viande sans Viande	227127
+1646	P	Boeuf Haché (95% de Maigre / 5% de Matières Grasses)	227288
+1647	P	Boulette Cuit à la Vapeur (Rempli de Viande de Volaille ou de Fruits de Mer)	227416
+1648	P	Boeuf Haché (85% de Maigre / 15% de Matières Grasses)	227613
+1649	P	Boulettes de Viande Crues au Bœuf (Picard)	227743
+1650	P	Viande Des Grisons (Auchan)	227790
+1651	P	Viande Des Grisons (Leader Price)	227873
+1652	P	Viande Séchée Des Grisons (Cora)	227948
+1653	P	Viande Des Grisons (Casino)	228021
+1654	P	Viande Des Grisons (Aoste)	228085
+1655	P	Viande Des Grisons (Carrefour)	228145
+1656	P	Viande des Grisons (Marque Repère)	228210
+1657	P	Viande des Grisons (Saint Azay)	228266
+1658	P	Viande des Grisons (Intermarché)	228321
+1659	P	Abricots	228387
+1660	P	Confitures d'Abricots et de Conserves	228598
+1661	P	Brioches à la Cannelle (avec Des Raisins Secs)	228788
+1662	P	Quenelles Nature (Carrefour)	228991
+1663	P	Quenelles de Veau Sauce Financière (Toque du Chef)	229070
+1664	P	Quenelles de Brochet Sauce Nantua (Toque du Chef)	229135
+1665	P	Quenelle Nature (Giraudet)	229197
+1666	P	Quenelles à Poêler (Auchan)	229240
+1667	P	Quenelles de Saumon (Petitjean)	229345
+1668	P	Quenelles de Brochet Sauce Nantua (Petitjean)	229406
+1669	P	Sauce Pour Quenelles Nantua (Lustucru)	229474
+1670	P	Fromage de Chèvre Sainte Maure (U)	229514
+1671	P	Fromage Frais Pur Chèvre (Casino)	229581
+1672	P	Fromage de Chèvre (Les Croisés)	229644
+1673	P	Fromage de Chèvre Sainte-Maure (Super U)	229703
+1674	P	Frites Tradition (McCain)	229746
+1675	P	Pommes Allumettes Extra Fines (Auchan)	229805
+1676	P	Just au Four Frite Classique (McCain)	229891
+1677	P	Frites Just au Four (McCain)	229969
+1678	P	Biscottes aux 6 Céréales (Leader Price)	230013
+1679	P	Biscottes 6 Cereales (Dia)	230098
+1680	P	Biscottes 6 Céréales (Monoprix)	230173
+1681	P	Biscottes aux Céréales (Chabrior)	230280
+1682	P	Biscottes aux Céréales (Netto)	230399
+1683	P	Biscottes aux 6 Céréales (Auchan)	230518
+1684	P	Biscottes aux 6 Céréales (U)	230608
+1685	P	Biscottes aux 6 Céréales (Monoprix)	230660
+1686	P	Macaroni Sauce Tomate et Boulettes de Viande (Marie)	230778
+1687	P	Boulettes de Viande en Sauce (Mélange)	230842
+1688	P	Boeuf Haché (90% de Maigre / 10% de Matières Grasses)	231068
+1689	P	Déli Matin Figues (P'tit Déli)	231195
+1690	P	Déli Matin Pépites de Chocolat (P'tit Déli)	231264
+1691	P	Mini Bounty (Bounty)	231332
+1692	P	Glace Bounty (Bounty)	231448
+1693	P	Bounty (Bounty)	231572
+1694	P	Bounty à Boire (Bounty)	231641
+1695	P	Beurre 15% (Bridelight)	231703
+1696	P	Fromage Râpé (Bridelight)	231772
+1697	P	Bridelight 15% (Bridelight)	231828
+1698	P	Beurre Allégé (Bridelight)	231892
+1699	P	Beurre (Bridelight)	231956
+1700	P	Bridelight 3% Goût Emmental (Bridelight)	232023
+1701	P	Crème Épaisse 7% (Bridelight)	232127
+1702	P	Emmental (Bridelight)	232167
+1703	P	Crème Fluide 5% (Bridelight)	232267
+1704	P	Lait Écrémé (Auchan)	232332
+1705	P	Viva Demi-Écrémé (Candia)	232394
+1706	P	Lait Entier	232459
+1707	P	Lait Ecreme (E.Leclerc)	232806
+1708	P	Thé Vert	232869
+1709	P	Poivrons Verts	233035
+1710	P	Piments Verts (en Conserve)	233381
+1711	P	Hamburger Large avec Des Condiments et Légumes	233509
+1712	P	Hamburger Large	233659
+1713	P	Hamburger (un Seul Pâté)	233808
+1714	P	Boeuf Haché (Hamburger, Environ 23% en Matières Grasses, Galettes Surgelées)	233957
+1715	P	Hamburger (un Seul Pâté avec Des Condiments)	234064
+1716	P	Hamburger ou Rouleaux Hot-Dog	234237
+1717	P	Salade d'Huile et de Vinaigre (Recette Maison)	234381
+1718	P	Endive	234551
+1719	P	Endives Braisées	234712
+1720	P	Endives Vapeur (Bonduelle)	234889
+1721	P	Endive, Chicorée, Scarole ou la Laitue Romaine	234956
+1722	P	Gratin d'endives au Jambon (Fleury Michon)	235304
+1723	P	Scarole Cuite (Matière Grasse Ajoutée dans la Cuisson)	235347
+1724	P	Courgettes Cuisinées à la Provençale (Cassegrain)	235553
+1725	P	Gratin de Courgettes	235593
+1726	P	Flan de Courgette	235760
+1727	P	Courgettes (Picard)	235893
+1728	P	Courgettes en Rondelles (Saint Eloi)	235957
+1729	P	Petites Courges d'Eté Cuites (à partir de Frais)	236015
+1730	P	Courgette Farcie	236356
+1731	P	Mélange de Légumes Grillés (Auchan)	236552
+1732	P	Brioche Tranchée (28g) (Auchan)	236614
+1733	P	Brioche Tranchée (Casino)	236720
+1734	P	Brioche Tranchée (Carrefour Discount)	236840
+1735	P	Brioche Tranchée (33g) (Auchan)	236979
+1736	P	Brioche Tranchée aux Œufs Frais aux Pépites de Chocolat (U)	237095
+1737	P	Brioche Tranchée Recette Originale (Harry's)	237182
+1738	P	Brioche Tranchée (Cora)	237298
+1739	P	Brioche Tranchée (Aldi)	237415
+1740	P	Boisson Alcoolisée (80 Preuve, Gin Rhum Vodka Whisky)	237503
+1741	P	Boisson au Jus d'Orange	237628
+1742	P	Secrets de Grand-Mère 9 Légumes (Knorr)	237833
+1743	P	Mélange de Céréales & Légumes Secs (Carrefour)	237904
+1744	P	Mélange de Riz et Légumes Secs (U Bio)	237978
+1745	P	Velouté Légumes Secs Chorizo (Picard)	238042
+1746	P	Légumes Secs Chorizo (Picard)	238123
+1747	P	Légumes Secs Gourmands (Tipiak)	238188
+1748	P	Raisins Secs Dorés (sans Pépins)	238228
+1749	P	Raisins Secs (sans Pépins)	238391
+1750	P	Mini Rollos (Pépito)	238630
+1751	P	Houmous	238693
+1752	P	Houmous (Blini)	238881
+1753	P	Houmous (Carrefour)	238923
+1754	P	Houmous Libanais (Maayane)	238984
+1755	P	Houmous (Monoprix)	239047
+1756	P	Oeuf	239107
+1757	P	Oeuf sur le Plat	239401
+1758	P	Oeuf Dur	239696
+1759	P	Oeuf sur le Plat sans Matière Grasse	239911
+1760	P	Omelette ou Oeuf Brouillé	240208
+1761	P	Oeuf à la Coque	240529
+1762	P	Oeuf Mollet	240816
+1763	P	Blanc d'Oeuf Cuit	241083
+1764	P	Oeuf (Entier)	241282
+1765	P	Oeuf Brouillé (Entier, Cuit)	241561
+1766	P	Bonbons Durs	241770
+1767	P	Barres Granola Durs	241912
+1768	P	Bretzels Durs et Salés	242063
+1769	P	Galettes de Légumes (Bonduelle)	242182
+1770	P	Galettes de Légumes Poireaux et Carottes (Bonduelle)	242300
+1771	P	Galettes de Légumes Duo de Courgettes et Ses Petits Légumes (Bonduelle)	242408
+1772	P	Miel et Amandes (Balisto)	242527
+1773	P	Fruits des Bois (Balisto)	242643
+1774	P	Escalope de Dinde (Le Gaulois)	242752
+1775	P	Escalope de Dinde (Carrefour)	242793
+1776	P	Viande de Dinde	242834
+1777	P	Queue de Langouste (Picard)	243054
+1778	P	Écrevisse(Langouste)	243097
+1779	P	Chocolat Chaud avec du Cacao (au Lait Entier)	243229
+1780	P	Chocolat Chaud (Nesquik)	243388
+1781	P	Chocolat Chaud (Milka)	243494
+1782	P	Lait au Cacao Chaud	243610
+1783	P	Chocolat Chaud (Dolce Gusto)	243802
+1784	P	Cacao et Mélange de Sucre (avec du Lait Écrémé)	243911
+1785	P	Super Poulain (Poulain)	244077
+1786	P	Chocolat en Poudre (Nesquik)	244131
+1787	P	Choco Mix (Ivoria)	244201
+1788	P	Petit Déjeuner Chocolat et Céréales (LU)	244330
+1789	P	Gateau Basque	244394
+1790	P	Mini Fourrés (Bien Vu)	244576
+1791	P	Clafoutis	244615
+1792	P	le Café (Saveur de Cappuccino en Poudre, Instantané, avec le Sucre)	244798
+1793	P	Café Pré-Allégé Présucré avec du Sucre	245008
+1794	P	Présucré avec du Sucre de Café	245306
+1795	P	Café Glacé à la Crème et du Sucre	245565
+1796	P	Café Glacé avec du Lait et du Sucre	245851
+1797	P	Jus de Canneberge (sans Sucre)	246133
+1798	P	Escalope de Dinde (Auchan)	246279
+1799	P	Escalope de Dinde (Super U)	246322
+1800	P	Escalope de Dinde A la Milanaise (Carrefour)	246369
+1801	P	Escalope de Dinde (Volaé)	246436
+1802	P	Escalope de Dinde l'extra Tendre (Le Gaulois)	246477
+1803	P	Épinard	246528
+1804	P	Épinards Hachés à la Crème Fraîche (Findus)	246720
+1805	P	Épinards Cuits (à l'Etat Congelé, Pas de Matières Grasses Ajoutées dans la Cuisson)	246800
+1806	P	Épinards (Hachés ou de Feuilles, Congelés)	247106
+1807	P	Épinards Hachés à la Crème (Picard)	247256
+1808	P	Epinards (Florette)	247322
+1809	P	Épinards Branches à la Crème (Auchan)	247364
+1810	P	Épinards Hachés (Marque Repère)	247430
+1811	P	Épinards Hachés (Carrefour)	247470
+1812	P	Épinards en Branche (Carrefour)	247529
+1813	P	Flageolets (Carrefour)	247589
+1814	P	Flageolets Verts Extra Fins (Bonduelle)	247652
+1815	P	Flageolets Extra-Fins Cuisinés (Cassegrain)	247719
+1816	P	Flageolets Verts Extra Fins (Auchan)	247762
+1817	P	Flageolets Verts Extra Fins (Leader Price)	247827
+1818	P	Flageolets Verts Extra Fins (Marque Repère)	247899
+1819	P	Quinoa Pois Chiches (Bjorg)	247957
+1820	P	Quinoa de Bolivie (Carrefour Bio)	248023
+1821	P	Grinioc Quinoa et Tomate (Soy)	248083
+1822	P	Quinoa et Boulghour à la Tomate (Céréal Bio)	248128
+1823	P	Taboulé Boulghour et Quinoa au Tofu (Céréal Bio)	248197
+1824	P	Salade de Quinoa Vert (Dailymonop')	248266
+1825	P	Riz Quinoa Courgettes (Lustucru)	248329
+1826	P	Spaghetti Quinoa Curry (Jardin Bio)	248377
+1827	P	Biscuit Quinoa Cacao (Gerblé)	248438
+1828	P	Cuisse de Poulet	248549
+1829	P	Filets de Poulet (Le Gaulois)	248924
+1830	P	Poulet Grillé Rôti ou Cuit au Four	248964
+1831	P	Cuisse de Poulet (Peau Pas Mangée)	249309
+1832	P	Poulet	249684
+1833	P	Poulet (Peau Pas Mangée)	250029
+1834	P	Terrine de Campagne (Madrange)	250373
+1835	P	Paté de Campagne (Weight Watchers)	250434
+1836	P	Terrine de Lapin (Carrefour)	250488
+1837	P	Pâté de Foie (Hénaff)	250545
+1838	P	Penne Box Carbonara (Claude Léger)	250614
+1839	P	Brocoli (Haché, Congelé)	250696
+1840	P	Sauce Tomates Cuisinées (Panzani)	250848
+1841	P	Sauce aux Tomates Fraîches (Panzani)	250912
+1842	P	Sauce Tomate Cuisinée (Auchan)	250955
+1843	P	Sauce Tomate Basilic (Monoprix)	250997
+1844	P	Sauce Tomate Cuisinée (Heinz)	251039
+1845	P	Sauce Tomates et Basilic (Panzani)	251081
+1846	P	Sauce Tomate Cuisinée (Zapetti)	251143
+1847	P	Chocolat Ligne Gourmande Éclats Cacao (Poulain)	251209
+1848	P	Ligne Gourmande (Poulain)	251269
+1849	P	Ligne Gourmande Lait Fondant (Poulain)	251350
+1850	P	Tajine de Poulet aux Fruits Secs (Fine Ligne)	251432
+1851	P	Riz et Blé Complet Chocolat (Fine Ligne)	251502
+1852	P	Mayonnaise (Fine Ligne)	251565
+1853	P	Ligne et Plaisir (Tartare Marque)	251634
+1854	P	Igname (sans Sel, Égoutté, Cuit, Bouilli, Cuit au Four)	251708
+1855	P	Flageolets Verts (Saint Eloi)	251854
+1856	P	Flageolets Verts (d'Aucy)	251897
+1857	P	Flageolets Fins (Carrefour Discount)	251959
+1858	P	Flageolets Cuisinés à l'auvergnate (Raynal et Roquelaure)	252025
+1859	P	Les Papillotes de Poulet Ail et Oignon (Maggi)	252092
+1860	P	Pain de Mie sans Croute (Leader Price)	252161
+1861	P	Pain de Mie Extra Moelleux (42g) (Harry's)	252232
+1862	P	Riz Cantonais	252344
+1863	P	Riz Cantonnais (Marie)	252533
+1864	P	Riz Brun (à Grains Moyens, Cuit)	252602
+1865	P	Nouilles de Riz (Cuites)	252729
+1866	P	Gâteaux de Riz Brun Multigrain	252903
+1867	P	Nouilles de Riz Sèches	253076
+1868	P	Riz Brun (à Longs Grains , Cuit)	253188
+1869	P	Pommes Rissolées (Super U)	253322
+1870	P	Porc Rissolé & Riz à la Provençale (Fleury Michon)	253368
+1871	P	Pommes Rissolées (Findus)	253427
+1872	P	Pommes Rissolées (Pom'lisse)	253490
+1873	P	Pommes Rissolées (Marque Repère)	253562
+1874	P	Pommes Rissolées (Auchan)	253620
+1875	P	Pomme Rissolées (Carrefour)	253683
+1876	P	Les Pommes Rissolées (Bouton d'Or)	253725
+1877	P	Huile de Poisson de Foie de Morue	253789
+1878	P	Flétan de l'Atlantique et du Pacifique (Poisson) (Cuit, la Chaleur Sèche)	253961
+1879	P	Cocktail de Jus de Canneberge (Concentré Congelé, avec de l'Eau)	254124
+1880	P	Cola ou de Poivre Soda (Contenant de la Caféine, avec de l'Aspartame)	254264
+1881	P	Bonbons de Boules de Gomme (Morceaux de Gelée)	254417
+1882	P	Rillettes du Mans (Bordeau Chesnel)	254765
+1883	P	Rillettes Pur Porc (Hénaff)	254815
+1884	P	Rillettes de Thon (Odyssée)	254856
+1885	P	Rillettes de Saumon (Coraya)	254921
+1886	P	Rillettes de Poulet Rôti en Cocotte (Carrefour)	254966
+1887	P	Rillettes de Saumon (Auchan)	255027
+1888	P	Rillettes Thon aux Tomates (Carrefour)	255082
+1889	P	Rillettes de Poulet Roti (Bordeau Chesnel)	255149
+1890	P	Rillettes Thon (Coraya)	255192
+1891	P	Rillettes d'oie (Bordeau Chesnel)	255237
+1892	P	Compote Pommes Poires sans Sucres Ajoutés (Auchan)	255278
+1893	P	Compote Pomme Mangue sans Sucres Ajoutés (Auchan)	255340
+1894	P	Compote Pomme Rhubarbe (Taillefine)	255406
+1895	P	Compote Pomme Framboise (Andros)	255468
+1896	P	Compote de Pommes Allégée en Sucres (Netto)	255514
+1897	P	Semoule au Lait (Nestlé)	255584
+1898	P	Semoule au Lait (La Laitière)	255647
+1899	P	Semoule de Blé Moyenne (Casino)	255711
+1900	P	Ravioles du Dauphiné (Saint Jean)	255752
+1901	P	Ravioles du Dauphiné (Monoprix Gourmet)	255796
+1902	P	Frites Faits Maison	255860
+1903	P	Pommes de Terre Frites	256250
+1904	P	Pommes de Terre Frites (Salées)	256641
+1905	P	Pommes de Terre Frites (à l'Etat Congelé)	256767
+1906	P	Pomme de Terre Frites à la Saveur de Barbecue	257158
+1907	P	Pommes de Terre Frites Panées ou en Pâtes	257273
+1908	P	Cracotte au Froment (Cracotte)	257660
+1909	P	Cereales Completes (Cracotte)	257765
+1910	P	Cracotte Matin (Cracotte)	257875
+1911	P	Craquinette Chocolat (Cracotte)	257978
+1912	P	Craquinette Fraise (Cracotte)	258093
+1913	P	Craquantes (Cracotte)	258208
+1914	P	Craquinette Choco-Noisette (Cracotte)	258283
+1915	P	Compote Pomme Allégée en Sucres (Douceur du Verger)	258404
+1916	P	Compote Pomme Myrtille (Materne)	258507
+1917	P	Cookie aux Pépites de Chocolat	258557
+1918	P	Cookies Nougatine Pépites Choco (Casino)	258921
+1919	P	Cookie	259040
+1920	P	Granola Extra Cookies (LU)	259236
+1921	P	Cookie aux Pépites de Chocolat (Recette Maison ou Acheté)	259351
+1922	P	Cookie Deux Chocolats (Subway)	259650
+1923	P	Cookies Nougatine (Carrefour Discount)	259765
+1924	P	White Chocolate Macadamia (Pepperidge Farm)	259880
+1925	P	Emmental Râpé (Entremont)	259981
+1926	P	Gruyère (Auchan)	260020
+1927	P	Gruyère (Eco +)	260068
+1928	P	Emmental Léger (Entremont)	260133
+1929	P	Emmental Cœur de Meule (Président)	260192
+1930	P	Fromage Fabriqué en Suisse	260240
+1931	P	Haricots Verts Extra Fins (d'Aucy)	260484
+1932	P	Haricots Verts Cuits (à partir de Frais)	260542
+1933	P	Haricots Verts (Carrefour)	260792
+1934	P	Haricots Verts Extra Fins (Marque Repère)	260852
+1935	P	Haricots Verts Cuits avec la Sauce de Champignons	260951
+1936	P	Haricots Verts Extra-Fins (Cassegrain)	261145
+1937	P	Haricots Verts Extra Fins & Rangés (Bonduelle)	261191
+1938	P	Salade Piémontaise (Bien Vu)	261256
+1939	P	Salade Piemontaise (Petit Navire)	261299
+1940	P	Salade de Pommes de Terre	261377
+1941	P	Salade de Chou	261550
+1942	P	Ravioles du Dauphiné (Nos Régions Ont du Talent)	261754
+1943	P	Ravioles (Saint Jean)	261794
+1944	P	Ravioles 3 Fromages (Rivoire & Carret)	261838
+1945	P	Ravioles Fromage Frais et Fines Herbes (Rivoire & Carret)	261908
+1946	P	Ravioles à Poêler au Comté (Saint Jean)	261976
+1947	P	Ravioles à Poêler Chèvre (Saint Jean)	262022
+1948	P	Ravioles du Dauphiné Label Rouge (Leader Price)	262064
+1949	P	Gratin de Ravioles au Poulet et aux Champignons (Picard)	262132
+1950	P	Barres Fruits Rouges (P'tit Déli)	262239
+1951	P	Barre de Céréales Fruits Rouges (Chabrior)	262348
+1952	P	Salade de Taco	262462
+1953	P	Plat d'Accompagnement de Salade de Pommes de Terre	262616
+1954	P	Semoule Cuite	262768
+1955	P	Semoule	262949
+1956	P	Semoule (Tipiak)	263078
+1957	P	Semoule Fine (Panzani)	263123
+1958	P	Ricore (Nestlé)	263162
+1959	P	Ricoré Intense (Nestlé)	263231
+1960	P	Ricoré (Nestlé)	263294
+1961	P	Ricoré Bonjour (Nestlé)	263388
+1962	P	Ricoré (Nestlé)	263513
+1963	P	Artichaut Cuit (à Partir de Frais)	263583
+1964	P	Cœur Artichaut (Casino)	263818
+1965	P	Artichauts (Français)	263892
+1966	P	Coeurs d'Artichauts à l'Huile	264067
+1967	P	Fonds d'artichauts (Super U)	264269
+1968	P	Cœurs d'artichauts (Carrefour)	264319
+1969	P	Fonds d'artichauts (Thiriet)	264374
+1970	P	Cœurs d'artichaut à l'italienne (Picard)	264417
+1971	P	Cœurs d'artichauts (Géant Vert)	264475
+1972	P	Topinambour	264541
+1973	P	Belvita (13.5g) (LU)	264673
+1974	P	Belvita Chocolat (LU)	264806
+1975	P	Belvita Sablé Lait & 5 Céréales Complètes (LU)	264886
+1976	P	Belvita le Tartiné (LU)	264965
+1977	P	Belvita Brut (LU)	265083
+1978	P	Belvita Petit Déjeuner (LU)	265158
+1979	P	Belvita Coeur Fondant au Yaourt (LU)	265234
+1980	P	Belvita Cœur Fondant (LU)	265351
+1981	P	Belvita Cœur Fondant Framboises (LU)	265416
+1982	P	Belvita (12.5g) (LU)	265480
+1983	P	Craquelins	265555
+1984	P	Croustilles Tortillas (Maïs Blanc)	265848
+1985	P	Mélange Montagnard	265970
+1986	P	Mélange Montagnard Tropical	266087
+1987	P	Mélange Montagnard (Non Salé)	266224
+1988	P	Cervelas (Herta)	266335
+1989	P	Cervelas (Carrefour)	266376
+1990	P	Cervelas Alsacien (Lidl)	266445
+1991	P	Cervelas (Netto)	266514
+1992	P	Cancoillotte Nature (Auchan)	266553
+1993	P	Cancoillotte Nature (Paysange)	266637
+1994	P	Cancoillotte Nature (Leader Price)	266677
+1995	P	Gaufres Grillées Natures (Surgelées)	266717
+1996	P	Cancoillotte Nature (Dia)	266933
+1997	P	Crêpes Nature	266991
+1998	P	Framboises	267194
+1999	P	Purée de Pois Cassé (Picard)	267363
+2000	P	Purée de Pois Cassés (Vivien Paille)	267413
+2001	P	Purée Pois Cassés Courgettes (Bjorg)	267460
+2002	P	Gâteau de Semoule Nappage Caramel (Yabon)	267527
+2003	P	Semoule au Lait Saveur Vanille (Delisse)	267569
+2004	P	Semoule au Lait sur Lit de Caramel (Weight Watchers)	267675
+2005	P	Sandwich Gyro (Pain Pita, Boeuf, Agneau,Oignons, Condiments avec Tomate et Pâte à Tartiner)	267790
+2006	P	Sandwich au Jambon avec Pâte à Tartiner	267968
+2007	P	Sandwich au Jambon et Fromage avec Laitue et Pâte à Tartiner	268156
+2008	P	Sandwich au Jambon et Fromage avec Laitue et Pâte à Tartiner sur Petit Pain	268338
+2009	P	Sandwich au Poulet avec Pâte à Tartiner	268526
+2010	P	Pâte à Tartiner aux Noisettes (Carrefour Bio)	268692
+2011	P	Lait (sans Matières Grasses ou Écrémé, Enrichi de Calcium)	268752
+2012	P	Lait de Soja (Enrichi de Calcium)	268896
+2013	P	Pommes Dauphines (U)	269051
+2014	P	Petits Cœurs Choco'Croc (LU)	269110
+2015	P	Petit Écolier Cœur Tendre (LU)	269151
+2016	P	Salade au Coeur du Mexique (Petit Navire)	269201
+2017	P	Salade au Cœur de l'italie (Petit Navire)	269267
+2018	P	Olives (Petits-Extra Larges)	269339
+2019	P	Farfalle (Barilla)	269517
+2020	P	Pâtes sans Viande à la Sauce Tomate	269560
+2021	P	Pommes de Terre Blanches (Chair et Peau)	269741
+2022	P	Pommes de Terre Sautées	270040
+2023	P	Pomme de Terre Cuite (Pelure à Ne Pas Mangée)	270203
+2024	P	Pomme de Terre Rôtie (Matières Grasses Non Ajoutées dans la Cuisson)	270585
+2025	P	Pommes de Terre Vapeur (Bonduelle)	270965
+2026	P	Pomme de Terre Rôtie	271026
+2027	P	Pommes de Terre Persillées Façon Sud Ouest (Carrefour)	271383
+2028	P	Salade Composée (Leader Price)	271453
+2029	P	Salade Composée (Florette)	271506
+2030	P	Jus de Pamplemousse Rose	271548
+2031	P	Jus de Pamplemousse (Andros)	271704
+2032	P	Jus de Pamplemousse (Jafaden)	271773
+2033	P	Jus Pamplemousse (Joker)	271839
+2034	P	Jus d'Ananas	271894
+2035	P	Jus d'ananas (Jafaden)	272099
+2036	P	Pur Jus d'ananas (Super U)	272156
+2037	P	Jus d'ananas (Paquito)	272215
+2038	P	Jus d'ananas (Andros)	272279
+2039	P	Jus d'ananas (Pago)	272334
+2040	P	Jus d'ananas (Rik & Rok )	272401
+2041	P	Jus d'ananas (U)	272479
+2042	P	Jus de Citron	272530
+2043	P	Tartelette Fine à la Tomate (Picard)	272730
+2044	P	Croûte de Tarte	272812
+2045	P	Croûte de Tarte Graham Cracker	273030
+2046	P	Thé sans Sucre	273246
+2047	P	Thé (Lipton)	273427
+2048	P	Thé Vert Menthe Intense (Lipton)	273467
+2049	P	Thé 5 Fruits Rouges (Lipton)	273513
+2050	P	Thé Citron (Lipton)	273573
+2051	P	Thé Présucré avec du Sucre	273631
+2052	P	Thé Caramel (Lipton)	273826
+2053	P	Russian Earl Grey (Lipton)	273881
+2054	P	Quiche au Fromage sans Viande	273921
+2055	P	Tarte Chèvre Épinards (Claude Léger)	274308
+2056	P	Quiche Lorraine (Carrefour)	274377
+2057	P	Quiche Lorraine (Picard)	274442
+2058	P	Chou Farci	274510
+2059	P	Chou Farci (Auchan)	274665
+2060	P	Choux Farcis (Charal)	274751
+2061	P	Choux Farcis (Bigard)	274788
+2062	P	Poêlée Façon Chou Farci (Leader Price)	274829
+2063	P	Chou Farci Cuisiné à l'auvergnate (Raynal et Roquelaure)	274891
+2064	P	Chou	275005
+2065	P	Chou de Savoie	275393
+2066	P	Les Papillotes de Poulet Herbes de Provence (Maggi)	275585
+2067	P	PAPILLOTE CABILLAUD (Picard)	275653
+2068	P	Papillote de Saumon (Picard)	275761
+2069	P	Papillote Fruits du Verger (Picard)	275812
+2070	P	Pain aux Raisins	275878
+2071	P	280 Original (McDonald's)	276085
+2072	P	Sauce Caesar (McDonald's)	276177
+2073	P	McFlurry Kit Kat (McDonald's)	276251
+2074	P	Vinaigre Balsamique (Aldi)	276336
+2075	P	Vinaigre Balsamique de Modène et Pointe d'orange (Maille)	276410
+2076	P	Vinaigre	276452
+2077	P	Moutarde au Miel et Vinaigre Balsamique (Carrefour)	276607
+2078	P	Vinaigrette Olive Balsamique (La Brioche Dorée)	276652
+2079	P	Vinaigre (Cidre)	276716
+2080	P	Vin Rosé	276872
+2081	P	Vin de Table	277071
+2082	P	Vin Cabernet Sauvignon	277233
+2083	P	Vin de Pinot Noir	277338
+2084	P	Vin de Syrah	277451
+2085	P	Limonade Rose (Concentrée Congelée, avec de l'Eau)	277564
+2086	P	Whey Protéine	277729
+2087	P	Whey Proteine (Isostar)	277854
+2088	P	Isolat Protéique de Soja	277943
+2089	P	Yaourt aux Fruits Mixés (Auchan)	278046
+2090	P	Yaourt aux Fruits 0% (U)	278131
+2091	P	Yaourt aux Fruits Mixés 0% (Fine Ligne)	278195
+2092	P	Gaufrettes au Chocolat	278273
+2093	P	Yaourt aux Fruits 0% Citron (Taillefine)	278463
+2094	P	Tagliatelles (Casino)	278540
+2095	P	Tagliatelles Saumon (Auchan)	278605
+2096	P	Tagliatelles à la Carbonara (Picard)	278677
+2097	P	Tagliatelle (Barilla)	278779
+2098	P	Tagliatelles au Saumon et aux Épinards (Auchan)	278846
+2099	P	Petites Gambas Compotée de Tomate Tagliatelles au Pesto (Marie)	278914
+2100	P	Quiche Lorraine	278982
+2101	P	Quiche Lorraine (Claude Léger)	279197
+2102	P	Quiche Lorraine (Marie)	279268
+2103	P	Quiche à la Viande, la Volaille ou du Poisson	279338
+2104	P	Quiche aux Épinards sans Viande	279731
+2105	P	Quiche Lorraine (Côté Table)	280122
+2106	P	Riz Blanc	280231
+2107	P	Riz Blanc (à Longs Grains , Cuit)	280477
+2108	P	Riz Basmati (Auchan)	280613
+2109	P	Riz Basmati (Carrefour)	280688
+2110	P	Riz Long Grain (Uncle Ben's)	280734
+2111	P	Riz Blanc (à Grains Moyens, Cuit)	280789
+2112	P	Riz Basmati (Cuit)	280918
+2113	P	Riz Jaune	281087
+2114	P	Tarte au Riz	281326
+2115	P	Farine de Riz	281470
+2116	P	Pik & Croq (La Vache qui rit)	281600
+2117	P	Toastinette Pour Hamburger au Cheddar (La Vache qui rit)	281699
+2118	P	Cheddar (La Vache qui rit)	281749
+2119	P	Fromage (16.66g) (La Vache qui rit)	281816
+2120	P	Toastinette (La Vache qui rit)	281911
+2121	P	Fromage (17g) (La Vache qui rit)	281961
+2122	P	Fromage (20g) (La Vache qui rit)	282061
+2123	P	Épaisse Milkshake au Chocolat	282111
+2124	P	Sirop de Chocolat	282266
+2125	P	Portion (La Vache qui rit)	282462
+2126	P	La Vache Qui Rit Légère (La Vache qui rit)	282573
+2127	P	Vraiment la Vache Qui Rit (Fleury Michon)	282670
+2128	P	Crêpe au Sucre	282750
+2129	P	Crêpe Chocolat (Carrefour)	283130
+2130	P	Crêpes Jambon Emmental (Picard)	283224
+2131	P	Crêpes de Bretagne au Froment (Nos Régions Ont du Talent)	283273
+2132	P	Okonomiyaki	283313
+2133	P	Galettes de Bretagne au Sarrasin (Nos Régions Ont du Talent)	283488
+2134	P	Galette au Sarrasin Jambon Champignon Emmental (Picard)	283536
+2135	P	Crêpes (Mélange Sec)	283621
+2136	P	Crêpes aux Bleuets	283838
+2137	P	Crêpes au Babeurre	284033
+2138	P	Sirop à Crêpes (Teneur Réduite en Calories)	284239
+2139	P	Sirop à Crêpes	284376
+2140	P	Crème (Moitié-Moitié)	284534
+2141	P	Crème à Fouetter	284754
+2142	P	Crème Fouettée (Sous Pression)	285034
+2143	P	Crème (Moitié-Moitié, sans Matières Grasses)	285210
+2144	P	Choux à la Crème (avec Crème Anglaise)	285416
+2145	P	Choucroute (Solide et Liquide, en Conserve)	285660
+2146	P	Betteraves Conservées (Solides et Liquides, en Conserve)	285828
+2147	P	Compote Pomme Pêche (Casino)	285967
+2148	P	Confiture Allégée Pêches (Andros)	286029
+2149	P	Confiture Allégée Fraise (Solaya)	286088
+2150	P	Confiture Allégée Framboises (Andros)	286149
+2151	P	Confiture de Fraises Allégée en Sucres (Carrefour)	286204
+2152	P	Confiture Allégée Abricots (Andros)	286309
+2153	P	Confiture de Fraises Allégée (Dia)	286368
+2154	P	Confiture Allégée Fraises (Andros)	286449
+2155	P	Confiture Allégée Reine Claude (Andros)	286509
+2156	P	Confiture Allégée Myrtilles (Andros)	286568
+2157	P	Confiture Rhubarbe Allégée (Andros)	286628
+2158	P	Granola Extra Cookies Daim (LU)	286690
+2159	P	Barres Granola Douces	286801
+2160	P	Grenadine (Teisseire)	286947
+2161	P	Sirop de Grenadine (Auchan)	286996
+2162	P	Cordiale ou Liqueur	287052
+2163	P	Sirop de Grenadine (Teisseire)	287265
+2164	P	Grenadine (Pulco)	287308
+2165	P	Sirop de Grenadine (Bio Village)	287373
+2166	P	Friands à la Viande (Leader Price)	287449
+2167	P	Fromage à Tartiner Nature (Auchan)	287520
+2168	P	Fromage à Tartiner (Carrefour)	287569
+2169	P	Fromage à Tartiner (Marque Repère)	287629
+2170	P	Fromage à Tartiner (sans Gras)	287690
+2171	P	Spécialité Fromagère à Tartiner (Auchan)	287805
+2172	P	Étendu de Fromage à Tartiner	287923
+2173	P	Fromage à Tartiner Léger ou Allégé	288052
+2174	P	Fromage Frais de Campagne au Lait Entier (Carrefour)	288273
+2175	P	Fromage Frais 0% (Carrefour)	288315
+2176	P	Fromage Frais Nature (Carrefour Bio)	288387
+2177	P	Fromage Frais (Carrefour)	288457
+2178	P	Gaufres de Liège au Chocolat (Lotus)	288522
+2179	P	Glace au Chocolat Riche	288639
+2180	P	Goûter Pépites de Chocolat (Gerblé)	288834
+2181	P	Biscuit Sésame (Gerblé)	288953
+2182	P	Biscuit Son d'avoine (Gerblé)	289027
+2183	P	Sablé Noix de Pécan au Sirop d'érable (Gerblé)	289139
+2184	P	Agneau Haché	289245
+2185	P	Galette de Maïs (Gerblé)	289356
+2186	P	Galette de Maïs (Carrefour Bio)	289424
+2187	P	Galettes de Maïs Bio (Auchan)	289509
+2188	P	Galettes de Mais au Chocolat Noir (Bjorg)	289603
+2189	P	Galettes de Maïs (Carrefour)	289723
+2190	P	Galettes de Maïs (Bjorg)	289791
+2191	P	Galettes de Maïs (Regain Bio)	289887
+2192	P	Galettes de Maïs (Auchan Bio)	289994
+2193	P	Galette de Mais (Auchan Bio)	290088
+2194	P	Galettes de Maïs Chocolat au Lait (Bjorg)	290190
+2195	P	Galettes au Blé Noir et au Sel de Guérande (Casino)	290308
+2196	P	Céréale de Blé Déchiqueté (Présucrée)	290384
+2197	P	Galettes 4 Céréales (Carrefour Bio)	290562
+2198	P	Galettes 4 Céréales (Bio Village)	290680
+2199	P	Galette 5 Céréales (Grillon d'Or)	290757
+2200	P	Galettes 4 Céréales (7.6g) (Bjorg)	290821
+2201	P	Galette 4 Céréales Complètes (Gerblé)	290934
+2202	P	Galettes Céréales Épeautre, Légumes du Jardin (Céréal Bio)	291051
+2203	P	Galettes 4 Céréales (4.6g) (Bjorg)	291115
+2204	P	Galettes Fines aux 3 Céréales et Sésame (Monoprix Bio)	291225
+2205	P	Galettes 4 Céréales (Bjorg)	291303
+2206	P	Galette Œuf Jambon Emmental (Auchan)	291368
+2207	P	Galette de Blé Noir (Picard)	291431
+2208	P	Galette	291504
+2209	P	Galette des Rois	291633
+2210	P	Galette Blé Noir Lardons Chèvre (Marque Repère)	291822
+2211	P	Galettes Tout au Beurre (St Michel)	291928
+2212	P	Céréale Granola	292045
+2213	P	Céréale d'Avoine (Instantanée, Seche, Fortifiée)	292170
+2214	P	Céréale de Riz Soufflé (Enrichi)	292289
+2215	P	Barres de Petit Déjeuner (Avoine, Sucre, Raisins Secs, Noix de Coco, y compris Barre de Granola )	292422
+2216	P	Miettes de Pain	292570
+2217	P	Bâtons de Pain Ordinaire	292732
+2218	P	Pain de Seigle (Teneur Réduite en Calories)	293032
+2219	P	Pain de Blé (Teneur Réduite en Calories)	293208
+2220	P	Beurre Doux Léger 20% (Elle & Vire)	293376
+2221	P	Beurre Doux Léger 20% (Elle & Vire)	293439
+2222	P	Beurre Tendre 20% (Elle & Vire)	293511
+2223	P	Margarine (Huile Végétale,20% de Matières Grasses )	293567
+2224	P	Aiguillettes de Poulet Grillé (Fleury Michon)	293734
+2225	P	Galettes de Riz Nappées de Chocolat Noir (Carrefour Bio)	293803
+2226	P	Cannelé (Paul)	293846
+2227	P	Mini Cannelés (Thiriet)	293935
+2228	P	Cannelé	294033
+2229	P	Les Carottes Râpées (Florette)	294193
+2230	P	Carottes Râpées (Super U)	294235
+2231	P	Carottes Râpées (Monique Ranou)	294302
+2232	P	Carottes Râpées à la Moutarde à l'ancienne (Bonduelle)	294367
+2233	P	Carottes Râpées (Aldi)	294428
+2234	P	Chewing-Gum (sans Sucre)	294494
+2235	P	Chewing-Gum(Sucrée)	294610
+2236	P	Chewing Gum (Malabar)	294830
+2237	P	Chewing-Gum	294926
+2238	P	Brioche Tressée (Harry's)	295091
+2239	P	Brioche Tressée (Leader Price)	295157
+2240	P	Brioche Tressée (Tous les Jours)	295196
+2241	P	Brioche Tressée (Dia)	295259
+2242	P	Brioche Tressée (Casino)	295323
+2243	P	Brioche Tressée (Maître Jean Pierre)	295397
+2244	P	Biscuits Chocolat au Lait (Carrefour Discount)	295457
+2245	P	Biscuits Nappés Chocolat au Lait (Bio Village)	295563
+2246	P	Biscuits Tablette Chocolat au Lait (Bio Village)	295654
+2247	P	Soupe Ramen (Picard)	295725
+2248	P	Korean Ramen XL Goût Bœuf (Mr Min)	295824
+2249	P	Ramen Soja Caramel (Tanoshi)	295937
+2250	P	Bouillon de Boeuf	295984
+2251	P	Bouillon de Poulet	296181
+2252	P	Tarte Fine au Thon (Marque Repère)	296342
+2253	P	Tarte Thon Tomates (Auchan)	296439
+2254	P	Tarte aux Noix de Pécan	296509
+2255	P	Thon Blanc (Égouttés Solides dans l'Eau, en Conserve)	296684
+2256	P	Thon Albacore (Poisson)	296827
+2257	P	Puddings au Chocolat	296995
+2258	P	Ravioli Pur Bœuf (Zapetti)	297208
+2259	P	Tortellini Ricotta Épinards (Turini)	297267
+2260	P	Ravioli Bolognaise (Panzani)	297308
+2261	P	Ravioli Pur Bœuf (Carrefour)	297373
+2262	P	Ravioli Farci au Fromage	297426
+2263	P	Ravioli Rempli de Viande	297605
+2264	P	Ravioli 4 Fromages (Turini)	297790
+2265	P	Ravioli Légumes (Jardin Bio)	297849
+2266	P	Ravioli Pur Bœuf (Panzani)	297915
+2267	P	Raviolis Jambon (Cora)	297982
+2268	P	Soupe à l'oignon (Maggi)	298051
+2269	P	Soupe Tomates Oignons Basilic (Knorr)	298152
+2270	P	Trempette de Crème Sure	298226
+2271	P	Steaks de Poulet (Iglo)	298408
+2272	P	Lentilles Vertes aux Lardons (Picard)	298515
+2273	P	Pizza Chèvre Lardons (Trattoria Alfredo)	298581
+2274	P	Lait Demi-Écrémé (Biotrend)	298648
+2275	P	Lait Demi Écrémé (Monoprix)	298698
+2276	P	Cacao et Mélange de Sucre (avec du Lait Faible en Gras)	298760
+2277	P	Lait (Lait Entier)	298920
+2278	P	Biscuits au Sucre (avec de la Margarine)	299155
+2279	P	Ligne Gourmande Noir 70% (Poulain)	299347
+2280	P	Ligne Gourmande (Poulain)	299420
+2281	P	Chocolat Noir 70% Ligne Gourmande (Poulain)	299483
+2282	P	Jus d'Orange	299552
+2283	P	Jus Multifruits (Carrefour)	299773
+2284	P	100% Pur Jus Multifruit (Joker)	299832
+2285	P	Jus de Pomme	299887
+2286	P	Multivitamines (Tropicana)	300179
+2287	P	Jus d'Orange Fraîchement Pressé	300243
+2288	P	Jus Multifruits (Auchan)	300486
+2289	P	Jus d'Orange (Réfrigéré, Comprend à partir de Concentré)	300535
+2290	P	Jus d'Orange Congelé (Reconstitué avec de l'Eau)	300718
+2291	P	Jus d'orange (Joker)	300932
+2292	P	Jus d'orange (Super U)	300995
+2293	P	Jus d'orange (Andros)	301064
+2294	P	100% Pur Jus Orange (Casino)	301116
+2295	P	Jus d'orange (Super U)	301184
+2296	P	Bueno (Kinder)	301238
+2297	P	Bueno (Kinder)	301352
+2298	P	Bueno White (Kinder)	301466
+2299	P	Duelto Chocolat (Weight Watchers)	301581
+2300	P	Yaourt aux Fruits (Weight Watchers)	301649
+2301	P	Recette Patissière (Weight Watchers)	301700
+2302	P	Crème aux Œufs (Weight Watchers)	301817
+2303	P	Recette à la Grecque (Weight Watchers)	301867
+2304	P	Barre Special K Chocolat au Lait (Kellogg's)	301931
+2305	P	Barre Spécial K Chocolat (Kellogg's)	301998
+2306	P	Prince (LU)	302069
+2307	P	Quatre-Quarts au Beurre	302132
+2308	P	Madeleine (25g) (Ker Cadelac)	302351
+2309	P	Petit Écolier (LU)	302407
+2310	P	Petit Gâteau au Chocolat	302487
+2311	P	Gâteau au Fromage et au Chocolat	302772
+2312	P	Petit Gâteau au Chocolat avec Glaçage ou Garniture	303086
+2313	P	Gâteau Marbré au Chocolat (Bonne Maman)	303471
+2314	P	Gâteaux aux Pépites de Chocolat (Délices de Kerloch)	303544
+2315	P	Petit Gâteau	303631
+2316	P	Génoise au Chocolat	303845
+2317	P	Gâteau au Citron	304183
+2318	P	Craquelins (avec du Beurre de Cacahuètes Comme Garniture)	304584
+2319	P	Son de Blé (Gerblé)	304770
+2320	P	Galette Maïs (Gerblé)	304845
+2321	P	Pain d'épices (Gerblé)	304913
+2322	P	Actimel (Danone)	305019
+2323	P	Actimel 0% Allégé en Sucres (Danone)	305084
+2324	P	Actimel 0% (Danone)	305160
+2325	P	Chimichanga avec du Boeuf et Fromage	305224
+2326	P	Enchilada avec du Fromage et du Boeuf	305378
+2327	P	Asperge (Égouttée Solide, en Conserve)	305530
+2328	P	Crèmes de Tapioca	305751
+2329	P	Pralines	305961
+2330	P	Chocolat Praline (Lindt)	306127
+2331	P	Praliné Fondant Lait (Côte d'Or)	306175
+2332	P	Chocolat Noir Praliné (Carrefour)	306249
+2333	P	Chocolat Noir Fourré au Praliné (Leader Price)	306310
+2334	P	Pause Praliné (Gayelord Hauser)	306416
+2335	P	Vanille Praliné (Extrême)	306494
+2336	P	Praliné Intense (Côte d'Or)	306578
+2337	P	Praliné et Noisettes Entières (Milka)	306642
+2338	P	Sauce de Poulet (en Conserve)	306707
+2339	P	Enchilada au Poulet et Fromage à Base de Sauce Tomate	306907
+2340	P	Pâtes (Cuites)	307111
+2341	P	Penne	307216
+2342	P	Spaghetti	307415
+2343	P	Macaroni	307611
+2344	P	Torsades (Barilla)	307923
+2345	P	Pâtes Carbonara	307988
+2346	P	Pâtes avec Sauce de Viande	308172
+2347	P	Fusilli (Barilla)	308345
+2348	P	Tagliatelle (Panzani)	308390
+2349	P	Pâté de Foie de Poulet (en Conserve)	308441
+2350	P	Pâte de Brioche à la Cannelle (avec Glaçage)	308604
+2351	P	Pâté de Foie d'Oie (Pâté de Foie Gras, Fumée en Conserve)	308733
+2352	P	Foie Gras	308888
+2353	P	Pâté de Foie (en Conserve)	309028
+2354	P	Pâte de Noix d'Amande	309190
+2355	P	Cheeseburger (un Seul Pâté avec Des Condiments)	309325
+2356	P	Pâté de Foie	309476
+2357	P	Lait de Coco (Monoprix)	309857
+2358	P	Lait de Coco (Suzi Wan)	309904
+2359	P	Lait de Coco (Picard)	309972
+2360	P	Lait de Coco (Jardin Bio)	310037
+2361	P	Crevettes Risotto Lait de Coco Basilic Thaï (Picard)	310104
+2362	P	Lait de Coco (Leader Price)	310220
+2363	P	Lait de Coco (Ayam)	310258
+2364	P	Madeleine	310316
+2365	P	Mâche	310508
+2366	P	Bouquets de Mâche (Auchan)	310612
+2367	P	Mâche (Bonduelle)	310687
+2368	P	Mâche (Saint Eloi)	310741
+2369	P	Bouquets de Mâche (Leader Price)	310779
+2370	P	Macédoine de Légumes (Marque Repère)	310829
+2371	P	Macédoine de Légumes (Carrefour)	310928
+2372	P	Macédoine de Légumes (Casino)	310993
+2373	P	Macédoine de Légumes (Saint Eloi)	311106
+2374	P	Macédoine (Auchan)	311144
+2375	P	Macaroni ou Nouilles au Fromage (Mélange Sec)	311205
+2376	P	Macaroni ou Nouilles au Fromage (Mélange en Boîte avec de la Sauce de Fromage)	311442
+2377	P	Crème de Macaroni au Fromage	311626
+2378	P	Macaroni ou Salade de Pâtes au Fromage	311760
+2379	P	Macaroni ou Nouilles au Fromage	311950
+2380	P	Pistaches	312158
+2381	P	Pistaches Grillées à Sec (sans Sel Ajouté)	312331
+2382	P	Pistaches Grillées à Sec (avec du Sel Ajouté)	312520
+2383	P	Macaroni et Fromage Comme Entrée (en Conserve)	312696
+2384	P	Onglet de Boeuf (Hippopotamus)	312845
+2385	P	Faux-Filet de Bœuf(Maigre Seulement, Taillé à 0,3 Cm Matières Grasses)	312903
+2386	P	Oeuf Brouillé	313016
+2387	P	Oeufs au Plat (Haribo)	313175
+2388	P	Paupiette de Veau	313213
+2389	P	Paupiette de Dinde (Picard)	313397
+2390	P	Paupiette de Veau (Tendriade)	313511
+2391	P	Paupiette de Porc (Lidl)	313554
+2392	P	Paupiette de Veau Jardinière de Légumes (Marie)	313620
+2393	P	Paupiettes de Saumon aux Poissons et aux Poireaux (Picard)	313685
+2394	P	Paupiette de Dinde (Carrefour)	313785
+2395	P	Paupiettes de Porc (Big West)	313828
+2396	P	Paupiettes de Veau (Picard)	313877
+2397	P	Pain de Mie sans Croûte Viennois (La Boulangère)	313935
+2398	P	Pain de Mie Complet sans Croûte Bio (La Boulangère)	314004
+2399	P	Pain de Mie Complet sans Croute (Dia)	314072
+2400	P	Pain de Mie Complet sans Croûte (Leader Price)	314192
+2401	P	Pain de Mie Complet sans Croûte (Weight Watchers)	314311
+2402	P	Pain de Mie Complet sans Croûte Délice de Mie (Carrefour)	314378
+2403	P	Pain de Mie Complet sans Croûte (Weight Watchers)	314490
+2404	P	Pain de Mie sans Croûte (Monoprix)	314593
+2405	P	Pain de Mie Nature sans Croûte (Carrefour)	314662
+2406	P	Pain Français Grillé ou de Vienne (y compris au Levain)	314728
+2407	P	Pain Italien	314959
+2408	P	Pain d'Avoine	315191
+2409	P	Nem	315355
+2410	P	Nems au Poulet (Traditions d'Asie)	315540
+2411	P	Nems au Porc (Super U)	315654
+2412	P	Nems au Porc (Casino)	315756
+2413	P	Nems Porc (Auchan)	315846
+2414	P	Nems Crevette (Carrefour)	315962
+2415	P	Nems au Poulet (Picard)	316068
+2416	P	Nem aux Légumes (Picard)	316135
+2417	P	Nems Volaille Menthe (Auchan)	316198
+2418	P	Nems Poulet (Carrefour)	316297
+2419	P	Mousse au Chocolat	316361
+2420	P	Mousse au Chocolat (Super U)	316553
+2421	P	Secret de Mousse Chocolat au Lait (La Laitière)	316645
+2422	P	Mousse au Chocolat Noir (Carrefour)	316755
+2423	P	Mousse au Chocolat au Lait (Auchan)	316849
+2424	P	Mousse au Chocolat au Lait (Carrefour)	316913
+2425	P	Mousse au Chocolat Noir (Michel et Augustin)	317014
+2426	P	Mousse au Chocolat au Lait (Bonne Maman)	317060
+2427	P	Mousse au Chocolat à l'ancienne (Marie Morin)	317120
+2428	P	Noix de Pécan Grillées à Sec (avec du Sel Ajouté)	317163
+2429	P	Noix de Pécan	317271
+2430	P	Noix de Pin Séchées	317457
+2431	P	Noix Anglais	317629
+2432	P	Noix de Muscade	317917
+2433	P	Yaourt Nature 0% (Carrefour)	318088
+2434	P	Yaourt Nature (Delisse)	318141
+2435	P	Yaourt Nature Velouté (Danone)	318210
+2436	P	Yaourt Nature Sucré (Danone)	318283
+2437	P	Yaourt Nature (Auchan)	318341
+2438	P	Yaourt Nature (U)	318397
+2439	P	Yaourt Nature 0% (Activia)	318469
+2440	P	Yaourt sur Lit de Myrtilles & Muesli (Starbucks)	318535
+2441	P	Zeste de Citron	318582
+2442	P	Sucralose (Canderel)	318770
+2443	P	Sucralose (Canderel)	318843
+2444	P	Édulcorants (Paquets de Splenda, Sucralose)	318904
+2445	P	Tagliatelles aux Œufs Frais (Auchan)	319019
+2446	P	Tropico (Tropico)	319087
+2447	P	Pain de Mie Complet Grandes Tranches (Auchan)	319131
+2448	P	Pain de Mie 7 Céréales Grandes Tranches (Auchan)	319249
+2449	P	Mozzarella (Lait Entier)	319364
+2450	P	Tomates Séchées au Soleil	319521
+2451	P	Tomates Séchées (Carrefour)	319692
+2452	P	Tomates Séchées Au Soleil (Sacla')	319758
+2453	P	Pesto Rosso aux Tomates Sechees (Panzani)	319804
+2454	P	Noix de Coco Séchée	319869
+2455	P	Méduse (Séchée au Sel)	319977
+2456	P	Citrouille Séchée et Noix de Pépins de Courge	320143
+2457	P	Flocons de Soja Toastés (Celnat)	320304
+2458	P	Toasté Coppa Emmental (Quick)	320356
+2459	P	Purée d'amandes Complètes Non Toastées (La Vie Claire)	320437
+2460	P	Nutri-Grain à Toaster Framboise (Kellogg's)	320502
+2461	P	Nutri-Grain à Toaster Abricot (Kellogg's)	320571
+2462	P	Nutri Grain à Toaster Chocolat (Kellogg's)	320650
+2463	P	Bonbons au Chocolat Blancs	320730
+2464	P	Noisette	320881
+2465	P	Coquilles à Tacos (Cuites aux Four)	321142
+2466	P	Danette Crousti Choco (Danone)	321415
+2467	P	Velouté Fruix Framboise (Danone)	321529
+2468	P	Danio Framboise (Danone)	321599
+2469	P	Café Latte	321691
+2470	P	Danette Expresso (Danone)	321946
+2471	P	Café (Brassé Expresso)	321990
+2472	P	Emmental Râpé (Carrefour)	322089
+2473	P	Emmental Français Râpé (Casino)	322150
+2474	P	Emmental Râpé (Président)	322224
+2475	P	Emmental Râpé (Marque Repère)	322269
+2476	P	Emmental Français Rapé (Leader Price)	322330
+2477	P	Clafoutis aux Cerises (La Laitière)	322369
+2478	P	Clafoutis aux Pommes Façon Tatin (La Laitière)	322482
+2479	P	Clafoutis Légumes du Soleil & Dés de Chèvre (Marie)	322581
+2480	P	Clafoutis aux Cerises (Leader Price)	322696
+2481	P	Clafoutis Griottes (Picard)	322801
+2482	P	Blanc de Poulet (Poulets à Rôtir  ou à Griller, Frits, Cuits)	322884
+2483	P	Blanc de Poulet (Poulets à Rôtir ou à Griller, Rôtis, Cuits)	323149
+2484	P	Cuisse de Poulet(Poulets à Rôtir ou à Griller, Rôtis, Cuits)	323443
+2485	P	Aile de Poulet et la Peau (Poulets à Rôtir ou à Griller, Rôtis, Cuits)	323735
+2486	P	Viande de Poulet (Torréfaction, Grillée, Cuite)	324011
+2487	P	Viande de Poulet Léger (Torréfaction, Grillée, Cuite)	324226
+2488	P	Aile de Poulet et la Peau(Poulets à Rôtir ou à Griller)	324482
+2489	P	Blanc de Poulet et la Peau (Poulets à Rôtir  ou à Griller)	324729
+2490	P	Blanc de Poulet (Poulets à Rôtir  ou à Griller)	324987
+2491	P	Clafoutis aux Tomates et aux Fromages de Chèvre et de Brebis (Picard)	325208
+2492	P	Clafouti Tomates Chèvre (Picard)	325316
+2493	P	Clafoutis aux Cerises (Delisse)	325413
+2494	P	16 Mini Clafoutis Apéritifs (Picard)	325522
+2495	P	Cœur de Palmier (Carrefour)	325588
+2496	P	Cœur de Palmiers (Géant Vert)	325646
+2497	P	Cœurs de Palmiers (Marque Repère)	325700
+2498	P	Cœur de Palmier (Notre Jardin)	325751
+2499	P	Cœurs de Palmiers (Fleurs Des Champs)	325821
+2500	P	Coeurs de Palmier (Carrefour Bio)	325933
+2501	P	Courgettes Cuisinées à la Provençale (Carrefour)	325999
+2502	P	Courgettes en Rondelles (Carrefour Bio)	326065
+2503	P	Courgettes Cuisinées (Jardin Bio)	326107
+2504	P	Petites Courges d'Eté Cuites	326147
+2505	P	Crème Sure (Cultivé)	326443
+2506	P	Compote Pomme Nature (Andros)	326637
+2507	P	Compote Pomme Poire sans Sucres Ajoutés (Andros)	326695
+2508	P	Compote Pomme Framboise (Taillefine)	326753
+2509	P	Compotée de Pommes (Cassegrain)	326816
+2510	P	Comté (Casino)	326859
+2511	P	Comté (Entremont)	326937
+2512	P	Comté (Les Croisés)	326996
+2513	P	Comté au Lait Cru (Dia)	327045
+2514	P	Comté le Montarlier (Président)	327099
+2515	P	Comté (Président)	327138
+2516	P	Comté (Super U)	327199
+2517	P	Comté Râpé (Casino)	327256
+2518	P	Cookies Tout Chocolat (Bio Village)	327318
+2519	P	Mini Cookies aux Pépites de Chocolat (Carrefour Bio)	327435
+2520	P	Cookies Pépites de Chocolat (Herta)	327499
+2521	P	Cookies Chocolat Bio (Leader Price)	327598
+2522	P	Cookies Chocolat Noisette (Bjorg)	327670
+2523	P	Gnocchi à Poêler (Lustucru)	327789
+2524	P	Gnocchi à Poêler (Cora)	327847
+2525	P	Gnocchi Balls à Poêler (Lustucru)	327911
+2526	P	Gnocchi à Poêler Fromage (Lustucru)	327970
+2527	P	Gnocchi à Poêler (Panzani)	328031
+2528	P	Gnocchi à l'alsacienne à Poêler (Stoeffler)	328098
+2529	P	Haricots Rouges (sans Sel, Cuits, Bouillis)	328142
+2530	P	Haricots Noirs (Graines Mûres, avec du Sel, Cuits, Bouillis)	328341
+2531	P	Pinto Cuit; Calicot ou Haricots Rouges	328458
+2532	P	Pinto Cuit, Calicot ou Haricots Rouges (Pas de Matières Grasses Ajoutées dans la Cuisson)	328755
+2533	P	Actimel Fraise (Danone)	329131
+2534	P	Fraises	329194
+2535	P	Nappages aux Fraises	329538
+2536	P	Poires	329742
+2537	P	Fromage Ail et Fines Herbes (Les Croisés)	330064
+2538	P	Poudre d'Ail	330121
+2539	P	Fromage Blanc aux Fruits (Mamie Nova)	330319
+2540	P	Fromage Fondu (Carrefour)	330362
+2541	P	Fromage Fondu (Carrefour)	330473
+2542	P	Bâtonnets de Poulet au Fromage Fondu (Auchan)	330532
+2543	P	La Fondue aux 3 Fromages (Président)	330594
+2544	P	Fromage Fondu (Eco +)	330633
+2545	P	Soupe A l'oignon au Fromage Fondu (Liebig)	330681
+2546	P	Fromage Fabriqué de Type Américain ou Cheddar	330744
+2547	P	Vinaigrette au Fromage Bleu et Roquefort	331032
+2548	P	Filet de Poulet (Carrefour)	331224
+2549	P	Filet de Poulet Rôti la Rôtisserie (Fleury Michon)	331264
+2550	P	Filet de Poulet (Monique Ranou)	331354
+2551	P	Filet de Poulet (Auchan)	331422
+2552	P	Nuggets au Filet de Poulet (Père Dodu)	331470
+2553	P	Filets de Poulet Blanc (Piquebroche)	331531
+2554	P	Filet de Poulet aux Herbes (Fleury Michon)	331595
+2555	P	Filet de Poulet (Netto)	331665
+2556	P	T-Bone (Coupé à 0 Cm Gras, Cuit, Grillé)	331707
+2557	P	T-Bone (Maigre Seulement, Coupé à 0 Cm Gras, Cuit, Grillé)	331846
+2558	P	Lait de Soja	331986
+2559	P	Génoise	332131
+2560	P	Asperges Blanches (Carrefour)	332306
+2561	P	Asperges Vertes (Carrefour)	332354
+2562	P	Asperges Blanches (Géant Vert)	332400
+2563	P	Asperge Cuite (à Partir de Frais)	332465
+2564	P	Pointes d'asperges (Carrefour)	332825
+2565	P	Asperges Vertes (Picard)	332867
+2566	P	Asperges Blanches Moyennes (Auchan)	332916
+2567	P	Asperges Vertes (Géant Vert)	332958
+2568	P	Poires (Solides et Liquides, Pack Sirop Léger, en Conserve)	333025
+2569	P	Poires Asiatiques	333239
+2570	P	Soufflé aux Épinards	333494
+2571	P	Pommes de Terre (Chair et Peau, sans Sel,Passées aux Micro-Onde)	333706
+2572	P	Pain aux Bananes (avec de la Margarine)	333923
+2573	P	Chausson aux Pommes	334081
+2574	P	Mini Chausson aux Pommes (La Brioche Dorée)	334282
+2575	P	Purée de Pommes de Terre (Lait Entier et Margarine Ajoutée)	334349
+2576	P	Pommes de Terre (Chair, sans Sel, Bouillies)	334535
+2577	P	Crêpes de Pommes de Terre	334727
+2578	P	Pains au Lait (Carrefour)	335003
+2579	P	Pain au Lait (Marque Repère)	335120
+2580	P	Pain au Lait (Auchan)	335228
+2581	P	Pain au Lait (Leader Price)	335313
+2582	P	Pain au Lait (Lidl)	335358
+2583	P	Pain au Lait (Monoprix)	335427
+2584	P	Pain au Lait (U)	335536
+2585	P	Baguette	335639
+2586	P	Pain Complet	335983
+2587	P	Pain de Campagne (Carrefour)	336167
+2588	P	Pain Multigrain	336236
+2589	P	Pain Grillé	336490
+2590	P	Pain Grillé aux 6 Céréales (Pelletier)	336739
+2591	P	Farce au Pain (Mélange Sec)	336835
+2592	P	Yop Fraise (Yoplait)	336957
+2593	P	P'tit Yop (Yoplait)	337000
+2594	P	Yop Vanille (Yoplait)	337059
+2595	P	Yop Chocolat (Yoplait)	337123
+2596	P	Yop Citron (Yoplait)	337186
+2597	P	Yop Coco (Yoplait)	337252
+2598	P	Lait Fermenté Yorik (Yoplait)	337295
+2599	P	Petit Yoplait (Yoplait)	337357
+2600	P	Yop Corossol (Yoplait)	337445
+2601	P	Petit Suisse (Yoplait)	337488
+2602	P	Yaourt Aromatisé (U)	337532
+2603	P	Yaourt Sucré Aromatisé (Milbona)	337610
+2604	P	Yaourt Aromatisé 0% (U)	337663
+2605	P	Yaourt Aromatisé 0% (Carrefour)	337731
+2606	P	Yaourt Aromatise 0% (Dia)	337806
+2607	P	Monster Munch (Vico)	337874
+2608	P	Café (Brassée à partir de Motifs)	337978
+2609	P	Viande d'Elan Hachée	338146
+2610	P	Viande de Bison Hachée	338259
+2611	P	Dinde Hachée (Cuite)	338373
+2612	P	Légumes et un Rouleau de Papier de Riz avec de la Viande et / ou Crevettes	338586
+2613	P	Sauce de Spaghetti Style Fait Maison à la Viande et les Légumes	338827
+2614	P	Pizza à Croûte Mince avec de la Viande	339016
+2615	P	Spaghetti de Blé Entier avec Sauce de Viande	339416
+2616	P	Cheesecake (Picard)	339600
+2617	P	Cheesecake	339669
+2618	P	Cheesecake au Spéculoos (Gü)	339880
+2619	P	Cheesecake (Gü)	339961
+2620	P	Cheesecake Speculoos (Saint Amour)	340074
+2621	P	Cheesecake Citron (Gü)	340159
+2622	P	Cheesecake Chocolat & Vanille (Gü)	340265
+2623	P	Cheesecake Mangue Passion (Pot) (Gü)	340383
+2624	P	Strawberry Cheesecake (Häagen-Dazs)	340489
+2625	P	Cheesecake au Citron (Leader Price)	340560
+2626	P	Yaourt au Sucre de Canne (Mamie Nova)	340629
+2627	P	Yaourt Brassé Nature (Monoprix)	340700
+2628	P	Yaourt Nature Brassé (Auchan)	340775
+2629	P	Yaourt Brassé Nature (Carrefour)	340832
+2630	P	Yaourt Brassé Nature (Casino Bio)	340884
+2631	P	Yaourt Brassé Nature 0% (Delisse)	340958
+2632	P	Yaourt Nature Brassé 0% (Auchan)	341020
+2633	P	Yaourt Bio Brassé Nature (Les 2 Vaches)	341096
+2634	P	Yaourt à la Confiture de Fraise (Bonne Maman)	341200
+2635	P	Yaourt Fraise Citron Vert (La Fermière)	341283
+2636	P	Tartiflette	341339
+2637	P	Tartiflette au Reblochon (Fleury Michon)	341530
+2638	P	Lunch Box Tartiflette (Lustucru)	341605
+2639	P	La Tartiflette (William Saurin)	341647
+2640	P	Thon à l'Huile (en Conserve)	341715
+2641	P	Thon dans l'Eau (en Conserve)	341910
+2642	P	Crispy Tender (KFC)	342178
+2643	P	Fromage Blanc Sucré (Mamie Nova)	342224
+2644	P	Fromage Blanc Sucré (Délisse)	342266
+2645	P	Fromage Blanc Sucré (Delisse)	342324
+2646	P	Noix de Pecans Sucrées (Sucre et Blanc d'Oeuf Enduit)	342382
+2647	P	Tomate Farcie	342587
+2648	P	Tomates Farcies Riz à la Tomate (Marie)	342810
+2649	P	Tomate Farcie (Picard)	342878
+2650	P	Tomates Farcies (Carrefour)	342962
+2651	P	Tomates Farcies (Auchan)	343029
+2652	P	Tomates Farcies (Charal)	343114
+2653	P	Mon Gratin Façon Tomates Farcies (La Cuisine d'Océane)	343167
+2654	P	Tomate Farcie (Auchan)	343248
+2655	P	Tomates Farcies et Riz Cuisiné (Leader Price)	343290
+2656	P	Tomates Farcies (Bigard)	343401
+2657	P	Côtelette de Porc	343442
+2658	P	Échine de Porc	343817
+2659	P	Côtelette de Porc Grillée ou Cuite au Four	343945
+2660	P	Côtelettes de Porc (Longe de Haut, Désossé)	344320
+2661	P	Foie de Porc	344433
+2662	P	Côtes de Porc Désossées Marinées au Thym et au Romarin (Picard)	344551
+2663	P	Côtelette de Porc Frite	344639
+2664	P	Côtelette de Porc Grillée ou Cuite au Four Panée ou Farinée	345014
+2665	P	Steak de Porc ou Côtelette	345412
+2666	P	Longe de Porc (Entier, Maigre Seulement)	345784
+2667	P	Crumble aux Pommes (Thiriet)	345995
+2668	P	Crumble	346037
+2669	P	Pommes de Terre (Peau, avec du Sel, Bouillies)	346221
+2670	P	Pommes de Terre (Chair sans Peau, sans Sel, Bouillies)	346349
+2671	P	Pommes de Terre (Chair, avec du Sel, Bouillies)	346640
+2672	P	Pommes de Terre Cuites, Écrasées et Brunies dans de l'Huile	346832
+2673	P	Courgettes (avec du Sel, Égouttées, Cuites, Bouillies)	346981
+2674	P	Mini-Courgettes	347147
+2675	P	Spécial Croque-Monsieur (Leerdammer)	347298
+2676	P	Fromage Croque Monsieur (Lidl)	347360
+2677	P	Fromage Fondu Spécial Croque Monsieur (Leader Price)	347421
+2678	P	Mini Croque-Monsieur (Picard)	347460
+2679	P	Lait Condensé Non Sucré	347565
+2680	P	Mûres (sans Sucre, Congelées)	347744
+2681	P	Bleuets (sans Sucre, Congelés)	347936
+2682	P	Dinde	348134
+2683	P	Sauté de Dinde (Picard)	348475
+2684	P	Cuisse de Poulet Rôtie Grillée ou Cuite au Four	348539
+2685	P	Cuisse de Poulet Recouverte de Peau Cuite ou Frit(Peau / Revêtement Mangé)	348914
+2686	P	Cuisse de Poulet Rôtie Grillée ou Cuite au Four (Peau Mangée)	349310
+2687	P	Cuisse de Poulet (Le Gaulois)	349685
+2688	P	Cuisse de Poulet (Picard)	349727
+2689	P	Croissant au Chocolat	349791
+2690	P	Croquettes de Poisson Ail et Fines Herbes (Findus)	349983
+2691	P	Croquettes de Poisson (Carrefour)	350048
+2692	P	Croquettes de Poisson (Lidl)	350089
+2693	P	Croquette de Poisson Nature (Super U)	350186
+2694	P	Épinards Hachés à la Crème Fraîche (Findus)	350265
+2695	P	Épinards Cuits (à partir de Frais)	350325
+2696	P	Épinards (Égouttés Solides, en Conserve)	350509
+2697	P	Épinard à la Crème (Casino)	350692
+2698	P	Épinards Hachés à la Crème (Auchan)	350758
+2699	P	Pommes de Terre Russet (Chair et Peau, Cuites au Four)	350824
+2700	P	Pommes de Terre Blanches (Chair et Peau, Cuites au Four)	351150
+2701	P	Pommes de Terre Rouges (Chair et Peau, Cuites au Four)	351476
+2702	P	Croustilles Tortillas (Faible en Gras, Cuites au Four)	351752
+2703	P	Escalope de Poulet (Le Gaulois)	351849
+2704	P	La Belle Escalope de Poulet (Le Gaulois)	351889
+2705	P	Escalopes de Poulet (Picard)	351928
+2706	P	Escalope de Poulet Panure Fine et Croustillante (Picard)	351974
+2707	P	Viande de Poulet Léger (Grillage)	352093
+2708	P	Éclair au Café (Picard)	352310
+2709	P	Éclair au Chocolat	352383
+2710	P	Écrevisse Bouillie ou à la Vapeur	352526
+2711	P	Échalotes	352778
+2712	P	Fondue d'échalotes (Charal)	352958
+2713	P	Kimchi	353016
+2714	P	Saumon Beurre d'échalotes Écrasée de Pommes de Terre (Fleury Michon)	353199
+2715	P	Trio de Crudités à l'échalote et Persil (Bonduelle)	353279
+2716	P	Pavé de Boeuf à l'échalote (Tendre et Plus)	353341
+2717	P	Blé Précuit à la Vapeur (Ebly)	353385
+2718	P	Blé à Poêler (Ebly)	353429
+2719	P	Blé à Poêler Persillade (Ebly)	353480
+2720	P	Tomates Rouges	353547
+2721	P	Tomates Rouges (en Conserve)	353943
+2722	P	Tomates Écrasées (en Conserve)	354240
+2723	P	Chou-Fleur Cuit (à partir de Frais)	354350
+2724	P	Gratin de Choux Fleur (Aldi)	354739
+2725	P	Gratin de Choux Fleurs (Picard)	354806
+2726	P	Chou-Fleur Cuit (à partir de Frais,Pas de Matières Grasses Ajoutées dans la Cuisson)	354872
+2727	P	Chou-Fleur Cuit (Pas de Matières Grasses Ajoutées dans la Cuisson)	355220
+2728	P	Chou-Fleur Cuit (à l'Etat Congelé,Pas de Matières Grasses Ajoutées dans la Cuisson)	355402
+2729	P	Gratin de Choux Fleurs (Carrefour)	355624
+2730	P	Chou-Rave	355743
+2731	P	Choux Fleur (Florette)	355895
+2732	P	Chouquette	355935
+2733	P	Coca-Cola Cherry (Canette) (Coca-Cola)	356130
+2734	P	Coca-Cola Cherry (Coca-Cola)	356231
+2735	P	Soude Cola (avec de la Caféine)	356290
+2736	P	Chococino (Nescafé)	356639
+2737	P	Chocapic (Nestlé)	356755
+2738	P	Chocapic (Nestlé)	356824
+2739	P	Barre Chocapic (Nestlé)	356880
+2740	P	Chocapic Duo (Nestlé)	356949
+2741	P	Chocapic Cœur Fondant (Nestlé)	357016
+2742	P	Chocapic Pépites (Nestlé)	357081
+2743	P	Chips à l'ancienne (Leader Price)	357146
+2744	P	Chips à l'ancienne (Lay's)	357239
+2745	P	Chips à l'ancienne (Pom'lisse)	357339
+2746	P	Chips A l'ancienne (Carrefour)	357405
+2747	P	Chips à l'ancienne (Lay's)	357444
+2748	P	Chocolat Caramel (Milka)	357503
+2749	P	Trésor Choco Caramel (Kellogg's)	357584
+2750	P	Pause Chocolat aux Éclats de Noisettes Caramélisées (Gayelord Hauser)	357642
+2751	P	Céréales Caramel Chocolat (Leader Price)	357721
+2752	P	Moelleux Chocolat Caramel au Beurre Salé (Picard)	357821
+2753	P	Barres Chocolat Lait et Caramel (Gayelord Hauser)	357929
+2754	P	Chocolat au Lait Pépites de Caramel (Monoprix Gourmet)	358020
+2755	P	Grand Chocolat Caramel Pointe de Sel (Nestlé)	358061
+2756	P	Choco Caramel (Carrefour)	358157
+2757	P	Chipolatas	358239
+2758	P	Chipolatas (Picard)	358417
+2759	P	Chipolata (Aldi)	358500
+2760	P	Chips	358596
+2761	P	Chips (Lay's)	358985
+2762	P	Chips (Vico)	359070
+2763	P	Chips (Leader Price)	359138
+2764	P	Chips Nature (Lay's)	359222
+2765	P	Chips Barbecue (Lay's)	359342
+2766	P	Tortilla Chips (Old El Paso)	359403
+2767	P	Chips Barbecue (Leader Price)	359472
+2768	P	Ravioli Chinois	359555
+2769	P	Mini Chinois (Lidl)	359783
+2770	P	Le Chinois (Leader Price)	359856
+2771	P	Petit Chinois (Fournée Dorée)	359896
+2772	P	Chinois (Aldi)	359955
+2773	P	Chocolat en Poudre Grand Arôme (Poulain)	360024
+2774	P	Chocolat en Poudre (Benco)	360110
+2775	P	Cacao en Poudre (Non Sucré)	360156
+2776	P	Chocolat en Poudre (Ovomaltine)	360339
+2777	P	Chocolat en Poudre (Poulain)	360404
+2778	P	Chocolat en Poudre (Canderel)	360448
+2779	P	Ferrero Rocher (Ferrero)	360514
+2780	P	Chocolat Doux ou Noir	360568
+2781	P	Chocolat Au Lait Extra-Fin (Super U)	360832
+2782	P	Noir Extra (Poulain)	360904
+2783	P	Chocolats (Jeff de Bruges)	360975
+2784	P	Chocolat au Lait (Côte d'Or)	361062
+2785	P	Chocolat Lait Noisettes (Côte d'Or)	361137
+2786	P	Crêpes au Fromage (Marque Repère)	361190
+2787	P	Croissants au Fromage	361250
+2788	P	Le Petit Pot de Crème aux Marrons (La Laitière)	361455
+2789	P	Pommes Poires & Crème de Marrons (Charles & Alice)	361499
+2790	P	Craquinette Fraise (LU)	361563
+2791	P	Petit Pot de Creme Coco (Leader Price)	361685
+2792	P	Panés de Colin d'alaska (Auchan)	361740
+2793	P	Filet de Colin Pané (Carrefour)	361809
+2794	P	Bâtonnets Panés de Colin (Iglo)	361875
+2795	P	Panés au Colin d'alaska (Atlantic)	361949
+2796	P	Filet de Colin d'alaska Pané (Cité Marine)	362019
+2797	P	Crème de Coco Allégée (Ayam)	362089
+2798	P	Crème de Coco (Suzi Wan)	362151
+2799	P	Crème de Coco (Kara)	362219
+2800	P	Crème à la Noix de Coco (Carrefour)	362280
+2801	P	Crème Anglaise	362348
+2802	P	Crème Anglaise (Bridélice)	362516
+2803	P	Crème Anglaise (Elle & Vire)	362559
+2804	P	Flan Caramel (Mélange Sec)	362601
+2805	P	Crème Anglaise (Carrefour)	362736
+2806	P	Crème Anglaise (Belle France)	362800
+2807	P	Compote Pomme Fraise (Carrefour)	362844
+2808	P	Compote Pomme Fraise (Taillefine)	362904
+2809	P	Compote Pomme Fraise (Vergers Gourmands)	362963
+2810	P	Compote Pomme Fraise (Casino)	363025
+2811	P	Compote Pomme Fraise (Auchan)	363082
+2812	P	Compote Pomme Fraise (Materne)	363149
+2813	P	Compote Pomme Fraise (Paquito)	363213
+2814	P	Aubergine	363279
+2815	P	Cos ou la Laitue Romaine	363500
+2816	P	Colin d'alaska Pané (Odyssée)	363733
+2817	P	Panées de Colin d'alaska (Picard)	363800
+2818	P	Colin d'alaska Pané (Casino)	363865
+2819	P	Bâtonnets Panés de Colin d'alaska (Picard)	363924
+2820	P	Velouté de Légumes Poêlés (Liebig)	363991
+2821	P	Velouté de Légumes (Liebig)	364074
+2822	P	Velouté de 9 Légumes (Knorr)	364155
+2823	P	Velouté de Légumes Verts (Liebig)	364220
+2824	P	Velouté de Légumes et Tomates à la Provençale (Liebig)	364286
+2825	P	Velouté de Légumes (Belle France)	364341
+2826	P	Velouté de Légumes (KOT)	364382
+2827	P	Velouté de 9 Légumes (Marque Repère)	364457
+2828	P	Velouté de Légumes (Lidl)	364516
+2829	P	Velouté de Légumes du Soleil (Super U)	364583
+2830	P	Boudin de Porc (Fumé)	364650
+2831	P	Boeuf Haché (70% de Maigre / 30% de Matières Grasses)	364840
+2832	P	Gruyère Allégé (Les Croisés)	364973
+2833	P	Glace	365029
+2834	P	Caramel au Beurre Salé (Häagen-Dazs)	365349
+2835	P	Almond (Magnum)	365419
+2836	P	Glace Vanille (Carte D'Or)	365525
+2837	P	Barre de Crème Glacée ou un Bâton Enrobé de Chocolat	365564
+2838	P	Vanilla Caramel Brownie (Häagen-Dazs)	365761
+2839	P	Glaces à la Vanille Légères(sans Sucre Ajouté)	365807
+2840	P	Velouté de Tomates (Liebig)	365992
+2841	P	Velouté de Tomates et Pointe de Mascarpone (Knorr)	366069
+2842	P	Velouté de Tomates (Auchan)	366128
+2843	P	Velouté de Tomates (Lidl)	366189
+2844	P	Veloute de Tomate (Toque du Chef)	366256
+2845	P	Velouté de Tomates (Marque Repère)	366324
+2846	P	Velouté de Légumes et Tomates à la Provençale (Liebig)	366389
+2847	P	Velouté de Tomates (Casino)	366464
+2848	P	Velouté de Tomates (Super U)	366531
+2849	P	Vinaigrette Light Fines Herbes (Vandemoortele)	366594
+2850	P	Vinaigrette Italienne	366653
+2851	P	Vinaigrette Française	366839
+2852	P	Vinaigrette Italienne (Hypocalorique)	367054
+2853	P	Vinaigrette Française (Hypocalorique)	367223
+2854	P	Vinaigrette César	367367
+2855	P	Vinaigrette César (Basses Calories)	367552
+2856	P	Vinaigrette Française (Réduite en Matières Grasses)	367722
+2857	P	Homard	367915
+2858	P	Homard Cuit à la Vapeur ou Bouilli	368309
+2859	P	Homard Cuit au Four ou Grillé	368703
+2860	P	Langoustine	369096
+2861	P	Bisque de Homard (Liebig)	369251
+2862	P	Maïs Jaune Doux (Grains sur l'Epi, sans Sel, Congelés, Égouttés, Cuits, Bouillis)	369294
+2863	P	Maïs Jaune Doux (Grains sur l'Epi, avec du Sel, Congelés, Égouttés, Cuits, Bouillis)	369509
+2864	P	Haricots Pinto (Graines Mûres)	369723
+2865	P	Haricots Verts Faibles en Sodium (en Conserve)	369878
+2866	P	Vinaigrette Italienne (Réduite en Matières Grasses)	370063
+2867	P	Vinaigrette Française (sans Gras)	370251
+2868	P	Bacon sans Viande	370450
+2869	P	Saucisse sans Viande	370634
+2870	P	Haricots Verts(Congelés)	370828
+2871	P	Brocoli (Lances, Congelés)	370974
+2872	P	Choux de Bruxelles (Congelés)	371109
+2873	P	Maïs Jaune Doux (Grains Coupés de l'Epi, Congelés)	371239
+2874	P	Frangipane	371435
+2875	P	Frangipane (Lotus)	371575
+2876	P	La Mousse au Fromage Blanc sur Fruits (Taillefine)	371646
+2877	P	Finesse au Fromage Blanc sur Fruits (Weight Watchers)	371761
+2878	P	Filets de Colin (Carrefour)	371825
+2879	P	Filet de Colin d'alaska Meunière (Picard)	371882
+2880	P	Filet de Colin d'alaska (Carrefour)	371926
+2881	P	Filets de Colin d'alaska (Golden Seafood)	371967
+2882	P	Filet Meunière de Colin d'alaska (Leader Price)	372030
+2883	P	Filets de Colin d'alaska (Casino)	372073
+2884	P	Fromage (Ficello)	372132
+2885	P	Flan Patissier aux Oeufs (Alsa)	372209
+2886	P	Fondue Savoyarde	372313
+2887	P	Foie de Bœuf	372430
+2888	P	Gaufrette Fourrée Lait Noisette (Favorini)	372532
+2889	P	Gaufrettes Enrobées de Chocolat (Carrefour)	372605
+2890	P	Caofret (Chabrior)	372666
+2891	P	Quadro (Cémoi)	372785
+2892	P	Macumba (LU)	372859
+2893	P	Chocowafer (Milka)	372929
+2894	P	Gaufres Liegeoises (Aldi)	372977
+2895	P	Barre de Céréales Chocolat (Grany)	373018
+2896	P	Barre de Céréales aux Fruits Rouges (Super U)	373106
+2897	P	Barre de Céréales Chocolat Noir (Super U)	373214
+2898	P	Barre de Céréales (Nesquik)	373323
+2899	P	Barre 5 Céréales et Morceaux de Chocolat (Grany)	373396
+2900	P	Barre de Céréales à l'abricot (E.Leclerc)	373508
+2901	P	Barre de Céréales Pomme (Grany)	373579
+2902	P	Barres de Céréales Pomme (Chabrior)	373692
+2903	P	Imitation du Roi de Crabe de l'Alaska (à Base de Surimi)	373798
+2904	P	Maxi Galettes de Riz au Chocolat Noir (Karéléa)	373911
+2905	P	Galettes de Riz au Chocolat (Bonneterre)	373980
+2906	P	Galette de Riz Chocolat Noir (Auchan Bio)	374047
+2907	P	Barres aux Céréales Fruits Rouges (Auchan)	374114
+2908	P	Barre de Céréales (Lidl)	374221
+2909	P	Barres Céréales Abricot (Casino)	374269
+2910	P	Barre Céréales Chocolat (Brin de Jour)	374381
+2911	P	Kiwi	374429
+2912	P	Boisson Pomme Kiwi (Auchan)	374651
+2913	P	Smoothie Kiwi Pomme Ananas (Innocent)	374710
+2914	P	Beurre de Cacahuètes Lisse (Teneur Réduite en Gras)	374758
+2915	P	Beurre de Cacahuètes en Morceaux (avec du Sel)	374862
+2916	P	Beurre de Cacahuètes Lisse (avec du Sel)	375053
+2917	P	Beurre	375244
+2918	P	Oméga 3 (St Hubert)	375455
+2919	P	Beurre (Salé)	375566
+2920	P	Beurre (Planta Fin)	375778
+2921	P	St Hubert 41 (St Hubert)	375847
+2922	P	Beurre Doux (Président)	375915
+2923	P	Beurre 40% (Aldi)	375953
+2924	P	Beurre Léger 41% (Elle & Vire)	376013
+2925	P	Bavette de Boeuf	376078
+2926	P	Bavette d'aloyau (Charal)	376191
+2927	P	Bifteck de Bavette d'aloyau (Picard)	376235
+2928	P	Fajita au Bœuf et Légumes	376290
+2929	P	Biscotte de Seigle	376493
+2930	P	Biscotte de Blé	376826
+2931	P	Dragée Amande	376993
+2932	P	Dragées à la Gelée de Sucre	377146
+2933	P	Biscotte Minceur (Brioche Pasquier)	377292
+2934	P	Biscottes au Froment (Casino)	377404
+2935	P	Biscottes Forme + (Heudebert)	377487
+2936	P	Fraise/Kiwi (Fanta)	377605
+2937	P	Jus Pomme Kiwi (Carrefour)	377660
+2938	P	Citron Vert et Kiwi (Mister Cocktail)	377726
+2939	P	Steak Américain de Boeuf (Coupé à 0,5 Cm Matières Grasses)	377769
+2940	P	Cheddar ou du Fromage Américain (sans Gras, Pasteurisé)	377883
+2941	P	16 Mini-Croustillants Apéritifs (Picard)	378088
+2942	P	Salade et Apéritif Ail et Fines Herbes (Boursin)	378151
+2943	P	Trésor Chocolat au Lait (Kellogg's)	378191
+2944	P	Muesli Classic (Carrefour)	378284
+2945	P	Fitness Chocolat (Nestlé)	378353
+2946	P	Aile de Raie	378410
+2947	P	Ailes de Raie (Picard)	378570
+2948	P	Caviar	378625
+2949	P	Cerf / Chevreuil	378783
+2950	P	Viande de Cerf Hachée	379045
+2951	P	Venaison Salé / Chevreuil	379158
+2952	P	Venaison Bouillie / Chevreuil	379331
+2953	P	Céréales Riz et Blé Complet Nature (Fine Ligne)	379530
+2954	P	Céréales (Nesquik)	379594
+2955	P	Muesli Noisettes (Terres et Céréales Bio )	379661
+2956	P	Céréales Fruits & Fibres (Carrefour)	379729
+2957	P	Céréales Fourrées Chocolat (Monoprix)	379825
+2958	P	Céréales Fitness Nature (Nestlé)	379887
+2959	P	Ricotta (Lait Partiellement Écrémé)	379954
+2960	P	Carottes Râpées au Citron (Carrefour)	380091
+2961	P	Carottes Râpées (Bonduelle)	380158
+2962	P	Carottes Râpées Vinaigrette Allégée (Monoprix)	380221
+2963	P	Miel	380282
+2964	P	Spécial K Nature (Kellogg's)	380445
+2965	P	Son d'avoine	380544
+2966	P	Special K Chocolat Noir (Kellogg's)	380688
+2967	P	Spécial K Chocolat au Lait (Kellogg's)	380805
+2968	P	Tofu Soyeux Ferme Allégé	380895
+2969	P	Candy'up Vanille (Candia)	381057
+2970	P	Candy'up Arôme Fraise (Candia)	381130
+2971	P	Cassoulet (William Saurin)	381193
+2972	P	Cassoulet (Marque Repère)	381253
+2973	P	Cassoulet de Castelnaudary (Nos Régions Ont du Talent)	381364
+2974	P	Cassoulet (Super U)	381403
+2975	P	Cassoulet Toulousain (Carrefour)	381509
+2976	P	Cassoulet (Carrefour)	381631
+2977	P	Cassoulet Pur Porc (Les Légendaires)	381698
+2978	P	Cassoulet au Confit de Canard (Leader Price)	381766
+2979	P	Cassoulet au Confit de Canard (La Belle Chaurienne)	381832
+2980	P	Cassoulet (d'Aucy)	381877
+2981	P	Aiguillettes de Poulet (Le Gaulois)	381918
+2982	P	Fines Aiguillettes de Poulet Grillé (Fleury Michon)	381958
+2983	P	Aiguillettes de Poulet (Carrefour)	382029
+2984	P	Fines Aiguillettes de Poulet Grillé (Fleury Michon)	382067
+2985	P	Aiguillettes de Poulet Marinées au Citron (Picard)	382125
+2986	P	Aiguillettes de Poulet Grillées (Le Gaulois)	382176
+2987	P	Aiguillettes de Poulet à la Moutarde et au Citron, Écrasée de Pommes de Terre et de Carottes (Picard)	382216
+2988	P	Aiguillettes de Poulet (Picard)	382325
+2989	P	Aiguillettes de Poulet Sauce Normande et Riz (Marque Repère)	382387
+2990	P	Aiguillettes de Poulet Tandoori (Picard)	382502
+2991	P	Champignons Portabella (Grillés)	382550
+2992	P	Champignons	382658
+2993	P	Champignons de Paris (Sautés)	382936
+2994	P	les Champignons (Égouttés Solides, en Conserve)	383112
+2995	P	Champignons Portabella	383337
+2996	P	Champignons Bruns (Italien Crimini)	383503
+2997	P	Pleurote	383666
+2998	P	Chai Tea Latte (Nescafé)	383818
+2999	P	Chai Latte (Tassimo)	383926
+3000	P	Chai Latte Lemongrass (Tassimo)	384036
+3001	P	Chai Latte (Carrefour)	384146
+3002	P	Chai Tea Latte (Dolce Gusto)	384254
+3003	P	Cheddar ou Fromage de Type Américain	384366
+3004	P	Burger Cheddar et Emmental (Président)	384673
+3005	P	Fromage Naturel	384716
+3006	P	Cheddar ou Fromage Colby Faible en Matières Grasses	384998
+3007	P	Le Suédois Jambon Cheddar Fondu (Sodeb'O)	385261
+3008	P	Chèvre Frais 15% (Petit Billy)	385356
+3009	P	Tarte Chèvre Épinards (Crusti Frais)	385397
+3010	P	Douceur de Courgettes au Chèvre Frais (Knorr)	385442
+3011	P	Chèvre Chaud (Valcrest)	385503
+3012	P	Sundae au Caramel Chaud	385543
+3013	P	Chèvre Frite	385697
+3014	P	Bouillon de Volaille et Vermicelles (Royco)	385918
+3015	P	Bouillon de Volaille et Vermicelles (Royco)	385993
+3016	P	Crocodiles (Haribo)	386054
+3017	P	Tagada (Haribo)	386118
+3018	P	Dragibus Soft (Haribo)	386156
+3019	P	Long Fizz (Lutti)	386196
+3020	P	Schtroumpfs PIK (Haribo)	386256
+3021	P	Régal'ad (Krema)	386294
+3022	P	Caramel (Carambar)	386396
+3023	P	M&M's Chocolat Noir (M&M's)	386457
+3024	P	Chamallows (Haribo)	386526
+3025	P	Brioche à la Cannelle Sucrée	386576
+3026	P	Brioche Dépoli à la Cannelle Sucrée	386828
+3027	P	Brioche Tranchée Light (Harry's)	387079
+3028	P	Croissant (Brioche Pasquier)	387180
+3029	P	Grillettines Minceur (Brioche Pasquier)	387265
+3030	P	Grillettines aux Céréales (Brioche Pasquier)	387349
+3031	P	100% Mie Brioché (Harry's)	387430
+3032	P	Blédine Croissance Vanille Gourmande (Blédina)	387544
+3033	P	Petits Légumes Pomme de Terre Colin (Blédina)	387600
+3034	P	Compote Pomme Abricot (Blédina)	387668
+3035	P	Blédilait Croissance (Blédina)	387734
+3036	P	Saumon Légumes (Blédina)	387794
+3037	P	Légumes Verts Poulet (Blédina)	387863
+3038	P	Purée 3 Légumes (Blédina)	387905
+3039	P	Petit Déjeuner Brut de Céréales (LU)	387969
+3040	P	Petit Écolier Chocolat au Lait (LU)	388055
+3041	P	Petit Déjeuner (LU)	388137
+3042	P	Biscuits Petit Déjeuner Muesli Fruits (Sondey)	388219
+3043	P	Biscuits Petit-Dejeuner (Bio Village)	388273
+3044	P	Biscuits Petit Déjeuner (Carrefour)	388342
+3045	P	Biscuits Petit Dejeuner (Eco +)	388412
+3046	P	Biscuit Petit Déjeuner (Lidl)	388524
+3047	P	Biscuit Petit Déjeuner (Lidl)	388591
+3048	P	Ravioli Bœuf aux Oignons (Marque Repère)	388661
+3049	P	Tortellini Bœuf aux Petits Oignons (Lustucru)	388722
+3050	P	Barre Céréalière Chocolat Cacahuète (Top Budget)	388778
+3051	P	Amandes Rôties à Sec (sans Sel Ajouté)	388841
+3052	P	Graines de Tournesol Grillées à Sec (avec du Sel Ajouté)	389016
+3053	P	Amandes Rôties à Sec (avec du Sel Ajouté)	389140
+3054	P	Cacahuètes Rôties à Sec (avec du Sel)	389317
+3055	P	Cake aux Fruits (Auchan)	389446
+3056	P	Cake aux Fruits (Carrefour)	389563
+3057	P	Cake aux Fruits (Casino)	389628
+3058	P	Cake aux Fruits (Brossard)	389669
+3059	P	Mini Cakes aux Fruits (Auchan)	389772
+3060	P	Mini-Cakes aux Fruits Bio (Carrefour Bio)	389866
+3061	P	Caffè Latte Macchiato (Emmi)	389994
+3062	P	Chou Chinois (Bok-Choï, Pak-Choi)	390047
+3063	P	Brocoli Chinois (Cuits)	390222
+3064	P	Nougat Chinois	390405
+3065	P	Sauce de Soja (Shoyu) (Faible Teneur en Sodium)	390554
+3066	P	Purée de Céleri Rave (Picard)	390777
+3067	P	Purée Cuisinée de Céleris (Auchan)	390838
+3068	P	Purée Cuisinée de Carottes (Auchan)	390905
+3069	P	Purée de Carotte (Picard)	390992
+3070	P	Purée de Carottes (Saint Eloi)	391052
+3071	P	Purée de Carotte Pomme de Terre (Picard)	391118
+3072	P	Purée de Carottes (Carrefour Bio)	391176
+3073	P	Purée Délice Duo Douceur Carottes, Potiron, Crème (Bonduelle)	391222
+3074	P	Purée de Carottes au Cumin (Monoprix)	391287
+3075	P	Purée de Tomate (Jardin Bio)	391397
+3076	P	Purée de Tomates (Carrefour)	391464
+3077	P	Purée de Brocoli (Picard)	391526
+3078	P	Isolat de Protéine de Soja (Myprotein)	391584
+3079	P	Poudre de Protéine	391631
+3080	P	Poudre de Substituts de Repas Protéines	391812
+3081	P	Supplément de Protéines en Poudre	392048
+3082	P	Protéine de Lait Onctueuse (Myprotein)	392201
+3083	P	Egg Protéine (Nutrimuscle)	392280
+3084	P	Cookie Protéiné (Myprotein)	392336
+3085	P	Pur Protéines (Milical)	392422
+3086	P	Proteines Totales (Nutrimuscle)	392509
+3087	P	Riz Cantonais Express (Uncle Ben's)	392557
+3088	P	Riz Cantonais (Traditions d'Asie)	392641
+3089	P	Riz Cantonais (Auchan)	392706
+3090	P	Riz Cantonais (Carrefour)	392762
+3091	P	Riz Cantonais (Marque Repère)	392811
+3092	P	Riz A la Cantonaise (Picard)	392874
+3093	P	Riz Cantonais (Itinéraire des Saveurs)	392937
+3094	P	Riz Cantonais (Findus)	393019
+3095	P	Riz A la Cantonaise (Eco +)	393083
+3096	P	Burrito avec Boeuf et Fromage	393147
+3097	P	Burrito avec Poulet, Haricots et Fromage	393347
+3098	P	Burrito avec Poulet	393549
+3099	P	Burrito avec Des Haricots	393787
+3100	P	Burrito avec Boeuf	393935
+3101	P	Burrito avec Des Haricots et Fromage	394156
+3102	P	Burrito avec Boeuf et Haricots	394306
+3103	P	Petit-Déjeuner Burrito	394509
+3104	P	Burrito avec Boeuf, Haricots et Fromage	394696
+3105	P	Viande de Poulet et la Peau (Grillage)	394898
+3106	P	Viande de Caille et la Peau	395105
+3107	P	Pigeonneau (Pigeon) et la Peau	395299
+3108	P	Petit Beurre (LU)	395538
+3109	P	Petit Beurre Pocket (Super U)	395655
+3110	P	Petit Beurre aux Pépites de Chocolat (Chabrior)	395731
+3111	P	Le Petit Beurre (E.Leclerc)	395808
+3112	P	Petits Beurre Chocolat au Lait (Carrefour Discount)	395870
+3113	P	Petit Beurre (Bonne Maman)	395921
+3114	P	Danette Saveur Petit Beurre (Danone)	396006
+3115	P	Petit Beurre Chocolat au Lait (Cora)	396069
+3116	P	Petits-Beurre (Bio Village)	396147
+3117	P	Petit Beurre (Bien Vu)	396264
+3118	P	Le Petit Suisse (Gervais)	396306
+3119	P	Petit Lu Pepites de Chocolat (LU)	396406
+3120	P	Petit Suisse 0% (Yoplait)	396524
+3121	P	Petit Suisse (Casino)	396586
+3122	P	Petit Suisse 0% (Yoplait)	396679
+3123	P	Croustillant de Patate Douce, Panais, Topinambour (Picard)	396721
+3124	P	Délice de Patate Douce (Royco)	396842
+3125	P	Mouliné Patates Douces Coco (Bjorg)	396910
+3126	P	Tajine de Patate Douce (Picard)	396977
+3127	P	Douceur de Patate Douce (Knorr)	397025
+3128	P	Barre Chocolat (Snickers)	397072
+3129	P	Pavé de Saumon (Carrefour Discount)	397148
+3130	P	Pavé de Saumon (Monoprix)	397249
+3131	P	Pavé de Saumon (Super U)	397313
+3132	P	Pavé de Saumon Grillé Citron & Aneth (Petit Navire)	397376
+3133	P	Pavé de Saumon Grillé (Petit Navire)	397439
+3134	P	Pavés de Filets de Saumon (Dia)	397502
+3135	P	Pâté en Croûte	397545
+3136	P	Mini Pâté en Croûte (Marque Repère)	397700
+3137	P	Pâté de Campagne (Monique Ranou)	397746
+3138	P	Pâtes Complètes (Carrefour)	397849
+3139	P	Pommes Noisettes (Carrefour)	397900
+3140	P	Pommes Noisettes (Findus)	398018
+3141	P	Pommes Noisettes (Pom'lisse)	398082
+3142	P	Pommes Noisettes (Auchan)	398140
+3143	P	Pommes Noisettes (Picard)	398202
+3144	P	Pommes Noisettes Surgelées (Netto)	398267
+3145	P	Pommes Noisettes (Casino)	398311
+3146	P	Pommes Noisettes (Dia)	398372
+3147	P	Pommes Noisettes (Harvest Basket)	398434
+3148	P	Pomme de Terre Cuite (Pelure à Mangée)	398502
+3149	P	Pomme de Terre Cuite, Écrasée et Brunie dans l'Huile (Congelée ou Mixture Séchée)	398899
+3150	P	Pomme de Terre Cuite, Écrasée et Brunie dans l'Huile(de Frais)	399125
+3151	P	Pomme de Terre Cuite, Écrasée et Brunie dans l'Huile(à l'état Congelé)	399514
+3152	P	Pomme de Terre Cuite Farcie à la Crème Aigre (Pelure Mangée)	399898
+3153	P	Longe de Porc (Côtes Style Campagnard)	400122
+3154	P	Poivrons Jaunes Doux	400225
+3155	P	Bâton Pâté ou Filet de Poisson Cuit Pané ou Battu	400466
+3156	P	Sticks de Poisson Pané (Carrefour)	400746
+3157	P	Poisson Pané aux Épinards (Aldi)	400801
+3158	P	Morue de l'Atlantique	400871
+3159	P	Morue du Pacifique	401037
+3160	P	Poivrons	401166
+3161	P	Trio de Poivrons (Picard)	401559
+3162	P	Trio de Poivrons en Lanières (Saint Eloi)	401601
+3163	P	Confit de Poivrons (d'Aucy)	401663
+3164	P	Poivrons Rouges Grillés (Carrefour)	401729
+3165	P	Poivrons Grillés (Auchan)	401789
+3166	P	Duo de Carottes, Poivrons et Petits Pois (Weight Watchers)	401849
+3167	P	Pot au Feu	401950
+3168	P	Cocotte Pot au Feu (Charal)	402099
+3169	P	Pot au Feu de Légumes (Liebig)	402152
+3170	P	Pot au Feu aux Vermicelles (Maggi)	402217
+3171	P	Bouillon Pot-au-Feu (Maggi)	402300
+3172	P	Salami de Porc (à Sec ou Dur)	402351
+3173	P	Pizza Reine (Domino's Pizza)	402564
+3174	P	Pizza Jambon Fromage (Leader Price)	402646
+3175	P	Pizza à la Viande	402725
+3176	P	Pizza 4 Fromages (Pizza Hut)	403125
+3177	P	Pizza 4 Fromages (Marie)	403170
+3178	P	Pizza 4 Fromages (Super U)	403236
+3179	P	Pizza au Fromage avec Croûte Mince avec Des Légumes	403304
+3180	P	Pizza 4 Fromages (Leader Price)	403706
+3181	P	Pizza 4 Fromages (Buitoni)	403778
+3182	P	Pizza 3 Fromages (Trattoria Alfredo)	403848
+3183	P	Pizza 4 Fromages (Thiriet)	403917
+3184	P	Courges d'Hiver Spaghetti	403962
+3185	P	Poêlée Campagnarde (Claude Léger)	404090
+3186	P	Poêlée Méridionale (Carrefour)	404159
+3187	P	Poêlée Paysanne (Saint Eloi)	404213
+3188	P	Poêlée 6 Légumes (Carrefour)	404291
+3189	P	Poelee A la Paysanne (Marque Repère)	404357
+3190	P	Poêlée Rustique (Bonduelle)	404421
+3191	P	Poêlée Champêtre (Bonduelle)	404487
+3192	P	Soupe Légumes et Kiri (Liebig)	404553
+3193	P	Soupe Pomme de Terre Poireaux Lentilles (Liebig)	404612
+3194	P	Soupe Légumes et Lentilles (Carrefour)	404695
+3195	P	Soupe de Lentilles	404759
+3196	P	Soupe Lentilles et Bacon Fumé (New Covent Garden Food Co.)	404966
+3197	P	Soupe de Tomate	405008
+3198	P	Soupe de Tomate (Préparé avec de l'Eau)	405220
+3199	P	Soupe à la Tomate (Cora)	405430
+3200	P	Soupe Tomates et Vermicelles (Liebig)	405506
+3201	P	Soupe Tomates et Vermicelles (Liebig)	405589
+3202	P	Soupe Boeuf-Tomate aux Vermicelles (Maggi)	405657
+3203	P	Soupe Froide Tomate Menthe et Basilic (Alvalle)	405731
+3204	P	Soupe Des P'tits Pirates à la Tomate (Knorr)	405796
+3205	P	Crème de Soupe de Tomate (Préparée avec du Lait)	405870
+3206	P	Spaghetti (Panzani)	406087
+3207	P	Spaghetti sans Viande à la Sauce Tomate	406130
+3208	P	Spaghetti (Carrefour)	406310
+3209	P	Spaghetti à la Sauce Tomate avec du Poulet ou de la Dinde	406371
+3210	P	Spaghetti Blé Complet (Lustucru)	406544
+3211	P	Spaghetti Bolognaise (Carrefour)	406603
+3212	P	Spaghettini Bolognaise (Panzani)	406669
+3213	P	Spaghetti Bolognaise Barbecue (Panzani)	406746
+3214	P	Mini Snickers (Snickers)	406810
+3215	P	Barre Glacée (Snickers)	406927
+3216	P	Steaks Hachés Pur Bœuf Surgelés (Dia)	407034
+3217	P	Steak Haché Pur Bœuf (Grillero)	407093
+3218	P	Autruche Hachée	407151
+3219	P	Sandwich au Steak	407262
+3220	P	Steak de Cheval	407408
+3221	P	Sauce Risotto Champignons (Panzani)	407513
+3222	P	Poulet et Petites Pâtes Sauce aux Champignons (Picard)	407553
+3223	P	Sauté de Veau, Risotto et Sauce aux Champignons (Picard)	407659
+3224	P	Casserole de Brocoli (Brocoli, Riz, Fromage et Sauce aux Champignons)	407774
+3225	P	Saumon Fumé	407964
+3226	P	Saumon Fumé d'ecosse (Carrefour)	408214
+3227	P	Saumon Fumé Des Lochs D' Écosse (Auchan)	408281
+3228	P	Saumon Atlantique Norvège (Auchan)	408359
+3229	P	Saumon Fumé Irlande (Labeyrie)	408425
+3230	P	Saumon Fumé (Marque Repère)	408477
+3231	P	Saumon Fumé Atlantique (Carrefour Discount)	408528
+3232	P	Saumon Fumé d'écosse (Labeyrie)	408583
+3233	P	Émincés de Saumon Atlantique Fumé (Monoprix Bio)	408635
+3234	P	Saumon Fumé Norvège (Delpierre)	408697
+3235	P	Saumon et Colin d'Alaska à l'oseille, Pommes de Terre à l'étouffée (Picard)	408759
+3236	P	Saumon Cuit	408859
+3237	P	Saumon Cuit au Four ou Grillé	409201
+3238	P	Mayonnaise (Réduite en Calories ou Diète, sans Cholestérol)	409551
+3239	P	Mayonnaise (Basses Calories)	409732
+3240	P	Mayonnaise (Pas de Cholestérol)	409880
+3241	P	Biscuits de Son d'avoine (Régime Dukan)	410060
+3242	P	Sauce Salade (Régime Dukan)	410169
+3243	P	Konjac à la Bolognaise (Régime Dukan)	410231
+3244	P	Porridge (Régime Dukan)	410304
+3245	P	Ketchup (Régime Dukan)	410349
+3246	P	St Pierrellin (Régime Dukan)	410412
+3247	P	Shirataki de Konjac (Régime Dukan)	410470
+3248	P	Sauce Tomate Aubergine Courgette (Régime Dukan)	410525
+3249	P	Tajine de Boulettes de Boeuf à l'orientale (Régime Dukan)	410590
+3250	P	Omelette	410658
+3251	P	Mini Sablés Chocolat au Lait (Super U)	410847
+3252	P	Sablés aux Céréales Chocolat au Lait (P'tit Déli)	410926
+3253	P	St Hubert 41 (St Hubert)	410994
+3254	P	Beurre Bio (St Hubert)	411059
+3255	P	Beurre 5 Céréales (St Hubert)	411106
+3256	P	Oméga 3 (St Hubert)	411178
+3257	P	Beurre 5 Céréales (St Hubert)	411245
+3258	P	Salade de Laitue avec Des Légumes Assortis (y compris Tomates et / ou Carottes)	411317
+3259	P	Salade de Laitue avec Avocat, Tomate, et / ou Carottes	411517
+3260	P	Salade de Laitue avec Des Oeufs, Tomates, et / ou Carottes	411694
+3261	P	Salade du Jardin de Poulet à l'Orientale  ou de la Dinde (Poulet et / ou Dinde, Laitue, Fruit, Noix)	411885
+3262	P	Salade de Lentilles (Pierre Martinet)	412074
+3263	P	Salade Jambon et Trio de Lentilles (Weight Watchers)	412142
+3264	P	Salade de Lentilles Corail (Bonduelle)	412257
+3265	P	Cocktail de Fruits (St Mamet)	412323
+3266	P	Salade Saison (Carrefour)	412388
+3267	P	Coupelle du Verger (Fruistar)	412433
+3268	P	Coktail de Fruits (St Mamet)	412511
+3269	P	Litchis au Sirop (Fruistar)	412618
+3270	P	Cocktail Exotique (Fruistar)	412693
+3271	P	Salade Tomate Mozzarella (Daniel Dessaint Traiteur)	412732
+3272	P	Salade de Thon Quinoa Tomates et Basilic (Petit Navire)	412851
+3273	P	Sandwich Jambon Œuf Tomate Salade (Daunat)	412889
+3274	P	Salade Carottes Surimi Œuf (Bonduelle)	413011
+3275	P	Salade Mélangée (Auchan)	413053
+3276	P	Salade Poulet Crudités (Carrefour Discount)	413095
+3277	P	Salade Jambon Fromage Crudités (Aldi)	413137
+3278	P	Pêches (Solides et Liquides, Sirop Très Léger, en Conserve)	413195
+3279	P	Pêches (Solides et Liquides, Pack Sirop Léger, en Conserve)	413381
+3280	P	Tangerines (Mandarines, Pack Sirop Léger, en Conserve)	413563
+3281	P	Ananas (Solides et Liquides, Pack Sirop Léger, en Conserve)	413733
+3282	P	Puddings à la Vanille	413998
+3283	P	Glaçage à la Vanille Crémeuse	414174
+3284	P	Latte Macchiato Caramel (Tassimo)	414316
+3285	P	Latte Macchiato Caramel (Dolce Gusto)	414426
+3286	P	Lasagnes Chèvre Épinards (Marque Repère)	414537
+3287	P	Lasagnes Chèvre Épinards (Carrefour)	414600
+3288	P	Lasagnes Chèvre Épinards (Picard)	414670
+3289	P	Purée de Pommes de Terre	414753
+3290	P	Purée de Pommes de Terre au Lait (Frais)	415142
+3291	P	Purée de Pommes de Terre (Secs)	415549
+3292	P	Purée de Pommes de Terre (Frais)	415787
+3293	P	Purée Fromagere (Protifast)	416181
+3294	P	Purée Pomme de Terre (Créaline)	416285
+3295	P	Purée de Tomates (Turini)	416350
+3296	P	Purée de Pois Cassés (Créaline)	416401
+3297	P	Purée de Carottes (Super U)	416467
+3298	P	Stevia (Pure Via)	416532
+3299	P	Légumes Cuits Mixte (Maïs, Haricots de Lima, Pois, Haricots Verts et Carottes)	416600
+3300	P	Ratatouille Maison	416785
+3301	P	Wok Mix (Carrefour)	416968
+3302	P	Poêlée Asiatique Surgelée (Paysan Breton)	417032
+3303	P	Poêlée d'automne (Saint Eloi)	417074
+3304	P	Mélange de Légumes Bio (Leader Price)	417141
+3305	P	Lasagnes aux 2 Saumons (Auchan)	417212
+3306	P	Lasagnes au Saumon et aux Épinards (Picard)	417312
+3307	P	Lasagnes au Saumon (Casino)	417378
+3308	P	Lasagnes au Saumon (Cora)	417422
+3309	P	Filets de Maquereaux à la Moutarde (Saupiquet)	417499
+3310	P	Filets de Maquereaux à la Moutarde à l'ancienne (Petit Navire)	417566
+3311	P	Moutarde Jaune	417628
+3312	P	Maquereau de l'Atlantique	417785
+3313	P	Pilon de Poulet et de Peau (Poulets à Rôtir ou à Griller)	417948
+3314	P	Chocolat Liégeois (Auchan)	418181
+3315	P	Danette le Liégeois Chocolat (Danone)	418242
+3316	P	Liégeois Chocolat (Delisse)	418310
+3317	P	Liégeois Chocolat (Pâturages)	418370
+3318	P	Mousse Liégeoise Vanille (Auchan)	418436
+3319	P	Liegeois Cafe (Delisse)	418524
+3320	P	Gaufre Liégeoise (Erté)	418585
+3321	P	Mousse Liegeoise (Danone)	418693
+3322	P	Liégeois de Fruits Pomme Framboise (Andros)	418760
+3323	P	Liégeois de Fruits Pomme Châtaigne (Andros)	418804
+3324	P	Jus de Fruits Multivitaminé (Casino)	418846
+3325	P	Jus Multivitaminé (Vitafit)	418907
+3326	P	Jardinière aux 4 Légumes (Bonduelle)	418978
+3327	P	Jardinière (Cassegrain)	419099
+3328	P	Jardinière de Légumes (Maggi)	419146
+3329	P	Jardinière de Légumes Bio (Picard)	419231
+3330	P	Velouté de Jardinière de Légumes (Bio Village)	419298
+3331	P	Velouté de Jardinière de Légumes (Bio Village)	419360
+3332	P	Bio Jardinière de Légumes (Liebig)	419429
+3333	P	Jus Pomme Framboise Litchi (Monoprix Gourmet)	419494
+3334	P	Maxi (Kinder)	419552
+3335	P	Maxi King (Kinder)	419625
+3336	P	Knoppers (Aldi)	419739
+3337	P	Oeuf de Caille	419791
+3338	P	Jaune d'Oeuf	419950
+3339	P	L'oeuf Coque (Milka)	420127
+3340	P	Salade de Riz	420183
+3341	P	Salade de Thon Riz Sauvage (Petit Navire)	420373
+3342	P	Salade de Riz Petits Légumes et Poulet à l'aigre Doux (Bonduelle)	420446
+3343	P	Riz Blanc (Long Grain)	420510
+3344	P	Riz Blanc (à Grain Court, Cuit)	420646
+3345	P	Meringue	420768
+3346	P	Meringues Truffées (Leader Price)	420947
+3347	P	Meringue (Régime Dukan)	421065
+3348	P	Secret de Mousse Citron Façon Meringué (La Laitière)	421149
+3349	P	Tarte au Citron Meringuée (Marie Morin)	421221
+3350	P	Tartelette Citron Meringuée (Picard)	421266
+3351	P	Palmito (LU)	421357
+3352	P	Riz Paella au Poulet et Chorizo (Uncle Ben's)	421430
+3353	P	Paella Valenciana (Fleury Michon)	421497
+3354	P	Pain Grillé à l'Ail	421576
+3355	P	Pain à l'Ail	421843
+3356	P	Bâton de Pain Mou  avec l'Ail et Parmesan	422190
+3357	P	Pain aux Raisins (La Boulangère)	422553
+3358	P	Pain aux Raisins (Auchan)	422591
+3359	P	Benoîton Complet aux Fruits (Paul)	422696
+3360	P	Pain Grillé aux Raisins	422753
+3361	P	Pain Panini (Jacquet)	423001
+3362	P	Pain Complet Crousti Moelleux (Jacquet)	423063
+3363	P	Pain Kebab (Jacquet)	423183
+3364	P	Pain Seigle Complet (Jacquet)	423243
+3365	P	Paingril' aux Céréales (Jacquet)	423287
+3366	P	Paingrill (Jacquet)	423348
+3367	P	Pain Hot Dog (Jacquet)	423413
+3368	P	Pain Au Chocolat (Paul)	423473
+3369	P	Pain au Chocolat (Auchan)	423554
+3370	P	Pain au Chocolat	423662
+3371	P	Pain au Chocolat (Carrefour)	423812
+3372	P	Pain au Chocolat (Super U)	423947
+3373	P	Mini Pain au Chocolat (Picard)	424055
+3374	P	Pain au Chocolat (Marque Repère)	424107
+3375	P	Pain au Chocolat (Picard)	424171
+3376	P	Miettes de Pain (Assaisonnées)	424252
+3377	P	Pain de Mie Graines et Céréales (Harry's)	424420
+3378	P	Pain de Mie Moelleux Nature (Auchan)	424540
+3379	P	Milk Shake Chocolat (Gerlinéa)	424597
+3380	P	Milka Oreo (Milka)	424745
+3381	P	Milka aux Morceaux d'oreo (Milka)	424813
+3382	P	Puddings de Banane	424886
+3383	P	Marrakech Tea (Dolce Gusto)	425009
+3384	P	Biscuits Matin (Casino)	425084
+3385	P	Douceur du Matin (Tropicana)	425138
+3386	P	Jus Matin Douceur (Carrefour)	425180
+3387	P	Matin d'orange (Fruité)	425243
+3388	P	Bon Matin (Schär)	425302
+3389	P	Lait Écrémé Matin Léger (Lactel)	425373
+3390	P	Matin Vitalité Céréales Fruits Rouges (Auchan)	425440
+3391	P	Matin Vitalité (Auchan)	425510
+3392	P	Merguez	425579
+3393	P	Merguez (Auchan)	425766
+3394	P	Couscous Poulet Merguez (Carrefour)	425807
+3395	P	Merguez de Volaille (Le Gaulois)	425920
+3396	P	Merguez (Picard)	425963
+3397	P	Soycis' Façon Merguez (Soy)	426014
+3398	P	Haricots A la Mexicaine Merguez (William Saurin)	426081
+3399	P	Poulet ou Dinde et Légumes dans la Sauce à Base de Soja (y compris les Carottes, Brocoli, et / ou Feuillu Vert Foncé, Pas de Pommes de Terre, Mélange)	426141
+3400	P	Mélange de Petits Légumes (U Bio)	426327
+3401	P	Mélange de Légumes Grillés (Picard)	426383
+3402	P	Salade Mélange Catalan (Carrefour)	426441
+3403	P	Mélange Catalan (Carrefour)	426507
+3404	P	Poêlée de Légumes Grillés (Carrefour Bio)	426574
+3405	P	Tajine de Légumes (Picard)	426635
+3406	P	Courgette	426707
+3407	P	Carottes	426933
+3408	P	Poêlée Asiatique (Notre Jardin)	427281
+3409	P	Chou-Fleur	427331
+3410	P	Roti de Porc Froid (Lidl)	427604
+3411	P	Blanc de Poulet (Rôti au Four, sans Gras, Tranché)	427648
+3412	P	Lard (Salé, Rôti, Sauté ou Grillé, Cuit)	427781
+3413	P	Gruau de Sarrasin (Cuit, Rôti)	427990
+3414	P	Sandwich au Rôti de Bœuf avec du Fromage	428124
+3415	P	Nectar Multifruits (Auchan)	428273
+3416	P	Nectar Multifruits (Carrefour)	428347
+3417	P	Nectar Multifruits (Marque Repère)	428407
+3418	P	Nectar Multifruits (Jafaden)	428464
+3419	P	Nectar Multifruits Stevia (Leader Price)	428521
+3420	P	Nectar Multifruit (Bio Village)	428587
+3421	P	Spécial Filtre (Nescafé)	428642
+3422	P	Spécial Filtre Décaféiné (Nescafé)	428698
+3423	P	Oranges	428766
+3424	P	Oranges (avec Peau)	429050
+3425	P	Marmelade d'Orange	429218
+3426	P	Toast Français avec du Beurre	429401
+3427	P	Mojito	429551
+3428	P	Mocha (Dolce Gusto)	429758
+3429	P	Chocolate Mocha (Starbucks)	429867
+3430	P	Café Mocha (Nescafé)	429925
+3431	P	Mocha (Nescafé)	430040
+3432	P	Muesli Protéiné Céréales et Fruits (Favrichon)	430143
+3433	P	Muesli Croustillant Tradition (Terres et Céréales Bio )	430214
+3434	P	Muesli Premium (Terres et Céréales Bio )	430259
+3435	P	Muesli Céréales et Fruits Secs (Biothentic)	430299
+3436	P	Muesli Croustillant Duo Pépites (Terres et Céréales Bio )	430369
+3437	P	Muesli 5 Céréales (Celnat)	430435
+3438	P	Mousse au Chocolat Noir (Auchan)	430481
+3439	P	Secret de Mousse Chocolat Noir (La Laitière)	430545
+3440	P	Feuilleté de Mousse Chocolat (La Laitière)	430603
+3441	P	Mousse au Chocolat (Gü)	430672
+3442	P	Mousse au Chocolat Noir (Leader Price)	430770
+3443	P	Dessert Lacté Mousse au Chocolat (Tous les Jours)	430872
+3444	P	Tzatziki (Auchan)	430984
+3445	P	Tzatziki (Blini)	431035
+3446	P	Tzatziki (Carrefour)	431084
+3447	P	Tzatziki (Monoprix)	431153
+3448	P	Tzatziki (Casino)	431220
+3449	P	Tzatziki (Marque Repère)	431277
+3450	P	Wrap Jambon Tzatziki (Sodeb'O)	431317
+3451	P	Sandwich Tzatziki et Saumon Fumé (Dailymonop')	431380
+3452	P	Wrap Jambon Tzatziki (Sodeb'O)	431486
+3453	P	Wrap Jambon Tzatziki (Monique Ranou)	431556
+3454	P	Légumes Frits Trempés dans une Pâte de Farine de Pois Chiches (Pakora)	431671
+3455	P	Tarte aux Pommes (une Croûte)	431844
+3456	P	Pâtes ou Salade de Macaroni avec de l'Huile et un Assaisonement de Vinaigre	432120
+3457	P	Rhubarbe dans un Sirop Léger (Cuit ou en Conserve)	432302
+3458	P	Lait Demi Écrémé (Carrefour)	432494
+3459	P	Lait Demi-Écrémé (Lactel)	432559
+3460	P	Lait Demi Écrémé (Carrefour)	432621
+3461	P	Lait Demi Écrémé (Delisse)	432694
+3462	P	Lait Demi-Écrémé (Auchan)	432756
+3463	P	Lait Demi-Écrémé (Milbona)	432818
+3464	P	Lait Demi Écrémé (U)	432878
+3465	P	Lait Demi Écrémé (Pâturages)	432945
+3466	P	Lait Demi Écrémé (Marque Repère)	433012
+3467	P	Lait Demi Écrémé (Leader Price)	433077
+3468	P	Vermicelles (Carrefour)	433141
+3469	P	Vermicelles de Riz (Suzi Wan)	433200
+3470	P	Soupe de Poule aux Vermicelles (Maggi)	433262
+3471	P	Poule aux Vermicelles (Knorr)	433344
+3472	P	Vermicelles (Super U)	433419
+3473	P	Vermicelles (Lustucru)	433458
+3474	P	Poule aux Vermicelles et Petits Légumes (Knorr)	433501
+3475	P	Vinaigrette	433593
+3476	P	Sauce Crudité Nature Légère (Lesieur)	433846
+3477	P	Vinaigrette Légère (Isio 4)	433923
+3478	P	Vinaigrette Légère (Amora)	433983
+3479	P	Vinaigrette Nature (Belle France)	434104
+3480	P	Vinaigrette Légère Moutarde (Amora)	434178
+3481	P	Sauce Crudités Nature Légère (Rustica)	434245
+3482	P	Velouté Poireaux Pommes de Terre (Royco)	434317
+3483	P	Velouté Poireaux Pomme de Terre (Gerlinéa)	434395
+3484	P	Velouté de Poireaux Pommes de Terre (Auchan)	434539
+3485	P	Velouté Poireaux Pommes de Terre (Dia)	434604
+3486	P	Velouté Fruix (Danone)	434671
+3487	P	Velouté Fruix Fraise (Danone)	434745
+3488	P	Velouté Fruix (Danone)	434824
+3489	P	Yaourt aux Fruits 0% Framboise (Taillefine)	434886
+3490	P	Yaourt Framboise Passion (Sojasun)	434945
+3491	P	Crème Glacée Yaourt Sauce Framboise (Picard)	435025
+3492	P	Yaourt Nature (Danone)	435125
+3493	P	Croc Sablé Goût Choco (Pépito)	435186
+3494	P	Tarama	435304
+3495	P	Tarama (Blini)	435502
+3496	P	Tarama au Saumon (Carrefour)	435550
+3497	P	Tarama (Casino)	435614
+3498	P	Tarama & St Moret (Coraya)	435679
+3499	P	Les Tartines (Thiriet)	435721
+3500	P	La Tartine Briochée (Heudebert)	435761
+3501	P	Pâte à Tartiner (Grand Jury)	435832
+3502	P	Tartines Craquantes au Froment (Dia)	435871
+3503	P	Tarte aux Poireaux (Marie)	435968
+3504	P	Tarte aux Poireaux (Auchan)	436036
+3505	P	Tarte aux Poireaux (Picard)	436101
+3506	P	Tarte aux Poireaux (Leader Price)	436170
+3507	P	Tarte aux Poireaux (Crusti Frais)	436268
+3508	P	Tarte aux Poireaux (Carrefour)	436336
+3509	P	Tarte aux Poireaux (Marque Repère)	436398
+3510	P	Tarte aux Poireaux (Casino)	436505
+3511	P	Conserve de Thon	436610
+3512	P	Soupe de Légumes (en Conserve, Condensée)	436806
+3513	P	Cocktail de Jus de Légume (en Conserve)	437000
+3514	P	Pomme Nature en Morceaux sans Sucres Ajoutés (Andros)	437206
+3515	P	Tajine de Poulet aux Abricots, Semoule aux Epices (Picard)	437264
+3516	P	Tajine de Poulet aux Épices Douces (Fleury Michon)	437374
+3517	P	Tajine de Poulet ABRICOT et BOULGOUR (Zapetti)	437443
+3518	P	Tajine de Légumes (d'Aucy)	437524
+3519	P	Tajine de Légumes aux Abricots et aux Raisins (Liebig)	437589
+3520	P	Tajine de Carottes et Olives (Cassegrain)	437653
+3521	P	Légumes et Boulettes en Tajine (Weight Watchers)	437695
+3522	P	Twix (Twix)	437760
+3523	P	Twix Mini (Twix)	437823
+3524	P	Barre Glacée (Twix)	437899
+3525	P	Twix Top (Twix)	438017
+3526	P	Nutella (Nutella)	438133
+3527	P	Nutella (Nutella)	438215
+3528	P	Pastabox Tortellini Jambon Sauce au Parmesan (Sodeb'O)	438270
+3529	P	Pastabox Fusilli au Saumon (Sodeb'O)	438367
+3530	P	Pastabox Fusilli Bolognaise (Sodeb'O)	438460
+3531	P	Pates Carbonara (Le Prix Gagnant)	438533
+3532	P	Spaghetti de Blé Entier (Cuit)	438591
+3533	P	Spaghetti Sec	438726
+3534	P	Pâtes Tortellini au Fromage	438846
+3535	P	Pâtes Fraîches (Cuites)	439019
+3536	P	Pâtes Fraîches	439124
+3537	P	Pâtes Sèches de Blé Entier	439245
+3538	P	Emballages Wonton (Comprend les Emballages de Pâtés Impériaux)	439351
+3539	P	Pain aux Céréales	439581
+3540	P	Pain de Mie 6 Céréales (Carrefour)	439790
+3541	P	Pain Céréales et Graines (Intermarché)	439908
+3542	P	Pain aux Céréales (Carrefour)	439981
+3543	P	Pain aux 6 Céréales (Paul)	440029
+3544	P	Pain Céréales Tranché (Picard)	440105
+3545	P	Petits Pains Suédois Céréales et Fibres (Krisprolls)	440174
+3546	P	Pain de Mie 7 Céréales (Dia)	440280
+3547	P	Pain Complet 3 Céréales Bio (Bjorg)	440343
+3548	P	Petits Pains Grillés aux 7 Céréales (Carrefour Bio)	440411
+3549	P	Pain de Mie	440494
+3550	P	Pain de Mie (Harry's)	440677
+3551	P	Pain de Mie (Aldi)	440795
+3552	P	Pain de Mie Nature (Jacquet)	440914
+3553	P	Pain de Mie Nature Tendre et Moelleux (Épi d'or)	441034
+3554	P	Pain de Mie sans Croûte (Auchan)	441153
+3555	P	Pain de Mie Moelleux Nature (Carrefour)	441254
+3556	P	Pain de Mie Complet (42g) (Harry's)	441389
+3557	P	Pain de Mie (Marque Repère)	441495
+3558	P	Piémontaise au Jambon (Claude Léger)	441611
+3559	P	Piémontaise (Carrefour)	441712
+3560	P	Piémontaise au Jambon et Tomate Fraîche (Bonduelle)	441777
+3561	P	Piemontaise au Jambon (Super U)	441836
+3562	P	Piémontaise au Jambon (Pierre Martinet)	441890
+3563	P	Piémontaise au Poulet Grillé (Bonduelle)	441953
+3564	P	Piémontaise au Jambon (Monoprix)	442014
+3565	P	Piémontaise au Jambon (Monique Ranou)	442080
+3566	P	Cuisse de Poulet (Poulets à Rôtir ou à Griller)	442146
+3567	P	Emince de Poulet au Curry et Riz Long (Auchan)	442409
+3568	P	Poulet au Curry Rouge (Traditions d'Asie)	442523
+3569	P	Émincés de Poulet au Curry (Monoprix)	442591
+3570	P	Poulet au Curry et au Lait de Coco, Duo de Riz (Picard)	442657
+3571	P	Curry de Poulet au Lait de Coco (Nutrisaveurs)	442734
+3572	P	Bouchées de Poulet au Curry (Auchan)	442849
+3573	P	Poulet au Curry et Riz Cuisiné au Lait de Coco (Picard)	442916
+3574	P	Napolitain Classic (LU)	443012
+3575	P	Napolitain Chocolat Framboise (LU)	443077
+3576	P	Napolitain Caramel Beurre Salé (LU)	443192
+3577	P	Napolitain 3 Chocolats (LU)	443307
+3578	P	Napolitain Mousse au Chocolat (LU)	443422
+3579	P	Sauce Napolitaine (Carrefour)	443537
+3580	P	Penne au Poulet Grillé à la Napolitaine (Bonduelle)	443601
+3581	P	Napolitain Chocolat Praliné (LU)	443657
+3582	P	Sauce Napolitaine (Monoprix)	443765
+3583	P	Penne au Poulet à la Napolitaine (Monique Ranou)	443831
+3584	P	Pomme de Terre (Chair et Peau)	443897
+3585	P	Jus de Pomme (en Conserve ou en Bouteille)	444252
+3586	P	Jus de Canneberge et de Pomme (en Bouteille)	444474
+3587	P	Muffins Complets (Épi d'or)	444644
+3588	P	Muffins Complets (Monoprix)	444725
+3589	P	Muffins Complets (Leader Price)	444781
+3590	P	Muffins Anglais de Blé Entier	444847
+3591	P	Muffins aux Bleuets	445014
+3592	P	Gésiers de Volaille (Le Gaulois)	445257
+3593	P	Émincés de Gésiers (Fleury Michon)	445312
+3594	P	Gésiers de Canard (Le Gaulois)	445404
+3595	P	Gésiers de Volaille (Carrefour)	445466
+3596	P	Riz à Poêler Tomates Provençales (Lustucru)	445532
+3597	P	Soupe de Tomate (en Conserve, Condensée)	445597
+3598	P	Purée de Tomate	445786
+3599	P	Sauce Tomate (en Conserve)	446027
+3600	P	Muffins aux Maïs	446207
+3601	P	Muffins au Son d'Avoine	446451
+3602	P	Pain de Maïs (Muffin au Maïs) (Mélange Sec)	446646
+3603	P	Velouté de Poireaux Pommes de Terre (La Potagère)	446761
+3604	P	Petit Pot Pomme Poire (Blédina)	446824
+3605	P	Margarine (Ordinaire, 80% de Matières Grasses avec du Sel, Pot)	446867
+3606	P	Margarine (sans Gras, Pot)	447043
+3607	P	Étendu de Beurre d'Huile Végétale (Teneur Réduite en Calories, Pot, Salé)	447220
+3608	P	Fromage Cheddar	447357
+3609	P	Fromage Colby	447635
+3610	P	Fromage Edam	447886
+3611	P	Fromage Gouda	448026
+3612	P	Fromage Monterey	448168
+3613	P	Fromage Provolone	448400
+3614	P	Fromage Cheddar ou Colby (Faible en Gras)	448639
+3615	P	Fromage Suisse	448848
+3616	P	Fromage Américain (Compresse Froide)	449122
+3617	P	Fromage Américain (Faible en Gras, Pasteurisé)	449256
+3618	P	Sucre Semoule	449502
+3619	P	Sucre Glace	449686
+3620	P	Sucre Brun	449909
+3621	P	Cheddar ou du Fromage Américain (Teneur Réduite en Gras, Pasteurisé)	450188
+3622	P	Fromage Suisse (Faible en Gras, Pasteurisé)	450303
+3623	P	Fromage Suisse (Faible en Gras)	450549
+3624	P	Gésiers de Canard Maigre Confits (Dia)	450789
+3625	P	Gésiers de Volaille (Piquebroche)	450851
+3626	P	Gésiers de Volaille Confits (Leader Price)	450914
+3627	P	Gésiers de Volaille (Marque Repère)	450956
+3628	P	Gésiers de Poulet (Netto)	451014
+3629	P	Galettes Bretonnes Pur Beurre (Auchan)	451053
+3630	P	Galettes Bretonnes (Leader Price)	451161
+3631	P	Galettes Bretonnes aux Pépites de Chocolat (Carrefour)	451204
+3632	P	Galettes Bretonnes (P'tit Déli)	451315
+3633	P	Maxi Galettes Bretonnes (Leader Price)	451425
+3634	P	Boeuf Haché (90% de Maigre / 10% de Matières Grasses, Pâté, Cuit, Grillé)	451466
+3635	P	Tisane	451688
+3636	P	Tisane (Autres que la Camomille, Brassée)	451854
+3637	P	Sauce Tomate	452010
+3638	P	Jus de Tomate et de Légume (Faible en Sodium)	452186
+3639	P	Sandwich à la Dinde avec la Pâte à Tartiner	452398
+3640	P	Jambon Tranché (Très Maigre)	452585
+3641	P	Jambon Tranché  (Régulier, Environ 11% de Matières Grasses )	452755
+3642	P	Tagliatelles aux Oeufs Frais (Lustucru)	452952
+3643	P	Tagliatelles aux Œufs (Carrefour Discount)	453009
+3644	P	Tagliatelles aux Œufs Frais (Carrefour)	453079
+3645	P	Nouilles aux Oeufs (Enrichies, Cuites)	453148
+3646	P	Nouilles aux Oeufs Sèches	453334
+3647	P	Maïs Blanc Doux (Grains sur l'Epi, avec du Sel, Congelés, Égouttés, Cuits, Bouillis)	453473
+3648	P	Jambon Haché	453676
+3649	P	Jambon Fumé au Miel (Cuit)	453812
+3650	P	Hot-Dog avec du Piment	453914
+3651	P	Soupe Potiron (Carrefour)	454063
+3652	P	Soupe Potiron et Kiri (Liebig)	454128
+3653	P	Soupe Potiron Châtaigne (Liebig)	454196
+3654	P	Soupe de Potiron	454283
+3655	P	Soupe de Légumes en Morceaux (en Conserve)	454424
+3656	P	Crème de Soupe de Poulet (en Conserve, Condensée)	454619
+3657	P	Crème de Soupe de Champignons (en Conserve, Condensée)	454813
+3658	P	Soupe Miso	454998
+3659	P	Soupe Miso (Yedo)	455169
+3660	P	Soupe Miso (GreenShoot)	455236
+3661	P	Nouilles Japonaises Saveur Poulet Teriyaki (Tanoshi)	455276
+3662	P	Pois Wasabi (Tanoshi)	455348
+3663	P	Soupe Miso (Carrefour)	455395
+3664	P	Soupe de Courgette	455505
+3665	P	Soupe Courgette Parmesan Noisettes (GreenShoot)	455695
+3666	P	Speculoos (Lotus)	455755
+3667	P	Speculoos (Marque Repère)	455862
+3668	P	Speculoos (Delacre)	455939
+3669	P	Speculoos (Belgix)	456037
+3670	P	Pâte à Tartiner Speculoos (Lotus)	456148
+3671	P	Speculoos (Leader Price)	456214
+3672	P	Spéculoos Nappés Chocolat Noir (Auchan)	456319
+3673	P	Petit Lu Speculoos (LU)	456394
+3674	P	Speculoos (Carrefour)	456503
+3675	P	Spéculoos Bio Pépites de Chocolat Noir (Céréal Bio)	456579
+3676	P	Hamburger avec Tomate et / ou Ketchup sur Petit Pain	456700
+3677	P	Hamburger avec de la Mayonnaise ou Sauce à Salade et Tomates sur Petit Pain	456887
+3678	P	Pain Hamburger (Jacquet)	457069
+3679	P	Hamburger avec 1 / 4 Lb de Viande sur Petit Pain	457129
+3680	P	Fromage Fondu au Cheddar Pour Hamburger (Les Croisés)	457320
+3681	P	Hamburgers (Auchan)	457375

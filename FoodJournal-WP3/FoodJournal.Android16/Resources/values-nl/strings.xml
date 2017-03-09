@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">EETDAGBOEK</string>
+	<string name="CommonItems">Algemene items</string>
+	<string name="Delete">Verwijderen</string>
+	<string name="EmptyEntryList">Niets geselecteerd</string>
+	<string name="MyRecentItems_Breakfast">Recente ontbijt artikelen</string>
+	<string name="MyRecentItems_Dinner">Recente avondmaal artikelen</string>
+	<string name="MyRecentItems_Exercise">Mijn recente oefeningen</string>
+	<string name="MyRecentItems_Lunch">Recente lunch artikelen</string>
+	<string name="MyRecentItems_Snack">Recente snacks artikelen</string>
+	<string name="PageTitle">EETDAGBOEK</string>
+	<string name="PageTitleBase">EETDAGBOEK-</string>
+	<string name="Period_Breakfast">Ontbijt</string>
+	<string name="Period_Dinner">Avondmaal</string>
+	<string name="Period_Exercise">Oefening</string>
+	<string name="Period_Lunch">Lunch</string>
+	<string name="Period_Snack">Snack</string>
+	<string name="Search">Zoeken</string>
+	<string name="Today">Vandaag</string>
+	<string name="StandardProperty_Amount">Hoeveelheid</string>
+	<string name="StandardProperty_Calcium">Calcium</string>
+	<string name="StandardProperty_Calories">Calorieën</string>
+	<string name="StandardProperty_Carbs">Koolhydraten</string>
+	<string name="StandardProperty_Cholesterol">Cholesterol</string>
+	<string name="StandardProperty_Fiber">Vezel</string>
+	<string name="StandardProperty_Iron">IJzer</string>
+	<string name="StandardProperty_MonoFat">Enkelvoudig onverzadigd vetzuren</string>
+	<string name="StandardProperty_PolyFat">Meervoudig onverzadigd vetzuren</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Proteïne</string>
+	<string name="StandardProperty_SatFat">Verzadigd vet</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Suiker</string>
+	<string name="StandardProperty_TotalFat">Totaal vet</string>
+	<string name="StandardProperty_VitaminC">Vitamine C</string>
+	<string name="StandardProperty_VitaminD">Vitamine D</string>
+	<string name="StandardProperty_Weight">Gewicht</string>
+	<string name="Preferences">Voorkeuren</string>
+	<string name="EmptySearchList">Geef een zoekterm op</string>
+	<string name="NewItemSuffix"> (nieuw item)</string>
+	<string name="NewRecipeSuffix"> (nieuwe recept)</string>
+	<string name="SearchResults">Zoekresultaten</string>
+	<string name="SearchTermNotFound">{0} niet gevonden, probeer een andere zoekterm</string>
+	<string name="AcceptNew">Toevoegen</string>
+	<string name="Name">Naam</string>
+	<string name="Nutrition">Voeding</string>
+	<string name="PageTitleItemDetail">VOEDSEL INFO</string>
+	<string name="EnterWeight">Voer eerst het gewicht in</string>
+	<string name="ServingSizes">De grootte van de portie</string>
+	<string name="CantCalculateNutrition">Geef uw gewicht op</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Hoeveel\?</string>
+	<string name="MoreOptions">meer opties</string>
+	<string name="NoNutritionInfo">Geen voedingswaarde-informatie</string>
+	<string name="AddServingSize">Voeg een portie grootte toe</string>
+	<string name="Add">Toevoegen</string>
+	<string name="SelectDate">Agenda</string>
+	<string name="Advertisement">Advertentie</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Cup</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_FluidOunce">Ounce (vloeistof)</string>
+	<string name="Unit_Gallon">Gallon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Milliliter</string>
+	<string name="Unit_Ounce">Ons</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Pound">Pound</string>
+	<string name="Unit_Quart">Quart</string>
+	<string name="Unit_Tablespoon">Eetlepel</string>
+	<string name="Unit_Teaspoon">Theelepel</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">Cups</string>
+	<string name="Units_Deciliter">Deciliter</string>
+	<string name="Units_FluidOunce">Fluid ounces</string>
+	<string name="Units_Gallon">Gallons</string>
+	<string name="Units_Gram">grammen</string>
+	<string name="Units_Kilogram">kilogrammen</string>
+	<string name="Units_Liter">liters</string>
+	<string name="Units_Milliliter">milliliters</string>
+	<string name="Units_Ounce">Ons</string>
+	<string name="Units_Pint">Pinten</string>
+	<string name="Units_Pound">Ponden</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">Eetlepels</string>
+	<string name="Units_Teaspoon">Theelepels</string>
+	<string name="DatabaseCulture">nl</string>
+	<string name="SendFeedback">Over</string>
+	<string name="FeedbackSubject">Een E-mail van het eetdagboek</string>
+	<string name="Equivalent">Hoeveelheid:</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">laden</string>
+	<string name="ExpiredCaption">Nu bijwerken\?</string>
+	<string name="ExpiredMessage">Dank u voor het gebruik van deze App! Deze kopie is nu verlopen. Geen zorgen, we nemen u mee naar de downloadpagina om een nieuwe versie te downloaden als u Ok kiest.</string>
+	<string name="AgentDescription">Deze taak werkt de Live Tile bij voor het eetdagboek.</string>
+	<string name="AgentDisabled">U hebt de toepassing Live Tile in de Telefooninstellingen uitgeschakeld.</string>
+	<string name="PageTitleSettings">Mijn voorkeuren</string>
+	<string name="EnableLiveTile">Tell de ontbrekende maaltijden op de app-tile</string>
+	<string name="Reminders">Herinneringen</string>
+	<string name="SettingsScreen">Instellingen</string>
+	<string name="PinToStart">Stel de tegel in</string>
+	<string name="OpenReport">Rapport</string>
+	<string name="Report">Rapport</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Theelepel = 4.5 g|Eetlepel = 12 g|1 portie = 28 g|Stuk = 14 g|Segment = 12 g|1 cup = 237 g</string>
+	<string name="TakeAPicture">Maak een foto</string>
+	<string name="ReviewBody">Bedankt voor het gebruiken van deze App! Mocht u hem nuttig vinden, laat dan een reactie achter.</string>
+	<string name="ReviewTitle">Een beoordeling achterlaten\?</string>
+	<string name="Goals">Doelstellingen</string>
+	<string name="NoGoalSet">Als geen doel is ingesteld</string>
+	<string name="EndOfDay">Aan het eind van de dag</string>
+	<string name="ReminderContent">Wat heb je gegeten\?</string>
+	<string name="ReminderTitle">Herinnering:  werk uw agenda bij</string>
+	<string name="ReminderDescription">Geselecteerde herrineringen verschijnen als u uw agenda niet bijgewerkt hebt op de geselecteerde tijd.</string>
+	<string name="ScreenshotTitles">Sinaasappelsap, 1 kopje, Toast, 1 sneetje, ei, 1 medium, Apple, koffie, bananen</string>
+	<string name="GoalOver">{0} over het doel</string>
+	<string name="GoalUnder">{0} resterend</string>
+	<string name="OpenJournal">Logboek</string>
+	<string name="RemoveAdsText">Kies OK om reclames te verwijderen van de app.</string>
+	<string name="RemoveAdsTitle">Reclames verwijderen\?</string>
+	<string name="StoreException">Het was een probleem met de verbinding naar de Windows Phone-winkel. Probeer het later nog eens.</string>
+	<string name="Feedback_Email">Probleem melden</string>
+	<string name="Feedback_EmailText">Een vraag stellen of een functie suggereren</string>
+	<string name="Feedback_Header">De snelste en eenvoudigste manier om bij te houden wat je eet.
+
+Schuif omlaag voor informatie over de nauwkeurigheid van gegevens.</string>
+	<string name="Feedback_Rate">Stem op dit app</string>
+	<string name="Feedback_RateText">Specifieke feedback helpt verbeteren de app</string>
+	<string name="Feedback_Screenshot">Help bij het verbeteren van de vertaling</string>
+	<string name="Feedback_ScreenshotText">Een schermafbeelding is inbegrepen</string>
+	<string name="Feedback_Share">Deel een link</string>
+	<string name="Feedback_ShareText">Download deze app</string>
+	<string name="ScreenshotSubject">Eetdagboek tekst</string>
+	<string name="ShareMessage">Bekijk het Eetdagboek voor de Windows Phone</string>
+	<string name="ShareTitle">Eetdagboek</string>
+	<string name="CommonItems_Breakfast">Algemene ontbijt artikelen</string>
+	<string name="CommonItems_Dinner">Algemene avondmaal artikelen</string>
+	<string name="CommonItems_Lunch">Algemene lunch artikelen</string>
+	<string name="CommonItems_Snack">Algemene snack artikelen</string>
+	<string name="Meals">Maaltijden</string>
+	<string name="Period_SnackMorning">Ochtend</string>
+	<string name="Period_SnackEarlyAfternoon">Voormiddag</string>
+	<string name="Period_SnackAfternoon">Namiddag</string>
+	<string name="Meals_SnackMorningEnabled">Afzonderlijke ochtend snack</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Afzonderlijke voormiddag snack</string>
+	<string name="Meals_SnackAfternoonEnabled">Afzonderlijke namiddag snack</string>
+	<string name="Period_SnackEvening">Avond</string>
+	<string name="Meals_SnackMidnightEnabled">Afzonderlijke middernacht snack</string>
+	<string name="Period_SnackMidnight">Middernacht</string>
+	<string name="Meals_SnacksCombined">Combineer snacks</string>
+	<string name="Meals_SnackEveningEnabled">Afzonderlijke avond snack</string>
+	<string name="MyRecentItems_SnackAfternoon">Recente namiddag artikelen</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Recente voormiddag artikelen</string>
+	<string name="MyRecentItems_SnackEvening">Recente avond artikelen</string>
+	<string name="MyRecentItems_SnackMidnight">Recente middernacht artikelen</string>
+	<string name="MyRecentItems_SnackMorning">Recente ochtend artikelen</string>
+	<string name="CommonItems_SnackAfternoon">Algemene namiddag objecten</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Algemene voormiddag artikelen</string>
+	<string name="CommonItems_SnackEvening">Algemene avond artikelen</string>
+	<string name="CommonItems_SnackMidnight">Algemene middernacht artikelen</string>
+	<string name="CommonItems_SnackMorning">Algemene ochtend artikelen</string>
+	<string name="UnlockFullBody">Dank u voor de Voedingsschema proberen. Hebt u {0} proef dag(en) te gaan. Druk op OK om te ontgrendelen de app.</string>
+	<string name="UnlockFullTitle">Ontgrendelen nu\?</string>
+	<string name="TrialExpiredBody">Uw evaluatieversie is nu verlopen. U kunt nog steeds uw dagboek weergeven, maar u kunt geen nieuwe gegevens toevoegen. Kies OK om te ontgrendelen de volledige versie.</string>
+	<string name="TrialExpiredTitle">Proefperiode verstreken, ontgrendelen\?</string>
+	<string name="Feedback_RemoveAds">Verwijder advertenties</string>
+	<string name="Feedback_RemoveAdsText">Verwijder alle reclames definitief</string>
+	<string name="Feedback_Unlock">Upgrade het nu</string>
+	<string name="Feedback_UnlockText">Koop de premium-versie</string>
+	<string name="Product_1">Wegnemen reclameaankondiging</string>
+	<string name="Product_2">Dank u voor uw steun! Gebruik deze optie voor het permanent verwijderen van advertenties van uw voedsel dagboek app.</string>
+	<string name="Screenshot_1a">Jus d\'orange</string>
+	<string name="Screenshot_1b">1 kopje</string>
+	<string name="Screenshot_2a">Boterham</string>
+	<string name="Screenshot_2b">1 snee</string>
+	<string name="Screenshot_3a">Ei</string>
+	<string name="Screenshot_H1">Appel</string>
+	<string name="Screenshot_H2">Koffie</string>
+	<string name="Screenshot_H3">Banaan</string>
+	<string name="StoreKeyword_1">Calorieteller</string>
+	<string name="StoreKeyword_2">Eet logboek</string>
+	<string name="StoreKeyword_3">Dieet</string>
+	<string name="StoreKeyword_4">Calorieën</string>
+	<string name="StoreKeyword_5">Voeding</string>
+	<string name="StoreText_1">Voedingsschema: Uw dieet en calorie app bijhouden.</string>
+	<string name="StoreText_2">OVER DE APP:
+Het bijhouden van wat je eet is gebleken om te helpen voorkomen en stoppen over-eating.
+Dit app helpt u de controle uw dieet en eten gezonder, door waardoor het gemakkelijk is om te volgen wat je eet. Het ontwerp is geoptimaliseerd voor het maken van post zo snel als mogelijk, met 1 klik de ingang, en recente voedsel suggesties. De ingebouwde database heeft al duizenden van voedselpunten en als jou niet bekend zijn, ze toe te voegen is gemakkelijk.
+
+Let op: Dit app is gratis te downloaden, en worden ondersteund door advertenties. U kunt het gratis gebruiken zo lang als je wilt. Het is mogelijk om te verwijderen van de advertentie voor een vergoeding, die zal ook extra functies inschakelen.</string>
+	<string name="StoreText_3">FUNCTIES:
+1. een eenvoudig en krachtig ontwerp: app opent direct op het invoerscherm, op de meest recente maaltijd, want dat is wat u het meest zult gebruikt. Het ontwerp maakt toe te voegen posten zo eenvoudig en intuïtief als mogelijk.
+2. één kraan post met gepersonaliseerde Suggesties: de meest voorkomende voedingsmiddelen kunnen onmiddellijk worden geselecteerd. Beginnen op de tweede dag, worden uw recente items voorgesteld omdat u hetzelfde voedsel vaak eten mag.
+3. inloggen is niet nodig: geen persoonlijke gegevens of contactgegevens is vereist.
+4. duizenden items al in de database: de meeste voedselpunten hebben nauwkeurige informatie over gemeenschappelijk presenteren maten, calorieën, koolhydraten, eiwitten en vetten. 
+5. volledige off-line steun: geen behoefte om te worden aangesloten op het internet. 
+6. de nauwkeurige vermelding is ook eenvoudig: het precieze bedrag met een schuifregelaar kunt u nauwkeurig opgeven.
+7. dagelijks rapporten: via het menu, kunt u rechtstreeks openen het dagboek, waarin een samenvatting van uw dag. Hier kunt u schakelen tussen calorieën, eiwitten en koolhydraten door te drukken op de kleine driehoek.
+8. het bijhouden van uw doelen: na het invoeren van uw persoonlijke doelen, kunt u het verslag van de week om te zien uw trends. 
+9. persoonlijke herinneringen helpen je op koers te blijven: ze zijn een handige manier om ervoor te zorgen dat u uw dagboek, invullen na elke maaltijd, of aan het einde van de dag.
+
+Het is een goed idee om te controleren of dat de gegevens in de database is hetzelfde als de informatie over uw voedselverpakking; voeding voeding schommelt met merken en na verloop van tijd.
+
+Zorg ervoor dat u uw doelstellingen te bespreken met uw arts of voeding specialist.</string>
+	<string name="StoreText_4">PREMIUM-FUNCTIES:
+1. geen meer reclame.
+2. een veel grotere voedsel-database.
+3. de mogelijkheid om e-mail uzelf een kopie van de melkerij.
+4. meer configuratieopties, waaronder de mogelijkheid om maximaal 8 afzonderlijke maaltijden per dag.</string>
+	<string name="StoreText_5">Nu downloaden omdat u zult gebruiken.</string>
+	<string name="AppTitle">Eetdagboek</string>
+	<string name="Screenshot_3b">1 middelgrote</string>
+	<string name="EmailReport_Address">E-mailadres</string>
+	<string name="EmailReport_Footer1">Logboek van AAA 
+Vragen of opmerkingen\? Antwoord naar BBB</string>
+	<string name="EmailReport_SendNow">nu verzenden</string>
+	<string name="EmailReport_ShowSettings">Verzend per e-mail</string>
+	<string name="EmailReport_SubjectTemplate">Voedsel logboek voor {0}</string>
+	<string name="EmailReport_Exception">Er ging onverwacht iets verkeerd. Het logboek is niet verzonden.</string>
+	<string name="EmailReport_InvalidEmailAddress">Voer een geldig e-mailadres in.</string>
+	<string name="Total">Totaal</string>
+	<string name="BuyNow">Koop nu</string>
+	<string name="Feature1_Desc">Alle advertenties worden definitief verwijderd</string>
+	<string name="Feature1_Text">Geen reclame</string>
+	<string name="Feature2_Desc">E-mail uw logboek zodat u het kun opslaan, printen of analyseren</string>
+	<string name="Feature2_Text">E-mail verslagen</string>
+	<string name="Feature3_Desc">Honderden tot duizenden meer voedselwaren (afhankelijk van de locatie)</string>
+	<string name="Feature3_Text">Meer eetwaren *</string>
+	<string name="Feature4_Desc">Voor het bijhouden van 5, 6 of meer maaltijden per dag</string>
+	<string name="Feature4_Text">Meer maaltijden</string>
+	<string name="Feature5_Desc">Alle premie functies in toekomstige updates</string>
+	<string name="Feature5_Text">Nieuwe functies</string>
+	<string name="Feature_Footer">* Opmerking: De meeste, maar niet alle gegevens zijn afkomstig van betrouwbare bronnen. Door de aankoop van de premium-versie, accepteert u volledige verantwoordelijkheid voor de juistheid en volledigheid van de gegevens. E-mail: daily.journal@outlook.com</string>
+	<string name="Feature_Header">Inbegrepen:</string>
+	<string name="GetAllFeatures">Krijg alle functies</string>
+	<string name="Price">slechts {0}</string>
+	<string name="Feature6_Desc">Help om de updates van deze app bij te werken</string>
+	<string name="Feature6_Text">Ondersteun de ontwikkeling</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+De meeste, maar niet alle gegevenspunten in de database afkomstig zijn van betrouwbare bronnen. We doen ons best om te controleren of alle waarden zijn nauwkeurig, maar niet aansprakelijk voor onjuiste of ontbrekende gegevens. Nutritionele waarden variëren per merk en na verloop van tijd. Met behulp van deze app, u stemt ermee in om te controleren en corrigeren van gegevens in de app om te zijn volledig verantwoordelijk voor letsel of schade als gevolg van het gebruik ervan.
+
+Laat me weten als er iets is wat die ik u kan helpen.</string>
+	<string name="Product_3">Upgrade naar premium</string>
+	<string name="Product_4">Krijg toegang tot alle functies</string>
+	<string name="EmailReport_Footer2">Opmerking: De meeste, maar niet alle gegevenspunten in de database zijn afkomstig van betrouwbare bronnen. We doen ons best om ervoor te zorgen dat de waarden juist zijn, maar zijn niet aansprakelijk voor onjuiste of ontbrekende gegevens. Met behulp van de app, erkent en aanvaardt u de volledige verantwoordelijkheid voor de controle van de juistheid van de gegevens. Deze App staat u toe om discrepanties bij te werken.</string>
+	<string name="Localization_Submit">Indienen</string>
+	<string name="Localization_TranslationsText">Werk de teksten in deze lijst met betere vertalingen. Verwijder alle tekst voor artikelen die niet geschikt is voor uw regio.</string>
+	<string name="Localization_ThankYou">Bedankt voor uw hulp!</string>
+	<string name="Localization_Translations">Vertalingen</string>
+	<string name="Localization_Text">Hier kunt u helpen om deze app te verbeteren.</string>
+	<string name="Localization_Original">Origineel:</string>
+	<string name="Localization_Good">Goed</string>
+	<string name="Localization_Description">Beschrijving:</string>
+	<string name="Feedback_LocalizeText">Help met het verbeteren van de app</string>
+	<string name="Localization_CommentText">Voer uw e-mailadres als u gecontacteerd wilt worden.</string>
+	<string name="Localization_Comment">Commentaar</string>
+	<string name="Feedback_Localize">Verbeter de vertaling</string>
+	<string name="AddToLauncher">Aan startscherm toevoegen</string>
+	<string name="Avg">Gem</string>
+	<string name="Cancel">Annuleren</string>
+	<string name="CopyFromSimilarItem">Van soortgelijk item kopiëren</string>
+	<string name="DeleteEntry">Invoer verwijderen</string>
+	<string name="EnterTheWeightForThisAmount">Voer het gewicht in voor deze hoeveelheid</string>
+	<string name="MoreOptions2">Meer opties</string>
+	<string name="None">Geen</string>
+	<string name="Ok">Oké</string>
+	<string name="OneDaySalePctOff">Dagaanbieding: {0}% korting</string>
+	<string name="Total2">Totaal</string>
+	<string name="EmailReport_Footer1a">Journal door AAA</string>
+	<string name="EmailReport_Footer1b">Vragen of opmerkingen\? Antwoord op BBB</string>
+	<string name="Add_New">NIEUW ITEM</string>
+	<string name="Add_Note">VOEG EEN OPMERKING TOE</string>
+	<string name="add_target">VOEG VOEDING TOE</string>
+	<string name="choose_time">stel tijd in</string>
+	<string name="daily_target">Voeding</string>
+	<string name="daily_target_hint">Dagdoel (optioneel)</string>
+	<string name="describe_goal">Beschrijf hier je doel</string>
+	<string name="drawer_close">Sluiten</string>
+	<string name="drawer_open">Open</string>
+	<string name="edit_meals">KIES MAALTIJDEN</string>
+	<string name="enter_meal_time">Voer tijd voor elke maaltijd in</string>
+	<string name="enter_serving_weight">Voer eerst gewicht (g) in</string>
+	<string name="enter_value">Voer voeding in</string>
+	<string name="get_started">Aan de slag!</string>
+	<string name="get_started_second_text">Tik op \'+\' om een notitie aan je journaal toe te voegen.</string>
+	<string name="Input_Notes">Voer hier je opmerkingen in</string>
+	<string name="meal_options">Maaltijdopties</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Persoonlijk doel</string>
+	<string name="Per_Cup">1 kop (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">portie</string>
+	<string name="RadioButton_Alpha">alfabetisch NOTYETUSED</string>
+	<string name="RadioButton_Sort">sorteren door de geschiedenis NOTYETUSED</string>
+	<string name="Serving">Portie</string>
+	<string name="Show_More_Options">MEER OPTIES</string>
+	<string name="show_total_with_meal">Toon een voedingsdoel</string>
+	<string name="target_date">Doeldatum</string>
+	<string name="target_date_hint">Kies je doeldatum</string>
+	<string name="transition_name_circle">overgang: cirkel</string>
+	<string name="transition_name_name">overgang: naam</string>
+	<string name="transition_name_phone">overgang: telefoon</string>
+	<string name="Type_Name">Zoeken</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">Metrieke eenheden</string>
+	<string name="Units_US">Amerikaanse eenheden</string>
+	<string name="Upgrade">Upgraden</string>
+	<string name="weight_gram">gewicht (g)</string>
+	<string name="InvalidEmailError">Ongeldig e-mailadres</string>
+	<string name="NoGoalsTitle">Alle posten</string>
+	<string name="SendReportTitle">Rapport verzenden</string>
+	<string name="DeleteEntryMessage">Verwijder deze vermelding\?</string>
+	<string name="NewBody">Veel verbeteringen opgenomen: notities, meer voedsel, beter ontwerp, en meer.
+Download kostenloos\?</string>
+	<string name="NewTitle">Versie 2.0 nu beschikbaar!</string>
+</resources>

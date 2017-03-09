@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">FOOD DIARY</string>
+	<string name="CommonItems">Ortak Gıdalar</string>
+	<string name="Delete">Sil</string>
+	<string name="EmptyEntryList">Hiçbir Şey Seçilmedi</string>
+	<string name="MyRecentItems_Breakfast">Son kahvaltı öğeleri</string>
+	<string name="MyRecentItems_Dinner">Son akşam yemeği öğeleri</string>
+	<string name="MyRecentItems_Exercise">Benim son egzersizlerim</string>
+	<string name="MyRecentItems_Lunch">Son öğle yemeği öğeleri</string>
+	<string name="MyRecentItems_Snack">Son atıştırmalık öğeleri</string>
+	<string name="PageTitle">FOOD DIARY</string>
+	<string name="PageTitleBase">BESLENME GÜNLÜĞÜ- </string>
+	<string name="Period_Breakfast">Kahvaltı</string>
+	<string name="Period_Dinner">Akşam Yemeği</string>
+	<string name="Period_Exercise">Egzersiz</string>
+	<string name="Period_Lunch">Öğle yemeği</string>
+	<string name="Period_Snack">Atıştırmalık</string>
+	<string name="Search">Ara</string>
+	<string name="Today">Bugün</string>
+	<string name="StandardProperty_Amount">Miktar</string>
+	<string name="StandardProperty_Calcium">Kalsiyum</string>
+	<string name="StandardProperty_Calories">Kaloriler</string>
+	<string name="StandardProperty_Carbs">Karbohidrat</string>
+	<string name="StandardProperty_Cholesterol">Kolesterol</string>
+	<string name="StandardProperty_Fiber">Lif</string>
+	<string name="StandardProperty_Iron">Demir</string>
+	<string name="StandardProperty_MonoFat">Tekli doymamış yağ</string>
+	<string name="StandardProperty_PolyFat">Çoklu doymamış yağ</string>
+	<string name="StandardProperty_Potassium">Potasyum</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Doymuş Yağ</string>
+	<string name="StandardProperty_Sodium">Sodyum</string>
+	<string name="StandardProperty_Sugar">Şeker</string>
+	<string name="StandardProperty_TotalFat">Toplam Yağ</string>
+	<string name="StandardProperty_VitaminC">C vitamini</string>
+	<string name="StandardProperty_VitaminD">D vitamini</string>
+	<string name="StandardProperty_Weight">Kilo</string>
+	<string name="Preferences">Tercihler</string>
+	<string name="EmptySearchList">Arama terimi gir</string>
+	<string name="NewItemSuffix">(yeni öğe)</string>
+	<string name="NewRecipeSuffix">(yeni tarif)</string>
+	<string name="SearchResults">Arama sonuçları</string>
+	<string name="SearchTermNotFound">{0} bulunamadı, arama terimini değiştirmeyi dene</string>
+	<string name="AcceptNew">Ekle</string>
+	<string name="Name">İsim</string>
+	<string name="Nutrition">Beslenme</string>
+	<string name="PageTitleItemDetail">GIDA BİLGİSİ</string>
+	<string name="EnterWeight">Lütfen ilk önce ağırlık gir</string>
+	<string name="ServingSizes">Porsiyon Boyutu</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Ne kadar\?</string>
+	<string name="MoreOptions">diğer seçenekler</string>
+	<string name="NoNutritionInfo">Beslenme bilgisi yok</string>
+	<string name="AddServingSize">Bir porsiyon ekle</string>
+	<string name="Add">Ekle</string>
+	<string name="SelectDate">Takvim</string>
+	<string name="Advertisement">Reklam</string>
+	<string name="Unit_Centiliter">Santilitre</string>
+	<string name="Unit_Cup">Bardak</string>
+	<string name="Unit_Deciliter">Desilitre</string>
+	<string name="Unit_FluidOunce">Sıvı onsu</string>
+	<string name="Unit_Gallon">Galon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Litre</string>
+	<string name="Unit_Milliliter">Mililitre</string>
+	<string name="Unit_Ounce">Ons</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Pound">lb</string>
+	<string name="Unit_Quart">Kuart</string>
+	<string name="Unit_Tablespoon">Çorba kaşığı</string>
+	<string name="Unit_Teaspoon">Çay kaşığı</string>
+	<string name="Units_Centiliter">Santilitre</string>
+	<string name="Units_Cup">Su bardağı</string>
+	<string name="Units_Deciliter">Desilitre</string>
+	<string name="Units_FluidOunce">sıvı onsu</string>
+	<string name="Units_Gallon">Galon</string>
+	<string name="Units_Gram">Gram</string>
+	<string name="Units_Kilogram">Kilogram</string>
+	<string name="Units_Liter">Litre</string>
+	<string name="Units_Milliliter">Mililitre</string>
+	<string name="Units_Ounce">Ons</string>
+	<string name="Units_Pint">Pint</string>
+	<string name="Units_Pound">Libre</string>
+	<string name="Units_Quart">Kuart</string>
+	<string name="Units_Tablespoon">Yemek kaşığı</string>
+	<string name="Units_Teaspoon">Çay kaşığı</string>
+	<string name="DatabaseCulture">tr</string>
+	<string name="FeedbackSubject">Food Diary\'den e-posta</string>
+	<string name="Equivalent">Tutar</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">yükleniyor...</string>
+	<string name="ExpiredCaption">Şimdi güncelle\?</string>
+	<string name="ExpiredMessage">Bu uygulamayı kullandığın için teşekkür ederiz! Bu kopyanın süresi geçmiş bulunmaktadır. Endişelenmene gerek yok, Ok tuşuna basarsan, güncelleştirme yapman için seni indirme sayfasına götüreceğiz.</string>
+	<string name="AgentDescription">Bu işlem Food Diary Live Tile\'nı günceller.</string>
+	<string name="AgentDisabled">Telefon ayarlarında Live Tile uygulamasını devre dışı bıraktın.</string>
+	<string name="PageTitleSettings">Tercihlerim</string>
+	<string name="EnableLiveTile">Uygulama ekranında eksik öğünleri say</string>
+	<string name="Reminders">Hatırlatmalar</string>
+	<string name="SettingsScreen">Ayarlar</string>
+	<string name="PinToStart">Tile ayarla</string>
+	<string name="OpenReport">Rapor</string>
+	<string name="Report">Rapor</string>
+	<string name="CommonServingSizes">100 g|1 oz 28 GN| =Çay kaşığı 4.5 GN| =Çorba kaşığı 12 g|1 hizmet = 28 GN| =Parça 14 GN| =Dilim 12 g|1 gr = 237 g =</string>
+	<string name="TakeAPicture">Resim çek</string>
+	<string name="ReviewBody">Bu uygulamayı kullandığın için teşekkür ederiz! Eğer uygulamayı yararlı bulduysan, lütfen bir yorum bırakarak başarılı olmasına yardımcı ol.</string>
+	<string name="ReviewTitle">Yorum bırakmak ister misin\?</string>
+	<string name="Goals">Hedefler</string>
+	<string name="NoGoalSet">Hedefi ayarlanmadı</string>
+	<string name="EndOfDay">Günün sonunda</string>
+	<string name="ReminderContent">Ne yedin\?</string>
+	<string name="ReminderTitle">Hatırlatma: günlüğünü güncelle</string>
+	<string name="ReminderDescription">Eğer seçilen zaman içerisinde günlüğünü güncellemezsen, seçilmiş hatırlatmalar karşına çıkacaktır</string>
+	<string name="ScreenshotTitles">Portakal suyu, 1 bardak, tost, 1 dilim, yumurta, 1 orta boy elma, kahve, muz</string>
+	<string name="GoalOver">{0} hedef üzerinde</string>
+	<string name="GoalUnder">{0} kaldı</string>
+	<string name="OpenJournal">Günlük</string>
+	<string name="RemoveAdsText">Uygulamadan reklamları çıkarmak için TAMAM\'a tıkla</string>
+	<string name="RemoveAdsTitle">Reklamları çıkarmak istiyor musun\?</string>
+	<string name="StoreException">Windows Phone dükkanına bağlanırken bir sorun oluştu. Lütfen daha sonra yeniden dene.</string>
+	<string name="Feedback_Email">Sorun bildir</string>
+	<string name="Feedback_EmailText">Bir özellik öner ya da bir soru sor</string>
+	<string name="Feedback_Rate">Bu uygulamaya oy ver</string>
+	<string name="Feedback_RateText">Özel geribildirim, uygulamanın iyileştirilmesine yardımcı olur.</string>
+	<string name="Feedback_Screenshot">Tercümeyi iyileştirmemize yardımcı ol</string>
+	<string name="Feedback_ScreenshotText">Ekran görüntüsü yakalama dahil</string>
+	<string name="Feedback_Share">Bağlantı paylaş</string>
+	<string name="Feedback_ShareText">Bu uygulamayı indirmek için</string>
+	<string name="ScreenshotSubject">Food Diary metni</string>
+	<string name="ShareMessage">Windows Phone için Food Diary\'e göz at</string>
+	<string name="ShareTitle">Food Diary</string>
+	<string name="CommonItems_Breakfast">Ortak kahvaltı gıdaları</string>
+	<string name="CommonItems_Dinner">Ortak akşam yemeği gıdaları</string>
+	<string name="CommonItems_Lunch">Ortak öğle yemeği gıdaları</string>
+	<string name="CommonItems_Snack">Ortak atıştırmalık gıdalar</string>
+	<string name="Meals">Yemekler</string>
+	<string name="Period_SnackMorning">Sabah</string>
+	<string name="Period_SnackEarlyAfternoon">İkindi</string>
+	<string name="Period_SnackAfternoon">Öğleden sonra</string>
+	<string name="Meals_SnackMorningEnabled">Sabah atıştırmalığını ayır</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">İkindi atıştırmalığını ayır</string>
+	<string name="Meals_SnackAfternoonEnabled">Öğleden sonra atıştırmalığını ayır</string>
+	<string name="Period_SnackEvening">Akşam</string>
+	<string name="Meals_SnackMidnightEnabled">Gece yarısı atıştırmalığını ayır</string>
+	<string name="Period_SnackMidnight">Gece yarısı</string>
+	<string name="Meals_SnacksCombined">Atıştırmalıkları birleştir</string>
+	<string name="Meals_SnackEveningEnabled">Akşam atıştırmalığını ayır</string>
+	<string name="MyRecentItems_SnackAfternoon">Son kullanılan öğleden sonra öğeleri</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Son ikindi öğeleri</string>
+	<string name="MyRecentItems_SnackEvening">Son akşam öğeleri</string>
+	<string name="MyRecentItems_SnackMidnight">Son gece yarısı öğeleri</string>
+	<string name="MyRecentItems_SnackMorning">Son sabah öğeleri</string>
+	<string name="CommonItems_SnackAfternoon">Ortak öğleden sonra gıdaları</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Ortak ikindi gıdaları</string>
+	<string name="CommonItems_SnackEvening">Ortak akşam gıdaları</string>
+	<string name="CommonItems_SnackMidnight">Ortak gece yarısı gıdaları</string>
+	<string name="CommonItems_SnackMorning">Ortak sabah gıdaları</string>
+	<string name="UnlockFullBody">Beslenme günlüğü çalıştığın için teşekkür ederim. {0} deneme gün kalan var. App kilidini açmak için Tamam\'ı tıklatın.</string>
+	<string name="UnlockFullTitle">Şimdi kilidini\?</string>
+	<string name="TrialExpiredBody">Deneme süresi geçmiş. Senin günlüğünü görüntüleyebilirsiniz, ancak yeni girdi eklenemiyor. Tam sürümü kilidini açmak için Tamam\'ı tıklatın.</string>
+	<string name="Feedback_RemoveAds">Reklamları kaldır</string>
+	<string name="Feedback_RemoveAdsText">Kalıcı olarak tüm reklamları kaldır</string>
+	<string name="StoreText_5">Çünkü sen-ecek aşk istimal o şimdi karşıdan yükle.</string>
+	<string name="AppTitle">Food Diary</string>
+	<string name="StoreText_4">PREMIUM ÖZELLİKLERİ:
+1. hiç bir reklam yok.
+2. daha büyük gıda veritabanı.
+3. süt bir kopyasını kendi e-posta özelliği.
+4. daha fazla yapılandırma seçenekleri, 8 ayrı öğün girmek gibi.</string>
+	<string name="StoreText_3">ÖZELLİKLERİ:
+1. basit ve güçlü tasarımı: çünkü en kullanacağınız app giriş ekranında en son yemeğin üzerinde doğrudan açar. Tasarım basit ve sezgisel mümkün olduğunca ekleyerek girişler yapar.
+2. bir dokunun girişi ile Kişiselleştirilmiş öneriler: en sık görülen besin öğeleri hemen seçilebilir. Sık sık aynı yemek yiyebilirsin çünkü ikinci gününden başlayarak, son kullanılan öğeler önerilmektedir.
+3. giriş gerekli değildir: kişisel veri veya iletişim bilgileri gereklidir.
+4. binlerce ürün veritabanında varolan: çoğu besin öğeleri ortak hizmet boyutları, kalori, karbonhidrat, protein ve yağ hakkında doğru bilgi yok. 
+5. tam çevrimdışı destek: Internet\'e bağlı olmanız gerekmez. 
+6. kesin giriş kolay: doğru bir ayar düğmesini kullanarak kesin tutarını girebilirsiniz.
+7. günlük raporlar: menüyü kullanarak, günün özetini gösterir günlük, doğrudan açabilirsiniz. Burada küçük üçgen tuşuna basarak arasında kalori, protein ve karbonhidrat geçebilirsiniz.
+8. hedeflerinizi takip: kişisel hedeflerinize girdikten sonra eğilimleri görmek için hafta raporunu kullanabilirsiniz. 
+9. kişisel anımsatıcı hedefe kalmanıza yardım: Sen doldurmak senin günlüğün, her yemekten sonra veya günün sonunda emin olmak için uygun bir yoldur.
+
+Gıda ambalaj bilgileri ile aynı veritabanında bilgilerini doğrulamak iyi bir fikirdir; Gıda beslenme markalarla ve zaman içinde değişiklik gösterir.
+
+Hedefleriniz sizin doktor veya beslenme uzmanı ile görüşmek için emin olun.</string>
+	<string name="StoreText_2">UYGULAMASI HAKKINDA:
+Koruma iz-in ne yemek önlemek ve aşırı yeme durdurmak yardımcı olduğu gösterilmiştir.
+Bu app ve ne yemek izlemek kolay hale getirerek daha sağlıklı, yemek diyet kontrol yardımcı olur. Tasarım 1 tıklayın giriş ile mümkün ve son yemek öneriler olarak hızlı bir giriş yapabilmek için optimize edilmiştir. Yapılı içinde veritabanı zaten binlerce besin öğeleri ve eğer senin bilinen değil, onları eklemek kolaydır.
+
+Lütfen dikkat: Bu app indirmek için ücretsiz ve reklam tarafından desteklenir. Siz istediğiniz kadar ücretsiz olarak kullanabilirsiniz. Ayrıca ek özellikler sağlayacak bir ücret karşılığında reklam kaldırmak mümkündür.</string>
+	<string name="StoreText_1">Beslenme günlüğü: Sizin beslenme ve kalori app izleme.</string>
+	<string name="StoreKeyword_5">Beslenme</string>
+	<string name="StoreKeyword_4">Kaloriler</string>
+	<string name="StoreKeyword_3">Diyet</string>
+	<string name="StoreKeyword_2">Yiyecek günlüğü</string>
+	<string name="StoreKeyword_1">Kalori sayacı</string>
+	<string name="Screenshot_H3">Muz</string>
+	<string name="Screenshot_H2">Kahve</string>
+	<string name="Screenshot_H1">Elma</string>
+	<string name="Screenshot_3a">Yumurta</string>
+	<string name="Screenshot_2b">1 dilim</string>
+	<string name="Screenshot_2a">Tost</string>
+	<string name="Screenshot_1b">1 su bardağı</string>
+	<string name="Screenshot_1a">Portakal suyu</string>
+	<string name="Product_2">Desteğiniz için teşekkür ederiz! Reklamların yemek günlüğü app kalıcı olarak kaldırmak için bu seçeneği kullanın.</string>
+	<string name="Product_1">Çıkarmak reklam</string>
+	<string name="CantCalculateNutrition">Ağırlık gir</string>
+	<string name="TrialExpiredTitle">Deneme süresi bitti, kilidi açmak ister misin\?</string>
+	<string name="Screenshot_3b">1 orta boy</string>
+	<string name="SendFeedback">Hakkında</string>
+	<string name="Feedback_Header">Ne yemek izlemek için en hızlı ve en kolay yolu.
+
+Verilerin doğruluğu hakkında bilgi için aşağı ilerleyin.</string>
+	<string name="Feedback_Unlock">Şimdi yükselt</string>
+	<string name="Feedback_UnlockText">Premium sürümü satın al</string>
+	<string name="EmailReport_SubjectTemplate">{0} için yiyecek günlüğü</string>
+	<string name="EmailReport_Exception">Beklenmedik bir şey oldu. Günlük gönderilmedi.</string>
+	<string name="EmailReport_InvalidEmailAddress">Lütfen geçerli bir e-posta adresi gir.</string>
+	<string name="Total">Toplam</string>
+	<string name="Price">yalnızca {0}</string>
+	<string name="Feature6_Text">Geliştirmeyi destekle</string>
+	<string name="Feedback_Footer">YASAL UYARI:
+Çoğu, ancak tüm veri noktaları veritabanı saygın kaynaklardan gelen. Tüm değerler doğru ama eksik veya hatalı veriler için sorumlu tutulamaz emin olmak için elimizden geleni yapıyoruz. Besin değerleri, marka ve zaman içinde değişir. Bu app kullanarak, doğrulamak ve düzeltmek app herhangi bir veri ve yaralanma ya da hasar nedeniyle, kullanım, tamamen sorumlu kabul ediyorum.
+
+Yardımcı olabileceğim bir şey varsa bana bildirin.</string>
+	<string name="Feature6_Desc">Bu uygulamanın güncellemelerinin devam etmesi için yardım et</string>
+	<string name="GetAllFeatures">TÜM özellikleri al</string>
+	<string name="Feature_Header">Dahil olanlar:</string>
+	<string name="Feature_Footer">* NOT: Hepsi olmasa da verilerin çoğu noktaları saygın kaynaklardan gelmektedir.  Premium sürümü satın alarak, verilerin doğruluğu ve bütünlüğü hakkındaki tüm sorumluluğu kabul etmiş olursun. Ayrıntılı bilgi için e-posta daily.journal@outlook.com.</string>
+	<string name="Feature5_Text">Yeni özellikler</string>
+	<string name="Feature5_Desc">Gelecek güncellemelerdeki bütün premium özellikler</string>
+	<string name="Feature4_Text">Daha fazla yemek</string>
+	<string name="Feature4_Desc">Günde 5, 6 ya da daha fazla yemeği takip etmek için</string>
+	<string name="Feature3_Text">Daha fazla yiyecek *</string>
+	<string name="Feature3_Desc">Yüz binlerce daha fazla gıda (yere bağlı olarak) öğesi.</string>
+	<string name="Feature2_Text">E-posta raporları</string>
+	<string name="Feature2_Desc">Kaydetmek, yazdırmak veya analiz etmek için Günlüğünü e-posta ile gönder</string>
+	<string name="Feature1_Text">Reklam yok</string>
+	<string name="Feature1_Desc">Tüm reklamlar kalıcı olarak kaldırılır</string>
+	<string name="BuyNow">Şimdi satın al</string>
+	<string name="EmailReport_ShowSettings">E-posta ile gönder</string>
+	<string name="EmailReport_SendNow">Şimdi gönder</string>
+	<string name="EmailReport_Address">E-posta adresi</string>
+	<string name="Product_4">Tüm özelliklerine erişin</string>
+	<string name="Product_3">Premium için yükseltme</string>
+	<string name="EmailReport_Footer2">NOT: Hepsi olmasa da veritabanındaki çoğu veri noktaları saygın kaynaklardan gelmektedir. Değerleri olabildiğince doğru tutmaya çalışıyoruz, fakat eksik veya hatalı veriler için sorumlu tutulamayız. Uygulamayı kullanarak,  verilerin doğruluğunu kontrol etmek için tüm sorumluluğu kabul etmiş olursun. Uygulama, buldupun tutarsızlıkları güncelleştirmene olanak sağlar.</string>
+	<string name="EmailReport_Footer1">AAA tarafından günlüğü
+Soru veya yorum\? BBB yanıtla</string>
+	<string name="Localization_Submit">Gönder</string>
+	<string name="Localization_TranslationsText">Bu listedeki metinler daha iyi çeviriler ile güncelleyin. Sizin bölgeniz için uygunsuz maddeler için tüm metni kaldırın.</string>
+	<string name="Localization_ThankYou">Yardımların için teşekkür ederiz!</string>
+	<string name="Localization_Translations">Çeviriler</string>
+	<string name="Localization_Text">Buradan bu uygulamayı iyileştirmeye yardımcı olabilirsin.</string>
+	<string name="Localization_Original">Özgün:</string>
+	<string name="Localization_Good">İyi</string>
+	<string name="Localization_Description">Açıklama:</string>
+	<string name="Feedback_LocalizeText">Uygulamayı iyileştirmemize yardımcı ol</string>
+	<string name="Localization_CommentText">İletişime geçmemizi istiyorsan e-posta adresini gir.</string>
+	<string name="Localization_Comment">Yorum</string>
+	<string name="Feedback_Localize">Tercümeleri geliştir</string>
+	<string name="AddToLauncher">Launcher\'a ekle</string>
+	<string name="Avg">Ortalama</string>
+	<string name="Cancel">İptal et</string>
+	<string name="CopyFromSimilarItem">Benzer gıdadan kopyala</string>
+	<string name="DeleteEntry">Veriyi sil</string>
+	<string name="EnterTheWeightForThisAmount">Bu miktar için ağırlık gir</string>
+	<string name="MoreOptions2">Diğer seçenekler</string>
+	<string name="None">Hiçbiri</string>
+	<string name="Ok">Tamam</string>
+	<string name="OneDaySalePctOff">1 günlük indirim: {0} % indirim</string>
+	<string name="Total2">Toplam</string>
+	<string name="EmailReport_Footer1a">AAA günlüğü</string>
+	<string name="EmailReport_Footer1b">Soru ya da yorumların var mı\? BBB\'ye cevap ver</string>
+	<string name="Add_New">YENİ ÖĞE</string>
+	<string name="Add_Note">NOT EKLEME</string>
+	<string name="add_target">BESLENME EKLE</string>
+	<string name="choose_time">Saat ayarlama</string>
+	<string name="daily_target">Beslenme</string>
+	<string name="daily_target_hint">Günlük hedef (isteğe bağlı)</string>
+	<string name="describe_goal">Amacınız burada tarif</string>
+	<string name="drawer_close">Kapat</string>
+	<string name="drawer_open">Açık</string>
+	<string name="edit_meals">YEMEK SEÇİN</string>
+	<string name="enter_meal_time">Her yemek için girin</string>
+	<string name="enter_serving_weight">Ağırlık (g) girin</string>
+	<string name="enter_value">Beslenme girin</string>
+	<string name="get_started">Başlayın!</string>
+	<string name="get_started_second_text">Dokunun \'+\', günlüğe bir girdi eklemek için.</string>
+	<string name="Input_Notes">Notlarınızı buraya girin</string>
+	<string name="meal_options">Yemek seçenekleri</string>
+	<string name="Period_First_Snack">Period_First_Snack kullanılmıyor</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack kullanılmıyor</string>
+	<string name="Period_Second_Snack">Period_First_Snack kullanılmıyor</string>
+	<string name="Period_Third_Snack">Period_First_Snack kullanılmıyor</string>
+	<string name="personal_goal">Kişisel amaç</string>
+	<string name="Per_Cup">1 su bardağı (250 gram) kullanılmıyor</string>
+	<string name="Per_Grams">100 gram</string>
+	<string name="portion_caption">bölümü</string>
+	<string name="RadioButton_Alpha">alfabetik olarak NOTYETUSED</string>
+	<string name="RadioButton_Sort">Tarih NOTYETUSED tarafından sıralamak</string>
+	<string name="Serving">Hizmet</string>
+	<string name="Show_More_Options">DAHA FAZLA SEÇENEK</string>
+	<string name="show_total_with_meal">Beslenme hedef göster</string>
+	<string name="target_date">Hedef Tarih</string>
+	<string name="target_date_hint">İçin hedef tarih seçin</string>
+	<string name="transition_name_circle">geçiş: Daire</string>
+	<string name="transition_name_name">geçiş: isim</string>
+	<string name="transition_name_phone">geçiş: telefon</string>
+	<string name="Type_Name">Arama</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metrik birimler</string>
+	<string name="Units_US">ABD birimleri</string>
+	<string name="Upgrade">Yükseltme</string>
+	<string name="weight_gram">Ağırlık (g)</string>
+	<string name="InvalidEmailError">Geçersiz e-posta adresi</string>
+	<string name="NoGoalsTitle">Tüm girişler</string>
+	<string name="SendReportTitle">Raporu Gönder</string>
+	<string name="DeleteEntryMessage">Bu girdiyi silmek\?</string>
+	<string name="NewBody">Dahil birçok yenilik: notlar, daha fazla yiyecek, daha iyi tasarım ve daha fazla.
+Ücretsiz download\?</string>
+	<string name="NewTitle">Sürüm 2.0 şimdi elde edilebilir!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="3">
+    <CheckBox
+        style="@style/AppTheme"
+        android:id="@+id/checkbox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.4"
+        android:background="?attr/selectableItemBackground"
+        android:layout_marginLeft="@dimen/check_box_left"
+        android:layout_marginStart="@dimen/check_box_left" />
+    <EditText
+        android:id="@+id/edit_meal_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.2"
+        android:hint="Input Meal Time"
+        android:enabled="false"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary_text_default_material_light" />
+</LinearLayout>

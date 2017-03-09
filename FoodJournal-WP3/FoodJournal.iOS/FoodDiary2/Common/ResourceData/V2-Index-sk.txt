@@ -1,0 +1,470 @@
+﻿Row	Meal	Name	Pos
+0	B	Vajcia	33
+1	B	Káva	205
+2	B	Prípitok	329
+3	B	Chlieb	574
+4	B	Banán	874
+5	B	Káva	1186
+6	L	Chlieb	1319
+7	S	Čaj	1619
+8	B	Čaj	1731
+9	B	Prípitok	1843
+10	B	Banán	2142
+11	D	Chlieb	2399
+12	B	Ovsené vločky	2700
+13	B	Nízka tuk ovocné jogurty	2829
+14	L	Paradajka	2933
+15	L	Vajcia	3164
+16	D	Biela ryža	3337
+17	B	Celok-pšeničná chlieb	3447
+18	D	Mrkva	3689
+19	S	Sušienky	4007
+20	B	Káva	4167
+21	D	Paradajka	4301
+22	B	Slanina	4576
+23	L	Biela ryža	4745
+24	S	Káva	4855
+25	S	Nízka tuk ovocné jogurty	4980
+26	L	Paradajka	5084
+27	S	Chlieb	5359
+28	B	Banán	5660
+29	D	Vajcia	5924
+30	D	Cibuľa	6097
+31	D	Kuracie	6409
+32	B	Nízka tuk ovocné jogurty	6587
+33	D	Syr čedar	6757
+34	S	Banán	6997
+35	B	1% mlieka	7310
+36	B	Syr čedar	7463
+37	S	Banán	7703
+38	L	Biela ryža	7960
+39	D	Červené víno	8071
+40	B	Káva	8143
+41	L	Mrkva	8242
+42	B	Chlieb	8560
+43	L	Kuracie	8838
+44	L	Nízka tuk ovocné jogurty	8979
+45	B	Ovos	9147
+46	B	Francúzsky chlieb	9271
+47	B	Banán	9434
+48	B	Chlieb	9733
+49	L	Pečené fazuľa	9968
+50	D	Paradajka	10028
+51	B	Syr čedar	10259
+52	L	Banán	10427
+53	D	Prípitok	10740
+54	L	Syr čedar	10986
+55	B	Instantná káva	11226
+56	L	Zrnami ryže	11288
+57	D	Červené víno	11350
+58	D	Paradajka	11424
+59	D	Slanina	11700
+60	L	Olivový olej	11869
+61	L	Paradajka	11968
+62	S	Vajcia	12186
+63	D	Kuracie prsia	12359
+64	L	Čaj	12496
+65	L	Paradajka	12609
+66	B	Kukuričné vločky	12885
+67	L	Chlieb	13004
+68	S	Prípitok	13282
+69	B	Banán	13528
+70		Smotanový syr	13827
+71		Parmezán	14041
+72		Švajčiarsky syr	14193
+73		Americký syr	14438
+74		Americký syr	14689
+75		Syr šíriť	14938
+76		Pol na pol	15081
+77		Ľahký krém	15260
+78		Ťažkých šľahačkou	15433
+79		Solené maslo	15634
+80		Šľahačkou maslo	15836
+81		Maslo olej	16038
+82		Syr čedar	16227
+83		Kyslou smotanou	16474
+84		Nahradiť krém v prášku	16613
+85		Plnotučné mlieko	16775
+86		2% mlieka	16936
+87		1% mlieka	17096
+88		Nemastný mlieka	17256
+89		Suché mlieko	17417
+90		Úplne čokoládové mlieko	17562
+91		Čokoládové mlieko	17728
+92		Nízkotučné čokoládové mlieko	17891
+93		Vanilkový jogurt s nízkym obsahom tuku	18051
+94		Nízka tuk ovocné jogurty	18225
+95		Vajcia	18402
+96		Vaječný žĺtok	18582
+97		Vyprážané vajcia	18724
+98		Varených vajec	18906
+99		Miešané vajcia	19126
+100		Sušené vaječné	19345
+101		Maslo bez soli	19487
+102		Neprispôsobených nemastný mlieka	19689
+103		Syrovou omáčkou	19849
+104		Nízkym obsahom tuku čedar	19993
+105		Ľahké nízke tuk ovocné jogurty	20233
+106		Krém náhrada	20407
+107		Opevnených nízkym tuku ovocie jogurt	20567
+108		Svetlo opevnených nízkym tuku ovocie jogurt	20747
+109		Horčica	20923
+110		Soľ	21050
+111		Ovsené detská	21186
+112		Dieťa ryže obilnín	21349
+113		Masť	21484
+114		Majonéza dressingom	21602
+115		Zálievka s majonézou	21740
+116		Arašidový olej	21893
+117		Sójový olej	22022
+118		Olivový olej	22157
+119		Taliansky dresing	22294
+120		Dresing francúzsky	22448
+121		Nízka tuku rastlinný olej šíriť	22601
+122		Kukuričný olej	22798
+123		Modrým syrom dressingom	22932
+124		Repkový olej	23090
+125		Margarín	23223
+126		Rastlinný olej šíriť	23418
+127		Rastlinný olej	23566
+128		Priemyselné sójového oleja	23704
+129		Priemyselné sóje a olej z bavlníkových	23838
+130		Kokosový olej	23972
+131		Kuracie	24106
+132		Obaľované kuracie	24308
+133		Kuracie	24515
+134		Vyprážané kurča	24713
+135		Pečené kuracie mäso	24918
+136		Dusené kurča	25118
+137		Kuracia pečeň	25318
+138		Kuracie prsia s kožou	25442
+139		Obaľované kuracie prsia	25595
+140		Pečené kuracie prsia	25754
+141		Kuracím mäsom	25906
+142		Kuracie prsia	26064
+143		Dolné stehno	26217
+144		Kuracie stehno	26386
+145		Kuracie stehna	26565
+146		Kuracie krídla	26723
+147		Pečené kuracie krídla	26861
+148		Pečená morka	26979
+149		Pečené morčacie mäso	27115
+150		Morčacie	27247
+151		Kuracie nugety	27355
+152		Hovädzí vývar	27471
+153		Kuracie rezancová polievka	27622
+154		Krém hubová polievka	27782
+155		Omáčku	27942
+156		Hovädzie mäso skladom	28088
+157		Kurací vývar	28246
+158		Polievka z mušlí	28406
+159		Kurací vývar	28572
+160		Pečeň klobása	28727
+161		Párok v rožku	28861
+162		Kuracie párok v rožku	28992
+163		Druh klobásy jaternice	29129
+164		Obed mäso	29270
+165		Feferónky	29400
+166		Klobása	29531
+167		Hovädzie a bravčové klobásy	29656
+168		Saláma	29790
+169		Morčacie prsia	29923
+170		Talianskej klobásy	30115
+171		Vopred uvarené jaternice	30276
+172		Kakao kamienky	30402
+173		Kukurica chex	30519
+174		Kukuričné vločky	30637
+175		All-otruby pšeničné vločky	30760
+176		Otruby, vločky	30873
+177		Ovocná štrk	30995
+178		Granolového	31107
+179		Hrozna-orechy z obilnín	31232
+180		KIX	31362
+181		Talizmany	31491
+182		Hrozienkové otruby	31623
+183		Hrozienkové otrúb obilnín	31751
+184		Ryža chex	31875
+185		Zamrznuté vločky	31996
+186		Celé zrno celkom	32124
+187		Pšenica chex	32245
+188		Kukuričnej krupice	32367
+189		Ovos	32495
+190		Ovsené vločky	32631
+191		Ovos so škoricou a korenia	32772
+192		Vločky s hrozienkami a korenia	32913
+193		Nízkym obsahom tuku granolového bez hrozienok	33058
+194		Reese je pusinky	33174
+195		Ovsené vločky štvorce	33298
+196		Ovsených otrúb obilnín	33429
+197		Vlákniny, jeden	33559
+198		Celková hrozienkové otruby	33674
+199		Kakao pusinky	33792
+200		Nízkym obsahom tuku granolového s hrozienkami	33913
+201		Med opekané ovsa	34031
+202		Vanilka, mandle	34150
+203		Jablková šťava	34268
+204		Jablkové pyré	34428
+205		Avokádo	34567
+206		Banán	34757
+207		Čučoriedky	35078
+208		Hroznová šťava	35215
+209		Hrozno	35377
+210		Ananásový melón	35530
+211		Čerstvej pomarančovej šťavy	35925
+212		Pomarančový džús koncentrát	36081
+213		Pomarančový džús s vápnikom	36244
+214		Pomarančový džús mrazené koncentrát	36408
+215		Broskyňa	36575
+216		Hruška	36794
+217		Ananás	37005
+218		Hrozienka	37248
+219		Jahoda	37507
+220		Mrazené jahody	37814
+221		Melón	38125
+222		Jablko a hruška hroznového džúsu	38516
+223		Pečené tuku na bravčová panenka	38678
+224		Pečené bravčové bábiky	38805
+225		Pečená bravčová panenka	38931
+226		Bravčové kotlety	39058
+227		Slanina	39186
+228		Šunka	39367
+229		Pečené tuku na šunku	39517
+230		Pečená šunka	39649
+231		Extra chudé šunky	39779
+232		Extra chudé pečená šunka	39930
+233		Bravčové rezy	40081
+234		Vozovkou bravčové	40212
+235		Šunka s prirodzený džúsy	40333
+236		Šunka a vody	40492
+237		Šunka - pridaná voda	40647
+238		Špargľa	40805
+239		Zelené fazuľa modul	40923
+240		Konzervy, fazuľa zelená	41061
+241		Mrazené zelené fazuľa modul	41238
+242		Surové brokolica	41374
+243		Brokolica	41639
+244		Nakrájané brokolica	41903
+245		Mrazené brokolica	42166
+246		Surovej kapusty	42429
+247		Kapusta	42779
+248		Mrkva	43127
+249		Varená mrkva	43453
+250		Mrazené mrkvy	43777
+251		Zeler	44103
+252		Čakanka zelených	44393
+253		Kel	44522
+254		Kukurica	44658
+255		Žltá kukurice konzervy	44930
+256		Mrazené kukurice	45085
+257		Uhorka	45357
+258		Čakanka	45606
+259		Kel	45771
+260		Rímsky šalát	45901
+261		Ľadový šalát	46256
+262		Zelený šalát	46615
+263		Biela hubová	46974
+264		Horčica greenov	47138
+265		Cibuľa	47273
+266		Varená cibuľa	47593
+267		Jarná cibuľka	47916
+268		Petržlen	48140
+269		Zelený hrášok	48318
+270		Konzervované zelený hrášok	48445
+271		Mrazený zelený hrášok	48572
+272		Zemiaky	48699
+273		Pečené zemiaky	48925
+274		Zemiaky v koži	49148
+275		Varené zemiaky	49370
+276		Hashovaný adresár hnedá	49593
+277		Zemiaková kaša	49732
+278		Zemiakové pusinky	49860
+279		Rúra hranolky	50029
+280		Surový špenát	50227
+281		Varené špenát	50412
+282		Konzervované špenát	50539
+283		Pečené batáty	50664
+284		Sladké zemiaky	50868
+285		Paradajka	51068
+286		Varené paradajky	51429
+287		Konzervované paradajky	51714
+288		Dusené paradajky v konzervách	51910
+289		Paradajková šťava	52193
+290		Paradajkový pretlak	52358
+291		Konzervy paradajkovou omáčkou	52525
+292		Okrúhlice	52690
+293		Konzervované zeleninové šťavy	52828
+294		Miešanú zeleninou	52992
+295		Konzervované sladké zemiaky	53118
+296		Konzervované mrkvová šťava	53320
+297		Pečené zemiaky s kožou	53483
+298		Paradajkový pretlak	53708
+299		Kečup	53877
+300		Rôsol	54029
+301		Slnečnicové semená	54263
+302		Praženej slnečnice	54393
+303		Mandle	54524
+304		Blanšírovania mandle	54728
+305		Pražené mandle	54919
+306		Orech	55109
+307		Olej praženej slnečnice	55378
+308		Pražené mandle solené	55512
+309		Kešu oriešky	55704
+310		Zmesi orechov	55883
+311		Olej pečené zmesi orechov	56009
+312		Hovädzia pečeň	56141
+313		Hovädzia pečeň	56266
+314		Hovädzie hruď	56391
+315		Hovädzie rebro	56505
+316		Hovädzie mäso	56618
+317		Hovädzie čepeľ chrbty	56823
+318		Hovädzie rebro	56938
+319		Hovädzie rebro	57056
+320		Hovädzom kole	57177
+321		Začiatok sviečkovice	57291
+322		Začiatok sviečkovice	57409
+323		Pivo	57515
+324		Svetlé pivo	57653
+325		80 dôkaz likér	57786
+326		Červené víno	57880
+327		Biele víno	57984
+328		Zeleninové a ovocné šťavy	58086
+329		Zázvorové pivo	58233
+330		Sóda citrón	58361
+331		Koreňové pivo	58496
+332		Čokoládový sirup	58626
+333		Káva bez kofeínu	58752
+334		Káva	58893
+335		Instantná káva	59042
+336		Konzervované ovocie nápoj	59162
+337		Obohatený ovocný nápoj	59297
+338		Limonáda	59443
+339		Vanilkový kokteil	59598
+340		Čaj bez kofeínu	59838
+341		Čaj	59983
+342		Instantný čaj	60128
+343		Voda z vodovodu	60293
+344		Ovocie ochutené vody	60420
+345		86 dôkaz likér	60552
+346		Balená voda	60648
+347		Obohateného ovocia ochutená voda	60776
+348		Rybie tyčinky	60906
+349		Ploché ryby	61083
+350		Sleď obyčajný	61202
+351		Losos	61439
+352		Konzervované tuniaky svetla	61558
+353		Krab	61740
+354		Krevety	61927
+355		Konzervované krevety	62071
+356		Mušle	62215
+357		Konzervované mušle	62395
+358		Ustrice	62579
+359		Sumec	62715
+360		Pstruh dúhový	62832
+361		Pečené fazuľa	62953
+362		Zapečené fazuľa s Frankovia	63078
+363		Zapečené fazuľa s bravčovým mäsom a paradajka omáčkou	63205
+364		Čierna fazuľa	63328
+365		Konzervované červenej fazule	63480
+366		Červenej fazule	63628
+367		Biela fazuľa	63791
+368		Šošovica	63940
+369		Varenej šošovice	64091
+370		Solené arašidy	64242
+371		Pražené arašidy solené	64391
+372		Arašidové maslo	64536
+373		Fazuľami	64664
+374		Sójová omáčka	64801
+375		Obohatený tempeh	64977
+376		Zníženie tuku arašidové maslo	65140
+377		Arašidy bez soli	65263
+378		Pražené arašidy	65410
+379		Bagel škorica hrozienkové	65553
+380		Sušienky	65734
+381		Sušienky	65902
+382		Kukuričný chlieb	66076
+383		Francúzsky chlieb	66214
+384		Taliansky chlieb	66443
+385		Multi-obilia chleba	66644
+386		Ražný chlieb	66951
+387		Chlieb	67255
+388		Prípitok	67564
+389		Biely chlieb	67872
+390		Celok-pšeničná chlieb	68178
+391		Celok-pšeničná prípitok	68483
+392		Strúhanka	68789
+393		Čokoládovú tortu	68937
+394		Piškótový tortu	69091
+395		Tvarohový koláč	69243
+396		Krakovania	69386
+397		Krekry s arašidové maslo	69559
+398		Pšenica sušienky	69736
+399		Staromódny šiška	69910
+400		Šiška	70146
+401		Palacinka	70387
+402		Jablkový koláč	70553
+403		Tekvicový koláč	70730
+404		Prášok do pečiva	70910
+405		Droždie	71021
+406		Vafle	71173
+407		Cmar vafle	71322
+408		Matné sendvičovač pečivo	71471
+409		Kukuričné lupienky	71598
+410		Syrové pusinky	71754
+411		Granolového bare	71920
+412		Karamelky	72028
+413		Čokoláda na varenie	72175
+414		Polosladké čokoláda	72312
+415		Čokoládový Fondán potiahnuté	72440
+416		Svetlo vanilkovou zmrzlinou	72547
+417		Vanilková zmrzlina	72681
+418		Pomarančový Zmrzlinový	72810
+419		Želé	72931
+420		Tvrdé cukríky	73278
+421		Mliečna čokoláda	73390
+422		Arašidové M & Ms	73525
+423		M & Ms	73715
+424		Kakaový prášok	73907
+425		Čokoládová zmrzlina	74044
+426		Typu ľadu vápna	74170
+427		Med	74275
+428		Želé	74394
+429		Hnedý cukor	74535
+430		Cukor	74734
+431		Práškový cukor	74925
+432		Javorový sirup	75015
+433		Javorový sirup	75150
+434		Čipy	75273
+435		Zníženie tuku čipy	75433
+436		Obohatený kukuričná múka	75586
+437		Hnedá ryža	75709
+438		Surové biela ryža	75830
+439		Biela ryža	75953
+440		Zrnami ryže	76075
+441		Instantné ryžové	76198
+442		Celozrnné múky	76314
+443		Hladkej múky	76437
+444		Bielej chlebovej múky	76562
+445		Tortu múky	76686
+446		Makaróny	76809
+447		Rezance	76988
+448		Špagety	77113
+449		Sušienky s vajcom a klobásou	77234
+450		Sušienky s klobásou	77367
+451		Hash hnedá	77500
+452		Hranolky	77643
+453		Mrazené pizze	77840
+454		Rastúce chrumkavú pizzu	77973
+455		Kuracie ponuky	78105
+456		Cestoviny s mäsovými guľkami v paradajkovej omáčke	78234
+457		Cestoviny s paradajkovou omáčkou	78359
+458		Mleté hovädzie mäso (75/25)	78495
+459		Med hrozno ovos s mandľami	78615
+460		Zníženým obsahom tuku syr	78743
+461		Biele lupienky	78986
+462		Caesar dressingom	79135
+463		Granolového bare	79293
+464		Praclíky	79406
+465		Americký syr nízky obsah tuku	79555
+466		Brusnicová šťava	79797
+467		Med strapce ovsa	79955
+468		Nízky obsah tuku švajčiarsky syr	80085

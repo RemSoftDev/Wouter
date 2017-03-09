@@ -1,0 +1,1106 @@
+﻿Row	ID	AllWeights	AllProperties
+0	:LB798	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0319.72|040.9|050.4|064.6|071.5|1215|131.1|1716
+1	:LC043	1 mediana (18 cm a 20 cm)=118g|1 grande (20 cm a 22 cm)=136g|1 pequeño (15 cm a 18 cm)=101g|1 extra grande (22 cm o más)=152g|1 extra pequeños (menores de 15 cm)=81g|1 taza (en rodajas)=150g|1 taza (puré)=225g	041.2|050.2|0623|127|130.41|14348|151|176.1
+2	:LC333	1 mediana (8 cm)=182g|1 grande (8 cm)=223g|1 pequeño (7 cm)=149g|1 extra pequeño (6 cm)=101g|1 taza (picada)=125g|1 taza (rodajas)=109g	040.3|050.3|0614|127|130.7|14113|1711|090.05|100.01|110.08
+3	:LB798	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0319.72|040.9|050.4|064.6|071.5|1215|131.1|1716
+4	:LA572	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03259|0410.3|052.2|0656.1|076.6
+5	:LA568	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	048.1|052|0652.7|1250|134
+6	:LC043	1 mediana (18 cm a 20 cm)=118g|1 grande (20 cm a 22 cm)=136g|1 pequeño (15 cm a 18 cm)=101g|1 extra grande (22 cm o más)=152g|1 extra pequeños (menores de 15 cm)=81g|1 taza (en rodajas)=150g|1 taza (puré)=225g	041.2|050.2|0623|127|130.41|14348|151|176.1
+7	:LT290	1 taza=198g|1 cucharada sopera=12.3g	0424.06|050.89|0663.26|1267|133.76
+8	:LT202	1 taza=198g|1 cucharada sopera=12.3g	0423.5|050.6|0660.9|1270|139.5
+9	:LH086	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	040.7|050.2|0610.2|1211|130.2|14200|151|1750|090.02|100.01|110.03
+10	:LF295	1 pecho=290g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03172.6|0420.2|0510.2|1214|131.5
+11	:LC333	1 mediana (8 cm)=182g|1 grande (8 cm)=223g|1 pequeño (7 cm)=149g|1 extra pequeño (6 cm)=101g|1 taza (picada)=125g|1 taza (rodajas)=109g	040.3|050.3|0614|127|130.7|14113|1711|090.05|100.01|110.08
+12	:LB798	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0319.72|040.9|050.4|064.6|071.5|1215|131.1|1716
+13	:LB498	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	039.86|041.38|050.3|062.58|072.17
+14	:LB503	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	041.2|050.2|066.3|1247|131.2|1717
+15	:LB231	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	041.5|050.2|068|1232|131.2|14157|1510|1712|090.04|100.04|110.1
+16	:LB237	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	040.7|050.2|0612.4|1233|130.5|177
+17	:LC043	1 mediana (18 cm a 20 cm)=118g|1 grande (20 cm a 22 cm)=136g|1 pequeño (15 cm a 18 cm)=101g|1 extra grande (22 cm o más)=152g|1 extra pequeños (menores de 15 cm)=81g|1 taza (en rodajas)=150g|1 taza (puré)=225g	041.2|050.2|0623|127|130.41|14348|151|176.1
+18	:LC333	1 mediana (8 cm)=182g|1 grande (8 cm)=223g|1 pequeño (7 cm)=149g|1 extra pequeño (6 cm)=101g|1 taza (picada)=125g|1 taza (rodajas)=109g	040.3|050.3|0614|127|130.7|14113|1711|090.05|100.01|110.08
+19	:LJ050	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03157.5|0412.8|0511.5|060.7|1254|132.7
+20	:LG397	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	0342.6|044.3|050.2|065.9|12110|130.09|14177|1575
+21	:LF295	1 pecho=290g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03172.6|0420.2|0510.2|1214|131.5
+22	:LA726	1 taza=158g	046|050.46|0681.21|1211.5|131.45
+23	:LR160	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	044.5|0511.3|0653.1|1250|130.5|141651|15544
+24	:LL009	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0412.4|0543.7|0634.3|12130|135.8|173
+25	:LF221	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03210.8|0420.3|0514.4|1215|137.45|14107|151900
+26	:LC017	1 aguacate=201g|1 taza (puré)=230g|1 taza (cubos)=150g|1 taza (en rodajas)=146g	041.6|0513.3|064.6|1210|131|178
+27	:LH086	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	040.7|050.2|0610.2|1211|130.2|14200|151|1750|090.02|100.01|110.03
+28	:LH104	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	043|051.4|063.8|1236|130.4
+29	:LB231	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	041.5|050.2|068|1232|131.2|14157|1510|1712|090.04|100.04|110.1
+30	:LR160	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	044.5|0511.3|0653.1|1250|130.5|141651|15544
+31	:LB237	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	040.7|050.2|0612.4|1233|130.5|177
+32	:LB861	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	040.6|050.5|069.2|1233|130.5|1717.4
+33	:LA608	1 taza=140g|1 taza (en forma de espiral)=134g|1 taza (pequeñas conchas)=115g	0410.2|050.4|0676.2|1221|131.3
+34	:LG397	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	0342.6|044.3|050.2|065.9|12110|130.09|14177|1575
+35	:LG199	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03338|0424.1|0522.4|0610.1|12707|131.8
+36	:LC156	1 mediana (7 cm)=150g|1 grande (7 cm)=175g|1 taza (rodajas)=154g|1 pequeño (6 cm)=130g|1 extra grande (8 cm)=224g	040.4|050.1|0618.2|124|131.93|14151|151|173.6
+37	:LA531	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	049|053.4|0666.7|1230|134
+38	:LC244	1 kiwi=86g|1 taza (en rodajas)=186g	041|050.4|0615|1226|130.4|14332|155|1798|090.01|100.1|110.2
+39	:LC319	1 mango=336g|1 taza (piezas)=165g	040.4|050.2|0615.9|1217|130.4|1724.8
+40	:LJ050	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03157.5|0412.8|0511.5|060.7|1254|132.7
+41	:LK006	1 cucharadita desempaquetada=3g|1 paquete=2.8g|1 cucharadita llena=4.6g|1 taza llena=220g|1 taza desempaquetada=145g|1 cucharadita de brownulated=3.2g	03397.2|0699.3|130.1
+42	:LA572	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03259|0410.3|052.2|0656.1|076.6
+43	:LF295	1 pecho=290g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03172.6|0420.2|0510.2|1214|131.5
+44	:LG339		0357.1|043.1|052.94|064.56|12123|130.07|14139|1557
+45	:LG099		0363.5|043.1|053.5|064.9|12106|131.3|170.5
+46	:LG199	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03338|0424.1|0522.4|0610.1|12707|131.8
+47	:LA568	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	048.1|052|0652.7|1250|134
+48	:LA268	1 taza=160g	049.4|050.2|0677.7|1224|131.1
+49	:LG397	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	0342.6|044.3|050.2|065.9|12110|130.09|14177|1575
+50	:LA572	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03259|0410.3|052.2|0656.1|076.6
+51	:LG199	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03338|0424.1|0522.4|0610.1|12707|131.8
+52	:LA727	1 taza=158g	046|050.46|0682.06|1210.21|131.14
+53	:LC043	1 mediana (18 cm a 20 cm)=118g|1 grande (20 cm a 22 cm)=136g|1 pequeño (15 cm a 18 cm)=101g|1 extra grande (22 cm o más)=152g|1 extra pequeños (menores de 15 cm)=81g|1 taza (en rodajas)=150g|1 taza (puré)=225g	041.2|050.2|0623|127|130.41|14348|151|176.1
+54	:LL009	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0412.4|0543.7|0634.3|12130|135.8|173
+55	:LB798	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0319.72|040.9|050.4|064.6|071.5|1215|131.1|1716
+56	:LB498	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	039.86|041.38|050.3|062.58|072.17
+57	:LB503	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	041.2|050.2|066.3|1247|131.2|1717
+58	:LA608	1 taza=140g|1 taza (en forma de espiral)=134g|1 taza (pequeñas conchas)=115g	0410.2|050.4|0676.2|1221|131.3
+59	:LH086	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	040.7|050.2|0610.2|1211|130.2|14200|151|1750|090.02|100.01|110.03
+60	:LB153	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	044|050.3|065.6|12106|131.1|17100
+61	:LD064	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03640.6|041.3|0570.6|066.1|12198|130.7
+62	:LF221	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03210.8|0420.3|0514.4|1215|137.45|14107|151900
+63	:LB157	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	043.6|050.3|066.1|1248|131.1|14325|1527|17113|090.05|100.02|110.04
+64	:LJ050	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03157.5|0412.8|0511.5|060.7|1254|132.7
+65	:LR160	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	044.5|0511.3|0653.1|1250|130.5|141651|15544
+66	:LC333	1 mediana (8 cm)=182g|1 grande (8 cm)=223g|1 pequeño (7 cm)=149g|1 extra pequeño (6 cm)=101g|1 taza (picada)=125g|1 taza (rodajas)=109g	040.3|050.3|0614|127|130.7|14113|1711|090.05|100.01|110.08
+67	:LC437	1 papaya mediana=250g|1 fruta pequeña=157g|1 fruta grande=781g|1 taza (trozos de 2 cm)=145g|1 taza (puré)=230g	040.6|050.1|069.9|1224|130.1|14257|153|1762|090.04|100.02|110.01
+68	:LA531	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	049|053.4|0666.7|1230|134
+69	:LH104	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	043|051.4|063.8|1236|130.4
+70	:LR122	1 cucharada sopera=17g|1 paquete=9g	041.9|0629.6|1260|132.8|171
+71	:LB503	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	041.2|050.2|066.3|1247|131.2|1717
+72	:LB498	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	039.86|041.38|050.3|062.58|072.17
+73	:LD023	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03900|05100|121|130.4|0913.5|1072.5|117.9
+74	:U14400	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0337|040.07|050.02|069.56|088.97|122|130.11|142|154
+75	:LA531	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	049|053.4|0666.7|1230|134
+76	:LC156	1 mediana (7 cm)=150g|1 grande (7 cm)=175g|1 taza (rodajas)=154g|1 pequeño (6 cm)=130g|1 extra grande (8 cm)=224g	040.4|050.1|0618.2|124|131.93|14151|151|173.6
+77	:LF295	1 pecho=290g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03172.6|0420.2|0510.2|1214|131.5
+78	:LD064	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03640.6|041.3|0570.6|066.1|12198|130.7
+79	:LH104	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	043|051.4|063.8|1236|130.4
+80	:LT202	1 taza=198g|1 cucharada sopera=12.3g	0423.5|050.6|0660.9|1270|139.5
+81	:LR122	1 cucharada sopera=17g|1 paquete=9g	041.9|0629.6|1260|132.8|171
+82	:LT290	1 taza=198g|1 cucharada sopera=12.3g	0424.06|050.89|0663.26|1267|133.76
+83	:LC319	1 mango=336g|1 taza (piezas)=165g	040.4|050.2|0615.9|1217|130.4|1724.8
+84	:LB503	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	041.2|050.2|066.3|1247|131.2|1717
+85	:LB498	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	039.86|041.38|050.3|062.58|072.17
+86	:LA565	1 rebanada mediana (10 x 6 cm x 4 cm)=64g|1 rebanada grande (15 x 6 cm x 4 cm)=96g|1 rebanada pequeña (5 cm x 6 cm x 4 cm)=32g	049.3|050.2|0657.6|1222|131.1|1493|15274|03280
+87	:LF318	1 pecho=280g|1 taza (picado o en cubitos)=140g	03240.9|0418.9|0511.3|0615.9|129|132.4
+88	:LA568	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	048.1|052|0652.7|1250|134
+89	:LR122	1 cucharada sopera=17g|1 paquete=9g	041.9|0629.6|1260|132.8|171
+90	:LC385	1 naranja (7 cm)=131g|1 taza (secciones)=180g|1 grande (8 cm)=184g|1 pequeño (6 cm)=96g	040.7|050.2|0611.2|1220|130.7|1759
+91	:LG404	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	043.67|052.47|12132.21|130.35
+92	:LA550	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	0410.4|050.9|0649|1231|132.16|14259|15466
+93	:LF301	1 pecho=162g|1 pata de pollo=98g|1 ala=34g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03141.2|0410.3|056.4|0610.6|1233|131.4
+94	:LA565	1 rebanada mediana (10 x 6 cm x 4 cm)=64g|1 rebanada grande (15 x 6 cm x 4 cm)=96g|1 rebanada pequeña (5 cm x 6 cm x 4 cm)=32g	049.3|050.2|0657.6|1222|131.1|1493|15274|03280
+95	:LB153	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	044|050.3|065.6|12106|131.1|17100
+96	:LB157	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	043.6|050.3|066.1|1248|131.1|14325|1527|17113|090.05|100.02|110.04
+97	:LD023	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03900|05100|121|130.4|0913.5|1072.5|117.9
+98	:LC476	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0343|040.6|050.2|0611|071.2|1218|130.5|1710
+99	:LF212	1 hamburguesa=313g	03153.7|049.6|055.7|0616|1265|133
+100	:LA565	1 rebanada mediana (10 x 6 cm x 4 cm)=64g|1 rebanada grande (15 x 6 cm x 4 cm)=96g|1 rebanada pequeña (5 cm x 6 cm x 4 cm)=32g	049.3|050.2|0657.6|1222|131.1|1493|15274|03280
+101	:LG397	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	0342.6|044.3|050.2|065.9|12110|130.09|14177|1575
+102	:U09266	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0350|040.54|050.12|0613.12|071.4|089.85|1213|130.29|14109|151|1747.8|090.009|100.013|110.04
+103	:LC319	1 mango=336g|1 taza (piezas)=165g	040.4|050.2|0615.9|1217|130.4|1724.8
+104	:LA726	1 taza=158g	046|050.46|0681.21|1211.5|131.45
+105	:U14400	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0337|040.07|050.02|069.56|088.97|122|130.11|142|154
+106	:LF318	1 pecho=280g|1 taza (picado o en cubitos)=140g	03240.9|0418.9|0511.3|0615.9|129|132.4
+107	:LC244	1 kiwi=86g|1 taza (en rodajas)=186g	041|050.4|0615|1226|130.4|14332|155|1798|090.01|100.1|110.2
+108	:LB617	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	042|050.1|0616.1|126|130.7
+109	:LG339		0357.1|043.1|052.94|064.56|12123|130.07|14139|1557
+110	:LG099		0363.5|043.1|053.5|064.9|12106|131.3|170.5
+111	:LC156	1 mediana (7 cm)=150g|1 grande (7 cm)=175g|1 taza (rodajas)=154g|1 pequeño (6 cm)=130g|1 extra grande (8 cm)=224g	040.4|050.1|0618.2|124|131.93|14151|151|173.6
+112	:LF361	1 pieza=285g|1 solomillo de ternera=165g|1 rebanada fina=27g|1 costilla=268g|1 lámina=247g|1 rebanada gruesa=85g	03142.3|0420.9|056.3|060.5|126|132.3|14358|1563|092.45|102.4|110.2|1662
+113	:LA301	1 galletita (6 cm)=35g|1 mediana=51g|1 grande=77g|1 pequeño=35g	049.5|0510.7|1222|132|1495|15303
+114	:LC156	1 mediana (7 cm)=150g|1 grande (7 cm)=175g|1 taza (rodajas)=154g|1 pequeño (6 cm)=130g|1 extra grande (8 cm)=224g	040.4|050.1|0618.2|124|131.93|14151|151|173.6
+115	:U09266	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0350|040.54|050.12|0613.12|071.4|089.85|1213|130.29|14109|151|1747.8|090.009|100.013|110.04
+116	:LC437	1 papaya mediana=250g|1 fruta pequeña=157g|1 fruta grande=781g|1 taza (trozos de 2 cm)=145g|1 taza (puré)=230g	040.6|050.1|069.9|1224|130.1|14257|153|1762|090.04|100.02|110.01
+117	:LC453	1 mediana=178g|1 grande=230g|1 pequeño=148g|1 taza (en rodajas)=140g|1 taza (cubos)=161g|1 porción=166g	040.5|050.4|0615.7|129|130.2|14125|174|090.02|100.08|110.09
+118	:LA726	1 taza=158g	046|050.46|0681.21|1211.5|131.45
+119	:LB861	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	040.6|050.5|069.2|1233|130.5|1717.4
+120	:LA301	1 galletita (6 cm)=35g|1 mediana=51g|1 grande=77g|1 pequeño=35g	049.5|0510.7|1222|132|1495|15303
+121	:LC385	1 naranja (7 cm)=131g|1 taza (secciones)=180g|1 grande (8 cm)=184g|1 pequeño (6 cm)=96g	040.7|050.2|0611.2|1220|130.7|1759
+122	:LJ050	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03157.5|0412.8|0511.5|060.7|1254|132.7
+123	:LG199	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03338|0424.1|0522.4|0610.1|12707|131.8
+124	:LB861	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	040.6|050.5|069.2|1233|130.5|1717.4
+125	:LC476	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0343|040.6|050.2|0611|071.2|1218|130.5|1710
+126	:LH104	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	043|051.4|063.8|1236|130.4
+127	:LH135	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	124.8
+128	:LF318	1 pecho=280g|1 taza (picado o en cubitos)=140g	03240.9|0418.9|0511.3|0615.9|129|132.4
+129	:LC319	1 mango=336g|1 taza (piezas)=165g	040.4|050.2|0615.9|1217|130.4|1724.8
+130	:LC385	1 naranja (7 cm)=131g|1 taza (secciones)=180g|1 grande (8 cm)=184g|1 pequeño (6 cm)=96g	040.7|050.2|0611.2|1220|130.7|1759
+131	:LK041	1 barra=44g|1 taza (patatas fritas)=168g	049.4|0510.6|12275|131.4|14605|15382|096|104|110.01
+132	:LR122	1 cucharada sopera=17g|1 paquete=9g	041.9|0629.6|1260|132.8|171
+133	:LA531	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	049|053.4|0666.7|1230|134
+134	:LF212	1 hamburguesa=313g	03153.7|049.6|055.7|0616|1265|133
+135	:LC244	1 kiwi=86g|1 taza (en rodajas)=186g	041|050.4|0615|1226|130.4|14332|155|1798|090.01|100.1|110.2
+136	:U09266	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0350|040.54|050.12|0613.12|071.4|089.85|1213|130.29|14109|151|1747.8|090.009|100.013|110.04
+137	:LC476	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0343|040.6|050.2|0611|071.2|1218|130.5|1710
+138	:LH086	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	040.7|050.2|0610.2|1211|130.2|14200|151|1750|090.02|100.01|110.03
+139	:U06413	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0316|042.02|050.57|060.38|080.29|124|130.21|1486|15306|090.16|100.24|110.11
+140	:LB617	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	042|050.1|0616.1|126|130.7
+141	:LR160	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	044.5|0511.3|0653.1|1250|130.5|141651|15544
+142	:LF361	1 pieza=285g|1 solomillo de ternera=165g|1 rebanada fina=27g|1 costilla=268g|1 lámina=247g|1 rebanada gruesa=85g	03142.3|0420.9|056.3|060.5|126|132.3|14358|1563|092.45|102.4|110.2|1662
+143	:LE105	4 grandes=28g|1 mediana=6g|1 pequeño=5g	03117.2|049|056|066.8
+144	:LB231	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	041.5|050.2|068|1232|131.2|14157|1510|1712|090.04|100.04|110.1
+145	:LB490	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	041|122|130.71|14338|158
+146	:LB237	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	040.7|050.2|0612.4|1233|130.5|177
+147	:U11206	1 mediana=201g|1 rebanada=7g|1 taza (picada)=133g|1 taza (en rodajas)=119g|1 grande (21 cm)=280g|1 pequeño (16 cm)=158g|1 palo (10 cm)=9g	0312|040.59|050.16|062.16|070.7|081.38|1214|130.22|14136|152|173.2|090.013|100.002|110.003
+148	:LF221	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03210.8|0420.3|0514.4|1215|137.45|14107|151900
+149	:LF158	1 salchicha (10 cm)=60g	03408|0419.3|0536.7
+150	:LH135	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	124.8
+151	:LC244	1 kiwi=86g|1 taza (en rodajas)=186g	041|050.4|0615|1226|130.4|14332|155|1798|090.01|100.1|110.2
+152	:LB490	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	041|122|130.71|14338|158
+153	:LR293	1 taza=29g	041.88|050.26|0621.25|1214.6|130.6|172
+154	:LF361	1 pieza=285g|1 solomillo de ternera=165g|1 rebanada fina=27g|1 costilla=268g|1 lámina=247g|1 rebanada gruesa=85g	03142.3|0420.9|056.3|060.5|126|132.3|14358|1563|092.45|102.4|110.2|1662
+155	:LF155	1 salchicha (10 cm)=60g	03309.8|0420.6|0525|060.6|1228|136.7
+156	:LG099		0363.5|043.1|053.5|064.9|12106|131.3|170.5
+157	:U11206	1 mediana=201g|1 rebanada=7g|1 taza (picada)=133g|1 taza (en rodajas)=119g|1 grande (21 cm)=280g|1 pequeño (16 cm)=158g|1 palo (10 cm)=9g	0312|040.59|050.16|062.16|070.7|081.38|1214|130.22|14136|152|173.2|090.013|100.002|110.003
+158	:LB090	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.1|065.2|1270|130.6|174
+159	:LK006	1 cucharadita desempaquetada=3g|1 paquete=2.8g|1 cucharadita llena=4.6g|1 taza llena=220g|1 taza desempaquetada=145g|1 cucharadita de brownulated=3.2g	03397.2|0699.3|130.1
+160	:LA811	1 redondo (4 cm)=10g|1 artículo oval (8 x 3 cm x 1 cm)=15g|1 oz=28.35g	0410.5|0512.9|0674.2|1251|133.7|171
+161	:LH135	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	124.8
+162	:LF475	1 rebanada=8g|1 rebanada fina=5g|1 rebanada gruesa=12g|1 rebanada gruesa=12g	03488.3|0413.5|0547.9|060.8|1226|131.2|171.9
+163	:LR293	1 taza=29g	041.88|050.26|0621.25|1214.6|130.6|172
+164	:LG339		0357.1|043.1|052.94|064.56|12123|130.07|14139|1557
+165	:LQ066	0,5 taza=91g	041.2|050.1|1222|130.3|14121|158|173
+166	:LA572	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03259|0410.3|052.2|0656.1|076.6
+167	:LB087	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.2|064.8|1270|131.5|178.3
+168	:LF155	1 salchicha (10 cm)=60g	03309.8|0420.6|0525|060.6|1228|136.7
+169	:LF158	1 salchicha (10 cm)=60g	03408|0419.3|0536.7
+170	:U14400	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0337|040.07|050.02|069.56|088.97|122|130.11|142|154
+171	:LL009	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0412.4|0543.7|0634.3|12130|135.8|173
+172	:LA568	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	048.1|052|0652.7|1250|134
+173	:LA301	1 galletita (6 cm)=35g|1 mediana=51g|1 grande=77g|1 pequeño=35g	049.5|0510.7|1222|132|1495|15303
+174	:LC453	1 mediana=178g|1 grande=230g|1 pequeño=148g|1 taza (en rodajas)=140g|1 taza (cubos)=161g|1 porción=166g	040.5|050.4|0615.7|129|130.2|14125|174|090.02|100.08|110.09
+175	:LC453	1 mediana=178g|1 grande=230g|1 pequeño=148g|1 taza (en rodajas)=140g|1 taza (cubos)=161g|1 porción=166g	040.5|050.4|0615.7|129|130.2|14125|174|090.02|100.08|110.09
+176	:LK041	1 barra=44g|1 taza (patatas fritas)=168g	049.4|0510.6|12275|131.4|14605|15382|096|104|110.01
+177	:LC017	1 aguacate=201g|1 taza (puré)=230g|1 taza (cubos)=150g|1 taza (en rodajas)=146g	041.6|0513.3|064.6|1210|131|178
+178	:LA811	1 redondo (4 cm)=10g|1 artículo oval (8 x 3 cm x 1 cm)=15g|1 oz=28.35g	0410.5|0512.9|0674.2|1251|133.7|171
+179	:LF318	1 pecho=280g|1 taza (picado o en cubitos)=140g	03240.9|0418.9|0511.3|0615.9|129|132.4
+180	:LF475	1 rebanada=8g|1 rebanada fina=5g|1 rebanada gruesa=12g|1 rebanada gruesa=12g	03488.3|0413.5|0547.9|060.8|1226|131.2|171.9
+181	:LK006	1 cucharadita desempaquetada=3g|1 paquete=2.8g|1 cucharadita llena=4.6g|1 taza llena=220g|1 taza desempaquetada=145g|1 cucharadita de brownulated=3.2g	03397.2|0699.3|130.1
+182	:LF155	1 salchicha (10 cm)=60g	03309.8|0420.6|0525|060.6|1228|136.7
+183	:LF158	1 salchicha (10 cm)=60g	03408|0419.3|0536.7
+184	:LB861	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	040.6|050.5|069.2|1233|130.5|1717.4
+185	:LF026	1 porción=48g	03179.7|0413.8|0512.9|062.1|1210|133.7
+186	:LR293	1 taza=29g	041.88|050.26|0621.25|1214.6|130.6|172
+187	:LA268	1 taza=160g	049.4|050.2|0677.7|1224|131.1
+188	:LS155	1 tortilla=47g|1 enchilada=19g|1 mediana (15 cm)=30g|1 10 tortilla (15 cm)=72g|1 12 tortilla (15 cm)=117g|1 7-8 tortilla (15 cm)=49g|1 paquete (derretido)=407g|1 oz=28.35g	0414.5|0518.6|1291|14134|15121
+189	:LG099		0363.5|043.1|053.5|064.9|12106|131.3|170.5
+190	:LG298	2 cucharadas=32g|1 tarro=142g	03104|0411.5|054|065.6|12102|14202|1590
+191	:LF301	1 pecho=162g|1 pata de pollo=98g|1 ala=34g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03141.2|0410.3|056.4|0610.6|1233|131.4
+192	:LG297	2 cucharadas=32g|1 tarro=142g	0382|0413.7|050.3|066|12116|14260|15106
+193	:LB090	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.1|065.2|1270|130.6|174
+194	:LR199	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	043.8|050.1|0618.3|1256|135.1|173
+195	:LB614	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	042.1|050.1|0622.3|129|130.5|1714
+196	:LR198	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	042.6|050.3|0610.6|1219|132.2|14363|151042|1710
+197	:LG298	2 cucharadas=32g|1 tarro=142g	03104|0411.5|054|065.6|12102|14202|1590
+198	:LR201	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	042|055.6|0611.7|1221|132.93|14638|15782.7|179.03
+199	:LA268	1 taza=160g	049.4|050.2|0677.7|1224|131.1
+200	:LB614	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	042.1|050.1|0622.3|129|130.5|1714
+201	:LG297	2 cucharadas=32g|1 tarro=142g	0382|0413.7|050.3|066|12116|14260|15106
+202	:LB087	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.2|064.8|1270|131.5|178.3
+203	:LC165	1 mediana (3 cm)=12g|1 taza (en rodajas)=166g|1 taza (mitades)=152g|1 taza (puré)=232g|1 taza=144g|1 extra grande (4 cm)=27g|1 grande (3 cm)=18g|1 pinta (3 cm)=357g|1 pequeño (2 cm)=7g|1 porción=147g	040.6|050.4|067.3|1214|130.4|14166|151|1757|090.02|100.05|110.11
+204	:LG339		0357.1|043.1|052.94|064.56|12123|130.07|14139|1557
+205	:LE109	1/4 taza=27g|1 taza (copos y piezas)=118g|1 taza (no)=135g|3 oz (no llena)=85g	0418.9|052.6|1253|131.4
+206	:LC437	1 papaya mediana=250g|1 fruta pequeña=157g|1 fruta grande=781g|1 taza (trozos de 2 cm)=145g|1 taza (puré)=230g	040.6|050.1|069.9|1224|130.1|14257|153|1762|090.04|100.02|110.01
+207	:U06413	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0316|042.02|050.57|060.38|080.29|124|130.21|1486|15306|090.16|100.24|110.11
+208	:U09132	10 uvas=49g|1 porción=126g|1 taza=151g	0369|040.72|050.16|0618.1|070.9|0815.48|1210|130.36|14191|152|173.2|090.054|100.007|110.048
+209	:LF158	1 salchicha (10 cm)=60g	03408|0419.3|0536.7
+210	:LF212	1 hamburguesa=313g	03153.7|049.6|055.7|0616|1265|133
+211	:LF155	1 salchicha (10 cm)=60g	03309.8|0420.6|0525|060.6|1228|136.7
+212	:U19120	1 barra=44g|1 taza (patatas fritas)=168g	03535|047.65|0529.66|0659.4|073.4|0851.5|12189|132.35|14372|1579|0918.509|107.186|111.376|1623
+213	:LA722	1 taza=158g	046.95|050.6|0679.72|1215.8|132.06
+214	:LB087	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.2|064.8|1270|131.5|178.3
+215	:LB090	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.1|065.2|1270|130.6|174
+216	:LK037	1 barra=44g|1 taza (patatas fritas)=168g	03540|049.8|0531.9|0654.1|073
+217	:LK037	1 barra=44g|1 taza (patatas fritas)=168g	03531|049.8|0531.9|0654.1|073
+218	:LC453	1 mediana=178g|1 grande=230g|1 pequeño=148g|1 taza (en rodajas)=140g|1 taza (cubos)=161g|1 porción=166g	040.5|050.4|0615.7|129|130.2|14125|174|090.02|100.08|110.09
+219	:LB617	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	042|050.1|0616.1|126|130.7
+220	:LF475	1 rebanada=8g|1 rebanada fina=5g|1 rebanada gruesa=12g|1 rebanada gruesa=12g	03488.3|0413.5|0547.9|060.8|1226|131.2|171.9
+221	:LA608	1 taza=140g|1 taza (en forma de espiral)=134g|1 taza (pequeñas conchas)=115g	0410.2|050.4|0676.2|1221|131.3
+222	:LA268	1 taza=160g	049.4|050.2|0677.7|1224|131.1
+223	:LB087	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.2|064.8|1270|131.5|178.3
+224	:LB090	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	040.7|050.1|065.2|1270|130.6|174
+225	:LC465	2 cdas=32g	040.4|050.7|0613.3|126|130.3|172.8
+226	:LC165	1 mediana (3 cm)=12g|1 taza (en rodajas)=166g|1 taza (mitades)=152g|1 taza (puré)=232g|1 taza=144g|1 extra grande (4 cm)=27g|1 grande (3 cm)=18g|1 pinta (3 cm)=357g|1 pequeño (2 cm)=7g|1 porción=147g	040.6|050.4|067.3|1214|130.4|14166|151|1757|090.02|100.05|110.11
+227	:LF212	1 hamburguesa=313g	03153.7|049.6|055.7|0616|1265|133
+228	:LA565	1 rebanada mediana (10 x 6 cm x 4 cm)=64g|1 rebanada grande (15 x 6 cm x 4 cm)=96g|1 rebanada pequeña (5 cm x 6 cm x 4 cm)=32g	049.3|050.2|0657.6|1222|131.1|1493|15274|03280
+229	:LH135	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	124.8
+230	:U19120	1 barra=44g|1 taza (patatas fritas)=168g	03535|047.65|0529.66|0659.4|073.4|0851.5|12189|132.35|14372|1579|0918.509|107.186|111.376|1623
+231	:LK037	1 barra=44g|1 taza (patatas fritas)=168g	03531|049.8|0531.9|0654.1|073
+232	:LK037	1 barra=44g|1 taza (patatas fritas)=168g	03540|049.8|0531.9|0654.1|073
+233	:LL009	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0412.4|0543.7|0634.3|12130|135.8|173
+234	:U11206	1 mediana=201g|1 rebanada=7g|1 taza (picada)=133g|1 taza (en rodajas)=119g|1 grande (21 cm)=280g|1 pequeño (16 cm)=158g|1 palo (10 cm)=9g	0312|040.59|050.16|062.16|070.7|081.38|1214|130.22|14136|152|173.2|090.013|100.002|110.003
+235	:LT233	2 cdas=32g	0431.3|0544.6|0621.1|1285|137.7|171
+236	U01017	1 cucharada sopera=14.5g|1 paquete pequeño=85g|1 taza=232g|1 cucharada de nata montada=10g|1 oz=28.35g|1 pulgada cúbica=16g	03342|045.93|0534.24|064.07|070|083.21|0919.292|108.62|111.437|1298|130.38|14138|15321|16110|170|180.6
+237	U01032	1 cucharada sopera=5g|1 taza=100g	03431|0438.46|0528.61|064.06|070|080.9|0917.301|108.375|111.173|121109|130.9|14125|151529|1688|170|180.5
+238	U01040	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03380|0426.93|0527.8|065.38|070|081.32|0917.779|107.274|110.972|12791|130.2|1477|15192|1692|170|180.5
+239	U01042	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03366|0418.13|0530.71|064.78|070|082.26|0918.057|108.236|111.286|121045|130.63|14132|151671|16100|170|187.5
+240	U01046	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03330|0416.86|0525.63|068.56|070|085.59|0915.057|106.846|111.049|12682|130.26|14255|151284|1698|170|182.5
+241	U01048	2 cucharadas=32g|1 tarro=142g	03290|0416.41|0521.23|068.73|070|087.32|0913.327|106.219|110.624|12562|130.33|14242|151625|1655|170|180.4
+242	U01049	1 cucharada sopera=15g|1 envase individual=15g|1 taza=242g	03130|042.96|0511.5|064.3|070|080.16|097.158|103.321|110.427|12105|130.07|14130|1541|1637|170.9|180.2
+243	U01050	1 cucharada sopera=15g|1 recipiente pequeño=11.1g|1 taza=240g	03195|042.7|0519.31|063.66|070|080.14|0912.02|105.577|110.717|1296|130.04|14122|1540|1666|170.8|180.4
+244	U01053	1/4 taza=30g|1 taza (batida)=120g|1 taza (líquido)=238g|1 cucharada sopera=15g	03345|042.05|0537|062.79|070|080.11|0923.032|1010.686|111.374|1265|130.03|1475|1538|16137|170.6|180.7
+245	U01001	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03717|040.85|0581.11|060.06|070|080.06|0951.368|1021.021|113.043|1224|130.02|1424|15714|16215|170|181.5
+246	U01002	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03717|040.85|0581.11|060.06|070|080.06|0950.489|1023.426|113.012|1224|130.16|1426|15827|16219|170|181.5
+247	U01003	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03876|040.28|0599.48|060|070|080|0961.924|1028.732|113.694|124|130|145|152|16256|170|181.8
+248	U01056	1 cucharada sopera=12g	03193|042.07|0519.73|062.88|070|082.88|0911.507|105.068|110.84|12110|130.17|14141|1580|1652|170.9|180.4
+249	U01069	1 cucharada sopera=15g|1 paquete=3g|1 cucharadita=2g|1 taza=94g	03545|044.79|0535.48|0654.88|070|0854.88|0932.525|100.968|110.014|1222|131.15|14812|15181|160|170|180
+250	U01077	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0361|043.15|053.25|064.8|070|085.05|091.865|100.812|110.195|12113|130.03|14132|1543|1610|170|181.3
+251	U01079	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0350|043.3|051.98|064.8|070|085.06|091.257|100.56|110.073|12120|130.02|14140|1547|168|170.2|181.2
+252	U01082	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0342|043.37|050.97|064.99|070|085.2|090.633|100.277|110.035|12125|130.03|14150|1544|165|170|181.2
+253	U01085	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0334|043.37|050.08|064.96|070|085.09|090.056|100.022|110.003|12122|130.03|14156|1542|162|170|181.2
+254	U01091	0,25 taza=30g|1 taza=120g	03362|0436.16|050.77|0651.98|070|0851.98|090.499|100.201|110.03|121257|130.32|141794|15535|1620|176.8|180
+255	U01119	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	0385|044.93|051.25|0613.8|070|0813.8|090.806|100.343|110.036|12171|130.07|14219|1566|165|170.8|180
+256	U01121	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	03102|044.37|051.08|0619.05|070|0819.05|090.697|100.297|110.031|12152|130.07|14195|1558|164|170.7|180
+257	U01123	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03143|0412.56|059.51|060.72|070|080.37|093.126|103.658|111.911|1256|131.75|14138|15142|16372|170|182
+258	U01125	1 yema de huevo=17g|1 taza=243g	03322|0415.86|0526.54|063.59|070|080.56|099.551|1011.738|114.204|12129|132.73|14109|1548|161085|170|185.4
+259	U01128	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 taza=243g|1 pequeño=38g	03196|0413.61|0514.84|060.83|070|080.4|094.323|106.182|113.251|1262|131.89|14152|15207|16401|170|182.2
+260	U01129	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 pequeño=38g|1 taza (picada)=136g|1 cucharada sopera=8.5g	03155|0412.58|0510.61|061.12|070|081.12|093.267|104.077|111.414|1250|131.19|14126|15124|16373|170|182.2
+261	U01132	1 mediana=44g|1 grande=50g|1 extra grande=56g|1 jumbo=63g|1 pequeño=38g|1 taza (picada)=136g|1 cucharada sopera=8.5g	03149|049.99|0510.98|061.61|070|081.39|093.331|104.441|112.429|1266|131.31|14132|15145|16277|170|181.8
+262	U01133	1 cucharada sopera=5g|1 taza (tamizada)=85g	03605|0448.37|0543.04|061.53|070|080.3|0913.516|1017.073|116.856|12236|134.33|14540|15480|161630|170|183.1
+263	U01145	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03717|040.85|0581.11|060.06|070|080.06|0951.368|1021.021|113.043|1224|130.02|1424|1511|16215|170|181.5
+264	U01151	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0334|043.37|050.08|064.96|070|085.09|090.051|100.021|110.003|12122|130.03|14156|1542|162|170|180
+265	U01164	2 cdas=30g|1 taza=243g	03197|0410.33|0514.92|065.48|070.1|080.19|098.034|104.735|111.397|12311|130.35|14142|15493|1638|170.6|181
+266	U01182	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03282|0427.2|0518.3|062|070|080.58|0911.58|105.02|110.75|12905|130.13|1493|15725|1656|170|180.3
+267	U01203	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	03105|044.86|051.41|0618.6|070|082.9|090.909|100.387|110.04|12152|130.07|14194|1558|166|170.7|180
+268	U01205	1 cucharada sopera=15g|1 paquete=3g|1 cucharadita=2g|1 taza=94g	03251|040.69|0513.5|0635.07|071.1|0833.04|092.635|104.002|116.269|126|130.59|1496|1580|160|170|180
+269	U01217	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	03102|044.37|051.08|0619.05|070|0819.05|090.697|100.297|110.031|12152|130.07|14195|1558|164|170.7|181.3
+270	U01219	1 envase=245g|1 envase mediano=184g|1 recipiente pequeño=123g	03105|044.86|051.41|0618.6|070|082.9|090.909|100.387|110.04|12152|130.07|14194|1558|166|170.7|181.3
+271	U02009	1 cucharadita=2.7g|1 cucharada sopera=8g	03282|0413.46|0514.28|0649.7|0734.8|087.19|092.462|103.211|118.006|12330|1317.3|141950|151640|160|170.7|180
+272	U02046	1 cucharadita=5g|1 paquete=5g	0367|044.37|054.01|065.33|073.3|080.86|090.248|102.627|110.954|1258|131.51|14138|151135|160|171.5|180
+273	U02047	1 cucharadita=6g|1 chorrito=0.4g|1 cucharada sopera=18g|1 taza=292g	030|040|050|060|070|080|090|100|110|1224|130.33|148|1538758|160|170|180
+274	U03189	1 cucharada sopera=3.2g|0,25 taza=12.2g|0.5 oz=15g|1 caja=223g	03399|0413.07|058|0669.65|079|083.84|091.37|102.57|112.47|12707|1351.25|14420|154|160|170|180
+275	U04002	1 cucharada sopera=12.8g	03902|040|05100|060|070|080|0939.2|1045.1|1111.2|120|130|140|150|1695|170|182.5
+276	U04018	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03390|040.9|0533.4|0623.9|070|086.4|094.9|109|1118|1214|130.2|149|15711|1626|170|180.1
+277	U04025	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03680|040.96|0574.85|060.57|070|081.84|0911.703|1016.843|1144.69|128|130.21|1420|15635|1642|170|180.2
+278	U04042	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03884|040|05100|060|070|080|0916.9|1046.2|1132|120|130.03|140|150|160|170|180
+279	U04044	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03884|040|05100|060|070|080|0915.65|1022.783|1157.74|120|130.05|140|150|160|170|180
+280	U04053	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03884|040|05100|060|070|080|0913.808|1072.961|1110.523|121|130.56|141|152|160|170|180
+281	U04114	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03240|040.41|0521.12|0612.12|070|0810.77|092.948|105.638|1110.748|1213|130.26|1484|15993|160|170.4|180
+282	U04120	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03457|040.77|0544.81|0615.58|070|0815.95|095.648|108.433|1121.029|1224|130.8|1467|15836|160|173.6|180
+283	U04128	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03339|040.51|0537.77|060.66|070|080|098.637|1013.958|1112.407|126|130.02|1434|15589|160|170.1|180
+284	U04518	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03900|040|05100|060|070|080|0912.948|1027.576|1154.677|120|130|140|150|160|170|180
+285	U04539	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03476|041.37|0551.1|064.62|070.4|083.48|098.275|1013.279|1127.545|1237|130.09|1488|151041|1631|170.7|180.1
+286	U04610	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03717|040.16|0580.71|060.7|070|080|0915.189|1038.877|1124.302|123|130.06|1418|15751|160|170.2|180
+287	U04611	1 cucharada=14g|1 cucharadita=4g|1 pat (2 cm cuadrados, 1 cm)=5g|1 taza=227g|1 palillo (2 cm cuadrados, 1 cm)=113g	03713|040.22|0580.17|060.75|070|080|0914.224|1036.435|1126.741|123|130|1417|15657|160|170.1|180
+288	U04613	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03533|040.17|0559.81|060.86|070|080|0912.086|1019.348|1126.477|1221|130|1430|15615|161|170.1|180
+289	U04615	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03884|040|0599.97|060|070|080|0924.98|1041.186|1128.097|121|130.07|140|154|160|170|180
+290	U04659	1 cucharada sopera=13.6g|1 cucharadita=4.5g|1 taza=218g	03884|040|05100|060|070|080|0986.503|105.681|111.45|122|130.15|142|155|160|170|180
+291	U05006	1 pecho=290g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03215|0418.6|0515.06|060|070|080|094.31|106.24|113.23|1211|130.9|14189|1570|1675|171.6|180.2
+292	U05007	1 pecho=280g|1 pata de pollo=133g|1 ala=49g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03289|0422.54|0517.35|069.42|070.3|080|094.61|107.09|114.1|1221|131.37|14185|15292|1687|170|180.2
+293	U05009	1 pecho=236g|1 pata de pollo=122g|1 ala=41g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03239|0427.3|0513.6|060|070|080|093.79|105.34|112.97|1215|131.26|14223|1582|1688|170|180
+294	U05012	1 pecho=162g|1 pata de pollo=98g|1 ala=34g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03219|0430.57|059.12|061.69|070.1|080|092.46|103.35|112.15|1217|131.35|14257|1591|1694|170|180.1
+295	U05013	1 pecho=162g|1 pata de pollo=98g|1 ala=34g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03190|0428.93|057.41|060|070|080|092.04|102.66|111.69|1215|131.21|14243|1586|1689|170|180.1
+296	U05014	1 pecho=162g|1 pata de pollo=98g|1 ala=34g|1 pepita=20g|1 taza (picado o en cubitos)=140g	03177|0427.29|056.71|060|070|080|091.84|102.39|111.54|1214|131.17|14180|1570|1683|170|180.1
+297	U05027	1 hígado=44g	03119|0416.92|054.83|060.73|070|080|091.563|101.249|111.306|128|138.99|14230|1571|16345|1717.9|180
+298	U05057	1 pecho=290g|1 taza (picado o en cubitos)=140g	03172|0420.85|059.25|060|070|080|092.66|103.82|111.96|1211|130.74|14220|1563|1664|170|180.4
+299	U05058	1 pecho=280g|1 taza (picado o en cubitos)=140g	03260|0424.84|0513.2|068.99|070.3|080|093.52|105.46|113.08|1220|131.25|14201|15275|1685|170|180.1
+300	U05060	1 pecho=196g|1 taza (picado o en cubitos)=140g	03197|0429.8|057.78|060|070|080|092.19|103.03|111.66|1214|131.07|14245|1571|1684|170|180.1
+301	U05062	1 pecho=236g|1 taza (picado o en cubitos)=140g	03114|0421.23|052.59|060|070|080|090.567|100.763|110.399|125|130.37|14370|15116|1664|171.2|180.1
+302	U05064	1 pecho=162g|1 taza (picado o en cubitos)=140g	03165|0431.02|053.57|060|070|080|091.01|101.24|110.77|1215|131.04|14256|1574|1685|170|180.1
+303	U05066	1 pata de pollo (con piel)=133g|1 pata de pollo (sin piel)=122g	03159|0417.59|059.29|060.11|070|080|092.45|103.72|111.98|1210|130.63|14223|15104|1692|170|180.1
+304	U05082	1 pata de pollo=105g|1 muslo=72g|1 hueso=199g|1 nuevo hueso=22g	03174|0424.22|057.8|060|070|080|092.108|103.052|111.605|1212|131.08|14269|1599|16128|170|180.1
+305	U05091	1 muslo (sin piel)=149g|1 muslo (con piel)=189g	03219|0416.24|0516.61|060.25|070|080|094.478|106.89|113.449|128|130.67|14205|1577|1698|170|180.1
+306	U05100	1 ala=49g|1 pequeña ala=29g	03222|0418.33|0515.97|060|070|080|094.48|106.35|113.39|1212|130.95|14156|1573|1677|170.7|180.1
+307	U05103	1 ala=34g	03290|0426.86|0519.46|060|070|080|095.45|107.64|114.14|1215|131.27|14184|1582|1684|170|180.1
+308	U05182	1 porción=85g|1 taza=140g	03177|0429.55|055.57|060.05|070|080|091.603|101.984|111.596|1211|130.8|14248|15101|1689|170|180.4
+309	U05186	1 porción=85g|1 taza=140g	03147|0430.13|052.08|060|070|080|090.593|100.626|110.528|129|130.71|14249|1599|1680|170|180.3
+310	U05306	1 patty=113g	03203|0427.37|0510.4|060|070|080|092.669|103.458|112.917|1228|131.52|14294|1578|1693|170|180.2
+311	U06008	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	037|041.14|050.22|060.04|070|080|090.11|100.09|110.01|126|130.17|1454|15372|160|170|180
+312	U06019	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0352|042.59|051.94|066.03|070.3|080.54|090.542|100.855|110.54|129|131.35|1444|15706|1611|170|180
+313	U06043	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0379|041.35|055.3|066.8|070.7|080.4|090.964|101.219|112.901|1212|130.18|1464|15691|160|170|180.2
+314	U06116	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	0353|043.75|052.36|064.81|070.4|080.21|091.153|100.962|110.08|126|130.7|1481|15560|163|170|180
+315	U06150	1 cucharada sopera=17g|0,5 taza=143g|1 taza=279g	03172|040.82|050.63|0640.77|070.9|0833.24|090.045|100.082|110.101|1233|130.64|14232|151027|160|170.6|180
+316	U06170	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0313|041.97|050.09|061.2|070|080.54|090.035|100.043|110.005|128|130.27|14185|15198|160|170|180
+317	U06172	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0336|042.52|051.2|063.53|070|081.58|090.321|100.582|110.213|123|130.21|14105|15143|163|170.2|180
+318	U06230	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0361|043.24|052.02|067.46|070.3|082.81|091.094|100.268|110.513|1270|131.21|14179|15273|167|172.1|180.6
+319	U06413	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0316|042.02|050.57|060.38|070|080.29|090.16|100.24|110.11|124|130.21|1486|15306|160|170|180
+320	U07008	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03308|0415.2|0524.59|065.49|070|084.42|099.301|1010.526|111.12|1285|131.21|14315|15960|1660|170.8|180.8
+321	U07014	1 rebanada (6 cm x 1 cm)=18g	03327|0414.5|0528.5|063.1|070|080|099.307|1012.731|113.193|129|1311.2|14199|15977|16180|170|181.2
+322	U07017	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03110|0416.64|052.73|064.66|070|080.57|090.621|100.89|110.374|1216|130.41|14439|151059|1645|170|180
+323	U07022	1 salchicha=50g	03313|0411.18|0527.8|063.72|070|081.3|0910.979|1012.048|110.765|1213|131.25|14290|151037|1655|170|180.9
+324	U07023	1 perro caliente=45g	03305|0411.53|0527.64|061.72|070|080|0910.77|1013.67|112.73|1211|131.15|14167|15819|1650|170|180.9
+325	U07024	1 perro caliente=45g	03223|0415.51|0516.19|062.74|070.4|080.53|093.856|105.932|113.873|1274|131.17|14202|15756|1696|170|180.5
+326	U07043	1 rebanada de oval=9.3g	03117|0417.94|053.4|062.59|070|080|091.101|101.289|110.089|126|132.04|14308|15883|1648|170|180.1
+327	U07057	1 rebanada redonda=2g	03494|0422.68|0543.98|060|070|080|0914.86|1017.166|113.426|1222|131.62|14279|151761|16105|170.7|180.2
+328	U07064	1 porción=48g	03339|0419.43|0528.36|060|070|080|099.153|1012.376|113.727|1213|131.36|14294|15895|1684|170.7|180.7
+329	U07065	1 salchicha (10 x 2 cm)=13g|1 patty (10 cm x 1 cm)=27g	03396|0413.8|0536.25|062.7|070|080|0912.96|1017.18|113.9|1210|131.13|14189|15929|1671|170|180.7
+330	U07069	1 rebanada redonda=12.3g	03336|0421.85|0525.9|062.4|070|080.96|099.316|1011.127|112.529|1215|131.56|14316|151740|1689|170|181
+331	U07079	1 rebanada=27g|1 rodaja (9 cm cuadrado)=21g|1 rebanada fina=15g|1 taza=140g	03104|0417.07|051.66|064.21|070.5|083.51|090.333|100.494|110.312|128|131.44|14302|15928|1643|175.7|180.1
+332	U07081	1 rebanada fina=15g|1 rebanada gruesa=27g	0399|0416.3|052.15|062.5|070|081.38|090.501|100.576|110.536|129|130.35|14497|15928|1650|170|180.2
+333	U07082	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03149|0418.14|056.99|062.12|070|080|092.04|102.3|111.78|1232|131.35|14270|15477|1655|170|180.2
+334	U07089	1 salchicha mediano=67g|1 salchicha grande=83g	03344|0419.12|0527.31|064.27|070.1|080.86|099.655|1012.777|113.507|1221|131.43|14304|151207|1657|170.1|181
+335	U07953	1 porción=48g	03378|0414.49|0535.04|060|070|080|0911.662|1015.17|114.869|12137|130.92|14307|15752|1674|170.7|180.8
+336	U08015	1 porción=28g	03397|044.7|054.2|0685.8|071.5|0834.5|093.45|100.2|110.1|1221|136|14172|15586|160|170|188.3
+337	U08017	1 porción=28g	03380|045.2|054.4|0684.5|075.1|0834.8|090.8|101.4|111.7|12385|1317.3|14231|15457|160|1723.1|183.8
+338	U08019	1 taza=28g	03370|046.4|052.4|0684.9|075.6|0811.1|090.4|100.6|111.3|12323|1329|14195|15760|160|1729|184.8
+339	U08020	1 taza=28g	03357|047.5|050.4|0684.1|073.3|089.5|090.116|100.067|110.196|127|1328.9|14168|15729|160|1721|183.6
+340	U08029	1 porción=28g	03320|049.4|052.2|0680.4|0717.6|0816.7|090.4|100.295|111.025|1256|1327|14567|15600|160|170|183.3
+341	U08038	1 porción=28g	03359|0412.48|051.85|0680.1|078.8|0812.61|090.305|100.261|110.871|1239|1338.06|14400|15507|160|170|181.7
+342	U08048	1 porción=28g	03357|047.69|053.46|0682.82|078.8|089.76|090.576|100.99|111.277|12570|1332|14223|15596|160|1725.4|183.3
+343	U08050	1 porción=28g	03380|047.67|055.02|0680.89|075|0836.13|090.885|101.586|111.542|12434|1322.27|14222|15648|160|1726.6|183.9
+344	U08057	1 porción=28g	03375|046.25|053.13|0687.5|073.1|0828.13|090.529|101.113|111.17|12313|1314.06|14156|15625|160|1718.8|183.1
+345	U08060	1 taza=59g	03314|047.72|052.72|0677.29|0711.4|0831.3|090.48|100.339|110.949|1243|1312.33|14596|15356|160|170|183.9
+346	U08061	1 taza=59g	03320|048|051.7|0678.1|0713.7|0832.1|090.314|100.37|110.846|1252|1318.3|14539|15424|160|170.8|181.7
+347	U08064	1 taza=28g	03375|046.9|051.4|0684.5|074.4|088.1|090.3|100.3|110.3|12370|1333.3|14164|15898|160|1722.2|183.7
+348	U08069	1 taza=42g	03369|043.96|051.68|0689.2|072.2|0835.43|090.451|100.265|110.669|123|1326.7|1476|15468|160|1724.2|184.7
+349	U08082	1 porción=28g	03345|049.8|051.8|0682.2|0712.2|0810.3|090.4|100.3|111|12213|1330.6|14369|15570|160|1712.8|182.1
+350	U08120	1 taza=81g	03379|0413.15|056.52|0667.7|0710.1|080.99|091.11|101.98|112.3|1252|134.25|14362|156|160|170|180
+351	U08122	1 taza=81g	03362|0411.92|056.9|0669.52|0710|081.5|091.346|102.325|112.533|12351|1324.72|14366|15220|160|170|180
+352	U08128	1 taza=81g	03369|049.53|054.84|0676.08|078|0825.33|090.768|101.487|111.696|12234|138.46|14284|15434|160|170|180
+353	U08132	1 taza=81g	03360|048.45|054.03|0676.33|075.7|0837.14|090.639|101.207|111.274|12228|139.43|14362|15462|160|170.7|180
+354	U08194	1 porción=28g	03413|046.8|0511.1|0675.6|074.7|0835.3|092.1|104.7|113.7|12345|1315.5|14244|15555|160|1720.7|183.4
+355	U08214	1 taza=56g	03379|0411.38|054.83|0677.77|078.3|0816.62|090.873|101.594|111.523|12203|1329.3|14363|15345|160|1711.5|180
+356	U08216	1 porción=57g	03372|0412.38|055.11|0674.89|079.9|0816.34|090.91|101.57|112.04|12191|1329.95|14438|15364|160|1711.6|180
+357	U08244	1 porción=28g	03200|046.5|052.2|0684.6|0747.9|081|090.4|100.5|111.3|12333|1315|14329|15349|160|1720|180
+358	U08272	1 porción=28g	03410|045.27|059.38|0679.73|073.8|0833.15|091.422|103.211|113.061|12451|1318.27|14152|15701|160|1723.5|183.2
+359	U08387	1 porción=28g	03352|0410.3|055.3|0677.5|0715.1|0815.6|090.9|101.2|111.3|1242|135.5|14310|15256|160|1791|180
+360	U08543	1 porción=28g	03378|047.7|054.2|0683.2|079.3|0830.4|090.4|102.2|111.1|1232|1327|14251|15569|160|1770|183.3
+361	U09016	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0346|040.1|050.13|0611.3|070.2|089.62|090.022|100.006|110.039|128|130.12|14101|154|160|170.9|180
+362	U09020	1/4 taza=61g|1 taza=246g	0368|040.16|050.17|0617.49|071.2|0814.67|090.03|100.007|110.054|123|130.12|1475|152|160|171.7|180
+363	U09037	1 aguacate=201g|1 taza (puré)=230g|1 taza (cubos)=150g|1 taza (en rodajas)=146g	03160|042|0514.66|068.53|076.7|080.66|092.126|109.799|111.816|1212|130.55|14485|157|160|1710|180
+364	U09050	50 bayas=68g|1 handfull=18g|1 taza=148g	0357|040.74|050.33|0614.49|072.4|089.96|090.028|100.047|110.146|126|130.28|1477|151|160|179.7|180
+365	U09130	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0360|040.37|050.13|0614.77|070.2|0814.2|090.025|100.003|110.022|1211|130.25|14104|155|160|1725|180
+366	U09132	10 uvas=49g|1 porción=126g|1 taza=151g	0369|040.72|050.16|0618.1|070.9|0815.48|090.054|100.007|110.048|1210|130.36|14191|152|160|173.2|180
+367	U09181	1 cuña media (1/8 melón)=69g|1 cuña grande (1/8 melón)=102g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 grande (unos 16 cm)=814g|1 mediana (cerca de 12 cm)=552g	0334|040.84|050.19|068.16|070.9|087.86|090.051|100.003|110.081|129|130.21|14267|1516|160|1736.7|180
+368	U09200	1 naranja (7 cm)=131g|1 taza (secciones)=180g|1 grande (8 cm)=184g|1 pequeño (6 cm)=96g	0347|040.94|050.12|0611.75|072.4|089.35|090.015|100.023|110.025|1240|130.1|14181|150|160|1753.2|180
+369	U09206	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0345|040.7|050.2|0610.4|070.2|088.4|090.024|100.036|110.04|1211|130.2|14200|151|160|1750|180
+370	U09209	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0349|040.68|050.12|0611.54|070.3|088.31|090.014|100.022|110.03|1211|130.13|14178|152|160|1733.6|180
+371	U09211	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0347|040.68|050.12|0611.27|070.3|088.31|090.014|100.022|110.03|12140|130.13|14178|152|160|1733.6|180
+372	U09214	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	03159|042.39|050.21|0638.17|070.8|0837.37|090.024|100.038|110.041|1232|130.35|14674|153|160|17137.9|180
+373	U09236	1 mediana (7 cm)=150g|1 grande (7 cm)=175g|1 taza (rodajas)=154g|1 pequeño (6 cm)=130g|1 extra grande (8 cm)=224g	0339|040.91|050.25|069.54|071.5|088.39|090.019|100.067|110.086|126|130.25|14190|150|160|176.6|180
+374	U09252	1 mediana=178g|1 grande=230g|1 pequeño=148g|1 taza (en rodajas)=140g|1 taza (cubos)=161g|1 porción=166g	0357|040.36|050.14|0615.23|073.1|089.75|090.022|100.084|110.094|129|130.18|14116|151|160|174.3|180
+375	U09266	1 rebanada (9 x 2 cm)=84g|1 taza (pedazos)=165g|1 rebanada grande (12 cm x 2 cm)=166g|1 rebanada delgada (9 x 1 cm)=56g|1 piña (9 x 1 cm)=905g	0350|040.54|050.12|0613.12|071.4|089.85|090.009|100.013|110.04|1213|130.29|14109|151|160|1747.8|180
+376	U09298	1 caja pequeña=43g|1 taza llena=165g|1 taza (no)=145g|50 pasas (no llenos)=26g|1 oz (60 uvas pasas)=28.35g	03299|043.07|050.46|0679.18|073.7|0859.19|090.058|100.051|110.037|1250|131.88|14749|1511|160|172.3|180
+377	U09316	1 mediana (3 cm)=12g|1 taza (en rodajas)=166g|1 taza (mitades)=152g|1 taza (puré)=232g|1 taza=144g|1 extra grande (4 cm)=27g|1 grande (3 cm)=18g|1 pinta (3 cm)=357g|1 pequeño (2 cm)=7g|1 porción=147g	0332|040.67|050.3|067.68|072|084.89|090.015|100.043|110.155|1216|130.41|14153|151|160|1758.8|180
+378	U09320	1 mediana (3 cm)=12g|1 taza (en rodajas)=166g|1 taza (mitades)=152g|1 taza (puré)=232g|1 taza=144g|1 extra grande (4 cm)=27g|1 grande (3 cm)=18g|1 pinta (3 cm)=357g|1 pequeño (2 cm)=7g|1 porción=147g	0396|040.53|050.13|0625.92|071.9|0824.01|090.007|100.018|110.064|1211|130.59|1498|153|160|1741.4|180
+379	U09326	1 cuña media (1/8 melón)=69g|1 cuña grande (1/8 melón)=102g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 cuña pequeña (1/8 melón)=55g|1 grande (unos 16 cm)=814g|1 mediana (cerca de 12 cm)=552g	0330|040.61|050.15|067.55|070.4|086.2|090.016|100.037|110.05|127|130.24|14112|151|160|178.1|180
+380	U09444	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0352|040.17|050.12|0612.96|070.2|089.95|090.021|100.005|110.04|1272|130.14|1489|155|160|1750.7|180
+381	U10022	1 tajada grande=187g|1 tajada pequeña=81g	03242|0427.32|0513.92|060|070|080|095.23|106.19|111.2|1219|130.87|14423|1562|1680|170.6|181.3
+382	U10026	1 tajada grande=187g|1 tajada pequeña=81g	03210|0428.57|059.8|060|070|080|093.64|104.45|110.77|1217|130.91|14438|1564|1679|170.7|180.9
+383	U10027	1 tajada grande=187g|1 tajada pequeña=81g	03209|0428.62|059.63|060|070|080|093.51|104.32|110.76|1218|131.09|14425|1558|1681|170.6|180.7
+384	U10049	1 tajada grande=187g|1 tajada pequeña=81g	03208|0429.03|059.32|060|070|080|092.553|102.977|111.041|1251|130.87|14277|1572|1679|170|180.8
+385	U10089	1 pieza (cocinada)=177g	03397|0429.06|0530.3|060|070|080|0911.12|1013.48|112.73|1247|131.85|14320|1593|16121|170|182.6
+386	U10136	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03178|0422.62|059.02|060|070|080|093.12|104.44|111.41|128|131.34|14409|151500|1659|170|180.8
+387	U10151	1 porción=85g|1 taza=140g	03243|0421.57|0516.77|060|070|080|095.98|107.88|111.81|127|130.87|14286|151187|1662|170|180.7
+388	U10153	1 porción=85g|1 taza=140g	03157|0425.05|055.5|060|070|080|091.84|102.53|110.63|127|130.94|14316|151327|1655|170|180.9
+389	U10182	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03162|0418.26|058.39|062.28|070|080|092.7|103.94|110.93|127|130.9|14297|151278|1653|170|180.6
+390	U10183	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03165|0421.97|057.66|060.5|070|080|092.61|103.74|111.07|128|131.4|14362|151385|1657|170|180.8
+391	U10188	1 tajada grande=187g|1 tajada pequeña=81g	03238|0426.36|0513.89|060|070|080|094.893|105.976|111.519|1220|131.11|14341|1557|1688|170.1|180.9
+392	U10220	1 porción=125g	03297|0425.69|0520.77|060|070|080|097.72|109.25|111.87|1222|131.29|14362|1573|1694|170.7|180.5
+393	U10900	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03112|0419.38|053.43|060.95|070|081.02|091.005|101.372|110.428|126|130.87|14346|151096|1653|170|180.6
+394	U10905	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03117|0414.05|054.99|064|070|084.21|091.489|102.098|110.66|128|130.78|14267|151308|1643|170|180.6
+395	U10909	1 rebanada=27g|1 rebanada fina=15g|1 taza=140g	03121|0417.06|055.38|061.2|070|081.42|091.889|102.571|110.759|128|130.85|14312|151126|1650|170|180.6
+396	U11012	4 lanzas (1 cm de base)=60g|0,5 taza=90g	0322|042.4|050.22|064.11|072|081.3|090.048|100|110.105|1223|130.91|14224|1514|160|177.7|180
+397	U11056	1 lata (303 x 406)=262g|10 granos=62g|1 taza (sólidos)=153g	0325|041.26|050.37|064.25|072.5|081.31|090.085|100.015|110.196|1238|130.88|14106|15246|160|172.7|180
+398	U11090	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	0334|042.82|050.37|066.64|072.6|081.7|090.039|100.011|110.038|1247|130.73|14316|1533|160|1789.2|180
+399	U11091	1 tallo mediano 19 cm - 20 cm=180g|0,5 taza (picada)=92g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	0335|042.38|050.41|067.18|073.3|081.39|090.079|100.04|110.17|1240|130.67|14293|1541|160|1764.9|180
+400	U11093	0,5 taza (picada)=92g|1 tallo mediano 19 cm - 20 cm=180g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	0328|043.1|050.12|065.35|073|081.47|090.018|100.008|110.055|1233|130.61|14142|1511|160|1740.1|180
+401	U11095	0,5 taza (picada)=92g|1 tallo mediano 19 cm - 20 cm=180g|1 lanza (cerca de 12 cm)=37g|1 tallo grande (12 cm - 15 cm)=280g|1 tallo pequeño (12 cm)=140g	0328|043.1|050.11|065.36|073|081.47|090.018|100.008|110.055|1251|130.61|14180|1524|160|1740.1|180
+402	U11109	0,5 taza=35g|1 taza (rallada)=70g|1 hoja (rallada)=15g|1 taza (picada)=89g|1 Col grande (alrededor de 18 cm)=1248g|1 hoja grande (alrededor de 18 cm)=33g|1 repollo mediano (aproximadamente 14 cm)=908g|1 hoja mediana (aproximadamente 14 cm)=23g	0325|041.28|050.1|065.8|072.5|083.2|090.034|100.017|110.017|1240|130.47|14170|1518|160|1736.6|180
+403	U11110	0,5 taza=35g|1 taza (rallada)=70g|1 hoja (rallada)=15g|1 taza (picada)=89g|1 Col grande (alrededor de 18 cm)=1248g|1 hoja grande (alrededor de 18 cm)=33g|1 repollo mediano (aproximadamente 14 cm)=908g|1 hoja mediana (aproximadamente 14 cm)=23g	0323|041.27|050.06|065.51|071.9|082.79|090|100.019|110.023|1248|130.17|14196|158|160|1737.5|180
+404	U11124	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	0341|040.93|050.24|069.58|072.8|084.74|090.037|100.014|110.117|1233|130.3|14320|1569|160|175.9|180
+405	U11125	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	0335|040.76|050.18|068.22|073|083.45|090.03|100.006|110.089|1230|130.34|14235|1558|160|173.6|180
+406	U11131	1 mediana=61g|1 grande (7 a 21 cm)=72g|1 pequeño (14 cm)=50g|1 rebanada=3g|1 taza (rallado)=110g|1 taza (tiras o en rodajas)=122g|1 tira de media (tiras o en rodajas)=4g|1 tira grande (8 cm)=7g|1 taza (picada)=128g	0337|040.58|050.68|067.73|073.3|084.08|090.12|100.031|110.334|1235|130.53|14192|1559|160|172.3|180
+407	U11143	1 tallo mediano 19 cm - 20 cm=40g|1 tallo grande (12 cm - 15 cm)=64g|1 taza (picada)=101g|1 porción=110g|1 cucharada sopera=7.5g|1 tallo pequeño (12 cm)=17g|1 tira (10 cm)=4g	0316|040.69|050.17|062.97|071.6|081.83|090.042|100.032|110.079|1240|130.2|14260|1580|160|173.1|180
+408	U11152	1 taza (picada)=29g	0323|041.7|050.3|064.7|074|080.7|090.073|100.006|110.131|12100|130.9|14420|1545|160|1724|180
+409	U11162	1 taza (picada)=190g	0333|042.71|050.72|065.65|074|080.4|090.047|100.026|110.173|12141|131.13|14117|1515|160|1718.2|180
+410	U11168	1 maíz mediano (17 cm a 19 cm)=103g|1 taza (corte)=149g|1 maíz pequeño (14 cm a 16 cm)=89g|1 oreja grande (19 cm a 22 cm)=118g|1 elote (19 cm a 22 cm)=8g|1 maíz (19 cm a 22 cm)=77g	0396|043.41|051.5|0620.98|072.4|084.54|090.197|100.374|110.603|123|130.45|14218|151|160|175.5|180
+411	U11172	1/4 puede=73g|1 lata=289g|1 taza=164g	0379|042.46|051.11|0617.77|071.9|083.04|090.161|100.223|110.415|124|130.55|14138|15186|160|171.6|180
+412	U11179	1 maíz mediano (17 cm a 19 cm)=103g|1 taza (corte)=149g|1 maíz pequeño (14 cm a 16 cm)=89g|1 oreja grande (19 cm a 22 cm)=118g|1 elote (19 cm a 22 cm)=8g|1 maíz (19 cm a 22 cm)=77g	0381|042.55|050.67|0619.3|072.4|083.07|090.103|100.197|110.318|123|130.47|14233|151|160|173.5|180
+413	U11206	1 mediana=201g|1 rebanada=7g|1 taza (picada)=133g|1 taza (en rodajas)=119g|1 grande (21 cm)=280g|1 pequeño (16 cm)=158g|1 palo (10 cm)=9g	0312|040.59|050.16|062.16|070.7|081.38|090.013|100.002|110.003|1214|130.22|14136|152|160|173.2|180
+414	U11213	0,5 taza (picada)=25g|1 escarola (picada)=513g	0317|041.25|050.2|063.35|073.1|080.25|090.048|100.004|110.087|1252|130.83|14314|1522|160|176.5|180
+415	U11251	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	0317|041.23|050.3|063.29|072.1|081.19|090.039|100.012|110.16|1233|130.97|14247|158|160|174|180
+416	U11253	1 porción=89g|1 taza (llenos de trozos de 1 cm, picadas, libremente)=57g|1 hoja mediana (aproximadamente 14 cm)=8g|1 lechuga mediana (15 cm)=539g|1 lechuga grande (15 cm)=755g|1 hoja grande (alrededor de 18 cm)=15g|1 taza (rallada)=72g	0315|041.36|050.15|062.87|071.3|080.78|090.02|100.006|110.082|1236|130.86|14194|1528|160|179.2|180
+417	U11261	1 seta=12g|1 taza (piezas)=156g|1 cucharada sopera=9.8g	0328|042.17|050.47|065.29|072.2|082.34|090.061|100.008|110.183|126|131.74|14356|152|160|174|180.2
+418	U11271	1 taza (picada)=140g	0326|042.56|050.47|064.51|072|081.41|090.012|100.11|110.046|12118|130.87|14162|159|160|1725.3|180
+419	U11282	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	0340|041.1|050.1|069.34|071.7|084.24|090.042|100.013|110.017|1223|130.21|14146|154|160|177.4|180
+420	U11283	1 mediana (6 cm)=110g|1 grande=150g|1 taza (picada)=160g|1 taza (en rodajas)=115g|1 cucharada sopera (picada)=10g|1 rebanada grande (1 cm)=38g|1 rebanada mediana=14g|1 pequeño=70g|1 rebanada fina=9g|10 anillos=60g	0344|041.36|050.19|0610.15|071.4|084.73|090.031|100.027|110.073|1222|130.24|14166|153|160|175.2|180
+421	U11291	1 mediana (10 cm)=15g|1 cucharada sopera (picada)=6g|1 taza (picada)=100g|1 grande=25g|1 pequeño (8 cm)=5g	0332|041.83|050.19|067.34|072.6|082.33|090.032|100.027|110.074|1272|131.48|14276|1516|160|1718.8|180
+422	U11297	1 cucharada sopera=3.8g|10 ramitas=10g|1 taza (picada)=60g	0336|042.97|050.79|066.33|073.3|080.85|090.132|100.295|110.124|12138|136.2|14554|1556|160|17133|180
+423	U11305	0,5 taza=80g	0384|045.36|050.22|0615.63|075.5|085.93|090.039|100.019|110.102|1227|131.54|14271|153|160|1714.2|180
+424	U11308	0,5 taza=80g	0368|044.47|050.8|0611.36|074.9|082.99|090.143|100.071|110.375|1223|131.18|14106|15273|160|174.2|180
+425	U11313	0,5 taza=80g	0378|045.15|050.27|0614.26|075.5|084.65|090.049|100.024|110.129|1224|131.52|14110|1572|160|179.9|180
+426	U11352	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	0377|042.02|050.09|0617.47|072.2|080.78|090.026|100.002|110.043|1212|130.78|14421|156|160|1719.7|180
+427	U11363	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	0393|041.96|050.1|0621.55|071.5|081.7|090.026|100.002|110.043|125|130.35|14391|155|160|1712.8|180
+428	U11365	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	0387|041.87|050.1|0620.13|071.8|080.87|090.026|100.002|110.043|125|130.31|14379|154|160|1713|180
+429	U11367	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	0386|041.71|050.1|0620.01|071.8|080.85|090.026|100.002|110.043|128|130.31|14328|155|160|177.4|180
+430	U11378	1 taza=210g	03354|048.34|050.41|0681.17|076.6|083.36|090.169|100.009|110.143|1227|131.21|141098|15104|160|1781|180
+431	U11399	10 puffs=84g|1 puff=8.4g|10 patatas soplos=60g	03190|042.05|058.62|0627.75|072.5|080.25|091.823|106.03|110.447|1214|130.64|14312|15462|160|176.3|180
+432	U11403	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	03164|042.66|055.22|0627.74|072.8|080.28|091.029|103.237|110.321|1212|130.74|14451|15388|160|1713.3|180
+433	U11457	1 taza=30g|1 manojo=340g|1 hoja (rallada)=10g|1 paquete (derretido)=283g	0323|042.86|050.39|063.63|072.2|080.42|090.063|100.01|110.165|1299|132.71|14558|1579|160|1728.1|180
+434	U11458	0,5 taza=95g	0323|042.97|050.26|063.75|072.4|080.43|090.043|100.006|110.109|12136|133.57|14466|1570|160|179.8|180
+435	U11461	0,5 taza=95g	0323|042.81|050.5|063.4|072.4|080.4|090.081|100.013|110.211|12127|132.3|14346|15322|160|1714.3|180
+436	U11508	1 mediana (diámetro de 5 cm, 12 cm)=114g|1 grande=180g|1 taza=200g|1 taza (puré)=328g|1 pequeño=60g	0390|042.01|050.15|0620.71|073.3|086.48|090.034|100.001|110.064|1238|130.69|14475|1536|160|1719.6|180
+437	U11510	1 mediana (diámetro de 5 cm, 12 cm)=114g|1 grande=180g|1 taza=200g|1 taza (puré)=328g|1 pequeño=60g	0376|041.37|050.14|0617.72|072.5|085.74|090.031|100|110.061|1227|130.72|14230|1527|160|1712.8|180
+438	U11529	1 mediana (6 cm)=123g|1 taza (picado o en cubitos)=180g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g|1 tomate cherry (6 cm)=17g|1 taza (Cerezo)=149g	0318|040.88|050.2|063.89|071.2|082.63|090.028|100.031|110.083|1210|130.27|14237|155|160|1713.7|180
+439	U11530	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0318|040.95|050.11|064.01|070.7|082.49|090.015|100.016|110.044|1211|130.68|14218|1511|160|1722.8|180
+440	U11531	1 lata=190g|1 taza=240g|1 cucharada sopera=15g|1 grande=164g|1 mediana=111g|1 pequeño=82g	0317|040.78|050.13|064|071|082.38|090.018|100.021|110.052|1231|130.97|14188|15143|160|179.3|180
+441	U11533	1 mediana (6 cm)=123g|1 taza=240g|1 rebanada (1 cm)=20g|1 grande (8 cm)=182g|1 cuña (1/4 de tomate mediano)=31g|1 rodaja gruesa grande (1 cm)=27g|1 tomate pequeño (6 cm)=91g	0326|040.91|050.19|066.19|071|083.52|090.026|100.029|110.077|1234|131.33|14207|15221|160|177.9|180
+442	U11540	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0317|040.76|050.05|064.24|070.4|083.56|090.008|100.009|110.024|1210|130.43|14229|15269|160|1718.3|180
+443	U11546	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	0382|044.32|050.47|0618.91|074.1|0812.18|090.1|100.067|110.16|1236|132.98|141014|1559|160|1721.9|180
+444	U11549	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	0324|041.32|050.18|065.38|071.5|084.25|090.025|100.027|110.073|1213|131.02|14331|15524|160|177|180
+445	U11569	1 taza (picada)=144g	0320|041.14|050.23|064.36|073.5|080.53|090.053|100.015|110.091|12137|130.8|14203|1529|160|1727.4|180
+446	U11578	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0319|040.63|050.09|064.55|070.8|083.3|090.013|100.014|110.038|1211|130.42|14193|15198|160|1727.7|180
+447	U11584	0,5 taza=91g	0365|042.86|050.15|0613.09|074.4|083.12|090.031|100.01|110.072|1225|130.82|14169|1535|160|173.2|180
+448	U11642	1 mediana=196g|1 rebanada=9.9g|1 pequeño=118g|1 grande=323g|1 taza (picada)=124g|1 taza (en rodajas)=113g	0320|040.91|050.31|064.31|071.4|082.59|090.064|100.023|110.131|1227|130.36|14192|151|160|175.5|180
+449	U11644	1 mediana=196g|1 rebanada=9.9g|1 pequeño=118g|1 grande=323g|1 taza (picada)=124g|1 taza (en rodajas)=113g	0337|040.89|050.35|068.85|072.8|083.3|090.072|100.026|110.147|1222|130.44|14241|151|160|179.6|180
+450	U11645	1 mediana (diámetro de 5 cm, 12 cm)=114g|1 grande=180g|1 taza=200g|1 taza (puré)=328g|1 pequeño=60g	0389|040.98|050.2|0620.93|072.5|0815.4|090.041|100.008|110.084|1215|130.8|14185|1544|160|1710.5|180
+451	U11655	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0340|040.95|050.15|069.28|070.8|083.91|090.027|100.007|110.071|1224|130.46|14292|1566|160|178.5|180
+452	U11674	1 mediana (6 cm a 8 cm)=213g|1 grande (8 cm a 11 cm)=369g|1 pequeño (4 cm a 6 cm)=170g|0,5 taza (cortada)=75g	0393|042.5|050.13|0621.15|072.2|081.18|090.035|100.003|110.058|1215|131.08|14535|1510|160|179.6|180
+453	U11887	1 lata pequeña=170g|1 cucharada sopera=16g|1 taza=262g	0382|044.32|050.47|0618.91|074.1|0812.18|090.1|100.067|110.159|1236|132.98|141014|15790|160|1721.9|180
+454	U11935	1 cucharada sopera=17g|1 paquete=9g	03112|041.25|050.18|0626.23|070.3|0821.71|090.05|100.055|110.147|1216|130.41|14315|15907|160|174.1|180
+455	U11937	1 grande (10 cm)=135g|1 pieza=65g|1 rebanada=7g|1 pepino pequeño (10 cm)=37g|1 taza (picada)=143g|1 taza (cerca de 23 rebanadas)=155g	0312|040.6|050.14|062.59|071.1|081.31|090.036|100.002|110.056|1242|130.37|1492|15875|160|170.8|180
+456	U11945	1 cucharada sopera=15g|1 paquete=2/3 tbsp|1 taza=245g	03130|040.37|050.47|0635.06|071.1|0829.13|090.054|100.209|110.122|123|130.87|1425|15811|160|171|180
+457	U12036	1/4 taza=28g	03584|0420.78|0551.46|0620|078.6|082.62|094.455|1018.528|1123.137|1278|135.25|14645|159|160|171.4|180
+458	U12037	1/4 taza=28g	03582|0419.33|0549.8|0624.07|0711.1|082.73|095.219|109.505|1132.884|1270|133.8|14850|153|160|171.4|180
+459	U12061	1/4 taza=37g|1 taza=143g|23 núcleos=28.35g|1 taza (tierra)=95g|1 taza (en rodajas)=92g|1 taza (triturada)=108g|1 almendra (triturada)=1.2g	03575|0421.22|0549.42|0621.67|0712.2|083.89|093.731|1030.889|1112.07|12264|133.72|14705|151|160|170|180
+460	U12062	1/4 taza=37g|23 tuercas=28.35g|1 taza (tierra)=95g|1 taza (en rodajas)=92g|1 taza (triturada)=108g|1 almendra (triturada)=1.2g	03590|0421.4|0552.52|0618.67|079.9|084.63|093.953|1033.415|1112.368|12236|133.28|14659|1519|160|170|180
+461	U12063	1/4 taza=37g|23 tuercas=28.35g|1 taza (tierra)=95g|1 taza (en rodajas)=92g|1 taza (triturada)=108g|1 almendra (triturada)=1.2g	03595|0421.06|0552.05|0621.2|0710.9|084.93|094.03|1032.383|1112.995|12267|133.83|14712|153|160|170|180
+462	U12155	1/4 taza=25g|1 taza (sin cáscara (50 mitades)=100g|1 onza (14 mitades)=28.35g|1 taza (picada)=117g|1 taza (tierra)=80g|1 taza (con cáscara)=28g|1 taza (piezas o fichas)=120g	03654|0415.23|0565.21|0613.71|076.7|082.61|096.126|108.933|1147.174|1298|132.91|14441|152|160|171.3|180
+463	U12538	1/4 taza=28g	03592|0420.06|0551.3|0622.89|0710.6|083.11|097.068|108.063|1134.294|1287|134.28|14483|15733|160|171.1|180
+464	U12563	1/4 taza=37g|23 tuercas=28.35g|1 taza (tierra)=95g|1 taza (en rodajas)=92g|1 taza (triturada)=108g|1 almendra (triturada)=1.2g	03595|0421.06|0552.05|0621.2|0710.9|084.93|094.03|1032.383|1112.995|12267|133.83|14712|15656|160|170|180
+465	U12586	18 núcleos=28.35g|1 taza=129g|1 taza (mitades y trozos)=129g	03581|0416.84|0547.77|0630.16|073.3|085.01|098.478|1025.923|118.546|1243|136.05|14632|15308|160|170.3|180
+466	U12635	10 tuercas=14g	03594|0417.3|0551.45|0625.35|079|084.8|096.5|1031.395|1110.768|1270|133.7|14693|15345|160|170.4|180
+467	U12637	10 tuercas=14g	03607|0420.04|0553.95|0621.05|077|084.15|098.711|1028.488|1114.612|12117|132.61|14632|15273|160|170.5|180
+468	U13317	1 hamburguesa=313g	03295|0423.05|0521.83|060|070|080|098.805|109.358|110.656|1211|132.42|14305|1577|1684|170|180.2
+469	U13326	1 rebanada=81g	03191|0429.08|055.26|065.13|070|080|091.696|100.647|110.639|126|136.54|14352|1579|16396|171.9|181.2
+470	U13327	1 rebanada=81g	03175|0426.52|054.68|065.16|070|080|091.493|100.653|110.602|126|136.17|14351|1577|16381|170.7|181.2
+471	U13368	1 pieza=264g	03218|0429.75|0510.08|060|070|080|093.63|104.65|110.3|126|132.81|14285|1570|1693|170|180.2
+472	U13388	1 pieza=214g	03238|0427.53|0513.4|060|070|080|095.35|105.6|110.38|128|132.82|14357|1573|1681|170|180.2
+473	U13796	1 pieza=285g|1 solomillo de ternera=165g|1 rebanada fina=27g|1 costilla=268g|1 lámina=247g|1 rebanada gruesa=85g	03291|0426.42|0519.71|060|070|080|097.77|108.46|110.71|129|132.68|14319|1563|1687|170|180.3
+474	U13816	1 pieza=247g	03341|0426.78|0525.12|060|070|080|0910|1010.86|110.9|1213|133.13|14233|1565|16104|170|180.4
+475	U13829	1 costilla=289g	03365|0422.6|0529.79|060|070|080|0912.01|1012.8|111.05|1211|132.35|14302|1564|1684|170|180.5
+476	U13851	1 costilla=268g	03291|0425.85|0520.04|060|070|080|097.894|108.355|110.762|1219|131.66|14323|1553|1697|170|180.3
+477	U13865	1 pieza=313g	03235|0427.54|0512.98|060|070|080|094.9|105.56|110.52|126|132.55|14395|1562|1679|170|180.2
+478	U13890	1 pieza=283g	03228|0433.93|058.33|062.03|070|080|092.399|103.031|111.523|126|133.4|14484|1565|16102|170|180.1
+479	U13893	1 pieza=326g	03204|0430.67|059|060|070|080|093.415|103.837|110.367|127|132.53|14252|1541|1690|170|180.1
+480	U13930	1 pieza=306g	03243|0426.96|0514.23|060|070|080|095.603|105.93|110.547|1220|131.73|14336|1556|1692|170|180.2
+481	U13933	1 filete=307g	03313|0428.77|0521.06|060|070|080|098.18|108.86|111.71|1212|133.42|14406|1571|1698|170|180.3
+482	U14003	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0343|040.46|050|063.55|070|080|090|100|110|124|130.02|1427|154|160|170|180
+483	U14037	1 jigger=22g	03231|040|050|060|070|080|090|100|110|120|130.04|142|151|160|170|180
+484	U14096	1 vidrio=150g	0385|040.07|050|062.61|070|080.62|090|100|110|128|130.46|14127|154|160|170|180
+485	U14106	1 vidrio=150g	0382|040.07|050|062.6|070|080.96|090|100|110|129|130.27|1471|155|160|170|180
+486	U14119	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0329|040.04|050.01|067.47|070|082.1|090|100|110|123|130.04|1419|1521|160|1732.5|180
+487	U14144	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0341|040.09|050|0610.42|070|0810.19|090|100|110|122|130.02|141|1510|160|170|180
+488	U14147	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0341|040|050|0610.58|070|0810.58|090|100|110|122|130.02|143|154|160|170|180
+489	U14157	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0341|040|050|0610.6|070|0810.6|090|100|110|125|130.05|141|1513|160|170|180
+490	U14201	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	030|040.1|050|060|070|080|090.002|100|110.002|122|130.05|1454|152|160|170|180
+491	U14209	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	031|040.12|050.02|060|070|080|090.002|100.015|110.001|122|130.01|1449|152|160|170|180
+492	U14210	1 onza líquida=30g	039|040.12|050.18|061.67|070|080|090.092|100|110.092|122|130.13|14115|1514|160|170.2|180
+493	U14214	1 paquete=2g|1 cucharadita=1g	03353|0412.2|050.5|0675.4|070|080|090.197|100.041|110.196|12141|134.41|143535|1537|160|170|180
+494	U14264	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0348|040|050|0611.97|070|0811.29|090|100|110|128|130.09|1425|1510|160|170.4|180
+495	U14267	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0347|040|050|0611.97|070.2|0811.29|090|100.002|110.003|128|130.09|1431|1538|160|1729.6|180
+496	U14292	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	03196|040.22|050.7|0649.89|070.3|0844.46|090.025|100.008|110.059|127|130.09|1472|157|160|1713.1|180
+497	U14347	1 batido=208g|1 taza=167g	03148|043.37|056.52|0619.59|070.9|0813.63|093.962|101.785|110.316|12115|130.46|14166|1581|1623|170|180
+498	U14352	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	031|040|050|060.3|070|080|090.002|100.001|110.004|120|130.02|1437|153|160|170|180
+499	U14355	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	031|040|050|060.3|070|080|090.002|100.001|110.004|120|130.02|1437|153|160|170|180
+500	U14368	2 cucharaditas redondeadas=11.3g|1 cucharadita redondeada=1.4g	03345|047.4|050.18|0678.52|075|084.52|090.047|100.012|110.117|1228|130.75|143453|1555|160|170|180
+501	U14411	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	030|040|050|060|070|080|090|100|110|123|130|140|154|160|170|180
+502	U14462	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	035|040|050|061.22|070|081.22|090|100|110|121|130.03|1416|1513|160|178.8|180
+503	U14550	1 jigger=22g	03250|040|050|060.1|070|080|090|100|110|120|130.04|142|151|160|170|180
+504	U14555	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	030|040|050|060|070|080|090|100|110|1210|130|140|152|160|170|180
+505	U14605	1 taza=237g|1 lata=356g|12 fl oz=356g|16 fl oz=475g|1 taza pequeña=178g	0322|040|050|065.49|070|085.49|090|100|110|1217|130|140|150|160|1712.7|180
+506	U15027	1 palillo (10 x 2 cm x 1 cm)=28g|1 pieza (10 x 5 cm x 1 cm)=57g	03249|0411.04|0513.25|0621.18|071.4|082.5|092.758|104.21|115.701|1226|131.01|14216|15421|1628|170|180.4
+507	U15028	1 filete=163g	0370|0412.41|051.93|060|070|080|090.441|100.535|110.374|1221|130.18|14160|15296|1645|170|182.8
+508	U15042	1 filete mediano (12 cm x 4 cm x 1 cm)=40g|1 filete grande (18 cm x 6 cm x 1 cm)=65g|1 pulgada cúbica=17g|1 filete pequeño (6 cm x 3 cm x 1 cm)=20g	03217|0424.58|0512.37|060|070|080|092.791|105.112|112.919|1284|131.51|14447|15918|1682|171|182.2
+509	U15083		03127|0420.5|054.4|060|070|080|090.81|101.348|110.811|127|130.38|14366|1575|1646|170|1810.9
+510	U15121	1 lata=165g|1 lata grande (agotada)=354g|1 taza (sólidas o trozos)=154g	0386|0419.44|050.96|060|070|080|090.211|100.107|110.277|1217|131.63|14179|15247|1636|170|181.2
+511	U15140	1/4 taza=27g|1 taza (copos y piezas)=118g|1 taza (no)=135g|3 oz (no llena)=85g	0383|0417.88|050.74|060|070|080|090.201|100.129|110.258|1291|130.5|14259|15395|1697|173.3|180
+512	U15149	4 grandes=28g|1 mediana=6g|1 pequeño=5g	0371|0413.61|051.01|060.91|070|080|090.115|100.08|110.13|1254|130.21|14113|15566|16126|170|180.1
+513	U15152	4 grandes=28g|1 mediana=6g|1 pequeño=5g	03100|0420.42|051.36|060|070|080|090.188|100.108|110.684|12145|132.13|1480|15777|16252|174.1|180
+514	U15157	1 mediana=14.5g|1 grande=20g|1 pequeño=9g|1 taza (con líquido y almejas)=227g	0386|0414.67|050.96|063.57|070|080|090.187|100.12|110.192|1239|131.62|1446|15601|1630|170|180
+515	U15160	1 mediana=14.5g|1 grande=20g|1 pequeño=9g|1 taza (con líquido y almejas)=227g	03142|0424.25|051.59|065.9|070|080|090.309|100.198|110.318|1265|132.68|14628|15112|1650|170|180.1
+516	U15167	6 medio=84g|1 taza=248g	0351|045.71|051.71|062.72|070|080.62|090.474|100.253|110.528|1259|134.61|14156|1585|1640|170|180
+517	U15234	1 filete=159g	03119|0415.23|055.94|060|070|080|091.31|102.573|111.119|128|130.23|14302|1598|1655|170|180.2
+518	U15240	1 filete=79g	03141|0419.94|056.18|060|070|080|091.383|101.979|111.507|1225|130.31|14377|1551|1659|172.9|1815.9
+519	U16006	1 taza=254g	0394|044.75|050.37|0621.14|074.1|087.96|090.071|100.095|110.121|1234|131.19|14224|15343|160|170|180
+520	U16011	1 taza=246g	0394|045.15|050.93|0618.69|074|085.67|090.293|100.277|110.157|1256|133.24|14295|15437|167|173|180
+521	U16014	1 taza=194g|1 cucharada sopera=12.1g	03341|0421.6|051.42|0662.36|0715.5|082.12|090.366|100.123|110.61|12123|135.02|141483|155|160|170|180
+522	U16033	1 taza=177g|1 cucharada sopera=11g	03127|048.67|050.5|0622.8|077.4|080.32|090.072|100.039|110.275|1228|132.94|14403|152|160|171.2|180
+523	U16034	1 lata=436g|1 cucharada sopera=16g|1 taza=256g	0381|045.22|050.36|0614.83|075.3|081.85|090.073|100.044|110.243|1229|131.25|14260|15256|160|170.8|180
+524	U16042	1 taza=193g|1 cucharada sopera=12g	03347|0421.42|051.23|0662.55|0715.5|082.11|090.235|100.229|110.407|12113|135.07|141393|1512|160|176.3|180
+525	U16043	1 taza=171g|1 cucharada sopera=10.6g	03143|049.01|050.65|0626.22|079|080.34|090.136|100.133|110.235|1246|132.09|14436|151|160|170.8|180
+526	U16050	1 taza=179g|1 cucharada sopera=11.2g	03139|049.73|050.35|0625.09|076.3|080.34|090.091|100.031|110.152|1290|133.7|14561|156|160|170|180
+527	U16069	1 taza=192g|1 cucharada=12g	03353|0425.8|051.06|0660.08|0730.5|082.03|090.156|100.189|110.516|1256|137.54|14955|156|160|174.4|180
+528	U16070	1 taza=198g|1 cucharada sopera=12.3g	03116|049.02|050.38|0620.13|077.9|081.8|090.053|100.064|110.175|1219|133.33|14369|152|160|171.5|180
+529	U16089	1/8 de taza=18g|32 cacahuetes=28g	03599|0428.03|0552.5|0615.26|079.4|084.18|098.655|1025.995|1115.303|1261|131.52|14726|15320|160|170.8|180
+530	U16090	1/8 de taza=18g|32 cacahuetes=28g	03585|0423.68|0549.66|0621.51|078|084.18|096.893|1024.64|1115.694|1254|132.26|14658|15679|160|170|180
+531	U16098	2 cdas=32g	03588|0425.09|0550.39|0619.56|076|089.22|0910.51|1024.216|1114.161|1243|131.87|14649|15459|160|170|180
+532	U16103	1 lata=443g|1 taza=238g	0391|045.41|051.17|0615.26|075.1|080.46|090.391|100.381|110.332|1233|131.67|14336|15449|160|176|180
+533	U16123	1 cucharadita=5.3g|1 paquete individual=8.9g|1 taza=255g|1 cucharada sopera=16g	0353|048.14|050.57|064.93|070.8|080.4|090.073|100.088|110.263|1233|131.45|14435|155493|160|170|180
+534	U16139	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0343|042.6|051.47|064.92|070.2|083.65|090.205|100.382|110.858|12123|130.42|14122|1547|160|170|181.1
+535	U16150	2 cdas=32g	03520|0425.9|0534|0635.65|075.2|089.28|095.76|1016.156|119.182|1235|131.9|14669|15540|160|170|180
+536	U16389	1/8 de taza=18g|32 cacahuetes=28g	03599|0428.03|0552.5|0615.26|079.4|084.18|098.686|1025.976|1115.292|1261|131.52|14726|156|160|170.8|180
+537	U16390	1/8 de taza=18g|32 cacahuetes=28g	03585|0423.68|0549.66|0621.51|078|084.18|096.893|1024.64|1115.694|1254|132.26|14658|156|160|170|180
+538	U18005	1 mediana (9 cm a 10 cm)=105g|1 grande (11 cm)=131g|1 mini bagel (6 cm)=26g|1 pequeño (8 cm)=69g|1 oz=28.35g	03274|049.8|051.7|0655.2|072.3|085.98|090.274|100.175|110.671|1219|133.8|14148|15344|160|170.7|180
+539	U18009	1 galletita (6 cm)=35g|1 mediana=51g|1 grande=77g|1 pequeño=35g	03365|046.2|0516.5|0648.5|071.3|083.48|092.49|106.906|116.209|1249|133.3|14224|15942|161|170|180
+540	U18015	1 galletita (6 cm)=35g|1 mediana=51g|1 grande=77g|1 pequeño=35g	03352|047.38|0515.09|0646.63|070.9|088.02|093.823|108.963|110.937|1254|132.68|14177|151062|161|170|180
+541	U18022	1 paquete (derretido)=241g|1 oz=28.35g	03418|047|0512.2|0669.5|076.5|0820.34|093.091|106.719|111.682|1257|132.5|14113|15817|162|170.1|180
+542	U18029	1 rebanada mediana (10 x 6 cm x 4 cm)=64g|1 rebanada grande (15 x 6 cm x 4 cm)=96g|1 rebanada pequeña (5 cm x 6 cm x 4 cm)=32g	03289|0411.75|051.83|0656.44|072.4|082.56|090.497|100.347|110.787|1244|133.63|14128|15513|160|170.2|180
+543	U18033	1 rebanada mediana=20g|1 rebanada grande (11 x 8 cm x 2 cm)=30g|1 rodaja (8 x 6 cm x 1 cm)=10g	03271|048.8|053.5|0650|072.7|080.83|090.855|100.812|111.39|1278|132.94|14110|15613|160|170|180
+544	U18035	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03265|0413.36|054.23|0643.34|077.4|086.39|090.872|100.76|111.872|12103|132.5|14230|15381|160|170.1|180
+545	U18060	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03259|048.5|053.3|0648.3|075.8|083.85|090.626|101.311|110.799|1273|132.83|14166|15603|160|170.4|180
+546	U18064	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03270|0410.37|053.44|0649.46|074.2|086.08|090.803|100.642|111.609|12138|133.52|14182|15519|160|170.2|180
+547	U18065	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03313|0412.96|054.27|0655.77|074.7|086.42|090.989|101.019|111.72|12165|134.09|14223|15601|160|170.2|180
+548	U18069	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03265|049.15|053.19|0649.06|072.7|085.07|090.698|100.599|111.602|12260|133.59|14115|15491|160|170|180
+549	U18070	1 rebanada=22g|1 rebanada sin corteza=11g|1 taza (migas)=45g|1 taza (cubos)=42g|1 rebanada grande (cubos)=27g|1 rebanada fina=17g|1 rebanada delgada sin corteza (cubos)=8g|1 rebanada muy delgada (cubos)=13g	03293|049|054|0654.4|072.5|084.74|090.578|100.796|112.09|12119|133.33|14131|15592|161|170|180
+550	U18075	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03247|0412.95|053.35|0641.29|076.8|085.57|090.747|101.597|110.6|12107|132.43|14248|15400|160|170|180
+551	U18076	1 rebanada=25g|1 rebanada sin corteza=12g|1 taza (migas)=45g|1 taza (cubos)=35g|1 rebanada grande (cubos)=30g|1 rebanada fina=20g|1 rebanada delgada sin corteza (cubos)=9g|1 rebanada muy delgada (cubos)=15g	03306|0416.27|054.07|0651.16|079.2|085.77|090.922|101.972|110.74|12130|132.96|14326|15493|160|170|180
+552	U18079	1 cucharada sopera=7g|1 taza=108g	03395|0413.35|055.3|0671.98|074.5|086.2|091.203|101.023|112.06|12183|134.83|14196|15732|160|170|180
+553	U18128	1 bizcocho=42g|1 Magdalena=50g	03374|043.47|0511.54|0664.03|071|0837.3|094.139|104.906|111.86|1224|131.36|1471|15470|1641|170.1|180.1
+554	U18147	1 pieza=125g|1 pedazo pequeño=80g	03321|045.5|0522.5|0625.5|070.4|0821.8|099.921|108.634|111.602|1251|130.63|1490|15438|1655|170.4|180.5
+555	U18185	1 galleta=12.2g|1 mediana (6 cm)=10g|1 grande (9 cm - 10 cm)=40g	03477|049.6|0523.6|0658.9|071.8|0831.83|094.485|1012.368|115.518|1235|132.51|14167|15506|161|170|180
+556	U18210	1 redondo (4 cm)=10g|1 artículo oval (8 x 3 cm x 1 cm)=15g|1 oz=28.35g	03483|044.5|0520|0672.1|071.5|0839.3|092.979|108.437|117.551|1227|132.21|1491|15349|160|170|180
+557	U18214	5 galletas redondos=16g|1 plaza=3g|1 galleta grande=10g|1 rectangular=4g|1 taza (tamaño de bocado)=62g	03489|0410.93|0522.74|0659.42|072.3|084.53|095.288|105.744|1110.09|12136|134.88|14156|15973|163|170|180
+558	U18228	5 galletas redondos=16g|1 plaza=3g|1 galleta grande=10g|1 rectangular=4g|1 taza (tamaño de bocado)=62g	03421|049.5|058.85|0674.34|072.9|082.22|092.001|102.247|114.068|1221|135.13|14159|151021|160|170|180
+559	U18229	5 galletas redondos=16g|1 plaza=3g|1 galleta grande=10g|1 rectangular=4g|1 taza (tamaño de bocado)=62g	03504|046.6|0525.83|0661.37|072.1|087.45|095.4|106.652|1112.597|1295|133.81|14111|15748|160|170|180
+560	U18231	5 galletas redondos=16g|1 plaza=3g|1 galleta grande=10g|1 rectangular=4g|1 taza (tamaño de bocado)=62g	03494|0411.47|0524.54|0658.38|072.3|0810.5|094.913|1013.776|114.655|1281|132.77|14215|15801|160|170|180
+561	U18232	5 galletas redondos=16g|1 plaza=3g|1 galleta grande=10g|1 rectangular=4g|1 taza (tamaño de bocado)=62g	03456|048.95|0517.36|0667.35|073.7|0813.8|092.73|104.297|119.225|1281|134.69|14207|15787|160|170|180
+562	U18255	1 mediana (8 cm)=54g|1 grande (10 cm)=71g|1 extra grande (12 cm)=122g|1 jumbo (15 cm)=157g|1 dona largo (11 cm)=52g|1 mini Donut (4 cm)=14g	03421|046.14|0522.7|0647.93|072.1|0822.75|099.453|107.248|113.588|12101|132.38|14102|15316|1630|171.2|180.1
+563	U18288	1 panqueque=41g|1 panqueque (15 cm)=73g|1 oz=28.35g|1 mini panqueque (15 cm)=10.1g|1 panqueque=40g	03233|045.23|056.83|0637.75|071|088.32|091.162|101.554|113.831|1278|135.67|1490|15461|1618|170.3|180
+564	U18301	1 pieza grande (1/8 de 22 cm)=125g|1 mediana pieza (1/6 de pastel de 20 cm)=117g	03237|041.9|0511|0634|071.6|0815.65|093.797|104.388|112.198|1211|130.45|1465|15201|160|173.2|180
+565	U18326	1 pieza grande (1/8 de 22 cm)=125g|1 mediana pieza (1/6 de pastel de 20 cm)=117g	03243|043.9|059.75|0634.83|071.8|0818.88|091.988|104.6|111.77|1264|130.9|14167|15239|1626|170|180.1
+566	U18347	1 rollo=27g	03273|048.6|056.3|0646|073.8|081.63|091.497|103.109|111.107|12176|133.55|14115|15524|160|170|180
+567	U18350	1 rollo=42g	03278|049.87|053.76|0650.15|072.1|086.37|090.885|100.901|111.594|12173|133.43|14127|15500|160|171.3|180
+568	U18353	1 rodillo (9 cm)=57g|1 rodillo (cuadrado de 7 cm)=60g|1 grande del rodillo (cuadrado de 7 cm)=83g	03293|049.9|054.3|0652.7|072.3|081.77|090.606|101.133|111.719|1295|133.28|14108|15544|160|170|180
+569	U18356	1 rodillo (9 cm)=57g|1 rodillo (cuadrado de 7 cm)=60g|1 grande del rodillo (cuadrado de 7 cm)=83g	03372|046.2|0516.4|0650.9|072.4|0831.73|093.079|104.797|117.473|1272|131.6|14111|15304|1666|172|180
+570	U18369	1 cucharadita=4.6g|0,5 cucharadita=2.3g	0353|040|050|0627.7|070.2|080|090|100|110|125876|1311.02|1420|1510600|160|170|180
+571	U18375	1 paquete=7.2g|1 cucharadita=4g|1 cucharada sopera=12g	03325|0440.44|057.61|0641.22|0726.9|080|091.001|104.309|110.017|1230|132.17|14955|1551|160|170.3|180
+572	U18933	1 Plaza (10 cm)=33g|1 redondo (10 cm)=33g	03309|047.42|059.49|0648.39|072.6|084.41|092.283|105.292|111.526|12299|136.59|14138|15710|1613|170|180
+573	U18938	1 pasta=55g	03391|044.23|0510.08|0670.81|070.7|0835.52|092.672|105.733|111.235|1211|134.05|1471|15312|160|170|180
+574	U19008	10 puffs=84g|1 puff=8.4g|10 patatas soplos=60g	03563|045.87|0536.56|0653|071.7|083.03|095.512|1010.9|1119.637|1257|132.14|14189|15926|167|170|180
+575	U19034	1 bolso=28g|1 taza=11g	03387|0412.94|054.54|0677.9|0714.5|080.87|090.57|101.1|111.9|127|133.19|14329|158|160|170|180
+576	U19035	1 bolso=28g|1 taza=11g	03583|047.29|0543.55|0645.06|078.1|080.46|096.82|109.809|1123.191|124|131.98|14182|151058|160|170.3|180
+577	U19074	1 pieza=10.1g|1 paquete (derretido)=71g	03382|044.6|058.1|0677|070|0865.5|092.476|101.542|113.478|12138|130.14|14214|15245|167|170.4|180
+578	U19089	0,5 taza=107g	03249|043.5|0516.2|0622.29|070|0820.65|0910.329|104.46|110.68|12117|130.34|14157|1561|1692|170|180.3
+579	U19095	0,5 taza=107g	03207|043.5|0511|0623.6|070.7|0821.22|096.79|102.969|110.452|12128|130.09|14199|1580|1644|170.6|180.2
+580	U19097	1 barra=37g|0,5 taza=107g	03144|041.1|052|0630.4|071.3|0824.32|091.16|100.53|110.08|1254|130.14|1496|1546|161|172.3|180
+581	U19106	10 pastillas de goma=36g|1 grande gomita (2 cm)=11.6g|10 ositos de goma (2 cm)=22g|10 dinosaurios gomosos (2 cm)=63g|10 peces gomosos (2 cm)=50g|10 gusanitos (2 cm)=74g|1 gomita pequeño (1 cm)=3.2g|1 gomita mediano (2 cm)=4.2g	03396|040|050|0698.9|070.1|0858.97|090|100|110|123|130.4|145|1544|160|170|180
+582	U19107	1 pieza=6g|1 pedazo pequeño=3g	03394|040|050.2|0698|070|0862.9|090|100|110|123|130.3|145|1538|160|170|180
+583	U19116	1 regular=7.2g|10 en miniatura=7g|1 taza (miniatura)=50g	03318|041.8|050.2|0681.3|070.1|0857.56|090.056|100.08|110.047|123|130.23|145|1580|160|170|180
+584	U19140	10 piezas=20g|1 diversión tamaño paquete=18g|1 taza=170g	03515|049.57|0526.13|0660.48|073.7|0850.75|0910.169|108.086|113.456|12102|131.16|14347|1550|168|170|180
+585	U19141	10 piezas=20g|1 diversión tamaño paquete=18g|1 taza=170g	03492|044.33|0521.13|0671.19|072.8|0863.68|0913.08|105.183|110.921|12105|131.11|14261|1561|1614|170.5|180
+586	U19160	2 bares=58g	03502|044.91|0524.85|0664.8|071.1|0848.25|0918.96|102.988|110.628|12106|130.81|14186|15198|167|170.6|180
+587	U19166	1 cucharada sopera=5.4g	03220|0418.1|0513.1|0658.3|0729.8|081.76|097.76|104.39|110.42|12111|1315.52|142509|1519|160|170|180
+588	U19280	0,5 taza=107g	03128|040.4|050|0632.6|070|0832.6|090|100|110|122|130.16|143|1522|160|171|180
+589	U19296	1 cucharada sopera=21g	03304|040.3|050|0682.4|070.2|0882.12|090|100|110|126|130.42|1452|154|160|170.5|180
+590	U19300	1 paquete=14g|1 porción=1 tbsp	03266|040.15|050.02|0669.95|071|0851.22|090.005|100.001|110.004|127|130.19|1454|1530|160|170.9|180
+591	U19334	1 cucharadita desempaquetada=3g|1 paquete=2.8g|1 cucharadita llena=4.6g|1 taza llena=220g|1 taza desempaquetada=145g|1 cucharadita de brownulated=3.2g	03380|040.12|050|0698.09|070|0897.02|090|100|110|1283|130.71|14133|1528|160|170|180
+592	U19335	1 cucharadita desempaquetada=3g|1 paquete=2.8g|1 cucharadita llena=4.6g|1 taza llena=220g|1 taza desempaquetada=145g|1 cucharadita de brownulated=3.2g	03387|040|050|0699.98|070|0899.8|090|100|110|121|130.05|142|151|160|170|180
+593	U19336	1 cucharada sopera (sin cernir)=8g|1 cucharadita=2.5g|1 taza (sin cernir)=120g|1 taza (tamizada)=100g	03389|040|050|0699.77|070|0897.81|090|100|110|121|130.06|142|152|160|170|180
+594	U19353	1 cucharada sopera=20g	03260|040.04|050.06|0667.04|070|0867.9|090.007|100.011|110.017|12102|130.11|14212|1512|160|170|180
+595	U19360	1 cucharada sopera=20g	03265|040|050.1|0669.6|070|0842|090.018|100.032|110.05|125|130.07|146|1561|160|170|180
+596	U19411	10 fichas=12g|1 taza=34g|1 bolso=168g	03542|046.56|0536.4|0650.81|074.4|080.37|094.014|1015.999|1115.998|1224|131.61|141642|15480|160|1718.6|180
+597	U20022	1 taza=157g	03370|047.11|051.75|0679.45|073.9|081.61|090.169|100.299|110.634|123|134.36|14142|157|160|170|180
+598	U20037	1 taza=195g	03111|042.58|050.9|0622.96|071.8|080.35|090.18|100.327|110.323|1210|130.42|1443|155|160|170|180
+599	U20044	1 taza=185g	03365|047.13|050.66|0679.95|071.3|080.12|090.18|100.206|110.177|1228|134.31|14115|155|160|170|180
+600	U20045	1 taza=158g	03130|042.69|050.28|0628.17|070.4|080.05|090.077|100.088|110.076|1210|131.2|1435|151|160|170|180
+601	U20047	1 taza=158g	03123|042.91|050.37|0626.05|070.9|080.11|090.074|100.074|110.091|1219|131.81|1456|152|160|170|180
+602	U20049	1 taza=165g	03117|042.18|050.5|0625.1|070.6|080|090.017|100.074|110.017|128|131.77|149|154|160|170|180
+603	U20080	1 taza=137g	03340|0413.21|052.5|0671.97|0710.7|080.41|090.43|100.283|111.167|1234|133.6|14363|152|160|170|180
+604	U20081	1 taza=137g	03364|0410.33|050.98|0676.31|072.7|080.27|090.155|100.087|110.413|1215|134.64|14107|152|160|170|180
+605	U20083	1 taza=137g	03361|0411.98|051.66|0672.53|072.4|080.31|090.244|100.14|110.727|1215|134.41|14100|152|160|170|180
+606	U20084	1 taza=137g	03362|048.2|050.86|0678.03|071.7|080.31|090.127|100.073|110.379|1214|137.32|14105|152|160|170|180
+607	U20100	1 taza=140g|1 taza (en forma de espiral)=134g|1 taza (pequeñas conchas)=115g	03158|045.8|050.93|0630.86|071.8|080.56|090.176|100.131|110.319|127|131.28|1444|151|160|170|180
+608	U20110	1 taza=160g	03138|044.54|052.07|0625.16|071.2|080.4|090.419|100.581|110.552|1212|131.47|1438|155|1629|170|180.1
+609	U20121	1 taza=140g	03158|045.8|050.93|0630.86|071.8|080.56|090.176|100.131|110.319|127|131.28|1444|151|160|170|180
+610	U21005	1 artículo=162g	03312|0411.13|0520.77|0621.05|070.2|080.95|096.449|109.985|112.967|1251|131.9|14149|15672|16161|170|180.5
+611	U21009	1 artículo=111g	03371|049.67|0524.42|0629.99|070.4|081.59|097.427|1012.157|113.107|1247|131.86|14153|15814|1628|170|180.3
+612	U21090	1 hamburguesa con queso=127g	03270|0413.49|0512.9|0625.46|071.9|085.24|095.797|105.035|111.363|12123|132.25|14184|15628|1639|170.4|180.1
+613	U21138	1 porción mediana=117g|1 porción grande=154g|1 porción pequeña=71g|10 papas fritas=50g	03312|043.43|0514.73|0641.44|073.8|080.3|092.336|105.969|115.398|1218|130.81|14579|15210|160|174.7|180
+614	U21389	1 hamburguesa=374g	03252|0413.94|0515.66|0613.74|071.4|083.52|095.773|106.117|113.016|1235|132.8|14192|15289|1646|170.2|180.1
+615	U21400	1 hamburguesa con queso=219g	03261|0411.94|0514.1|0621.53|071.4|083.26|095.045|105.088|113.826|12127|131.4|14182|15485|1636|170.3|180.1
+616	U21401	4 piezas=62g	03299|0417.63|0518.13|0616.21|071.3|080.1|093.131|106.009|117.479|1219|130.64|14330|15748|1647|170|180.2
+617	U22906	1 tarta=302g	03198|044.82|0511.45|0618.99|071|082.4|094.178|103.932|112.749|1221|130.58|14105|15407|1617|171|180.1
+618	U22953	1 rollo=85g	03222|049.94|057.17|0629.5|072.1|085.32|091.588|102.35|112.464|1234|131.55|14212|15407|1614|1729.3|180.1
+619	U22959	1 porción (hace aproximadamente 1 taza preparada)=70g	03379|0413.81|054.77|0670.2|073.2|089.61|091.151|100.665|110.813|12144|132.76|14348|15680|167|170.7|180
+620	U23558	1 hamburguesa=82g	03171|0426.29|056.55|060|070|080|092.977|102.721|110.327|127|132.83|14348|1565|1676|170|180.2
+621	U23563	1 hamburguesa=82g	03217|0426.11|0511.73|060|070|080|094.627|104.941|110.421|1213|132.71|14333|1568|1685|170|180.2
+622	U23568	1 hamburguesa=82g	03250|0425.93|0515.48|060|070|080|095.887|106.662|110.485|1218|132.6|14318|1572|1690|170|180.2
+623	U23577	1 hamburguesa=82g	03293|0415.76|0525|060|070|080|099.481|108.629|110.52|1221|131.79|14244|1567|1675|170|180.1
+624	U23578	1 hamburguesa=82g	03278|0425.56|0518.72|060|070|080|097.238|108.604|110.523|1230|132.37|14289|1578|1689|170|180.2
+625	U23580	1 porción=139g	03277|0426.28|0518.21|060|070|080|097.044|108.373|110.509|1234|132.63|14354|1593|1689|170|180.2
+626	U25001	1 bolso=28g|1 taza=11g	03424|0412.6|059.5|0672|0714.2|080.92|091.415|104.085|113.572|1211|132.28|14241|15884|160|170|180
+627	U25031	1 barra=50g	03422|0430|0514|0645|072|0827|094.499|103.828|114.804|12200|133.6|14250|15450|168|17120|180
+628	U42240	1 porción=28g	03406|046.25|057.81|0681.25|076.3|0818.75|090.8|104.688|111.563|1237|1333.75|14219|15422|160|170|183.1
+629	U42258	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03240|0417.6|0514.1|0610.6|070|088.02|098.85|104.13|110.41|12529|130.2|14330|151587|1653|170|180.3
+630	U42283	10 fichas=12g|1 taza=34g|1 bolso=168g	03469|045|0518.2|0671.4|074.8|085.01|092.631|109.91|114.234|12125|130.8|14721|15634|160|170|180
+631	U42297	1 taza=56g	03407|0410.17|0510.17|0672.88|0711.9|0818.64|091.695|103.39|114.237|1234|1327.46|14356|15237|160|170.1|181.7
+632	U43015	1 cucharada sopera=14.9g|1 cucharadita=5g|1 taza=239g	03542|042.17|0557.85|063.3|070.5|082.81|098.789|1013.504|1132.857|1248|131.08|1429|151209|1639|170.3|180.1
+633	U43275	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03180|0424.6|057|063.5|070|080.59|094.41|102.005|110.222|12684|130.43|14180|151430|1635|170|180.1
+634	U43382	1 taza=237g|1 taza pequeña=178g|1 taza grande=356g	0346|040.39|050.13|0612.2|070.1|0812.1|090.01|100.023|110.07|128|130.25|1477|152|160|179.3|180
+635	U43570	1 porción=28g	03398|047.12|055.46|0681.19|074.2|0819.79|090.693|102.831|111.307|1223|1334.82|14209|15482|160|170|184.6
+636	U43589	1 rebanada=28g|1 taza (cortada)=132g|1 taza (rallada)=113g|1 taza (derretida)=244g|1 pulgada cúbica=17g|1 paquete (derretido)=170g	03173|0428.4|055.1|063.4|070|081.33|093.304|101.351|110.18|12961|130.17|14111|15260|1635|170|180.1
+637	FS3521	1 torta=30g	03473.3333|047.333333|0668.66667|0828|0518.33333|0911.33333|072.333333|1566.66666
+638	FS4144	100 g|1 onza=27.90698g|1 mazorca, pequeña (14 cm - 17 cm de largo)=73.25581g|1 mazorca, mediana (17,5 cm - 19 cm de largo)=89.53488g|1 mazorca, grande (19,5 cm - 23 cm de largo)=143.0233g|1 taza=153.4884g|1 libra=453.4884g	0386|043.22|0619.02|083.22|051.18|090.182|100.347|110.559|160|072.7|1515|14270
+639	FS4145	100 g|1 onza=28.39506g|1 taza=164.1975g|1 lata=211.1111g|1 lata (303 x 406)=297.5309g|1 libra=453.0864g	0381|042.62|0618.59|083.5|051|090.154|100.292|110.471|160|072|15214|14195
+640	FS4146	1/2 taza=82.08g|1 onza=28.5g|100 g|1 paquete=285g|1 libra=454.86g	0387.7193|043.021442|0620.7846|083.362573|050.7675439|090.1193957|100.2266082|110.3654971|160|072.436647|152.436647|14209.5517
+641	FS4147	1 mazorca, producto=124.4898g|1 onza=28.57143g|1/2 taza, granos=81.63265g|100 g|1 libra=454.0816g	0398|043.293442|0623.60033|050.7872131|090.1204918|100.2289344|110.3687049|160|072.811475|154.819672|14295.6065
+642	FS4148	1 taza=8.010336g|1 onza=28.42377g|100 g	03387|0412.98322|0677.64967|080.873871|054.494194|090.6366774|100.9487742|112.309516|160|0714.98065|1512.48387|14324.5807
+643	FS4149	1 taza=11.09057g|1 onza=28.28096g|100 g	03541|047.393666|0657.0755|080.5409999|0532.7305|095.54525|107.970733|1118.18661|160|078.115|15793.4667|14189.35
+644	FS4150	1 taza=11.02662g|1 onza=28.327g|100 g	03526|049.250344|0651.51172|0533.10172|096.39362|109.676586|1115.33562|169.068965|079.975863|15888.7586|14263
+645	FS4151	1 taza=11g|1 onza=28.4g|100 g	03500|049|0657.18182|0528.09091|094.890909|108.172728|1113.41818|160|0710|15881.8182|14227.2727
+646	FS4152	100 g|1 onza=28.43823g	03429|0412.6|0673.39|080.54|059.5|091.415|104.085|113.572|160|0714.2|15490|14241
+647	FS4153	100 g|1 onza=28.4689g|1 paquete=240.9091g	03418|047|0669.5|0512.2|093.091|106.719|111.682|162|076.5|151111|14113
+648	FS27753	1 tajada delgada=9.230769g|1 pulgada cuadrada=0.5128205g|1 tajada=9.230769g|1 onza, sin hueso=28.20513g|1 taza=55.89743g|100 g	03195|0427.73333|060.325|080|058.341666|092.773334|103.813333|110.9641667|1665|070|152686.667|14509.1667
+649	FS27754	100g	03110|0417|061.5|054
+650	FS27755	1 loncha=30.14925g|1 onza=28.35821g|1 porción=60g|100 g|1 taza, trozos=150.1493g	03335|0433.03564|060.5306931|080|0521.92426|097.807822|1010.27555|112.441188|1656.38614|070|151233.861|14275.297
+651	FS27756	1 ración=90g	03266.6667|0437.11111|060.2222222|0513
+652	FS27757	1 tajada=28g|1 pulgada cúbica=17.88889g|1 porción=27.22222g|100 g|1 taza=135.3333g	03128.5714|0417.71429|062.071429|081.464286|054.892857|091.546429|101.925|111.335714|1671.42857|070.3571429|151128.571|14289.2857
+653	FS27758	100 g|1 onza=28.28947g|1 loncha=29.93421g|1 porción=59.86842g|1 taza, trozos=149.6711g	03304|0432.24|060.14|080|0519.13|096.85|108.994|112.223|1649|070|151139|14243
+654	FS27759	100g	03104|0418|061.2|053
+655	FS27760	1 tajada (10,5 cm ²) (22 g),=20.98765g|1 tajadas muy delgadas=17.28395g|1 pulgada cúbica=17.90123g|1 porción=27.77778g|1 tajada=27.77778g|100 g|1 taza, trozos=146.9136g	03162|0418.24882|062.287059|080|058.385882|092.701588|103.940412|110.9291176|1652.41177|070|151276.941|14295.4118
+656	FS27761	100g	03229|0430|060.3|0512
+657	FS27762	1 loncha=31g	03100|0419.35484|060.3225806|080.3225806|052.580645|090.6451613|100.6451613|110.967742|070|150.9032258
+658	FS28718	1 caqui (6.5 cm de diámetro x 9 cm de alto)=168.5714g|1 28 g producidos=24.28571g|100 g	0370|040.5754238|0618.52627|0812.48729|050.1898305|090.02016949|100.03677966|110.04271186|160|073.559322|151.186441|14160.1695
+659	FS31710	1 taza, cubitos=154.1667g|1 onza=29.16667g|1 rodada, delgada (9 cm de diámetro x 1,25 cm de grosor)=56.25g|1 tajada (9 cm de diámetro x 2 cm de espesor)=83.33334g|100 g|1 fruta=472.9167g	0348|040.5448648|0612.70054|089.308108|050.1232432|090.009081081|100.01427027|110.04216216|160|071.427027|151.297297|14115.4595
+660	FS31711	1 taza, macerada, en rodajas o trozos=246.875g|1 onza=28.125g|1 rebanada o rodaja (7,5 cm de diámetro) con líquido=46.875g|100 g	0332|040.4293671|068.271393|087.473418|050.08911392|090.006075949|100.01093671|110.03078481|160|070.8101266|150.8101266|14126.3797
+661	FS31712	1 taza, macerada, en rodajas o trozos=251.9231g|1 onza=28.84616g|1 rebanada o rodaja (7,5 cm de diámetro) con líquido=48.07692g|100 g	0352|040.3612214|0613.45252|0812.65466|050.119084|090.009129771|100.01309924|110.0400916|160|070.7938931|151.19084|14105.1908
+662	FS31713	1 tazas, trozos=245.3488g|1 onza=27.90698g|100 g	0386|040.3994313|0622.16844|0821.07204|050.0978199|090.006928911|100.01181991|110.03505214|160|071.100474|152.037915|1499.85782
+663	FS31714	1 taza=256.9767g|1 onza=27.90698g|100 g	0386|040.4085973|0622.36389|050.1011765|090.01906787|100.01790045|110.0319095|160|071.284163|151.945701|14131.1403
+664	FS31715	1 taza=248.16g|1 onza líquida=31.96g|100 g|100 ml|1 porción=188g	0353.19149|040.3626692|0612.96744|0810.054|050.1208898|090.008059316|100.0141038|110.04231141|160|070.2014829|152.014829|14130.9639
+665	FS31716	1 coctel=133g|1 shot=30.06956g|100 g|1 porción=133g	03172.9323|040.4360902|0622.29323|0820.76692|051.909774|091.651128|100.08496241|110.03909774|160|070.3007519|156.015038|1469.17294
+666	FS31717	4 rodajas=140g	0354.28571|040.5|0612.2|088.9|050.1|071|150.0007142858
+667	FS31718	1 envase=125g	0374.4|043.12|0611.44|0810.4|051.84|090.4|070|150.048
+668	FS29945	1 porción=55.97015g|1 pulgada cúbica=20.89552g|1 onza=28.35821g|100 g	03402|042.054667|0676.73734|0874.75414|0511.38107|091.46328|106.097893|113.262453|161.786667|071.250667|15323.3867|14353.76
+669	FS29946	1 pieza=16g	03537.5|044.375|0660|0531.25|0917.5|1539.375
+670	FS29947	1 bombón=8.41g	03784.78|048.323424|0677.28894|0868.96552|0547.56243|0922.59215|074.756243|150
+671	FS32585	1 trozo (1/6 20 cm cuadrados, aproxe 6,5 cm x 10 cm)=206g|1 pulgada cúbica=11.03571g|1 onza=28.20238g|100 g|1 porción=206g|1 trozo (1/6 de 18 cm x 30 cm, aprox 9 cm x 10 cm)=231.75g|1 taza=250.1429g	03163.1068|049.961165|0617.19903|082.718446|056.009709|093.099029|101.960194|110.3339806|1623.78641|071.31068|15361.165|14189.8058
+672	FS32586	1 ración=265g	03155.0943|048.18868|0611.69811|083.886792|058.301887|092.415094|070.490566
+673	FS32587	100g	03156|047.7|0613.6|084.7|057.7|091.6|070.6|150.39
+674	FS32588	1 trozo (1/6 20 cm cuadrados, aproxe 6,5 cm x 10 cm)=206g|1 pulgada cúbica=11.23636g|1 onza=28.09091g|100 g|1 porción=206g|1 trozo (1/6 de 18 cm x 30 cm, aprox 9 cm x 10 cm)=231.5939g|1 taza=249.697g	03160.1942|0410.14078|0617.19903|082.718446|055.548544|092.745146|101.654854|110.6359223|1625.24272|071.31068|15363.1068|14183.9806
+675	FS32589	100g	03111|044.1|0611.9|054.6|091.4|076|156
+676	FS32590	1 trozo (1/6 de 18 cm x 30 cm, aprox 9 cm x 10 cm)=255.6655g|1 pulgada cúbica=10.84642g|1 onza=28.66553g|100 g|1 trozo (1/6 20 cm cuadrados, aproxe 6,5 cm x 10 cm)=227g|1 porción=227g|1 taza=250.2423g|1 Lasaña (20 cm cuadrados)=1358.901g|1 Lasaña (18 cm x	03129.0749|046.887906|0617.22172|082.894407|053.82531|092.208745|101.004437|110.2824002|1612.90749|071.603658|15303.5216|14206.1287
+677	FS32591	100g	0341|042.3|067.2|086.2|050.2|070.8|150.4
+678	FS32592	100g	03347|0412|0673|081.3|051.2|091|071.5|1510
+679	FS32593	1 lasaña=400g	03132|044.5|069.25|081|057.75|092|15100
+680	FS32594	1 porción=400g	03136|042.25|067.5|082.25|0510.25|091.9|072.25|151.1
+681	FS32662	1 vaso=250g	0342.8|043|064.6|051.48
+682	FS32663	100ml	0345|043.15|064.65|084.65|051.55|091|1540
+683	FS32664	100ml	0346|043|064.9|084.9|051.6|091.1|070|150
+684	FS32665	1 porción=200g	0345|043.15|064.65|051.55
+685	FS32666	100ml	0345|043.05|064.6|084.6|051.55|091|070|1550
+686	FS32667	100ml	0349|043.9|064.7|084.7|051.6|091.2|070|1550
+687	FS32668	1 taza=250g	0344|043.04|064.56|084.56|051.56|091|070|1552
+688	FS32669	100ml	0344|043|064.55|080|051.55|090|070|150
+689	FS32670	100ml	0345|043|064.7|084.7|051.6|091.1|070|1550
+690	FS32671	100ml	0345|043|064.7|084.7|051.55|091.2
+691	FS8988	100 g|1 onza=28.14815g|1 libra=453.3333g	03135|0420.36|063.89|080|053.63|091.233|100.479|110.465|16275|070|1569|14313
+692	FS8989	1 taza=238.2979g|1 onza=27.65957g|1 onza líquida=29.78723g|1 producido de fruta=82.97872g|100 g|100 ml	0347|040.7301786|0610.82259|088.741161|050.2098214|090.02517857|100.03734821|110.04154464|160|070.2098214|150.8392857|14208.1429
+693	FS8990	100 g|1 onza=28.57143g|1 libra=453.5714g	03140|0419.93|062.91|080|054.85|091.56|100.968|110.829|16334|070|1577|14308
+694	FS8991	1 cucharadita=3.773585g|1 onza=28.30189g|100 g	0353|040|0633.655|080|050|090|100|110|160|070|1512932|1426.5
+695	FS8992	1 g|1 onza=27.5g|100 g	03400|0488|060|054|090.9|100.7|111.7|160|151200|14100
+696	FS30478	1 pastelillo=42.95082g|1 onza=28.19672g|100 g	03305|044.307252|0667.28625|053.701908|091.084962|101.850954|110.4866031|160|074.190839|15414.4275|14223.5114
+697	FS30762	1 sandwich=39g	03253.8462|0410|0640.51282|088.717949|052.820513|090.7692308|101.025641|111.025641|0712.82051|151.025641
+698	FS30763	1 unidad=39g	03253.8462|0411.02564|0638.46154|086.410256|052.564103|090.5128205|101.025641|110.7692308|0715.89744|15128.2051
+699	FS30764	1 unidad=39g	03253.8462|0412.05128|0638.46154|087.435898|052.564103|090.5128205|101.025641|111.025641|0714.10256|151.025641
+700	FS30765	1 porción=39g	03253.8462|0411.02564|0638.46154|086.410256|052.564103|090.5128205|0715.89744|151282.051
+701	FS34745	1 cápsula=180g	0322.22222|041.166667|061.611111|081.611111|051.111111|090.7222222|070.4444444|1522.22222
+702	FS34746	1 sobre=14g	03385.7143|0410.71429|0665.71429|0848.57143|057.857143|097.142857|074.285715|150.7142857
+703	FS34747	100g	03400|0421.2|0629.4|0829.1|0520|0912.5|078.2|150.41
+704	FS34748	1 taza=240g	0320.83333|042|062.875|082.875|050.08333334|090.04166667|070.125|150
+705	FS34749	100g	03421|046.7|0671.6|0848.3|0510.3|098.34|101.73|110.22|077.7|151500
+706	FS34750	1 vaso=220g	0331.36364|041|064.545455|084.090909|050.9545454|090.5909091|070.1363636|150
+707	FS34741	1 mediano=408g|1 onza líquida=24.17778g|100 ml|100 g|1 taza=202.4889g|1 pequeño=305.2444g|1 porción=408g|1 grande=483.5555g	0333.08823|042.159314|063.029412|083.321079|051.35049|090.8142157|100.3428922|110.09803922|164.901961|070|1530.88235|14136.0294
+708	FS34742	1 mediano=408g|1 onza líquida=26.04255g|100 ml|100 g|1 taza=204g|1 pequeño=303.8298g|1 porción=408g|1 grande=486.1277g	0323.03922|042.220588|063.10049|083.259804|050.1789216|090.1080882|100.02990196|110.0370098|160.9803922|070|1537.9902|14147.0588
+709	FS34743	1 mediano=408g|1 onza líquida=25.05263g|100 ml|100 g|1 taza=204g|1 pequeño=307.7895g|1 porción=408g|1 grande=486.7368g	0327.94118|042.20098|063.191177|083.330882|050.6789216|090.4379902|100.1769608|110.05490196|162.941176|070|1533.08823|14137.0098
+710	FS34744	1 taza=180g	0322.22222|041.166667|061.611111|081.611111|051.111111|090.7222222|070.4444444|1522.22222
+711	FS34815	2 cucharadas=15g	03360|046.666667|0673.33334|080|052.666667
+712	FS34816	100ml	0351|044.1|067.1|085.2|050.4|090.2|071.2|150
+713	FS31017	1 lanza=27.77778g|1 tajada=5.555556g|1 onza=27.77778g|1 pequeño=38.88889g|1 mediano (9,5 cm de largo)=66.66667g|100 g|1 grande (10 cm de largo)=133.3333g|1 taza, picado o en cubitos=144.4444g|1 taza (alrededor de 23 rebanadas)=155.5556g|1 libra=455.5556g	0318|040.684|064.464|083.78|050.216|090.0504|100.0036|110.0828|160|071.44|151386|14126
+714	FS31018	1 taza, picados=159.8291g|1 pepinillo enano (5,5 cm de largo),=5.982906g|1 tajada=6.837606g|1 pepinillo pequeño (6,5 cm de largo)=15.38461g|1 pepinillo=19.65812g|1 pepinillo (7 cm de largo)=24.78632g|1 onza=28.20513g|1 pepinillo grande (7,5 cm de largo)=3	03117|040.3691444|0631.84653|0814.6469|050.2627808|090.06632086|100.003754011|110.1063636|160|071.126203|15939.754|1431.90909
+715	FS31019	1 lanza=27.27273g|1 tajada=9.090909g|1 onza=27.27273g|1 pequeño=36.36364g|1 mediano (9,5 cm de largo)=63.63636g|100 g|1 grande (10 cm de largo)=136.3636g|1 taza=154.5455g|1 libra=454.5455g	0311|040.3666667|062.493333|081.173333|050.22|090.05866667|100.003666667|110.09166667|160|071.466667|151327.333|1425.66667
+716	FS31020	1/2 taza, con rodajas=53.33333g|1 onza=26.66667g|100 g|1 pepino (21 cm)=300g|1 libra=453.3333g	0315|040.6375|063.54375|081.63125|050.1125|090.03375|100.00375|110.0525|160|070.5625001|151.875|14142.5
+717	FS31021	1 taza, picado=133.3333g|1 tajada=8.333333g|1 barra (10 cm de largo)=8.333333g|1 onza=25g|100 g|1 taza, con rodajas=116.6667g|1 pequeño (16 cm de largo)=158.3333g|1 mediano=200g|1 grande (21 cm de largo)=283.3333g|1 libra=450g	0312|040.585|062.1525|081.38|050.1575|090.01275|100.00225|110.003|160|070.675|152.25|14135.75
+718	FS31022	1 taza, con ralladura o picadura=53.84615g|1 hojita=7.692307g|1 hoja, mediana=7.692307g|1 hoja, grande=15.38461g|1 onza=30.76923g|1 porción=84.61539g|100 g|1 cabeza (13 cm de diámetro)=161.5385g|1 libra=453.8462g	0313|041.374286|062.284286|080.9657143|050.2228571|090.02971429|100.007428572|110.1188572|160|071.114286|155.571429|14243.2857
+719	FS31023	1 taza, rallado=47.05882g|1 hoja=5.882353g|1 hoja exterior=29.41176g|1 onza=29.41176g|1 porción=82.35294g|100 g|1 libra=452.9412g|1 cabeza=623.5294g	0317|041.2325|063.2725|081.19|050.2975|090.03825|100.01275|110.159375|160|072.125|158.5|14246.5
+720	FS31024	100 g|1 hoja, pequeña=7.142857g|1 hoja, mediana=7.142857g|1 hoja, grande=14.28571g|1 onza=28.57143g|1 taza, con ralladura o picadura=57.14286g|1 porción=85.71429g|1 cabeza, pequeña=321.4286g|1 libra=457.1429g|1 cabeza, mediana (15 cm de diámetro)=535.7143	0314|040.9|062.97|081.76|050.14|090.018|100.006|110.074|160|071.2|1510|14141
+721	FS31025	1 taza, rallado=33.33333g|1 hoja=6.666667g|1 hoja exterior=26.66667g|1 onza=26.66667g|100 g|1 cabeza=360g|1 libra=453.3333g	0315|041.47|063|080.84|050.15|090.021|100.006000001|110.09|160|071.5|1530|14210
+722	FS31185	1tarrina=75g	0366.66666|0412|064|083.733333|050.2|090|070.6|150.36
+723	FS31186	1 unidad=62.5g	0368.8|0412.32|064.48|084.48|050.16|090|070|150.4
+724	FS31187	1 tarrina=75g	0366.66666|0412|064|083.733333|050.2|090|070.6|150.36
+725	FS31188	100g	0368|0412.3|064.4|084.4|050.2|090.1|070|150.4
+726	FS31189	1 tarrina=62.5g	0370.4|0411.52|064|084|050.48|090.32|071.6|150.304
+727	FS31190	100g	03184|0410.9|063.5|083.5|0514|099|070|150.3
+728	FS31191	1 tarrina=62.5g	0368.8|0412.32|064.48|084.48|050.16|090|070|15400
+729	FS31192	1 tarrina=62.5g	0370.4|0411.52|064|084|050.48|090.32|071.6|150.304
+730	FS31193	1 porción=62.5g	03184|0410.88|063.52|083.52|0514.08|099.12|150.32
+731	FS31194	1 tarrina=62.5g	03187.2|0411.04|063.68|0514.08|099.440001|071.28|15320
+732	FS31248	100g	03371|047|063.5|0536.5
+733	FS31249	100 g|1 onza=28.37079g|1 paquete=198.0337g|1 libra=453.6517g	03356|0424.94|062.22|082.22|0527.44|0917.614|107.747|110.657|16114|070|15819|14121
+734	FS31250	100 g|1 pulgada cúbica=16.76301g|1 tajada=27.74566g|1 onza=28.3237g|1 taza, rallado=112.7168g|1 taza, cubitos=131.7919g|1 libra=453.7572g	03173|0424.35|061.91|080.52|057|094.342|102.082|110.222|1621|070|15612|1466
+735	FS31251	1 tajada=28g|1 pulgada cúbica=15.12g|1 onza=28.56g|100 g|1 taza, rallado=108.08g|1 taza, cubitos=132.16g|1 libra=454.72g	03178.5714|0428.39286|063.392857|081.321429|055.107142|093.303571|101.35|110.1785714|1635.71429|070|15260.7143|14110.7143
+736	FS31247	100 g|1 onza=28.47458g|1 taza=240g|1 libra=453.5593g	03295|047.1|063.5|083.5|0528.6|0918.02|108.071|111.033|1690|070|15673|14112
+737	FS31252	100 g|1 onza=28.33333g|1 libra=453.75g	03240|0417.6|0610.6|088.02|0514.1|098.85|104.13|110.41|1653|070|151587|14330
+738	FS31253	100 g|1 pulgada cúbica=17.06587g|1 onza=28.44311g|1 paquete=128.1437g|1 taza, con rodajas=144.012g|1 taza, fundido=240.1198g|1 libra=453.5928g	03334|0420.75|060.45|080.45|0527.68|0917.41|108.013|110.826|16100|070|15629|14152
+739	FS31254	1 tajada=28g|1 pulgada cúbica=17.09735g|1 onza=28.24779g|100 g|1 taza, rallado=112.7434g|1 taza, cubitos=131.823g|1 taza, fundido=243.5752g|1 libra=452.9557g	03403.5714|0424.89286|061.285714|080.5357143|0533.14286|0921.09286|109.389285|110.9428571|16103.5714|070|15621.4286|1496.42857
+740	FS31255	100 g|1 pulgada cúbica=17.04545g|1 onza=28.40909g|1 tajada=37.87879g|1 taza, desmenuzado=150g|1 libra=453.7879g	03264|0414.21|064.09|084.09|0521.28|0914.946|104.623|110.591|1689|070|151116|1462
+741	FS31256	1 tajada=21g|1 pulgada cúbica=16.25806g|1 onza=28.45161g|100 g|1 libra=454.5484g	03147.619|0422.47619|0613.38095|089.95238|050.8095238|090.5047619|100.2285714|110.02380952|169.523809|070|151528.571|14285.7143
+742	FS31469	1 tajada=94.98607g|1 onza=28.41225g|1 porción=94.98607g|100 g	03359|046.927331|0659.52452|0824.751|0511.09636|092.110836|104.825971|113.163622|1630.53079|071.368622|15153.7068|14171.6041
+743	FS31470	1 tajada=25.89641g|1 onza=28.28685g|1 tajada, grande=31.87251g|100 g	03251|0410.04|0646.57016|0810.07862|053.822923|090.810923|101.529169|110.9267693|160|076.564616|15490.4154|14204.6615
+744	FS31471	1 tajada=23.89706g|1 onza=28.30882g|1 tajada, grande=29.04412g|100 g	03272|0410.96369|0650.63385|0810.96369|054.100923|090.8829538|101.665477|111.008492|160|076.695385|15531.4462|14221.7846
+745	FS31472	100 g|1 onza=27.73723g|1 porción=113.1387g|1 libra=453.2847g	03137|0421.41|060|080|055|092.25|102.151|110.257|1662|070|1566|14346
+746	FS31473	1 porción=85g|1 onza=28.13793g|1 empanada (producto de 110 g de carne cruda)=82.06896g|100 g|1 libra=454.8965g	03170.5882|0426.29412|060|080|056.552941|092.97647|102.721176|110.3270588|1676.47059|070|1564.70588|14348.2353
+747	FS31474	100 g|1 onza=27.84091g|1 porción=113.0682g|1 libra=453.4091g	03176|0420|060|080|0510|094.058|104.353|110.344|1665|070|1566|14321
+748	FS37449	1 loncha=14g	03271.4286|0431.42857|060.7142857|080.7142857|0516.42857|095|070|152.142857
+749	FS37450	100g	03246|0432|060.5|080.4|0512.9|094.9|070|152800
+750	FS37451	100g	03240|0433.4|060|080|0511.7|090
+751	FS37452	100g	03240|0433.4|060.2|0511.7
+752	FS37453	100g	03171|0429.9|060|080|055.7|092.2|070|151.7
+753	FS37195	1 mediana=28.17391g|1 coctel=6.708075g|1 pequeña=14.08696g|1 pulgada cúbica=18.78261g|1 onza=28.17391g|1 grande=41.59007g|100 g|1 porción=108g|1 taza=139.528g	03149.0741|0419.5216|066.885802|081.455247|054.117284|091.359414|100.983179|111.100309|1674.53703|070.3549383|15429.4753|14230.7099
+754	FS37196	100 g|1 onza=28.23529g|1 taza, picado o en cubitos=140g|1 unidad (producto de 450 g de pavo listo para cocinar)=208.2353g|1 libra=453.5294g	03170|0429.32|060|080|054.97|091.64|101.03|111.43|1676|070|1570|14298
+755	FS37197	100 g|1 onza=28.57143g|1 unidad (producto de 450 g de pavo listo para cocinar)=112.1693g|1 libra=453.4391g|1/2 pechuga, deshuesada=864.0212g	03189|0428.71|060|057.41|092.1|102.45|111.8|1674|070|1563|14288
+756	FS37198	100 g|1 onza=28.14815g|1 unidad (producto de 450 g de pavo listo para cocinar)=86.66666g|1/2 pechuga, sin hueso ni piel=305.9259g|1 libra=453.3333g	03135|0430.06|060|080|050.74|090.24|100.13|110.2|1683|070|1552|14292
+757	FS37199	1 taza=144.1624g|1 onza=28.4264g|100 g	03197|0420.97634|067.990987|081.248592|058.98986|091.423394|102.185729|114.660715|160|074.578169|15549.3803|14179.6585
+758	FS37200	100 g|1 onza=28.57143g|1 unidad (producto de 450 g de pavo listo para cocinar)=280.6723g|1 libra=453.7815g|1/2 pavo, deshuesado y despellejado=2173.949g	03119|0421.77|060|080|052.86|090.95|100.61|110.83|1665|070|1570|14296
+759	FS37201	100 g|1 onza=28.69565g|1 unidad (producto de 450 g de pavo listo para cocinar)=149.5652g|1 libra=453.9131g|1/2 pavo, deshuesado y despellejado=1155.652g	03115|0423.56|060|051.56|090.5|100.27|110.42|1660|070|1563|14305
+760	FS37202	100 g|1 onza=28.66242g|1 unidad (producto de 450 g de pavo listo para cocinar)=145.8599g|1 libra=453.5032g|1/2 pechuga, deshuesada=1131.847g	03157|0421.89|060|057.02|091.91|102.66|111.66|1665|070|1559|14275
+761	FS37203	100 g|1 onza=28.51064g|1 empanada (112 g, en bruto) (producto después de la cocción)=82.12766g|1 unidad, producto de 450 g crudos=330.2128g|1 libra=453.617g	03235|0427.36|060|080|0513.15|093.39|104.89|113.23|16102|070|15107|14270
+762	FS37204	1 cucharada=15.68627g|1 cucharadita=5.882353g|1 onza=27.45098g|100 g|1 taza=237.2549g|1 lata=298.0392g	0351|042.48625|064.845|080.19125|051.97625|090.5865|100.85425|110.465375|160|070.6375|15548.25|14102
+763	FS37454	100g	03180|0427|060.2|058
+764	FS37567	1 cucharada=15.12346g|1 onza=28.39506g|100 g	03324|040.8595918|068.133061|084.297959|0532.79673|095.164163|108.066938|1117.80678|1633.06123|070|15667.8367|1439.67347
+765	FS37568	100g	03223|040.4|067|082.3|0521.5|092.3|070|15390
+766	FS37569	1 cucharada=14.71472g|1 onza=28.22823g|100 g|1 taza=230.9309g	03333|040.8834693|066.66|084.14551|0533.02816|094.580449|107.645408|1119.34798|160|070|15727.1633|1467.95918
+767	FS37570	1 cucharada=14.44867g|1 onza=28.51711g|100 g|1 taza=231.9392g	03263|040.8997368|0624.01605|084.360263|0519.1021|092.969131|104.644026|1110.43003|1627.68421|070|15692.1052|1420.76316
+768	FS37571	1 cucharada=14.97093g|1 onza=28.34302g|100 g|1 taza=238.9535g	03688|040|060.2671845|080.2671845|0577.95107|0910.80761|1018.06167|1145.62843|160|070|15487.6117|1413.35922
+769	FS37572	1 cucharada=14.61539g|1 onza=28.46154g|100 g|1 taza=234.8718g	03390|040.8894736|0624.01579|086.431579|0533.59473|094.926316|109.052105|1118.10421|1627.36842|070|15718.421|146.842105
+770	FS38191	1 taza=240g|1 onza=27.38255g|100 g|1/2 envase=111.1409g|1 envase=222.2819g	0362.08333|043.541667|064.758333|084.758333|053.316667|092.139583|100.9116666|110.09375|1613.33333|070|1547.08333|14158.3333
+771	FS38192	1 taza=240g|1 onza=28.05195g|100 g|1/2 envase=110.6494g|1 envase=222.8571g	0364.16666|045.358333|067.1875|087.1875|051.583333|091.020833|100.435|110.045|166.25|070|1571.66666|14238.75
+772	FS38193	1 taza=240g|1 onza=28.0292g|100 g|1/2 envase=110.365g|1 envase=222.4818g	0357.08333|045.85|067.841667|087.841667|050.1833333|090.1183333|100.05|110.005|162.083333|070|1578.75|14260.4167
+773	FS38194	1 taza=240g|1 onza=27.69231g|100 g|1/2 envase=110.7692g|1 envase=222.6923g	0386.66666|045.033333|0614.0875|0814.0875|051.275|090.8229167|100.35|110.03666667|165|070|1567.5|14223.75
+774	FS38195	1 envase=125g|1 onza=28.22581g|100 g|1/2 envase=112.9032g|1 taza=244.9597g	0399.2|043.984|0618.64|0818.64|051.152|090.7424|100.316|110.0328|164.8|070|1552.8|14176.8
+775	FS38196	1 envase=225g|1 onza=28.36135g|100 g|1/2 envase=112.5g	03105.7778|044.902222|0618.76444|051.422222|090.9168889|100.3902222|110.04044444|166.222222|070|1565.77778|14217.7778
+776	FS38197	100 g|1 onza=27.90698g	0343|043.86|067.5|087.5|050.18|090.116|100.049|110.005|162|070|1559|14177
+777	FS38198	1/2 taza=120g|1 onza=46.95652g|100 g	0395.83334|042.4|0614.94167|053.6|092.178333|101.05|110.1316667|163.333333|071.333333|1559.16667|14156.6667
+778	FS38199	1 taza=240g|1 onza=28.17391g|100 g|1 envase=123.1304g	0395.83334|044.491667|0619.39583|0819.39583|050.2041667|090.1216667|100.05083333|110.01625|162.083333|070|1559.16667|14197.9167
+779	FS38200	1/2 taza=71.77914g|1 onza=28.22086g|100 g	03163|044.012308|0624.26889|0824.07385|055.614444|093.429965|101.595171|110.2103675|161.393162|070|1587.76923|14211.7607
+780	FS38245	1 taza=240g|1 onza líquida=0g|100 g|100 ml|1 taza de té=240g|1 porción=240g	030.8333333|040|060.1958333|080|050|090.002083333|100.0008333334|110.005|160|070|150.8333333|148.75
+781	FS38246	100ml	0324|040|065.7|085.7|050|090|070|150
+782	FS38247	1 taza=240g|1 onza=0g|1 onza líquida=0g|100 g|100 ml	030.8333333|040|060.2958333|080|050|090.002083333|100.0008333334|110.00375|160|070|152.916667|1436.66667
+783	FS38248	1 taza=240g|1 onza=0g|1 onza líquida=0g|100 g|100 ml	030.8333333|040|060.1958333|080|050|090.002083333|100.0008333334|110.005|160|070|150.8333333|148.75
+784	FS38249	1 mediano=121.7391g|1 onza=30.43478g|1 pequeño=91.30434g|100 g|1 taza=178.2609g|1 grande=182.6087g	0323|041.215714|065.150357|084.041429|050.2053571|090.02792857|100.03039286|110.08214286|160|071.15|1513.14286|14206.1786
+785	FS38250	1 taza=240g|1 onza líquida=0g|100 g|100 ml|1 taza de té=240g|1 porción=240g	030.8333333|040|060.1958333|080|050|090.002083333|100.0008333334|110.005|160|070|150.8333333|148.75
+786	FS38251	1 taza=240g|1 onza=0g|1 onza líquida=0g|100 g|100 ml	030.8333333|040|060.2958333|080|050|090.002083333|100.0008333334|110.00375|160|070|152.916667|1436.66667
+787	FS38252	1 taza=159.4203g|1 sin semilla=4.347826g|1 producto de uvas con semillas=5.797101g|1 onza=28.98551g|100 g|1 porción=126.087g	0369|040.7213636|0618.16582|0815.53755|050.1630909|090.05394546|100.0069|110.0483|160|070.8781818|151.881818|14191.9454
+788	FS38253	100 g|1 cucharada=10g|1 anillo (7,5 cm de diámetro, 0,6 cm de espesor)=10g|10 tiras=25g|1 onza=30g|1 pequeño=75g|1 taza, con rodajas=90g|1 mediano (aprox 7 cm de largo, 6,5 cm de diámetro)=120g|1 taza, picados=150g|1 grande (2-1/4 por 450 g, aproximadamen	0320|040.86|064.64|082.4|050.17|090.058|100.008|110.062|160|071.7|153|14175
+789	FS38254	1 galleta=6.5g	03492.3077|040|0621.53846|0821.53846|0516.92308|097.692307
+790	FS39546	1 taza, picada o en cubitos=140.1198g|1 onza=28.14371g|100 g|1 unidad (producto de 450 g de pollo listo para cocinar)=171.2575g|1 libra=453.8922g	03167|0424.98577|060|056.622906|091.808453|102.497863|111.508709|1674.9359|070|1574.9359|14229.0897
+791	FS39530	1 taza=240g|1 onza líquida=0g|100 g|100 ml|1 taza de café=240g|1 porción=240g|1 orden de comida rápida=240g|1 orden mediana de comida rápida=480g|1 orden de comida rápida de gran tamaño=600g	030.8333333|040.1166667|060.0375|080|050.02083333|090.002083333|100.01166667|110.0008333334|160|070|152.083333|1446.25
+792	FS39531	1 taza de espresso=60g|1 onza líquida=60g|1 porción=60g|100 g|100 ml|1 taza de café=240g|1 taza=300g	031.666667|040.1166667|060|080|050.1833333|090.09|100|110.09|160|070|1513.33333|14113.3333
+793	FS39532	1 taza=80g	0328.75|041.5|062|082|051.375|090.875|071|150
+794	FS39533	1 taza=240g|1 onza líquida=0g|100 g|100 ml|1 taza de café=240g|1 porción=240g	030.8333333|040.09999999|060.09999999|080|050|090.002083333|100|110.002083333|160|070|152.083333|1447.5
+795	FS39534	1 taza=240g|1 onza líquida=29.09091g|100 g|100 ml|1 porción=181.8182g|1 máquina expendedora de tazas=181.8182g|1 taza de café=181.8182g|1 lata=301.8182g	0327.5|040.2083333|065.095833|084.75|050.7916666|090.7216667|100.02166667|110.001666667|160|070|155.833333|1448.33333
+796	FS39535	1 taza=240g|1 onza líquida=29.18919g|100 g|100 ml|1 taza de café=181.6216g|1 pequeño=366.4865g|1 porción=489.7297g|1 mediano=489.7297g|1 grande=580.5405g	0330.83333|041.7|062.420833|082.670833|051.658333|090.9470834|100.4195833|110.1004167|165|070.08333334|1520.83333|1497.08334
+797	FS39536	1 taza=240g|1 onza líquida=48g|100 g|100 ml|1 taza de café=192g|1 porción=192g	032.083333|040.1083333|060.375|080|050|090.001666667|100|110.001666667|160|070|152.083333|1431.66667
+798	FS39537	100ml	035|040.4|060.2|080.1|050.3|090.1|070|15290
+799	FS39538	100ml	038|040.7|060.6|080|050.3|090.1|070|150.28
+800	FS39539	100ml	035|040.5|060.1|080|050.3|090.1|070|15120
+801	FS39540	1 taza=240g|1 onza=20g|100 g|1 cubo (180 ml preparado)=180g	035|040.3958333|060.6291667|050.1208333|090.03041667|100.05083333|110.04041667|160|15330|1410
+802	FS39541	1/2 pechuga, sin hueso ni piel=86.09626g|1 onza=28.34225g|1 unidad (producto de 450 g de pollo listo para cocinar)=51.87166g|100 g|1 libra=453.476g	03187|0433.40447|060.5110559|080|054.704037|091.288093|101.717845|111.068571|1690.59627|070|1578.98136|14275.2733
+803	FS39542	1 taza=240g|1 onza=34.28571g|1 onza líquida=34.28571g|100 g|100 ml|1 cubo (180 ml preparado)=171.4286g	032.916667|040.35|060.3333333|080.2625|050.07916667|090.04|100.03|110|160|070|15482.0833|147.916667
+804	FS39543	1/2 pechuga, sin hueso ni piel=86.06061g|1 onza=28.48485g|1 unidad (producto de 450 g de pollo listo para cocinar)=52.12121g|100 g|1 taza, picadas o en cubitos=140g|1 libra=453.3333g	03165|0431.00141|060|080|053.567253|091.009753|101.238662|110.7692254|1684.82394|070|1574.3662|14255.6338
+805	FS39544	1 muslo, deshuesado y despellejado=52.15311g|1 onza=28.22967g|1 unidad (producto de 450 g de pollo listo para cocinar)=31.10048g|100 g|1 taza, picado o en cubitos=140.1914g|1 libra=453.5885g	03209|0425.86615|060|080|0510.85266|093.021872|104.137816|112.473486|1693.95412|070|1588.20184|14237.7615
+806	FS39545	1 ala, deshuesada=34.13793g|1 unidad (producto de 450 g de pollo listo para cocinar)=21.03448g|1 onza=28.27586g|100 g|1 taza, picadas o en cubitos=140g|1 libra=453.4483g	03290|0426.74444|060|080|0519.39192|095.42798|107.610303|114.124444|1684.94949|070|1582.0202|14184.5455
+807	FS39578	1 tarrina=62.5g	03121.6|0411.2|064.32|084.32|056.56|094.32|150.272
+808	FS39579	100g	03280|0413|063|082.8|0524|0917.8|151.4
+809	FS39580	1 ración=62.5g	0367.2|0412|064|083.84|050|090|150.368
+810	FS39581	100g	0367|0412|064|080|050.2|090|070.6|150.36
+811	FS39582	1 tajada=28g|1 pulgada cúbica=15.0566g|1 onza=28.5283g|100 g|1 taza, rallado=108.3019g|1 taza, cubitos=132.6038g|1 taza, fundido=244.8679g|1 libra=455.3962g	03378.5714|0426.92857|065.392857|081.321429|0527.78572|0917.77857|107.275|110.9714286|1692.85714|070|15192.8571|1478.57143
+812	FS39583	1 tajada=21g|1 pulgada cúbica=18.08333g|1 onza=28g|100 g|1 taza, rallado=112g|1 taza, cubitos=138.8333g|1 libra=449.75g	03171.4286|0425.52381|064.285714|081.333333|055.095238|093.304762|101.352381|110.1809524|1633.33333|070|151428.571|14180.9524
+813	FS39584	100g	03310|048.5|0613|0524
+814	FS39585	100g	03200|0412|063.5|0517
+815	FS39778	100 g|1 tajada (9 cm cuadrados, paquete de 8 por 170 g)=21.15385g|1 onza=27.88461g|1 porción=32.69231g	03104|0417.07|064.21|083.51|051.66|090.48|100.54|110.274|1643|070.5|151015|14302
+816	FS39779	1 tajada=28.42105g|1 onza=28.42105g|100 g	0395|0420.58333|061.301852|080|050.6685185|090.2181481|100.2462963|110.1864815|1645.74074|070|151143.519
+817	FS40671	1 taza=241.8837g|1 onza=28.18559g|100 g|1 porción=185g	03195.1351|047.098454|0618.55437|080.6118644|059.996542|093.190377|105.220692|111.075724|1630.59322|070.8268438|15370.8394|14141.8037
+818	FS40672	1 taza=13.93035g|1/2 onza=14.1791g|100 g	03402|046.317143|0690.23464|050.5025|090.1292143|160|071.435714|150|14114.8571
+819	FS40673	1 tajada, cocida=8.029197g|1 tajada, cruda=25.91241g|1 onza=28.28467g|100 g|1 libra=453.6496g	03548|0435.99364|061.37|080|0543.59091|0914.31027|1019.22982|114.695364|16112.0909|070|152216.909|14548
+820	FS40674	1 mediana (cm de diámetro 5,5 a 8 cm de diámetro)=173.1959g|1 onza=27.83505g|100 g|1 pequeña (4,5 cm - 6,5 cm de diámetro)=138.1443g|1 grande (7,5 cm - 10,5 cm de diámetro)=298.9691g|1 libra=453.6082g	0397|042.627084|0621.41506|081.079702|050.1270238|090.02482738|100.001732143|110.04214881|160|072.309524|158.083333|14549.6667
+821	FS40675	1 mediana (cm de diámetro 5,5 a 8 cm de diámetro)=173.4043g|1 onza=28.7234g|100 g|1 pequeña (4,5 cm - 6,5 cm de diámetro)=138.2979g|1 grande (7,5 cm - 10,5 cm de diámetro)=298.9362g|1 libra=453.1915g	0394|042.093374|0621.03178|081.528221|050.1499386|090.02191411|100.001730061|110.03690798|160|072.076074|156.920246|14542.6626
+822	FS40676	100 g|1 onza=27.8481g|1 porción de 2 tajadas=41.77215g	0379|0416.79|062.17|080.1|050.39|090.13|100.121|110.073|1636|070|151087|1467
+823	FS40677	1 mediana (cm de diámetro 5,5 a 8 cm de diámetro)=173.0337g|1 onza=28.08989g|100 g|1 pequeña (4,5 cm - 6,5 cm de diámetro)=138.2022g|1 grande (7,5 cm - 10,5 cm de diámetro)=298.8764g|1 libra=453.9326g	0389|042.30013|0619.58578|081.450584|050.1502597|090.0260065|100.001733766|110.04276624|160|071.791558|158.090909|14544.9805
+824	FS40678	1 taza=186.1538g|1 onza=28.46154g|100 g|1 libra=453.8461g	03130|042.358264|0628.70744|050.1880165|090.05103306|100.05801653|110.04995868|160|150|1425.78513
+825	FS40679	1 taza=200g|1 onza=28.88889g|1 pequeña=60g|100 g|1 mediana (5 cm de diámetro, 13 cm de largo, en bruto)=114.4444g|1 grande=180g|1 libra=453.3333g	0390|042.01|0620.71|088.44|050.15|090.052|100.002|110.096|160|073.3|1536|14475
+826	FS40680	1 mediano (aprox. 13 cm de diámetro)=13.24786g|1 miniatura (7,5 cm de diámetro)=4.91453g|1 grande (17 cm de diámetro)=20.94017g|1 onza=28.4188g|100 g	03468|047.246452|0662.65162|080.5283871|0522.72065|093.260903|108.967484|118.529677|160|077.548388|15369.871|14181.1613
+827	FS41048	1 porción=15g	03600|040.6666667|063.333333|081.333333|0566.66666|0910|1016.66667|1140|070|150
+828	FS41527	1 porción=9g	03388.8889|0413.33333|0663.33333|083.333333|056.666667|093.333333|102.222222|111.111111|0710|150.03333334
+829	FS41528	4 unidades=44g	03368.1818|0413.40909|0665.45454|087.954545|055.454545|090.6818182|103.409091|111.363636|079.090909|15454.5454
+830	FS41529	1 tostada=8.4g	03380.9524|0427.38095|0652.38095|055.952381|075.952381|15739.2857
+831	FS41530	4 tostadas=44g	03395.4546|0412.5|0665.45454|084.545455|057.5|090.9090909|103.863636|112.954545|077.954545
+832	FS41531	1 rebanada=10g	03390|0413|0669|085|055|092|078|150
+833	FS41532	100g	03374|0411|0675|085|051.9|090.6|076.3|150.4
+834	FS41533	2 biscotes=16g	03393.75|0411.25|0673.125|086.25|055.625|092.5|073.75|150
+835	FS41534	1 rebanada=8g	03387.5|0410|0673.75|085|053.75|091.25|076.25
+836	FS41535	6 rebanadas=12g	03408.3333|0411.66667|0670.83334|085|058.333333|094.166667|074.166667|150
+837	FS41536	100g	03374|0411.8|0670.9|082.4|053.5|091.5|075.8
+838	FS42095	1 taza=150g|1 onza=28.88889g|1 porción=75.55556g|100 g	0390|042.426667|063.68|081.506667|057.733334|091.172667|105.26|110.9453333|1622|071.533333|15194|14188
+839	FS42096	1 taza=70.58823g|1 onza=29.41176g|1 porción=70.58823g|100 g|1 ensalada acompañante=152.9412g	0317|040.8925|063.924167|082.351667|050.17|090.03116667|100.0255|110.102|160|071.416667|1519.83333|14205.4167
+840	FS42097	1 taza=77.22772g|1 onza=28.71287g|1 porción=77.22772g|100 g	03101|045.95641|063.755128|082.097692|057.160641|094.495795|102.008346|110.2758077|1622.01282|071.165385|15154.0898|14192.9359
+841	FS42098	1 taza=208.1812g|1 onza=28.26481g|100 g|1 porción=156g	03183.9744|0414.25681|066.95548|082.997389|0511.00964|091.733586|102.747607|115.930892|1621.13544|070.3842807|15387.6431|14171.0049
+842	FS42099	1 cucharada=16.03563g|1 onza=28.28508g|100 g|1 taza=249.8886g	03449|040|062.494444|082.494444|0550.01361|099.079778|1014.76711|1124.04644|160|070|150|146.236111
+843	FS42100	1 taza, con ralladura o picadura=52.94118g|1 onza=29.41177g|1 porción=52.94118g|100 g	0317|041.586667|063.324444|080.9066666|050.2455555|090.03966666|100.007555556|110.119|160|072.077778|1530.22222|14302.2222
+844	FS42101	100g	0325|041|065|082.3|050.2|090.038|072.3|150.239
+845	FS42102	1 ensalada al Jardín=236.5385g|1 onza=28.84616g|1 porción=78.84615g|1 taza=78.84615g|100 g|1 ensalada acompañante=167.3077g	0352|043.322927|063.132683|081.877073|053.132683|091.694016|100.9410732|110.2363252|1636.78049|071.099187|1564.68292|14168.6829
+846	FS42103	1 taza=88.67924g|1 onza=28.30189g|1 porción=88.67924g|100 g	0353|043.698723|063.597234|082.176383|052.706383|090.8198085|101.010383|110.4172341|16103.7447|071.240426|1551.87234|14195.0851
+847	FS42104	1 taza=73.33334g|1 onza=26.66667g|1 porción=73.33334g|100 g	0315|040.75|063.163636|081.813636|050.15|090.02045454|100.01090909|110.04909091|160|071.090909|1520.45454|14163.6364
+848	FS12036	1 galleta, bocadillo=7.08502g|1/2 onza=14.17004g|100 g	03494|0411.29143|0657.72743|0810.44457|0524.27657|094.855315|1013.60617|114.601257|160|072.822857|15705.7143|14211.7143
+849	FS12028	100 g|1 onza=28.28283g|1 taza=137.037g	03594|0417.3|0625.35|084.64|0551.45|096.899|1031.395|1110.768|160|079|15669|14597
+850	FS12029	100 g|1 onza=28.39506g|1 taza=146.0318g	03567|0425.8|0616.13|083.97|0549.24|096.834|1024.429|1115.559|160|078.5|1518|14705
+851	FS12030	100 g|1 maní=1.025641g|1 onza=28.37607g	03585|0423.68|0621.51|084.18|0549.66|096.893|1024.64|1115.694|160|078|15813|14658
+852	FS12031	2 cucharadas=31.91851g|1 onza=28.35314g|100 g|1 taza=258.0645g	03589|0424.12394|0621.61755|088.427712|0550.065|098.101883|1024.62521|1114.83465|160|078.145744|15488.7447|14745.6489
+853	FS12032	2 cucharadas=31.97279g|1 onza=28.40136g|100 g|1 taza=257.9932g	03588|0425.1151|0619.57915|089.226596|0550.41787|0910.29938|1023.73268|1113.87742|160|075.942553|15459.766|14650.5532
+854	FS12033	100 g|1 onza=28.26923g	03520|0425.9|0635.65|087.81|0534|097.4|1016.156|1110.266|160|075.2|15540|14669
+855	FS12034	100 g|1 maní=1.025641g|1 onza=28.37607g|1 taza=145.9829g	03585|0423.68|0621.51|084.18|0549.66|096.893|1024.64|1115.694|160|078|156|14658
+856	FS12035	1 galleta=15.09434g|1 onza=28.30189g|100 g	03477|049.540001|0658.565|0831.60125|0523.4525|094.458625|1012.28938|115.4855|160|071.9875|15410.75|14165.625
+857	FS43914	100g	03344|0412|0668|083.5|052|090.5
+858	FS43915	1 ración=300g	03123|047.333333|0613.33333|081|053.333333|090.6666667|075.333333
+859	FS43916	100g	03368|0411.7|0672.6|082|053.4|091|074|150.94
+860	FS43917	100g	03377|0415.7|0660.8|085.3|057.9|094.9|072.5|15700
+861	FS43918	1 taza=249g|1 onza=28.57377g|100 g|1 porción=249g	03146.9879|0412.08835|0611.02811|080.8915663|055.791165|091.646988|102.814859|110.5879518|1636.94779|070.6827309|15165.0602|14222.0883
+862	FS43919	1 taza=160.1449g|1 onza=28.26087g|100 g|1 libra=453.6232g	03138|044.533394|0625.13973|080.399638|052.066878|090.4183711|100.580724|110.5513756|1628.72398|071.186425|154.995475|1438.0905
+863	FS43920	100g	03344|0412|0668|083.5|052|090.5|073|151
+864	FS43921	100g	03344|0412|0668|083.5|052|090.5|073|150
+865	FS43922	100g	03385|0413.6|0669|089.7|056.1|093|073.4
+866	FS43923	100g	03371|0414.6|0664.2|0812.3|056.2|093.5|072.8|15900
+867	FS43978	1 tajada, tamaño medio=59.0604g|1 onza=28.18792g|1 tajada pequeña=28.85906g|1 tajada, grande=87.91946g|100 g	03298|049.583409|0656.34909|080.2539773|053.301705|090.6958978|101.318989|110.7517728|160|073.217046|15660.3409|14121.9091
+868	FS43979	1 tajada, tamaño medio=25g|1 pulgada cúbica=3.076923g|1 tajada fina, sin comer la corteza=9.230769g|1 trozo normal sin comer la corteza=12.30769g|1 tajada, delgada=20g|1 tajada=25g|1 onza=28.46154g|1 tajada, grande o gruesa=30g|100 g	03260|048.72|0649.52|053.92|090.916|101.904|110.68|160|075.6|15536|14176
+869	FS43980	100 g|1 onza=28.19549g|1 trozo=65.0376g	03266|046.7|0643.5|057.1|091.555|101.83|113.206|1640|15658|14147
+870	FS43981	1 tajada=25g|1 onza=28.46154g|100 g	03260|049.12|0647.2|085.48|054.08|090.896|101.72|110.908|160|074.4|15528|14200
+871	FS43982	1 porción=25g|1 tajada, sin comer la corteza=10.86957g|1 tajada delgada=21.01449g|1 tajada normal=25g|1 onza=28.62319g|1 rebanada grande=28.98551g|100 g	03276|0410.88|0651.68|086.24|054.8|091.032|101.888|111.128|160|077.2|15592|14284
+872	FS43983	1 tajada normal=24.11348g|1 tajada delgada, sin comer la corteza=8.156029g|1 trozo normal sin comer la corteza=10.99291g|1 tajada muy fina=13.12057g|1 tajada delgada=18.08511g|1 porción=24.11348g|1 rebanadas grandes o gruesas=26.95036g|1 onza=28.3688g|100	03282|049.91147|0651.09176|085.971765|054.395882|090.9704117|101.862029|110.991147|160|075.391176|15572.2941|14219.7941
+873	FS44728	100ml	0346|043.3|064.5|084.4|051.1|090.1|070.7|1550
+874	FS44821	1 taza=159.0164g|1 onza=28.68852g|1 porción=80.32787g|100 g	03122|040.9621649|066.684845|082.748144|0510.45175|090.7577835|106.102516|113.109113|160|071.509278|15182.3711|14199.3505
+875	FS44822	100g	03261|045.7|0610.2|0522.2
+876	FS44823	100g	03165|046.1|066.6|083|0512.7
+877	FS44824	100g	03203|042.4|069.6|0517.4
+878	FS44825	100g	03176|041.2|069.9|0514.8
+879	FS44826	100g	0370|041.8|0615|082.1|050|090|072.7|150
+880	FS44827	100g	0362|041.8|0611.6|082.1|050.3|090|072.7|1520
+881	FS44828	100g	0370|042.7|0613|082.5|050.2|090.1|072.7
+882	FS44829	100g	03192|044.9|066.7|082.5|0516|091.7|071.2|150.5
+883	FS44830	100g	0365|042.6|0611.8|082.5|050.2|090|072.6|150.03
+884	FS45010	1 cucharada=15.90909g|1 onza=28.0303g|100 g|1 taza=256.0606g	03132|040.1885714|0632.30857|0816.53143|050.2514286|090.03771429|100.1445714|110.06285714|160|072.514286|15804.5714|1481.71429
+885	FS45011	1 cucharada=15.90909g|1 onza=28.0303g|100 g|1 taza=256.0606g	03132|040.5657143|0629.41714|0816.90857|051.445714|090.2011429|100.3457143|110.6348572|166.285714|073.142857|15735.4286|14125.7143
+886	FS45012	1 cucharada=14.89362g|1 onza=27.65957g|100 g|1 taza=231.9149g	0347|040.94|068.191429|088.325714|050.8057143|090.2752857|100.2215714|110.1812857|160|070.6714286|151060.857|1494
+887	FS45602	1 taza=133.3333g|1 tajada=14.81481g|1 onza=29.62963g|100 g|1 libra=451.8518g	0327|041.725|066.2775|082.6325|050.105|090.0135|100.00675|110.04875|160|073.675|1520.25|14354
+888	FS46511	1 taza=252.8302g|1 onza=28.30189g|100 g	03106|045.193209|0619.99366|051.550448|090.5992164|100.6735746|110.1989478|167.119403|075.497761|15414.1119|14309.2985
+889	FS46512	1 cucharada=12.74945g|1 onza=28.38137g|100 g|1 taza=204.9889g	03902|040|060|080|05100.3965|0939.35857|1045.2804|1111.24755|1694.12173|070|150|140
+890	FS46513	100 g|1 onza=28.51711g|1 libra=453.6122g	03263|0416.88|060|0521.19|097.87|109.44|111.91|1672|070|1556|14287
+891	FS46514	100 g|3 onza=84.84849g|1 unidad, cocida (producto de 450 g de carne cruda)=313.1313g|1 libra=453.5353g	03297|0425.69|060|080|0520.77|097.72|109.25|111.87|1694|070|1573|14362
+892	FS46515	100 g|1 onza=28.47222g|1 libra=453.4722g	03144|0421.35|060|080|055.89|092.006|102.314|110.32|1657|070|15178|14454
+893	FS46508	100 g|1 onza=28.33333g|1 libra=453.3333g	03120|0420.99|060|080|053.41|091.18|101.54|110.37|1665|070|1550|14366
+894	FS46509	100 g|1 onza=28.67647g|1 libra=453.6765g	03136|0420.54|060|055.41|091.87|102.42|110.58|1666|070|1549|14359
+895	FS46510	100 g|1 onza=28.125g|1 libra=453.9063g	03128|0426.15|060|080|052.65|090.94|100.955|110.6|1657|070|1556|14380
+896	FS46516	100 g|1 onza=28.20513g|1 libra=453.8462g	03117|0422.42|060|080|052.3|090.708|100.895|110.317|1655|070|15184|14476
+897	FS46517	1 oreja=110.8434g|1 onza=28.31325g|100 g|1 libra=453.6145g	03166|0415.96848|060.1984783|0510.81706|093.865815|104.916848|111.151174|1690.21739|070|15166.9022|1439.69565
+898	FS46518	1 pequeña (cocido, deshuesado)=135.0806g|1 onza, con hueso (producto después de cocido, deshuesado)=14.91935g|1 pulgada cúbica, cocida=16.93548g|1 onza, deshuesada, cocida=20.16129g|1 onza, con hueso, cocida (producto después de deshuesado)=20.96774g|1 po	03248|0427.98328|060|080|0514.24334|095.114722|106.239976|111.345122|1694.01791|070|15396.8|14369.409
+899	FS46519	100 g|1 onza=28.35821g|1 libra=453.7314g	03134|0421.39|062.47|053.65|091.17|100.52|110.87|16301|070|1587|14273
+900	FS46520	100 g|1 onza=28.21577g|1 libra=453.527g	03241|0416.99|060|0518.71|096.49|108.34|112|1669|070|1558|14302
+901	FS46521	100 g|1 onza=28.3237g|1 tira, 5/450 g=91.04046g|1 tira, 4/450 g=113.0058g	03346|0414.25|060.65|0531.33|0911.27|1014.34|114.03|1676|070|15731|14253
+902	FS46522	1 porción de 2 tiras=55.92105g|1 tira (2 cm x 10 cm de largo)=27.96053g|1 onza=28.28947g|100 g	03304|0415.11059|060|080|0526.57318|098.814212|1011.91144|113.717741|1671.52941|070|15636.6118|14248.5647
+903	FS46560	100g	03354|0411|0672|051.5|090.3|074|1530
+904	FS46561	100g	03141|049|0616|054.5
+905	FS46562	100g	03344|0412|0668|083.5|052|090.5
+906	FS46733	1 porción=28g|1 onza=28.33735g|100 g|1 taza=137.3012g	03592.8571|0417.28572|0625.35714|084.642857|0551.46429|096.9|1031.39643|1110.76786|160|078.928572|15667.8571|14596.4286
+907	FS46734	100g	03497|0415|0630.3|0824.5|0533.3|093.6|077.9|150
+908	FS46735	100 g|1 porción=28.0389g|1 onza=28.36305g|1 taza=141.9773g	03617|0416.51|0621.58|084.25|0556.3|098.797|1031.983|1112.929|160|078.3|15396|14574
+909	FS46736	1 porción=28g|1 onza=28.32558g|100 g|1 taza=144.2326g	03614.2857|0415.53571|0622.28571|084.392857|0556.17857|099.085714|1033.13572|1111.45|160|075.357143|15307.1429|14542.8571
+910	FS46737	100g	03543|0417.7|0632.6|083.3|0538|097|077.9|15300
+911	FS46738	1 porción=125g	03122.4|043.04|0610|089.92|057.28|094.72|071.84|150.032
+912	FS46739	100g	03459|0414.6|0643.1|0522.4
+913	FS46740	1 taza=38.02083g|1 onza=28.38542g|100 g|1 libra=453.6458g	03384|0414.15014|0671.22411|081.867397|054.444932|091.178301|101.251945|111.330849|1684.16438|073.419178|1521.0411|14244.6028
+914	FS46741	100 g|10 nueces=1.634472g|1 onza=28.38039g|1 onza (167 núcleos)=28.38039g|1 taza=135.0669g	03673|0413.69|0613.08|083.59|0568.37|094.899|1018.764|1134.071|160|073.7|152|14597
+915	FS46827	1 mediana (5,5 cm de diámetro)=15.98361g|1 onza=28.27869g|100 g	03488|045.693334|0658.24718|0528.4041|0914.08318|108.252205|114.54841|1668.82051|15344.1026|14218.9744
+916	FS46828	1 galleta (7,5 cm de diámetro)=13.98305g|1 onza=28.38983g|100 g	03472|045.935757|0660.07272|0824.88727|0523.45697|094.698545|1010.19806|117.301697|1628.60606|071.430303|15493.4545|1478.66666
+917	FS46829	1 roscón (4,5 cm de diámetro)=9.937888g|1 oval (8 cm x 3 cm x 1 cm)=14.90683g|1 onza=28.36439g|100 g	03483|044.528125|0672.55063|0839.54563|0520.125|092.998625|108.49275|117.597188|160|072.0125|15352.1875|1490.5625
+918	FS47060	1 porción=240g|1 onza=28.42975g|100 g|1 taza=240g	03151.25|045.670833|0618.95|080.6791667|055.608334|091.023333|101.715833|112.42875|1647.08333|070.625|15373.75|1491.66666
+919	FS47061	1 taza=139.886g|1 onza=28.49003g|100 g	03351|040.1572709|0686.16299|080|050.0571894|090.01715682|100.007863543|110.01787169|160|070.5004073|1510.00815|1410.00815
+920	FS47062	1 torta=9.043927g|2 Torta=18.08785g|1 onza=28.42377g|100 g	03387|048.182286|0681.15943|080.8845714|052.764286|090.5639143|101.028314|110.9840858|160|074.422857|15320.6572|14287.4857
+921	FS47063	1 torta=9.043927g|2 Torta=18.08785g|1 onza=28.42377g|100 g	03387|048.403429|0679.72201|053.538286|090.5528572|101.149943|111.437429|160|073.317143|15254.3143|14287.4857
+922	FS47064	1 taza=194.5946g|1 onza=27.92793g|100 g|1 libra=453.1531g	03111|042.584861|0623.00681|080.3494444|050.9044445|090.180375|100.3278611|110.32375|160|071.798611|155.138889|1443.16667
+923	FS47065	100 g|1 onza=28.57143g|1 taza=194.6429g|1 libra=453.5714g	03112|042.32|0623.51|050.83|090.165|100.3|110.296|160|071.8|151|1479
+924	FS47066	1 taza=157.6923g|1 onza=28.46154g|100 g|1 libra=453.8462g	03130|042.695122|0628.22585|080.05073171|050.2790244|090.07736585|100.08814634|110.07609756|160|070.3804878|151.268293|1434.87805
+925	FS47067	1 taza=186.1538g|1 onza=28.46154g|100 g|1 libra=453.8461g	03130|042.379752|0628.56777|050.2095041|090.05694215|100.06500001|110.05586777|160|070.3223141|150|1429.00827
+926	FS47321	1 brick=200g	0359|041.9|0611.9|050.5
+927	FS47322	2 cucharadas=42.12598g|1 onza=28.34646g|100 g|1 taza=340.1575g	03254|040.1899065|0666.11121|0827.29906|050.09495327|090.004747664|100.01424299|110.04985047|160|070.7121496|1521.36449|1449.85047
+928	FS47323	1 individual=105g|1 onza=51.08108g|1/2 taza=120.1351g|100 g	03105.7143|041.771429|0615.24762|054.638095|092.866667|1616.19048|070.4761905|1533.33333|14103.8095
+929	FS47847	1 barrita=25g	03424|045.6|0664.8|0825.2|0515.6|096.8|106.8|111.6|074|150.16
+930	FS47848	1 barrita=20g	03385|045|0668.5|0829|059|095.5|102.5|111|073|150.15
+931	FS47849	2 galletas=25g	03440|0422.6|0647.4|0516.4|096.72|076.92|14580
+932	FS47850	1 barrita=23g	03360.8696|045.652174|0651.30435|0826.08696|0515.65217|098.260869|073.043478|150
+933	FS47671	1 mediana=28.23853g|1 coctel=6.93578g|1 pequeña=13.87156g|1 pulgada cúbica=18.82569g|1 onza, cruda (producto después de cocido)=21.79817g|1 onza=28.23853g|1 grande=42.11009g|100 g|1 porción=108g|1 taza=140.2018g	03201.8519|0412.28817|067.507472|081.487329|0513.06725|094.936517|105.559779|110.5772254|1674.36647|070.354126|15474.5289|14212.4756
+934	FS47672	1 albóndiga con salsa=42.81081g|1 onza=28.54054g|100 g|1 porción=176g|1 taza=234.6667g	03189.2045|0418.12626|060.2569444|080.2102273|0512.33333|094.657702|105.435543|110.4671717|16100.4419|070|15861.9318|14214.899
+935	FS47673	1 mediana=27.93103g|1 coctel=6.827586g|1 pequeña=13.65517g|1 pulgada cúbica=19.24138g|1 onza=28.55172g|1 grande=41.5862g|100 g|1 porción=108g|1 taza=139.6552g	03161.1111|0419.44074|066.945679|081.467901|055.620988|091.611111|101.972716|111.267407|1682.34568|070.3580247|15443.9506|14200.4938
+936	FS47674	100g	03111|048|066.4|056
+937	FS47675	100g	03130|049.72|065.87|080.83|057.44|093.41|070.45|150.33
+938	FS47676	100g	03151|0411|066.5|059
+939	FS47677	1 mediana=27.97927g|1 coctel=6.715026g|1 pequeña=13.98964g|1 pulgada cúbica=19.02591g|1 onza, cruda (producto después de cocido)=21.82383g|1 grande=41.96891g|100 g|1 porción=108g|1 taza=139.8964g	03178.7037|0413.61722|067.148148|081.42963|0510.18611|093.788518|104.335352|110.6040185|1671.48148|070.3574074|15453.9074|14243.037
+940	FS47678	1 mediana=28.2g|1 coctel=7.2g|1 pequeña=13.8g|1 onza=28.2g|1 grande=42g|100 g|1 porción=108g|1 taza=139.8g	03166.6667|0419.68085|064.716312|080.4964539|056.914894|092.007092|103.024822|111.258865|1681.56028|070.3546099|15790.7801|14283.6879
+941	FS47679	100g	03146|047|067|0510
+942	FS47822	1 barrita=20g	03435|045.5|0671|0840|0514|099|072.5|15100
+943	FS47823	1 barrita=20g	03495|045|0660|0840|0525|0914|073|150.2
+944	FS47824	1 barrita=25g	03436|045.2|0672|0844|0514|0911.2|102.4|110.8|071.6|150.12
+945	FS47825	1 taza=232.4324g|1 onza=27.02703g|1 onza líquida=29.72973g|100 g|100 ml	0337|043.613953|065.154186|085.154186|050.1893023|090.1243372|100.04990698|110.007313954|162.151163|070|1555.06977|14176.3953
+946	FS47826	1 taza=237.1429g|1 onza=28.57143g|1 onza líquida=28.57143g|100 g|100 ml|1 litro=951.4285g	0335|043.483133|065.123494|085.258434|050.08433735|090.1210241|100.04849398|110.007168675|162.108434|070|1543.43373|14161.0843
+947	FS47827	1 taza=246.3415g|1 onza=29.26829g|100 g|1 litro=982.9268g	0341|043.953861|065.553267|050.2516832|090.1619703|100.0649505|110.008930693|162.029703|070|1558.86139|14181.8614
+948	FS47828	1 taza=245.7143g|1 onza=28.57143g|100 g|1 litro=980g	0335|043.398256|064.834884|085.075|050.1790698|090.1168023|100.04680233|110.006918605|162.034884|070|1551.68605|14165.6395
+949	FS47829	1 taza=234.6154g|1 onza=26.92308g|1 onza líquida=28.84615g|100 g|100 ml|1 litro=938.4615g	0352|043.431148|064.867541|085.263935|052.050164|091.307246|100.5822296|110.07586885|168.52459|070|1542.62295|14156
+950	FS47830	1 taza=246.4286g|1 onza=28.57143g|100 g|1 litro=983.9286g	0356|043.944348|065.482319|085.251014|051.976232|091.229971|100.5709565|110.07385507|168.115942|070|1558.84058|14181.7971
+951	FS47831	1 lata de 355 ml=400g|1 onza=0g|1 onza líquida=0g|100 g|100 ml|1 botella de 475 ml=500g	031|040.1075|060.1325|080|050|090|100|110|160|070|153.5|146.25
+952	FS47851	1 barrita=25g	03436|047.2|0665.2|0828|0515.6|096.4|073.6|15160
+953	FS47852	100g	03404|049.4|0674|0822|057|094|073.5|1540
+954	FS47853	1 trozo (1/8 torta de 500 g)=64.0327g|1 onza=28.33788g|100 g	03367|044.091659|0654.56587|0516.39787|094.767877|108.754902|111.84437|1642.16595|072.811064|15334.2043|14199.8979
+955	FS47881	100g	0326|042|063.6|080.1|050.4|090.017|100|110|160|072|150.004|140
+956	FS47882	100g	0321|042|061.2|050.4|090.15|071.2|150
+957	FS47883	100g	0321|042.3|061.8|080|050|090|071.8|150
+958	FS48658	100g	03122|047.8|063.1|083.1|050.7|090.3|073.1|15100
+959	FS48659	100 g|1 maní=1.025641g|1 porción=28.03419g|1 onza=28.37607g|1 taza=145.9829g	03585|0423.68|0621.51|084.18|0549.66|096.893|1024.64|1115.694|160|078|15813|14658
+960	FS48660	1 porción=30g	03580|0425|0611.66667|088.333333|0548|095.333333|079.333333|15666.6667
+961	FS48661	100g	03632|0423.6|0618.7|084.2|0546.9|096.9|1024.6|1115.7|078
+962	FS48662	100g	03567|0425.8|0616.14|084.02|0549.24|1025.9|1115.2|160|078.5|1518|14705
+963	FS48663	100g	03623|0423.1|0610.3|0553
+964	FS48664	100g	03548|0422.4|0620.7|0541.7
+965	FS48665	100g	03541|0413.9|0644.1|0832.2|0533.3|0914.1|1011.8|117.2|160|074.8|150
+966	FS48666	100g	03579|0429.6|0611.6|085.9|0546|098.2|078.5
+967	FS48667	100g	03515|0411.9|0651.7|0837.7|0526.8|0911.2|1010.6|114.9|079.6|150
+968	FS48668	100g	03616|0428|0613|0551|1051
+969	FS49427	100g	03106|047.5|0612.6|0812.4|052.7|091.7
+970	FS49751	1 taza=214g|1 onza=27.79221g|100 g|1 porción=107g	0371.96262|040.7897196|065.579439|082.439252|055.630841|090.7817757|104.027103|110.6317757|160|071.495327|15200.9346|14184.1122
+971	FS49752	1 porción=200g	0360|041.6|069.9|085.6|051.1|090.1|072.3|150.6
+972	FS49753	100g	0369|041.3|068.3|053.4
+973	FS49754	100g	0387|040.4|0614|053.3|090
+974	FS49755	100g	0363|041.2|067.3|081|053|090.5|070.8|15390
+975	FS49756	100g	03141|042.5|068.8|086|0510.7
+976	FS49758	100g	0383|043.32|065.3|055.4
+977	FS49759	1 empanadilla=33g	03324.2424|045.848485|0636.36364|0517.27273
+978	FS49760	100g	0368|041.3|066.7|082.9|055.4|090.7|073|15400
+979	FS51145	100g	03152|045.8|0612.3|058.6
+980	FS51933	2 rebanadas=58g	03262.069|0411.03448|0640|083.965517|055.517241|091.551724|101.724138|112.241379|076.034483|150.5
+981	FS51934	1 rebanada=8g	03375|0415|0660|085|056.25|092.5|102.5|112.5|076.25|151250
+982	FS51935	1 rebanada=28g	03217.8571|048.571429|0637.85714|082.142857|052.142857|090.3571429|101.071429|110.7142857|076.071429|15385.7143
+983	FS51936	100g	03245|0410|0641.2|082.5|052.8|090.4|077.5|150.9
+984	FS51937	100g	03254|049.9|0639.5|081.8|056.1|091|101.8|113.3|0712.4|151
+985	FS51938	1 rebanada=28g	03225|049.642858|0635.71429|083.214286|052.142857|090.3571429|101.071429|110.3571429|0712.14286|151071.429
+986	FS51142	1 taza=195.7576g|1 onza, seca, cocida=78.78787g|1 porción=98.18182g|100 g	03165|048.398143|0618.75279|081.68065|056.768576|090.8582044|102.223669|113.317879|160|077.407121|15220.1703|14343.2817
+987	FS51143	1 taza=192.068g|1 cucharada=11.89802g|1 onza=28.32861g|100 g	03353|0425.79295|0660.05686|082.030531|051.062124|090.1561947|100.1889956|110.5159631|160|0730.51003|156.247787|14954.8702
+988	FS51144	100g	0378|043.7|0610.5|080.6|052.4|090.3|071.3|150.31
+989	FS51146	1 plato=239.8204g|1 onza=28.56287g|100 g|1 porción=180g	03185.5556|046.042022|0625.21888|080.8756554|056.86764|090.9715605|104.834035|110.8218651|160|074.628465|15276.4569|14215.578
+990	FS51147	100g	0383|045.3|0613.2|081.26|050.4|090|072.85|150.22
+991	FS51148	100g	03356|0422|0656.4|052
+992	FS51149	100g	03115|045.3|0610|080.9|055.4|092|072.2|15330
+993	FS51150	100g	03121|045.7|0612.8|055.2
+994	FS51151	100g	03106|047|0616.5|081.9|050.5|090|073.5|150.28
+995	FS51425	1 grande=50.34014g|1 onza=28.57143g|1 pequeño=36.7347g|1 mediano=44.21769g|1 porción=50.34014g|1 extra grande=57.82313g|1 jumbo=65.30612g|100 g|1 taza (4,86 huevos)=242.8571g	03147|0412.495|060.7548648|080.7548648|059.872837|093.079054|103.784257|111.354784|16421.1351|070|15139.054|14133.0946
+996	FS51426	1 grande=50g|1 tajada=5.194805g|1 onza=28.57143g|1 pequeño=37.01299g|1 mediano=44.15585g|1 porción=50g|1 extra grande=57.79221g|1 jumbo=64.93507g|100 g|1 taza=135.7143g	03154|0412.52|061.12|081.12|0510.56|093.254|104.06|111.408|16422|070|15278|14126
+997	FS51427	1 grande=62.02532g|1 onza=28.48101g|1 pequeña=48.73418g|1 mediana=55.69621g|1 huevo=62.02532g|1 porción=62.02532g|1 extra grande=67.72152g|1 jumbo=74.68355g|100 g|1 taza (alrededor de 3,4 huevos grandes)=213.9241g	03158|0410.97939|061.854082|081.886326|0511.51143|093.363143|104.622306|112.00402|16343.4081|070|15398.2245|14146.7143
+998	FS51428	1 grande=45.87629g|1 onza=28.35052g|1 pequeño=35.05155g|1 mediano=40.20618g|1 huevo=45.87629g|1 porción=45.87629g|1 extra grande=52.06186g|1 jumbo=57.2165g|100 g|1 taza=136.0825g	03194|0413.6018|060.9373034|080.8283146|0514.73528|094.097978|106.003101|112.646247|16457.7528|070|15518.7865|14146.0449
+999	FS51429	1 grande=60.78431g|1 cucharada=15.03268g|1 onza=28.10457g|100 g	03153|0410.66065|060.6909677|080.6580645|0512.05903|093.377516|105.007871|112.104161|16357|070|15161.2258|14115.1613
+1000	FS51430	2 huevos=93.86793g|1 onza=28.30189g|100 g	03212|0413.8599|062.08804|081.523417|0516.20362|096.161849|105.897648|111.97192|16426.1306|070|15224.7839|14147.0151
+1001	FS51431	1 grande=43.9759g|1 onza=28.31325g|1 pequeño=33.13253g|1 mediana=39.15662g|1 porción=43.9759g|1 huevo=43.9759g|1 extra grande=51.20482g|1 jumbo=57.22892g|100 g|1 taza=128.9157g	03166|0414.18959|060.8641096|080.8641096|0511.21068|093.495096|104.297808|111.539479|16477.5343|070|15507.0959|14150.0822
+1002	FS51432	1 grande=61.90476g|1 onza=28.57143g|1 pequeña=48.80952g|1 mediana=55.95238g|1 porción=61.90476g|1 extra grande=67.85714g|1 jumbo=75g|100 g|1 taza (alrededor de 3,4 huevos grandes)=213.6905g	03168|0410.29|061.437692|081.437692|0513.13308|093.618462|105.403461|112.528077|16331.1538|070|15395.7692|14127.6154
+1003	FS51433	1 grande=50.32258g|1 cucharada=8.387097g|1 onza=28.3871g|100 g|1 taza, picado=136.129g	03155|0412.49936|061.112821|081.112821|0510.53205|093.247051|104.049872|111.404936|16421.282|070|15123.2051|14125.1923
+1004	FS51434	1 grandes=32.69231g|1 onza=28.84615g|100 g|1 tazas=242.3077g	0352|0411.01176|060.7341177|080.7035295|050.1835294|090|100|110|160|070|15168.2353|14165.1765
+1005	FS51478	1/2 filete=159.2857g|3 onza=85g|100 g|1 libra=453.5714g	03140|0426.64394|060|052.931839|090.4162332|100.9655605|110.938565|1640.80717|070|1569.0583|14575.0673
+1006	FS51479	100 g|1 onza=28.57143g|1 libra=453.3835g	03133|0421.39|060|054.6|091.44|101.61|110.65|1652|070|1553|14360
+1007	FS51931	1 tajada normal=25.89641g|1 trozo normal sin comer la corteza=11.95219g|1 tajada delgada=23.10757g|1 porción=25.89641g|1 onza=28.28685g|1 rebanada grande=31.87251g|100 g	03251|0410.04|0646.57016|0810.07862|053.822923|090.810923|101.529169|110.9267693|160|076.564616|15490.4154|14204.6615
+1008	FS51932	100g	03292|049.4|0657|081|053.1|090.5|101.2|111.4|074|150.7
+1009	FS52762	1 taza=235.4839g|1 cucharada=14.51613g|1 onza=27.41936g|1 onza líquida=29.03226g|100 g|100 ml|1 litro=945.1613g	0362|043.337808|064.683972|085.448356|053.367534|091.932616|100.8412465|110.202137|1610.19178|070|1541.61644|14148.2055
+1010	FS52771	1 sin semilla=4.347826g|1 uva=4.347826g|1 producto de uvas con semillas=5.797101g|1 onza, producto con semilla=27.53623g|1 porción=79.71014g|100 g|1 taza=153.6232g	0369|040.92|0620.7|0817.71|050.23|090.069|100|110.046|160|070|150|14230
+1011	FS52772	1 sin semilla=4.347826g|1 uva=4.347826g|1 producto de uvas con semillas=5.797101g|1 onza, con semillas, los productos=24.63768g|1 porción=79.71014g|100 g|1 taza=153.6232g	0369|040.92|0620.7|0817.71|050.23|090.069|100|110.046|160|070|150|14230
+1012	FS52773	1 taza=92.53732g|1 uva=2.985075g|1 onza=28.35821g|100 g	0367|040.6267742|0617.05258|0816.15565|050.3458064|090.1134677|100.01404839|110.1015806|160|070.8645161|152.16129|14190.1935
+1013	FS52774	100ml	0355|040.4|0613|0811.9|050.1|090|070.3|1510
+1014	FS52775	100ml	0351|040.3|0612.4|0812.2|050.1|090.1|070.4|150
+1015	FS52776	100g	0356|040.3|0613.5|0813.5|050.1|090|070.4
+1016	FS52777	1 uva=2.985075g|1 28 g producidos=16.41791g|1 porción=46.26865g|1 taza=92.53731g|100 g	0367|040.67|0613.735|0813.065|050.335|090.1005|100|110.06700001|160|070|150|14167.5
+1017	FS53015	100g	0395|043.5|0613|0812.3|053.3|092.1|070|150
+1018	FS53090	100ml	0346|040.3|0611.3|050
+1019	FS53091	1 vaso=249.6385g|100 g|100 ml|1 porción=185g	0344.86486|040.6970077|0610.33094|088.344064|050.2002896|090.02403475|100.03565155|110.03965734|160|070.2002896|150.8011583|14198.6873
+1020	FS53092	100ml	0345|040.3|0610.4|0810.4|050|090|070.1|150.001
+1021	FS53093	100ml	0356|040.4|0613.6|0813.6|050|070.1
+1022	FS53094	1 vaso=250g	0342.8|040.6|069.6|089.6|050.12|090|070.52|150
+1023	FS53095	1 vaso=249.3333g|100 g|100 ml|1 porción=187g	0344.91979|040.6778075|0610.88503|0810.65642|050.06016043|090.006818182|100.01082888|110.01203209|160|070.2005348|152.005348|14191.7112
+1024	FS53096	100ml	0322|040.4|064.8|084.5|050.1|090|070.5|1510
+1025	FS53097	100ml	0319|040.2|064.5|084.5|050|090|070|1530
+1026	FS53098	100ml	0316|040.1|063.4|083.1|050.1|090|070.4
+1027	FS53099	100ml	0342|040.6|0610|089.7|050|070.3|151
+1028	FS53444	1 lata de 355 ml=357.8947g|1 onza=26.31579g|1 onza líquida=28.94737g|100 g|100 ml|1 taza tamaño infantil de 355 ml=250g|1 pequeña taza de 475 ml=336.8421g|1 taza mediana de 620 ml=473.6842g|1 botella de 475 ml=478.9474g|1 taza grande de 950 ml=702.6316g	0338|040.07264706|069.829706|089.223382|050.01955882|090|100|110|160|070|154.191176|141.955882
+1029	FS53445	1 sánduche=113.0268g|1 onza=28.35249g|100 g	03261|0414.12054|0623.47231|0512.51915|095.580976|104.730736|110.9643729|1632.7356|15545.0034|14197.2983
+1030	FS53446	1 taza=246.281g|1 onza=28.09917g|100 g	03121|047.081343|0611.41785|055.254161|091.737852|102.141456|110.4263423|1612.99329|073.897987|15423.5|14273.6711
+1031	FS53447	100 g|3 onza=84.72222g|1 libra=453.4722g	03144|0423.33|060|080|054.9|091.257|101.6|111.433|1638|070|1539|14252
+1032	FS53448	1 lata=183.1507g|1 onza=31.64384g|100 g|1 taza, con trozos=171.6438g|1 libra=504.3835g	03104.2857|0422.98108|060|080|050.737098|090.2107554|100.1430516|110.3035752|1627.29993|070|15304.6672|14213.4854
+1033	FS53449	1 lata=171.875g|3 onza=85.15625g|100 g|1 libra=453.9063g	03128|0423.63927|060|080|052.973091|090.7924364|100.7842909|111.109527|1641.89091|070|15377.0182|14237.3818
+1034	FS53450	100 g|1 pulgada cúbica, sin hueso=15.74074g|1 onza, sin hueso=28.7037g|3 onza=85.18519g|1 libra=453.7037g	03108|0423.38|060|080|050.95|090.235|100.154|110.284|1645|070|1537|14444
+1035	FS53541	1 tostada=55g	0332.72727|040.9090909|065.454545|080.3636364|050.1818182|090.03636364|072.363636|150.05454545
+1036	FS53542	100g	03387|0412.7|0672.9|081.5|053.4|091.1|101.2|111.2|160|076.8|150|140
+1037	FS53543	100 g|1 onza=28.35052g|1 taza=128.0069g	03582|0419.33|0624.07|082.73|0549.8|095.219|109.505|1132.884|160|0711.1|153|14850
+1038	FS53544	100 g|1 onza=28.30821g|1 onza (22 granos enteros)=28.30821g|1 taza, granos enteros=138.0235g	03597|0422.09|0619.29|084.9|0552.83|094.047|1033.658|1112.649|160|0711.8|151|14746
+1039	FS53545	100 g|1 onza=28.30986g	03710|049.5|0613.55|084.06|0574.27|096.283|1043.957|1120.572|160|079.4|151|14424
+1040	FS53546	100 g|1 onza=28.35052g|1 taza=128.0069g	03582|0419.33|0624.07|082.73|0549.8|095.219|109.505|1132.884|160|079|15410|14850
+1041	FS53547	100 g|1 onza=28.30821g|1 onza (22 granos enteros)=28.30821g|1 taza, granos enteros=138.0235g	03597|0422.09|0619.29|084.9|0552.83|094.047|1033.658|1112.649|160|0711.8|15339|14746
+1042	FS53548	100 g|1 onza=28.35196g|1 onza (10-12 núcleos)=28.35196g|1 taza, en mitades o enteras=133.9386g	03716|047.79|0612.83|084.14|0576.08|0911.947|1059.275|111.498|160|078|15265|14363
+1043	FS53549	100 g|1 onza=28.30986g	03710|049.5|0613.55|084.06|0574.27|096.283|1043.957|1120.572|160|079.4|15383|14424
+1044	FS53653	100g	03556|0415|0636|0820|0537.5|094|077
+1045	FS53654	100g	03557|047|0659.9|0529.4
+1046	FS53655	100g	03525|048|0655.5|0529
+1047	FS53656	4 barquillos=25g	03476|045.6|0666.8|0847.6|0520|097.2|072|1580
+1048	FS53657	100g	03557|047|0659.9|0529.4
+1049	FS53658	100g	03550|0413|0640|0830|0536|093.7|1025.3|117|077
+1050	FS53659	100g	03516|0412.5|0634.9|082.8|0536.3|092.8|075|150
+1051	FS53660	100g	03530|046.7|0662|0528
+1052	FS53661	100g	03515|047.9|0656|0528
+1053	FS53662	1 trozo=14.07035g|1 onza=28.39196g|100 g	03398|043.340357|0691.89536|0882.94036|051.634643|091.655964|100|110|160|073.553571|1535.53571|14106.6071
+1054	FS14554	1/2 taza=77.90697g|1 onza=27.90698g|100 g|1 pequeña (4,5 cm - 6,5 cm de diámetro)=125.5814g|1 mediana (5,5 cm - 5,5 cm de diámetro)=167.4418g|1 grande (7,5 cm - 10,5 cm de diámetro)=300g|1 libra=453.4884g	0386|041.707164|0620.03672|080.8471642|050.1026866|090.02567164|100.002567164|110.04364179|160|072.053731|15241.3134|14328.597
+1055	FS14555	100g	03552|046.2|0650.3|080.8|0536.2|093.6|1013|1119.6|160|072.6|150.4
+1056	FS14556	100 g|1 onza=27.88461g|1 pequeña (4,5 cm - 6 cm de diámetro, en bruto)=125g|1 taza=160.5769g|1 mediana (cm de diámetro 5,5 a 7,5 cm de diámetro, en bruto)=167.3077g|1 porción=167.3077g|1 grande (7,5 cm - 10,5 cm de diámetro, en bruto)=300g	03104|041.66|0619.36|080.82|052.4|090.458|101.09|110.718|160|071.7|15254|14317
+1057	FS14557	1 taza=210g|1 onza=28g|100 g|1 porción=105g|1 pequeña (4,5 cm - 6 cm de diámetro, en bruto) productos=110g|1 mediana (cm de diámetro 5,5 a 7,5 cm de diámetro, en bruto) productos=147g|1 grande (7,5 cm - 10,5 cm de diámetro, en bruto) productos=220g|1 tipo	03100|041.8|0615.71905|081.380952|053.538095|090.7909524|101.577143|110.9780952|160.952381|071.285714|15230.9524|14260
+1058	FS14558	100g	03516|046.8|0655.8|080.4|0529.5|092.9|1010.6|1116|160|073.2|150.3
+1059	FS14559	1 mediana (cm de diámetro 5,5 a 7,5 cm de diámetro, en bruto)=136g|1 onza, cruda, cocida=18.08867g|100 g|1 pequeña (4,5 cm - 6 cm de diámetro, en bruto)=109.8719g|1 taza=126.6207g|1 porción=136g|1 grande (7,5 cm - 10,5 cm de diámetro, en bruto)=231.803g	03149.2647|042.323529|0620.05882|080.8970588|057|090.9|102.329412|113.441912|160|072.5|15100.7353|14483.0882
+1060	FS14560	100 g|1 onza=28.57143g|1 pequeña (4,5 cm - 6 cm de diámetro, en bruto)=124.6753g|1 taza=161.039g|1 mediana (cm de diámetro 5,5 a 7,5 cm de diámetro, en bruto)=167.5325g|1 porción=167.5325g|1 grande (7,5 cm - 10,5 cm de diámetro, en bruto)=300g	0377|042.02|0617.47|080.78|050.09|090.026|100.002|110.043|160|072.2|156|14421
+1061	FS14561	100g	03146|042.2|0611.9|0510
+1062	FS14562	100g	0366|041.7|0615.7|081.2|050.1|090.025|072.4|150.006
+1063	FS14563	1 grande (7,5 cm - 10,5 cm de diámetro)=368.5714g|1 onza=28.57143g|1/2 taza, cubitos=74.28571g|100 g|1 pequeña (4,5 cm - 6,5 cm de diámetro)=170g|1 mediana (cm de diámetro 5,5 a 8 cm de diámetro)=212.8571g|1 libra=454.2857g	0370|041.68217|0615.72829|081.150388|050.1003876|090.02604651|100.001899225|110.04205426|160|072.414728|155.968992|14407.5194
+1064	FS14754	1 cucharada=10.92896g|1 onza=28.4153g|1 porción=42.89618g|100 g	03366|0429.5545|0659.2005|0859.2005|051.464|090.5307|100.2562|110.43005|1618.3|070|15494.1|141180.35
+1065	FS14755	1 taza=272.2296g|1 onza líquida=33.8963g|100 g|100 ml|1 porción=286g	0394.40559|0416.59628|068.823433|085.708416|050.1322413|090.01469348|100.02240755|110.05730456|160|071.579549|15258.2379|14128.5679
+1066	FS14756	1 cucharada=9.3g|1 porción=9.3g|1 onza=28.65405g|100 g	03397.8495|0430.96774|0649.03226|080|059.032258|091.505376|102.064516|115.16129|160|075.376344|151537.634|14397.8495
+1067	FS14757	1 porción=30g	03370|0485|066.333333|051.333333|090.6666667
+1068	FS14758	100 g|1 cucharada=15g|1 onza=28.42105g	03380|0486.58|061.22|080|053.9|090.796|100.667|111.716|160|070.9|151158|1497
+1069	FS14759	1 cucharada sopera=6g	03366.6667|0483.33334|060|053.333333|093.333333|101.666667|110|160|15733.3333|14650
+1070	FS14760	1 taza=240g|1 cantidad de bebida por 30 ml, según instrucciones=1.967213g|1 onza líquida=29.5082g|1 cantidad de cereal caliente por taza según instrucciones=59.01639g|100 g|100 ml|1 cantidad de cereal frío por taza según instrucciones=120g|1 porción=240g|	0350.83333|043.354167|064.758333|085.145833|052.004167|091.277917|100.5691667|110.07416667|168.333333|070|1541.66667|14152.5
+1071	FS14761	1 cucharada=33.02469g|1 onza=28.39506g|1 porción=58.02469g|100 g	03324|0417.5929|0663.46766|0861.46915|050.3936448|090.1816822|100.08781308|110.08781308|169.084112|072.119626|15366.3925|14847.8505
+1072	FS14762	1 envase de 170 g=166.0274g|100 g|1 porción=221.9178g|1 envase de 230 g=221.9178g|1 taza=240g	03121.6667|044.384819|0619.07516|0819.07516|053.318729|092.093028|100.9450247|110.1144389|1610.23927|070|1558.42409|14195.7508
+1073	FS15344	100 g|1 onza=28.35821g	03335|047.3|0648.4|0512.1|092.789|104.206|114.305|164|071.8|15955|14188
+1074	FS15345	1 galleta (5 cm de diámetro)=22.9572g|1 onza=28.40467g|100 g	03257|046.708135|0647.69746|087.013051|054.530169|091.115119|102.40883|110.6708136|160|071.742373|151250.152|14161.1695
+1075	FS15346	1 pequeña (4 cm de diámetro)=13.88102g|1 onza=28.32861g|1 galleta (6,5 cm de diámetro)=60.05666g|100 g|1 galleta (10 cm de diámetro)=101.1331g	03353|047.06|0644.95347|082.233265|0516.42531|094.358469|106.987959|114.19998|160|071.440816|15583.5306|14122.4694
+1076	FS15347	1 oblea=6.004619g|1 onza=28.40647g|100 g|1 taza, migas=112.0092g	03433|046.661538|0672.27769|0829.64384|0514.15577|094.230077|104.862923|114.146808|160|073.330769|15582.8846|14216.5
+1077	FS15348	1 galleta=9.933775g|1 onza=28.25607g|100 g	03453|045.838666|0673.78867|0515.50267|093.8354|106.140667|114.681|160|074.026667|15382.5333|14120.8
+1078	FS15349	1 galleta=15.0655g|1 onza=28.38428g|100 g	03458|043.451594|0658.80985|0524.16116|097.381102|1012.97667|113.484782|160|073.318841|15325.2464|1492.92754
+1079	FS15350	1 cuchara de masa del rollo=28.89391g|1 onza=28.44244g|100 g	03443|044.43|0661.63929|0520.48875|096.752289|1010.45203|112.180391|1624.22656|071.384375|15211.1172|14179.9688
+1080	FS15351	1 mediana (5,5 cm de diámetro)=15.98361g|1 onza=28.27869g|1 barra (5 cm cuadrados)=31.96721g|100 g	03488|045.693334|0658.43487|0528.34154|098.083282|1010.38564|118.421128|1631.28205|072.502564|15362.8718|14225.2308
+1081	FS15352	1 galleta=10.08584g|1 onza=28.32618g|100 g	03466|045.254893|0670.99063|0840.25447|0518.93744|093.648681|1010.53953|112.240766|160|072.974468|15475.9149|14188.383
+1082	FS15353	1 grande (9 cm - 10 cm de diámetro)=24.88889g|1 grande=18g|1 onza=28.44444g|100 g	03450|046.227678|0669.02679|0824.75|0518.16071|094.540178|1010.06875|112.555357|160|072.8125|15385.7143|14144.6429
+1083	FS15354	1 galleta (6,5 cm cuadrados)=7.092198g|1 trozo rectangular grande o 2 cuadrados o 4 trozos rectangulares pequeños=13.94799g|1 onza=28.36879g|1 taza, trituradas=83.92435g|100 g	03423|046.768|0675.858|0830.738|0510.011|091.4946|104.0326|113.7788|160|072.82|15592.2|14126.9
+1084	FS15355	1 galleta (6,5 cm de diámetro)=14.94253g|1 onza=28.27586g|100 g	03435|046.558462|0668.66308|0516.26231|093.245769|106.913154|115.052692|1633.46154|15542.0769|14240.9231
+1085	FS15520	100 g|1 cereza=16.66667g|1 onza=27.77778g|1 porción=122.2222g|1 taza=150g	0318|040.88|063.92|082.63|050.2|090.046|100.051|110.135|160|071.2|155|14237
+1086	FS15521	1 taza=240.9091g|1 onza=27.27273g|1 onza líquida=31.81818g|100 g|100 ml|1 libra=454.5454g	0322|040.6018868|064.611698|083.818868|050.09962264|090.01411321|100.01618868|110.04233962|160|070.7886792|1570.15095|14193.8491
+1087	FS15522	1 cucharada=15.46392g|1 paquete=6.185567g|1 onza=27.83505g|100 g|1 taza=240.2062g|1 libra=453.6082g	0397|041.681333|0624.31467|0822.116|050.388|090.05173333|100.0582|110.1487333|160|070|151079.933|14368.6
+1088	FS15523	1 taza=247.541g|1 onza=27.86885g|100 g|1 lata=300g	0361|041.632053|0613.59775|088.224901|050.5696026|090.2779338|100.3417616|110.3619603|160|071.21192|15558.6954|14232.2848
+1089	FS15524	1 taza=243.75g|1 onza=28.125g|100 g|1 libra=453.125g	0332|041.325128|067.409231|084.270769|050.2420513|090.03405128|100.03733333|110.09846154|160|071.517949|15526.7692|14332.718
+1090	FS15525	1 cucharada=15.89928g|1 onza=28.1295g|100 g|1 lata=170g|1 taza=262.9496g|1 libra=454.964g	0381.76471|044.339819|0619.05747|0810.50362|050.5031674|090.1006335|100.06918552|110.1635294|160|074.402715|15100.6335|141018.914
+1091	FS15526	100 g|1 onza=28.125g|1 libra=453.125g	0332|041.64|067.29|050.28|090.04|100.043|110.113|160|071.9|15132|14293
+1092	FS15644	3 tajadas de 1 porción=62.72727g|1 onza=28.18182g|100 g	03110|0417.36087|062.646377|080|052.869565|090.895942|101.251449|110.3427536|1647.82609|070|151111.159|14350.7246
+1093	FS15645	1 porción de 2 tajadas=55.82822g|1 tajada=28.22086g|1 onza=28.22086g|100 g	03163|0416.65824|063.833187|080|058.633627|092.944747|104.366967|110.7917143|1657.31868|071.253846|151307.582|14288.3846
+1094	FS15646	100 g|1 onza, cocido=15.96859g|1 onza=28.01047g|1 taza, trozos=81.93717g|1 libra=453.6649g	03382|0429.6|063.1|080|0527.9|098.294|1010.899|116.807|1698|070|152285|14395
+1095	FS15647	1 sánduche=146.0581g|1 onza=28.21577g|100 g	03241|0414.1656|0622.83338|0510.59852|094.40715|104.613233|110.9414063|1639.71023|15527.8722|14199.2358
+1096	FS15648	100 g|1 onza=28.68852g	03122|0417.93|067.27|080|052.37|090.795|101.669|110.314|1622|070|15900|14165
+1097	FS15649	1 tajada=27.77778g|1 onza=28.33333g|100 g	03180|0416.632|064.248|080|0510.368|093.4488|104.9356|111.2708|1661.2|070|151339.2|14320.4
+1098	FS15650	1 empanada=65.07937g|1 onza=28.25397g|100 g|1 libra=453.6508g	03315|0412.76902|061.690244|0528.15024|0910.11688|1013.24383|113.036293|1670.68292|070|151086.366|14238.1707
+1099	FS15694	1 taza=240g|1 onza=27.82609g|1 onza líquida=29.56522g|100 g|100 ml	0357.5|040|0614.58333|050|090|100|110|160|070.08333334|153.333333|1414.58333
+1100	FS15695	1 taza=246.6667g|1 onza=30g|100 g	0330|040.3486486|067.816216|050.06891892|090.008918919|100.01297297|110.02797297|160|070.972973|152.837838|1477.43243
+1101	FS15696	1 fruta 5,5 cm de alto x 6,5 cm de diámetro=121.4286g|1 onza=28.57143g|100 g|1 fruta 8,5 cm de alto x 7,5 cm de diámetro=276.1905g	0342|040.502353|0610.69765|087.082353|050.2305882|090.01235294|100.04941176|110.05517647|160|073.623529|150|14121.8823
+1102	FS15697	1 mediana (2-1/2 por 450 g aprox)=165.5172g|1 onza=27.58621g|100 g|1 pequeña (aprox 3 por 450 g)=139.6552g|1 taza, con rodajas=165.5172g|1 porción=165.5172g|1 grande (aprox 2 por 450 g)=208.6207g	0358|040.380625|0615.50292|089.829792|050.1208333|090.006041666|100.02597917|110.029|160|073.08125|151.208333|14119.625
+1103	FS15698	1 taza, mitades=250.8772g|1 onza=28.07018g|1 mitad, con líquido=75.4386g|100 g	0357|040.1913287|0615.17874|0812.10553|050.03188811|090.001993007|100.005979021|110.007174825|160|071.594406|155.181818|1466.16783
+1104	FS15699	1 taza=239.1304g|1 onza=26.08696g|1 onza líquida=30.43478g|100 g|100 ml	0346|040.8321818|0610.47545|050.2801818|090.03010909|100.04809091|110.06649091|160|070.2090909|150.8363637|14197.8

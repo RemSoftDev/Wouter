@@ -1,0 +1,3684 @@
+﻿Row	Meal	Name	Pos
+0	B	Ovo	33
+1	B	Café	221
+2	B	Brinde	347
+3	B	Pão	590
+4	B	Café	888
+5	L	Pão	1023
+6	S	Chá	1321
+7	B	Chá	1435
+8	B	Brinde	1549
+9	D	Pão	1846
+10	B	Farinha de aveia	2144
+11	B	Iogurte de baixa gordura frutas	2258
+12	L	Tomate	2366
+13	L	Ovo	2594
+14	D	Arroz branco	2783
+15	B	Pão de trigo integral	2894
+16	D	Cenoura	3134
+17	S	Biscoito	3446
+18	B	Café	3608
+19	D	Tomate	3744
+20	L	Arroz branco	4016
+21	S	Café	4127
+22	S	Iogurte de baixa gordura frutas	4254
+23	L	Tomate	4362
+24	S	Pão	4634
+25	D	Ovo	4933
+26	D	Cebola	5122
+27	D	Frango	5421
+28	B	Iogurte de baixa gordura frutas	5588
+29	B	leite de 1%	5762
+30	L	Arroz branco	5917
+31	D	Vinho tinto	6029
+32	B	Café	6101
+33	L	Cenoura	6202
+34	B	Pão	6514
+35	L	Frango	6790
+36	S	Laranja	6920
+37	L	Iogurte de baixa gordura frutas	7107
+38	B	Laranja	7279
+39	B	Aveia	7466
+40	B	Pão francês	7575
+41	B	Pão	7744
+42	L	Feijões cozidos	7977
+43	D	Tomate	8038
+44	D	Brinde	8266
+45	B	Café instantâneo	8510
+46	L	Arroz parboilizado	8590
+47	D	Vinho tinto	8653
+48	D	Tomate	8727
+49	L	Azeite de oliva	9000
+50	L	Tomate	9118
+51	L	Laranja	9333
+52	S	Ovo	9520
+53	D	Peito de frango	9709
+54	L	Chá	9845
+55	L	Tomate	9960
+56	B	Flocos de milho	10233
+57	L	Pão	10353
+58	S	Brinde	10629
+59		Creme de queijo	10873
+60		Queijo mussarela molhado	11116
+61		Queijo mussarela	11362
+62		Queijo parmesão	11607
+63		Queijo ricota	11757
+64		Queijo suíço	11901
+65		Queijo americano	12146
+66		Queijo americano	12397
+67		Queijo fundido	12646
+68		Metade e metade	12798
+69		Creme claro	12974
+70		Creme de chicoteamento pesado	13149
+71		Manteiga com sal	13348
+72		Manteiga chantilly	13569
+73		Óleo de manteiga	13790
+74		Creme de leite	13998
+75		Substituto de creme em pó	14134
+76		Leite integral	14312
+77		2% de leite	14475
+78		leite de 1%	14637
+79		Leite desnatado	14799
+80		Leite seco	14962
+81		Baixo teor de gordura iogurte de baunilha	15093
+82		Iogurte de baixa gordura frutas	15271
+83		Ovo	15452
+84		Gema de ovo	15648
+85		Ovo frito	15790
+86		Ovo cozido	15988
+87		Ovo mexido	16218
+88		Ovo secado	16447
+89		Manteiga sem sal	16610
+90		De leite desnatado	16830
+91		Molho de queijo	16991
+92		Iogurte de frutas gordura baixa luz	17145
+93		Substituto de creme	17322
+94		Iogurte de frutas fortificado de gordura baixo	17497
+95		Luz fortificada de iogurte de baixa gordura frutas	17680
+96		Pimenta em pó	17859
+97		Mostarda	18019
+98		Sal	18163
+99		Aveia bebê	18313
+100		Cereais de arroz do bebê	18464
+101		Banha	18607
+102		Molho de maionese	18722
+103		Molho para salada com maionese	18877
+104		Óleo de amendoim	19047
+105		Óleo de soja	19195
+106		Azeite de oliva	19349
+107		Molho italiano	19505
+108		Molho francês	19676
+109		Baixo gordo vegetal óleo espalhar	19846
+110		Óleo de milho	20062
+111		Molho de queijo azul	20215
+112		Vara de manteiga	20390
+113		Margarina	20606
+114		Óleo vegetal se espalhou	20820
+115		Óleo vegetal	20987
+116		Óleo de coco	21144
+117		Frango	21297
+118		Frango à milanesa	21488
+119		Frango	21684
+120		Frango frito	21871
+121		Carne de frango assado	22065
+122		Frango Estufado	22254
+123		Fígado de galinha	22443
+124		Peito de frango com pele	22567
+125		Peito de frango à milanesa	22719
+126		Peito de frango assado	22877
+127		Carne de peito de frango	23028
+128		Peito de frango	23185
+129		Baqueta	23337
+130		Perna de frango	23494
+131		Coxa de frango	23647
+132		Asa de frango	23802
+133		Asa de frango assado	23937
+134		Peru assado	24052
+135		Carne de peru assado	24190
+136		Terra Peru	24324
+137		Caldo de carne	24444
+138		Canja de galinha	24597
+139		Sopa cremosa de cogumelo	24759
+140		Molho de carne	24921
+141		Caldo de carne	25084
+142		Caldo de galinha	25244
+143		Caldo de galinha	25406
+144		Sopa de macarrão lamen	25563
+145		Bolonha	25733
+146		Salsicha de fígado	25892
+147		Rolo de frango	26025
+148		Chouriço	26180
+149		Salsicha de carne de bovino	26312
+150		Cachorro-quente	26443
+151		Cachorro quente de frango	26576
+152		Carne do almoço	26715
+153		Calabresa	26845
+154		Salsicha	26978
+155		Salsicha de porco e carne	27104
+156		Salame	27263
+157		Peito de peru	27398
+158		Rolo de peru carne branca	27596
+159		Rolo de peru	27742
+160		Linguiça italiana	27892
+161		Salsicha de porco pré-cozidos	28054
+162		De maçã	28181
+163		Milho chex	28303
+164		Flocos de milho	28422
+165		Kix	28546
+166		Amuletos da sorte	28676
+167		Querida porca chex	28809
+168		Cereal	28942
+169		Arroz chex	29071
+170		Flocos de arroz	29193
+171		Lerdas	29324
+172		Trigo chex	29453
+173		Cereais	29576
+174		Grãos de milho	29700
+175		Aveia	29829
+176		Farinha de aveia	29950
+177		Aveia com canela e especiarias	30076
+178		Aveia com passas e especiarias	30202
+179		Sopros de Reese	30332
+180		Praças de aveia	30457
+181		Fibra de um	30589
+182		Chocapic	30705
+183		Cereais de arranque inteligente	30827
+184		Torrado aveia mel	30943
+185		Baunilha amêndoa	31063
+186		Suco de maçã	31182
+187		Compota de maçã	31344
+188		Abacate	31483
+189		Mirtilos	31674
+190		Suco de uva	31827
+191		Uvas	31991
+192		Manga	32144
+193		Melão	32292
+194		Laranja	32643
+195		Suco de laranja fresco	32842
+196		Suco de laranja concentrado	33000
+197		Suco de laranja com cálcio	33165
+198		Suco de laranja concentrado congelado	33331
+199		Pêssego	33500
+200		Pêra	33722
+201		Abacaxi	33936
+202		Passas	34184
+203		Morango	34423
+204		Morangos congelados	34734
+205		Melancia	35049
+206		Suco de maçã, uva e pêra	35396
+207		Gordura grelhada no lombo de porco	35560
+208		Lombo de porco grelhado	35710
+209		Lombo de porco assado	35859
+210		Costeletas de porco	36009
+211		Osso	36160
+212		Presunto	36290
+213		Gordura assada presunto	36438
+214		Presunto assado	36572
+215		Presunto magro extra	36704
+216		Magro extra presunto assado	36853
+217		Cortes de carne de porco	37002
+218		Carne de porco moída	37156
+219		Presunto com sucos naturais	37278
+220		Presunto e água	37435
+221		Presunto - água adicionada	37588
+222		Espargos	37744
+223		Em lata de feijão verde	37891
+224		Brócolis cru	38067
+225		Brócolis	38327
+226		Brócolis picado	38586
+227		Brócolis congelado	38844
+228		Repolho cru	39102
+229		Repolho	39441
+230		Cenoura	39778
+231		Cenoura cozida	40098
+232		Cenoura congelada	40416
+233		Aipo	40736
+234		Verdes de chicória	41017
+235		Couve	41144
+236		Milho	41278
+237		Milho em lata amarelo	41580
+238		Milho congelado	41732
+239		Pepino	42034
+240		Endívia	42279
+241		Alface romana	42438
+242		Verde alface	42795
+243		Cogumelo branco	43156
+244		Mostarda	43325
+245		Cebola	43458
+246		Cebola cozida	43765
+247		Cebolinha	44075
+248		Salsa	44293
+249		Ervilhas verdes	44465
+250		Ervilhas enlatadas	44593
+251		Ervilhas congeladas	44721
+252		Batata	44849
+253		Batata assada	45072
+254		Batata em pele	45292
+255		Batata cozida	45511
+256		Purê de batatas	45731
+257		Bolos de batata	45860
+258		Forno batatas fritas	46022
+259		Espinafre cru	46222
+260		Espinafre cozido	46407
+261		Espinafre enlatado	46535
+262		Batata doce assada	46661
+263		Batata-doce	46877
+264		Tomate	47089
+265		Tomate cozido	47440
+266		Tomate enlatado	47722
+267		Conservas de tomate estufadas	47918
+268		Suco de tomate	48198
+269		Polpa de tomate	48365
+270		Conservas de molho de tomate	48533
+271		Nabiças	48699
+272		Sucos de vegetais enlatados	48835
+273		Vegetais misturados	49001
+274		Abobrinha	49128
+275		Batata-doce enlatada	49341
+276		Suco de cenoura em conserva	49555
+277		Batata assada com pele	49720
+278		Polpa de tomate	49942
+279		Picles	50112
+280		Sementes de girassol	50354
+281		Sementes de girassol torradas	50483
+282		Amêndoas	50613
+283		Amêndoas	50865
+284		Amêndoas torradas	51102
+285		Noz	51338
+286		Sementes de girassol óleo torrado	51630
+287		Amêndoas torradas salgadas	51763
+288		Caju	52001
+289		Nozes mistas	52180
+290		Óleo assado castanhas	52305
+291		Hambúrguer	52436
+292		Fígado bovino	52562
+293		Fígado bovino	52686
+294		Bife de sanduíche	52810
+295		Peito de carne	52967
+296		Costela de carne	53083
+297		Carne de bovino	53198
+298		Lâmina de carne assada	53380
+299		Costela de carne	53497
+300		Costela de carne	53617
+301		Carne redonda	53740
+302		Carne de topo redondo	53856
+303		Bife de carne de topo redondo	53978
+304		Cerveja	54094
+305		80 prova de licor	54234
+306		Vinho tinto	54334
+307		Vinho branco	54438
+308		Suco de frutas e vegetais.	54540
+309		Refrigerante de limão	54689
+310		Coca-Cola sem cafeína	54855
+311		Cerveja sem álcool	55017
+312		Café descafeinado	55178
+313		Café	55321
+314		Café expresso	55472
+315		Café instantâneo	55591
+316		Bebida de fruta enlatada	55729
+317		Bebida de fruta enriquecido	55895
+318		Limonada	56072
+319		Chá descafeinado	56258
+320		Chá	56405
+321		Chá instantâneo	56552
+322		Coca-Cola	56735
+323		Água da torneira	56901
+324		Água com sabor de fruta	57030
+325		86 prova de licor	57193
+326		Água engarrafada	57295
+327		Água de frutas enriquecido com sabor	57425
+328		Bebida energética de monstro	57586
+329		Filé de peixe	57749
+330		Peixes chatos	57928
+331		Arenque	58047
+332		Salmão	58294
+333		Caranguejo	58399
+334		Camarão	58602
+335		Camarão em conserva	58748
+336		Amêijoas	58894
+337		Mariscos enlatados	59079
+338		Ostra	59268
+339		Peixe-gato	59391
+340		Truta arco-íris	59508
+341		Tilápia	59629
+342		Feijões cozidos	59746
+343		Feijões cozidos com francos	59872
+344		Feijão com carne de porco e de tomate, molho	60000
+345		Feijão preto	60124
+346		Em lata de feijão vermelho	60274
+347		Feijão vermelho	60420
+348		Feijão cru	60581
+349		Feijão	60734
+350		Feijão branco	60882
+351		Lentilhas	61029
+352		Lentilhas cozidas	61178
+353		Amendoins salgados	61327
+354		Amendoim torrado salgado	61477
+355		Manteiga de amendoim	61623
+356		Feijão frito	61761
+357		Molho de soja	61899
+358		Leite de soja enriquecido	62091
+359		Reduzido de gordura de manteiga de amendoim	62256
+360		Amendoins sem sal	62389
+361		Amendoim torrado	62537
+362		Pãezinhos de canela passas	62681
+363		Biscoito	62899
+364		Biscoito	63069
+365		Pão de milho	63245
+366		Pão francês	63394
+367		Pão italiano	63629
+368		Pão multi-grãos	63833
+369		Pão de centeio	64138
+370		Pão	64440
+371		Brinde	64747
+372		Pão branco	65053
+373		Pão branco	65357
+374		Pão de trigo integral	65653
+375		Torrada	65956
+376		Migalhas de pão	66260
+377		Bolo de esponja	66406
+378		Bolo de queijo	66551
+379		Biscoito de manteiga de amendoim	66700
+380		Bolacha de queijo	66870
+381		Bolachas Cream Cracker	67096
+382		Bolacha	67319
+383		Biscoitos com manteiga de amendoim	67541
+384		Bolachas de trigo	67767
+385		Filhós à moda antiga	67990
+386		Donut	68244
+387		Bolinho inglês	68503
+388		Bolinho de mirtilo	68630
+389		Panqueca	68882
+390		Torta de maçã	69090
+391		Torta de abóbora	69281
+392		Toalha de mesa	69475
+393		Rolo de hambúrguer	69595
+394		Pão duro	69722
+395		Rolo de canela	69911
+396		Fermento em pó	70102
+397		Levedura	70243
+398		Torradeira fosco pastelaria	70410
+399		Salgadinho de milho	70541
+400		Folhados de queijo	70695
+401		Pipoca	70854
+402		Pipoca	70984
+403		Batatas fritas de pacote branco	71124
+404		Caramelos	71275
+405		Rico gelado de baunilha	71423
+406		Sorvete de baunilha	71552
+407		Sorvete de laranja	71682
+408		Gomas	71816
+409		Doces duros	72140
+410		Amendoim M & Ms	72258
+411		M & Ms	72431
+412		Barra de Twix	72606
+413		Cacau em pó	72735
+414		Tipo de gelo de limão	72869
+415		Querida	72975
+416		Geléias	73091
+417		Açúcar mascavo	73232
+418		Açúcar	73493
+419		Açúcar em pó	73746
+420		Xarope de ácer	73938
+421		Xarope de ácer	74070
+422		Batatas fritas	74190
+423		Fichas de gordura reduzidas	74348
+424		Fubá enriquecido	74499
+425		Arroz integral	74623
+426		Arroz branco cru	74745
+427		Arroz branco	74869
+428		Arroz parboilizado	74992
+429		Arroz instantâneo	75116
+430		Farinha integral	75233
+431		Todos farinha de trigo	75357
+432		Farinha de pão branco	75483
+433		Farinha do bolo	75608
+434		Macarrão	75732
+435		Macarrão	75921
+436		Espaguete	76047
+437		Biscoito com ovo e salsicha	76169
+438		Biscoito com salsicha	76301
+439		Cheeseburguer	76433
+440		Batatas fritas	76573
+441		Hambúrguer duplo	76772
+442		Filetes de frango	76909
+443		Empadão de frango	77038
+444		Macarrão com almôndegas em molho de tomate	77165
+445		Macarrão com molho de tomate	77291
+446		Rolo de ovo com carne de porco	77429
+447		Macarrão com queijo	77557
+448		Hambúrguer (95% magra)	77720
+449		Hambúrguer (90% magra)	77843
+450		Hambúrguer (85% magra)	77968
+451		Hambúrguer (80% magra)	78092
+452		Hambúrguer (80% magra)	78213
+453		Hambúrguer (75% magra)	78338
+454		Hambúrguer (75% magra)	78459
+455		Carne moída (75/25)	78584
+456		Pipoca de microondas	78706
+457		Batatas fritas de pacote amarelo	78840
+458		Querida cachos de aveia com amêndoas	78993
+459		Queijo gordo reduzido	79122
+460		Fichas brancas	79365
+461		Baixa o gordo queijo americano	79512
+462		Querida cachos de aveia	79754
+463	P	Shortcake (tipo Biscoito)	79885
+464	P	Filé de Peixe Congelado Panga (Walmart)	79974
+465	P	Filé de Peixe Panga (Leardini)	80022
+466	P	Carne de Vaca do Filé Mignon (Magra, Cortada até 0 cm de Gordura)	80074
+467	P	Carne de Vaca da Capa de Filé (Cortada até 0,5 cm de Gordura)	80178
+468	P	Carne de Vaca da Capa de Filé (Cortada até 0,3 cm de Gordura)	80365
+469	P	Pão de Mistura	80494
+470	P	Pão de Mistura Torrado	80679
+471	P	Carne de Vaca do Filé Mignon (Cortada até 0,3 cm de Gordura)	80867
+472	P	Filé de Carne de Avestruz	80996
+473	P	Carne de Vaca do Lombo - Topo (Cortada até 0,3 cm de Gordura)	81104
+474	P	Suco de Limão	81216
+475	P	Suco de Limão e Chá Verde (AdeS)	81407
+476	P	Suco de Limão (Del Valle)	81483
+477	P	Suco de Limão (Enlatado ou Engarrafado)	81548
+478	P	Suco de Couve com Limão	81734
+479	P	Iogurte de Baunilha ou de Limão (sem Gordura com Adoçante de Baixas Calorias)	81900
+480	P	Suco Lima Limão (Clight)	81997
+481	P	Peito de Peru (97% sem Gordura, Sabor Pimenta-Limão, Defumado)	82058
+482	P	Torta de Limão com Merengues	82204
+483	P	Casca de Limão	82377
+484	P	Actimel (Danone)	82559
+485	P	Actimel Mix de Frutas (Danone)	82609
+486	P	Actimel Zero (Danone)	82667
+487	P	Café com Leite de Gordura Reduzida	82726
+488	P	Café Espresso com Leite	82958
+489	P	Café com Leite (Melitta)	83194
+490	P	Café com Leite Pequeno (Casa do Pão de Queijo)	83276
+491	P	Café com Leite (Santa Clara)	83361
+492	P	Café Espresso com Leite, Magro (sem Gordura)	83434
+493	P	Café Expresso com Leite (Grande) (Rei do Mate)	83666
+494	P	Café com Leite (Pequeno) (McDonald's)	83759
+495	P	Leite Integral (LeitBom)	83825
+496	P	Leite Desnatado Camponesa (Embaré)	83883
+497	P	Uvas (tipo Americano, Slip-Skin)	83948
+498	P	Uvas (Vermelha ou Verde, Variedades do tipo Europeu tais como Thompson Seedless )	84131
+499	P	Uvas-Passas Douradas (sem Sementes)	84431
+500	P	Uvas-Passas (sem Sementes)	84597
+501	P	Bagels de Uvas-Passas e Canela	84864
+502	P	Cookies de Aveia (com Uvas-Passas)	85198
+503	P	Pães Doces de Canela (com Uvas-Passas)	85366
+504	P	Pão de Uvas-Passas	85573
+505	P	Uvas-Passas Revestidas de Chocolate de Leite	85772
+506	P	Muffins de Farelo de Aveia	85899
+507	P	Pão de Mel	86140
+508	P	Pão de Aveia	86285
+509	P	Cereais de Aveia (sem Sal, Cozido com Água, Não Enriquecido)	86445
+510	P	Cereais de Aveia (Instantâneo, Seco e Enriquecido)	86622
+511	P	Cereais de Aveia (Instantâneo, Preparado com Água, Enriquecido)	86739
+512	P	Farelo de Aveia	87005
+513	P	Carne de Vaca do Lombo - Topo (Magra, Cortada até 0,3 cm de Gordura)	87142
+514	P	Shake Mousse de Maracujá (Herbalife)	87253
+515	P	Shake de Frutas Tropicais (Herbalife)	87384
+516	P	Shake de Frutas Tropicais (Herbalife)	87519
+517	P	Shake de Morango Cremoso (Herbalife)	87641
+518	P	Wafers de Chocolate	87768
+519	P	Wafers de Baunilha (Menos Gordura)	87955
+520	P	Wafers de Baunilha (Mais Gordura)	88149
+521	P	Cookies com Pepitas de Chocolate (com Manteiga)	88298
+522	P	Brownies	88463
+523	P	Cookies com Pepitas de Chocolate (Menos Gordura)	88628
+524	P	Cookies com Pepitas de Chocolate (Macio)	88771
+525	P	Massa para Cookies com Pepitas de Chocolate	88921
+526	P	Massa para Cookies com Pepitas de Chocolate (com Margarina)	89095
+527	P	Cookies de Aveia	89310
+528	P	Cookies de Manteiga de Amendoim	89507
+529	P	Crackers (com Recheio de Manteiga de Amendoim)	89659
+530	P	Carne de Vaca do Lombo (Cortada até 0,3 cm de Gordura)	89844
+531	P	Substituto de Creme de Leite (em Pó Light)	89973
+532	P	Substituto de Creme de Leite (Líquido Light)	90148
+533	P	Pasta de Queijo de Creme	90308
+534	P	Pao de Forma Integral (Pane Vita)	90436
+535	P	Pão de Forma Integral (Pane Vita)	90500
+536	P	Pão de Centeio Integral	90568
+537	P	Pão de Farelo de Trigo	90812
+538	P	Pão Francês Integral	90973
+539	P	Barra de Fruta Coco (Ritter )	91135
+540	P	Barra de Fruta Light Coco (Nutry)	91193
+541	P	Barra de Fruta Coco (Nutry)	91328
+542	P	Suflê de Espinafre	91440
+543	P	Água de Coco	91656
+544	P	Sanduíche Frango Defumado com Cream Cheese (Subway)	91880
+545	P	Sanduiche de Atum (Subway)	91983
+546	P	Sanduíche de Ovo e Queijo	92082
+547	P	Sanduíche de Presunto e Queijo	92232
+548	P	Sanduíche de Carne Assada com Queijo	92381
+549	P	Sanduíche de Bife	92529
+550	P	Suco de Maracujá	92674
+551	P	Suco de Maracujá (Del Valle)	92836
+552	P	Suco de Maracujá (Dafruta)	92913
+553	P	Suco de Maracujá (Maguary)	92991
+554	P	Suco de Maracujá (Disfrut)	93060
+555	P	Suco de Maracujá Light (Maguary)	93122
+556	P	Suco de Maracujá (Sufresh)	93188
+557	P	Suco de Maracujá Light (Tial)	93243
+558	P	Suco de Maracujá (Dafruta)	93303
+559	P	Soja + Suco de Maracujá (AdeS)	93356
+560	P	Café	93441
+561	P	Café Expresso	93735
+562	P	Café com Leite Integral	93925
+563	P	Café (Infusão)	94130
+564	P	Café com Leite Desnatado	94286
+565	P	Café Tradicional (Melitta)	94487
+566	P	Café (Instantâneo)	94574
+567	P	Café Instantâneo (em Pó)	94666
+568	P	Adoçante (Tal e Qual)	94840
+569	P	Adoçante Dietético em Pó (Gold)	94910
+570	P	Sucralose (Linea)	94975
+571	P	Adoçante Culinário (Lowçucar)	95055
+572	P	Adoçantes (Sacarina)	95112
+573	P	Frutose (Doce Menor)	95232
+574	P	Pizza Marguerita	95283
+575	P	Pizza de Queijo de 36 cm (Massa Fina)	95582
+576	P	Pizza Marguerita Média Tradicional (Domino's Pizza)	95765
+577	P	Pizza Marguerita (Sadia)	95870
+578	P	Pizza de Queijo (36 cm)	95971
+579	P	Pizza de Pepperoni (36 cm)	96157
+580	P	Pizza de Carne e Vegetais (36 cm)	96340
+581	P	Pizza de Pepperoni de 36 cm (Massa Grossa)	96524
+582	P	Pizza de Queijo de 36 cm (Massa Grossa)	96709
+583	P	Pizza de Pepperoni (Congelado, Cozido)	96892
+584	P	Pão Integral Fit (Pullman)	97064
+585	P	Pão 12 Grãos Fit (Pullman)	97135
+586	P	Pão de Forma Fit 7 Grãos (Pullman)	97211
+587	P	Bananada Natural (Nutryllac)	97295
+588	P	Bananada (Fazendinha)	97378
+589	P	Bananada Zero Açúcar (Frutabella)	97449
+590	P	Bananada (Phinus)	97554
+591	P	Bananada Cremosa (30g) (Frutabella)	97606
+592	P	Petit Four Canela e Bananada (Sentir Bem)	97693
+593	P	Bananada Natural com Ameixa (Nutryllac)	97780
+594	P	Bananada Cremosa (15g) (Frutabella)	97869
+595	P	Bananada com Canela (Tachão)	97945
+596	P	Cerveja Normal	98012
+597	P	Cerveja Light	98134
+598	P	Pão Doce	98269
+599	P	Pão de Canela Doce	98583
+600	P	Pão de Coco com Doce de Leite (Bonaliment)	98837
+601	P	Pão Branco	98926
+602	P	Pão de Batata Doce (Bem Nutrir)	99312
+603	P	Croutons Temperados	99400
+604	P	Massa de Pão Doce de Canela (com Cobertura Glacé)	99586
+605	P	Pão Francês ou de Viena (com Fermento)	99713
+606	P	Batata-Doce (sem Sal, no Forno com Casca, Cozido)	100013
+607	P	Massa de Pão Doce Recheada com Carne (Cozida a Vapor)	100236
+608	P	Castanha do Pará (Estrela do Oriente)	100427
+609	P	Castanhas-do-Pará	100512
+610	P	Castanha do Pará sem Casca (Qualitá)	100679
+611	P	Castanhas do Pará (La Violetera)	100751
+612	P	Barra Crocante de Granola Castanha do Pará (Kobber)	100839
+613	P	Cookies Integrais Castanha do Pará (Zezé)	100952
+614	P	Barra de Fruta Castanha do Pará com Cupuaçu (Nutry)	101050
+615	P	Arroz Branco	101110
+616	P	Arroz Branco (Cozido)	101363
+617	P	Arroz Branco (Camil)	101585
+618	P	Arroz Branco (Longo, Cozido)	101651
+619	P	Arroz Branco (Prato Fino)	101838
+620	P	Arroz Branco (Tio João)	101896
+621	P	Arroz Branco (Médio, Cozido)	101965
+622	P	Arroz Branco (Curto, Cozido)	102132
+623	P	Arroz com Funghi (Tio João)	102287
+624	P	Dextrose (Probiótica)	102359
+625	P	Dextrose (NeoNutri)	102433
+626	P	Dextrose (Max Titanium)	102477
+627	P	Dextrose (Body Action)	102551
+628	P	Dextrose	102605
+629	P	Dextrose (Atlhetica)	102729
+630	P	Dextrose (New Millen)	102800
+631	P	Dextrose (DNA)	102881
+632	P	Dextro Dyn Dry (Dextrose) (Dynamic Lab)	102951
+633	P	Dextrose (Health Labs)	103006
+634	P	Iogurte Pense Zero Mamão (Batavo)	103061
+635	P	Iogurte Pense Zero (90g) (Batavo)	103148
+636	P	Iogurte Pense Zero Graviola (Batavo)	103243
+637	P	Iogurte Pense Zero (170g) (Batavo)	103297
+638	P	Iogurte Pense Zero Morango (Batavo)	103403
+639	P	Iogurte Pense Zero Maracujá (Batavo)	103459
+640	P	Iogurte Pense Zero Batido (Batavo)	103561
+641	P	Iogurte Natural (Leite Integral)	103609
+642	P	Iogurte Natural (Magro)	103819
+643	P	Iogurte Natural (Leite Desnatado)	104013
+644	P	Coberturas de Morango	104210
+645	P	Sorvetes de Morango	104412
+646	P	Morangos	104574
+647	P	Rabada	104968
+648	P	Hambúrguer de Carne Bovina (Sadia)	105154
+649	P	Hambúrguer de Queijo e Bacon com 1/4 Lb de Carne, Maionese ou Molho para Saladas e Tomates no Pão	105234
+650	P	Hambúrguer Grande	105402
+651	P	Hambúrguer no Pão	105551
+652	P	Hambúrguer ou Carne de Vaca Moída Empanados	105742
+653	P	Hambúrguer Bovino (Friboi)	106141
+654	P	Hambúrguer (Uma Unidade)	106215
+655	P	Hambúrguer com Maionese ou Molho para Saladas e Tomates no Pão	106364
+656	P	Hambúrguer de Queijo com Bacon e Condimentos	106544
+657	P	Hamburguer de Carnes de Frango, Bovina e de Peru (Perdigão)	106694
+658	P	Queijo Mozzarella (com Leite Desnatado)	106775
+659	P	Queijo Ricota (com Leite Desnatado)	106893
+660	P	Leite (sem Gordura ou Desnatado, Enriquecido com Cálcio)	107029
+661	P	Milk Shake de Chocolate	107204
+662	P	Milk Shake de Baunilha	107447
+663	P	Milk Shake Espesso de Chocolate	107691
+664	P	Milk Shake Espesso de Baunilha	107827
+665	P	Peito de Chester Defumado (Perdigão)	107954
+666	P	Tender de Chester (Perdigão)	108012
+667	P	Sanduíche Chester (Mania Light)	108063
+668	P	Chester Carne de Peito Cozida e Defumada de Ave (Perdigão)	108173
+669	P	Chesterella com Tomate Seco (Perdigão)	108242
+670	P	Hambúrguer de Chester (Perdigão)	108328
+671	P	Chá (Infusão)	108407
+672	P	Chá Mate com Limão (Matte Leão)	108556
+673	P	Chá Mate com Limão (Do Bem)	108635
+674	P	Chá de Ervas (exceto Camomila, Infusão)	108690
+675	P	Chá (Infusão, Descafeinado)	108834
+676	P	Leite (sem Gordura com Vitamina A)	108983
+677	P	Leite (sem Gordura com Vitamina A e Proteína)	109187
+678	P	Leite de Soja (Enriquecido com Cálcio)	109371
+679	P	Leite de Soja de Chocolate	109513
+680	P	Leite de Soja	109665
+681	P	Barras de Granola com Pepitas de Chocolate e Revestidas com Chocolate (Macio)	109836
+682	P	Molho de Soja (Shoyu) (Baixo Teor de Sódio)	109971
+683	P	Cookies Integrais sem Glúten Castanha do Pará (Vitao)	110155
+684	P	Pão de Castanha-do-Pará e Quinoa (Wickbold)	110246
+685	P	Cookies Integrais Castanha do Pará (Vitao)	110308
+686	P	Integral (Club Social)	110415
+687	P	Original (Club Social)	110509
+688	P	Integral (Trigo, Aveia e Centeio) (Club Social)	110644
+689	P	Biscoito Integral Trigo e Flocos de Arroz (Club Social)	110754
+690	P	Sabor Pizza (Club Social)	110884
+691	P	Recheado Queijo e Cebola (Club Social)	110969
+692	P	Sabor Queijo (Club Social)	111066
+693	P	Sabor Presunto (Club Social)	111135
+694	P	Pizza Mussarela (Club Social)	111192
+695	P	Pão 14 Grãos 100% Integral (Nutrella)	111276
+696	P	Pão de Centeio (Calorias Reduzidas)	111355
+697	P	Pão de Trigo (Calorias Reduzidas)	111566
+698	P	Pão Branco (Calorias Reduzidas)	111730
+699	P	Whey Protein (Optimum Nutrition)	111880
+700	P	3 Whey Protein (Probiótica)	111980
+701	P	Elite Whey Protein Isolate (Dymatize Nutrition)	112092
+702	P	Whey Protein (Perfect Labs)	112198
+703	P	Whey Protein Isolado 90% (Growth Supplements)	112262
+704	P	Whey Protein Iso (Integralmedica)	112339
+705	P	100% Whey Protein (Body Action)	112417
+706	P	Iso Whey Protein (Solaris)	112494
+707	P	Whey Protein	112577
+708	P	Whey Protein (Midway)	112724
+709	P	Laranjas	112798
+710	P	Suco de Laranja	113081
+711	P	Suco de Laranja (Refrigerado, incluindo Concentrado)	113288
+712	P	Soda de Laranja	113452
+713	P	Sherbet de Laranja	113570
+714	P	Marmelada de Laranja	113733
+715	P	Bebida com Suco de Laranja	113916
+716	P	Barras de Granola com Pepitas de Chocolate Macias	114102
+717	P	Batatas Fritas (com Sal)	114250
+718	P	Bolos de Arroz Integral Multi-Cereais	114372
+719	P	Café (Cappuccino em Pó, Instantâneo, com Açúcar)	114539
+720	P	Café com Açúcar	114756
+721	P	Café Gelado com Creme de Leite e Açúcar	114967
+722	P	Café Gelado com Leite e Açúcar	115219
+723	P	Café Pré-Adocicado com Açúcar	115469
+724	P	Açúcar Granulado	115648
+725	P	Açúcar em Pó	115833
+726	P	Café (com Pó, Chicória Instantânea)	116061
+727	P	Cookies de Açúcar (com Baunilha)	116192
+728	P	Cookies de Açúcar (com Margarina)	116313
+729	P	Sustagen Chocolate (Sustagen)	116503
+730	P	Sustagen Kids (Sustagen)	116587
+731	P	Sushi de Salmão	116675
+732	P	Salmão do Atlântico (de Cativeiro)	116869
+733	P	Bife de Carne de Vaca da Ponta de Agulha (Magra, Cortada até 0,5 cm de Gordura)	116995
+734	P	Bife de Carne de Vaca do T-Bone  (Cortada até 0,5 cm de Gordura)	117103
+735	P	Óleo de Salmão	117215
+736	P	Bomba de Chocolate	117385
+737	P	Coxinha	117556
+738	P	Coxinha de Frango com Cremily (Ragazzo)	117764
+739	P	Coxinha Das Asas (Sadia)	117856
+740	P	Coxinha de Carne Louca (Ragazzo)	117911
+741	P	Suco de Laranja Natural	118014
+742	P	Laranja Caseira (Del Valle)	118201
+743	P	Suco de Laranja (Dafruta)	118256
+744	P	Suco Laranja Caseira Light (Del Valle)	118307
+745	P	Creme de Ricota (Tirolez)	118367
+746	P	Creme de Ricota Light (Tirolez)	118468
+747	P	Creme de Ricota (Quatá)	118568
+748	P	Suco de Laranja (Maguary)	118672
+749	P	Suco de Laranja (Fazenda Bela Vista)	118734
+750	P	Nectar de Laranja (Sufresh)	118790
+751	P	Suco de Laranja (Tang)	118851
+752	P	Suco de Laranja (Nutri Néctar)	118936
+753	P	Carne de Vaca Moída (80% Magra / 20% de Gordura)	119012
+754	P	Carne de Vaca do Acém (Magra, Cortada até 0,3 cm de Gordura)	119140
+755	P	Biscoito Cracker 7 Grãos (Aymoré)	119248
+756	P	Crackers de Queijo	119359
+757	P	Crackers	119671
+758	P	Crackers de Trigo	119948
+759	P	Crackers de Trigo Integral	120188
+760	P	Torradinha de Centeio	120395
+761	P	Torradinha Melba	120714
+762	P	Torradinha de Trigo	120946
+763	P	Creme de Ricota Leve (Polenghi)	121113
+764	P	Sanduíche de Frango com Creme de Ricota (Pronto Light)	121212
+765	P	Creme de Ricota (Isis)	121262
+766	P	Creme de Ricota (Regina)	121362
+767	P	Creme de Ricota (Balkis)	121467
+768	P	Creme de Ricota Bovina (Laguna)	121551
+769	P	Creme de Ricota (Godam)	121651
+770	P	Maçã	121745
+771	P	Maçãs Fuji	122147
+772	P	Maçãs Gala	122548
+773	P	Maçã Verde	122949
+774	P	Maçãs Red Delicious	123141
+775	P	Torta de Maçã (Duas Crostas)	123531
+776	P	Cidra de Maçã	123891
+777	P	Suco de Maçã	124083
+778	P	Torta de Maçã (Uma Crosta)	124348
+779	P	Maçãs Braeburn	124630
+780	P	Pastel de Carne	125031
+781	P	Pastel de Queijo	125217
+782	P	Pastel Assado de Frango	125405
+783	P	Pastel de Queijo (Habib's)	125593
+784	P	Pastel de Carne (Habib's)	125696
+785	P	Pastel Assado Integral (Casa do Pão de Queijo)	125799
+786	P	Massa para Pastel de Forno (Massa Leve)	125859
+787	P	Massa para Pastel (Massa Leve)	125949
+788	P	Pastel Recheado com Batatas e Ervilhas (Frito)	126020
+789	P	Pastelaria Dinamarquesa	126228
+790	P	Suplemento Protéico em Pó	126621
+791	P	Suplemento Nutricional em Pó	126791
+792	P	Açaí	126972
+793	P	Açaí com Banana e Granola (Qualitá)	127109
+794	P	Açaí (Frooty)	127213
+795	P	Polpa de Açaí (Brasfrut)	127317
+796	P	Açaí (De Marchi)	127362
+797	P	Beauty Bar Frutas Vermelhas e Açaí (Beautyin)	127424
+798	P	Palmito Açaí (Qualitá)	127504
+799	P	Remix Açaí (Mãe Terra)	127571
+800	P	BARRA de CEREAIS com AÇAÍ, AMORA e GOIABA (Monama)	127642
+801	P	Maçã & Açaí (Frootiva)	127711
+802	P	Goji Berry	127822
+803	P	Goji Berry (Giroil)	127967
+804	P	Goji Berry (Natural Life)	128084
+805	P	Suco de Uva Tinto Integral (Bompreço)	128180
+806	P	Suco de Uva Integral (Aurora)	128230
+807	P	Suco de Uva Tinto Integral (Sinuelo)	128293
+808	P	Suco de Uva Integral (Do Bem)	128339
+809	P	Suco de Uva Branco Integral (Greenday)	128384
+810	P	Suco de Uva Tinto Integral (Aliança)	128442
+811	P	Coquetel de Suco de Oxicoco (Engarrafado)	128514
+812	P	Suco de Arando-Uva (Engarrafado)	128670
+813	P	Chocolate Alpino Diet (Nestlé)	128837
+814	P	Bolo de Chocolate (com Cobertura Glacé de Chocolate)	128932
+815	P	Bolo de Chocolate (sem Cobertura Glacé)	129111
+816	P	Xarope de Chocolate	129352
+817	P	Leite com Chocolate (Integral)	129550
+818	P	Leite com Chocolate (Gordura Reduzida)	129755
+819	P	Leite com Chocolate (Magro)	129947
+820	P	Biscoito Nesfit 3 Cereais (Nestlé)	130143
+821	P	Nesfit (Nestlé)	130271
+822	P	Nesfit Cacau e Cereais (Nestlé)	130403
+823	P	Nesfit Mel & Amêndoas (Nestlé)	130493
+824	P	Nesfit Original (Nestlé)	130616
+825	P	Biscoito Nesfit Integral (Nestlé)	130721
+826	P	Nesfit Morango e Cereais (Nestlé)	130838
+827	P	Biscoito Nesfit Aveia e Mel (Nestlé)	130948
+828	P	Nesfit & Frutas (Nestlé)	131032
+829	P	Nesfit Cookies Mel & Amêndoas (Nestlé)	131152
+830	P	Shake Morango Cremoso (Herbalife)	131239
+831	P	Shake Cookies & Cream (Herbalife)	131393
+832	P	Shake de Chocolate Cremoso (Herbalife)	131549
+833	P	Shake Baunilha (Herbalife)	131693
+834	P	Shake de Doce de Leite (Herbalife)	131846
+835	P	Diet Shake (Nutrilatina)	131962
+836	P	Shake Cookies & Cream (Herbalife)	132086
+837	P	Shake Zero (Linea)	132199
+838	P	Shake Piña Colada (Herbalife)	132310
+839	P	Shake Baunilha (Herbalife)	132448
+840	P	Semente de Chia (Sabor da Terra)	132511
+841	P	Semente de Chia (Ceifeiro)	132605
+842	P	Chia em Grãos (Jasmine)	132683
+843	P	Farinha de Chia (Vitalin)	132807
+844	P	Grãos de Chia (Vida Boa)	132921
+845	P	Semente de Chia (Vitalin)	133032
+846	P	Chia em Grão (Giroil)	133148
+847	P	Farinha de Chia Estabilizada (Jasmine)	133249
+848	P	Sementes Chia Secas	133356
+849	P	Farinha de Chia (Arma Zen)	133456
+850	P	Iogurte Light Morango (Molico)	133566
+851	P	Iogurte Light (Itambé)	133642
+852	P	Iogurte Light Morango (Molico)	133697
+853	P	Iogurte Desnatado com Mel Light (Ati Latte)	133770
+854	P	Iogurte Grego Light Tradicional (Nestlé)	133869
+855	P	Iogurte Morango Light (Frimesa)	133994
+856	P	Iogurte Corpus Light (Danone)	134077
+857	P	Iogurte Morango Light (Verde Campo)	134161
+858	P	Iogurte Plenna Light Morango (Piá)	134228
+859	P	Iogurte de Frutas (Magro, 11g de Proteína por 240g)	134295
+860	P	Belvita Avelã e Cacau (Belvita)	134476
+861	P	Mel e Cacau (Belvita)	134573
+862	P	Biscoito Ao Leite com Grãos de Aveia (Belvita)	134672
+863	P	Coco, Gotas de Cacau e Cereais (Belvita)	134756
+864	P	Ao Leite com Graos de Aveia (Belvita)	134858
+865	P	Bom Dia Avelã e Cacau (Belvita)	134968
+866	P	Carne de Peru (Cozido, Assado)	135065
+867	P	Pele e Carne do Peito de Peru (Cozido, Assado)	135299
+868	P	Pernil Assado	135503
+869	P	Bacon (Curado, Grelhado, Frito ou Assado, Cozido)	135632
+870	P	Grumos de Trigo-Sarraceno (Cozido, Assado)	135832
+871	P	Peito de Frango (Assado no Forno, sem Gordura, Fatiado)	136013
+872	P	Carne do Peito de Frango (Assado, Cozido)	136144
+873	P	Carne da Sobrecoxa de Frango (Assado, Cozido)	136406
+874	P	Pele e Carne da Asa de Frango (Assado, Cozido)	136711
+875	P	Carne de Frango Light (Assado, Cozido)	136998
+876	P	Milho Doce Amarelo	137257
+877	P	Milho Doce Amarelo (Miolo Inteiro, Sólidos Escorridos, Enlatado)	137614
+878	P	Milho Doce Amarelo (Miolo Cortado, Congelado)	137840
+879	P	Milho Doce Branco (Congelado)	138038
+880	P	Muffins Ingleses de Trigo Integral	138245
+881	P	Bolos de Arroz Integral	138410
+882	P	Doces de Chocolate (Doce)	138590
+883	P	Pão de Forma (Pullman)	138708
+884	P	Pão de Forma (Wickbold)	138766
+885	P	Pão de Forma (Pullman)	138846
+886	P	Pão de Forma (Seven Boys)	138903
+887	P	Pão de Forma Integral Light (Pullman)	138985
+888	P	Pão de Forma (Tradição)	139068
+889	P	Pão de Forma Original (Plus Vita)	139126
+890	P	Pão de Forma Integral (Trigo Vita)	139188
+891	P	Pão de Forma Light 7 Grãos (Pullman)	139257
+892	P	Pao de Forma Premium (Panco)	139345
+893	P	Pão de Aipim (Bem Nutrir)	139427
+894	P	Pão de Milho (Bolo de Milho) (Mistura Seca)	139509
+895	P	Tortilhas de Farinha	139625
+896	P	Farinha de Milho	139959
+897	P	Farinha de Trigo Branca (para Todos os Fins)	140139
+898	P	Bis (Lacta)	140271
+899	P	Bis Xtra (Lacta)	140333
+900	P	Pingo de Leite (Biba)	140405
+901	P	Biscoito de Trigo Integral	140469
+902	P	Biscoito com Molho	140831
+903	P	Cerejas Bing	141025
+904	P	Bife a Milanesa	141278
+905	P	Bisque de Tomate	141530
+906	P	Bisteca de Porco Grelhada	141730
+907	P	Grão-de-Bico	142101
+908	P	Sanduíche de Giro (Pão Pita, Carne de Vaca, Carne de Cordeiro, Cebola, Condimentos com Tomate e Outros)	142433
+909	P	Sanduíche de Frango tipo Fajita com Queijo, Tomate e Alface em Pão Pita	142608
+910	P	Sanduíche de Carne de Vaca no Churrasco ou Sloppy Joe no Pão	142799
+911	P	Sanduíche Super LV (Pão de Açúcar)	142999
+912	P	Pão de Sanduíche Leve (Seven Boys)	143056
+913	P	Sanduíche de Presunto e Queijo (Pão de Açúcar)	143135
+914	P	Suco de Maçã (Enlatado ou Engarrafado)	143235
+915	P	Suco de Maçã (Concentrado Congelado, Diluído em Água)	143439
+916	P	Suco de Oxicoco-Maçã (Engarrafado)	143610
+917	P	Torta de Maçã	143761
+918	P	Pão de Banana (com Margarina)	143926
+919	P	Aveia	144080
+920	P	Guaraná (Antarctica)	144210
+921	P	Guaraná (Antarctica)	144281
+922	P	Guaraná (Kuat)	144341
+923	P	Guaraná em Pó (Mãe Terra)	144403
+924	P	Guarana Zero (Antarctica)	144481
+925	P	Guaraná (Dolly)	144543
+926	P	Guaraná Natural (Guaracamp)	144593
+927	P	Sanduíche Natural Peito de Peru e Salada (Taeq)	144650
+928	P	Sanduíche Natural de Frango com Milho (Naturalle)	144738
+929	P	Sanduíche Natural de Atum (Naturalle)	144852
+930	P	Sanduíche Natural de Atum e Salada (Taeq)	144952
+931	P	Sanduíche Natural de Peito de Peru (Naturalle)	145060
+932	P	Risoto de Queijo	145167
+933	P	Risoto de Funghi	145351
+934	P	Risoto de Frango	145540
+935	P	Risoto de Camarão	145729
+936	P	Risoto à Parmigiana (Tio João)	145912
+937	P	Risoto Milanês (Tio João)	146011
+938	P	Risoto à Valligiana (Tio João)	146120
+939	P	Risoto Primavera com Frango (Sadia)	146232
+940	P	Risoto de Camarão (Vivenda do Camarão)	146342
+941	P	Risoto de Frango (Congelados da Sônia)	146456
+942	P	Proteína de Soja Isolada	146587
+943	P	Molho de Soja (Shoyu)	146688
+944	P	Molho de Soja (Tamari)	146923
+945	P	Soja (Queijo Curd)	147126
+946	P	Soja (Sementes Maduras, Cozido a Vapor, Cozido)	147242
+947	P	Soja (Maduro, sem Sal, Cozido, Fervido)	147421
+948	P	Mel Orgânico (Apis Vida)	147607
+949	P	Mel	147681
+950	P	Pimentão Verde	147841
+951	P	Feijão Preto (Semente Madura, com Sal, Cozido, Fervido)	148226
+952	P	Tabletes de Chocolate Preto Especiais	148381
+953	P	Mistura de Vegetais (Milho, Feijão Verde, Ervilhas, Cenouras) (sem Sal, Enlatado)	148605
+954	P	Feijão Verde	148786
+955	P	Feijão Verde (Sólido e Líquido, Enlatado)	149013
+956	P	Goiaba	149193
+957	P	Pinha	149378
+958	P	Chuchu (Fruta, com Sal, Escorrido, Fervido, Cozido)	149566
+959	P	Carne de Vaca da Costela (Parte Final e Pequena, Cortada até 0 cm de Gordura)	149732
+960	P	Salada de Frutas Tropical (Abacaxi, Papaia, Banana e Goiaba, Sólidos e Líquidos, em Calda Forte, Enlatada)	149834
+961	P	Carne de Vaca do Filé de Costela (Parte Final e Pequena, Magra, Cortada até 0 cm de Gordura)	149991
+962	P	Biscoito Integral Salgado com Gergelim (Nestlé)	150094
+963	P	Biscoito Salgado Integral (Parati)	150219
+964	P	Biscoito Salgado Integral (Panco)	150310
+965	P	Biscoito Salgado Cracker Integral (Isabela)	150388
+966	P	Arroz Integral (Longo, Cozido)	150480
+967	P	Arroz Integral (Médio, Cozido)	150613
+968	P	Macarrão de Trigo Integral Seco	150783
+969	P	Espaguete de Trigo Integral (Cozido)	150887
+970	P	Queijo Mozzarella (Leite Integral)	151071
+971	P	Pão de Queijo	151268
+972	P	Pão de Queijo Tradicional (Forno de Minas)	151481
+973	P	Pão de Queijo Coquetel (Forno de Minas)	151546
+974	P	Pão de Queijo (Sadia)	151617
+975	P	Pão de Queijo (McDonald's)	151684
+976	P	Pão de Queijo (Pif Paf)	151749
+977	P	Bolo Branco (sem Cobertura Glacé)	151814
+978	P	Bolo Amarelo (com Cobertura Glacé de Chocolate)	152066
+979	P	Bolo Amarelo (com Cobertura Glacé de Baunilha)	152242
+980	P	Pão-de-Ló	152422
+981	P	Cheesecake	152594
+982	P	Cones de Sorvete (tipo Bolo ou Wafer)	152773
+983	P	Coquetel de Suco de Oxicoco (Concentrado Congelado, com Água)	152967
+984	P	Sopa de Frango e Vegetais (com Volume Igual de Água, Enlatado)	153088
+985	P	Sopa de Vegetais (com Volume Igual de Água, Enlatado)	153275
+986	P	Pamonha	153458
+987	P	Coquetel de Suco de Vegetais (Enlatado)	153634
+988	P	Mistura de Vegetais (Sólidos e Líquidos, Enlatado)	153821
+989	P	Mistura de Vegetais (Sólidos Escorridos, Enlatado)	153992
+990	P	Mistura de Vegetais (Congelado)	154166
+991	P	Sopa de Vegetais com Pedaços (Enlatado)	154324
+992	P	Sopa de Vegetais (Enlatado, Condensado)	154505
+993	P	Pão de Aveia Light (Firenze)	154685
+994	P	Pão de Aveia Light (Benevitta)	154772
+995	P	Pão Integral Light Iogurte e Aveia (Seven Boys)	154830
+996	P	Pão de Aveia (Extra)	154911
+997	P	Pão Integral com Linhaça e Aveia (Vale do Sol)	154973
+998	P	Pão Premium Light Aveia (Panco)	155041
+999	P	Pão de Forma Light Aveia Integral (Wickbold)	155104
+1000	P	Pão Light Aveia Integral (Wickbold)	155187
+1001	P	Pão Aveia Light (Pane Vita)	155257
+1002	P	Ameixa Seca sem Caroço (Estrela do Oriente)	155324
+1003	P	Geléia de Ameixa (Queensberry)	155401
+1004	P	Stick de Ameixa Passa (Mandara)	155471
+1005	P	Light Ameixa (Molico)	155559
+1006	P	Barra de Cereais Castanha do Brasil e Ameixa (Montevérgine)	155645
+1007	P	Belle Light Ameixa (Betânia)	155712
+1008	P	Naturis Soja Ameixa (Batavo)	155765
+1009	P	Sprite Zero (Sprite)	155845
+1010	P	Sprite Zero (Lata) (Sprite)	155893
+1011	P	Cerveja (Skol)	155986
+1012	P	Cerveja	156069
+1013	P	Cerveja Heineken (Heineken)	156234
+1014	P	Cerveja (Stella Artois)	156293
+1015	P	Brahma Chopp (Brahma)	156358
+1016	P	Urweiss (Erdinger)	156404
+1017	P	Cerveja Malzbier (Brahma)	156470
+1018	P	Cerveja Light Pilsen (Itaipava)	156527
+1019	P	Cookie de Aveia Maçã e Canela (50g) (Quaker)	156607
+1020	P	Cookie de Aveia Maça e Canela (Quaker)	156677
+1021	P	Cookie de Aveia Maçã e Canela (40g) (Quaker)	156790
+1022	P	Refrigerante (Coca-Cola)	156860
+1023	P	Sprite Refrigerante (Sprite)	156912
+1024	P	Sequilhos (Seven Boys)	156969
+1025	P	Sequilhos (Vale D'ouro)	157079
+1026	P	Sequilhos (Nazinha)	157160
+1027	P	Sequilhos de Coco (Leve Crock)	157235
+1028	P	Sequilhos de Ameixa (Leve Crock)	157306
+1029	P	Sequilhos de Chocolate (Sabor Vital)	157373
+1030	P	Ameixas	157439
+1031	P	Ameixa Seca	157657
+1032	P	Cookies Integrais Diet Ameixa Preta e Coco (Jasmine)	157916
+1033	P	Torrada Integral (Bauducco)	158028
+1034	P	Torrada Integral (Wickbold)	158139
+1035	P	Torrada 10 Grãos Light Integral (Wickbold)	158248
+1036	P	Torrada Integral (Brother's)	158342
+1037	P	Torrada Integral (Visconti)	158445
+1038	P	Torrada Integral (DIA)	158563
+1039	P	Linhaça Dourada Farinha Estabilizada (Jasmine)	158666
+1040	P	Linhaça Dourada em Grãos (Jasmine)	158769
+1041	P	Linhaça (Dicel)	158887
+1042	P	Semente de Linhaça (Mãe Terra)	158987
+1043	P	Linhaça (Yoki)	159062
+1044	P	Linhaça (Arma Zen)	159145
+1045	P	Mel (Hemmer)	159221
+1046	P	Mel Flores Silvestres (Queensberry)	159283
+1047	P	Mel (Yoki)	159380
+1048	P	Mel (Superbom)	159457
+1049	P	Pão de Mel (Aminna)	159513
+1050	P	Mostarda Preparada com Mel (Hemmer)	159614
+1051	P	Pão de Mel (Pan)	159697
+1052	P	Pão Integral 7 Grãos (Nutrella)	159802
+1053	P	Pão de Forma Integral 12 Grãos (Pullman)	159876
+1054	P	Pão Integral Original (Pullman)	159964
+1055	P	Queijo Minas	160033
+1056	P	Queijo Minas Frescal (Fazenda Bela Vista)	160229
+1057	P	Queijo Minas Padrão (Tirolez)	160313
+1058	P	Queijo Minas Frescal Light (Quatá)	160390
+1059	P	Queijo Minas Frescal Light (Sol Brilhante)	160474
+1060	P	Queijo Minas Padrao (Boa Nata)	160542
+1061	P	Queijo Minas Frescal (Tirolez)	160626
+1062	P	Queijo Minas Padrão (Piracanjuba)	160713
+1063	P	Queijo Minas Frescal (Quatá)	160787
+1064	P	Queijo Minas Frescal (Sol Brilhante)	160865
+1065	P	Cookies Chocco (Bauducco)	160950
+1066	P	Cookies Integrais Light de Castanha do Pará (Jasmine)	161057
+1067	P	Cookie Integral Cacau (Jasmine)	161193
+1068	P	Cookie de Aveia Granola (Quaker)	161305
+1069	P	Cookies Integrais com Nozes (Vitao)	161396
+1070	P	Cookies Sabor Chocolate (Bauducco)	161510
+1071	P	Cookie Baunilha com Gotas de Chocolate (Taeq)	161621
+1072	P	Cookie	161711
+1073	P	Pão de Queijo Recheado com Catupiry (Catupiry)	161908
+1074	P	Pães de Hambúrguer ou Cachorro Quente	161982
+1075	P	Pão Integral Light 7 Grãos (Pullman)	162126
+1076	P	Pão Italiano	162199
+1077	P	Mangas	162468
+1078	P	Manga Seca	162675
+1079	P	Néctar de Manga	162877
+1080	P	Frutare Manga (Kibon)	163066
+1081	P	Suco de Manga (Nutri Néctar)	163127
+1082	P	Suco de Manga (Maguary)	163205
+1083	P	Polpa de Manga (Brasfrut)	163260
+1084	P	Suco de Manga Light (Maguary)	163315
+1085	P	Manga Crocante (Jasmine)	163397
+1086	P	Sollys Soja + Manga (Nestlé)	163443
+1087	P	Cookie de Aveia Cacau e Avelã (50g) (Quaker)	163509
+1088	P	Suco de Uva	163592
+1089	P	Suco de Uva (Del Valle)	163786
+1090	P	Suco de Uva Light (Del Valle)	163838
+1091	P	Suco de Uva Light (Sufresh)	163915
+1092	P	Suco de Uva (Dafruta)	163986
+1093	P	Suco de Uva (Casa Madeira)	164036
+1094	P	Suco de Uva Light (Maguary)	164085
+1095	P	Suco de Uva (Sufresh)	164168
+1096	P	Suco de Uva (Camp)	164214
+1097	P	Laranja Lima	164272
+1098	P	Néctar de Laranja (Del Valle)	164495
+1099	P	Geléia de Laranja (Queensberry)	164553
+1100	P	Suco de Laranja (Do Bem)	164607
+1101	P	Néctar de Laranja (Qualitá)	164685
+1102	P	Maionese	164743
+1103	P	Maionese (Hellmann's)	165042
+1104	P	Maionese Light (Hellmann's)	165157
+1105	P	Maionese (Heinz)	165279
+1106	P	Maionese 0% Colesterol (Hellmann's)	165354
+1107	P	Maionese (Arisco)	165453
+1108	P	Maionese (The Fifties)	165557
+1109	P	Maionese (Maria)	165643
+1110	P	Maionese Azeitona (Hellmann's)	165735
+1111	P	Maionese Light (Liza)	165838
+1112	P	Suco de Abacaxi	165943
+1113	P	Suco de Morango	166131
+1114	P	Suco Verde	166304
+1115	P	Cookie de Aveia Cacau e Avelã (40g) (Quaker)	166491
+1116	P	Avelã	166568
+1117	P	Pão Francês sem Miolo	166769
+1118	P	Leite (sem Gordura)	166935
+1119	P	Pão Francês ou de Viena Torrado (com Fermento)	167124
+1120	P	Batatas (sem Casca, sem Sal, Fervido)	167348
+1121	P	Molho Francês para Saladas (sem Gordura)	167575
+1122	P	Queijo Cheddar ou Queijo Colby (Magro)	167772
+1123	P	Queijo Cheddar	167999
+1124	P	Queijo Colby	168300
+1125	P	Queijo Gouda	168569
+1126	P	Queijo Monterey	168713
+1127	P	Queijo Provolone	168966
+1128	P	Queijo Edam	169221
+1129	P	Queijo Ricota (Leite Integral)	169363
+1130	P	Purê de Batatas (com Leite Integral)	169501
+1131	P	Pepino (com Casca)	169690
+1132	P	Picles de Pepino com Endro (Baixo Teor de Sódio)	169885
+1133	P	Picles de Pepino com Endro	170034
+1134	P	Picles de Pepino Doce	170422
+1135	P	Picles de Pepino Azedo	170818
+1136	P	Pepino (Descascado)	171140
+1137	P	Manteiga Light (com Sal)	171494
+1138	P	Patê de Óleo-Manteiga Vegetal (Calorias Reduzidas)	171592
+1139	P	Patê de Óleo-Manteiga Vegetal (Calorias Reduzidas, com Sal)	171743
+1140	P	Mistura de Manteiga e Margarina (60% Óleo de Milho e 40% Manteiga)	171877
+1141	P	Manteiga (com Sal)	172109
+1142	P	Manteiga Batida (com Sal)	172381
+1143	P	Leite de Manteiga (Magro)	172649
+1144	P	Manteiga	172851
+1145	P	Purê de Batatas (com Leite Integral e Manteiga)	173123
+1146	P	Manteiga de Amendoim com Pedaços (com Sal)	173309
+1147	P	Pão Branco Torrado	173499
+1148	P	Pão Francês	173879
+1149	P	Pão de Leite	174221
+1150	P	Pão Integral Light (Wickbold)	174418
+1151	P	Pão Integral Light 7 Grãos (Nutrella)	174502
+1152	P	Pão de Trigo Integral	174594
+1153	P	Filé de Peito de Frango (Sadia)	174984
+1154	P	Filé de Peito de Frango (Seara)	175040
+1155	P	Filé de Peito de Frango (Aurora)	175093
+1156	P	Filezinho de Frango (Sadia)	175175
+1157	P	Filé de Frango (Montana)	175235
+1158	P	Geléia de Amora 100% Fruit (Queensberry)	175327
+1159	P	Geléia de Damasco 100% Fruit (Queensberry)	175402
+1160	P	Gomas (Pedaços de Geléia)	175477
+1161	P	Balas (Geléia)	175783
+1162	P	Iogurte de Morango (Activia)	175932
+1163	P	VO2 Barra de Proteína (Integralmedica)	175985
+1164	P	Barra de Proteína (Herbalife)	176067
+1165	P	Barra de Proteína Supreme (NeoNutri)	176167
+1166	P	Barra de Proteína (Nutrilatina)	176233
+1167	P	Barra de Proteína (Susteen)	176332
+1168	P	Barra de Proteina	176407
+1169	P	Barra de Proteína Brownie (Herbalife)	176621
+1170	P	Batatas (sem Casca, com Sal, Fervido)	176740
+1171	P	Batatas (Casca, com Sal, Fervido)	176966
+1172	P	Arroz com Galinha (Tio João)	177095
+1173	P	Fígado de Galinha	177204
+1174	P	Sopa de Galinha com Pedaços (Enlatado)	177320
+1175	P	Caldo de Galinha	177513
+1176	P	Cereais de Arroz (Enriquecido)	177677
+1177	P	Atum Ralado Ao Natural Light (Gomes da Costa)	177811
+1178	P	Atum Pedaços Light (Coqueiro)	177937
+1179	P	Atum Sólido Ao Natural Light (Gomes da Costa)	178036
+1180	P	Atum Ralado Light (Coqueiro)	178107
+1181	P	Atum em Pedaços Ao Natural Light (Gomes da Costa)	178201
+1182	P	Atum Ralado Ao Natural Light (Beira-Mar)	178303
+1183	P	Atum Sólido Ao Natural Light (Gomes da Costa)	178397
+1184	P	Atum (Mania Light)	178504
+1185	P	Atum Sólido Ao Natural Light (Carrefour)	178610
+1186	P	Atum em Água (Enlatado)	178692
+1187	P	Beterraba (Sólidos Escorridos, Enlatado)	178938
+1188	P	Beterrabas em Conserva (Sólidos e Líquidos, Enlatado)	179250
+1189	P	Beterrabas	179434
+1190	P	Biscoito Integral (Nestlé)	179659
+1191	P	Biscoito Integral (Nestlé)	179757
+1192	P	Biscoito Banana com Canela Integral (Sentir Bem)	179860
+1193	P	Biscoito Cracker Integral Salt (Águia)	179958
+1194	P	Biscoito Integral Cereal Mix (Triunfo)	180045
+1195	P	Batom Branco (Garoto)	180181
+1196	P	Batom Ao Leite (Garoto)	180242
+1197	P	Batom 2 em 1 (Garoto)	180319
+1198	P	Ameixa Zero (Activia)	180387
+1199	P	Morango (Activia)	180445
+1200	P	Morango Zero Gordura (Activia)	180498
+1201	P	Iogurte de Morango Zero (Activia)	180598
+1202	P	Ameixa (Activia)	180660
+1203	P	Aveia (Activia)	180721
+1204	P	Tradicional (Activia)	180774
+1205	P	Aveia Zero (Activia)	180827
+1206	P	Sucrilhos (Kellogg's)	180887
+1207	P	Granola	180949
+1208	P	Cereal	181139
+1209	P	Barra de Cereais Morango (Nestlé)	181322
+1210	P	Barra de Cereais Trufa (Nutry)	181392
+1211	P	Light Morango com Chocolate (Trio)	181453
+1212	P	Corn Flakes (Kellogg's)	181520
+1213	P	Leite de Cacau Quente	181642
+1214	P	Cacau em Pó (Não Adocicado)	181816
+1215	P	Cebolas	181997
+1216	P	Pipoca Branca (em Óleo)	182392
+1217	P	Suco de Toranja Branca	182525
+1218	P	Anéis de Cebola (Empanado e Frito)	182734
+1219	P	Cebolas Doces	182905
+1220	P	Bagels (inclui Cebola, Papoila, Sésamo)	183013
+1221	P	Batatas Fritas com Sabor a Creme Azedo e Cebola	183300
+1222	P	Cappuccino	183412
+1223	P	Cappuccino Classic (3 Corações)	183693
+1224	P	Cappuccino Chocolate (3 Corações)	183761
+1225	P	Cappuccino (Dolce Gusto)	183833
+1226	P	Cappuccino Tradicional (Nescafé)	183927
+1227	P	Cappuccino Light (3 Corações)	184008
+1228	P	Capuccino Chocolate (3 Corações)	184104
+1229	P	Cappuccino Pronto Chocolate (3 Corações)	184176
+1230	P	Cappuccino Shake (Café Pelé)	184280
+1231	P	Carne de Porco Assada	184361
+1232	P	Costeleta de Porco Frita	184723
+1233	P	Carne de Porco do Lombo (Filé)	185098
+1234	P	Carne de Porco	185204
+1235	P	Carne de Porco do Lombo (Lombo, Magra)	185579
+1236	P	Linguiça Toscana (Aurora)	185689
+1237	P	Costeleta de Porco no Forno ou Grelhada	185762
+1238	P	Linguiça Defumada Fininha (Seara)	186137
+1239	P	Coco Seco	186187
+1240	P	Água-Viva (Seco com Sal)	186295
+1241	P	Rocambole Doce de Leite (Angeloni)	186462
+1242	P	Rocambole Sabor Chocolate (Bauducco)	186535
+1243	P	Requeijão Cremoso (Poços de Caldas)	186623
+1244	P	Requeijão Cremoso Light (Batavo)	186730
+1245	P	Requeijão Cremoso (Nestlé)	186806
+1246	P	Requeijão Cremoso Light (Danubio)	186898
+1247	P	Requeijão Tradicional (Itambé)	186977
+1248	P	Requeijão Light (Vigor)	187064
+1249	P	Requeijão Cremoso Light (Poços de Caldas)	187152
+1250	P	Requeijão Cremoso Light (Aviação)	187223
+1251	P	Requeijao (Crioulo)	187357
+1252	P	Peixe Empanado Frito	187433
+1253	P	Peixe Cação	187832
+1254	P	Peixe-Gato Empanado Frito	187945
+1255	P	Peixe-Espada	188342
+1256	P	Halibute do Atlântico e Pacífico (Peixe) (Cozido, em Calor Seco)	188528
+1257	P	Albacora (Peixe)	188690
+1258	P	Tilápia (Peixe) (Cozido,em Calor Seco)	188873
+1259	P	Filé de Peixe no Forno ou Grelhado	188983
+1260	P	Peixe no Forno ou Grelhado	189232
+1261	P	Peixe Grelhado	189625
+1262	P	Peixe	190017
+1263	P	Moqueca de Peixe	190156
+1264	P	Filet Saint Peter (Carrefour)	190333
+1265	P	Filé de Peixe Empanado	190386
+1266	P	Merluza	190673
+1267	P	Picanha	191062
+1268	P	Picanha sem Gordura	191269
+1269	P	Picanha (Friboi)	191430
+1270	P	Sanduba X-Picanha com Molho Barbecue (Perdigão)	191490
+1271	P	Gran Picanha (Bob's)	191596
+1272	P	Hot Pocket X-Picanha (Sadia)	191709
+1273	P	Bob's Picanha (Bob's)	191817
+1274	P	Prato do Chef Picanha (Bob's)	191924
+1275	P	BK Picanha (Burger King)	192013
+1276	P	X-Picanha com Barbecue (Perdigão)	192112
+1277	P	Popcorn Manteiga de Cinema (Yoki)	192218
+1278	P	Pipoca Natural com Sal (Yoki)	192311
+1279	P	Pipoca	192397
+1280	P	Pipoca Manteiga Light (Yoki)	192563
+1281	P	Pipoca Sabor Manteiga (Yoki)	192634
+1282	P	Pipoca Doce (Magitlec)	192688
+1283	P	Pipocas (Óleo, Microondas)	192739
+1284	P	Pipoca Zero (Yoki)	192896
+1285	P	Pipoca Fitness (Maroca)	192974
+1286	P	Sonho com Doce de Leite (Angeloni)	193062
+1287	P	Sonho de Valsa Mais (30g) (Lacta)	193129
+1288	P	Sonho de Valsa Branco (Lacta)	193225
+1289	P	Sonho de Valsa Mais (22g) (Lacta)	193327
+1290	P	Sonho de Valsa (Kraft)	193425
+1291	P	Sorvete Sonho de Valsa (Kibon)	193535
+1292	P	Sopa Batata com Carne (Vono)	193628
+1293	P	Sopa de Champignon (Vono)	193693
+1294	P	Sopa Peito de Frango com Queijo (Vono)	193799
+1295	P	Sopa de Abóbora com Carne (Vono)	193860
+1296	P	Sopa Espinafre com Queijo (Vono)	193930
+1297	P	Sopa de Milho com Torradinhas (Vono)	194015
+1298	P	Sopa de Queijo com Tomate e Manjericão (Vono)	194121
+1299	P	Sopa Batata com Carne (Vono)	194198
+1300	P	Sopa Individual Champignon (Vono)	194308
+1301	P	Suco de Laranja (Naturale)	194395
+1302	P	Suco de Maracujá (Nutri Néctar)	194461
+1303	P	Suco de Abacaxi sem Açúcar (Casa do Pão de Queijo)	194521
+1304	P	Suco Misto de Abacaxi com Hortelã (Do Bem)	194593
+1305	P	Suco de Abacaxi com Hortelã Light (Bela Ischia)	194662
+1306	P	Suco de Abacaxi (Jandaia)	194725
+1307	P	Suco de Laranja com Abacaxi (Hortifruti)	194773
+1308	P	Suco de Abacaxi (Del Valle)	194827
+1309	P	Suco de Abacaxi (Maguary)	194888
+1310	P	Abacaxi (Sólidos e Líquidos, em Suco, Enlatado)	194978
+1311	P	Pedaços de Abacaxi (Adocicado, Congelado)	195244
+1312	P	Biscoito Salgado Drink (Piraquê)	195425
+1313	P	Biscoito de Polvilho Salgado (Carrefour)	195518
+1314	P	Biscoito Salgado Cracker de Gergelim (Adria)	195605
+1315	P	Biscoito Salgado Água Light (Piraquê)	195693
+1316	P	Amendoin Torrado e Salgado (Dori)	195763
+1317	P	Biscoito Salgado com Gergelim (Tostines)	195857
+1318	P	Lasanha de Presunto e Queijo Ao Sugo (Sadia)	195958
+1319	P	Lasanha com Carne	196066
+1320	P	Lasanha de Frango ou Peru	196406
+1321	P	Lasanha à Bolonhesa (Sadia)	196748
+1322	P	Lasanha Quatro Queijos (Massa Leve)	196837
+1323	P	Lasanha Quatro Queijos (Sadia)	196922
+1324	P	Lasanha de Berinjela	197028
+1325	P	Lasanha sem Carne	197208
+1326	P	Lasanha de Frango (Massa Leve)	197611
+1327	P	Lasanha sem Carne com Vegetais	197709
+1328	P	Leite Integral (Parmalat)	198111
+1329	P	Leite UHT Integral (Elegê)	198176
+1330	P	Leite Integral (Piracanjuba)	198236
+1331	P	Leite Integral (Itambé)	198292
+1332	P	Leite Integral (Italac)	198356
+1333	P	Leite UHT Integral (Batavo)	198410
+1334	P	Leite Ninho Integral (Nestlé)	198474
+1335	P	Cupcakes com Cobertura Glacé (Baixo Teor de Gordura)	198546
+1336	P	Pipocas com Sabor a Queijo	198701
+1337	P	Batatas Fritas com Sabor a Churrasco	198855
+1338	P	Limão	198968
+1339	P	Molho para Salada Limão (Liza)	199324
+1340	P	Mousse de Limão (Dr. Oetker)	199419
+1341	P	Frutare Limão (Kibon)	199522
+1342	P	Levisse Limão (Bonafont)	199579
+1343	P	Kani Kama (Frescatto)	199640
+1344	P	Kani Kama	199730
+1345	P	Kani Kama (Costa Sul)	199845
+1346	P	Ovo Frito	199912
+1347	P	Ovo Frito sem Gordura	200211
+1348	P	Ovo Mexido	200509
+1349	P	Maionese (Calorias Reduzidas ou Dieta, sem Colesterol)	200668
+1350	P	Maionese (Baixas Calorias)	200848
+1351	P	Maionese (sem Colesterol)	201039
+1352	P	Pense Zero Vitamina (Batavo)	201218
+1353	P	Pense Zero Maracujá (Batavo)	201301
+1354	P	Pense Zero Graviola (Batavo)	201372
+1355	P	Bebida Láctea Pense Zero (Batavo)	201429
+1356	P	Pense Zero Batido com Mel (Batavo)	201486
+1357	P	Pense Zero Batido com Mel (Batavo)	201563
+1358	P	Batata Assada	201632
+1359	P	Batata Assada (Cozinhado sem Gordura Adicionada)	201991
+1360	P	Batatas Fritas	202373
+1361	P	Batata Gratinada	202764
+1362	P	Salada de Batata	202996
+1363	P	Batata no Forno (Casca Não Consumida)	203170
+1364	P	Batata Doce Cozida	203554
+1365	P	Batatas (com Casca, sem Sal, no Microondas)	203750
+1366	P	Batatas Brancas (com Casca)	203966
+1367	P	Bolo Floresta Negra	204327
+1368	P	Bolo de Chocolate (Panco)	204559
+1369	P	Bolo Nega Maluca (Giassi)	204652
+1370	P	Cupcake de Chocolate com Cobertura Glacé ou Recheio	204734
+1371	P	Mini Bolo Chocolate (Pullman)	205118
+1372	P	Pão de Ló de Chocolate	205189
+1373	P	Cupcake de Chocolate	205543
+1374	P	Cenoura com Chocolate (Ana Maria)	205829
+1375	P	Bolo de Laranja (Pullman)	205900
+1376	P	Bolo de Laranja (Renata)	205990
+1377	P	Bolo de Laranja (Bauducco)	206075
+1378	P	Bolo de Laranja (Panco)	206169
+1379	P	Bolo de Caneca Laranja (Dr. Oetker)	206253
+1380	P	Bolo de Laranja (Nutrella)	206349
+1381	P	Bombom Sonho de Valsa (Lacta)	206427
+1382	P	Carpaccio de Carne	206536
+1383	P	Carne de Vaca da Fraldinha (Magra, Cortada até 0 cm de Gordura)	206633
+1384	P	Carne de Vaca do Coxão (Bife, apenas Parte Magra, Cortada até 0 cm de Gordura)	206762
+1385	P	Carne de Vaca da Ponta de Agulha (Cortada até 0,5 cm de Gordura)	206887
+1386	P	Bolo de Banana	206999
+1387	P	Batata Doce	207164
+1388	P	Batata-Doce (Puré, Enlatado)	207343
+1389	P	Fatias de Presunto Deli	207559
+1390	P	Queijo Suíço	207861
+1391	P	Maçãs	208159
+1392	P	Maçãs (sem Casca)	208553
+1393	P	Macadâmia	208780
+1394	P	Nozes Macadâmia Torradas e Secas (com Sal)	208955
+1395	P	Ameixa Seca sem Caroço (Uniagro)	209132
+1396	P	Caçarola de Brócolis (Brócolis, Arroz, Queijo e Molho de Cogumelos)	209196
+1397	P	Arroz Integral e Selvagem Aromatizado	209386
+1398	P	Bebida de Arroz Mexicana (Horchata)	209573
+1399	P	Arroz Espanhol	209765
+1400	P	Arroz Mexicano	209945
+1401	P	Sopa de Arroz com Frango	210129
+1402	P	Arroz Frito Chinês	210336
+1403	P	Ameixa Zero Gordura (Activia)	210525
+1404	P	Glyco Waxy Maize (Performance Nutrition)	210633
+1405	P	Barra de Cereais Banana com Aveia e Mel (Trio)	210694
+1406	P	Barra de Cereal Banana com Aveia e Mel Light (Trio)	210752
+1407	P	Beirute (Habib's)	210816
+1408	P	Beirute de Peru (Casa do Pão de Queijo)	210921
+1409	P	Beirute de Peru (Almanara)	210997
+1410	P	Beirute Peito de Peru Defumado Fifties® (The Fifties)	211060
+1411	P	Barra de Cereal Torta de Limao (Quaker)	211164
+1412	P	Barra de Cereal Torta de Limão (Quaker)	211268
+1413	P	Barra de Cereal 7 Grãos (Quaker)	211363
+1414	P	Barra de Cereal Laranja e Acerola (Quaker)	211451
+1415	P	Barra de Cereal Castanha e Chocolate (Quaker)	211539
+1416	P	Barra De Cereal Torta De Morango (Quaker)	211663
+1417	P	Barra de Cereal Banana e Chocolate (Quaker)	211793
+1418	P	Barra de Cereal 7 Grãos Light Pêssego (Quaker)	211934
+1419	P	Barras de Cereal Light Abacaxi com Hortelã (Quaker)	212069
+1420	P	Ponche de Frutas (Concentrado Congelado, com Água)	212158
+1421	P	Limonada Rosa (Concentrado Congelado, com Água)	212312
+1422	P	Água de Coco + Tangerina (Sococo)	212460
+1423	P	Cenouras	212503
+1424	P	Cenouras Cozidas	212899
+1425	P	Cenoura (Spoleto)	213289
+1426	P	Mini-Cenouras	213365
+1427	P	Cenouras (Congelado)	213547
+1428	P	Suflê de Cenoura	213764
+1429	P	Cenouras Baby (D'aucy)	213926
+1430	P	Barra de Cereal Light Maracujá e Manga (Quaker)	214038
+1431	P	Feijão Fradinho (Camil)	214108
+1432	P	Feijão Verde (Sólidos Escorridos, Enlatado)	214184
+1433	P	Feijão Verde (Congelado)	214399
+1434	P	Tangerinas	214593
+1435	P	Tangerina	214906
+1436	P	Mexerica	215282
+1437	P	Suco de Tangerina (Hortifruti)	215634
+1438	P	Suco Zero Tangerina (Yoki)	215678
+1439	P	Polpa de Tangerina (Brasfrut)	215738
+1440	P	Picolé de Tangerina (Sorvete Itália)	215791
+1441	P	Suco de Tangerina Integral (Do Bem)	215863
+1442	P	Tangerina (Enlatado ou Congelado)	215917
+1443	P	Suco de Tangerina (Suvalan)	216104
+1444	P	Picolé Molico Frutas Vermelhas (Nestlé)	216162
+1445	P	Picolé Molico Frutas Amarelas (Nestlé)	216290
+1446	P	Picolé Frutas Vermelhas (Molico)	216400
+1447	P	Picolé de Iogurte com Frutas Vermelhas (Diletto)	216509
+1448	P	Fruttare Limão (Kibon)	216580
+1449	P	Picolé Fruttare Coco (Kibon)	216653
+1450	P	Fruttare Abacaxi (Kibon)	216731
+1451	P	Picolé	216788
+1452	P	Picolé de Uva (La Frutta)	216960
+1453	P	Fruttare Caseiro Morango (Kibon)	217040
+1454	P	Picolé Chicabon (Kibon)	217137
+1455	P	Picolé Fruttare de Maracujá (Kibon)	217233
+1456	P	Picolé Leite Condensado (Kibon)	217301
+1457	P	Enrolado de Presunto e Queijo	217396
+1458	P	Empadas de Presunto (Curado)	217585
+1459	P	Presunto Fatiado (Normal, Aprox. 11% de Gordura)	217756
+1460	P	Abóbora Seca e Sementes de Abóbora sem Casca	217950
+1461	P	Iogurte de Baunilha (Magro)	218114
+1462	P	Iogurte de Frutas (Magro, 9g de Proteína por 240g)	218306
+1463	P	Iogurte Congelado de Baunilha (Textura Macia)	218498
+1464	P	Iogurtes Congelados de Chocolate (Soft Serve)	218664
+1465	P	Iogurte Grego Morango (120g) (Batavo)	218812
+1466	P	Sopa Creme de Abóbora (Taeq)	218891
+1467	P	Sopa Instantânea de Abóbora com Queijo (Taeq)	218968
+1468	P	Abóbora	219064
+1469	P	Sopa Tropical de Abóbora (Congelados da Sônia)	219246
+1470	P	Snack de Soja Ervas Finas (Good Soy)	219379
+1471	P	Snacks Integrais Queijo (Vitao)	219462
+1472	P	RVL Snack Bar (MonaVie)	219532
+1473	P	Snack de Soja (Good Soy)	219630
+1474	P	Snack Multicereal Original (Inspire)	219708
+1475	P	Snack de Cereais com Maçã e Banana (Monama)	219778
+1476	P	Snack de Soja Pizza (Good Soy)	219871
+1477	P	Snack de Alga Marinha (Sea's Gift)	219941
+1478	P	Levíssimo Snack Multigrãos (Bauducco)	220008
+1479	P	Chokko Snack (Arcor)	220079
+1480	P	Cobertura Batida (Magro, Congelado)	220148
+1481	P	Suco de Morango (Sufresh)	220287
+1482	P	Suco de Morango (Habib's)	220338
+1483	P	Soja + Suco de Morango (Sufresh)	220419
+1484	P	Hortelã	220485
+1485	P	Suco de Manga (Del Valle)	220610
+1486	P	Suco de Manga (Tial)	220684
+1487	P	Suco de Manga Light (Del Valle)	220771
+1488	P	Suco de Manga Light (Sufresh)	220830
+1489	P	Suco de Pêssego Light (Del Valle)	220882
+1490	P	Suco de Pêssego (Del Valle)	220934
+1491	P	Suco de Pêssego (Camp)	221000
+1492	P	Soja + Suco de Pêssego (AdeS)	221056
+1493	P	Soja + Suco de Pêssego (AdeS)	221121
+1494	P	Soja + Suco de Pêssego (Sollys)	221192
+1495	P	Suco de Pêssego (Fruthos)	221261
+1496	P	Suco de Tomate	221319
+1497	P	Suco de Vegetais (excepto Tomate)	221461
+1498	P	Suco de Maçã (AdeS)	221653
+1499	P	Suco de Uva Zero (AdeS)	221737
+1500	P	Soja + Suco de Morango (AdeS)	221831
+1501	P	Suco de Laranja (AdeS)	221906
+1502	P	Ades Suco de Laranja Zero (AdeS)	221995
+1503	P	Soja + Suco de Abacaxi (AdeS)	222069
+1504	P	Soja + Suco de Maçã (AdeS)	222153
+1505	P	Suco de Abacaxi Light (Tial)	222223
+1506	P	Abacaxi (Sólidos e Líquidos, em Água, Enlatado)	222281
+1507	P	Pãozinho de Ricota (Substancia)	222544
+1508	P	Tapioca	222626
+1509	P	Tapioca (Goma de Mandioca Hidratada) (Akio)	222812
+1510	P	Tapioca Seca	222895
+1511	P	Pudins de Tapioca	223085
+1512	P	Papel de Arroz	223276
+1513	P	Pastel Integral de Palmito e Champignon (Mega Matte)	223496
+1514	P	Chá de Morango (Matte Leão)	223558
+1515	P	Serenata de Amor (Garoto)	223627
+1516	P	Bombom Serenata de Amor (Garoto)	223689
+1517	P	Biscoito Serenata de Amor (Garoto)	223758
+1518	P	Carne de Vaca Moída (80% Magra / 20% Gordura, Cozido, Grelhado)	223872
+1519	P	Carne de Vaca Moída (75% Magra / 25% Gordura)	224028
+1520	P	Carne de Vaca Moída (90% Magro / 10% Gordo, Cozido, Grelhado)	224158
+1521	P	Carne de Vaca à Bologna (Magro)	224374
+1522	P	Água e Sal (Vitarella)	224492
+1523	P	Manteiga com Sal (Tirolez)	224585
+1524	P	Mix de Cereais com Mel (Taeq)	224664
+1525	P	Manteiga com Sal Light (Balkis)	224742
+1526	P	Super Salada Caesar (Bob's)	224811
+1527	P	Salada Caesar (Bob's)	224915
+1528	P	Salada de Alface com Abacate, Tomate e / ou Cenouras	224975
+1529	P	Iogurte de Frutas (sem Gordura)	225152
+1530	P	Iogurte Grego com Calda de Morango (Nestlé)	225341
+1531	P	Iogurte Grego Light Morango (Nestlé)	225439
+1532	P	Iogurte Grego Zero Morango (Vigor)	225568
+1533	P	Iogurte Grego Morango (180g) (Batavo)	225624
+1534	P	Iogurte Grego 0% de Gordura Sabor Morango (Batavo)	225712
+1535	P	Leite em Pó Integral (Itambé)	225791
+1536	P	Leite em Pó Desnatado (Itambé)	225897
+1537	P	Leite em Pó Ideal (Nestlé)	225964
+1538	P	Leite em Pó Desnatado Molico (Nestlé)	226086
+1539	P	Leite em Pó Integral (La Serenisima)	226168
+1540	P	Leite Desnatado em Pó (Molico)	226277
+1541	P	Leite em Pó Desnatado (SanCor)	226370
+1542	P	Mistura de Cacau e Açúcar (com Leite Desnatado)	226441
+1543	P	Café com Leite (Nescafé)	226589
+1544	P	Leite Semidesnatado (Parmalat)	226695
+1545	P	Leite Semidesnatado (Piracanjuba)	226758
+1546	P	Leite Semidesnatado (Elegê)	226844
+1547	P	Leite Semidesnatado (Itambé)	226900
+1548	P	Leite Semidesnatado (Italac)	226964
+1549	P	Leite Semidesnatado (Tirol)	227028
+1550	P	Leite Semidesnatado (Paulista)	227095
+1551	P	Leite Semidesnatado (Italac)	227155
+1552	P	Leite Semidesnatado (Piá)	227229
+1553	P	Leite Semidesnatado (Lider)	227296
+1554	P	Macaxeira	227367
+1555	P	Macaxeira Cozida	227534
+1556	P	Bolo de Macaxeira	227704
+1557	P	Pudins de Banana	227894
+1558	P	Maionese de Leite (Hellmann's)	228004
+1559	P	Maionese Deleite (Hellmann's)	228071
+1560	P	Maionese de Atum (Hellmann's)	228182
+1561	P	Maionese Tártaro (Hellmann's)	228281
+1562	P	Maionese Limão (Hellmann's)	228398
+1563	P	Maminha	228502
+1564	P	Lima	228607
+1565	P	Bolo de Limão	228821
+1566	P	Iogurte com Sabor a Baunilha, Limão ou Café, sem Gordura	229222
+1567	P	Biscoito Recheado de Limão (Piraquê)	229433
+1568	P	Tartalete de Limão (Sabores Light)	229525
+1569	P	Salsicha de Carne de Porco Fresca	229615
+1570	P	Salame de Carne de Porco (Seco ou Duro)	229823
+1571	P	Salsicha de Carne de Porco (Defumado)	230038
+1572	P	Entrecosto de Carne de Porco	230235
+1573	P	Salsicha Italiana de Carne de Porco	230343
+1574	P	Costeletas de Carne de Porco (Topo do Lombo, sem Osso)	230493
+1575	P	Costeletas de Carne de Porco (Topo do Lombo, sem Osso, Magra)	230606
+1576	P	Linguiça Fininha (Sadia)	230719
+1577	P	Lingüiça Calabresa (Seara)	230787
+1578	P	Linguiça de Pernil (Frimesa)	230843
+1579	P	Linguiça de Frango	230909
+1580	P	Linguiça de Pernil (Aurora)	231067
+1581	P	Linguiça Calabresa Frescal (Sadia)	231142
+1582	P	Linguiça Fininha (Sadia)	231208
+1583	P	Linguiça Paio (Aurora)	231260
+1584	P	Jaca	231332
+1585	P	Iogurte Desnatado Com Adoçante (Molico)	231501
+1586	P	Iogurte Molico Firme (Nestlé)	231603
+1587	P	Iogurte Morango Zero Gorduras (Molico)	231690
+1588	P	Iogurte de Frutas Vermelhas Light (Molico)	231793
+1589	P	Iogurte Light (Molico)	231868
+1590	P	Iorgute Fit (Itambé)	231965
+1591	P	Requeijão Cremoso Light (Itambé)	232022
+1592	P	Requeijão Cremoso Light (Elegê)	232098
+1593	P	Requeijão Cremoso Light (Vigor)	232174
+1594	P	Requeijão Cremoso Light (Paulista)	232270
+1595	P	Requeijão Cremoso Tradicional (Vigor)	232338
+1596	P	Batatas Vermelhas (com Casca)	232436
+1597	P	Batatas Vermelhas (com Casca, no Forno)	232785
+1598	P	Hot Pocket X-Bacon (Sadia)	233060
+1599	P	Bacon (Curado)	233166
+1600	P	Bacon (Curado, no Forno, Cozido)	233417
+1601	P	Bacon (Curado, Microondas, Cozido)	233611
+1602	P	Bacon Vegetariano	233814
+1603	P	Bacon de Peru (Cozido)	234002
+1604	P	Macarrão de Trigo Integral	234178
+1605	P	Macarrão Integral Fusilli (Renata)	234455
+1606	P	Macarrão Integral Penne (Vilma)	234534
+1607	P	Macarrão Integral Espaguete 8 (Vilma)	234612
+1608	P	Macarrão Integral Parafuso (Vilma)	234694
+1609	P	Macarrão Integral Fusili 8 Grãos (Taeq)	234776
+1610	P	Macarrão Integral Penne (Taeq)	234849
+1611	P	Molho de Tomate	234941
+1612	P	Molho de Tomate (Fugini)	235117
+1613	P	Molho de Tomate Tradicional (Pomarola)	235223
+1614	P	Molho de Tomate Refogado (Predilecta)	235307
+1615	P	Molho de Tomate (Enlatado)	235403
+1616	P	Molho de Tomate Manjericão (Predilecta)	235583
+1617	P	Molho de Tomate Tarantella (Arisco)	235661
+1618	P	Molho de Tomate Light (Predilecta)	235746
+1619	P	Molho de Tomate Light (Quero)	235843
+1620	P	Molho de Tomate Tradicional (Fugini)	235932
+1621	P	Misto Quente	236038
+1622	P	Cachorro Quente	236224
+1623	P	Cachorro Quente com Chili	236374
+1624	P	Requeijão Light (Vigor)	236523
+1625	P	Pepsi (Pepsi)	236611
+1626	P	Pepsi Twist (Pepsi)	236683
+1627	P	Peixe-Espada Cozido	236767
+1628	P	Peito de Frango Empanado (LeBon)	237114
+1629	P	Cream Cheese Light (Philadelphia)	237204
+1630	P	Omelete ou Ovos Mexidos	237315
+1631	P	Omelete ou Ovos Mexidos com Queijo	237641
+1632	P	Omelete ou Ovos Mexidos com Vegetais	237921
+1633	P	Omelete ou Ovos Mexidos com Cebola, Pimentos, Tomates e Cogumelos	238226
+1634	P	Omelete ou Ovos Mexidos com Queijo e Presunto ou Bacon	238505
+1635	P	Omelete ou Ovos Mexidos com Bacon ou Presunto	238786
+1636	P	Arroz Parboilizado Polido (Tio João)	239042
+1637	P	Arroz Integral	239119
+1638	P	Arroz à Grega	239349
+1639	P	Arroz Amarelo	239534
+1640	P	Arroz 7 Cereais Integrais (Ráris)	239782
+1641	P	Protein Powder (Herbalife)	239895
+1642	P	Pão de Batata	239978
+1643	P	Bisnaguinha (Seven Boys)	240239
+1644	P	Queijo Cottage	240332
+1645	P	Cottage Lacfree (Verde Campo)	240554
+1646	P	Queijo Cottage Light (Taeq)	240628
+1647	P	Queijo Cottage (Porto Alegre)	240705
+1648	P	Queijo tipo Cottage (Canto de Minas)	240781
+1649	P	Queijo tipo Cottage (Ecila)	240851
+1650	P	Iogurte de Morango (Batavo)	240945
+1651	P	Corpus Light (Danone)	241047
+1652	P	Iogurte Natural	241129
+1653	P	Iogurte Desnatado (Nestlé)	241340
+1654	P	Iogurte Grego Tradicional (Nestlé)	241433
+1655	P	Kefir de Leite	241486
+1656	P	Danoninho (Danone)	241628
+1657	P	Iogurte de Morango (Danone)	241716
+1658	P	Corpus Light Morango (Frasco) (Danone)	241795
+1659	P	Geléia de Goiaba Diet (Queensberry)	241906
+1660	P	Geléia de Damasco Diet (Queensberry)	241976
+1661	P	Geléia Diet de Laranja (Taeq)	242046
+1662	P	Geléia de Abacaxi Diet (Ritter )	242114
+1663	P	Geléia de Goiaba Diet (Delakasa)	242188
+1664	P	Geléia Diet de Goiaba (Taeq)	242260
+1665	P	Geléia Diet de Amora (Taeq)	242331
+1666	P	Crunch Cereal (Nestlé)	242389
+1667	P	Carne do Peito de Frango	242493
+1668	P	Carne da Sobrecoxa de Frango	242712
+1669	P	Pele e Carne da Coxa de Frango	242992
+1670	P	Pele e Carne do Peito de Frango	243228
+1671	P	Carne do Peito de Frango (Frito, Cozido)	243493
+1672	P	Pele e Carne da Asa de Frango	243756
+1673	P	Almôndegas de Carne de Frango	244012
+1674	P	Granola De Cereais (Kobber)	244307
+1675	P	Granola Integral (Jasmine)	244392
+1676	P	Granola de Cereais Tradicional (Kobber)	244469
+1677	P	Granola (Tia Sônia )	244546
+1678	P	Granola Tradicional Light (Vitao)	244646
+1679	P	Kellness Muslix Tradicional (Kellogg's)	244748
+1680	P	Granola Light (Bela Ischia)	244846
+1681	P	Granola Integral Diet (Jasmine)	244919
+1682	P	Mix de Castanhas com Frutas (Tia Sônia )	245006
+1683	P	Aipim (Cozido)	245108
+1684	P	Mandioca	245226
+1685	P	Milho Doce Amarelo (Espigas, sem Sal, Congelado, Escorrido, Cozido, Fervido)	245417
+1686	P	Ovo Mexido (Inteiro, Cozido)	245636
+1687	P	Massa para Biscotos Simples ou de Manteiga de Leite (Menos Gordura)	245844
+1688	P	Massa Tortellini com Recheio de Queijo	246027
+1689	P	Mistura de Nozes Torradas e Secas (com Amendoins, com Sal)	246200
+1690	P	Soda de Cola ou Pimenta (com Cafeína, com Aspartame)	246361
+1691	P	Abacates	246502
+1692	P	Cottage (Entre Rios)	246737
+1693	P	Queijo tipo Cottage (Tirolez)	246838
+1694	P	Queijo Tipo Cottage (Boa Nata)	246896
+1695	P	Queijo Tipo Cottage (Tirolez)	246991
+1696	P	Queijo tipo Cottage (Quatá)	247071
+1697	P	Queijo tipo Cottage Light (Balkis)	247150
+1698	P	Queijo tipo Cottage (Porto Alegre)	247214
+1699	P	Cottage (Verde Campo)	247288
+1700	P	Pasta de Queijo tipo Cottage (Taeq)	247363
+1701	P	Queijo tipo Cottage (Balkis)	247453
+1702	P	Biscoitos Simples ou de Leite de Manteiga (Mistura Seca)	247523
+1703	P	Biscoitos Simples ou de Leite de Manteiga	247619
+1704	P	Banana	247893
+1705	P	Banana Prata	248294
+1706	P	Banana Nanica	248513
+1707	P	Banana Frita	248710
+1708	P	Banana-da-Terra Madura Fervida	248890
+1709	P	Barra de Cereais Banana Zero Açúcar (Ritter )	249136
+1710	P	Cookies Integrais Banana e Cacau (Mãe Terra)	249214
+1711	P	Barra de Fruta Banana Light (Nutry)	249306
+1712	P	Banana à Milanesa	249374
+1713	P	Sorvete de Chocolate (Kibon)	249611
+1714	P	Sorvete Napolitano (Kibon)	249695
+1715	P	Sorvete de Doce de Leite (Kibon)	249772
+1716	P	Belgian Chocolate (60g) (Häagen-Dazs)	249865
+1717	P	Sorvete de Frutas com Sabor Cítrico	249965
+1718	P	Casquinha Mista (McDonald's)	250081
+1719	P	Sorvete de Coco (Rochinha)	250197
+1720	P	Sorvete Doce de Leite (Häagen-Dazs)	250284
+1721	P	Ovo	250370
+1722	P	Doces de Chocolate (Meio Amargo)	250663
+1723	P	Doces de Chocolate Branco	250915
+1724	P	Doces de Chocolate de Leite	251063
+1725	P	Pudins de Chocolate	251244
+1726	P	Coberturas Glacé de Chocolate Cremoso	251438
+1727	P	Pudins de Chocolate (sem Gordura)	251612
+1728	P	Iogurte Grego Light Maracujá (Nestlé)	251714
+1729	P	Iogurte Grego Light (Vigor)	251844
+1730	P	Iogurte Grego Light Framboesa (Nestlé)	251905
+1731	P	Feijão Carioca (Quero)	252049
+1732	P	Feijão Carioca Cozido	252131
+1733	P	Feijão Preto	252298
+1734	P	Feijão Carioca (Camil)	252456
+1735	P	Feijão Preto (Camil)	252543
+1736	P	Feijão (Kicaldo)	252619
+1737	P	Feijão Carioquinha (Granfino)	252715
+1738	P	Leite Desnatado (Molico)	252806
+1739	P	Leite Desnatado (Parmalat)	252876
+1740	P	Leite Desnatado (Elegê)	252945
+1741	P	Leite Desnatado (Itambé)	252998
+1742	P	Leite Desnatado (Piracanjuba)	253064
+1743	P	Leite Desnatado (Italac)	253127
+1744	P	Leite Desnatado (Paulista)	253199
+1745	P	Leite Desnatado (Shefa)	253259
+1746	P	Leite Desnatado (Tirol)	253321
+1747	P	Leite Desnatado (Cotochés)	253381
+1748	P	Torrada Light (Bauducco)	253434
+1749	P	Magic Toast Light (Marilan)	253556
+1750	P	Biscoito Wafer Recheado Sabor Chocolate (Look)	253670
+1751	P	Donuts Cobertos com Chocolate	253773
+1752	P	Donuts de Chocolate com Açucar	254047
+1753	P	100% Whey Gold Standard (Optimum Nutrition)	254271
+1754	P	Bio Whey Protein (Performance Nutrition)	254353
+1755	P	Whey Protein (Isofort)	254444
+1756	P	Ultra Whey Protein (Universal)	254518
+1757	P	Iso Whey V3 (Nutrilatina)	254609
+1758	P	Torrada Salgada (Bauducco)	254729
+1759	P	Pão Torrado	254838
+1760	P	Torrada Levemente Salgada (2) (Bauducco)	255077
+1761	P	Torrada Light (Wickbold)	255160
+1762	P	Carambola	255276
+1763	P	Queijo Cottage (Magro, 1% Gordura de Leite, sem Sódio)	255609
+1764	P	Queijo Cottage (sem Gordura)	255738
+1765	P	Queijo Cottage (Magro - 2% Gordura de Leite)	255887
+1766	P	Queijo de Cabra (Duro)	256037
+1767	P	Peru Branco	256159
+1768	P	Pizza de Queijo	256258
+1769	P	Pizza Portuguesa	256659
+1770	P	Pizza de Frango com Catupiry	256940
+1771	P	Pizza de Calabresa (Sadia)	257220
+1772	P	Pizza de Atum	257326
+1773	P	Pizza de Chocolate	257631
+1774	P	Pizza de 4 Queijos (Sadia)	257884
+1775	P	Pizza de Queijo de Massa Fina	257991
+1776	P	Batata Palha (Elma Chips)	258389
+1777	P	Batata Palha Tradicional (Yoki)	258452
+1778	P	Batata Palha Premium Extra Fina (Yoki)	258541
+1779	P	Batata Palha Tradicional (Visconti)	258611
+1780	P	Batata Palha Temperada (Visconti)	258682
+1781	P	Batata Palha Extra Fina (Elma Chips)	258764
+1782	P	Batata Palha Extra Fina (Visconti)	258827
+1783	P	Salada de Batata (Acompanhamento)	258896
+1784	P	Batata (sem Casca, sem Sal, Fervido)	259048
+1785	P	Batata (com Casca)	259389
+1786	P	Barra de Proteina (Trio)	259754
+1787	P	Baconzitos (Elma Chips)	259861
+1788	P	Bacalhau no Forno ou Grelhado	259930
+1789	P	Bacalhau	260279
+1790	P	Bacalhau do Atlântico	260630
+1791	P	Bolinho de Bacalhau	260794
+1792	P	Bacalhau Empanado no Forno	260996
+1793	P	Bacalhau do Pacífico	261346
+1794	P	Bolinho de Bacalhau (Habib's)	261513
+1795	P	Coca-Cola (Coca-Cola)	261604
+1796	P	Coca-Cola (Lata) (Coca-Cola)	261686
+1797	P	I9 (Coca-Cola)	261753
+1798	P	Burn Energy Drink (Coca-Cola)	261807
+1799	P	Guaraná Simba (Coca-Cola)	261886
+1800	P	I9 (Coca-Cola)	261969
+1801	P	Couve Refogada	262024
+1802	P	Couve-de-Folhas	262203
+1803	P	Couve Manteiga Crua	262370
+1804	P	Suco de Couve	262510
+1805	P	Couve Manteiga Refogada	262697
+1806	P	Couve-de-Folhas Cozida (de Couve Fresca)	262828
+1807	P	Couve-Flor Cozida (Cozinhado sem Gordura Adicionada)	263019
+1808	P	Salada de Couve e Cenoura	263198
+1809	P	Salada de Couve ou Couve e Cenoura com Molho	263401
+1810	P	Suco Mid (MID)	263622
+1811	P	Tangerinas (em Suco, Enlatado)	263695
+1812	P	Recheio de Pão (Mistura Seca)	263871
+1813	P	Feijão Carioca Cozido a Vapor (Vapza)	263996
+1814	P	Mistura de Vegetais Cozidos (Milho, Ervilhas, Feijão Verde e Cenouras)	264091
+1815	P	Feijão Vermelho, Pinto ou Calico Cozido	264276
+1816	P	Feijão Vermelho, Pinto ou Calico Cozido (Cozinhado sem Gordura Adicionada)	264574
+1817	P	Suco Detox	264958
+1818	P	Barras de Granola (Rija)	265098
+1819	P	Tortilhas (Milho Branco)	265249
+1820	P	Lanchester (Richester)	265369
+1821	P	Feijões em Molho de Tomate Vegetariano	265434
+1822	P	Salada de Taco ou Tostada com Carne de Vaca, Feijões e Queijo em Tortilha de Farinha Frita	265623
+1823	P	Bombom Alpino (Nestlé)	265826
+1824	P	Toffee Bombom (Erlan)	265917
+1825	P	Bombom Prestígio (Nestlé)	265986
+1826	P	Bombom Chokito (Nestlé)	266075
+1827	P	Bombom de Morango	266166
+1828	P	Bombom Smash (Nestlé)	266357
+1829	P	Bombom Crocante (Garoto)	266446
+1830	P	Bombom de Cereja com Licor (Montevérgine)	266521
+1831	P	Brigadeiro	266620
+1832	P	Brigadeiro de Colher	266811
+1833	P	Brigadeiro (Amor Aos Pedaços)	267007
+1834	P	Moça Brigadeiro (Nestlé)	267083
+1835	P	Brigadeiro (Casa do Pão de Queijo)	267152
+1836	P	Brigadeiro (Montevérgine)	267197
+1837	P	Moça Brigadeiro (Nestlé)	267299
+1838	P	Brigadeiro Diet (Hué)	267370
+1839	P	Picolé Brigadeiro (Kibon)	267439
+1840	P	Acarajé	267537
+1841	P	Bisnaguinha (Panco)	267681
+1842	P	Bisnaguinha (Wickbold)	267762
+1843	P	Bisnaguinha Integral (Wickbold)	267867
+1844	P	Bisnaguinha (Extra)	267939
+1845	P	Bisnaguinha (Pullman)	268003
+1846	P	Bisnaguinha (Wickbold)	268079
+1847	P	Bisnaguinha (DIA)	268169
+1848	P	Bisnaguinha de Leite (Lekker)	268239
+1849	P	Bisnaguinha (Plus Vita)	268314
+1850	P	Salshicha Alemã ou Cachorro-Quente com Catchup e/ou Mostarda no Pão	268392
+1851	P	Salshicha Alemã ou Cachorro-Quente com Chili no Pão	268622
+1852	P	Salsicha Alemã ou Cachorro Quente	268855
+1853	P	Salshicha Alemã ou Cachorro-Quente no Pão	269073
+1854	P	Salsicha Alemã ou Cachorro Quente de Carne de Vaca Magra	269292
+1855	P	Biscoito Queijinho (Piraquê)	269481
+1856	P	Barras de Granola (Macio)	269549
+1857	P	Suco de Uva Light (Del Valle)	269695
+1858	P	Suco de Uva Light (Disfrut)	269756
+1859	P	Suco de Uva Light (Suvalan)	269817
+1860	P	Soja + Suco de Laranja (Sollys)	269890
+1861	P	Suco de Soja Morango (Mais Vita)	269971
+1862	P	Soja + Suco de Uva (AdeS)	270046
+1863	P	Suco de Soja Uva Zero (Mais Vita)	270130
+1864	P	Soja + Suco de Uva (Sufresh)	270215
+1865	P	Soja + Suco de Maçã (Sollys)	270287
+1866	P	Seleta de Legumes (Quero)	270339
+1867	P	Mistura 4 Legumes (D'aucy)	270436
+1868	P	Mix de Legumes (Pronto Light)	270521
+1869	P	Panachê de Legumes (Vivenda do Camarão)	270573
+1870	P	Seleta de Legumes (Rica)	270676
+1871	P	Carne com Legumes (China in Box)	270764
+1872	P	Seleta de Legumes (Vapza)	270852
+1873	P	Iogurte Natural (Vigor)	270950
+1874	P	Iogurte de Frutas Vermelhas (Vigor)	271016
+1875	P	Iogurte Natural Desnatado (Vigor)	271079
+1876	P	Iogurte Desnatado com Polpa de Morango (Vigor)	271155
+1877	P	Iogurte Vigor Mix Sucrilhos (Vigor)	271202
+1878	P	Iogurte de Mamão (Vigor)	271303
+1879	P	Iogurte Grego Baunilha (Vigor)	271365
+1880	P	Iogurte Grego Tradicional (Vigor)	271421
+1881	P	Iogurte Batido (Vigor)	271477
+1882	P	Iogurte Ameixa (Vigor)	271543
+1883	P	Iogurte Grego (Nestlé)	271642
+1884	P	Iogurte Grego Light (Nestlé)	271700
+1885	P	Iogurte Grego Zero (Vigor)	271826
+1886	P	Iogurte Grego Frutas Vermelhas (Nestlé)	271890
+1887	P	Iogurte Grego (Danone)	271950
+1888	P	Iogurte Grego 2X Mais Proteína (Batavo)	272011
+1889	P	Iogurte Grego Baunilha (120g) (Batavo)	272092
+1890	P	Iogurte Grego Frutas Vermelhas (Danone)	272170
+1891	P	Feijão Tropeiro	272230
+1892	P	Feijão Vermelho (com Sal, Cozido, Fervido)	272415
+1893	P	Feijões com Chili (Enlatado)	272574
+1894	P	Energético (Red Bull)	272771
+1895	P	Energético (Flying Horse)	272844
+1896	P	Energético Sugar Free (Red Bull)	272907
+1897	P	Chokito (Chokito)	272951
+1898	P	Chokito (Chokito)	273050
+1899	P	Feijoada	273123
+1900	P	Feijoada (Bordon)	273308
+1901	P	Feijoada Light (Congelados da Sônia)	273396
+1902	P	Feijoada Vegetariana (Congelados da Sônia)	273536
+1903	P	Empada de Frango	273673
+1904	P	Empada de Palmito	273870
+1905	P	Empada de Queijo	274048
+1906	P	Empada de Frango (Empada Brasil)	274177
+1907	P	Empada de Camarão (Ragazzo)	274254
+1908	P	Empada de Frango (Forno de Minas)	274363
+1909	P	Empada de Chocolate (Empada Brasil)	274446
+1910	P	Empada de Frango com Catupiry (Empada Brasil)	274550
+1911	P	Empada de Palmito (Casa da Empada)	274648
+1912	P	Empadão de Frango	274710
+1913	P	Bacon (Club Social)	274901
+1914	P	Provolone (Club Social)	274984
+1915	P	Barra de Cereais Orgânica Açaí (Bio2)	275079
+1916	P	Iogurte de Frutas de Leite Integral	275150
+1917	P	Carne Moída (Seara)	275393
+1918	P	Carne Moída (Pronto Light)	275452
+1919	P	Bolo de Carne Moída	275504
+1920	P	Café Com Leite (3 Corações)	275901
+1921	P	Creme de Galinha (Maggi)	275976
+1922	P	Sopa de Creme de Galinha (Enlatado, Condensado)	276067
+1923	P	Patê de Fígado de Galinha (Enlatado)	276248
+1924	P	Sopa de Creme de Cogumelos (Enlatado, Condensado)	276408
+1925	P	Substituto de Creme de Leite (em Pó)	276580
+1926	P	Quinua em Grãos (Ráris)	276767
+1927	P	Quinua em Flocos (Mãe Terra)	276891
+1928	P	Quinua (Go Fresh)	276971
+1929	P	Quinoa	277030
+1930	P	Quinua (Quinua Real)	277159
+1931	P	Cookie Integral Quinua e Banana (Taeq)	277211
+1932	P	Fusilli de Milho com Quinua (Tivva )	277310
+1933	P	Granola com Banana e Quinua (Taeq)	277397
+1934	P	Barra de Cereal com Linhaça, Castanhas e Quinua (Taeq)	277498
+1935	P	Proteína em Pó (Substituto de Refeição)	277639
+1936	P	Chocolate Refeição (Neugebauer)	277861
+1937	P	Muffin Simples	277962
+1938	P	Rabanada Simples	278204
+1939	P	Pastelaria Dinamarquesa de Queijo	278500
+1940	P	Omelete	278671
+1941	P	Omelete ou Ovos Mexidos com Cogumelos	278859
+1942	P	Omelete ou Ovos Mexidos com Salsicha	279119
+1943	P	Queijo Mozzarella	279399
+1944	P	Queijo Prato (Scala)	279769
+1945	P	Queijo Branco	279843
+1946	P	Queijo Prato (Tirolez)	280013
+1947	P	Queijo Coalho Espeto (Regina)	280085
+1948	P	Queijo Mussarela (Walmart)	280154
+1949	P	Queijo Minas Frescal Light (Tirolez)	280249
+1950	P	Manteiga de Amendoim sem Pedaços (com Sal)	280360
+1951	P	Torta de Pêssego	280551
+1952	P	Farinha de Linhaça Dourada (Mãe Terra)	280770
+1953	P	Farinha de Linhaça Dourada (Vitao)	280885
+1954	P	Farinha de Linhaça Marrom (Arma Zen)	280963
+1955	P	Farinha de Linhaça Dourada (Natu's)	281055
+1956	P	Farinha de Linhaça Dourada (Montan)	281127
+1957	P	Clube Social (Nabisco)	281231
+1958	P	Clube Social Integral (Nabisco)	281359
+1959	P	Barra de Cereal Light Aveia, Banana e Mel (Nutry)	281458
+1960	P	Barra de Cereal Morango com Chocolate (Nutry)	281581
+1961	P	Barra de Cereal com Castanhas e Chocolate (Taeq)	281695
+1962	P	Barra de Cereal Banana, Aveia e Mel (Ritter )	281782
+1963	P	Barra de Cereal Avelã e Castanha com Cobertura Sabor Chocolate (Ritter )	281855
+1964	P	Barra de Cereal Bolo de Chocolate (Nutry)	281923
+1965	P	Barra de Cereal Frutas Vermelhas com Chocolate (Nestlé)	282037
+1966	P	Barra de Cereal Light Brigadeiro (Trio)	282106
+1967	P	Chá de Ervas	282165
+1968	P	Chá Não Adocicado	282339
+1969	P	Chá Pré-Adocicado com Açucar	282528
+1970	P	Chá Gelado	282673
+1971	P	Carne de Vaca Moída Magra	282871
+1972	P	Frango (Empanado e Frito)	283215
+1973	P	Queijo Cottage com Frutas	283388
+1974	P	Presunto Cozido Magro (Sadia)	283594
+1975	P	Presunto de Peru	283665
+1976	P	Presunto Magro (Seara)	283893
+1977	P	Presunto sem Capa de Gordura (Sadia)	283961
+1978	P	Presunto Cozido sem Capa de Gordura (Aurora)	284029
+1979	P	Presunto Picado	284100
+1980	P	Presunto Parma (Sadia)	284234
+1981	P	Presunto Cru (Perdigão)	284304
+1982	P	Apresuntado (Sadia)	284372
+1983	P	Naturis Soja Pêssego (Batavo)	284458
+1984	P	Iogurte de Soja Naturis Pêssego (Batavo)	284518
+1985	P	Soja Cozida (Cozinhado sem Gordura Adicionada)	284592
+1986	P	Soja Cozida com Vapor (Yoki)	284814
+1987	P	Salada Subway Club TM (Subway)	284909
+1988	P	Salada de Frango (Subway)	285009
+1989	P	Salada Peito de Peru (Subway)	285101
+1990	P	Salada Frango Teriyaki (Subway)	285212
+1991	P	Salada de Presunto e Peito de Peru (Subway)	285312
+1992	P	Salada de Rosbife (Subway)	285423
+1993	P	Salada de Presunto (Subway)	285529
+1994	P	Molho Thousand Island para Saladas	285635
+1995	P	Molho Francês para Saladas (Gordura Reduzida)	285829
+1996	P	Leite Semi Desnatado (Parmalat)	286021
+1997	P	Leite Semi Desnatado (Batavo)	286084
+1998	P	Leite em Pó Semi Desnatado (Glória)	286131
+1999	P	Leite Semi Desnatado (Shefa)	286272
+2000	P	Leite ( Magro - 2% Gordura, com Vitamina A)	286322
+2001	P	Leite (Magro - 2% Gordura, com Vitamina A e Proteína)	286517
+2002	P	Macarrão	286711
+2003	P	Macarrão Alho e Óleo	287034
+2004	P	Macarrão Parafuso (Petybon)	287210
+2005	P	Macarrão Cremoso com Queijo	287278
+2006	P	Penne Ao Sugo e Manjericão (Perdigão)	287412
+2007	P	Fettucine Ao Molho Bolonhesa (Perdigão)	287507
+2008	P	Talharim (Massa Leve)	287599
+2009	P	Macarrão Parafuso (Dona Benta)	287661
+2010	P	Spaghetti Grano Duro (Petybon)	287732
+2011	P	Leite (Magro - 1% Gordura, com Vitamina A)	287802
+2012	P	Pão Francês Integral (Pão de Açúcar)	288005
+2013	P	Molho Francês para Saladas (Calorias Reduzidas)	288073
+2014	P	Alcachofras (Cabeça ou Francês)	288216
+2015	P	Molho Francês para Saladas	288392
+2016	P	Pão Light Iogurte, Cenoura e Mel (Nutrella)	288609
+2017	P	Panquecas Clássicas De Carne (Congelados da Sônia)	288682
+2018	P	Panqueca de Carne Aos Molhos (Massa Leve)	288820
+2019	P	Farofa Pronta (Yoki)	288900
+2020	P	Farofa de Ovo	289017
+2021	P	Farofa (Giraffas)	289225
+2022	P	Farofa de Milho (Yoki)	289296
+2023	P	Farofa Pronta Suave (Yoki)	289430
+2024	P	Farofa Pronta (Chinezinho )	289545
+2025	P	Cookies Baunilha com Gotas de Chocolate Light (Sentir Bem)	289646
+2026	P	Cookies Banana e Aveia Light (Biosoft)	289757
+2027	P	Bolacha Água e Sal (Isabela)	289872
+2028	P	Sementes de Linhaça	289952
+2029	P	Farofa	290264
+2030	P	Farofa de Soja (Yoki)	290473
+2031	P	Farofa de Soja (Good Soy)	290599
+2032	P	Ripa de Costela de Vaca no Churrasco (com Molho)	290675
+2033	P	Churrasco (Torcida)	291073
+2034	P	Churrasco (Subway)	291142
+2035	P	Entrecosto de Porco no Churrasco com Molho	291243
+2036	P	Cup Noodles Costela com Molho de Churrasco (Nissin)	291646
+2037	P	Hambúrguer Sabor Churrasco (Sadia)	291743
+2038	P	Cookies Integrais Light Frutas Cítricas (Jasmine)	291820
+2039	P	Cookies Integrais Light Papaia Com Cassis (Jasmine)	291957
+2040	P	Cookies Aveia e Mel Light (Biosoft)	292082
+2041	P	Cookies Integrais Light (Mãe Terra)	292201
+2042	P	Cookies Integrais Light Avelã com Gotas de Chocolate (Jasmine)	292288
+2043	P	Cookies Integrais Light Aveia e Amêndoas + Sementes Nobres (Jasmine)	292409
+2044	P	Cookies Integrais Light Castanha do Pará (Vitao)	292534
+2045	P	Bala 7 Belo Framboesa (Arcor)	292638
+2046	P	Bala (Dura)	292732
+2047	P	Bala Butter Toffes (Arcor)	292880
+2048	P	Pão Integral Balance (Firenze)	292987
+2049	P	Bala (Halls)	293076
+2050	P	Bala de Leite (Kopenhagen)	293154
+2051	P	Bala de Goma (Dori)	293213
+2052	P	Bala de Coco	293290
+2053	P	Bala de Mel (Arcor)	293455
+2054	P	Ricota Fresca (Quatá)	293527
+2055	P	Ricota (Tirolez)	293606
+2056	P	Ricota Fresca (Santa Clara)	293673
+2057	P	Rúcula	293758
+2058	P	Salada de Frutas de Damasco, Abacaxi, Pêra e Cereja (Sólidos e Líquidos, em Água, Enlatado)	293899
+2059	P	Feijões em Molho de Tomate com Carne de Porco (Enlatado)	294061
+2060	P	Suco de Tomate e Vegetais (com Baixo Teor de Sódio)	294224
+2061	P	Almôndegas de Carne de Vaca	294419
+2062	P	Almôndegas de Carne (Sadia)	294761
+2063	P	Almôndegas com Molho (Mistura)	294844
+2064	P	Almôndega de Carne (Perdigão)	295061
+2065	P	Almondega de Frango (Sadia)	295136
+2066	P	Penne com Almôndegas à Bolonhesa (Habib's)	295195
+2067	P	Almôndegas Vegetarianas	295300
+2068	P	Almôndegas de Carne de Vaca e Porco	295463
+2069	P	Almôndegas de Carne de Porco	295800
+2070	P	Mini Almôndegas com Talharim (Congelados da Sônia)	296048
+2071	P	Palmito de Açai Organico (Taeq)	296181
+2072	P	Zero (Matte Leão)	296241
+2073	P	Chá de Hibiscus (Sanavita)	296307
+2074	P	Molho Italiano para Saladas (Gordura Reduzida)	296395
+2075	P	Molho Italiano para Saladas	296582
+2076	P	Molho de Óleo e Vinagre para Saladas (Receita Caseira)	296767
+2077	P	Molho de Queijo Azul e Roquefort para Saladas	296937
+2078	P	Molho Thousand Island para Saladas (sem Gordura)	297128
+2079	P	Bolacha Maizena (Triunfo)	297330
+2080	P	Bolacha Bono Chocolate (Nestlé)	297429
+2081	P	Bolacha Leite (Mabel)	297523
+2082	P	Bolacha Integral (Isabela)	297618
+2083	P	Crackers Saltine	297712
+2084	P	Bolacha de Coco (Nestlé)	298084
+2085	P	Bolacha Calipso (Nestlé)	298178
+2086	P	Bolacha Água (Vitarella)	298280
+2087	P	Ricota Fresca (Canto de Minas)	298380
+2088	P	Ricota Fresca (Boa Nata)	298449
+2089	P	Requeijão Cremoso (Itambé)	298538
+2090	P	Requeijão Cremoso Tradicional (Polenghi)	298625
+2091	P	Requeijão Cremoso (Catupiry)	298714
+2092	P	Requeijão Cremoso (Tirolez)	298797
+2093	P	Requeijão Tradicional Cremoso (Batavo)	298887
+2094	P	Requeijão Cremoso Tradicional (Vigor)	298965
+2095	P	Requeijão Cremoso (Paulista)	299057
+2096	P	Requeijão Cremoso Light (Davaca)	299146
+2097	P	Sanduíche de Presunto e Queijo com Manteiga e Alface	299236
+2098	P	Sanduíche de Atum com Salada	299418
+2099	P	Sanduíche de Queijo	299607
+2100	P	Super Fatia Mussarela (Pizza Hut)	299799
+2101	P	Queijo Cheddar ou Americano (Gordura Reduzida, Pasteurizado)	299879
+2102	P	Queijo Americano (Magro, Pasteurizado)	299994
+2103	P	Suco De Acerola (Jandaia)	300259
+2104	P	Leite Integral	300325
+2105	P	Leite Desnatado (Jussara )	300695
+2106	P	Leite UHT Integral (Parmalat)	300755
+2107	P	Leite Desnatado (Batavo)	300817
+2108	P	Leite Zero Lactose (Piracanjuba)	300898
+2109	P	Leite com Chocolate	300967
+2110	P	Maionese Light (Arisco)	301102
+2111	P	Maionese Light (Primor)	301206
+2112	P	Ovos de Codorna (Naturovos)	301295
+2113	P	Carne de Codorna	301360
+2114	P	Oreo (Kraft)	301585
+2115	P	Milka & Oreo (Milka)	301671
+2116	P	Pão Pita Branco	301750
+2117	P	Panquecas Simples	301893
+2118	P	Panqueca Dukan	302102
+2119	P	Panqueca Integral (Massa Leve)	302238
+2120	P	Massa para Panqueca (Massa Leve)	302310
+2121	P	Panquecas de Trigo Integral	302387
+2122	P	Pancake Mix (MET-Rx)	302782
+2123	P	Panquecas de Batata	302920
+2124	P	Panquecas (Mistura Seca)	303202
+2125	P	Mostarda	303425
+2126	P	Mostarda (Heinz)	303644
+2127	P	Mostarda Amarela (Hemmer)	303728
+2128	P	Mostarda Dijon	303800
+2129	P	Mostarda Escura (Hemmer)	304030
+2130	P	Spicy Brown Mustard (Heinz)	304114
+2131	P	Mostarda (Hellmann's)	304209
+2132	P	Molho de Mostarda (Masterfoods)	304288
+2133	P	Vinho Cabernet Sauvignon	304384
+2134	P	Espumante	304468
+2135	P	Vinho Sauvignon Blanc	304629
+2136	P	Vinho Pinot Noir	304719
+2137	P	Vinho Merlot	304811
+2138	P	Vinho Syrah	304937
+2139	P	Vinho Moscatel	305029
+2140	P	Saquê	305120
+2141	P	Queijo Prato Light (Polenghi)	305209
+2142	P	Queijo Minas Frescal (Polenghi)	305295
+2143	P	Queijo Frescal Ultrafiltrado Light (Polenghi)	305355
+2144	P	Queijo Cheddar Light (Polenghi)	305449
+2145	P	Fondue de Queijo (Polenghi)	305531
+2146	P	Mini Queijo Cremoso (Polenghi)	305619
+2147	P	Queijo Processado Gorgonzola (Polenghi)	305712
+2148	P	Ultra Iso Whey (Universal)	305800
+2149	P	Chocolate Ao Leite (Lacta)	305863
+2150	P	Chocolate Classic Ao Leite (Nestlé)	305933
+2151	P	Chocolate Meio Amargo (Hershey's)	306012
+2152	P	Chocolate Preto ou Doce	306075
+2153	P	Chocolate Meio Amargo Classic (Nestlé)	306391
+2154	P	Alpino (Alpino)	306459
+2155	P	Classic Duo (Nestlé)	306543
+2156	P	Ouro Branco (Lacta)	306616
+2157	P	Pão de Forma Integral Light (Wickbold)	306726
+2158	P	Pão de Forma Integral (Walmart)	306809
+2159	P	Pão de Forma Light Integral (Ming)	306872
+2160	P	Pão de Forma Light Integral (Pão de Forno)	306940
+2161	P	Pão Multi-Cereais Torrado	307012
+2162	P	Pão Multi-Cereais	307297
+2163	P	Pão Multi-Cereais com Mais Fibras e Calorias Reduzidas	307579
+2164	P	Molho de Queijo	307792
+2165	P	Molho para Saladas de Baixas Calorias	307967
+2166	P	Molho Branco	308185
+2167	P	Molho de Mostarda e Mel	308328
+2168	P	Molho de Carne	308537
+2169	P	Molho Bolonhesa	308757
+2170	P	Molho Ceasar (McDonald's)	308946
+2171	P	Molho Madeira (Masterfoods)	309035
+2172	P	Trufa Tradicional (Cacau Show)	309100
+2173	P	Trufa Maracuja (Cacau Show)	309154
+2174	P	Trufa Puro Cacau (Brasil Cacau)	309243
+2175	P	Trufa Nozes (Brasil Cacau)	309327
+2176	P	Trufa de Coco (Cacau Show)	309407
+2177	P	Trufa Morango (Cacau Show)	309487
+2178	P	Trufa Pão de Mel (Munik)	309555
+2179	P	Trufa Tradicional (Brasil Cacau)	309627
+2180	P	Trufa Avelã (Cacau Show)	309720
+2181	P	Tomate Seco em Conserva (Hemmer)	309829
+2182	P	Tomate Seco (Spoleto)	309931
+2183	P	Granola Salgada com Tomate Seco (Cróqui)	310007
+2184	P	Maionese com Tomate Seco e Alho (Kisabor)	310108
+2185	P	Molho de Caril (Seco, Desidratado)	310201
+2186	P	Requeijão Cremoso Light (Catupiry)	310346
+2187	P	Requeijão Cremoso Light (Catupiry)	310419
+2188	P	Requeijão	310523
+2189	P	Café ou Creme de Leite (Light)	310823
+2190	P	Maionese Light	311053
+2191	P	Carne de Frango Light	311226
+2192	P	Carne de Peru Light	311445
+2193	P	Tangerinas (em Calda Light, Enlatado)	311658
+2194	P	Diamante Negro (Lacta)	311829
+2195	P	Mini Diamante Negro (Lacta)	311903
+2196	P	Diamante Negro com Laka (Lacta)	312009
+2197	P	Sorvete Diamante Negro (Kibon)	312077
+2198	P	Tablete De Chocolate Amargo 85% Cacau (Cacau Show)	312159
+2199	P	Chocolate Amargo 70% Cacau (Kopenhagen)	312249
+2200	P	Chocolate Amargo 55% Cacau (Garoto)	312312
+2201	P	Chocolate Amargo (Arcor)	312363
+2202	P	Tablete de Chocolate Amargo 60% Cacau (Chocolates Brasil Cacau)	312431
+2203	P	Chocolate Meio Amargo (Garoto)	312499
+2204	P	Tablete de Chocolate Amargo (Cacau Show)	312559
+2205	P	Tablete de Chocolate Amargo (Chocolates Brasil Cacau)	312630
+2206	P	Couve Lombarda	312700
+2207	P	Couve-Flor	312897
+2208	P	Couve-Flor (Congelado)	313174
+2209	P	Crepe Simples	313402
+2210	P	Crepe de Chocolate	313750
+2211	P	Crepe de Frutas	313953
+2212	P	Carne de Vaca da Costela (Parte Menor e Final, Cortado até 0,3 cm de Gordura)	314150
+2213	P	Queijo Mozzarella (sem Gordura)	314264
+2214	P	Pipoca (Baixo Teor de Gordura e Sódio, Microondas)	314398
+2215	P	Carne de Búfalo do Lombo - Topo (Magra, Cortada até 0 cm de Gordura)	314504
+2216	P	Gengibre	314607
+2217	P	Suco de Oxicoco (Não Adocicado)	314819
+2218	P	Suco de Acerola	314994
+2219	P	Biscoito de Limão (Aruba)	315143
+2220	P	Biscoito Banana com Canela (Aruba)	315255
+2221	P	Biscoito de Coco (Aruba)	315366
+2222	P	Arroz Branco (Longo)	315472
+2223	P	Óleo de Sésamo	315654
+2224	P	Óleo Vegetal de Colza	315828
+2225	P	Óleo de Fígado de Bacalhau	316001
+2226	P	Pimentas Chili Verdes	316173
+2227	P	Pimentas Jalapeno	316371
+2228	P	Pimentas Chili Verdes (Enlatado)	316538
+2229	P	Pimentas-Jalapenho (Sólidos e Líquidos, Enlatado)	316667
+2230	P	Azeitonas Verdes (Conserva, Enlatado ou Engarrafado)	316871
+2231	P	Azeitonas Verdes	316978
+2232	P	Azeitonas Pretas	317354
+2233	P	Azeitonas	317725
+2234	P	Azeitona Fatiada (Spoleto)	318026
+2235	P	Azeitonas Verdes Recheadas	318105
+2236	P	Azeitonas (Subway)	318380
+2237	P	Patê de Azeitona Preta (La Violetera)	318458
+2238	P	Azeite de Oliva	318553
+2239	P	Batatas Brancas (com Casca, no Forno)	318726
+2240	P	Massa para Tacos (no Forno)	319052
+2241	P	Caldo de Cana	319322
+2242	P	Caldo de Carne de Vaca	319478
+2243	P	Café com Leite Grande (Casa do Pão de Queijo)	319660
+2244	P	Suco de Goiaba (Jandaia)	319745
+2245	P	Suco de Goiaba (Camp)	319806
+2246	P	Suco de Goiaba Light (Dafruta)	319854
+2247	P	Suco de Goiaba Light (Del Valle)	319920
+2248	P	Suco de Goiaba (Fast Fruit)	319993
+2249	P	Sementes de Girassol Torradas, Secas e sem Casca (sem Sal)	320062
+2250	P	Amêndoas Secas Torradas (sem Sal)	320199
+2251	P	Nozes Pecãs Torradas e Secas (sem Sal)	320379
+2252	P	Sementes de Girassol Torradas e Secas (com Sal)	320485
+2253	P	Amêndoas Torradas e Secas (com Sal)	320610
+2254	P	Nozes Pecãs Torradas e Secas (com Sal)	320792
+2255	P	Waffles Simples Torradas (Congelado)	320900
+2256	P	Cookies de Granola Castanha do Pará (Kobber)	321132
+2257	P	Bolinho Integral Castanha do para (Suavipan)	321231
+2258	P	Clara de Ovo Pasteurizada Resfriada (Fleischmann)	321306
+2259	P	Ameixa Seca sem Caroço (Carrefour)	321363
+2260	P	Sementes de Sésamo Inteiras e Secas	321430
+2261	P	Sementes de Girassol Secas sem Casca	321622
+2262	P	Chuleta Bovina	321800
+2263	P	Bolinho de Arroz	321912
+2264	P	Folhas de Uva Recheadas com Carne de Vaca e Arroz	322105
+2265	P	Jambalaya com Carne e Arroz	322272
+2266	P	Suco de Caju (Del Valle)	322459
+2267	P	Suco de Caju (Jandaia)	322527
+2268	P	Suco de Caju Light (Del Valle)	322605
+2269	P	Suco de Caju (Dafruta)	322663
+2270	P	Suco de Caju (Maguary)	322721
+2271	P	Suco De Caju (Bela Ischia)	322780
+2272	P	Suco de Caju (La Fruit )	322852
+2273	P	Alface	322913
+2274	P	Mix de Folhas Brasil (Salad Creations)	323277
+2275	P	Alface Rúcula	323341
+2276	P	Alface Romana	323470
+2277	P	Alface de Folha Vermelha	323733
+2278	P	Alface (Subway)	323926
+2279	P	Albumina	324016
+2280	P	Albumina (Salto's)	324153
+2281	P	Albumina (Naturovos)	324241
+2282	P	Albumina 80 (NeoNutri)	324329
+2283	P	Albumina (Probiótica)	324396
+2284	P	Albumina (Health Labs)	324471
+2285	P	Albumina (Body Action)	324542
+2286	P	Albumina (Midway)	324623
+2287	P	Albumina (Growth Supplements)	324690
+2288	P	Designer Albumina (DNA)	324766
+2289	P	Castanhas de Água	324845
+2290	P	Chá Verde & Chá Branco com Colágeno (Bioslim)	325059
+2291	P	Canela	325130
+2292	P	Pão Misto Canela e Passas (Nutrella)	325296
+2293	P	Folhado Banana com Canela (Forno de Minas)	325371
+2294	P	Fruitbar Maçã com Canela (Nutry)	325450
+2295	P	Grão Sabor Integral Canela e Passas (Wickbold)	325526
+2296	P	Carne Seca (Vapza)	325609
+2297	P	Escondidinho de Carne Seca	325671
+2298	P	Carne Seca Desfiada (Vapza)	325817
+2299	P	Salame Duro ou Seco	325879
+2300	P	Carne de Sol	326206
+2301	P	Carne de Vaca Enlatada (apenas Parte Magra Consumida)	326360
+2302	P	Estrogonofe de Carne	326737
+2303	P	Carne de Vaca Moída Extra Magra	326929
+2304	P	Cheetos (Cheetos)	327273
+2305	P	Temaki Salmão Cream (Makis Place)	327342
+2306	P	Temaki de Salmão	327441
+2307	P	Temaki Salmão Simples (Makis Place)	327561
+2308	P	Temaki Salmon Shrimp (Makis Place)	327656
+2309	P	Temaki de Shimeji (Makis Place)	327753
+2310	P	Bolo de Milho	327829
+2311	P	Bolo de Milho (Pullman)	328016
+2312	P	Muffins de Milho	328113
+2313	P	Tortilhas de Milho	328361
+2314	P	Abacaxi	328552
+2315	P	Queijo Frescal Ultrafiltrado (Polenghi)	328882
+2316	P	Quinoa Real em Grãos (Jasmine)	328955
+2317	P	Quinoa em Flocos (Vitalin)	329054
+2318	P	Quinoa Real em Flocos (Jasmine)	329148
+2319	P	Pão Integral Castanha do Pará e Quinoa (Wickbold)	329247
+2320	P	Sementes Gergelim e Quinoa (Levittá)	329378
+2321	P	Quinoa Pré-Cozida (NatureCrops)	329424
+2322	P	Barra de Cereais Orgânica Quinoa (Bio2)	329467
+2323	P	Pão Integral Quinoa Nutrimais (Thabrulai)	329530
+2324	P	Requeijão Light (Polenghi)	329599
+2325	P	Requeijão Zero (Danubio)	329719
+2326	P	Requeijão Cremoso (Aviação)	329806
+2327	P	Sorvetes de Chocolate	329906
+2328	P	Sorvete de Chocolate (Nestlé)	330093
+2329	P	Sorvete de Chocolate (Macio)	330188
+2330	P	Sorvete Light de Baunilha e Chocolate (Kibon)	330380
+2331	P	Sorvete com Cobertura de Chocolate	330502
+2332	P	Sorvete Chocolate Mid Night Cookies (Häagen-Dazs)	330699
+2333	P	Cone de Sorvete de Chocolate	330805
+2334	P	Cone de Sorvete Coberto com Chocolate	331026
+2335	P	Suco de Goiaba (Del Valle)	331213
+2336	P	Suco de Goiaba (Dafruta)	331293
+2337	P	Suco de Goiaba Light (Del Valle)	331345
+2338	P	Suco de Goiaba Orgânico (Native)	331415
+2339	P	Sorvete de Pistache (Kascão)	331485
+2340	P	Sorvete Pistache (La Basque)	331579
+2341	P	Pistaches	331684
+2342	P	Pistaches Secos e Torrados (sem Sal)	331872
+2343	P	Salada de Batata com Ovo	332062
+2344	P	Salada de Batata tipo Alemão	332251
+2345	P	Grão-de-Bico (Semente Madura, Enlatado)	332417
+2346	P	Salpicão de Frango	332570
+2347	P	Salpicão sem Passas (Mania Light)	332759
+2348	P	Salgadinho de Festa	332859
+2349	P	Salgadinho Fritello (Pavioli)	333046
+2350	P	Salgadinho de Soja (Soytoast)	333111
+2351	P	Deliciosos Salgadinhos (Panco)	333190
+2352	P	Amendoim Salgadinho sem Pele (Agtal)	333278
+2353	P	Salgadinho de Soja (Jasmine)	333381
+2354	P	Leite em Pó Desnatado (La Serenisima)	333470
+2355	P	Leite em Pó Integral (Elegê)	333555
+2356	P	Queijo Mozzarella de Leite Integral	333662
+2357	P	Queijo Mozzarella com Leite Desnatado	333982
+2358	P	Iscas de Frango com Empanamento Tradicional (Sadia)	334304
+2359	P	Iscas De Frango com Empanamento de Ervas (Sadia)	334405
+2360	P	Iscas de Frango com Empanamento Picante (Sadia)	334506
+2361	P	Galinhada	334595
+2362	P	Fricassê de Frango	334780
+2363	P	Sopa de Noodles de Galinha	334970
+2364	P	Tamal com Carne de Frango	335166
+2365	P	Sopa Instantânea De Galinha (Taeq)	335304
+2366	P	Paella	335399
+2367	P	Barra de Proteina (Herbalife)	335583
+2368	P	Banana-da-Terra Frita	335685
+2369	P	Torta de Banana	336048
+2370	P	Torta de Banana Integral	336234
+2371	P	Leite de Soja Zero (AdeS)	336379
+2372	P	Leite de Soja Original (AdeS)	336478
+2373	P	Galletas de Arroz (Las Acacias)	336571
+2374	P	Gema de Ovo Cozida	336663
+2375	P	Miojo de Ovo Seco	336885
+2376	P	Arroz Branco Instantâneo	337070
+2377	P	Arroz Branco e Selvagem	337301
+2378	P	Arroz Frito de Frango	337548
+2379	P	Iscas de Frango com Arroz Integral (Substancia)	337739
+2380	P	Papinha de Lentilha, Arroz e Peito de Frango (Nestlé)	337840
+2381	P	Filé de Frango a Milanesa com Arroz e Fritas (Habib's)	337921
+2382	P	Pasta de Trigo Duro Integral (Las Acacias)	338001
+2383	P	Acelga Cozida	338071
+2384	P	Abóbora Cozida	338289
+2385	P	Abóbora Moranga	338477
+2386	P	Calabaza Cozida (Abóbora Espanhola)	338611
+2387	P	Abóbora Cozida (de Abóbora Fresca)	338813
+2388	P	Patê de Atum (Coqueiro)	339166
+2389	P	Patê de Atum com Azeitonas (Gomes da Costa)	339235
+2390	P	Patê de Atum Sabor Defumado (Gomes da Costa)	339314
+2391	P	Pate de Atum com Azeitona (Gomes da Costa)	339395
+2392	P	Patê de Atum Light (Gomes da Costa)	339447
+2393	P	Patê de Atum Picante (Gomes da Costa)	339519
+2394	P	Patê de Atum Toque de Pimenta (Coqueiro)	339588
+2395	P	Patê de Fígado de Ganso (Patê de Foie Gras, Enlatado, Defumado)	339669
+2396	P	Atum-Rabilho (Peixe)	339822
+2397	P	Molho Salsa (Pronto a Servir)	339932
+2398	P	Pudim Flan de Caramelo (Mistura Seca)	340083
+2399	P	Purê de Batata	340218
+2400	P	Purê de Batatas Instantâneo (Knorr)	340607
+2401	P	Purê de Batata feito com Leite (de Batata Fresca)	340712
+2402	P	Escondidinho de Calabresa (Sadia)	341119
+2403	P	Purê de Batata (de Batata Fresca)	341214
+2404	P	Purê de Batata (Pronto Light)	341608
+2405	P	Atum Light (Sólidos Escorrido em Água, Enlatado)	341663
+2406	P	Atum Branco (Sólidos Escorridos em Água, Enlatado)	341872
+2407	P	Carne de Vaca do Lagarto - Topo (Cortada até 0,3 cm de Gordura)	342036
+2408	P	Combinado Salmão (Pão de Açúcar)	342149
+2409	P	Migalhas de Pão	342210
+2410	P	Recheio de Pão (Mistura Seca, Comercial)	342373
+2411	P	Pão na Chapa	342491
+2412	P	Pão na Chapa (McDonald's)	342688
+2413	P	Torrada Pão na Chapa (Eqlibri)	342748
+2414	P	Milho Doce Branco (Espigas, sem Sal, Congelado, Escorrido, Cozido, Fervido)	342850
+2415	P	Milho	343058
+2416	P	Milho em Conserva (Predilecta)	343399
+2417	P	Milho Verde (Bonduelle)	343509
+2418	P	Milho Verde (Quero)	343610
+2419	P	Creme de Milho	343719
+2420	P	Milho (Spoleto)	343934
+2421	P	Ervilha e Milho (Quero)	344007
+2422	P	Miojo de Galinha Caipira (Nissin)	344117
+2423	P	Maionese sem Gordura	344215
+2424	P	Maionese (Primor)	344472
+2425	P	Maionese (Predilecta)	344561
+2426	P	Macarrão ou Miojo com Queijo	344642
+2427	P	Macarrão ou Miojo com Queijo (Mistura Seca)	344855
+2428	P	Macarrão sem Carne com Molho de Tomate	345096
+2429	P	Macarrão com Molho de Carne	345277
+2430	P	Macarrão com Queijo e Molho de Carne	345450
+2431	P	Macarrão com Vegetais	345658
+2432	P	Salada de Macarrão	345827
+2433	P	Nozes sem Casca (Qualitá)	346015
+2434	P	Nozes de Nogueira	346124
+2435	P	Nozes (Uniagro)	346473
+2436	P	Nozes Inglesas	346562
+2437	P	Doce de Leite com Nozes (Flormel)	346878
+2438	P	Snack Nuts (Bio2)	346952
+2439	P	Bolo de Nozes Integral (Casa Do Croissant)	347004
+2440	P	Bolo Integral Nozes (Suavipan)	347084
+2441	P	Ninho de Nozes (Habib's)	347172
+2442	P	Torrada Pão na Chapa (Mabel)	347247
+2443	P	Croutons Simples	347350
+2444	P	Pit Stop Pão na Chapa (Marilan)	347514
+2445	P	Peras	347625
+2446	P	Peras Asiáticas	347937
+2447	P	Pêra Portuguesa	348201
+2448	P	Laranja Pêra	348334
+2449	P	Coquetel de Frutas Não Adocicado, em Água (Cozido ou Enlatado)	348541
+2450	P	Paella de Frutos do Mar	348729
+2451	P	Pãezinhos Especiais de Cebola (Milani)	348903
+2452	P	Pãezinhos Especiais de Batata (Milani)	348980
+2453	P	Pãezinhos Especiais de Milho (Milani)	349055
+2454	P	Cesta de Pães (Ragazzo)	349128
+2455	P	Rabanada com Manteiga	349223
+2456	P	Panqueca de Frango (Congelados da Sônia)	349371
+2457	P	Panqueca de Ricota com Espinafre (Frozen Spa)	349487
+2458	P	Milho Verde Cozido	349536
+2459	P	Miojo de Carne (Nissin)	349728
+2460	P	Miojo	349831
+2461	P	Miojo Carne com Tomate (Nissin)	350060
+2462	P	Talharim Bolonhesa (Nissin)	350157
+2463	P	Miojo Light de Carne (Nissin)	350282
+2464	P	Espaguete Instantâneo (Nissin)	350369
+2465	P	Cup Noodles (Nissin)	350447
+2466	P	Cup Noodles Legumes (Nissin)	350538
+2467	P	Mussarela (Sadia)	350621
+2468	P	Queijo Mussarela (Tirol)	350696
+2469	P	Queijo Mussarela Light (Davaca)	350785
+2470	P	Mussarela (Scala)	350871
+2471	P	Mussarela de Búfala (Fazendinha)	350957
+2472	P	Mussarela (Aurora)	351042
+2473	P	Mussarela Light (Tirolez)	351121
+2474	P	Mussarela Light (Verde Campo)	351208
+2475	P	Vinagre Balsâmico (Galo)	351302
+2476	P	Vinagre Balsâmico de Modena (Gallo)	351371
+2477	P	Molho de Azeite e Vinagre Balsâmico (McDonald's)	351424
+2478	P	Vinagre (Cidra)	351488
+2479	P	Vinagre	351641
+2480	P	Yakisoba	351793
+2481	P	Yakissoba (China in Box)	351978
+2482	P	Miojo Yakissoba (Nissin)	352082
+2483	P	Molho Yakissoba (Predilecta)	352184
+2484	P	Tic Tac Laranja (Tic Tac)	352247
+2485	P	Cereja e Maracujá (Tic Tac)	352295
+2486	P	Suspiro	352363
+2487	P	Sucrilhos Original (Kellogg's)	352548
+2488	P	Sucrilhos Sabor Chocolate (Kellogg's)	352630
+2489	P	Sucrilhos Power (Pacote) (Kellogg's)	352735
+2490	P	Barra de Cereal Sucrilhos (Kellogg's)	352781
+2491	P	Sucrilhos Power (Kellogg's)	352847
+2492	P	Sucrilhos (Hershey's)	352967
+2493	P	Suco de Laranja Congelado (Reconstituído com Água)	353038
+2494	P	Suco de Ameixa	353232
+2495	P	Suco de Cenoura	353425
+2496	P	Ponche de Frutas (feito com Suco de Fruta e Soda)	353612
+2497	P	Suco de Toranja Rosa	353786
+2498	P	Peras (Sólidos e Líquidos, em Calda Light, Enlatado)	353948
+2499	P	Néctar de Pera (Sufresh)	354163
+2500	P	Pêra (Cozido ou Enlatado)	354241
+2501	P	Barra De Granola Crocante, Pera, Aveia E Mel (Taeq)	354473
+2502	P	Trakinas Chocolate Mais Recheio (Trakinas)	354539
+2503	P	Trakinas Morango (Trakinas)	354636
+2504	P	Mini Trakinas Sabor Chocolate (Trakinas)	354721
+2505	P	Mini Trakinas Sabor Morango (Trakinas)	354796
+2506	P	Trakinas Shake Sabor Chocolate (Trakinas)	354890
+2507	P	Toddy Light (Toddy)	354991
+2508	P	Toddynho Light (Toddy)	355063
+2509	P	Achocolatado Light (Toddy)	355140
+2510	P	Torradinha (Bauducco)	355229
+2511	P	Flay Toast Salgada (Parati)	355320
+2512	P	Torradinha Canapé (Visconti)	355388
+2513	P	Pita Toast (Pita Bread)	355489
+2514	P	Farelo de Uvas-Passas	355574
+2515	P	Uvas-Passas Cobertas de Chocolate	355754
+2516	P	Barra de Cereal Castanha Uva Passa e Mel (Ritter )	356011
+2517	P	Barra de Granola Crocante, Amendoa e Uva-Passa (Taeq)	356072
+2518	P	Drageados de Uva Passa com Chocolate Ao Leite (Cacau Show)	356137
+2519	P	Doritos Queijo Nacho (20g) (Elma Chips)	356208
+2520	P	Doritos Queijo Nacho (25g) (Elma Chips)	356277
+2521	P	Doritos Dippas (Elma Chips)	356355
+2522	P	Doritos Cool Ranch (Elma Chips)	356432
+2523	P	Espaguete sem Carne com Molho de Tomate	356501
+2524	P	Molho de Espaguete sem Carne	356681
+2525	P	Molho de Espaguete com Vegetais (Caseiro)	356825
+2526	P	Espaguete com Molho de Tomate e Almôndegas	357009
+2527	P	Espaguete com Molho de Tomate e Vegetais	357225
+2528	P	Molho Caseiro para Espaguete com Carne e Vegetais	357406
+2529	P	Espaguete	357595
+2530	P	Espaguete de Trigo Integral	357796
+2531	P	Feijão Carioca (Broto Legal)	357998
+2532	P	Citrus (Schweppes)	358086
+2533	P	Citrus (Schin)	358152
+2534	P	Citrus Acerola (Indaiá)	358214
+2535	P	Citrus (Schin)	358279
+2536	P	Citrus Light (Schweppes)	358323
+2537	P	Cocada Ao Leite (Flormel)	358379
+2538	P	Cocada Premium (Flormel)	358457
+2539	P	Cocada (Hershey's)	358554
+2540	P	Cocada Light (Santa Helena)	358657
+2541	P	Cocada Zero (Flormel)	358724
+2542	P	Barra de Cereais Cocada e Cobertura Branca (Ritter )	358817
+2543	P	Chocolate Branco com Ovomaltine (Hershey's)	358880
+2544	P	Chocolate Ao Leite (Hershey's)	358966
+2545	P	Chocolate Ao Leite com Ovomaltine (Hershey's)	359032
+2546	P	Chocolate Special Dark (Hershey's)	359100
+2547	P	Chocolate Branco (Hershey's)	359171
+2548	P	Creme De Queijo Minas Frescal (Tirolez)	359260
+2549	P	Creme de Queijo Minas Frescal Light (Tirolez)	359358
+2550	P	Creme de Queijo (sem Gordura)	359489
+2551	P	Creme de Papaya (The Fifties)	359604
+2552	P	Ripa de Costela de Carne de Vaca	359708
+2553	P	Costela Molho Barbecue (Seara)	360082
+2554	P	Cookies Integrais Limão (Jasmine)	360136
+2555	P	Hiline F (Yakult)	360233
+2556	P	Filé de Tilápia (Copacol)	360281
+2557	P	Molho Teriyaki	360335
+2558	P	Molho Marinara	360481
+2559	P	Tangerina (Gatorade)	360625
+2560	P	Limão (Gatorade)	360682
+2561	P	Uva (Gatorade)	360741
+2562	P	Laranja (Gatorade)	360798
+2563	P	Geleia de Jabuticaba e Amora (Queensberry)	360861
+2564	P	Geléia de Amora (Homemade)	360931
+2565	P	Geléia de Amora (Olé)	361001
+2566	P	Melão	361071
+2567	P	Barra de Fruta Light Ameixa com Banana (Nutry)	361470
+2568	P	Barra de Cereais Castanha do Pará (Parati)	361537
+2569	P	Barra de Cereais Clássico Banana (Nutry)	361609
+2570	P	Alfarroba em Barra (Carob House)	361712
+2571	P	Barra de Granola Chocolate e Aveia (Nature Valley)	361783
+2572	P	Atum em Óleo (Enlatado)	361912
+2573	P	Atum Em Pedaços Ao Natural (Gomes da Costa)	362095
+2574	P	Atum Ralado Ao Natural (Gomes da Costa)	362201
+2575	P	Atum no Forno ou Grelhado	362319
+2576	P	Atum Sólido em Óleo (Gomes da Costa)	362668
+2577	P	Sashimi de Atum	362778
+2578	P	Aveia em Flocos (Quaker)	362967
+2579	P	Aveia em Flocos Finos (Nestlé)	363074
+2580	P	Farelo de Aveia (Quaker)	363176
+2581	P	Aveia em Flocos Finos (Quaker)	363245
+2582	P	Aveia Flocos Grossos (Jasmine)	363352
+2583	P	Farinha de Aveia (Quaker)	363444
+2584	P	Farelo de Aveia (Jasmine)	363523
+2585	P	Aveia em Flocos (Nestlé)	363599
+2586	P	Biscoito de Maizena (Triunfo)	363705
+2587	P	Biscoito de Maizena (Piraquê)	363808
+2588	P	Sorvetes de Baunilha Light	363902
+2589	P	Sorvetes de Baunilha Light (Textura Macia)	364066
+2590	P	Sorvetes  de Baunilha Light (sem Açúcar)	364248
+2591	P	Biscoito Água e Sal (Aymoré)	364436
+2592	P	Biscoito Amanteigado (Marilan)	364522
+2593	P	Biscoito Cream Cracker (Marilan)	364610
+2594	P	Biscoito Recheado Bono Chocolate (Nestlé)	364704
+2595	P	Biscoito Doce Maizena (Piraquê)	364801
+2596	P	Biscoito de Farelo de Aveia Sabor Avelã (Dukan)	364895
+2597	P	Biscoito Amanteigado Sabor Leite (Mabel)	364983
+2598	P	Bauru	365084
+2599	P	Bauru de Frango (Saúde no Copo)	365265
+2600	P	Bauru Vegano (Saúde no Copo)	365361
+2601	P	Jacked Potato (Outback)	365442
+2602	P	Batata Noisette (McCain)	365544
+2603	P	Pão de Canela Doce com Cobertura Glacé	365643
+2604	P	Pão de Cenoura (Bem Nutrir)	365898
+2605	P	Pão de Alho	365996
+2606	P	Pão de Alho (Wickbold)	366341
+2607	P	Pão de Alho Torrado	366408
+2608	P	Gressinos Macios com Alho e Queijo Parmesão	366673
+2609	P	Batatas Fritas (Inalterado, com Sal, Congelado)	367047
+2610	P	Hambúrguer de Queijo Grande	367168
+2611	P	Hambúrguer Grande com Condimentos e Vegetais	367318
+2612	P	Triplo Cheeseburguer (McDonald's)	367470
+2613	P	Ravioli com Recheio de Queijo	367574
+2614	P	Nhoque Ao Sugo (Substancia)	367754
+2615	P	Penne	367859
+2616	P	Canelone	368060
+2617	P	Tortellini com Recheio de Queijo	368265
+2618	P	Butter Toffee Torta de Limão (Arcor)	368448
+2619	P	Barra de Cereal Torta de Limão (Dr. Oetker)	368533
+2620	P	Torta de Cereja (Comercial)	368635
+2621	P	Picolé Torta de Limão (Sergel)	368858
+2622	P	Sopa de Vegetais (Baixo Teor de Sódio, com Água)	368924
+2623	P	Chá Verde	369090
+2624	P	Chá Verde (Feel Good)	369264
+2625	P	Chá Verde (Herbalife)	369311
+2626	P	Chá Verde (Sanavita)	369378
+2627	P	Molho para Salada Limão com Chá Verde (Castelo)	369442
+2628	P	Folia com Chá Verde (Chá Mais)	369548
+2629	P	Yogurte 100 (Dori)	369608
+2630	P	Bala Yogurte (Dori)	369658
+2631	P	Nectarinas	369712
+2632	P	Mortadela de Frango (Perdigão)	369929
+2633	P	Mortadela de Frango Light (Seara)	369993
+2634	P	Mortadela de Frango (Aurora)	370075
+2635	P	Mortadela de Frango (Copacol)	370149
+2636	P	Mortadela de Frango Light (Excelsior)	370217
+2637	P	Mortadela de Frango (Frimesa)	370278
+2638	P	Mortadela Defumada (Sadia)	370344
+2639	P	Mortadela (Perdigão)	370406
+2640	P	Mortadela Bolognella (Perdigão)	370479
+2641	P	Mortadela Bologna Tradicional (Ceratti)	370551
+2642	P	Mortadela Bologna Light (Ceratti)	370613
+2643	P	Mortadela (Copacol)	370693
+2644	P	Mortadela Bologna com Azeitona (Ceratti)	370768
+2645	P	Mortadela Light Fatiada (Taeq)	370834
+2646	P	Itambynho Vitamina (Itambé)	370924
+2647	P	Impact Whey Zero Carbo Protein (NeoNutri)	370995
+2648	P	Amêndoas Torradas com Mel	371074
+2649	P	Vagem	371244
+2650	P	Vagem (Pronto Light)	371477
+2651	P	Cogumelos Portobello (Grelhado)	371535
+2652	P	Carne de Vaca Moída (Congelado, Cozido, Grelhado)	371643
+2653	P	Costeleta de Vaca (Cortado até 0 cm de Gordura, Cozido, Grelhado)	371809
+2654	P	Danio (Danone)	371947
+2655	P	Danio Morango (Danone)	372023
+2656	P	Danio Pêssego (Danone)	372118
+2657	P	Iogurte Danio Tradicional (Danone)	372193
+2658	P	Iogurte Danio com Calda de Morango (Danone)	372265
+2659	P	Maçã (Qualitá)	372340
+2660	P	Maçã Desidratada Com Canela (Presea)	372439
+2661	P	Banana-Maçã	372527
+2662	P	Molho de Maçã com Açúcar	372714
+2663	P	Acelga	373069
+2664	P	Tapioca Crocante (Tia Sônia )	373257
+2665	P	Suco de Tangerina (Tang)	373322
+2666	P	Suco de Tangerina (Maguary)	373397
+2667	P	Top Sundae Chocolate (McDonald's)	373459
+2668	P	Top Sundae Caramelo (McDonald's)	373574
+2669	P	Top Sundae Morango (McDonald's)	373685
+2670	P	Sundae	373802
+2671	P	Pêssegos (Sólido e Líquido, em Calda Extra Light, Enlatado)	373956
+2672	P	Pêssegos (Sólido e Líquido, em Calda Light, Enlatado)	374147
+2673	P	Sobremesa de Gelatina de Dieta (Adocicada com Adoçante de Baixas Calorias)	374383
+2674	P	Soda de Dieta	374545
+2675	P	Maçã Seca	374697
+2676	P	Hambúrguer de Queijo (Uma Unidade com Condimentos)	374892
+2677	P	Burrito com Feijões e Queijo	375044
+2678	P	Chimichanga com Carne de Vaca e Queijo	375195
+2679	P	Enchilada com Queijo	375291
+2680	P	Corpus Light Ameixa (Danone)	375443
+2681	P	Corpus Light Pedaços de Morango (Danone)	375562
+2682	P	Iogurte Desnatado (Danone)	375634
+2683	P	Densia (Danone)	375712
+2684	P	Danoninho Potão (Danone)	375794
+2685	P	Damasco Seco	375849
+2686	P	Damasco Seco (Estrela do Oriente)	376037
+2687	P	Damasco Seco (Qualitá)	376127
+2688	P	Damasco Seco (Uniagro)	376196
+2689	P	Geléias ou Conservas de Damasco	376265
+2690	P	Clara de Ovo	376453
+2691	P	Clara de Ovo Cozida	376612
+2692	P	Nozes-Pecãs Açucaradas (Cobertura de Açucar e Clara de Ovo)	376813
+2693	P	Leite UHT Desnatado (Santa Clara)	377023
+2694	P	Requeijão Cremoso Light (Santa Clara)	377082
+2695	P	Ricota Fresca Light (Santa Clara)	377179
+2696	P	Uva Passa Clara sem Semente (Qualitá)	377259
+2697	P	Cappuccino (Santa Clara)	377334
+2698	P	Creme de Ricota (Santa Clara)	377417
+2699	P	Leite Desnatado (Santa Clara)	377514
+2700	P	Farinha Láctea (Nestlé)	377565
+2701	P	Farinha Láctea com Aveia (Nestlé)	377678
+2702	P	Chili sem Feijão (Entrada, Enlatado)	377780
+2703	P	Cuscuz (Cozido)	377871
+2704	P	Farinha de Milho (Vitamilho)	378117
+2705	P	Couscous (Ferrero)	378189
+2706	P	Espinafre	378290
+2707	P	Espinafre Cozido (de Espinafre Fresco)	378527
+2708	P	Espinafre Cozido (de Espinafre Congelado, Cozinhado sem Adição de Gordura)	378712
+2709	P	Creme de Espinafre	379034
+2710	P	Espinafre (Folha ou Cortado, Congelado)	379164
+2711	P	Espinafre com Queijo (Vono)	379362
+2712	P	Espinafre (Sólidos Escorridos, Enlatado)	379426
+2713	P	Mini-Espinafre	379610
+2714	P	Esfirra (Habib's)	379811
+2715	P	Mini Esfiha de Carne (Sabor e Aroma)	379916
+2716	P	Mini-Abobrinha Italiana	380027
+2717	P	Escondidinho de Frango (Sadia)	380177
+2718	P	Escondidinho De Carne (Massa Leve)	380271
+2719	P	Escondidinho de Carne Moída (Sadia)	380331
+2720	P	Creme de Avelã (Bompreço)	380431
+2721	P	Creme de Avelã com Cacau (Fugini)	380504
+2722	P	Creme de Avelã com Cacau (Carrefour)	380576
+2723	P	Creme de Avelã com Cacau (Casino)	380653
+2724	P	Alfarroba com Creme de Avelã (Carob House)	380717
+2725	P	Creme de Avelã com Cacau (Flormel)	380801
+2726	P	Barra de Cereais 7 Grãos Creme de Avelã com Cacau (Ritter )	380882
+2727	P	Creme de Ricota (Bimbo)	380985
+2728	P	Barfi ou Sobremesa Indiana Burfi (feito com Leite ou Creme de Leite ou Ricota)	381093
+2729	P	Creme de Ricota (Mondaí)	381312
+2730	P	Creme de Ricota (Canto de Minas)	381400
+2731	P	Gema de Ovo	381503
+2732	P	Miojo de Ovo (Enriquecido, Cozido)	381682
+2733	P	Wrappers Wonton (inclui Wrappers de Rolinho de Ovo)	381869
+2734	P	Vitamina de Banana (AdeS)	382110
+2735	P	Coca-Cola (500ml) (McDonald's)	382169
+2736	P	Guarapan (Coca-Cola)	382233
+2737	P	Tablete de Chocolate Meio Amargo (Cacau Show)	382284
+2738	P	Chocolate Meio Amargo (Vitao)	382353
+2739	P	Chocolate Meio Amargo (Qualitá)	382409
+2740	P	Chocolate Meio Amargo (Carrefour)	382501
+2741	P	Vitamina de Banana Zero (AdeS)	382562
+2742	P	Bananas	382653
+2743	P	Pimenta de Banana	383048
+2744	P	Leite (Magro - 1% Gordura, com Vitamina A e Proteína)	383311
+2745	P	Vitamina de Abacate	383495
+2746	P	Leite	383683
+2747	P	Vitamina de Frutas com Soja (Shefa)	384028
+2748	P	Neston Fast Vitamina (Nestlé)	384093
+2749	P	Vitamina de Frutas Vermelhas (Activia)	384195
+2750	P	Iogurte Vitamina de Frutas (Vigor)	384261
+2751	P	Iogurte Vitamina de Frutas (Vigor)	384311
+2752	P	Neston Vitamina (Nestlé)	384369
+2753	P	Vitamina Shake (Dr. Oetker)	384439
+2754	P	Churros	384511
+2755	P	Mini Churros (Habib's)	384702
+2756	P	Wafer de Chocolate (Isabela)	384767
+2757	P	Milk Shake	384867
+2758	P	Cream Crackers (Piraquê)	385035
+2759	P	Cream Cracker (Fortaleza)	385140
+2760	P	Cream Cracker (Mabel)	385266
+2761	P	Duchen Cream Cracker (Parmalat)	385367
+2762	P	Cream Cracker (Tostines)	385466
+2763	P	Cream Cracker (Triunfo)	385569
+2764	P	Cream Cracker Integral (Vitarella)	385653
+2765	P	Cream Crackers Light (Piraquê)	385754
+2766	P	Cream Cracker Superiore (Richester)	385834
+2767	P	Lasanha Ao Creme de Espinafre (Sadia)	385947
+2768	P	Cookie com Pepitas de Chocolate	386049
+2769	P	Cookie De Aveia (Pacote) (Quaker)	386417
+2770	P	Nesfit Cookies (Nestlé)	386499
+2771	P	Cookie Chocolate (Subway)	386560
+2772	P	Cookies Integrais Cacau (Vitao)	386665
+2773	P	Cookie de Aveia (Quaker)	386779
+2774	P	Combinado Light (Ragazzo)	386876
+2775	P	Goiabada (Flormel)	386982
+2776	P	Geléia de Goiaba (Queensberry)	387047
+2777	P	Geléia de Goiaba (Fugini)	387144
+2778	P	Goiabada (Frutabella)	387198
+2779	P	Doce Cremoso de Goiaba Light (Ritter )	387302
+2780	P	Goiabada (Fugini)	387372
+2781	P	Fruttare Caseiro Goiaba (Kibon)	387435
+2782	P	Granola Diet (Biosoft)	387529
+2783	P	Granola Integral Diet de Frutas Vermelhas (Jasmine)	387622
+2784	P	Granola de Cereais Diet (Kobber)	387723
+2785	P	Cookies de Granola Diet (Kobber)	387808
+2786	P	Cookies (Toddy)	387923
+2787	P	Cookies Shortbread	388012
+2788	P	Hambúrguer com Tomate e/ou Catchup no Pão	388179
+2789	P	Hambúrguer de Queijo Simples no Pão	388366
+2790	P	Hambúrguer de Queijo com Tomate e/ou Catchup no Pão	388555
+2791	P	Hambúrguer de Queijo com 1/4 Lb de Carne no Pão	388751
+2792	P	Hambúrguer de Soja sem Carne	388950
+2793	P	Hambúrguer de Vegetais sem Carne	389189
+2794	P	Hambúrguer com 1/4 Lb de Carne no Pão	389376
+2795	P	Hambúrguer de Soja (Sadia)	389567
+2796	P	Hambúrguer de Soja Empanado (Soja Mania)	389644
+2797	P	Hambúrguer de Soja com Queijo e sem Carne no Pão	389741
+2798	P	Hambúrguer de Soja (Goshen)	389905
+2799	P	Carne de Vaca Moída (Hambúrguer, cerca de 23% de Gordura, Congelado)	389982
+2800	P	Hamburguer de Carne Bovina (Sadia)	390090
+2801	P	Peito de Frango com Pele no Forno ou Cozido	390182
+2802	P	Peito de Frango Desfiado Cozido (Vapza)	390583
+2803	P	Peito de Frango Cozido Defumado (Aurora)	390644
+2804	P	Pele e Carne do Peito de Peru	390720
+2805	P	Frango Assado	390928
+2806	P	Coxa de Frango no Forno, Grelhada ou Assada	391300
+2807	P	Sobrecoxa de Frango no Forno, Grelhada ou Assada	391673
+2808	P	Frango no Forno, Grelhado ou Assado (Pele Não Consumida)	392048
+2809	P	Bolinha de Queijo	392422
+2810	P	Bolinhas de Queijo Picante (Leve Crock)	392613
+2811	P	Patê de Fígado (Enlatado)	392689
+2812	P	Salsicha de Fígado	392849
+2813	P	Filezinho de Frango (Sadia)	393230
+2814	P	Filé de Frango à Parmegiana (Seara)	393328
+2815	P	Salada de Frutas	393409
+2816	P	Coquetel ou Mistura de Frutas	393598
+2817	P	Mix de Frutas Desidratadas (Frutolla)	393788
+2818	P	Iogurte de Frutas Magro	393865
+2819	P	Scone com Frutas	394204
+2820	P	Iogurte Grego Frutas Amarelas (Vigor)	394392
+2821	P	Muffin de Frutas e/ou Nozes	394447
+2822	P	Cheesecake com Frutas	394708
+2823	P	Barra de Proteína Whey Bar Low Carb (Probiótica)	395088
+2824	P	Bala de Banana (Fumel)	395158
+2825	P	Bala de Banana (Oliveira )	395237
+2826	P	Barra de Cereal 7 Grãos Light Morango e Iogurte (Quaker)	395302
+2827	P	Barra de Cereal Light Laranja e Acerola (Quaker)	395431
+2828	P	Barra de Cereal Avelã com Chocolate (Nestlé)	395556
+2829	P	Barra de Cereal Laranja (Nestlé)	395625
+2830	P	Barra de Cereal Morango (Nestlé)	395694
+2831	P	Barra de Cereal Cookies'n'chocolate (Hershey's)	395760
+2832	P	Barra de Cereal Light Morango (Hershey's)	395832
+2833	P	Banana Passa	395936
+2834	P	Bananinha Paraibuna sem Açúcar (Bananinha Paraibuna)	396122
+2835	P	Bananinha Cristalizada (Ylagam)	396210
+2836	P	Presunto Fatiado (Extra Magro)	396268
+2837	P	Presunto Moído	396438
+2838	P	Presunto Defumado (Cozido)	396624
+2839	P	Carne de Vaca tipo Oriental e Sopa de Fitas de Arroz (Pho Bo Vietnamita)	396726
+2840	P	Rolinho de Papel de Arroz e Vegetais com Carne e/ou Camarão	396908
+2841	P	Arroz Frito sem Carne	397146
+2842	P	Arroz Frito de Carne de Porco	397335
+2843	P	Arroz Integral e Selvagem	397526
+2844	P	Arroz Integral Instantâneo	397778
+2845	P	Arroz Frito	397929
+2846	P	Arroz Frito de Camarão	398120
+2847	P	Bife de Carne de Vaca	398312
+2848	P	Bife de Carne de Vaca (apenas Parte Magra Consumida)	398656
+2849	P	Bife a Rolê	399000
+2850	P	Bife a Parmegiana	399210
+2851	P	Bife Ancho (Montana)	399355
+2852	P	Bife ou Costeleta de Porco	399430
+2853	P	Balinha do Coração (Florestal)	399802
+2854	P	Biscoito de Polvilho	399852
+2855	P	Queijo Parmesão (Ralado)	400019
+2856	P	Pimenta-da-Jamaica (Enlatado)	400219
+2857	P	Bombom Classic Avelã (Nestlé)	400471
+2858	P	Avelã com Chocolate Light (Nutry)	400553
+2859	P	Trento Avelãs (Peccin)	400679
+2860	P	Barra de Cereais Avelã com Chocolate (Nestlé)	400770
+2861	P	Avelã (Lacta)	400858
+2862	P	Big King (Burger King)	400933
+2863	P	Big Bob (Bob's)	401038
+2864	P	Chamyto Big (Nestlé)	401145
+2865	P	Big Chicken (Perdigão)	401231
+2866	P	BIG100 (MET-Rx)	401320
+2867	P	Berinjela Cozida	401380
+2868	P	Empanado de Berinjela	401727
+2869	P	Beterrabas Cozidas (de Beterrabas Frescas)	402031
+2870	P	Biscoito Nesfit Morango e Cereais (Nestlé)	402396
+2871	P	Nesfit Biscoito (Nestlé)	402486
+2872	P	Biscoito Nesfit Cacau e Cereais (Nestlé)	402593
+2873	P	Biscoito Nesfit Gergelim (Nestlé)	402697
+2874	P	Biscoito Nesfit Coco (Nestlé)	402804
+2875	P	Biscoito Nesfit Centeio (Nestlé)	402891
+2876	P	Batata Smiles (McCain)	402978
+2877	P	Batavinho (Batavo)	403030
+2878	P	Biscoito de Polvilho (Qualitá)	403112
+2879	P	Biscoito de Polvilho com Queijo (Pastorinho)	403195
+2880	P	Biscoito de Polvilho (Adams)	403296
+2881	P	Biscoito de Polvilho (Vale D'ouro)	403390
+2882	P	Biscoito de Polvilho (Globo)	403495
+2883	P	Biscoito de Polvilho (Cassini)	403593
+2884	P	Biscoito de Polvilho Salgado (Cassini)	403693
+2885	P	Goulash de Carne de Vaca com Miojo	403780
+2886	P	Bolinho Light de Chocolate com Recheio de Chocolate (Suavipan)	403968
+2887	P	Bolinho Light de Chocolate com Recheio de Baunilha (Suavipan)	404064
+2888	P	Bolinho de Cenoura com Recheio de Chocolate (Hué)	404163
+2889	P	Bolinho de Cenoura com Recheio de Chocolate (Suavipan)	404248
+2890	P	Iogurte Desnatado com Polpa de Frutas (DIA)	404333
+2891	P	Iogurte Desnatado com Polpa de Fruta Viva Leve (Ameixa) (Isis)	404386
+2892	P	Iogurte Desnatado com Polpa de Fruta Sabor Morango e Cereal (Lebom)	404438
+2893	P	Iogurte Parcialmente Desnatado com Polpa de Fruta (Fazenda Bela Vista)	404497
+2894	P	Pinhão	404558
+2895	P	Pinhão Cozido	404762
+2896	P	Angu	404953
+2897	P	Bolo de Carne Moída feito com Carne de Vaca e Porco	405151
+2898	P	Almôndega de Soja Sensação (Congelados da Sônia)	405554
+2899	P	Almôndega Vegetariana Ao Sugo (Superbom)	405694
+2900	P	Músculo Bovino	405768
+2901	P	Carne de Búfalo do Lagarto (Magra, Bife de 2,5 cm)	405866
+2902	P	Bife de Fígado	406031
+2903	P	Bife de Carne de Vaca do T-Bone (Cortado até 0 cm de Gordura, Cozido, Grelhado)	406199
+2904	P	Bacon (Curado, Frito, Cozido)	406338
+2905	P	Tofu Frito	406538
+2906	P	Biscoito Nesfit Leite e Mel (Nestlé)	406664
+2907	P	Leite (Leite Integral)	406773
+2908	P	Água Tônica	406999
+2909	P	Alfajor de Chocolate (Havanna)	407150
+2910	P	Alfajor de Doce de Leite (Havanna)	407267
+2911	P	Alfajor Negro (Punta Ballena)	407403
+2912	P	Alfajor	407501
+2913	P	Alfajor Recheado com Doce de Leite (Montevérgine)	407632
+2914	P	Alfajor Ao Leite com Doce de Leite (Cacau Show)	407697
+2915	P	Xarope para Panquecas (Calorias Reduzidas)	407769
+2916	P	Xarope para Panquecas	407905
+2917	P	Molho Italiano para Saladas(Calorias Reduzidas)	408062
+2918	P	Cebolitos (Elma Chips)	408230
+2919	P	Cenouras (Sólidos e Líquidos, Enlatado)	408290
+2920	P	Ervilhas e Cenouras (Congelado)	408512
+2921	P	Chá Branco (Feel Good)	408708
+2922	P	Amêndoas sem Casca	408763
+2923	P	Carne de Peru Moída (Cozido)	408968
+2924	P	Carne de Avestruz Moída	409183
+2925	P	Carne de Porco Moída	409294
+2926	P	Carne de Porco Moída (Cozido)	409401
+2927	P	Carne de Cordeiro Moída	409605
+2928	P	Carne de Búfalo Moída	409716
+2929	P	Molho de Carne de Vaca (Enlatado)	409830
+2930	P	Molho de Carne de Peru (Enlatado)	410020
+2931	P	Salada de Taco ou Tostada com Carne de Vaca, Queijo e Fritas de Milho	410235
+2932	P	Carne de Alce Moída	410439
+2933	P	Carne de Veado Moída	410552
+2934	P	Rolinho de Ovo com Carne de Frango ou Peru	410665
+2935	P	Caril de Carne de Vaca	410906
+2936	P	Carne de Peru Light Assada	411093
+2937	P	Carne de Panela	411469
+2938	P	Carne de Vaca do Acém (Cortado até 0,5 cm de Gordura)	411612
+2939	P	Carne de Vaca do Acém (Cortada até 0,5 cm de Gordura)	411718
+2940	P	Carne de Vaca da Fraldinha (Cortado até 0 cm de Gordura)	411831
+2941	P	Carne de Vaca do Peito (Cortada até 0,3 cm de Gordura, Cozido, Guisado)	411944
+2942	P	Salsicha de Carne de Porco e Vaca	412070
+2943	P	Carne de Vaca Guisada com Batatas e Vegetais em Molho com Base de Tomate	412400
+2944	P	Manteiga de Amendoim Fina (Gordura Reduzida)	412578
+2945	P	Castanhas de Caju	412682
+2946	P	Castanha de Caju (Cashews Royale)	412861
+2947	P	Castanha de Caju (Dr. Oetker)	412944
+2948	P	Castanhas de Caju Torradas com Sal	413036
+2949	P	Castanhas de Caju Torradas sem Sal	413205
+2950	P	Castanhas de Caju Torradas e Salgadas (Dunorte)	413368
+2951	P	Castanha de Caju Torrados com Mel	413483
+2952	P	Cookies Integrais Castanha de Caju (Vitao)	413706
+2953	P	Bombom Castanha de Caju (Svili)	413825
+2954	P	Alfarroba com Castanha de Caju (Carob House)	413924
+2955	P	Água de Coco (Kero Coco)	414010
+2956	P	Água de Coco (Kero Coco)	414068
+2957	P	Água de Coco (Ducoco)	414155
+2958	P	Água de Coco (Sococo)	414235
+2959	P	Água De Coco (Do Bem)	414321
+2960	P	Coco	414405
+2961	P	Água de Coco (Kero Coco)	414598
+2962	P	Água de Coco (Taeq)	414652
+2963	P	Água de Coco (Carrefour)	414735
+2964	P	Purê de Abóbora (Pronto Light)	414815
+2965	P	Peito de Peru Defumado Light (Sadia)	414868
+2966	P	Peito de Peru Defumado Sadia Light (Sadia)	414952
+2967	P	Peito de Peru Defumado (Sadia)	415065
+2968	P	Torta de Peito de Peru Defumado com Creme de Queijo (Sadia)	415120
+2969	P	Broa de Fubá	415197
+2970	P	Açúcar	415387
+2971	P	Açúcar Refinado (União)	415642
+2972	P	Açúcar Cristal Orgânico (União)	415711
+2973	P	Açúcar Fit (União)	415780
+2974	P	Açúcar Mascavo	415853
+2975	P	Açúcar Demerara (Native)	416131
+2976	P	Açúcar Cristal Orgânico (Native)	416200
+2977	P	Chiclete sem Açúcar (Mentos)	416265
+2978	P	Arroz Carreteiro	416325
+2979	P	Carne	416504
+2980	P	Carne de Vaca Assada	416849
+2981	P	Carne de Vaca	417224
+2982	P	Carne de Vaca Guisada com Batatas e Vegetais (incluindo Cenouras, Brócolis e Outros) em Molho com Base de Tomate	417581
+2983	P	Carne de Vaca Assada (apenas Parte Magra Consumida)	417778
+2984	P	Carne de Vaca Moída	418149
+2985	P	Carne de Vaca Seca (Jabá)	418494
+2986	P	Carne de Vaca Moída (95% Magro / 5% Gordo)	418615
+2987	P	Carne de Vaca Moída (95% Magro / 5% Gordo, Cozido, Grelhado)	418743
+2988	P	Carne de Vaca Moída (90% Magro / 10% Gordo)	418963
+2989	P	Carne de Vaca Moída (85% Magro / 15% Gordo)	419090
+2990	P	Carne de Vaca Moída (85% Magro / 15% Gordo, Cozido, Grelhado)	419220
+2991	P	Carne de Vaca Moída (70% Magra / 30% Gordura )	419441
+2992	P	Bolo de Cenoura com Cobertura de Chocolate	419606
+2993	P	Bolo de Cenoura sem Cobertura Glacé	419793
+2994	P	Bolo de Cenoura com Cobertura Glacé	420183
+2995	P	Bolo de Leite (Dr. Oetker)	420584
+2996	P	Bolo de Fubá	420687
+2997	P	Bolo Mesclado (Bauducco)	420875
+2998	P	Goma de Mascar (sem Açúcar)	420965
+2999	P	Bolo de Café	421082
+3000	P	Café Mocha	421479
+3001	P	Café Descafeinado	421717
+3002	P	Carne de Bode	421896
+3003	P	Melões Cantalupo	422000
+3004	P	Caipirinha	422394
+3005	P	Brócolis (Cortado, Congelado)	422601
+3006	P	Brócolis (Inteiro, Congelado)	422808
+3007	P	Brócolis Raab	422946
+3008	P	Arroz de Forno	423058
+3009	P	Tortilhas (Baixo Teor de Gordura, no Forno)	423250
+3010	P	Miojo de Arroz Seco	423347
+3011	P	Miojo de Arroz (Cozido)	423459
+3012	P	Arroz Selvagem (Cozido)	423634
+3013	P	Arroz Cozido com Leite de Coco (Arroz Con Coco)	423814
+3014	P	Queijo Ricota (Regina)	423944
+3015	P	Queijo Ricota (Isis)	424025
+3016	P	Rabanada (Magro e com 2% de Leite)	424098
+3017	P	Rabanada (Congelado)	424245
+3018	P	Kibe Assado	424403
+3019	P	Purê de Mandioquinha (Seletti)	424594
+3020	P	Purezinho de Abobrinha, Batata e Frango (Nestlé)	424650
+3021	P	Proteína em Pó	424723
+3022	P	Proteína Radical (NeoNutri)	424901
+3023	P	Proteína Texturizada de Soja Granulada (Yoki)	424976
+3024	P	Proteína de Soja Texturizada (Cerélus)	425042
+3025	P	Proteína Texturizada De Soja (Jasmine)	425122
+3026	P	Proteína de Soja Texturizada (Camil)	425197
+3027	P	Proteína Texturizada de Soja em Pedaços (Yoki)	425269
+3028	P	Substituto de Creme de Leite (Líquido)	425331
+3029	P	Proteína Texturizada De Soja (Arma Zen)	425552
+3030	P	Salsicha Italiana Doce	425606
+3031	P	Rosca de Coco (Ninfa)	425761
+3032	P	Rosca de Calda (Ninfa)	425856
+3033	P	Farinha de Rosca (Yoki)	425939
+3034	P	Rosbife	426019
+3035	P	Rosbife (Subway)	426127
+3036	P	Flatbread Rosbife 4 Pimentas (Quiznos)	426233
+3037	P	Rondelli de Presunto e Queijo	426301
+3038	P	Shake Diet (Redubio)	426443
+3039	P	Peito de Frango Frito sem Revestimento (Pele Não Consumida)	426541
+3040	P	Peito de Frango Light em Fatias (Seara)	426901
+3041	P	Brócolis Cozidos (Cozinhado sem Gordura Adicionada)	426971
+3042	P	Brócolis	427251
+3043	P	Brócolis Cozidos (de Brócolis Frescos)	427538
+3044	P	Brócolis Cozidos (de Brócolis Frescos, Cozinhado sem Gordura Adicionada)	427887
+3045	P	Brócolis Chineses (Cozido)	428272
+3046	P	Brócolis Cozidos (de Brócolis Congelados, Cozinhado sem Gordura Adicionada)	428456
+3047	P	Brócolis Cozidos (de Brócolis Congelados)	428848
+3048	P	Brócolis (Spoleto)	429240
+3049	P	Brócolis Sauté (Montana)	429284
+3050	P	Brócolis (Pronto Light)	429374
+3051	P	Adoçantes	429434
+3052	P	Café (Expresso Infusão)	429551
+3053	P	Café (em Pó Instantâneo)	429641
+3054	P	Cookie Orgânico Sabor Café (Native)	429850
+3055	P	Recheadinho Sabor Goiabinha (Bauducco)	429951
+3056	P	Recheadinho Sabor Chocolate (Bauducco)	430076
+3057	P	Recheadinho Sabor Brigadeiro (Bauducco)	430179
+3058	P	Repolho	430298
+3059	P	Repolho Chinês (Bok-Choy, Pak-Choi)	430686
+3060	P	Repolho-Roxo	430909
+3061	P	Repolho Verde Cozido	431300
+3062	P	Repolho Verde	431689
+3063	P	Salada (KFC)	432077
+3064	P	Chucrute Cozido	432160
+3065	P	Repolho Chinês	432349
+3066	P	Charuto de Repolho	432655
+3067	P	Chucrute (Sólidos e Líquidos, Enlatado)	432842
+3068	P	Barra de Cereais Damasco e Pêssego (Ritter )	433061
+3069	P	Pessego em Calda Diet (Taeq)	433127
+3070	P	Cereal em Barra com Pêssego e Damasco (Taeq)	433203
+3071	P	Quick Creme de Batata com Pedaços de Carne (Knorr)	433289
+3072	P	Patê de Presunto (Sadia)	433388
+3073	P	Patê de Frango com Ervas Finas (Excelsior)	433476
+3074	P	Patê de Peito de Peru (Sadia)	433540
+3075	P	Patê Azeitona Preta (Santa Quitéria)	433608
+3076	P	Pasta de Queijo	433686
+3077	P	Queijo Creme Light	433910
+3078	P	Sopa Creme de Legumes (Cozinha Natural)	434124
+3079	P	Sopa Instantânea Frango com Legumes (Herbalife)	434187
+3080	P	Sopa Instantânea Legumes e Verduras (Herbalife)	434313
+3081	P	Sopa de Frango com Legumes (Herbalife)	434443
+3082	P	Pirão	434568
+3083	P	Pirão de Peixe	434761
+3084	P	Macarrão Fresco	434955
+3085	P	Macarrão Fresco (Cozido)	435076
+3086	P	Macarrão e Queijo (Entrada, Enlatado)	435181
+3087	P	Pizza de Frango com Catupiry e Mussarela (Sadia)	435329
+3088	P	Pizza de Frango com Catupiry (Seara)	435429
+3089	P	Pizza de Frango com Catupiry (Sadia)	435532
+3090	P	Pizza de Frango com Requeijão (Aurora)	435646
+3091	P	Pizza Artezanale Calabresa (Pizza Hut)	435749
+3092	P	Pizza Calabresa (Habib's)	435819
+3093	P	Pizza Meio a Meio Calabresa e Mussarela (Sadia)	435911
+3094	P	Pizza Calabresa (Congelados da Sônia)	436016
+3095	P	Pizza de Calabresa (Seara)	436118
+3096	P	Pizza Portuguesa (Sadia)	436218
+3097	P	Pizza Portuguesa (Habib's)	436322
+3098	P	Azeitonas (Pequenas-Muito Grandes)	436410
+3099	P	Sopa de Ervilha	436576
+3100	P	Estrogonofe de Frango	436704
+3101	P	Strogonoff de Frango (Substancia)	436894
+3102	P	Strogonoff de Frango Colorido (Congelados da Sônia)	437014
+3103	P	Strogonoff de Frango (Mania Light)	437129
+3104	P	Strogonoff de Frango (Seara)	437228
+3105	P	Strogonoff de Frango (Sadia)	437293
+3106	P	Strogonoff de Carne (Sabor Light)	437400
+3107	P	Strogonoff de Carne (Congelados da Sônia)	437467
+3108	P	Strogonoff de Camarão (Vivenda do Camarão)	437602
+3109	P	Tomate (Subway)	437700
+3110	P	Frango Teriyaki (Subway)	437792
+3111	P	Molho Mostarda e Mel (Subway)	437898
+3112	P	Molho Parmesão (Subway)	437980
+3113	P	Queijo Suíço (Subway)	438063
+3114	P	Peito de Peru (Subway)	438153
+3115	P	Macarrão a Bolonhesa	438255
+3116	P	Salada de Macarrão com Atum	438439
+3117	P	Bebida com Suco de Maçã	438627
+3118	P	Suco De Maçã (Suvalan)	438767
+3119	P	Suco de Maçã Zero (AdeS)	438825
+3120	P	Suco de Maça (Yakult)	438912
+3121	P	Iogurte com Suco de Laranja, Cenoura e Mel (Paulista)	438965
+3122	P	Iogurte Integral com Cenoura, Suco de Laranja e Mel (Nestlé)	439058
+3123	P	Suco de Laranja (La Fruit )	439144
+3124	P	Suco de Laranja (Disfrut)	439206
+3125	P	Suco de Laranja (Fruthos)	439264
+3126	P	Couve-Rábano	439323
+3127	P	Smoothie de Fruta (feito apenas com Fruta ou Suco de Fruta)	439494
+3128	P	Smoothie de Fruta (com Suco de Frutas e Produtos Lácteos)	439707
+3129	P	Suco Mix De Frutas (Suvalan)	439921
+3130	P	Suco de Frutas Cítricas (Tampico)	439985
+3131	P	Subway Club TM (Subway)	440041
+3132	P	Iogurte Light Mamão e Laranja (Frimesa)	440147
+3133	P	Mamão e Cereais (Activia)	440236
+3134	P	Bebida Láctea UHT com Cereais e Polpa de Mamão e Maçã (Piracanjuba)	440306
+3135	P	Sanduíche de Queijo Grelhado	440375
+3136	P	Salmão no Forno ou Grelhado	440568
+3137	P	Salmão Selvagem do Atlântico	440918
+3138	P	Salmão-Rosado	441046
+3139	P	Salmão-Vermelho	441213
+3140	P	Salmão-Rei Defumado	441369
+3141	P	Cogumelos Brancos (Salteado em Wok)	441573
+3142	P	Anchovas (Solidos Escorridos em Óleo, Enlatado)	441751
+3143	P	Pasta de Soja com Rúcula (Puro Sabor)	441948
+3144	P	Salada de Frutas (Hortifruti)	442063
+3145	P	Salada de Frutas (Qualitá)	442120
+3146	P	Salada de Frutas (Lio Fruit)	442219
+3147	P	Papinha de Frutas Sortidas (Nestlé)	442299
+3148	P	Barra de Cereal Salada de Frutas (In Natura)	442367
+3149	P	Salada De Frutas (Levittá)	442438
+3150	P	Molho Caesar para Saladas (de Baixas Calorias)	442505
+3151	P	Barra De Granola Integral Banana E Linhaça (Mãe Terra)	442674
+3152	P	Sementes de Gergelim e Linhaça (Levittá)	442742
+3153	P	Granola com Soja, Cacau e Linhaça (Taeq)	442802
+3154	P	Barra de Sementes de Gergelim e Linhaça (Levittá)	442891
+3155	P	Biscoito Integral Gergelim e Linhaça (Jasmine)	442963
+3156	P	Quinoa e Linhaça Mamão e Maçã (Piracanjuba)	443014
+3157	P	Quinoa e Linhaça Banana (Piracanjuba)	443105
+3158	P	Quinoa e Linhaça Cereais (Piracanjuba)	443193
+3159	P	Pão Integral Amaranto e Linhaça (Wickbold)	443262
+3160	P	Pão Integral Linhaça (Thabrulai)	443337
+3161	P	Salada Mista (Montana)	443423
+3162	P	Mini Salada Mista (Hortifruti)	443528
+3163	P	Molho Caesar para Saladas	443579
+3164	P	Salada Taco	443763
+3165	P	Molho Italiano para Saladas (sem Gordura)	443918
+3166	P	Salada de Macarrão com Frango	444103
+3167	P	Salada de Macarrão com Queijo	444291
+3168	P	Salada de Macarrão com Tempero à Base de Vinagre e Azeite de Oliva	444481
+3169	P	Salada de Macarrão com Carne	444663
+3170	P	Shake Diet Baunilha (Lipomax)	444852
+3171	P	Seriguela	444948
+3172	P	Shake Diet Morango (Bioslim)	445081
+3173	P	Thermo Shake Diet Morango (Probiótica)	445163
+3174	P	Batata-Doce (sem Casca, Cozido, Fervido)	445275
+3175	P	Inhame (sem Sal, Escorrido, Cozido, Fervido, no Forno)	445434
+3176	P	Leite de Soja Light (Shefa)	445581
+3177	P	Leite sem Lactose (SupraSoy)	445665
+3178	P	Leite de Soja (Purity)	445772
+3179	P	Soymilke Natural (Olvebra)	445844
+3180	P	Leite de Soja Zero (Batavo)	445929
+3181	P	Leite Desnatado (Piracanjuba)	446013
+3182	P	Leite Desnatado Fibras (Piracanjuba)	446081
+3183	P	Leite em Pó Desnatado Instantâneo (Piracanjuba)	446149
+3184	P	Mistura de Cacau e Açúcar (com Leite Magro)	446228
+3185	P	Creme de Leite com Açucar e Ovos	446370
+3186	P	Pudim de Leite Condensado	446538
+3187	P	Leite Condensado Diet (Hué)	446711
+3188	P	Leite Condensado sem Açúcar (Delakasa)	446783
+3189	P	Leite Condensado Zero Açúcar (Lowçucar)	446856
+3190	P	Pão de Milho (Mistura Seca, Preparado)	446910
+3191	P	Pão de Milho (com Leite Magro - 2%)	447070
+3192	P	Pão de Trigo Partido	447218
+3193	P	Mamão Papaia	447517
+3194	P	Mamão	447775
+3195	P	Light Mamão (Molico)	448171
+3196	P	Peito de Peru Light (Sadia)	448268
+3197	P	Manteiga (Aviação)	448344
+3198	P	Manteiga (Itambé)	448419
+3199	P	Queijo de Manteiga	448502
+3200	P	Manteiga (Becel)	448633
+3201	P	Manteiga Extra sem Sal (Batavo)	448714
+3202	P	Manteiga (Leco)	448781
+3203	P	Margarina	448852
+3204	P	Margarina Cremosa (Qualy)	449177
+3205	P	Qualy Light (Qualy)	449245
+3206	P	Margarina Original (Becel)	449328
+3207	P	Delícia Supreme (Delícia)	449405
+3208	P	Margarina Qualy Cremosa (Sadia)	449484
+3209	P	Deline (Sadia)	449567
+3210	P	Margarina Light (Doriana)	449636
+3211	P	Original sem Sal (Becel)	449708
+3212	P	Wafer Limão (Mabel)	449791
+3213	P	Sardinha Sabor Limão (Gomes da Costa)	449890
+3214	P	Picolé La Frutta Limão (Nestlé)	449996
+3215	P	Limão (Dolly)	450070
+3216	P	Iogurte com Limão (Diletto)	450124
+3217	P	Linguado no Forno ou Grelhado	450189
+3218	P	Filé de Peixe Linguado (Bacalanor)	450583
+3219	P	Linguado Empanado Frito	450665
+3220	P	Linguado Cozido	451064
+3221	P	Filé de Linguado (Frescatto)	451411
+3222	P	Linguado a Capixaba (Congelados da Sônia)	451485
+3223	P	Quiche de Queijo sem Carne	451604
+3224	P	Quiche de Espinafre (Sabores Light)	451994
+3225	P	Quiche de Espinafres sem Carne	452083
+3226	P	Quiche de Peito de Peru (Taeq)	452477
+3227	P	Quiche de Carne ou Peixe	452559
+3228	P	Rap 10 Light (Pullman)	452955
+3229	P	Rap10 Integral (Pullman)	453031
+3230	P	Rap 10 Integral (Pullman)	453100
+3231	P	Rap10 Fit (Bimbo)	453179
+3232	P	Iogurte Natural Desnatado (Batavo)	453254
+3233	P	Iogurte Desnatado (Ati Latte)	453349
+3234	P	Iogurte Natural Desnatado (Nestlé)	453451
+3235	P	Iogurte Natural Desnatado (Paulista)	453533
+3236	P	Iogurte Desnatado (Itambé)	453604
+3237	P	Iogurte Natural Desnatado (Fazenda Bela Vista)	453706
+3238	P	Iogurte com Polpa de Ameixa Desnatado (Frimesa)	453799
+3239	P	Iogurte de Morango (90g) (Vigor)	453899
+3240	P	Iogurte Integral Laranja, Cenoura e Mel (170g) (Vigor)	453974
+3241	P	Iogurte Grego Frutas Vermelhas (Vigor)	454067
+3242	P	Iogurte Vigor (Vigor)	454120
+3243	P	Iogurte Coco (Vigor)	454182
+3244	P	Iogurte de Morango (Frasco) (Vigor)	454255
+3245	P	Aveia com Morango, Iogurte e Quinua (Taeq)	454325
+3246	P	Iogurte Integral com Aveia e Mel (Batavo)	454405
+3247	P	Salsicha Hot Dog (Perdigão)	454494
+3248	P	Pão Hot Dog (Wickbold)	454557
+3249	P	Pão Hot Dog (Extra)	454622
+3250	P	Pão Para Hot Dog (Wickbold)	454691
+3251	P	Pão Especial para Hot Dog (Casa Victoriana)	454774
+3252	P	Pão Hot Dog Integral (Pane Vita)	454843
+3253	P	Pão para Hot Dog (Casa Victoriana)	454914
+3254	P	Suco de Maracujá Orgânico (Native)	454983
+3255	P	Suco De Maracujá (Jandaia)	455048
+3256	P	Inhame (com Sal, Escorrido, Cozido, Fervido)	455122
+3257	P	Inhame	455318
+3258	P	Cará	455486
+3259	P	Rap10 Light (Pullman)	455616
+3260	P	Rap10 Light (Plus Vita)	455690
+3261	P	Rap 10 (Pullman)	455766
+3262	P	Farinha de Aveia Rápida (1 ou 3 Minutos)	455830
+3263	P	Rap10 (Pullman)	456082
+3264	P	Rapadura	456138
+3265	P	Margarina (Regular, 80% Gordura com Sal)	456271
+3266	P	Margarina (sem Gordura)	456446
+3267	P	Margarina (Óleo Vegetal, 20% de Gordura)	456622
+3268	P	Purê de Batatas (Leite Integral e com Margarina)	456788
+3269	P	Abóbora (sem Sal, Enlatado)	456975
+3270	P	Vinho de Mesa	457158
+3271	P	Vinho Tinto de Mesa	457299
+3272	P	Vinho Branco de Mesa	457429
+3273	P	Kibe Frito (Habib's)	457574
+3274	P	Kibe (Sadia)	457679
+3275	P	Kibe Frito	457762
+3276	P	Kibe Frito (Almanara)	457906
+3277	P	Mini Kibe Cremily (Habib's)	457954
+3278	P	Kibe Cru	458047
+3279	P	Trigo para Kibe (Yoki)	458239
+3280	P	Kibe (Qualitá)	458313
+3281	P	Kibe Cru (Habib's)	458405
+3282	P	Slim 7 Grãos (Nutrella)	458476
+3283	P	Slim Iogurte, Cenoura e Mel (Nutrella)	458569
+3284	P	Pão Preto (Nutrella)	458640
+3285	P	Pão Preto Integral (Wickbold)	458695
+3286	P	Pão Integral Preto (Seven Boys)	458769
+3287	P	Pão Preto (Farias)	458899
+3288	P	Pão Preto (Vital)	458963
+3289	P	Pão Preto Light (Panco)	459030
+3290	P	Pão Preto Schwarzbrot (Vital)	459107
+3291	P	Pão Preto Light (Valdepan)	459176
+3292	P	Pão Sovado (Seven Boys)	459269
+3293	P	Pão Sovado (Extra)	459336
+3294	P	Pão Sovado (Tica)	459403
+3295	P	Pão Sírio	459474
+3296	P	Pão Sírio Integral (Pita Bread)	459790
+3297	P	Pão Sírio Pequeno (Pita Bread)	459868
+3298	P	Pão de Forma Light 12 Grãos (Pullman)	459942
+3299	P	Pão de Forma Light (Wickbold)	460032
+3300	P	Pão de Forma Premium (Panco)	460111
+3301	P	Alhos-Poró	460203
+3302	P	Pão de Forma (Farias)	460424
+3303	P	Pão de Milho (Panco)	460494
+3304	P	Pão de Milho (Receita Caseira)	460579
+3305	P	Pão de Milho (Seven Boys)	460974
+3306	P	Pão de Milho (Beladri)	461053
+3307	P	Pão de Forma Light (20g) (Wickbold)	461139
+3308	P	Pão de Forma Light (Seven Boys)	461193
+3309	P	Pão de Forma Light (Nutrella)	461263
+3310	P	Pão de Forma Light (18.8g) (Wickbold)	461348
+3311	P	Pão de Forma Light Iogurte com Cenoura (Wickbold)	461443
+3312	P	Pão de Forma Light Branco (Plus Vita)	461510
+3313	P	Pão de Forma Light 9 Cereais (Di Napoli )	461599
+3314	P	Pão de Forma Light Integral (DIA)	461667
+3315	P	Pão de Forma Integral Total 15 Grãos (Panco)	461747
+3316	P	Pão de Forma Integral Light (Plus Vita)	461834
+3317	P	Pão Light (Nutrella)	461913
+3318	P	Pão Integral Light Iogurte com Cenoura (Wickbold)	461984
+3319	P	Pão Semi Integral Light (Newbread)	462071
+3320	P	Pão Branco Light (Firenze)	462172
+3321	P	Pão Light 7 Grãos (Nutrella)	462243
+3322	P	Pão Integral sem Casca Light (Wickbold)	462324
+3323	P	Pão de Centeio Light (Plus Vita)	462391
+3324	P	Pão De Forma Light 12 Grãos (DIA)	462480
+3325	P	Pão Integral Trigo e Linho Light (Seven Boys)	462565
+3326	P	Pão Multi Grãos Light (Plus Vita)	462711
+3327	P	Pão 12 Grãos Integral (Nutrella)	462805
+3328	P	Pão Integral 10 Grãos Light (Wickbold)	462877
+3329	P	Pão Integral 10 Grãos (Baldini)	462950
+3330	P	Pão Integral 9 Grãos (Plus Vita)	463018
+3331	P	Creme de Palmito	463091
+3332	P	Torta de Palmito com Catupiry (Sadia)	463239
+3333	P	Palmito Juçara (Hemmer)	463321
+3334	P	Pão Árabe Integral (Romana)	463376
+3335	P	Pão Árabe Integral (Baalbek)	463446
+3336	P	Pão Árabe (Tenda Árabe)	463513
+3337	P	Pão Árabe Integral (Limiar)	463598
+3338	P	Pão Árabe Linho (Baalbek)	463671
+3339	P	Pão Árabe Light (Tenda Árabe)	463740
+3340	P	Salada Verde Mista	463811
+3341	P	Alface de Folha Verde	464018
+3342	P	Salada Verde de Frango ou Peru (Frango e/ou Peru, Tomates e/ou Cenouras, Outros Vegetais)	464241
+3343	P	Salada Oriental Verde de Frango ou Peru (Frango e/ou Peru, Alface, Frutas, Nozes)	464461
+3344	P	Salada Verde de Frango ou Peru (Frango e/ou Peru, Outros Vegetais Excluindo Tomates e Cenouras)	464650
+3345	P	Cebolinha Verde	464836
+3346	P	Palmito (Spoleto)	464984
+3347	P	Torta de Palmito (Sadia)	465045
+3348	P	Torta de Frango com Palmito, Milho e Catupiry (Sadia)	465124
+3349	P	Pão de Coco (Panco)	465195
+3350	P	Queijo Suíço (Magro)	465259
+3351	P	Alface Americana	465518
+3352	P	Salada de Alface com Vegetais Variados (com Tomates e/ou Cenouras)	465882
+3353	P	Salada de Alface com Queijo, Tomate e/ou Cenoura	466092
+3354	P	Salada de Alface com Vegetais Variados	466282
+3355	P	Salada de Alface com Ovo, Queijo, Tomate e / ou Cenouras	466462
+3356	P	Salada de Alface com Ovo, Tomate e / ou Cenouras	466641
+3357	P	Salada de Maionese	466832
+3358	P	Salada à Brasileira (Salad Creations)	467019
+3359	P	McFlurry Suflair (McDonald's)	467137
+3360	P	Mate Concentrado (Matte Leão)	467252
+3361	P	Mate Puro (Rei do Mate)	467312
+3362	P	Mate com Leite (Rei do Mate)	467375
+3363	P	Capuccino Gelado (Grande) (Rei do Mate)	467454
+3364	P	Chimarrão	467521
+3365	P	Broinha de Milho (Mega Matte)	467633
+3366	P	Pão de Queijo de Soja (Mega Matte)	467707
+3367	P	Guaraná Power (Matte Leão)	467778
+3368	P	Guaraná Natural Diet (Mega Matte)	467822
+3369	P	Leão Ice Tea Limão (Matte Leão)	467883
+3370	P	Melão Amarelo	467945
+3371	P	Suco de Melão	468173
+3372	P	Melões Verdes	468340
+3373	P	Melão Cantalupo	468715
+3374	P	Melão Cantalupo Congelado (Bolas)	469114
+3375	P	Soja + Suco de Melão (AdeS)	469352
+3376	P	Melancia	469437
+3377	P	Suco de Melancia	469840
+3378	P	Suco de Melancia (Hortifruti)	469994
+3379	P	Melancia (Trident)	470052
+3380	P	Mozzarella de Búfala	470130
+3381	P	Mussarela de Búfala (Go Fresh)	470374
+3382	P	Mussarela de Búfala Fatiada (Extra)	470426
+3383	P	Cracker Mussarela de Bufala com Manjericao (Eqlibri)	470501
+3384	P	Amoras (Não Adocicado, Congelado)	470642
+3385	P	Mirtilos (Não Adocicado, Congelado)	470845
+3386	P	Nhoque de Batata (Mezzani)	471005
+3387	P	Nhoque (Massa Leve)	471063
+3388	P	Nhoque Recheado Requeijão Ao Sugo (Massa Leve)	471121
+3389	P	Nhoque Ao Sugo (Ragazzo)	471216
+3390	P	Nhoque a Bolonhesa (Congelados da Sônia)	471322
+3391	P	Leite Condensado (Nestlé)	471438
+3392	P	Leite Condensado Moça (Nestlé)	471510
+3393	P	Leite Condensado (Elegê)	471578
+3394	P	Leite Condensado (Italac)	471641
+3395	P	Leite Condensado Light (Nestlé)	471709
+3396	P	Leite Condensado (Piracanjuba)	471779
+3397	P	Leite Condensado (Jussara )	471845
+3398	P	Pudim de Leite Condensado (Habib's)	471919
+3399	P	Leite Fermentado (Danone)	472009
+3400	P	Leite Fermentado (Chamyto)	472077
+3401	P	Leite Fermentado (Yakult)	472127
+3402	P	Leite Fermentado (Vigor)	472214
+3403	P	Leite Fermentado (Elegê)	472288
+3404	P	Leite Fermentado Desnatado (DIA)	472380
+3405	P	Leite Fermentado Ninho Soleil (Nestlé)	472455
+3406	P	Leite Fermentado com Fibras (Activia)	472520
+3407	P	Molho Coquetel	472610
+3408	P	Coquetel de Camarão (Camarão com Molho Coquetel)	472797
+3409	P	Camarão Scampi	472991
+3410	P	Geléia de Mocotó (Arisco)	473172
+3411	P	Geléia de Mocotó Light (DuCopo)	473242
+3412	P	Vagem Cozida	473306
+3413	P	Uvas	473445
+3414	P	Uva sem Sementes (Qualitá)	473768
+3415	P	Uva Niagara (Qualitá)	473831
+3416	P	Uvas tipo Europeu	473880
+3417	P	Suco de Uva (Maguary)	474203
+3418	P	Uvas tipo Americano	474259
+3419	P	Suco de Uva (Suvalan)	474445
+3420	P	Umbu	474516
+3421	P	Uísque	474689
+3422	P	Frozen Margarita	474797
+3423	P	Vodca	474986
+3424	P	Gin	475090
+3425	P	Chá Gelado Long Island	475199
+3426	P	Rum	475344
+3427	P	Rum com Coca-Cola	475448
+3428	P	Margarita	475634
+3429	P	Bloody Mary	475824
+3430	P	Gin Tônico	476010
+3431	P	Whey Pós Treino (NeoNutri)	476177
+3432	P	Pêssegos	476233
+3433	P	Pêssego	476596
+3434	P	Pêssegos (Sólido e Líquido, em Suco, Enlatados)	476981
+3435	P	Molho Vinagrete	477187
+3436	P	Molho Italiano (feito com Vinagre e Azeite)	477436
+3437	P	Molho para Salada Italiano (Hellmann's)	477659
+3438	P	Tomates	477791
+3439	P	Palmito	478192
+3440	P	Chicória	478382
+3441	P	Abobrinha	478517
+3442	P	Zucotto (Ragazzo)	478701
+3443	P	Suco De Pêssego (Jandaia)	478795
+3444	P	Pêssegos (Sólido e Líquido, em Água, Enlatado)	478858
+3445	P	Pêssego Light (Sufresh)	479037
+3446	P	Trident Sensations (Trident)	479089
+3447	P	Iogurte Integral com Pedaços de Pêssego (Batavo)	479160
+3448	P	Peito de Frango no Forno, Grelhado ou Assado	479256
+3449	P	Peito de Frango no Forno, Grelhado ou Assado (Pele Não Consumida)	479600
+3450	P	Peito de Frango no Forno, Grelhado ou Assado (Pele Consumida)	479943
+3451	P	Carne de Peito de Peru	480318
+3452	P	Carne do Peito de Codorna	480506
+3453	P	Taco ou Tostada com Carne de Vaca, Alface, Tomate e Salsa	480736
+3454	P	Picolé (sem Açúcar)	480947
+3455	P	Supino Light Banana (Supino)	481055
+3456	P	Supino Light Banana e Ameixa (Supino)	481161
+3457	P	Supino Light Banana e Fibras (Supino)	481277
+3458	P	Supino Tradicional (Supino)	481359
+3459	P	Soja + Suco de Uva Zero (AdeS)	481461
+3460	P	Tahine (Jasmine)	481561
+3461	P	Tahine (Istambul)	481670
+3462	P	Trufa Puro Cacau (Cacau Show)	481743
+3463	P	Trufa Maçã do Amor (Cacau Show)	481837
+3464	P	Trufa Mezzo (Cacau Show)	481912
+3465	P	Trufa Paçoca (Cacau Show)	481984
+3466	P	Trufa Tradicional Zero (Cacau Show)	482060
+3467	P	Trufa Branca (Cacau Show)	482128
+3468	P	Magnum Trufa de Chocolate (Kibon)	482198
+3469	P	Bombons de Chocolate Ao Leite com Trufa (Cacau Show)	482305
+3470	P	Nutella (Nutella)	482378
+3471	P	Tutu de Feijão	482447
+3472	P	Taco ou Tostada com Carne de Vaca, Queijo, Alface, Tomate e Salsa	482638
+3473	P	Taco Macio com Carne de Vaca, Queijo, Alface, Tomate e Creme Azedo	482876
+3474	P	Taco ou Tostada de Frango, Queijo, Alface, Tomate e Salsa	483103
+3475	P	Tomates Cereja	483320
+3476	P	Bolo de Caneca Panetone e Chocolate (Dr. Oetker)	483528
+3477	P	Uvas-Passas	483637
+3478	P	Tomate (Spoleto)	483864
+3479	P	Tomate Recheado	483914
+3480	P	Tomate Pelado (Casino)	484111
+3481	P	Guacamole com Tomates e Pimentas Chili	484207
+3482	P	Costeleta de Porco	484387
+3483	P	Torta de Banana (McDonald's)	484762
+3484	P	Torta de Nozes Pecãs	484854
+3485	P	Torta de Palmito com Requeijão (Massa Leve)	485029
+3486	P	Torta de Palmito com Requeijão (Qualitá)	485110
+3487	P	Torta de Mirtilo	485184
+3488	P	Torresmo	485353
+3489	P	Torrada Light (Mabel)	485538
+3490	P	Torrada Light (Visconti)	485634
+3491	P	Torrada Light (Sentir Bem)	485761
+3492	P	Torrada 10 Grãos Light (Wickbold)	485833
+3493	P	Torrada Integral Viver Light (Carrefour)	485923
+3494	P	Pão de Passas Torrado	486016
+3495	P	Bagel com Frutas (excepto Uvas-Passas)	486254
+3496	P	Uva Passa Escura (La Violetera)	486502
+3497	P	Pão Integral	486584
+3498	P	Pão Integral 7 Grãos (Plus Vita)	486820
+3499	P	Pão Integral Grão Sabor (Wickbold)	486890
+3500	P	Pão Integral 12 Grãos Light (Pullman)	486989
+3501	P	Pão Integral Light (Plus Vita)	487083
+3502	P	Pão Integral Light (Pullman)	487176
+3503	P	Broto de Feijão	487263
+3504	P	Feijão Vermelho	487457
+3505	P	Feijão Vermelho (Enlatado)	487652
+3506	P	Feijão Branco (Semente Madura, Enlatado)	487849
+3507	P	Chili com Carne e Feijão (Entrada, Enlatado)	488008
+3508	P	Clara Ovo (Fleischmann)	488165
+3509	P	Ovo Estrelado	488255
+3510	P	Ovo de Codorna	488420
+3511	P	Substituto do Ovo (Líquido)	488579
+3512	P	Bagels de Ovo	488780
+3513	P	Ovo (Inteiro)	489085
+3514	P	Paçoquinha de Amendoim (Yoki)	489367
+3515	P	Paçoquinha Diet (Flormel)	489470
+3516	P	Paçoquinha (Amendupã)	489545
+3517	P	Trufa Paçoquinha (Brasil Cacau)	489624
+3518	P	Ovo Cozido	489710
+3519	P	Ovo Mal Cozido	489960
+3520	P	Ovo Escalfado	490231
+3521	P	Milho em Espiga com Manteiga	490462
+3522	P	Milho Amarelo	490612
+3523	P	Milho Cozido no Vapor (Bonduelle)	490751
+3524	P	Milho Doce Amarelo (Espigas, com Sal, Congelado, Escorrido, Cozido, Fervido)	490864
+3525	P	Milho Doce Branco (Espigas, com Sal, Congelado, Escorrido, Cozido, Fervido)	491083
+3526	P	Maracujá e Nada (Del Valle)	491291
+3527	P	Limão & Nada (Del Valle)	491342
+3528	P	Polenguinho Light (Polenguinho)	491409
+3529	P	Polenguinho Pocket Light (Polenguinho)	491506
+3530	P	Polenguinho Tradicional (Polenguinho)	491616
+3531	P	Pocket (Polenguinho)	491670
+3532	P	Queijo (Polenguinho)	491767
+3533	P	Polenguinho Gorgonzola (Polenguinho)	491868
+3534	P	Polenguinho Gruyere (Polenguinho)	491934
+3535	P	Provolone (Polenguinho)	492014
+3536	P	Achocolatado (Nescau)	492102
+3537	P	Achocolatado em Pó (Nescau)	492158
+3538	P	Nescau Light (Nescau)	492252
+3539	P	Nescau Pronto (Nescau)	492370
+3540	P	Nescau Cereal (Nescau)	492464
+3541	P	Nescau Light (Pronto) (Nescau)	492557
+3542	P	Nescau Ball (Nescau)	492634
+3543	P	Nescau Barra (Nescau)	492697
+3544	P	Molho de Pimenta	492769
+3545	P	Pimenta Biquinho (Hemmer)	492897
+3546	P	Pimenta Vermelha ou Cayenne	492966
+3547	P	Ricota Defumada com Pimenta (Yema)	493164
+3548	P	Salgadinho Troféu Churrasco (Santa Helena)	493248
+3549	P	Neston 3 Cereais (Nestlé)	493316
+3550	P	Biscoito Gergelim (Isabela)	493408
+3551	P	Biscoito Agua Gergelim (Piraquê)	493496
+3552	P	Gergelim Integral (Mãe Terra)	493583
+3553	P	Feijão Branco (Camil)	493654
+3554	P	Bombons de Chocolate Frutos do Mar (Guylian)	493732
+3555	P	Arroz Integral tipo 1 (Tio João)	493794
+3556	P	Arroz Integral (Taeq)	493870
+3557	P	Arroz Integral (Camil)	493942
+3558	P	Arroz 7 Grãos Integrais (Ráris)	494007
+3559	P	Arroz Integral (Prato Fino)	494136
+3560	P	Arroz Integral (Zaeli)	494205
+3561	P	Neston Vitamina Instantânea (Nestlé)	494273
+3562	P	Neston 3 Cereais (Nestlé)	494343
+3563	P	Iogurte Neston 3 Cereais (Nestlé)	494471
+3564	P	Neston Fast (Nestlé)	494524
+3565	P	Nhoque à Bolonhesa (Perdigão)	494633
+3566	P	Meu Menu Nhoque à Bolonhesa (Perdigão)	494739
+3567	P	Suco (Clight)	494835
+3568	P	Peito de Frango	494885
+3569	P	Frango Grelhado	495229
+3570	P	Sobrecoxa de Frango	495601
+3571	P	Peito de Frango (Pele Não Consumida)	495976
+3572	P	Coxa de Frango	496319
+3573	P	Filé de Peito (Sadia)	496693
+3574	P	Frango no Forno, Grelhado ou Assado	496750
+3575	P	Sobrecoxa de Frango (Pele Não Consumida)	497095
+3576	P	Coxa de Frango (Pele Não Consumida)	497470
+3577	P	Frango	497834
+3578	P	Sobrecoxa de Frango no Forno, Grelhada ou Assada (Pele Consumida)	498208
+3579	P	Asa de Frango no Forno, Grelhada ou Assada (Pele Consumida)	498583
+3580	P	Frango Grelhado (Pele Não Consumida)	498959
+3581	P	Filezinho de Frango (Sassami) (Perdigão)	499331
+3582	P	Filé de Frango Grelhado com 1/2 Bib's Salad (Habib's)	499415
+3583	P	Salada com Frango Grelhado (Giraffas)	499520
+3584	P	Filé de Frango Grelhado com Arroz e Fritas (Ragazzo)	499610
+3585	P	Molho de Carne de Frango (Enlatado)	499687
+3586	P	Enchilada de Frango e Queijo em Molho com Base de Tomate	499875
+3587	P	Espaguete com Molho de Tomate e Frango ou Peru	500079
+3588	P	Frango ou Peru com Vegetais em Molho à Base de Soja (incluindo Cenouras, Brócolis e Outros, sem Batatas, Mistura)	500252
+3589	P	Lasanha De Frango Ao Molho De Vegetais (Sadia)	500438
+3590	P	Hot Hit X-Frango com Molho Oriental (Seara)	500546
+3591	P	Peito de Frango Ao Molho com Catupiry e Vegetais (Seara)	500644
+3592	P	Frango à General Tso	500694
+3593	P	Moo Goo Gai Pan	500876
+3594	P	Geléia de Morango (Queensberry)	501059
+3595	P	Geléia de Morango 100% Fruit (Queensberry)	501113
+3596	P	Geléia de Amora Diet (Queensberry)	501175
+3597	P	Geléia de Frutas Vermelhas 100% Fruit (Queensberry)	501235
+3598	P	Geléia (Todos os Sabores)	501298
+3599	P	Geléia de Amora (St. Dalfour)	501529
+3600	P	Geléia de Frutas Vermelhas Diet (Queensberry)	501601
+3601	P	Geléia de Morango Diet (Ritter )	501661
+3602	P	Geléia de Framboesa (Queensberry)	501735
+3603	P	Geléia Extra de Goiaba (Ritter )	501805
+3604	P	Sobremesa de Gelatina	501876
+3605	P	Gelatina (Royal)	502093
+3606	P	Gelatina Zero (Royal)	502189
+3607	P	Gelatina Light Frutas Vermelhas (Dr. Oetker)	502272
+3608	P	Gelatina Sabor Morango (Royal)	502364
+3609	P	Gelatina Zero (Dr. Oetker)	502460
+3610	P	Gelatina de Abacaxi (Sol)	502539
+3611	P	Gelatina Zero Açúcar Abacaxi (Lowçucar)	502634
+3612	P	Gelatina Zero Açúcar (Royal)	502725
+3613	P	Gelatina (Dr. Oetker)	502830
+3614	P	Gergelim Branco Natural (Jasmine)	502934
+3615	P	Biscoito Salgado Água Gergelim (Piraquê)	503053
+3616	P	Gergelim (Montan)	503134
+3617	P	Gergelim (Adria)	503226
+3618	P	Biscoito Crocante Com Gergelim (Aminna)	503311
+3619	P	Barra de Sementes Gergelim e Chia (Levittá)	503392
+3620	P	Crocante de Gergelim (Airon)	503454
+3621	P	Fermento em Pó (Dupla Ação)	503521
+3622	P	Pimenta Chili em Pó	503633
+3623	P	Caril em Pó	503825
+3624	P	Alho em Pó	504013
+3625	P	Sushi	504207
+3626	P	Sushi Filadélfia	504417
+3627	P	Hot Roll	504604
+3628	P	Sashimi de Salmão	504793
+3629	P	Sushi de Atum	504966
+3630	P	Sushi com Vegetais Enrolados em Algas	505179
+3631	P	Uramaki	505387
+3632	P	Diet Shake Chocolate (Nutrilatina)	505575
+3633	P	Diet Shake Baunilha (Nutrilatina)	505683
+3634	P	Diet Shake Morango (Nutrilatina)	505814
+3635	P	Diet Shake Carbo Control Chocolate (Nutrilatina)	505939
+3636	P	Diet Shake Baunilha (Nutrilatina)	506065
+3637	P	Diet Shake Carbocontrol Frutas Vermelhas (Nutrilatina)	506174
+3638	P	Shake Diet Way (Midway)	506276
+3639	P	Diet Shake Crocante Chocolate (Nutrilatina)	506341
+3640	P	Diet Shake Woman Morango com Amora (Nutrilatina)	506485
+3641	P	Torrada Multi Grãos (Bauducco)	506590
+3642	P	Torrada Light Integral (Bauducco)	506701
+3643	P	Torrada Levemente Doce (Bauducco)	506793
+3644	P	Torrada Multigrãos (2) (Bauducco)	506854
+3645	P	Torrada Especial Castanha-do-Pará e Quinoa Integral (Wickbold)	506950
+3646	P	Crocantíssimo Manteiga Temperada (Plus Vita)	507040
+3647	P	Sanduíche de Atum Esquentada	507101
+3648	P	Torrada 12 Grãos (Fhom)	507266
+3649	P	Torrada Especial Canela e Passas Integral (Wickbold)	507353
+3650	P	Torrada Especial 10 Grãos Light (Wickbold)	507458
+3651	P	Dobradinha	507548
+3652	P	Sopa de Tomate (Enlatado, Condensado)	507728
+3653	P	Purê de Tomate	507905
+3654	P	Tomates Secos Ao Sol	508132
+3655	P	Feijões em Molho de Tomate	508305
+3656	P	Queijo Suíço (Magro, Pasteurizado)	508465
+3657	P	Sabor Uva (Kapo)	508730
+3658	P	Jiló	508803
+3659	P	Sorvete de Flocos (Kibon)	508963
+3660	P	Sorvete de Flocos (Jundiá)	509057
+3661	P	Flocos de Farelo	509135
+3662	P	Flocos de Milho	509284
+3663	P	Sorvete de Creme (Kibon)	509488
+3664	P	Glutamina (Integralmedica)	509561
+3665	P	L-Glutamina (Max Titanium)	509622
+3666	P	Hamburguer de Frango (Sadia)	509684
+3667	P	Hambúrguer de Frango (Perdigão)	509752
+3668	P	Hambúrguer de Frango Empanado com Queijo	509830
+3669	P	Hamburguer de Frango (Aurora)	509998
+3670	P	Hambúrguer ou Filé de Frango Empanado	510071
+3671	P	Hambúrguer de Frango (Qualitá)	510376
+3672	P	Diet Shake Breakfast (Nutrilatina)	510453
+3673	P	Shake Diet Chocolate (Bioslim)	510574
+3674	P	Sopa de Legumes	510645
+3675	P	Sopa de Legumes com Carne	510825
+3676	P	Sopa de Feijão	511004
+3677	P	Sopa de Batata	511191
+3678	P	Sopa de Vegetais Vegetariana (Preparada com Água)	511379
+3679	P	Sopa de Abóbora	511556
+3680	P	Sopa de Mandioquinha com Cebola e Salsa (Vono)	511742
+3681	P	Sopa de Galinha	511812
+3682	P	Sopa de Galinha com Macarrão (Knorr)	512013

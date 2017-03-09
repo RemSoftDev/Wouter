@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{7E1D000B-5C39-4F59-B5CB-8DEEF73B98A0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FoodDiary2</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>FoodDiary2</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+    <MtouchUseSGen>true</MtouchUseSGen>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchFastDev>true</MtouchFastDev>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchFloat32>true</MtouchFloat32>
+    <MtouchUseSGen>true</MtouchUseSGen>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386</MtouchArch>
+    <MtouchLink>None</MtouchLink>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchUseSGen>true</MtouchUseSGen>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchFloat32>true</MtouchFloat32>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+    <MtouchDebug>true</MtouchDebug>
+    <DeviceSpecificBuild>true</DeviceSpecificBuild>
+    <CodesignKey>iPhone Developer: Denis Sugakov (MB24KPW8DW)</CodesignKey>
+    <MtouchUseSGen>true</MtouchUseSGen>
+    <CodesignProvision>db55fa71-24d8-4799-826f-cdf350b2a812</CodesignProvision>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="Xamarin-Sidebar-Unified">
+      <HintPath>..\Components\SidebarNavigation-1.9\lib\ios-unified\Xamarin-Sidebar-Unified.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="SWTableViewCell">
+      <HintPath>..\Components\swtableviewcell-0.3.7.0\lib\ios-unified\SWTableViewCell.dll</HintPath>
+    </Reference>
+    <Reference Include="PickerCells">
+      <HintPath>..\Components\pickercells-1.1\lib\ios-unified\PickerCells.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_breakfast.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_breakfast_active.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_dinner.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_dinner_active.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_lunch.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_lunch_active.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_snack.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tab_snack_active.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\about.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\goals.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\journal.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\report.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\settings.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\today.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\rate.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\report_problem.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\share.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\upgrade.imageset\Contents.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Resources\LaunchScreen.xib" />
+    <InterfaceDefinition Include="Main.storyboard" />
+    <InterfaceDefinition Include="Controllers\FDReportTableViewHeader.xib" />
+    <InterfaceDefinition Include="Controllers\FDTableViewHeader.xib" />
+    <InterfaceDefinition Include="Main_from_swift.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+    <None Include="packages.config" />
+    <None Include="Common\Model\Data\.DS_Store" />
+    <None Include="Common\AppModel\Service References\makesvc.bat" />
+    <None Include="Common\ResourceData\.DS_Store" />
+    <None Include="Common\ResourceData\V2-Data-ar.txt" />
+    <None Include="Common\ResourceData\V2-Data-bg.txt" />
+    <None Include="Common\ResourceData\V2-Data-br.txt" />
+    <None Include="Common\ResourceData\V2-Data-ca.txt" />
+    <None Include="Common\ResourceData\V2-Data-cs.txt" />
+    <None Include="Common\ResourceData\V2-Data-da.txt" />
+    <None Include="Common\ResourceData\V2-Data-de.txt" />
+    <None Include="Common\ResourceData\V2-Data-el.txt" />
+    <None Include="Common\ResourceData\V2-Data-en.txt" />
+    <None Include="Common\ResourceData\V2-Data-es.txt" />
+    <None Include="Common\ResourceData\V2-Data-et.txt" />
+    <None Include="Common\ResourceData\V2-Data-fa.txt" />
+    <None Include="Common\ResourceData\V2-Data-fi.txt" />
+    <None Include="Common\ResourceData\V2-Data-fr.txt" />
+    <None Include="Common\ResourceData\V2-Data-gb.txt" />
+    <None Include="Common\ResourceData\V2-Data-he.txt" />
+    <None Include="Common\ResourceData\V2-Data-hi.txt" />
+    <None Include="Common\ResourceData\V2-Data-hu.txt" />
+    <None Include="Common\ResourceData\V2-Data-id.txt" />
+    <None Include="Common\ResourceData\V2-Data-it.txt" />
+    <None Include="Common\ResourceData\V2-Data-ja.txt" />
+    <None Include="Common\ResourceData\V2-Data-ko.txt" />
+    <None Include="Common\ResourceData\V2-Data-lt.txt" />
+    <None Include="Common\ResourceData\V2-Data-lv.txt" />
+    <None Include="Common\ResourceData\V2-Data-ms.txt" />
+    <None Include="Common\ResourceData\V2-Data-mx.txt" />
+    <None Include="Common\ResourceData\V2-Data-nl.txt" />
+    <None Include="Common\ResourceData\V2-Data-no.txt" />
+    <None Include="Common\ResourceData\V2-Data-pl.txt" />
+    <None Include="Common\ResourceData\V2-Data-pt.txt" />
+    <None Include="Common\ResourceData\V2-Data-ro.txt" />
+    <None Include="Common\ResourceData\V2-Data-ru.txt" />
+    <None Include="Common\ResourceData\V2-Data-sk.txt" />
+    <None Include="Common\ResourceData\V2-Data-sl.txt" />
+    <None Include="Common\ResourceData\V2-Data-sv.txt" />
+    <None Include="Common\ResourceData\V2-Data-th.txt" />
+    <None Include="Common\ResourceData\V2-Data-tr.txt" />
+    <None Include="Common\ResourceData\V2-Data-uk.txt" />
+    <None Include="Common\ResourceData\V2-Data-vi.txt" />
+    <None Include="Common\ResourceData\V2-Data-zh.txt" />
+    <None Include="Common\ResourceData\V2-Data-zt.txt" />
+    <None Include="Common\ResourceData\V2-Index-ar.txt" />
+    <None Include="Common\ResourceData\V2-Index-bg.txt" />
+    <None Include="Common\ResourceData\V2-Index-br.txt" />
+    <None Include="Common\ResourceData\V2-Index-ca.txt" />
+    <None Include="Common\ResourceData\V2-Index-cs.txt" />
+    <None Include="Common\ResourceData\V2-Index-da.txt" />
+    <None Include="Common\ResourceData\V2-Index-de.txt" />
+    <None Include="Common\ResourceData\V2-Index-el.txt" />
+    <None Include="Common\ResourceData\V2-Index-en.txt" />
+    <None Include="Common\ResourceData\V2-Index-es.txt" />
+    <None Include="Common\ResourceData\V2-Index-et.txt" />
+    <None Include="Common\ResourceData\V2-Index-fa.txt" />
+    <None Include="Common\ResourceData\V2-Index-fi.txt" />
+    <None Include="Common\ResourceData\V2-Index-fr.txt" />
+    <None Include="Common\ResourceData\V2-Index-gb.txt" />
+    <None Include="Common\ResourceData\V2-Index-he.txt" />
+    <None Include="Common\ResourceData\V2-Index-hi.txt" />
+    <None Include="Common\ResourceData\V2-Index-hu.txt" />
+    <None Include="Common\ResourceData\V2-Index-id.txt" />
+    <None Include="Common\ResourceData\V2-Index-it.txt" />
+    <None Include="Common\ResourceData\V2-Index-ja.txt" />
+    <None Include="Common\ResourceData\V2-Index-ko.txt" />
+    <None Include="Common\ResourceData\V2-Index-lt.txt" />
+    <None Include="Common\ResourceData\V2-Index-lv.txt" />
+    <None Include="Common\ResourceData\V2-Index-ms.txt" />
+    <None Include="Common\ResourceData\V2-Index-mx.txt" />
+    <None Include="Common\ResourceData\V2-Index-nl.txt" />
+    <None Include="Common\ResourceData\V2-Index-no.txt" />
+    <None Include="Common\ResourceData\V2-Index-pl.txt" />
+    <None Include="Common\ResourceData\V2-Index-pt.txt" />
+    <None Include="Common\ResourceData\V2-Index-ro.txt" />
+    <None Include="Common\ResourceData\V2-Index-ru.txt" />
+    <None Include="Common\ResourceData\V2-Index-sk.txt" />
+    <None Include="Common\ResourceData\V2-Index-sl.txt" />
+    <None Include="Common\ResourceData\V2-Index-sv.txt" />
+    <None Include="Common\ResourceData\V2-Index-th.txt" />
+    <None Include="Common\ResourceData\V2-Index-tr.txt" />
+    <None Include="Common\ResourceData\V2-Index-uk.txt" />
+    <None Include="Common\ResourceData\V2-Index-vi.txt" />
+    <None Include="Common\ResourceData\V2-Index-zh.txt" />
+    <None Include="Common\ResourceData\V2-Index-zt.txt" />
+    <None Include="Common\ResourceData\V2-ar-Data.txt" />
+    <None Include="Common\ResourceData\V2-ar-Index.txt" />
+    <None Include="Common\ResourceData\V2-bg-Data.txt" />
+    <None Include="Common\ResourceData\V2-bg-Index.txt" />
+    <None Include="Common\ResourceData\V2-br-Data.txt" />
+    <None Include="Common\ResourceData\V2-br-Index.txt" />
+    <None Include="Common\ResourceData\V2-ca-Data.txt" />
+    <None Include="Common\ResourceData\V2-ca-Index.txt" />
+    <None Include="Common\ResourceData\V2-cs-Data.txt" />
+    <None Include="Common\ResourceData\V2-cs-Index.txt" />
+    <None Include="Common\ResourceData\V2-da-Data.txt" />
+    <None Include="Common\ResourceData\V2-da-Index.txt" />
+    <None Include="Common\ResourceData\V2-de-Data.txt" />
+    <None Include="Common\ResourceData\V2-de-Index.txt" />
+    <None Include="Common\ResourceData\V2-el-Data.txt" />
+    <None Include="Common\ResourceData\V2-el-Index.txt" />
+    <None Include="Common\ResourceData\V2-en-Data.txt" />
+    <None Include="Common\ResourceData\V2-en-Index.txt" />
+    <None Include="Common\ResourceData\V2-es-Data.txt" />
+    <None Include="Common\ResourceData\V2-es-Index.txt" />
+    <None Include="Common\ResourceData\V2-et-Data.txt" />
+    <None Include="Common\ResourceData\V2-et-Index.txt" />
+    <None Include="Common\ResourceData\V2-fa-Data.txt" />
+    <None Include="Common\ResourceData\V2-fa-Index.txt" />
+    <None Include="Common\ResourceData\V2-fi-Data.txt" />
+    <None Include="Common\ResourceData\V2-fi-Index.txt" />
+    <None Include="Common\ResourceData\V2-fr-Data.txt" />
+    <None Include="Common\ResourceData\V2-fr-Index.txt" />
+    <None Include="Common\ResourceData\V2-gb-Data.txt" />
+    <None Include="Common\ResourceData\V2-gb-Index.txt" />
+    <None Include="Common\ResourceData\V2-he-Data.txt" />
+    <None Include="Common\ResourceData\V2-he-Index.txt" />
+    <None Include="Common\ResourceData\V2-hi-Data.txt" />
+    <None Include="Common\ResourceData\V2-hi-Index.txt" />
+    <None Include="Common\ResourceData\V2-hu-Data.txt" />
+    <None Include="Common\ResourceData\V2-hu-Index.txt" />
+    <None Include="Common\ResourceData\V2-id-Data.txt" />
+    <None Include="Common\ResourceData\V2-id-Index.txt" />
+    <None Include="Common\ResourceData\V2-it-Data.txt" />
+    <None Include="Common\ResourceData\V2-it-Index.txt" />
+    <None Include="Common\ResourceData\V2-ja-Data.txt" />
+    <None Include="Common\ResourceData\V2-ja-Index.txt" />
+    <None Include="Common\ResourceData\V2-ko-Data.txt" />
+    <None Include="Common\ResourceData\V2-ko-Index.txt" />
+    <None Include="Common\ResourceData\V2-lt-Data.txt" />
+    <None Include="Common\ResourceData\V2-lt-Index.txt" />
+    <None Include="Common\ResourceData\V2-lv-Data.txt" />
+    <None Include="Common\ResourceData\V2-lv-Index.txt" />
+    <None Include="Common\ResourceData\V2-ms-Data.txt" />
+    <None Include="Common\ResourceData\V2-ms-Index.txt" />
+    <None Include="Common\ResourceData\V2-mx-Data.txt" />
+    <None Include="Common\ResourceData\V2-mx-Index.txt" />
+    <None Include="Common\ResourceData\V2-nl-Data.txt" />
+    <None Include="Common\ResourceData\V2-nl-Index.txt" />
+    <None Include="Common\ResourceData\V2-no-Data.txt" />
+    <None Include="Common\ResourceData\V2-no-Index.txt" />
+    <None Include="Common\ResourceData\V2-pl-Data.txt" />
+    <None Include="Common\ResourceData\V2-pl-Index.txt" />
+    <None Include="Common\ResourceData\V2-pt-Data.txt" />
+    <None Include="Common\ResourceData\V2-pt-Index.txt" />
+    <None Include="Common\ResourceData\V2-ro-Data.txt" />
+    <None Include="Common\ResourceData\V2-ro-Index.txt" />
+    <None Include="Common\ResourceData\V2-ru-Data.txt" />
+    <None Include="Common\ResourceData\V2-ru-Index.txt" />
+    <None Include="Common\ResourceData\V2-sk-Data.txt" />
+    <None Include="Common\ResourceData\V2-sk-Index.txt" />
+    <None Include="Common\ResourceData\V2-sl-Data.txt" />
+    <None Include="Common\ResourceData\V2-sl-Index.txt" />
+    <None Include="Common\ResourceData\V2-sv-Data.txt" />
+    <None Include="Common\ResourceData\V2-sv-Index.txt" />
+    <None Include="Common\ResourceData\V2-th-Data.txt" />
+    <None Include="Common\ResourceData\V2-th-Index.txt" />
+    <None Include="Common\ResourceData\V2-tr-Data.txt" />
+    <None Include="Common\ResourceData\V2-tr-Index.txt" />
+    <None Include="Common\ResourceData\V2-uk-Data.txt" />
+    <None Include="Common\ResourceData\V2-uk-Index.txt" />
+    <None Include="Common\ResourceData\V2-vi-Data.txt" />
+    <None Include="Common\ResourceData\V2-vi-Index.txt" />
+    <None Include="Common\ResourceData\V2-zh-Data.txt" />
+    <None Include="Common\ResourceData\V2-zh-Index.txt" />
+    <None Include="Common\ResourceData\V2-zt-Data.txt" />
+    <None Include="Common\ResourceData\V2-zt-Index.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="Controllers\FDFilteredReportVC.cs" />
+    <Compile Include="Controllers\FDFilteredReportVC.designer.cs">
+      <DependentUpon>..\..\FoodDiary.iOS\Controllers\FDFilteredReportVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FDGoalsAddTargetVC.cs" />
+    <Compile Include="Controllers\FDGoalsAddTargetVC.designer.cs">
+      <DependentUpon>..\..\FoodDiary.iOS\Controllers\FDGoalsAddTargetVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FDMenuVC.cs" />
+    <Compile Include="Controllers\FDMenuVC.designer.cs">
+      <DependentUpon>..\..\FoodDiary.iOS\Controllers\FDMenuVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FDNewItemVC.cs" />
+    <Compile Include="Controllers\FDNewItemVC.designer.cs">
+      <DependentUpon>..\..\FoodDiary.iOS\Controllers\FDNewItemVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FDSelectCopyVC.cs" />
+    <Compile Include="Controllers\FDSelectCopyVC.designer.cs">
+      <DependentUpon>..\..\FoodDiary.iOS\Controllers\FDSelectCopyVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\MainViewController\FDMainDataSource.cs" />
+    <Compile Include="Controllers\MainViewController\FDMainVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\MainViewController\FDMainVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SideBarController\SideBarDataSource.cs" />
+    <Compile Include="Controllers\SideBarController\SlideBarController.cs" />
+    <Compile Include="Controllers\SideBarController\SlideBarController.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\SideBarController\SlideBarController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\RootViewController.cs" />
+    <Compile Include="Controllers\MainViewController\FDMainVC.cs" />
+    <Compile Include="Controllers\JournalController\FDJournalVC.cs" />
+    <Compile Include="Controllers\JournalController\FDJournalVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDJournalVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\JournalController\JournalDataSource.cs" />
+    <Compile Include="Controllers\ReportController\FDReportVC.cs" />
+    <Compile Include="Controllers\ReportController\FDReportVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDReportVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\GoalsController\FDGoalsVC.cs" />
+    <Compile Include="Controllers\GoalsController\FDGoalsVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDGoalsVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\FDSettingsVC.cs" />
+    <Compile Include="Controllers\SettingsController\FDSettingsVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDSettingsVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\AboutController\FDAboutVC.cs" />
+    <Compile Include="Controllers\AboutController\FDAboutVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDAboutVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\GoalsController\FDGoalsDataSource.cs" />
+    <Compile Include="Controllers\SettingsController\FDSettingsDataSource.cs" />
+    <Compile Include="Controllers\FDSelectItemVC\FDSelectItemVC.cs" />
+    <Compile Include="Controllers\FDSelectItemVC\FDSelectItemVC.designer.cs">
+      <DependentUpon>..\..\..\FoodDiary.iOS\Controllers\FDSelectItemVC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\FDSelectItemVC\FDSelectItemVCSource.cs" />
+    <Compile Include="Platform\Bind.cs" />
+    <Compile Include="Localization\Resources.cs" />
+    <Compile Include="Common\ViewModels\SettingsVM.cs" />
+    <Compile Include="Common\AppModel\UI\VMBase.cs" />
+    <Compile Include="Common\AppModel\Logging\LittleWatson.cs" />
+    <Compile Include="Common\AppModel\Logging\LogEntryType.cs" />
+    <Compile Include="Common\AppModel\Logging\PerformanceScope.cs" />
+    <Compile Include="Common\AppModel\Logging\SessionLog.cs" />
+    <Compile Include="Common\AppModel\Platform.cs" />
+    <Compile Include="Common\Model\UserSettings.cs" />
+    <Compile Include="Common\AppModel\LocalStorage.cs" />
+    <Compile Include="Common\Values\Amount.cs" />
+    <Compile Include="Common\Values\Period.cs" />
+    <Compile Include="Common\Values\Property.cs" />
+    <Compile Include="Common\Values\Unit.cs" />
+    <Compile Include="Common\Extensions\DateTimeExtensions.cs" />
+    <Compile Include="Common\Extensions\Floats.cs" />
+    <Compile Include="Common\Extensions\Ints.cs" />
+    <Compile Include="Common\Extensions\SortedList.cs" />
+    <Compile Include="Common\Extensions\Strings.cs" />
+    <Compile Include="Common\AppModel\Data\IsolatedStorageCompat.cs" />
+    <Compile Include="Common\AppModel\Data\LocalDB.cs" />
+    <Compile Include="Common\AppModel\Data\ModelObject.cs" />
+    <Compile Include="Common\AppModel\Data\SQLite.cs" />
+    <Compile Include="Common\AppModel\Data\SQLiteCompat.cs" />
+    <Compile Include="Common\AppModel\Data\SyncQueue.cs" />
+    <Compile Include="Common\AppModel\Data\Serialization\DataContractSerialization.cs" />
+    <Compile Include="Common\AppModel\Data\Serialization\Serializer.cs" />
+    <Compile Include="AppResources.cs" />
+    <Compile Include="Common\Model\Cache.cs" />
+    <Compile Include="Common\Model\FoodItem.cs" />
+    <Compile Include="Common\Model\Data\FoodJournalDB.cs" />
+    <Compile Include="Common\Model\Data\FoodJournalDataModel.cs" />
+    <Compile Include="Common\Model\NoSQL\FoodJournalNoSQL.cs" />
+    <Compile Include="Common\AppModel\UI\BackgroundTask.cs" />
+    <Compile Include="Common\Model\Entry.cs" />
+    <Compile Include="Common\Model\ServingSizeCollection.cs" />
+    <Compile Include="Common\Model\PropertyDictionary.cs" />
+    <Compile Include="Platform\Reminders\ScheduledActionService.cs" />
+    <Compile Include="Common\AppModel\UI\Compatibility.cs" />
+    <Compile Include="Common\AppModel\Service References\Reference.cs" />
+    <Compile Include="Common\AppModel\Service References\Services.cs" />
+    <Compile Include="Common\AppModel\Service References\SyncService.cs" />
+    <Compile Include="Common\AppModel\AppStats.cs" />
+    <Compile Include="Common\ResourceData\ResourceDatabase2.cs" />
+    <Compile Include="Common\ResourceData\ResourceRecord2Enumerator.cs" />
+    <Compile Include="Common\ResourceData\ResourceSearch2Enumerator.cs" />
+    <Compile Include="Common\AppModel\CultureSettings.cs" />
+    <Compile Include="Common\Model\TranslationRequest.cs" />
+    <Compile Include="Common\ViewModels\SearchResultVM.cs" />
+    <Compile Include="Common\Search\SearchWorkerServices.cs" />
+    <Compile Include="Common\Search\SearchWorkers.cs" />
+    <Compile Include="Common\ViewModels\SearchVM.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\EmailOutMessage.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\ExceptionMessage.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\MessageQueue.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\MessageQueueDB.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\MessageQueueRow.cs" />
+    <Compile Include="Common\AppModel\MessageQueue\MilestoneMessage.cs" />
+    <Compile Include="Common\ViewModels\GoalsVM.cs" />
+    <Compile Include="Common\ViewModels\Fragments\GoalLineVM.cs" />
+    <Compile Include="Controllers\SettingsController\NutritionCell.cs" />
+    <Compile Include="Controllers\SettingsController\NutritionCell.designer.cs">
+      <DependentUpon>NutritionCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\MealCell.cs" />
+    <Compile Include="Controllers\SettingsController\MealCell.designer.cs">
+      <DependentUpon>MealCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\AddSettingsItemCell.cs" />
+    <Compile Include="Controllers\SettingsController\AddSettingsItemCell.designer.cs">
+      <DependentUpon>AddSettingsItemCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\AddNutritionController.cs" />
+    <Compile Include="Controllers\SettingsController\AddNutritionController.designer.cs">
+      <DependentUpon>AddNutritionController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\AddMealController.cs" />
+    <Compile Include="Controllers\SettingsController\AddMealController.designer.cs">
+      <DependentUpon>AddMealController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\MealShowCell.cs" />
+    <Compile Include="Controllers\SettingsController\MealShowCell.designer.cs">
+      <DependentUpon>MealShowCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\SettingsController\ShowTotalModel.cs" />
+    <Compile Include="Common\Runtime\NavigationContext.cs" />
+    <Compile Include="Common\ViewModels\Fragments\IAcceptsNewEntry.cs" />
+    <Compile Include="Common\ViewModels\PeriodVM.cs" />
+    <Compile Include="Common\ViewModels\EntryRowVM.cs" />
+    <Compile Include="Common\Messages\EntryUpdatedMessage.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <ItemGroup>
+    <BundleResource Include="Resources\Slices\.DS_Store" />
+    <BundleResource Include="Resources\Slices\aboutScreen\.DS_Store" />
+    <BundleResource Include="Resources\Slices\arrow.png" />
+    <BundleResource Include="Resources\Slices\menuScreen\.DS_Store" />
+    <BundleResource Include="Resources\Slices\todayScreen\.DS_Store" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast.imageset\tab_breakfast.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast.imageset\tab_breakfast%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast.imageset\tab_breakfast%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast_active.imageset\tab_breakfast_active.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast_active.imageset\tab_breakfast_active%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_breakfast_active.imageset\tab_breakfast_active%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner.imageset\tab_dinner.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner.imageset\tab_dinner%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner.imageset\tab_dinner%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner_active.imageset\tab_dinner_active.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner_active.imageset\tab_dinner_active%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_dinner_active.imageset\tab_dinner_active%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch.imageset\tab_lunch.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch.imageset\tab_lunch%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch.imageset\tab_lunch%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch_active.imageset\tab_lunch_active.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch_active.imageset\tab_lunch_active%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_lunch_active.imageset\tab_lunch_active%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack.imageset\tab_snack.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack.imageset\tab_snack%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack.imageset\tab_snack%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack_active.imageset\tab_snack_active.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack_active.imageset\tab_snack_active%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\tab_snack_active.imageset\tab_snack_active%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\about.imageset\about.png" />
+    <BundleResource Include="Resources\Images.xcassets\about.imageset\about%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\about.imageset\about%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\goals.imageset\goals.png" />
+    <BundleResource Include="Resources\Images.xcassets\goals.imageset\goals%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\goals.imageset\goals%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\journal.imageset\journal.png" />
+    <BundleResource Include="Resources\Images.xcassets\journal.imageset\journal%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\journal.imageset\journal%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\report.imageset\report.png" />
+    <BundleResource Include="Resources\Images.xcassets\report.imageset\report%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\report.imageset\report%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\settings.imageset\settings.png" />
+    <BundleResource Include="Resources\Images.xcassets\settings.imageset\settings%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\settings.imageset\settings%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\today.imageset\today.png" />
+    <BundleResource Include="Resources\Images.xcassets\today.imageset\today%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\today.imageset\today%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\rate.imageset\rate.png" />
+    <BundleResource Include="Resources\Images.xcassets\rate.imageset\rate%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\rate.imageset\rate%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\report_problem.imageset\report_problem.png" />
+    <BundleResource Include="Resources\Images.xcassets\report_problem.imageset\report_problem%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\report_problem.imageset\report_problem%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\share.imageset\share.png" />
+    <BundleResource Include="Resources\Images.xcassets\share.imageset\share%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\share.imageset\share%403x.png" />
+    <BundleResource Include="Resources\Images.xcassets\upgrade.imageset\upgrade.png" />
+    <BundleResource Include="Resources\Images.xcassets\upgrade.imageset\upgrade%402x.png" />
+    <BundleResource Include="Resources\Images.xcassets\upgrade.imageset\upgrade%403x.png" />
+    <BundleResource Include="Resources\Base.lproj\Localizable.strings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Base.lproj\" />
+    <Folder Include="Resources\Slices\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Controllers\JournalController\" />
+    <Folder Include="Controllers\ReportController\" />
+    <Folder Include="Controllers\GoalsController\" />
+    <Folder Include="Controllers\SettingsController\" />
+    <Folder Include="Controllers\AboutController\" />
+    <Folder Include="Controllers\FDSelectItemVC\" />
+    <Folder Include="Platform\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Common\" />
+    <Folder Include="Common\ViewModels\" />
+    <Folder Include="Common\AppModel\" />
+    <Folder Include="Common\AppModel\UI\" />
+    <Folder Include="Common\Model\" />
+    <Folder Include="Common\ViewModels\Fragments\" />
+    <Folder Include="Common\Runtime\" />
+    <Folder Include="Common\Messages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="SidebarNavigation">
+      <Version>1.9</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="swtableviewcell">
+      <Version>0.3.7.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="pickercells">
+      <Version>1.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+</Project>

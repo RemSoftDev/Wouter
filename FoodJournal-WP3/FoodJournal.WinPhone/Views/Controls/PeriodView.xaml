@@ -1,0 +1,46 @@
+﻿<UserControl
+    x:Class="FoodJournal.Views.PeriodView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:local="clr-namespace:FoodJournal.Views"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" 
+    toolkit:TiltEffect.IsTiltEnabled="True"    
+    >
+
+    <UserControl.Resources>
+        <DataTemplate x:Key="EntryRow">
+            <StackPanel Orientation="Vertical" Tap="GotoDetails">
+                <TextBlock Text="{Binding ItemText}" TextWrapping="NoWrap" Style="{StaticResource PhoneTextLargeStyle}"/>
+                <TextBlock Text="{Binding Summary}" TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Margin="12,0,12,24"/>
+                <toolkit:ContextMenuService.ContextMenu>
+                    <toolkit:ContextMenu Opened="ContextMenu_Opened"/>
+                </toolkit:ContextMenuService.ContextMenu>
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Grid x:Name="ContentPanel" Background="{StaticResource PhoneBackgroundBrush}" Margin="0">
+
+        <ScrollViewer x:Name="EntryView">
+            <StackPanel>
+<!--                <local:PicturesView DataContext="{Binding PicturesVM}"  /> -->
+                <TextBlock Text="{Binding Path=Strings.EmptyEntryList, Source={StaticResource LocalizedStrings}}" Visibility="{Binding NoEntriesVisibility}" Style="{StaticResource EmptyStyle}" Margin="24,0,24,12" />
+                <ListBox Margin="12" ItemsSource="{Binding EntryList}" ItemTemplate="{StaticResource EntryRow}" toolkit:TiltEffect.IsTiltEnabled="True" ScrollViewer.VerticalScrollBarVisibility="Disabled" />
+                <local:Advertisement />
+                <ListBox Margin="12" ItemsSource="{Binding ItemList}" ItemTemplate="{StaticResource ItemRow}" toolkit:TiltEffect.IsTiltEnabled="True" ScrollViewer.VerticalScrollBarVisibility="Disabled"/>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+
+</UserControl>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodJournal.Views.Journal">
+
+
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <Grid Grid.Row="0" Padding="12,17,12,0">
+      <Label Text="{Binding PageTitle}" />
+    </Grid>
+
+    <Grid Grid.Row="1" Padding="0,0,0,0" x:Name="PageContent">
+      <!--controls:Pivot x:Name="Pivot" ItemsSource="{Binding PivotItems}" SelectionChanged="Pivot_SelectionChanged">
+      </controls:Pivot-->
+    </Grid>
+    <!--        <local:Advertisement Grid.Row="2" /> -->
+  </Grid>
+  
+  
+</ContentPage>

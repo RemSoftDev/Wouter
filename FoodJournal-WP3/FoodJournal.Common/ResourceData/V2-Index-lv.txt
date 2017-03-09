@@ -1,0 +1,462 @@
+﻿Row	Meal	Name	Pos
+0	B	Olu	33
+1	B	Kafijas	202
+2	B	Tosts	322
+3	B	Maize	567
+4	B	Banānu	867
+5	B	Kafijas	1177
+6	L	Maize	1306
+7	S	Tēja	1606
+8	B	Tēja	1714
+9	B	Tosts	1822
+10	B	Banānu	2121
+11	D	Maize	2376
+12	B	Auzu milti	2677
+13	B	Zema tauku augļu jogurts	2805
+14	L	Tomāti	2911
+15	L	Olu	3099
+16	D	Baltos rīsus	3269
+17	B	Maizi uzturā	3378
+18	D	Burkāni	3620
+19	S	Cepums	3945
+20	B	Kafijas	4102
+21	D	Tomāti	4232
+22	L	Baltos rīsus	4464
+23	S	Kafijas	4573
+24	S	Zema tauku augļu jogurts	4694
+25	L	Tomāti	4800
+26	S	Maize	5032
+27	B	Banānu	5333
+28	D	Olu	5595
+29	D	Sīpoli	5765
+30	D	Vistas	6073
+31	B	Zema tauku augļu jogurts	6268
+32	D	Čedaras siers	6440
+33	S	Banānu	6674
+34	B	1 % piena	6985
+35	B	Čedaras siers	7134
+36	S	Banānu	7368
+37	D	Pica	7623
+38	L	Baltos rīsus	7762
+39	D	Sarkanvīns	7872
+40	B	Kafijas	7944
+41	L	Burkāni	8039
+42	B	Maize	8364
+43	L	Vistas	8642
+44	L	Zema tauku augļu jogurts	8800
+45	B	Auzas	8970
+46	B	Franču maize	9093
+47	B	Banānu	9262
+48	B	Maize	9559
+49	L	Sautētas pupiņas	9794
+50	D	Tomāti	9853
+51	B	Čedaras siers	10041
+52	L	Banānu	10203
+53	D	Tosts	10514
+54	L	Čedaras siers	10760
+55	B	Šķīstošā kafija	10994
+56	L	Tvaicēti rīsi	11070
+57	D	Sarkanvīns	11131
+58	D	Tomāti	11205
+59	L	Olīvu eļļa	11438
+60	L	Tomāti	11546
+61	S	Olu	11721
+62	D	Vistas krūtiņa	11891
+63	L	Tēja	12032
+64	L	Tomāti	12141
+65	B	Kukurūzas pārslas	12374
+66	L	Maize	12492
+67	S	Tosts	12770
+68	B	Banānu	13016
+69		Krējuma siers	13313
+70		Šveices siers	13521
+71		Siers, izplatīt	13760
+72		Pusi un pusi	13907
+73		Gaismas krējuma	14076
+74		Smagā sitieniem krējuma	14242
+75		Sālītu sviestu	14433
+76		Saputota sviesta	14622
+77		Sviesta eļļa	14811
+78		Čedaras siers	14987
+79		Skābs krējums	15228
+80		Krējuma aizstājējs pulveris	15360
+81		Pilnpiens	15528
+82		2 % piena	15685
+83		1 % piena	15841
+84		Sausais piens	15997
+85		Visa šokolādes piens	16141
+86		Šokolādes piens	16303
+87		Zema tauku šokolādes piens	16462
+88		Zema tauku vaniļas jogurts	16618
+89		Zema tauku augļu jogurts	16794
+90		Olu	16973
+91		Olu dzeltenums	17150
+92		Cepta ola	17301
+93		Smagi vārītu olu	17480
+94		Žāvēti olu	17693
+95		Sviests bez sāls	17827
+96		Siera mērce	18015
+97		Zema tauku Čedaras siers	18162
+98		Gaismas zemu tauku augļu jogurts	18395
+99		Krējuma aizstājējs	18570
+100		Stiprināta zemu tauku augļu jogurts	18735
+101		Gaismas stiprināts zemu tauku augļu jogurts	18917
+102		Čili pulvera	19095
+103		Sinepes	19248
+104		Sāls	19389
+105		Bērnu auzu	19531
+106		Bērnu rīsu graudu	19686
+107		Kausēti cūku tauki	19814
+108		Majonēzes mērci	19925
+109		Salātu mērci ar majonēzi	20070
+110		Sojas pupu eļļa	20230
+111		Olīvu eļļa	20374
+112		Itālijas mērci	20520
+113		Franču mērci	20681
+114		Zema tauku augu eļļu izplatīšanos	20841
+115		Kukurūzas eļļa	21025
+116		Zilā siera mērci	21168
+117		Rapšu eļļa	21333
+118		Sviesta nūju	21475
+119		Margarīns	21659
+120		Izplatīt augu eļļa	21841
+121		Augu eļļa	21998
+122		Rūpniecības sojas eļļa	22145
+123		Rūpniecības sojas un kokvilnas sēklas naftas	22288
+124		Kokosriekstu eļļa	22431
+125		Vistas	22574
+126		Panētas vistas	22793
+127		Vistas	23017
+128		Cepta vistas	23232
+129		Grauzdēti vistas gaļa	23454
+130		Sautēts vistas	23671
+131		Vistu aknas	23888
+132		Vistas krūtiņa ar ādas	24011
+133		Panētas vistas krūtiņa	24168
+134		Grauzdēti vistas krūtiņa	24331
+135		Gaļas vistas krūtiņa	24487
+136		Vistas krūtiņa	24649
+137		Stilbiņu	24806
+138		Vistas kāja	24966
+139		Vistas cisku	25144
+140		Vistas spārnu	25309
+141		Grauzdēti vistas spārnu	25447
+142		Grauzdēti Turcija	25565
+143		Grauzdēti Turcija gaļa	25701
+144		Zemes Turcijā	25833
+145		Liellopu buljons	25954
+146		Vistas makaronu zupa	26101
+147		Krējuma un sēņu zupa	26257
+148		Mērce	26413
+149		Bārbekjū mērce	26566
+150		Liellopu gaļas krājumus	26727
+151		Vistas sastāvs	26881
+152		Vistas buljons	27037
+153		Boloņas	27188
+154		Aknu desa	27347
+155		Vistas hotdogu	27480
+156		Pusdienu gaļa	27598
+157		Peperoni	27751
+158		Desa	27882
+159		Cūkgaļas un liellopu gaļas desa	28008
+160		Turcija krūts	28164
+161		Gaismas gaļa tītara rullis	28352
+162		Turcija rullis	28499
+163		Itāļu desa	28649
+164		Iepriekš termiski apstrādātas cūkgaļas desa	28803
+165		Kapteini lūzums	28930
+166		Kakao Crispies	29059
+167		Kakao oļi	29185
+168		Sīkfailu čipsi	29303
+169		Kukurūzas Čeksi	29427
+170		Kukurūzas pārslas	29544
+171		Visi klijas kviešu pārslas	29666
+172		Kliju pārslas	29780
+173		Augļu oļi	29903
+174		Vīnogu rieksti graudaugu	30016
+175		Kix	30147
+176		Kvēkers auzu dzīve	30277
+177		Medus rieksts Čeksi	30420
+178		Rīsu Čeksi	30553
+179		Matēta pārslas	30673
+180		Pilngraudu kopā	30800
+181		Kviešu Čeksi	30922
+182		Kukurūzas putraimi	31045
+183		Auzas	31172
+184		Auzu milti	31307
+185		Auzas ar kanēli un garšvielu	31447
+186		Auzas ar rozīnēm un garšvielu	31587
+187		Reese ir inhalācijas	31731
+188		Auzu kvadrātu	31856
+189		Auzu klijas graudu	31986
+190		Šķiedra, viens	32117
+191		Kakao inhalācijas	32233
+192		Kanēļmaizītes lūzums	32355
+193		Gudri sākt labības	32490
+194		Medus auzu grauzdiņi	32604
+195		Vaniļas mandeļu	32724
+196		Ābolu sula	32843
+197		Ābolu	32999
+198		Avokado	33136
+199		Banānu	33326
+200		Mellenes	33645
+201		Vīnogu sula	33779
+202		Vīnogas	33937
+203		Svaiga apelsīnu sula	34091
+204		Apelsīnu sulas koncentrāts	34243
+205		Apelsīnu sula ar kalcija	34402
+206		Saldēta apelsīnu sulas koncentrāts	34562
+207		Persiku	34725
+208		Bumbieri	34939
+209		Ananāsu	35148
+210		Rozīnes	35392
+211		Zemeņu	35651
+212		Saldētas zemenes	35950
+213		Arbūzi	36253
+214		Vīnogu, ābolu un bumbieru sulu	36452
+215		Grauzdēta cūkas fileju	36610
+216		Cūkgaļas karbonādes	36760
+217		Šķiņķis	36911
+218		Grauzdēti tauku šķiņķis	37059
+219		Grauzdēti šķiņķis	37191
+220		Papildus liesa šķiņķa	37321
+221		Papildus nojume grauzdēti šķiņķis	37470
+222		Cūkgaļa izcirtņi	37619
+223		Zemes cūkgaļa	37773
+224		Šķiņķis ar dabiskās sulas	37895
+225		Šķiņķi un ūdens	38052
+226		Sparģeļi	38205
+227		Konservētu zaļo pupiņu	38323
+228		Neapstrādāta brokoļi	38500
+229		Brokoļi	38775
+230		Sasmalcinātu brokoļi	39049
+231		Saldētu brokoļu	39322
+232		Neapstrādāta kāposti	39595
+233		Kāposti	39981
+234		Burkāni	40365
+235		Vārīti burkāni	40698
+236		Saldēti burkāni	41029
+237		Selerijas	41362
+238		Cigoriņu zaļumi	41651
+239		Kāpostiem	41782
+240		Kukurūza	41920
+241		Konservi dzeltenā kukurūza	42249
+242		Saldētas kukurūzas	42399
+243		Gurķi	42728
+244		Endīvijas	42975
+245		Lapu kāposti	43149
+246		Aisberga salāti	43281
+247		Zaļie salāti	43679
+248		Balta sēņu	44077
+249		Sinepes zaļumi	44235
+250		Sīpoli	44372
+251		Vārīti sīpoli	44688
+252		Pavasara sīpolu	45007
+253		Pētersīļi	45228
+254		Zaļie zirņi	45400
+255		Konservēti zaļie zirņi	45527
+256		Saldētas zaļās pupas	45654
+257		Kartupeļu	45781
+258		Cepti kartupeļi	46009
+259		Kartupeļu ādas	46234
+260		Vārītu kartupeļu	46458
+261		Jauktu brūnās	46683
+262		Kartupeļu biezeņa	46821
+263		Kartupeļu uzkodas	46948
+264		Cepeškrāsns frī kartupeļi	47120
+265		Neapstrādāta spināti	47318
+266		Vārītu spinātu	47505
+267		Konservi spināti	47632
+268		Cepta saldie kartupeļi	47757
+269		Saldie kartupeļi	47962
+270		Tomāti	48163
+271		Vārīti tomātu	48457
+272		Konservētu tomātu	48699
+273		Konservētu tomātu sautētiem	48885
+274		Tomātu sula	49125
+275		Tomātu pasta	49286
+276		Konservētu tomātu mērci	49444
+277		Rāceņu	49600
+278		Konservētu dārzeņu sula	49740
+279		Dārzeņu maisījumi	49900
+280		Vasaras skvošs	50026
+281		Ziemas skvošs	50240
+282		Konservēti saldie kartupeļi	50453
+283		Konservi burkānu sula	50656
+284		Cepti kartupeļi ar ādu	50815
+285		Tomātu pasta	51042
+286		Kečups	51202
+287		Sālījums	51346
+288		Jaukums	51588
+289		Saulespuķu sēklas	51747
+290		Grauzdētas saulespuķu sēklas	51876
+291		Mandeles	52006
+292		Izlobītas mandeles	52208
+293		Grauzdētas mandeles	52399
+294		Valriekstu	52589
+295		Eļļas grauzdētas saulespuķu sēklas	52858
+296		Sālītas grauzdētas mandeles	52991
+297		Indijas rieksti	53183
+298		Liellopu aknas	53330
+299		Liellopu aknas	53454
+300		Liellopu Krūšdaļas	53578
+301		Liellopu gaļa	53695
+302		Asmens cepta liellopu gaļa	53905
+303		Liellopu gaļas kārtu	54023
+304		Augšējo kārtu liellopu	54140
+305		Augšējo kārtu liellopu gaļas steiks	54263
+306		Alus	54380
+307		Gaismas alus	54514
+308		80 pierādījums alkoholiskie dzērieni	54644
+309		Sarkanvīns	54726
+310		Baltvīna	54830
+311		Augļu un dārzeņu sulas	54932
+312		Feja	55075
+313		Kolas bez kofeīna	55208
+314		Kvass	55336
+315		Šokolādes sīrups	55463
+316		Bez kofeīna, kafijas	55594
+317		Kafijas	55731
+318		Espreso	55876
+319		Šķīstošā kafija	55997
+320		Konservētu augļu dzēriens	56131
+321		Bagātināts augļu dzēriens	56263
+322		Limonāde	56406
+323		Kofeīna tēja	56558
+324		Tēja	56699
+325		Kolas	56840
+326		Krāna ūdeni	56972
+327		Gaismas kolas	57095
+328		Augļu piegaršu ūdens	57223
+329		86 pierādījums alkoholiskie dzērieni	57352
+330		Minerālūdens	57436
+331		Bagātināts augļu piegaršu ūdens	57560
+332		Dzīvoklis zivju	57687
+333		Reņģe	57808
+334		Lasis	58058
+335		Gaismas tunzivju konservu	58178
+336		Krabis	58355
+337		Garneles	58504
+338		Garneļu konservu	58647
+339		Ēdamie gliemeži	58790
+340		Konservēti gliemeži	58971
+341		Austere	59156
+342		Sams	59290
+343		Varavīksnes forele	59409
+344		Sautētas pupiņas	59532
+345		Sautētas pupiņas ar franki	59656
+346		Ceptas pupiņas ar cūkgaļu un tomātu mērci	59782
+347		Melnās pupiņas	59904
+348		Konservētas sarkanās pupiņas	60048
+349		Sarkanās pupiņas	60188
+350		Baltās pupiņas	60342
+351		Lēcas	60483
+352		Vārītas lēcas	60626
+353		Zemesrieksti sālīti	60769
+354		Sālīti grauzdēti zemesrieksti	60922
+355		Zemesriekstu sviests	61071
+356		Sojas mērce	61204
+357		Samazina tauku zemesriekstu sviests	61387
+358		Zemesrieksti bez sāls	61515
+359		Grauzdēti zemesrieksti	61666
+360		Maizīte	61813
+361		Cepums	62019
+362		Cepums	62184
+363		Franču maize	62355
+364		Itāļu maize	62590
+365		Multi-graudu maize	62799
+366		Rudzu maize	63106
+367		Maize	63410
+368		Tosts	63719
+369		Baltmaizes	64027
+370		Balta grauzdiņš	64333
+371		Maizi uzturā	64631
+372		Uzturā grauzdiņš	64936
+373		Rīvmaizē	65242
+374		Šokolādes kūka	65382
+375		Kēksu	65511
+376		Biezpienmaizīte	65638
+377		Šokolādes sviestmaižu cepumi	65788
+378		Vaniļas sviestmaižu cepumi	65988
+379		Siera cepumu	66156
+380		Krekinga	66406
+381		Krekeri ar zemesriekstu sviests	66652
+382		Kviešu krekeri	66902
+383		Riņķa	67149
+384		Melleņu kēksu	67356
+385		Pankūku	67564
+386		Ābolu pīrāgs	67727
+387		Ķirbju pīrāgs	67911
+388		Pusdienu ruleti	68098
+389		Ogu tosteris smalkmaizītes	68220
+390		Cepamais pulveris	68347
+391		Rauga	68458
+392		Vafeļu	68617
+393		Paniņas vafeļu	68790
+394		Matēta tosteris Mīklas	68963
+395		Kukurūzas čipsi	69090
+396		Siera uzkodas	69248
+397		Popkornu	69417
+398		Popkornu	69546
+399		Karameles	69685
+400		Cepamais šokolāde	69832
+401		Šokolādes pārklājumu karamele	70017
+402		Gaismas vaniļas saldējumu	70160
+403		Vaniļas saldējums	70294
+404		Apelsīnu šerbets	70423
+405		Apaļās ledenes	70573
+406		Piena šokolāde	70871
+407		Zemesriekstu M & Ms	71054
+408		M & Ms	71248
+409		Snikera batoniņu sev līdzi teltī	71444
+410		Twix josla	71664
+411		Kakao pulveris	71835
+412		Šokolādes saldējums	71965
+413		Laima ledus tips	72091
+414		Medus	72196
+415		Želejas	72308
+416		Brūnais cukurs	72449
+417		Cukurs	72606
+418		Pūdercukurs	72755
+419		Kļavu sīrups	72861
+420		Kļavu sīrups	72989
+421		Mikroshēmas	73105
+422		Samazina tauku mikroshēmas	73267
+423		Brūnie rīsi	73422
+424		Neapstrādāta baltā rīsi	73542
+425		Baltos rīsus	73664
+426		Tvaicēti rīsi	73785
+427		Pilngraudu milti	73907
+428		Visi mērķi milti	74029
+429		Baltas maizes milti	74153
+430		Kūka milti	74276
+431		Makaroni	74398
+432		Nūdeles	74580
+433		Spageti	74704
+434		Cepums ar olu un desas	74824
+435		Cepums ar desu	74957
+436		Jaukšana brūnās	75090
+437		Čīzburgers	75232
+438		Kartupeļi	75370
+439		Saldētas picas	75567
+440		Pieaug garoza pica	75711
+441		Pica	75854
+442		Bieza garoza pica	75997
+443		Plānas garoza pica	76141
+444		Peperoni picu	76297
+445		Bieza garoza peperoni picu	76441
+446		Dubultā hamburgers	76584
+447		Dubultā čīzburgers	76704
+448		Vistas piedāvājumus	76841
+449		Makaroni ar kotletes tomātu mērcē	76971
+450		Makaroni ar tomātu mērci	77095
+451		Mikroviļņu popkorns	77231
+452		Šokolādes jaudas josla	77364
+453		Gurkstēšana bārs	77510
+454		Medus ķekarus auzas ar mandelēm	77643
+455		Samazina tauku siers	77772
+456		Balta mikroshēmas	78009
+457		Kliņģeris	78160
+458		Dzērveņu sula	78308
+459		Medus ķekarus auzas	78462
+460		Zema tauku Šveices siers	78593

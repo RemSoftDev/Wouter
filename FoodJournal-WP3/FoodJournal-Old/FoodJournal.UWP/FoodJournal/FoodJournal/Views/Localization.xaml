@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.Localization">
+
+   <ContentPage.Resources>
+        <Style x:Key="Header" TargetType="Label">
+           
+        </Style>
+        <Style x:Key="Text"  TargetType="Label"/>
+        <DataTemplate x:Key="RequestRow">
+            <StackLayout>
+                <Grid>
+                    <Entry Text="{Binding Corrected, Mode=TwoWay}" TextChanged="Entry_OnTextChanged1" Width="386" HorizontalOptions="Start"  />
+                    <Switch IsToggled="{Binding IsGood, Mode=TwoWay}" HorizontalOptions="End" />
+                </Grid>
+                <Label Text="{Binding Description}" Style="{StaticResource Text}"/>
+            </StackLayout>
+        </DataTemplate>
+    </ContentPage.Resources>
+      
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <StackLayout Grid.Row="0" Padding="12,17,0,28">
+      <Label Text="{extensions:Translate PageTitle}" FontSize="Medium"/>
+      <Label Text="{extensions:Translate Feedback_Localize}"  FontSize="Large" />
+    </StackLayout>
+
+    <!--ContentPanel - place additional content here-->
+    <ScrollView Grid.Row="1" Padding="12,0,12,0">
+      <StackLayout x:Name="ContentPanel">
+
+        <Label  Text="{extensions:Translate Localization_Text}" />
+
+        <Label Text="{extensions:Translate Localization_Comment}" />
+        <Label  Text="{extensions:Translate Localization_CommentText}" />
+
+        <Entry Text="{Binding Comment, Mode=TwoWay}"  WidthRequest="456" HeightRequest="150" HorizontalOptions="Start"  TextChanged="Entry_OnTextChanged" />
+
+        <Grid>
+          <Label Text="{extensions:Translate Localization_Translations}" />
+          <!--                <Label  Text="{Binding Path=Strings.Localization_TranslationsText, Source={StaticResource LocalizedStrings}}" Style="{StaticResource Text}"/>
+-->
+          <Label Text="{extensions:Translate Localization_Good}" HorizontalOptions="End"  VerticalOptions="End"/>
+        </Grid>
+
+        <!--ItemsControl ItemsSource="{Binding TranslationRequests}" ItemTemplate="{StaticResource RequestRow}" ScrollViewer.VerticalScrollBarVisibility="Disabled" /-->
+
+        <!--
+                <Label Margin="12,24"  Text="{Binding Path=Strings.Localization_ThankYou, Source={StaticResource LocalizedStrings}}" Style="{StaticResource Text}"/>
+-->
+      </StackLayout>
+    </ScrollView>
+  </Grid>
+  
+  
+</ContentPage>

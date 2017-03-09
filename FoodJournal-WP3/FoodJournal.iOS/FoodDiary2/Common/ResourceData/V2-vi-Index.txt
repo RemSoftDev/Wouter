@@ -1,0 +1,1229 @@
+﻿Row	Meal	Name	Brand	Pos
+0	L	Gạo trắng		33
+1	D	Gạo trắng		146
+2	B	Bánh mì		259
+3	B	Trứng		533
+4	L	Trứng		699
+5	B	Gạo trắng		865
+6	L	Hỗn hợp rau		978
+7	D	Trứng		1106
+8	S	Sữa chua trái cây chất béo thấp		1272
+9	L	Gà		1388
+10	B	Cà phê		1598
+11	D	Hỗn hợp rau		1687
+12	L	Cắt giảm thịt lợn		1816
+13	B	Chuối		1939
+14	D	Bánh mì		2273
+15	S	Chuối		2548
+16	S	Cà phê		2882
+17	S	Trà		2971
+18	B	Mì		3061
+19	D	Cà chua		3195
+20	S	Bánh mì		3472
+21	B	1% sữa		3747
+22	L	Cà chua		3901
+23	L	Chuối		4178
+24	D	Gà		4512
+25	L	Thịt bò		4723
+26	D	Thịt bò		4905
+27	L	Bánh mì		5087
+28	D	Cắt giảm thịt lợn		5362
+29	S	Trứng		5485
+30	L	Mặt đất thịt lợn		5652
+31	S	Khoai lang		5779
+32	D	Cá rô phi		5986
+33	B	Bánh		6090
+34	S	Nước chanh		6220
+35	B	Nước chanh		6349
+36	B	Thịt bò		6478
+37	L	Cá da trơn		6660
+38	B	Bánh mì nướng		6789
+39	B	Cà phê hòa tan		7036
+40	B	Thịt xông khói		7101
+41	B	Cà chua		7226
+42	D	Nước chanh		7503
+43	L	Mỡ lợn		7632
+44	B	Trà		7698
+45	S	Bánh mì nướng		7788
+46	S	Dưa hấu		8035
+47	D	Tôm		8391
+48	B	Khoai lang		8527
+49	S	Mì		8734
+50	S	Xoài		8868
+51	D	Cà rốt		9051
+52	L	Trà		9281
+53	D	Thịt xông khói		9371
+54	B	Bột yến mạch		9496
+55	L	Sữa chua trái cây chất béo thấp		9615
+56	D	Xúc xích		9732
+57	L	Cà rốt		9875
+58	L	Gạo lứt		10105
+59	D	Sữa nguyên chất		10162
+60	L	Dưa leo chua		10313
+61	B	Sữa chua trái cây chất béo thấp		10462
+62	B	Dưa hấu		10579
+63	L	Mùa hè bí		10935
+64	D	Mì		11092
+65	S	Sô cô la sữa		11226
+66	L	Mì		11371
+67	B	Yến mạch		11505
+68	D	Sữa chua trái cây chất béo thấp		11646
+69	D	Hành tây		11763
+70	S	Sữa sô cô la		12003
+71	L	Cà phê		12129
+72	D	Trà		12218
+73	D	Ngô		12308
+74	L	Dứa		12555
+75	L	Dầu ô liu		12821
+76	B	Sữa chua nhẹ tăng cường chất trái cây chất béo thấp		12908
+77	B	Ngô		13032
+78	L	Rau diếp xoăn xanh		13279
+79	L	Cải xoăn		13375
+80	S	Ngô		13478
+81	B	Bánh mì Pháp		13725
+82	B	Dứa		13873
+83	S	Bỏng ngô		14139
+84	D	Bánh mì nướng		14243
+85	L	Cải bắp		14490
+86	D	Hạt hướng dương rang		14737
+87	S	Thạch		14837
+88	L	Nướng thịt lợn thăn		14948
+89	L	Màu xanh lá cây đậu Hà Lan		15050
+90	S	Cà rốt		15149
+91	S	Bơ đậu phộng		15379
+92	L	Cơm		15483
+93	L	Khoai lang		15502
+94	D	Gạo lứt		15709
+95	D	Dưa chuột		15766
+96	S	Súp mì gà		15967
+97	L	Bún		16100
+98	L	Nướng đậu		16119
+99	B	Cá hồi		16178
+100	D	Chuối		16268
+101	D	Khoai lang		16603
+102	L	Cá rô phi		16811
+103	D	Bỏng ngô		16916
+104	S	Dâu tây		17021
+105	L	Cơm trắng		17261
+106	L	Chiên trứng		17298
+107	S	Cá hồi		17498
+108	L	Nước cam tươi		17589
+109	B	Bún		17724
+110	B	Sữa nguyên chất		17744
+111	L	Tôm		17896
+112	B	Cơm		18033
+113	B	Gạo lứt		18053
+114	B	Xúc xích		18111
+115	L	Lợn Nướng Chả		18255
+116	L	Xoài		18276
+117	B	Xoài		18460
+118	D	Bún		18644
+119	D	Dưa hấu		18664
+120	B	Sữa		19021
+121	L	Táo		19059
+122	B	Mảnh ngô		19225
+123	S	Gạo trắng		19329
+124	B	Dưa chuột		19444
+125	L	Cá hồi		19646
+126	B	Ức gà thịt		19737
+127	L	Ngô		19880
+128	L	Dưa chuột		20128
+129	D	Nướng thịt lợn thăn		20330
+130	D	Dứa		20433
+131	D	Thịt bò canh		20700
+132	L	Dưa hấu		20808
+133	D	Cá hồi		21165
+134	B	Nhiều ngũ cốc buổi		21256
+135	D	Trứng luộc cứng		21360
+136	D	Bánh		21518
+137	L	Đùi gà		21649
+138	D	rau muống		21793
+139	L	Bò		21815
+140	D	Đùi gà		21836
+141	L	Củ đậu		21980
+142	B	Hỗn hợp rau		22008
+143	L	rau muống		22138
+144	D	Cải bắp		22160
+145	S	Củ đậu		22408
+146	B	Cắt giảm thịt lợn		22436
+147	B	Chiên trứng		22560
+148	D	Chiên trứng		22760
+149	S	Cơm		22960
+150	L	Cá trích		22980
+151	L	Sữa chua		23078
+152	L	Bông cải xanh		23098
+153	B	Bánh xốp		23307
+154	B	Phở		23449
+155	D	Cơm		23469
+156	B	ngũ cốc		23489
+157	D	Khoai tây nghiền		23562
+158	D	Cơm trắng		23671
+159	S	Sữa chua		23708
+160	B	Sữa chua		23728
+161	L	Thịt bò canh		23748
+162	D	Rau bina nấu chín		23856
+163	B	Mật ong		23960
+164	B	bánh ngọt		24060
+165	D	Trứng vịt lộn		24100
+166	D	Xoài		24138
+167	L	Su su		24322
+168	B	Táo		24344
+169	S	Sữa nguyên chất		24510
+170	S	Bánh xốp		24662
+171	B	sữa đậu nành		24804
+172	L	Đậu phụ		24844
+173	D	Táo		24884
+174	L	Nhiều ngũ cốc buổi		25050
+175	B	Mặt đất thịt lợn		25154
+176	B	Bánh Cuốn		25282
+177	B	Nướng thịt lợn thăn		25303
+178	L	sữa đậu nành		25406
+179	B	Mận		25446
+180	D	Rau diếp xoăn xanh		25466
+181	D	Đậu phụ		25563
+182	B	Bánh Phở		25603
+183	D	sinh tố		25637
+184	D	Dưa leo chua		25676
+185	D	1% sữa		25826
+186	D	Mặt đất thịt lợn		25981
+187	B	sinh tố		26109
+188	L	Ca kho		26148
+189	D	Ức gà thịt		26167
+190	D	Lạc muối rang		26310
+191	S	Kem vani		26426
+192	S	Dưa chuột		26549
+193	S	Nước cam tươi		26751
+194	B	Bún bò		26886
+195	B	Cháo		26990
+196	B	Xôi		27010
+197	B	Bánh gạo		27048
+198	L	Bánh gạo		27068
+199	B	Bánh mì nướng trắng		27088
+200	D	Bò		27345
+201	D	Nước cam tươi		27366
+202	B	Cải bắp		27501
+203	L	Bánh Phở		27749
+204	L	Sữa nguyên chất		27783
+205	L	Thịt rang Thổ Nhĩ Kỳ		27935
+206	L	Chiên gà		28049
+207	L	Bánh mì nướng trắng		28173
+208	S	Thịt bò		28430
+209	B	Thịt heo		28613
+210	B	Sô cô la sữa		28647
+211	D	Mùa hè bí		28793
+212	D	Sữa chua		28951
+213	D	sữa đậu nành		28971
+214	D	thịt lợn		29011
+215	L	Dưa vàng		29031
+216	D	Xôi Xéo		29313
+217	D	bim bim		29334
+218	D	Cá trích		29374
+219	D	Bánh gạo		29472
+220	D	Ổi		29492
+221	S	Kem sô cô la		29513
+222	B	Chiên gà		29630
+223	B	Bỏng ngô		29754
+224	B	Hủ tiếu		29859
+225	B	Củ đậu		29898
+226	S	Bánh quy giòn lúa mì		29926
+227	D	Yến mạch		30076
+228	L	rau ngót		30218
+229	B	Mì tôm		30251
+230	D	Bánh mì nướng trắng		30271
+231	D	đậu đỏ		30528
+232	D	Ca thu		30549
+233	D	canh bí đao		30579
+234	D	Bưởi		30620
+235	B	Kem vani		30639
+236	D	Cháo		30762
+237	D	Củ đậu		30782
+238	L	Yến mạch		30810
+239	L	Giảm mỡ bơ đậu phộng		30952
+240	L	Giò Chả		31057
+241	S	sinh tố		31078
+242	S	Sữa chua nhẹ tăng cường chất trái cây chất béo thấp		31117
+243	S	Cháo		31242
+244	S	Hỗn hợp rau		31262
+245	S	Ổi		31392
+246	B	Nước tương		31413
+247	S	caramen		31558
+248	L	thịt kho tiêu		31578
+249	L	Nước chanh		31620
+250	D	nem chua rán		31750
+251	D	Canh bầu		31771
+252	D	Thịt heo		31792
+253	B	Cơm trắng		31826
+254	B	Cá rô phi		31863
+255	L	Khoai tây nghiền		31968
+256	S	sữa đậu nành		32077
+257	S	Bánh afc		32117
+258	S	Dứa		32155
+259	S	1% sữa		32422
+260	L	Rau bina nấu chín		32577
+261	S	Phô mai		32681
+262	S	Trứng vịt lộn		32810
+263	L	Cháo		32848
+264	L	Xôi Xéo		32868
+265	L	Bánh		32889
+266	L	1% sữa		33020
+267	L	thịt lợn		33175
+268	L	Bánh xốp		33195
+269	D	Bánh ngọt nướng bánh mỳ phủ sương		33337
+270	B	Sữa Fami		33440
+271	B	Sữa chua không đường		33461
+272	B	đậu đỏ		33491
+273	D	Bông cải xanh		33512
+274	D	Bánh xốp		33721
+275	L	Đậu phộng mà không có muối		33863
+276	B	Miến		33983
+277	D	Gà kho		34022
+278	S	Táo		34063
+279	S	Tôm		34229
+280	S	Kẹo dẻo		34366
+281	L	Đậu nành công nghiệp dầu		34506
+282	L	Củ cải		34582
+283	L	Cá		34616
+284	L	Ức gà thịt		34719
+285	L	Sữa chua nhẹ tăng cường chất trái cây chất béo thấp		34862
+286	B	Tôm		34987
+287	S	Bưởi		35124
+288	L	bim bim		35143
+289	B	Phô mai		35183
+290	B	Nước cam tươi		35312
+291	B	Nước dừa		35447
+292	B	Đầu vòng thịt bò bít tết		35468
+293	B	Trứng vịt lộn		35563
+294	B	Ổi		35601
+295	B	Bún riêu		35622
+296	B	Dưa vàng		35643
+297	B	bánh mì ổ		35925
+298	S	Bún		36026
+299	B	Bánh bao		36046
+300	B	Lạc muối rang		36067
+301	B	bim bim		36183
+302	S	Mận		36223
+303	L	Đậu lăng		36243
+304	L	Miến		36362
+305	L	Khoai tây chiên trắng		36401
+306	L	Quẩy		36517
+307	L	Bánh mì nướng		36538
+308	L	Thịt kho		36786
+309	D	bánh bột lọc		36806
+310	D	Chả lụa		36827
+311	D	Bánh quy bơ		36858
+312	D	Bột yến mạch		36896
+313	D	Cá da trơn		37016
+314	D	Thạch		37146
+315	D	Cải xoăn		37258
+316	L	ngũ cốc		37362
+317	S	Kẹo		37435
+318	L	Nam		37528
+319	L	Thịt heo		37565
+320	L	Thit		37599
+321	L	Xúc xích		37639
+322	S	Cam		37783
+323	D	Bánh Tráng		37803
+324	L	Bánh ngọt nướng bánh mỳ phủ sương		37843
+325	D	Bia		37946
+326	D	Gan gà		38039
+327	L	Bột yến mạch		38147
+328	S	Canh bầu		38267
+329	S	Xôi		38288
+330	S	Pizza		38326
+331	S	Chiên trứng		38362
+332	L	Pizza		38562
+333	L	Lạc muối rang		38598
+334	L	Bánh Cuốn		38714
+335	S	Bánh bông lan		38735
+336	S	trà sữa		38775
+337	D	Kẹo		38796
+338	S	nước mía		38889
+339	L	Phô mai		38911
+340	B	bánh ướt		39040
+341	S	Sữa tươi		39080
+342	B	Bún xào		39100
+343	B	Cà rốt		39138
+344	B	Sữa không đường		39369
+345	B	Dưa lê		39390
+346	B	Sữa sô cô la ít chất béo		39411
+347	D	Dưa vàng		39554
+348	B	Lạc rang		39836
+349	D	Su su		39932
+350	D	rau ngót		39954
+351	D	Cam		39987
+352	D	Chả cá		40007
+353	D	Mỳ tôm		40027
+354	D	Nướng đậu		40065
+355	D	Mì tôm		40125
+356	D	Mỡ lợn		40145
+357	B	Kẹo		40212
+358	L	Ngao		40305
+359	L	Canh chua		40326
+360	L	Bí đao		40364
+361	L	Cá lóc kho		40385
+362	L	Mận		40405
+363	L	Cam		40425
+364	L	Bánh quy giòn lúa mì		40445
+365	S	Đu đủ		40595
+366	L	Sữa bột		40614
+367	S	Bánh		40730
+368	L	Ca thu		40861
+369	L	Ổi		40891
+370	S	Bò		40912
+371	S	Chôm chôm		40933
+372	S	Trứng luộc cứng		40964
+373	S	Chè		41122
+374	S	bim bim		41142
+375	S	Nước chanh không đường		41182
+376	S	Bánh quy bơ		41202
+377	S	Há cảo		41240
+378	B	Gan gà		41261
+379	S	Sữa		41369
+380	D	Củ cải		41407
+381	B	bánh bột lọc		41441
+382	B	cơm tấm		41462
+383	B	Bơ thực vật		41502
+384	B	thịt lợn		41622
+385	B	Bưởi		41642
+386	B	Giảm chất béo chip		41661
+387	B	Chè		41787
+388	B	Đậu phụ		41807
+389	B	Súp mì gà		41847
+390	B	Mùa hè bí		41981
+391	B	Màu xanh lá cây đậu Hà Lan		42139
+392	B	Mỳ tôm		42239
+393	D	Bánh rán		42277
+394	B	Mit		42298
+395	D	bánh su kem		42334
+396	D	Há cảo		42372
+397	D	Phở		42393
+398	D	Dâu tây		42413
+399	D	Sữa không đường		42653
+400	D	Quýt		42674
+401	D	bún thịt nướng		42705
+402	D	Ca kho		42725
+403	D	Thịt rang Thổ Nhĩ Kỳ		42744
+404	D	Kem vani		42858
+405	D	Lợn Nướng Chả		42981
+406	B	Khoai tây nghiền		43002
+407	B	Bánh quy		43111
+408	B	Dâu tây		43150
+409	D	Dưa lê		43390
+410	B	Kẹo dẻo		43411
+411	B	Cà chua dán		43551
+412	B	Phở bò		43684
+413	B	Banh canh		43705
+414	B	Bánh đa		43726
+415	B	Bún riêu		43747
+416	B	bún thịt nướng		43784
+417	B	Ca loc		43804
+418	B	Trứng kho		43836
+419	B	Thanh long		43952
+420	D	Thấp sữa chua chất béo vani		43971
+421	B	Bông cải xanh		44077
+422	B	Gà kho		44286
+423	B	Giò Chả		44327
+424	B	Cá trích		44348
+425	B	Bơ đậu phộng		44446
+426	B	Hu tiu		44551
+427	B	Bánh quy giòn lúa mì		44589
+428	B	Nươc		44739
+429	B	Sữa tươi		44759
+430	B	Sữa sô cô la		44779
+431	D	Miến		44906
+432	S	Banh canh		44945
+433	S	Làm giàu trái cây hương vị nước		44966
+434	S	Bia		45042
+435	S	Sữa bột		45135
+436	S	Cơm trắng		45251
+437	S	Thanh long		45288
+438	S	Hạt hướng dương rang		45307
+439	S	Sữa không đường		45408
+440	S	Ca loc		45429
+441	S	Cắt giảm thịt lợn		45461
+442	D	Cá ngừ kho		45585
+443	D	trà sữa		45612
+444	D	Bầu		45633
+445	D	Xôi		45671
+446	D	Bánh bao		45709
+447	D	Bánh chưng		45730
+448	D	Bắp luộc		45751
+449	D	nước mía		45772
+450	D	Lê		45794
+451	D	đậu hũ		45968
+452	D	Ca chim		46009
+453	D	Mit		46041
+454	D	Cà phê		46077
+455	B	Gà		46167
+456	S	Bánh mì Pháp		46379
+457	L	Thạch		46528
+458	L	Ca chim		46640
+459	L	Mì gói		46672
+460	L	Bầu xào trứng		46713
+461	L	Dưa lê		46733
+462	L	Trứng cút		46754
+463	L	Canh rau dền		46793
+464	L	Sữa sô cô la ít chất béo		46832
+465	L	Hành tây		46975
+466	L	Chả cá		47216
+467	L	Giá đỗ		47236
+468	S	Sữa chua không đường		47255
+469	L	Trứng luộc cứng		47285
+470	L	Gà kho		47443
+471	L	khoai tây		47484
+472	B	Đậu phộng		47669
+473	S	bánh su kem		47690
+474	B	Bánh Bò		47728
+475	S	bánh bột lọc		47749
+476	S	Bột đậu		47770
+477	B	Thịt gà		47790
+478	L	Bầu		47811
+479	L	Canh bầu		47849
+480	S	Lạc muối rang		47870
+481	B	Bánh chưng		47986
+482	L	Kho qua		48007
+483	B	Nấm men		48047
+484	L	canh bí đao		48172
+485	L	Rau cải		48213
+486	S	Khoai tây chiên trắng		48235
+487	B	Đậu phộng mà không có muối		48351
+488	B	Bánh quy bơ		48471
+489	B	phở gà		48509
+490	B	Cá		48530
+491	B	Há cảo		48633
+492	B	Thấp sữa chua chất béo vani		48654
+493	B	Kho qua		48760
+494	B	Bánh bông lan		48800
+495	B	Làm giàu trái cây hương vị nước		48840
+496	S	Canh chua		48916
+497	B	Dưa leo		48954
+498	S	Mì gói		49032
+499	S	Bông cải xanh		49073
+500	S	Cà chua		49282
+501	S	Phở		49560
+502	S	Gạo lứt		49580
+503	S	Nướng thịt lợn thăn		49638
+504	S	Thịt xông khói		49741
+505	S	Yến mạch		49867
+506	S	Đậu phộng mà không có muối		50009
+507	S	Nhiều ngũ cốc buổi		50129
+508	S	ngũ cốc		50233
+509	S	Bánh bao		50306
+510	B	Đu đủ		50327
+511	B	Bánh afc		50346
+512	B	Kem sô cô la		50384
+513	B	Thịt bò canh		50501
+514	B	Bánh gio		50609
+515	B	Nam		50629
+516	S	Đậu nành công nghiệp dầu		50666
+517	S	Thấp sữa chua chất béo vani		50742
+518	L	Đầu vòng thịt bò bít tết		50848
+519	B	Cải xoăn		50943
+520	S	xôi mặn		51047
+521	B	Cá diêu hông		51082
+522	S	Đậu hủ chiên xả		51118
+523	S	Bánh Tráng		51139
+524	S	Lạc rang		51179
+525	S	cà ri		51275
+526	S	Bánh Bò		51308
+527	S	Xôi gấc		51329
+528	S	Cá trích		51349
+529	S	Canh rau dền		51447
+530	B	Cá da trơn		51486
+531	S	Sữa Fami		51616
+532	D	Rau cải		51637
+533	L	Bánh tét		51659
+534	L	Tép rang		51679
+535	L	Bỏng ngô		51711
+536	L	Kẹo		51816
+537	D	Trứng cút		51909
+538	L	Sữa sô cô la		51948
+539	D	Mắm chưng		52075
+540	D	Súp mì gà		52113
+541	D	Bí luộc		52247
+542	D	Nước dừa		52340
+543	D	Sữa sô cô la		52361
+544	L	Mì tôm		52488
+545	D	phở bò tái		52508
+546	D	Bánh mì Pháp		52540
+547	D	Rau		52689
+548	D	Su hào		52709
+549	D	Cá nục		52729
+550	D	Ngao		52755
+551	D	Bánh quy		52776
+552	D	bánh xèo		52815
+553	D	Bột chiên		52836
+554	D	cà ri		52874
+555	D	Giò Chả		52907
+556	D	Bún riêu		52928
+557	D	Màu xanh lá cây đậu Hà Lan		52949
+558	D	Màu xanh lá cây rau diếp		53049
+559	L	Cà phê sữa		53367
+560	L	Sữa milo		53388
+561	L	lạp xưởng		53409
+562	L	Bánh Tráng		53430
+563	L	Mit		53470
+564	L	đậu hũ		53506
+565	L	Lê		53547
+566	L	trà sữa		53721
+567	D	Đầu vòng thịt bò bít tết		53742
+568	L	Bánh chưng		53837
+569	L	Bún bò		53858
+570	L	Canh cải ngọt		53962
+571	L	Hủ tiếu		53995
+572	L	Cá nục		54034
+573	L	Súp mì gà		54060
+574	L	Bánh mì tròn		54194
+575	D	Đu đủ		54380
+576	L	Rau		54399
+577	L	Đu đủ		54419
+578	L	Cà tím		54438
+579	L	Cá ngừ kho		54469
+580	L	Bánh bông lan		54496
+581	L	Thấp sữa chua chất béo vani		54536
+582	L	Sữa chua không đường		54642
+583	L	Bột chiên		54672
+584	L	Thịt xông khói		54710
+585	B	Dưa leo chua		54836
+586	B	Bánh mì tròn		54986
+587	B	Cam		55172
+588	B	canh bí đao		55192
+589	B	Bánh ngọt nướng bánh mỳ phủ sương		55233
+590	B	Mì gói		55336
+591	B	Nướng đậu		55377
+592	B	Tép rang		55437
+593	L	nem chua rán		55469
+594	B	Thịt kho		55490
+595	B	Trứng cút		55510
+596	D	Canh rau dền		55549
+597	D	Mì gói		55588
+598	D	Hồng trà		55629
+599	D	Chè		55649
+600	D	Bí đao		55669
+601	D	Giá đỗ		55690
+602	D	Sữa		55709
+603	D	Bánh canh cua		55747
+604	D	Mảnh ngô		55777
+605	S	Lê		55881
+606	D	Hu tiu		56055
+607	D	Sữa Fami		56093
+608	D	Sữa chua nhẹ tăng cường chất trái cây chất béo thấp		56114
+609	D	Bánh gio		56239
+610	D	Thanh long		56259
+611	D	Canh chua		56278
+612	D	chanh		56316
+613	D	Chiên gà		56404
+614	S	Đậu phộng		56528
+615	D	Đậu phộng		56549
+616	D	Bún bò		56570
+617	D	Bánh bông lan		56674
+618	L	bánh mì ổ		56714
+619	D	bánh ngọt		56815
+620	D	nước ngọt		56855
+621	D	Nhiều ngũ cốc buổi		56875
+622	D	Canh cải ngọt		56979
+623	D	Bánh mì tròn		57012
+624	D	Sữa tươi		57198
+625	D	Bánh quy giòn lúa mì		57218
+626	D	Mận		57368
+627	D	Kho qua		57388
+628	D	Cơm gà		57428
+629	D	Sữa bột		57449
+630	D	Đậu lăng		57565
+631	D	Làm giàu trái cây hương vị nước		57684
+632	D	Phở bò		57760
+633	D	Kẹo dẻo		57781
+634	D	thịt kho tiêu		57921
+635	D	Nấm men		57963
+636	S	rau muống		58088
+637	D	bánh ướt		58110
+638	S	Thịt bò canh		58150
+639	S	thịt lợn		58258
+640	S	Miến		58278
+641	S	Bánh gạo		58317
+642	S	Mì tôm		58337
+643	S	Bánh canh cua		58357
+644	S	Bí đao		58387
+645	S	Bầu		58408
+646	S	Cà tím		58446
+647	S	Mit		58477
+648	S	Màu xanh lá cây đậu Hà Lan		58513
+649	S	Hủ tiếu		58613
+650	S	Nước dừa		58652
+651	S	Hu tiu		58673
+652	S	Sữa milo		58711
+653	S	Khoai tây nướng		58732
+654	S	Mặt đất thịt lợn		58909
+655	S	Bún bò		59037
+656	S	Cá rô phi		59141
+657	S	Xúc xích		59246
+658	S	Giá đỗ		59390
+659	S	cơm tấm		59409
+660	S	Bún riêu		59449
+661	S	nước ngọt		59486
+662	S	Canh cải ngọt		59506
+663	S	Gan gà		59539
+664	S	Rau		59647
+665	S	Bánh rán		59667
+666	S	Bánh tiêu		59688
+667	S	bánh ướt		59719
+668	S	bánh mì ổ		59759
+669	S	Bột chiên		59860
+670	S	Bánh mì tròn		59898
+671	S	Bơ dầu		60084
+672	S	đậu xanh		60198
+673	S	Nướng đậu		60236
+674	S	Đùi gà		60296
+675	S	Dưa lê		60440
+676	S	Đầu vòng thịt bò bít tết		60461
+677	S	Hồng trà		60556
+678	S	Chả lụa		60576
+679	D	Pizza		60607
+680	S	bánh xèo		60643
+681	B	Lê		60664
+682	B	Quýt		60838
+683	B	Bắp luộc		60869
+684	B	thịt kho trứng		60890
+685	B	Khoai tây chiên trắng		60923
+686	B	Bơ dầu		61039
+687	B	Bánh tiêu		61153
+688	B	thịt kho tiêu		61184
+689	B	xôi mặn		61226
+690	L	Sô cô la sữa		61261
+691	B	Quẩy		61407
+692	B	Củ cải		61428
+693	B	phở bò tái		61462
+694	B	caramen		61494
+695	L	Phở		61514
+696	L	Trứng kho		61534
+697	L	Bưởi		61650
+698	L	Bơ đậu phộng		61669
+699	L	chanh		61774
+700	D	Nước chanh không đường		61862
+701	B	Màu xanh lá cây rau diếp		61882
+702	B	lạp xưởng		62200
+703	B	Chôm chôm		62221
+704	B	Thạch		62252
+705	B	Giảm mỡ bơ đậu phộng		62364
+706	B	Bánh canh cua		62469
+707	B	Trứng luộc cứng		62499
+708	B	Hạt hướng dương rang		62657
+709	B	Chả lụa		62758
+710	B	Nước sốt thịt nướng		62789
+711	B	Cà phê sữa		62912
+712	B	Lợn Nướng Chả		62933
+713	B	Nước chanh không đường		62954
+714	B	Nước ép cà chua		62974
+715	B	cà ri		63093
+716	B	Snack		63126
+717	B	Bánh Tráng		63164
+718	B	Đậu lăng		63204
+719	B	Đậu nành công nghiệp dầu		63323
+720	B	Cơm gà		63399
+721	L	Nước tương		63420
+722	D	Bánh Bò		63565
+723	L	Bơ dầu		63586
+724	L	đậu xanh		63700
+725	L	thịt kho trứng		63738
+726	L	Bánh rán		63771
+727	L	Cơm gà		63792
+728	L	Bia		63813
+729	L	Kẹo dẻo		63906
+730	L	Banh canh		64046
+731	L	Mật ong		64067
+732	D	Sữa milo		64167
+733	L	Đậu hủ chiên xả		64188
+734	D	Lạc rang		64209
+735	D	Nước ép cà chua		64305
+736	D	Phô mai		64424
+737	D	phở gà		64553
+738	D	caramen		64574
+739	D	Đậu phộng mà không có muối		64594
+740	L	đậu đỏ		64714
+741	L	Bí luộc		64735
+742	L	Sữa		64828
+743	L	Nươc		64866
+744	L	Cá diêu hông		64886
+745	L	Bún xào		64922
+746	L	Kem sô cô la		64960
+747	L	Chả lụa		65077
+748	L	Nước sốt thịt nướng		65108
+749	L	Đậu phộng		65231
+750	S	Gà		65252
+751	L	Quýt		65464
+752	L	Bánh quy bơ		65495
+753	L	Sữa tươi		65533
+754	L	Khoai tây nướng		65553
+755	L	Snack		65730
+756	L	Bột đậu		65768
+757	L	Lạc rang		65788
+758	L	bánh su kem		65884
+759	L	Su hào		65922
+760	L	Ca loc		65942
+761	S	Táo		65974
+762	S	Cà phê		66173
+763	S	Chuối		66292
+764		Dầu đậu tương		66569
+765		Ruốc		66667
+766		Miến dong		66688
+767		Đường		66716
+768		Xôi đậu xanh		66839
+769		Cóc		66860
+770		đậu đen		66880
+771		Cơm tẻ		66997
+772		Khoai tây chiên		67018
+773		Gạo nếp		67146
+774		Nem Chua		67184
+775		Nhãn		67210
+776		Linh tinh		67250
+777		Lựu		67270
+778		Dầu thực vật		67305
+779		Đào		67378
+780		Nước Ổi		67566
+781		Giá		67586
+782		Rau Muống Luộc		67615
+783		Giò lụa		67635
+784		canh bí đỏ		67656
+785		nước chanh mật ong		67678
+786		bí đỏ		67699
+787		Khoai so		67737
+788		Chanh Cốt		67758
+789		Gà Xào Xả Ớt		67791
+790		Rau Bí		67812
+791		xôi trắng		67844
+792		xôi lạc		67865
+793		Đậu đũa		67886
+794		Nho		67927
+795		Trứng luộc		67991
+796		Nước rau má		68094
+797		Củ Đậu		68115
+798		Trung ga		68146
+799		Mướp		68167
+800		vừng		68199
+801		Quả bơ		68220
+802		Nước sấu		68247
+803		Bánh Đậu Xanh		68267
+804		Canh rau ngót		68288
+805		Sữa TH		68308
+806		Muc kho		68348
+807		bí ngô		68385
+808		khế		68405
+809		Bò sườn		68427
+810		Cá chép		68524
+811		Bánh Tẻ		68543
+812		Ổi		68564
+813		Bánh Cheese Cake		68598
+814		Pate		68619
+815		Bánh mì thịt		68652
+816		Bột bánh		68673
+817		Trứng Chiên		68769
+818		Sữa Vinamilk		68875
+819		Ánh sáng bia		68896
+820		Canh mướp		68997
+821		đỗ tương		69017
+822		Hàu		69038
+823		quả hồng		69076
+824		Vải		69097
+825		Chả Lá Lốt		69117
+826		Mít dai		69138
+827		Sâm bổ lượng		69166
+828		Na		69186
+829		Bánh Oreo		69206
+830		Canh khoai mỡ		69236
+831		Bánh Chocopie		69269
+832		Xoài xanh		69290
+833		Lòng trắng Trứng		69389
+834		Bò bía		69409
+835		mì quảng		69429
+836		Sữa Tách Béo		69467
+837		Dua cai be		69508
+838		Rau dền		69529
+839		Chân gà		69569
+840		Măng Tre		69699
+841		Kẹo gôm		69729
+842		Hẹ		70025
+843		Oc		70052
+844		Bánh gạo mặn		70083
+845		Quả Na		70104
+846		Sữa đậu nành không đường		70140
+847		Bánh Trung Thu		70162
+848		Đậu Bắp		70183
+849		cháo lòng		70221
+850		Xúc xích gan		70242
+851		Chà bông		70357
+852		Bánh bao chay		70390
+853		Sau rieng		70411
+854		cháo gà		70432
+855		Bánh cosy		70453
+856		Bánh mì trắng		70473
+857		Bánh Mì Kẹp Thịt		70716
+858		Rau xà lách		70757
+859		Mỳ Quảng		70789
+860		Tào Phớ		70815
+861		Sữa yomost		70836
+862		Bột sắn dây		70874
+863		Trái Hồng		70895
+864		Đậu Rán		70916
+865		Rau Thơm		70937
+866		Nho-hạt ngũ cốc		70957
+867		Trứng gà luộc		71070
+868		cá biển		71090
+869		thịt lợn rang		71111
+870		Tẩm bột gà		71132
+871		Ngũ cốc buổi		71250
+872		Bánh mì đa hạt		71361
+873		Ca me		71622
+874		Chả giò		71651
+875		Xíu mại		71683
+876		Nước trái cây cam		71705
+877		Coca Cola		71816
+878		Trứng vit		71836
+879		Bánh Quế		71937
+880		Chả quế		71958
+881		Canh bí rợ		71989
+882		hoành thánh		72008
+883		Canh Cải Ngọt		72043
+884		mít		72081
+885		Cá viên kho		72101
+886		Xôi ngô		72204
+887		Cơm Rang		72246
+888		Đậu bắp luộc		72286
+889		gạo		72307
+890		Canh bắp cải		72406
+891		Nui		72443
+892		Thịt chiên		72482
+893		Bún		72503
+894		bún thịt nướng chả giò		72524
+895		Trứng Rán		72564
+896		trứng gà ta		72585
+897		Nem Rán		72607
+898		Sữa đặc		72628
+899		mì ý		72661
+900		Cải Thìa		72682
+901		Cacao		72708
+902		Hành Lá		72728
+903		nước khoáng		72760
+904		Xôi Ruốc		72785
+905		Bánh phồng		72806
+906		Mì ăn liền		72827
+907		Khoai môn		72847
+908		Gia vị		72866
+909		Bánh canh thịt		72992
+910		bún bò huế		73013
+911		bún mắm		73052
+912		Lương khô		73090
+913		trà xanh		73111
+914		Bánh Dày		73131
+915		rau mùng tơi		73152
+916		trứng vịt luộc		73245
+917		Hạt Điều		73277
+918		Dưa muối		73375
+919		Bánh flan		73395
+920		trứng gà Mỹ		73428
+921		đỗ que		73469
+922		Ca Cao		73489
+923		Bánh Pía		73510
+924		Bánh mì tươi		73531
+925		thịt heo quay		73570
+926		Mì gạo		73664
+927		Sữa Không Đường Tách Béo		73766
+928		Rau muon		73786
+929		Hạt Dẻ		73809
+930		Nghêu		73830
+931		Bánh Kem Tiramisu		73851
+932		Heo Quay		73891
+933		Bánh Đúc		73912
+934		Nước sâm		73933
+935		Mì ống với sốt cà chua		73953
+936		Hủ Tiếu Mì		74065
+937		Rau má		74105
+938		cơm tấm sườn		74125
+939		Sting		74146
+940		Chân giò heo		74174
+941		Cải Ngồng		74209
+942		Tàu Hủ		74231
+943		Sinh Tố Chuối Đại Dương		74257
+944		Trà sữa trân châu		74296
+945		Bánh mì đen		74334
+946		Bánh Mì Trứng		74435
+947		bánh hỏi		74456
+948		Nước ép táo		74497
+949		Keo mut		74517
+950		Canh rau đay		74537
+951		Hủ Tiếu Nam Vang		74556
+952		Cháo trắng		74592
+953		bánh nậm		74613
+954		Lòng đỏ trứng		74635
+955		Bánh Mặn		74759
+956		mướp đắng		74780
+957		Súp lơ		74804
+958		Đậu que xào		74830
+959		Sữa Đậu Nành		74849
+960		Nấm Rơm		74888
+961		Cháo Lòng		74908
+962		Gà kho gừng		74929
+963		Chè		74964
+964		hủ tiếu thịt heo		74985
+965		Bánh Đa Cua		75025
+966		Bò kho		75063
+967		đậu hủ dồn thịt		75084
+968		Bánh Mì Pate		75117
+969		Đỗ		75138
+970		Sữa Tách Béo Vinamilk		75236
+971		Miến		75271
+972		Rau Bí		75309
+973		rong biển		75329
+974		Nước Dừa		75350
+975		Sữa đặc có đường		75372
+976		sữa dậu nành		75405
+977		Cai Thao		75426
+978		Rau đay		75452
+979		Trái ổi		75475
+980		Bánh chuối chiên		75496
+981		cơm chiên trứng		75530
+982		miến gà		75569
+983		Nấm rơm kho		75590
+984		Banh khoai		75611
+985		Cơm sườn		75633
+986		bánh bao nhân thịt		75654
+987		Sushi		75690
+988		Đậu phụ rán		75723
+989		Vịt quay		75764
+990		canh bún		75785
+991		Cà phê sữa		75806
+992		Bánh da lợn		75845
+993		Hồng xiêm		75882
+994		Sinh tố dâu		75904
+995		Cà phê sữa đá		75931
+996		chanh mật ong		75979
+997		Banh ú		76001
+998		canh hẹ		76021
+999		Củ sắn		76055
+1000		Nước trái cây hương vị		76080
+1001		Cải cúc		76175
+1002		Cá hú kho		76198
+1003		Bánh bía		76220
+1004		Nguyên cải bắp		76242
+1005		cocacola		76491
+1006		Tôm Biển		76512
+1007		Dừa cùi		76533
+1008		Khoai		76564
+1009		Cơm Trứng		76586
+1010		bánh trứng		76690
+1011		Su Hào		76725
+1012		rau cải ngọt		76746
+1013		Chả giò chiên		76767
+1014		Sườn nướng		76801
+1015		xôi khúc		76834
+1016		Sườn ram		76856
+1017		Thịt heo xào đậu que		76889
+1018		thịt nạc		76923
+1019		Khoai mì		76945
+1020		Sữa Tươi Không Đường		76982
+1021		Quả Nhãn		77019
+1022		Dưa cải bắp		77044
+1023		Dọc mùng		77069
+1024		Rượu vang đỏ		77090
+1025		Nước đóng chai		77163
+1026		Gà vú		77285
+1027		Vòi nước		77385
+1028		Đậu thận đỏ		77506
+1029		Khử caffein cà phê		77664
+1030		Bánh mì ý		77799
+1031		Bánh mạch đen		77992
+1032		Bánh mì tròn quế nho khô		78261
+1033		Đường nâu		78467
+1034		Bánh mì cứng cuộn		78658
+1035		Chiếc bánh rán		78839
+1036		Đậu phộng M & Ms		79062
+1037		M & Ms		79222
+1038		Nước ép nam Việt quất		79384
+1039		Hạt lúa mạch		79536
+1040		Nước trái cây rau và trái cây		79705
+1041		Ma		79846
+1042		Khử caffein trà		79982
+1043		Đồ uống trái cây đóng hộp		80121
+1044		Làm giàu trái cây uống		80256
+1045		Đóng hộp tôm		80402
+1046		Trai		80542
+1047		Trai đóng hộp		80718
+1048		Đóng hộp cá ngừ ánh sáng		80898
+1049		Quái vật năng lượng nước uống		81080
+1050		Mùa đông bóng quần		81212
+1051		Đóng hộp khoai lang		81392
+1052		Nước trái cây đóng hộp cà rốt		81538
+1053		Các khoai tây nướng với da		81695
+1054		Ngô đông lạnh		81897
+1055		Nướng khoai lang		82161
+1056		Nước trái cây rau quả đóng hộp		82309
+1057		Hạnh nhân		82467
+1058		Rang hạnh nhân		82652
+1059		Hạnh nhân nướng muối		82819
+1060		Lò nướng khoai tây chiên		82988
+1061		Nguyên rau bina		83191
+1062		Khoai tây ở da		83347
+1063		Luộc khoai tây		83546
+1064		Nấu chín cà chua		83746
+1065		Cà chua đóng hộp		84019
+1066		Bột cà chua tiềm		84205
+1067		Nước sốt cà chua đóng hộp		84476
+1068		Cà rốt nấu chín		84635
+1069		Đông lạnh cà rốt		84883
+1070		Cần tây		85133
+1071		Tảng băng trôi rau diếp		85383
+1072		Nấm da trắng		85679
+1073		Hành tây nấu chín		85835
+1074		Mùa xuân hành tây		86105
+1075		Màu xanh lá cây đậu đóng hộp		86289
+1076		Nguyên bông cải xanh		86463
+1077		Bông cải xanh xắt nhỏ		86693
+1078		Bông cải xanh đông lạnh		86921
+1079		Dâu tây đông lạnh		87149
+1080		Nước ép táo, nho và Lê		87427
+1081		Tập trung nước cam		87583
+1082		Nước cam với canxi		87740
+1083		Tập trung nước cam đông lạnh		87898
+1084		Nho khô		88059
+1085		Nước táo		88300
+1086		Thổ Nhĩ Kỳ vú		88454
+1087		Nước nho ép		88632
+1088		Ý mặc quần áo		88788
+1089		Pháp mặc quần áo		88953
+1090		Thấp chất béo dầu thực vật lây lan		89117
+1091		Dầu ngô		89275
+1092		Bơ thanh		89422
+1093		Dầu thực vật lây lan		89580
+1094		Dầu dừa		89741
+1095		Muối		89888
+1096		Em bé bột yến mạch		90020
+1097		Dầu đậu phộng		90171
+1098		Gà cuộn		90313
+1099		Thổ Nhĩ Kỳ cuộn		90463
+1100		Kem của súp nấm		90608
+1101		Thịt bò chứng khoán		90762
+1102		Cổ gà		90914
+1103		Nước luộc gà		91068
+1104		Bơ mà không có muối		91217
+1105		Thay thế kem		91380
+1106		Thay thế kem bột		91547
+1107		Toàn bộ sô cô la sữa		91717
+1108		2% sữa		91878
+1109		Muối bơ		92033
+1110		Pho mát kem		92197
+1111		Ướt phô mai		92358
+1112		Pho mát Thụy sĩ		92506
+1113		Pho mát Mỹ		92653
+1114		Pho mát lây lan		92806
+1115		Một nửa và một nửa		92954
+1116		Ánh sáng kem		93098
+1117		Nước sốt pho mát		93242
+1118		Xúc xích ý		93390
+1119		Yến mạch với quế và gia vị		93555
+1120		Yến mạch với nho khô và gia vị		93702
+1121		Ớt bột		93853
+1122		Mù tạt		94010
+1123		Cánh gà		94152
+1124		Rang Thổ Nhĩ Kỳ		94286
+1125		Thịt gà nướng		94423
+1126		Gà tiềm		94549
+1127		Quả Việt quất		94675
+1128		Ánh sáng thịt gà tây cuộn		94809
+1129		Ngô đóng hộp màu vàng		94949
+1130		Sốt cà chua		95089
+1131		Thanh bột cá		95231
+1132		Cua		95416
+1133		Trà tức thì		95567
+1134		Thấp chất béo phô mai Thụy Sỹ		95731
+1135		Pho mát Mỹ chất béo thấp		95875
+1136		Bỏng ngô lò vi sóng		96018
+1137		Kẹo cứng		96150
+1138		Bơ bánh		96264
+1139		Mẩu bánh mì		96435
+1140		Bánh quy giòn với bơ đậu phộng		96576
+1141		Chiếc bánh táo		96728
+1142		Chiếc bánh bí ngô		96911
+1143		Rang đậu phộng		97097
+1144		Đậu trắng		97240
+1145		Nấu chín đậu lăng		97382
+1146		Lạc muối		97526
+1147		Đóng hộp đậu thận đỏ		97675
+1148		Cá hồi cầu vồng		97816
+1149		Ăn tối cuộn		97940
+1150		Bánh sô cô la		98061
+1151		Đường bột		98194
+1152		Phong xi-rô		98304
+1153		Gạo trắng nguyên		98433
+1154		Ngay lập tức gạo		98556
+1155		Bột mì nguyên hạt		98672
+1156		Tất cả mục đích bột		98795
+1157		Bánh mì trắng bột		98920
+1158		Bột nở		99044
+1159		Nướng bánh sô cô la		99159
+1160		Bột ca cao		99296
+1161		Loại đá vôi		99427
+1162		Thanh sô cô la điện		99519
+1163		Mật ong chùm của yến mạch với hạnh nhân		99638
+1164		Trứng cuộn với thịt lợn		99768
+1165		Thịt bò mặt đất (75/25)		99897
+1166		Hồ sơ dự thầu gà		100018
+1167		Gà nồi bánh		100148
+1168		Mì ống với thịt viên sốt cà chua		100281
+1169		Mật ong chùm của yến mạch		100406
+1170		Xi-rô sô cô la		100538
+1171		Rượu vang trắng		100669
+1172		80 bằng chứng rượu		100769
+1173		Thịt lưng của bò hàng đầu		100860
+1174		86 bằng chứng rượu		100981
+1175		Căn hộ cá		101074
+1176		Đậu nướng với Frank		101196
+1177		Nướng đậu với thịt lợn và bobopark nước sốt		101323
+1178		Hạt giống hướng dương		101446
+1179		Rau đắng		101576
+1180		Hỗn hợp hạt		101714
+1181		Dầu rang hỗn hợp hạt		101838
+1182		Thịt bò gan		101968
+1183		Thịt bò thịt		102091
+1184		Dầu rang hạt hướng dương		102208
+1185		Thịt bò lưỡi rang		102342
+1186		Thịt bò vòng		102460
+1187		Đầu vòng thịt bò		102577
+1188		Mùi tây		102700
+1189		Đồ nhắm đóng hộp màu xanh lá cây		102831
+1190		Màu xanh lá cây đậu Hà Lan đông lạnh		102946
+1191		Mù tạt xanh		103061
+1192		Củ cải xanh		103173
+1193		Rau bina đóng hộp		103288
+1194		Nướng mỡ trên thịt lợn thăn		103401
+1195		Măng tây		103509
+1196		Gà vú với da		103615
+1197		Tẩm bột gà vú		103730
+1198		Nướng gà vú		103851
+1199		Đất Thổ Nhĩ Kỳ		103965
+1200		Cánh gà nướng		104074
+1201		Em bé gạo ngũ cốc		104191
+1202		Bột yến mạch hình vuông		104320
+1203		Yến mạch cám ngũ cốc		104451
+1204		Sợi một		104583
+1205		Bánh mì nướng quế khủng hoảng		104700
+1206		Ngũ cốc bắt đầu thông minh		104836
+1207		Yến mạch nướng mật ong		104951
+1208		Vani hạnh nhân		105072
+1209		Tất cả-Cám lúa mì mảnh		105192
+1210		Trái cây sỏi		105307
+1211		KIX		105421
+1212		Sự quyến rũ may mắn		105552
+1213		Mật ong hạt chex		105686
+1214		Gạo chex		105820
+1215		Phủ sương mảnh		105941
+1216		Toàn bộ hạt tất cả		106069
+1217		Lúa mì chex		106192
+1218		Xúc xích heo nấu chín trước		106316
+1219		Ca cao sỏi		106444
+1220		Ngô chex		106563
+1221		Gà con chó nóng		106681
+1222		Tiệc trưa thịt		106818
+1223		Xúc xích thịt lợn và thịt bò		106952
+1224		Trứng khô		107091
+1225		Sữa chua nhẹ trái cây thấp chất béo		107227
+1226		Tăng cường chất trái cây thấp chất béo sữa chua		107339
+1227		Kem chua		107457

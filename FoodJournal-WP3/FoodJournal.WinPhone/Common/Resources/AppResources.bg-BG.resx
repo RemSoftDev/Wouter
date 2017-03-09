@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>bg-BG</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>ХРАНИТЕЛЕН ДНЕВНИК</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Общи елементи</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Изтрий</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Нищо избрани</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Последните закуска елементи</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Последните вечеря елементи</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Моят последните excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Последните обяд елементи</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Скорошни snack елементи</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>ХРАНИТЕЛЕН ДНЕВНИК</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>ХРАНИТЕЛЕН ДНЕВНИК- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Закуска</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Вечеря</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Упражнение</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Обяд</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Snack</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Търсене</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Днес</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Количество</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Калций</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Калории</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Въглехидрати</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Холестерол</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Влакно</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Желязо</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Мазнини мононенаситени</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Полиненаситени мазнини</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Калиев</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Протеини</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Наситени мазнини</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Натрий</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Захар</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Общо мазнини</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Витамин C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Витамин D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Тегло</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Предпочитания</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Въведете дума за търсене</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (нов елемент)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (нова рецепта)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Резултати от търсенето</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} не е намерен, опитайте да промените вашата ключова дума за търсене</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Добави</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Име</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Хранене</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>ХРАНИТЕЛНА ИНФОРМАЦИЯ</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Моля въведете тегло първо</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Количество на порцията</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Колко?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>още опции</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Няма информация за хранителната стойност</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Добавяне на обслужващи размер</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Добави</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Календар</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Реклама</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Чаша</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Децилитър</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Течна унция</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Галон</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Грам</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Килограм</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Литър</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Милилитър</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Унция</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Пинта</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Паунд</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Кварта</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Супена лъжица</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Чаена лъжичка</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Чаши</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Течни унции</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Галона</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Грамове</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Килограма</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Литра</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Милилитра</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Унции</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Пинта</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Фунтове</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Литра</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>С.л.</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Лъжички</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>BG</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Електронна поща от хранителен дневник</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Количество</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>зареждане... </value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Актуализирай сега</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Благодарим ви за използването на този апартамент! Това копие е вече изтекъл. Но не се притеснявайте, ние ще ви отведе до страницата за изтегляне за актуализиране, ако натиснете Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Тази задача актуализации на живо плочки за дневник на храните.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Вие сте забранили Live плочки прилагане в настройките на телефона.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Моите предпочитания</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Брой липсващите менюта на ап плочки</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Напомняния</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Настроите плочки</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Отчет</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Отчет</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 унция = 28 g|Чаена лъжичка = 4.5 g|Супена лъжица = 12 g|1 сервиране = 28 g|Парче = 14 g|Парче = 12 g|1 купа = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Снимай с камерата</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Благодарим ви за използването на този апартамент! Ако го намерите полезни, моля помогнете тя стане успешен като оставя преглед.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Оставете Преглед?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Цели</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Комплект няма цел</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>В края на деня</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Какво се яде?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Напомняне: актуализирате вашия дневник</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>избрани напомнящи писма се появи, ако не сте актуализирали своя дневник от избрания път</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Портокалов сок, 1 чаша, тост, 1 филийка, яйца, 1 среден, ябълка, кафе, банан</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} през цел</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} остават</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Дневник</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Изберете OK, за да премахнете реклами от ап.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Премахване на реклами?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Проблем със свързването към хранилището на Windows Phone. Моля, опитайте отново по-късно.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Съобщаване за проблем</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Или предлагане на функция или да зададете въпрос</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Оцени тази ап</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Специфични обратна връзка помага за подобряване на ап</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Помогне за подобряване на превода</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Заснемане на екрана е включен</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Споделяне на връзка</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>За да изтеглите това приложение</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Храна дневник текст</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Вижте храна дневник за Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Хранителен дневник</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Общи закуска елементи</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Общи вечеря елементи</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Общ обяд елементи</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Общи snack елементи</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Храна</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Сутрин</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Ранния следобед</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Следобед</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Отделни сутринта закуска</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Отделни началото следобедна закуска</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Отделни следобедна закуска</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Вечерта</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Отделни среднощна закуска</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>В полунощ</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Комбиниране на закуски</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Отделни вечерта закуска</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Вчера следобед елементи</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Днес рано следобед елементи</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Вчера вечерта елементи</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Последните полунощ елементи</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Днес сутринта елементи</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Общи следобедно елементи</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Общи ранно следобедно елементи</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Общи вечер елементи</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Общи полунощ елементи</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Общи сутрин елементи</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Благодарим ви за нововъведения дневник на храните. Имате оставащи пробен {0} дни. Натиснете OK, за да отключите ап.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Отключи сега?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Вашата пробна версия вече е изтекъл. Можете да видите вашия дневник, но не можете да добавяте нови записи. Изберете OK, за да отключите пълната версия.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Премахване на реклами</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Премахнете завинаги всички обяви</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Забележка: Това е ранна версия (бета), на храната база данни непрекъснато се разраства. Ако имате някакви предложения, моля пишете daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Хранителен дневник</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Обратна връзка от съществуващи потребители:
+-Този апартамент е благословия от гледна точка на лесно боравене. 
+-Този апартамент има всички характеристики, необходими в опростен дизайн. Това наистина прави запис дневни хранителни навици, които много по-лесно от други приложения. Аз знам, аз го обичам!
+-Най-добрите по рода си
+-Това е цялостна, добре организирани, лесен за използване
+-Обичам този апартамент! Тя е проста, но ме държи по пистата ❤ и дори ми напомня ако не съм ял храна. Определено голяма помощ в опитите да бъдат здрави с ми</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Основни характеристики:
+1. проектиран да бъде най-лесният и -бързият храна дневник ап
+2. общи и наскоро консумират храни са предложения за да много бързо
+3. не е нужно да влезете или да въведете лична информация, като Вашият e-mail адрес или тегло
+4. съществуваща храна база данни с информация за хранителната стойност
+5. удобен сервиране размер селектор ви позволяват да въвеждате точно това, което сте яли
+6. лесно добавяне на нови храни, които ап не знае за още
+7 дневен отчет показва всички храненето детайли
+8. седмичен доклад показва как можете да следите спрямо целите си хранене
+9. конфигурируеми напомняния помогне се уверете, че не забравяйте да попълните вашия дневник
+10 живи плочки показва колко ястия трябва да бъдат запълнени ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Ако сте на диета, или искате да знаете колко калории, мазнини, белтъчини и въглехидрати ядете всеки ден, това е приложението за вас.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Хранителен дневник е най-лесният начин да следите какво ядете всеки ден.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Хранене</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Калории</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Диета</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Хранителен дневник</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Калория тезгях</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Банан</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Кафе</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Ябълка</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Яйце</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 резен</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Тост</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 чаша</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Портокалов сок</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Благодарим ви за вашата подкрепа! Използвайте тази опция, за да премахнете за постоянно реклами от приложението си хранителен дневник.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Премахване на реклами</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Въведете теглото</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Пробен период е изтекъл, отключване?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 средно</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>За</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Най-бързият и лесен начин да следите какво ядете.
+
+Превъртете надолу за информация за точността на данните.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Ъпгрейд сега</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Купи премия версия</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Хранителен дневник за {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Нещо неочаквано се обърка. Дневникът не е изпратен.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Моля, въведете валиден e-mail адрес.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Общо</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>само {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Подпомагане на развитието</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>ОТГОВОРНОСТИ:
+Повечето, но не всички точки от данни в базата данни са от надеждни източници. Ние правим всичко възможно да се уверете, че всички стойности са точни, но не носи отговорност за неверни или липсващи данни. Хранителни стойности се различават по марка и с течение на времето. Използвайки този ап, вие се съгласявате да провери и коригира всички данни в приложението и да бъде изцяло отговорност за вреди или щети, причинени от използването му.
+
+Харесвам позволявам me зная ако там е нещо аз мога да ви помогнем.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Помогне да поддържат актуализации на този ап Очаквайте</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>ВСИЧКИ функции</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Включва:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Забележка: Повечето, но не всички данни идва от надеждни източници. Чрез закупуване на премия версия, вие приемате пълната отговорност за точността и пълнотата на данните. Имейл daily.journal@outlook.com за повече подробности.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Нови функции</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Всички премия функции в бъдещи актуализации</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Още ястия</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>За проследяване на 5, 6 или повече хранения на ден</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Повече храни *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Стотици хиляди повече хранителни елементи (в зависимост от местоположението)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Имейл доклади</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Електронна поща на вашия дневник, за да запишете, отпечатате или го анализираме</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Няма реклами</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Всички реклами се премахват за постоянно</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Купи сега</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Изпращане по електронна поща</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Изпрати сега</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Имейл адрес</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Получите достъп до всички функции</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Upgrade към премия</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Забележка: Повечето, но не всички точки от данни в базата данни идват от реномирани източници. Ние правим всичко възможно да се гарантира стойности са точни, но не носи отговорност за неверни или липсващи данни. С помощта на ап, вие приемате и носи пълна отговорност за проверка на точността на данните. Ап ви позволява да актуализирате всички несъответствия, може да ви.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Вестник от AAA
+Въпроси или коментари? Отговори на БББ</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Подаване</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Актуализирайте текста в този списък с по-добри преводи. Премахване на целия текст на елементи, които не са подходящи за вашия регион.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Благодаря за вашата помощ!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Преводи</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Тук можете да помогнете да подобрим този ап.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Оригинален:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Добре</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Описание:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Помогне за подобряване на ап</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Въведете вашия имейл адрес, ако искате да се свържете.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Коментар</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Подобряване на преводи</value>
+  </data>
+</root>

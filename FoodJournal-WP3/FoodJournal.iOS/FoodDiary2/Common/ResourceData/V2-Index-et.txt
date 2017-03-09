@@ -1,0 +1,436 @@
+﻿Row	Meal	Name	Pos
+0	B	Muna	33
+1	B	Kohv	183
+2	B	Röstsai	306
+3	B	Leib	544
+4	B	Banaan	837
+5	B	Kohv	1129
+6	L	Leib	1261
+7	S	Tee	1554
+8	B	Tee	1665
+9	B	Röstsai	1776
+10	B	Banaan	2068
+11	D	Leib	2305
+12	B	Kaerajahu	2599
+13	B	Madala rasvasisaldusega puuvilja jogurt	2711
+14	L	Tomat	2825
+15	L	Muna	3018
+16	D	Valge riis	3169
+17	B	Kogu leiba	3278
+18	D	Porgand	3513
+19	S	Biskviit	3755
+20	B	Kohv	3901
+21	D	Tomat	4034
+22	B	Peekon	4271
+23	L	Valge riis	4430
+24	S	Kohv	4539
+25	S	Madala rasvasisaldusega puuvilja jogurt	4663
+26	L	Tomat	4777
+27	S	Leib	5014
+28	B	Banaan	5308
+29	D	Muna	5552
+30	D	Sibul	5703
+31	D	Kana	5922
+32	B	Madala rasvasisaldusega puuvilja jogurt	6114
+33	D	Cheddari juust	6294
+34	S	Banaan	6460
+35	B	1% piima	6753
+36	B	Cheddari juust	6905
+37	S	Banaan	7071
+38	L	Valge riis	7308
+39	D	Punane vein	7418
+40	B	Kohv	7490
+41	L	Porgand	7588
+42	B	Leib	7830
+43	L	Kana	8101
+44	L	Madala rasvasisaldusega puuvilja jogurt	8256
+45	B	Kaer	8434
+46	B	Prantsuse leiba	8541
+47	B	Banaan	8709
+48	B	Leib	8988
+49	L	Küpsetatud oad	9216
+50	D	Tomat	9275
+51	B	Cheddari juust	9468
+52	L	Banaan	9562
+53	D	Röstsai	9855
+54	L	Cheddari juust	10094
+55	B	Lahustuv kohv	10260
+56	L	Aurutatud riis	10334
+57	D	Punane vein	10395
+58	D	Tomat	10469
+59	D	Peekon	10707
+60	L	Oliiviõli	10866
+61	L	Tomat	10960
+62	S	Muna	11140
+63	D	Kanafilee	11291
+64	L	Tee	11431
+65	L	Tomat	11543
+66	B	Maisihelbed	11781
+67	L	Leib	11899
+68	S	Röstsai	12170
+69	B	Banaan	12409
+70		Toorjuustu	12688
+71		Parmesani juustu	12888
+72		Šveitsi juust	13025
+73		Ameerika juust	13196
+74		Ameerika juust	13373
+75		Levinud juust	13548
+76		Pool ja pool	13687
+77		Kerge kreem	13840
+78		Raske vahukoort	13999
+79		Soolatud või	14163
+80		Vahustatud	14308
+81		Võiõli	14453
+82		Cheddari juust	14585
+83		Hapukoort	14758
+84		Koore asendaja pulber	14883
+85		Täispiim	15042
+86		2% piima	15202
+87		1% piima	15361
+88		Rasvata piima	15520
+89		Kogu šokolaadipiima	15649
+90		Madala rasvasisaldusega vanilli jogurt	15814
+91		Madala rasvasisaldusega puuvilja jogurt	15998
+92		Muna	16185
+93		Munakollane	16343
+94		Praetud muna	16490
+95		Kõvaks keedetud muna	16650
+96		Kodeeritud muna	16810
+97		Kuivatatud muna	16969
+98		Võid ilma soola	17118
+99		Juustukastmega	17262
+100		Madala rasvasisaldusega juustu	17401
+101		Kerge madala rasvasisaldusega puu jogurt	17567
+102		Koore asendaja	17751
+103		Rikastatud madala rasvasisaldusega puuvilja jogurt	17908
+104		Valguse kangendatud madala rasvasisaldusega puuvilja jogurt	18098
+105		Sinep	18284
+106		Soola	18423
+107		Pekk	18551
+108		Majoneesi kaste	18655
+109		Salatikaste majoneesi	18786
+110		Maapähkliõli	18932
+111		Sojaõli	19056
+112		Oliiviõli	19186
+113		Itaalia kaste	19318
+114		Prantsuse kaste	19465
+115		Levinud madala rasva taimeõli	19611
+116		Maisiõli	19751
+117		Võid jääda	19880
+118		Margariin	20020
+119		Levinud taimeõli	20158
+120		Taimeõli	20301
+121		Tööstuslik sojaõli	20434
+122		Tööstuslik soja ja seemnejahu	20563
+123		Kookosõli	20692
+124		Kana	20821
+125		Paneeritud kana	21037
+126		Kana	21258
+127		Praetud kana	21470
+128		Röstitud kanaliha	21689
+129		Hautatud kana	21903
+130		Kanamaksa	22117
+131		Kana rinnatükk koos nahaga	22239
+132		Paneeritud kanafilee	22395
+133		Röstitud kanafilee	22557
+134		Kanafilee liha	22712
+135		Kanafilee	22873
+136		Sääretükk	23029
+137		Koib	23191
+138		Kana reie	23360
+139		Kana tiib	23511
+140		Röstitud kana tiib	23646
+141		Röstitud Türgi	23762
+142		Röstitud kalkuniliha	23899
+143		Kana kullatükk	24032
+144		Veiseliha puljong	24163
+145		Kana-nuudlisupp	24313
+146		Koor seene suppi	24472
+147		Kaste	24631
+148		Veiseliha varud	24770
+149		Merikarbihautis	24927
+150		Kanapuljong	25092
+151		Maksa vorst	25246
+152		Kana rulli	25381
+153		Veiseliha viiner	25533
+154		Lõunamenüü liha	25650
+155		Vorst	25803
+156		Sea- ja loomaliha vorst	25930
+157		Salaami	26065
+158		Kalkuni rinnatükk	26201
+159		Hele liha Türgi rulli	26383
+160		Türgi rulli	26526
+161		Itaalia vorst	26673
+162		Eelnevalt keedetud sealiha vorst	26830
+163		Kakao veeris	26958
+164		Küpsise krõpsud	27077
+165		Mais chex	27202
+166		Maisihelbed	27319
+167		All-kliid nisu helveste	27441
+168		Kliid helbed	27556
+169		Mahlakas veeris	27680
+170		Viinamarja-pähklid teravilja	27794
+171		KIX	27926
+172		Mesi pähkel chex	28057
+173		Rosina kliid	28191
+174		Rosina kliid teraviljapõhiste	28318
+175		Riisi chex	28441
+176		Kirka helbed	28561
+177		Täistera kokku	28688
+178		Nisu chex	28811
+179		Mais maisitangud	28935
+180		Kaer	29062
+181		Kaerajahu	29181
+182		Kaera kaneeli ja vürtsi	29305
+183		Kaera rosinad ja vürtsi	29429
+184		Kaerajahu väljakud	29557
+185		Kaera kliid teraviljapõhiste	29687
+186		Ühe kiud	29819
+187		Kokku Rosinatest kliid	29936
+188		Kakao puudritupsud	30053
+189		Kaneeli röstsai prõks	30176
+190		Meega röstitud kaerahelbed	30312
+191		Õunamahla	30433
+192		Omenasose	30592
+193		Avokaado	30730
+194		Banaan	30881
+195		Mustikad	31182
+196		Viinamarja mahla	31317
+197		Viinamarjad	31478
+198		Muskusmeloniga	31637
+199		Värskelt pressitud apelsinimahla	31877
+200		Apelsinimahla kontsentraadi	32032
+201		Apelsinimahl kaltsiumiga	32194
+202		Külmutatud apelsinimahla kontsentraadi	32357
+203		Virsik	32523
+204		Pirni	32714
+205		Ananass	32892
+206		Rosinad	33121
+207		Maasikas	33346
+208		Külmutatud maasikate	33559
+209		Arbuus	33776
+210		Õuna mahl c-vitamiiniga	34012
+211		Õuna-, viinamarjavirde ja -mahla	34172
+212		Grillitud sealiha nimmepiirkonnas rasva	34333
+213		Grillitud sealiha nimmepiirkonnas	34483
+214		Röstitud sealiha nimmepiirkonnas	34632
+215		Peekon	34782
+216		Sink	34953
+217		Eriti lahja singiga	35098
+218		Sealiha jaotustükid	35244
+219		Jahvatatud sealiha	35398
+220		Sink ja naturaalsed mahlad	35521
+221		Singi-vee	35675
+222		Spargel	35825
+223		Konserveeritud rohelisi ube	35943
+224		Toores spargelkapsas	36090
+225		Spargelkapsas	36335
+226		Tükeldatud brokkoli	36579
+227		Külmutatud brokoli	36822
+228		Toores kapsas	37065
+229		Kapsas	37403
+230		Porgand	37739
+231		Keedetud porgand	37989
+232		Külmutatud porgand	38237
+233		Seller	38487
+234		Sigur rohelised	38750
+235		Konserveeritud kollane mais	38856
+236		Külmutatud mais	39008
+237		Kurk	39187
+238		Kähar endiiviasigur	39367
+239		Jääsalat	39515
+240		Roheline salat	39849
+241		Valged seened	40183
+242		Sinep rohelised	40334
+243		Sibul	40445
+244		Keedetud sibul	40672
+245		Sibulaga	40902
+246		Petersell	41086
+247		Roheline hernes	41209
+248		Konserveeritud rohelised herned	41336
+249		Külmutatud rohelisi herneid	41463
+250		Kartul	41590
+251		Ahjukartulid	41763
+252		Kartuli nahka	41933
+253		Keedetud kartul	42102
+254		Räsitud pruunid	42272
+255		Kartulipuder	42410
+256		Kartuli puudritupsud	42537
+257		Ahjus friikartulid	42713
+258		Toores spinat	42914
+259		Keedetud spinat	43095
+260		Konserveeritud spinat	43222
+261		Magus kartul	43347
+262		Tomat	43520
+263		Sooja tomati	43844
+264		Konserveeritud tomat	44091
+265		Konserveeritud hautatud tomateid	44257
+266		Tomatimahl	44502
+267		Tomatipasta	44666
+268		Konserveeritud tomatikaste	44819
+269		Naeris rohelised	44970
+270		Konserveeritud köögiviljamahla	45084
+271		Sega köögiviljad	45247
+272		Konserveeritud magus kartul	45373
+273		Konserveeritud porgandimahl	45548
+274		Naha ahjukartul	45710
+275		Tomatipasta	45882
+276		Ketšup	46037
+277		Hapukurk	46179
+278		Maik	46387
+279		Päevalilleseemned	46544
+280		Röstitud päevalilleseemned	46674
+281		Mandlid	46805
+282		Leherootsu mandleid	46966
+283		Röstitud mandlid	47116
+284		Pähkel	47265
+285		Õli röstitud päevalilleseemned	47397
+286		Soolatud röstitud mandlid	47531
+287		India pähklid	47682
+288		Sega pähklid	47829
+289		Õli röstitud pähklid segatud	47955
+290		Veise maksa	48087
+291		Veise maksa	48210
+292		Võileib praad	48333
+293		Veiseliha rinnatükk	48490
+294		Veise ribi	48603
+295		Veiseliha	48715
+296		Veiseliha saeketta praad	48910
+297		Veise ribi	49024
+298		Veise ribi	49141
+299		Ümmargune veiseliha	49261
+300		Üles ümmargused veiseliha	49374
+301		Üles ümmargused veise praad	49493
+302		Õlu	49606
+303		Hele õlu	49743
+304		80 tõend likööri	49878
+305		Punane vein	49960
+306		Valge vein	50064
+307		Köögi- ja puuviljade mahla	50166
+308		Sidruni sooda	50312
+309		Kali	50449
+310		Kofeiinivaba kohv	50581
+311		Kohv	50721
+312		Lahustuv kohv	50869
+313		Konserveeritud morss	51001
+314		Rikastatud morss	51138
+315		Limonaad	51286
+316		Kofeiinivaba tee	51443
+317		Tee	51587
+318		Lahustuv	51731
+319		Kraanivett	51878
+320		Puu maitsestatud vees	52004
+321		86 tõend likööri	52138
+322		Pudelivee	52222
+323		Rikastatud puu maitsestatud vees	52349
+324		Kalapulgad	52481
+325		Lestalised	52661
+326		Heeringa	52781
+327		Lõhe	53038
+328		Hele tuunikala konserv	53157
+329		Krabi	53339
+330		Krevetid	53461
+331		Konserveeritud krevette	53592
+332		Karbid	53723
+333		Konserveeritud karbid	53851
+334		Säga	53983
+335		Vikerforell	54101
+336		Küpsetatud oad	54223
+337		Küpsetatud oad sealiha ja tomatikastmega kastmes	54347
+338		Mustad oad	54469
+339		Valged oad	54606
+340		Läätsed	54740
+341		Keedetud läätsed	54876
+342		Soolatud maapähklid	55012
+343		Soolatud röstitud maapähkleid	55161
+344		Maapähklivõi	55306
+345		Sojakaste	55431
+346		Vähendatud rasvasisaldusega maapähklivõi	55602
+347		Maapähklid ilma soola	55722
+348		Röstitud maapähkleid	55869
+349		Biskviit	56012
+350		Biskviit	56166
+351		Prantsuse leiba	56326
+352		Itaalia leib	56560
+353		Mitme vilja leiva	56763
+354		Rukkileib	57063
+355		Leib	57360
+356		Röstsai	57662
+357		Valge leib	57963
+358		Valge terviseks	58262
+359		Kogu leiba	58553
+360		Leivapuru	58851
+361		Šokolaadikook	58984
+362		Biskviitkook	59120
+363		Juustukook	59254
+364		Maapähklivõi küpsiseid	59396
+365		Juustu krakkimise	59590
+366		Krakkimise	59799
+367		Koos maapähklivõi küpsised	60004
+368		Nisu kreekerid	60213
+369		Sarvesai	60419
+370		Sõõrik	60608
+371		Pannkook	60837
+372		Õunakook	61003
+373		Kõrvitsa pirukas	61181
+374		Õhtusöök rulli	61362
+375		Raske leib rulli	61483
+376		Kaneeli rullmaterjalist	61612
+377		Marja röster küpsetisi	61743
+378		Küpsetuspulbrit	61868
+379		Pärm	61984
+380		Vahvel	62134
+381		Petipiim vahvel	62273
+382		Kirka röster saia	62412
+383		Juustu puudritupsud	62537
+384		Karamellid	62710
+385		Küpsetamine šokolaadi	62853
+386		Kerge vanilje jäätis	63001
+387		Vaniljejäätis	63135
+388		Oranž šerbett	63264
+389		Nätsukommid	63396
+390		Piimašokolaadi	63679
+391		Maapähkel M & Ms	63825
+392		M & Ms	64008
+393		Twix baari	64193
+394		Kakaopulber	64323
+395		Šokolaadi jäätis	64446
+396		Lubja jää tüüp	64572
+397		Mesi	64677
+398		Tarretised	64782
+399		Pruuni suhkrut	64929
+400		Suhkrut	65114
+401		Tuhksuhkrut	65291
+402		Vahtrasiirup	65413
+403		Vahtrasiirup	65534
+404		Laastud	65643
+405		Vähendatud rasvasisaldusega kiibid	65799
+406		Pruuni riisi	65948
+407		Toores valge riis	66068
+408		Valge riis	66190
+409		Aurutatud riis	66311
+410		Täisterajahu	66433
+411		Üldpuhastusained jahu	66555
+412		Kringlite jahu	66679
+413		Kook jahu	66802
+414		Makaronid	66924
+415		Nuudlid	67044
+416		Spagetid	67168
+417		Juustuburger	67288
+418		Friikartulid	67428
+419		Külmutatud pitsa	67628
+420		Külmutatud liha ja taimne pitsa	67772
+421		Liha ja taimne pitsa	67915
+422		Kahekordne juustuburger	68057
+423		Kana pakkumised	68196
+424		Sealiha muna rulli	68325
+425		Hakkliha (75/25)	68454
+426		Šokolaadi võimu Baar	68573
+427		Mesi kimpu kaera mandleid	68701
+428		Vähendatud rasvasisaldusega juustu	68831
+429		Valge kiibid	69000
+430		Kringel	69145
+431		Madala rasvasisaldusega Ameerika juust	69279
+432		Jõhvikamahl	69447
+433		Mesi kobarad kaer	69604
+434		Madala rasvasisaldusega Šveitsi juustu	69736

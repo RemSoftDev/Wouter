@@ -1,0 +1,3333 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Kahvin		33
+1	B	Kaurapuuro		125
+2	B	Leipä		274
+3	B	Maitokahvi		422
+4	B	Ruisleipää		620
+5	L	Leipä		823
+6	S	Kahvin		971
+7	L	Tomaatti		1063
+8	B	Margariinia		1304
+9	D	Leipä		1433
+10	B	Kahvi		1581
+11	L	Kurkku		1893
+12	L	Peruna		2128
+13	D	Tomaatti		2318
+14	S	Banaani		2560
+15	B	Banaani		3039
+16	S	Leipä		3518
+17	S	Ruisleipää		3667
+18	D	Peruna		3871
+19	B	Muna		4061
+20	L	Ruisleipää		4232
+21	D	Ruisleipää		4436
+22	L	Rasvaton maito		4640
+23	L	Jäävuorisalaatti		4819
+24	D	Rasvaton maito		5299
+25	S	Maitokahvi		5478
+26	B	Mehukeitto		5677
+27	B	Rasvaton maito		5732
+28	D	Kurkku		5911
+29	B	Keittokinkku		6146
+30	L	Vihreää salaattia		6273
+31	B	Rahka		6569
+32	L	Margariinia		6691
+33	L	Kana		6821
+34	L	Porkkana		6943
+35	B	Raejuusto		7215
+36	L	Kahvin		7475
+37	S	Omena		7568
+38	B	Mustikoita		8171
+39	L	Salaatti		8325
+40	L	Maitokahvi		8463
+41	D	Raejuusto		8662
+42	B	Teen		8922
+43	D	Margariinia		9031
+44	L	Jauheliha (75/25)		9161
+45	S	Teen		9255
+46	B	Paahtoleipää		9364
+47	D	Vihreää salaattia		9506
+48	D	Kana		9802
+49	S	Rahka		9924
+50	D	Porkkana		10046
+51	B	1 % maito		10318
+52	B	Kurkku		10476
+53	L	Makaroni		10711
+54	B	Ingmariini		11254
+55	D	Salaatti		11320
+56	S	Keksi		11458
+57	L	Raejuusto		11630
+58	B	Ruisleipä		11890
+59	L	Broilerin rintafileetä		12244
+60	D	Makaroni		12357
+61	L	Banaani		12900
+62	B	Vähän rasvaa hedelmät jogurtti		13379
+63	D	Broilerin rintafileetä		13550
+64	D	Valkoinen riisi		13663
+65	B	Cheddar-juusto		13964
+66	D	Kahvi		14094
+67	D	Jauheliha (75/25)		14406
+68	L	Muna		14500
+69	D	Makaronilaatikko		14671
+70	D	Jäävuorisalaatti		14803
+71	D	Muna		15283
+72	L	Kahvi		15454
+73	L	Valkoinen riisi		15766
+74	S	Margariinia		16067
+75	S	Rasvaton maito		16197
+76	S	Pulla		16376
+77	L	Perunasose		16507
+78	D	Banaani		16642
+79	L	Näkkileipä		17121
+80	B	Kauraleipä		17209
+81	S	Porkkana		17330
+82	B	Omena		17602
+83	S	Maitosuklaa		18205
+84	D	Maitokahvi		18384
+85	L	Ruisleipä		18583
+86	B	Tomaatti		18937
+87	S	Mandariini		19179
+88	B	Sämpylä		19366
+89	S	Muna		19725
+90	S	Vähän rasvaa hedelmät jogurtti		19896
+91	S	Kurkku		20067
+92	B	Kalkkunaleike		20302
+93	S	Kahvi		20361
+94	S	Suklaa		20673
+95	L	Omena		20741
+96	L	Oliiviöljyä		21344
+97	L	Lohi		21422
+98	D	Näkkileipä		21617
+99	S	Paahtoleipää		21705
+100	B	Palvikinkku		21847
+101	S	Tomaatti		21925
+102	S	Kinkkua ja vesi		22168
+103	D	Rahka		22300
+104	D	Ruisleipä		22423
+105	B	Kaakaota		22778
+106	B	Mandariini		22979
+107	S	Appelsiini		23167
+108	S	Olut		23206
+109	D	Sipuli		23400
+110	D	Kevytmaito		23685
+111	D	Punaviini		23860
+112	L	Kauraleipä		24020
+113	L	Kaurapuuro		24142
+114	L	Kevytmaito		24293
+115	D	Oliiviöljyä		24468
+116	D	Jauhelihakastike		24547
+117	B	Rasvaton jogurtti		24714
+118	D	Spagetti		24789
+119	B	Kananmuna		25021
+120	L	Paprika		25272
+121	B	Oltermanni		25819
+122	B	Mysli		25918
+123	S	Ruisleipä		25986
+124	D	Lihapullat		26341
+125	B	Mustikka		26442
+126	B	Oltermanni (Valio)		26624
+127	L	Parsakaali		26675
+128	B	Kaura		26972
+129	B	Pekonia		27108
+130	B	Emmental Juustoviipaleet (Pirkka)		27248
+131	B	Maitorahka		27305
+132	B	Maustamaton jugurtti		27353
+133	L	Makaronilaatikko		27424
+134	L	Perunamuusi		27557
+135	B	Koko-vehnä leipä		28074
+136	L	Sämpylä		28218
+137	L	Jääsalaatti		28578
+138	B	Kinkkumakkara		28649
+139	S	Hapankorppu		28680
+140	L	Auringonkukansiemeniä		28745
+141	D	Parsakaali		28860
+142	D	Paprika		29157
+143	D	Omena		29704
+144	L	Jauhelihakastike		30308
+145	B	Tuore Appelsiinimehu		30475
+146	S	Palvikinkku		30724
+147	D	Paahtoleipää		30802
+148	L	Lihapullat		30945
+149	B	Maissihiutaleet		31046
+150	S	Sämpylä		31235
+151	D	Lohi		31595
+152	S	Oranssi		31791
+153	D	Broilerin lihaa		31927
+154	D	Kanafilee		32067
+155	B	Rypsiöljy		32285
+156	S	Juusto		32399
+157	S	Sokeria		32419
+158	B	Rasvaton maitorahka		32541
+159	S	Riisipiirakka		32594
+160	S	Suklaa jäätelöä		32671
+161	L	Mandariini		32789
+162	B	Näkkileipä		32977
+163	B	Karjalanpiirakka		33066
+164	S	Mehukeitto		33209
+165	L	Kanafilee		33265
+166	B	Emmentaljuusto		33483
+167	D	Perunamuusi		33707
+168	B	Mansikka		34224
+169	D	Suklaa		34474
+170	D	Ranskalaiset Perunat		34543
+171	B	Kevytmaito		34859
+172	D	Avokado		35034
+173	B	Oivariini (Oivariini)		35362
+174	B	Goudajuusto		35424
+175	S	Proteiinipatukka		35566
+176	D	Makkara		35733
+177	L	Kananmuna		35861
+178	L	Broilerin lihaa		36112
+179	D	Sämpylä		36252
+180	B	Täysjyvämuro		36612
+181	S	Kananmuna		36682
+182	S	Rasvaton maitorahka		36933
+183	S	Ingmariini		36986
+184	L	Hernekeitto		37053
+185	B	Appelsiini		37138
+186	B	Oltermanni 17%		37177
+187	B	Juusto		37228
+188	D	Pulla		37248
+189	B	Sokeria		37380
+190	B	Voi		37502
+191	L	Avokado		37716
+192	D	Kauraleipä		38044
+193	L	Spagetti		38166
+194	D	Goudajuusto		38398
+195	L	Kastike		38540
+196	L	Cheddar-juusto		38684
+197	L	Palvikinkku		38815
+198	D	Teen		38893
+199	L	Kalakeitto		39003
+200	B	Tavallinen Jogurtti		39091
+201	S	Päärynä		39226
+202	D	Palvikinkku		39410
+203	S	Jäätelö		39488
+204	S	Viinirypäleet		39757
+205	D	Mandariini		40189
+206	D	Nuudelit		40377
+207	L	Nuudelit		40681
+208	L	Fetajuusto		40985
+209	B	Paprika		41204
+210	S	Kalkkunaleike		41751
+211	L	Kirjolohi		41811
+212	S	Keittokinkku		41921
+213	L	Ranskalaiset Perunat		42049
+214	L	Lasagne		42365
+215	S	Karjalanpiirakka		42453
+216	D	Kirjolohi		42596
+217	D	Kaurapuuro		42706
+218	S	Kaurapuuro		42857
+219	B	Neljän viljan puuro		43008
+220	L	Rasvaton piimä		43063
+221	S	Vaahtokarkkeja		43111
+222	B	Mansikat		43239
+223	D	Keittokinkku		43707
+224	B	Kaurahiutale		43835
+225	S	Raejuusto		44110
+226	S	Kauraleipä		44371
+227	D	Kananmuna		44493
+228	S	Suklaakakku		44744
+229	B	Kananmunan valkuainen		44868
+230	B	Viili		44960
+231	S	Goudajuusto		45010
+232	S	Näkkileipä		45152
+233	B	Suklaa		45241
+234	L	Jauhelihapihvi		45310
+235	D	Juustoleipä		45372
+236	L	Ananas		45543
+237	D	Karjalanpiirakka		46004
+238	D	Cheddar-juusto		46147
+239	S	Mysli		46278
+240	D	Naudanjauheliha		46346
+241	L	Pulla		46748
+242	L	Kasvissosekeitto		46880
+243	B	Mustikkakeitto Sokeroimaton (Valio)		46993
+244	D	Naudanliha		47077
+245	L	Rahka		47500
+246	S	Maitorahka		47623
+247	D	Kukkakaali		47671
+248	L	Suklaa		48087
+249	D	Kalkkunaleike		48156
+250	L	Karjalanpiirakka		48216
+251	B	Vihreä tee		48359
+252	S	Kevytmaito		48487
+253	L	Makkara		48662
+254	S	Karamellit		48790
+255	D	Ketsuppi		48937
+256	B	Puuro		49061
+257	D	Fetajuusto		49183
+258	B	Keksi		49402
+259	L	Kukkakaali		49575
+260	S	Salaatti		49991
+261	D	Hernekeitto		50130
+262	B	Tuoretta appelsiinimehua		50215
+263	S	Emmental Juustoviipaleet (Pirkka)		50361
+264	S	Tonnikala öljyssä		50418
+265	B	Pulla		50461
+266	B	Metsämansikka Jugurtti (Valio)		50593
+267	L	Oivariini (Oivariini)		50655
+268	D	Kastike		50717
+269	L	Mehukeitto		50861
+270	L	Maitorahka		50917
+271	D	Mehukeitto		50965
+272	D	Olut		51021
+273	S	Punaviini		51215
+274	L	Goudajuusto		51375
+275	L	Kala		51517
+276	B	paahtoleipä		51631
+277	S	Vihreä tee		51799
+278	D	Perunasose		51927
+279	D	Wokvihannekset		52063
+280	B	Salaatti		52113
+281	L	Sipuli		52252
+282	B	Meetwursti		52537
+283	S	Cashew-pähkinät		52600
+284	D	Kinkkua ja vesi		52734
+285	D	Oivariini (Oivariini)		52866
+286	L	Keittokinkku		52928
+287	L	Kalapuikot		53056
+288	B	Paistettu kananmuna		53217
+289	B	Porkkana		53436
+290	B	Juustoleipä		53709
+291	L	Rypsiöljy		53880
+292	B	Vähärasvaisia juustoja		53994
+293	L	Naudanliha		54183
+294	D	Jauhelihapihvi		54606
+295	S	Emmentaljuusto		54668
+296	L	Jauhelihakeitto		54892
+297	S	Mustikka		55038
+298	B	Hunaja		55220
+299	L	Ketsuppi		55311
+300	D	Ananas		55435
+301	D	Grillimakkara		55896
+302	L	Tonnikala öljyssä		55958
+303	L	Sekavihanneksia		56001
+304	L	Punajuuri		56124
+305	S	Suklaapatukka		56285
+306	D	Bataatti		56343
+307	D	Jääsalaatti		56525
+308	D	Kuoreton Nakki (Kartanon)		56596
+309	S	Oltermanni 17%		56665
+310	B	Appelsiinimehu		56716
+311	L	Wokvihannekset		56956
+312	S	Korvapuusti		57006
+313	S	Rasvaton jogurtti		57121
+314	D	Emmental Juustoviipaleet (Pirkka)		57196
+315	D	Rypsiöljy		57253
+316	S	Viili		57367
+317	D	Keksi		57417
+318	L	Kaali		57590
+319	L	Kinkkukiusaus		57915
+320	B	Päärynä		58039
+321	S	Kaakaota		58223
+322	D	Kalakeitto		58424
+323	S	Proteiinijuoma		58512
+324	D	Mysli		58641
+325	B	Auringonkukansiemeniä		58709
+326	D	Tonnikala öljyssä		58824
+327	S	Sokerikakku		58867
+328	S	Oltermanni		59038
+329	S	Ananas		59137
+330	B	Pikakaurapuuro		59598
+331	D	Maissitortilla		59931
+332	L	Chocolate Shake (Nutrilett)		60193
+333	L	1 % maito		60279
+334	L	Kalkkunaleike		60438
+335	L	Tonnikalasäilyke		60498
+336	D	Kahvin		60657
+337	D	Makkarakeitto		60751
+338	L	Rasvaton raejuusto		60878
+339	L	Koulunäkki (Vaasan)		60922
+340	D	Tomaatit		61009
+341	D	Jauheliha 9,5% (Atria)		61400
+342	L	Grillimakkara		61448
+343	L	Savustettu lohi		61510
+344	B	Maitokahvia		61700
+345	D	Juusto		61768
+346	L	Viinirypäleet		61788
+347	B	Oranssi		62220
+348	D	Emmentaljuusto		62356
+349	B	Cashew-pähkinät		62580
+350	S	Pannukakku		62714
+351	L	Appelsiini		62861
+352	D	Jauhelihakeitto		62900
+353	S	Limonadi		63046
+354	S	Maustamaton jugurtti		63175
+355	B	Smoothie		63246
+356	S	Vähärasvaisia juustoja		63386
+357	B	Kaurahiutaleet		63575
+358	B	Viinirypäleet		63652
+359	D	Tonnikalasäilyke		64084
+360	D	Suklaakakku		64243
+361	D	Ohut pizzan		64367
+362	D	Pizza Lihatäytteellä		64480
+363	D	Jäätelö		64809
+364	B	Avokado		65078
+365	D	Hampurilainen		65406
+366	L	Tonnikala		65507
+367	S	Makeiset (Kovat)		65660
+368	D	Viinirypäleet		65978
+369	L	Pizza Lihatäytteellä		66410
+370	D	Broilerin Ohutleike (Rainbow)		66739
+371	L	Teen		66783
+372	S	Munkki		66893
+373	D	Lasagne		67128
+374	S	Smoothie		67216
+375	L	Juusto		67356
+376	L	Basmatiriisi		67376
+377	D	Kalapuikot		67422
+378	B	Hapankorppu		67583
+379	D	Oltermanni (Valio)		67648
+380	D	Kasvissosekeitto		67699
+381	S	Oltermanni (Valio)		67812
+382	B	Mantelit		67863
+383	B	Sulatejuustosta		68174
+384	B	Tuorejuustolevite		68319
+385	B	Mehukeittoa		68410
+386	L	Pinaattikeitto		68436
+387	L	Naudanjauheliha		68508
+388	L	Juustoleipä		68910
+389	B	Edam juusto		69081
+390	S	Suklaakeksi		69125
+391	S	Oivariini (Oivariini)		69391
+392	S	Avokado		69453
+393	S	Tavallinen Jogurtti		69781
+394	B	Emmentaljuusto (Vähärasvainen, Pastoroitu)		69916
+395	L	Kanakeitto		70105
+396	S	Hunaja		70238
+397	B	Sämpylät (Täysjyvävehnä)		70329
+398	D	Naudanjauheliha (10% Rasvaa)		70624
+399	B	Pähkinä		70752
+400	S	Paprika		70921
+401	L	Tomaatit		71468
+402	L	Vesimeloni		71859
+403	B	Ananas		72269
+404	D	Riisikakku		72730
+405	D	Tortilla		72750
+406	L	Rasvaton maitorahka		72952
+407	D	1 % maito		73005
+408	D	Sinappi		73164
+409	B	Voileipämeetvursti		73355
+410	L	Makkarakeitto		73391
+411	L	Emmental Juustoviipaleet (Pirkka)		73518
+412	L	Kuoreton Nakki (Kartanon)		73575
+413	L	Naudanjauheliha (10% Rasvaa)		73644
+414	L	Herne-Maissi-Paprika (Pirkka)		73772
+415	B	Arkirae		73840
+416	B	Vehnälese (Elovena)		73875
+417	D	Pähkinä		73931
+418	D	Hapankorppu		74100
+419	D	Maitorahka		74165
+420	L	Kasvispihvi		74213
+421	L	Tortilla		74286
+422	S	Siideri		74488
+423	S	Lakritsi		74557
+424	L	Oltermanni		74804
+425	D	Voi		74903
+426	D	Kesäkurpitsa (Kypsennetty)		75117
+427	S	Metsämansikka Jugurtti (Valio)		75421
+428	B	Tyrnimuru (muro, Taivalkosken mylly)		75483
+429	L	Voi		75517
+430	B	Maksamakkara		75731
+431	L	Limonadi		76101
+432	D	Paistettua kanaa		76230
+433	L	Mozzarella-juustoa		76369
+434	L	Metsämansikka Jugurtti (Valio)		76566
+435	L	Porsaankyljyksiä		76628
+436	S	Peruna		76722
+437	L	Pannukakku		76913
+438	B	Mustaherukka		77060
+439	D	Porsaankyljyksiä		77169
+440	B	Keitetty kananmuna		77263
+441	S	Grillimakkara		77501
+442	S	Mansikka		77563
+443	D	Makkarakastike		77813
+444	B	Reissumies		77944
+445	D	Suolakurkku		78038
+446	D	Oltermanni		78234
+447	D	Kaalilaatikko		78333
+448	D	Kala		78460
+449	B	Suklaakeksi		78574
+450	B	Omenamehua		78840
+451	L	Ohut pizzan		79000
+452	D	Paistettu kananmuna		79113
+453	L	Proteiinijuoma		79332
+454	B	1% milk		79461
+455	B	Mehukeitto (Valio)		79557
+456	D	Emmentaljuusto (Vähärasvainen, Pastoroitu)		79598
+457	D	Kaali		79787
+458	L	Kermaviilikastike		80112
+459	B	Riisipiirakka		80246
+460	L	Paistettua kanaa		80323
+461	S	Coca-cola		80462
+462	S	Omenapiirakka		80536
+463	B	Flora vähärasvaisempi		80733
+464	B	Oat & muesli rolls		80768
+465	B	Vaaleaa leipää		80870
+466	D	Rasvaton maitorahka		81050
+467	L	Rasvaton jogurtti		81103
+468	L	Salaattia		81178
+469	L	Makkarakastike		81199
+470	S	Mantelit		81330
+471	S	Mokkapala Kuorrutteella		81641
+472	L	Keksi		81807
+473	B	Croissant		81980
+474	L	Maksalaatikko		82124
+475	D	Maitosuklaa		82179
+476	B	Riisipuuro		82359
+477	B	Kookosöljy		82488
+478	L	Keitetty kananmuna		82590
+479	L	Maitosuklaa		82828
+480	B	Voi (Valio)		83008
+481	B	Proteiinijuoma		83058
+482	S	Valkoviiniä		83187
+483	B	Koulunäkki (Vaasan)		83269
+484	B	Voileipäkinkku		83356
+485	B	Rasvaton raejuusto		83420
+486	L	Riisipuuro		83464
+487	L	Kebab		83593
+488	D	Savustettu lohi		83728
+489	D	Proteiinipatukka		83918
+490	D	Limonadi		84085
+491	L	Voi (Valio)		84214
+492	L	Jauheliha 9,5% (Atria)		84264
+493	D	Rasvaton piimä		84312
+494	B	Kaura&Ruis (Nalle)		84360
+495	S	Tumma suklaa		84425
+496	S	Koulunäkki (Vaasan)		84475
+497	L	Kreikkalainen jogurtti		84562
+498	L	Hampurilainen		84627
+499	L	Katkarapu		84728
+500	L	Kevytkermaa		85041
+501	S	Juustoleipä		85193
+502	D	Kevytkermaa		85364
+503	D	Mehukatti (Mehukatti)		85516
+504	S	Kääretorttu		85587
+505	S	Meetwursti		85848
+506	S	Ruisnäkkileipä		85911
+507	S	Klementiini		86153
+508	S	Juustokakku		86194
+509	S	Riisikakku		86373
+510	D	Kotiruoka		86393
+511	D	Rasvaton raejuusto		86413
+512	D	Vaaleaa leipää		86457
+513	D	Pannukakku		86637
+514	D	Kinkkukiusaus		86784
+515	L	Proteiinipatukka		86908
+516	L	Marjakiisseli		87075
+517	L	Kaalilaatikko		87200
+518	L	Monen jyvä leipää		87327
+519	B	Jääsalaatti		87518
+520	B	Turkkilainen Jogurtti (Valio)		87589
+521	L	Suolakurkku		87645
+522	B	Tonnikala öljyssä		87841
+523	S	karkkia		87884
+524	S	Karkki		87904
+525	B	Vadelmat		87924
+526	S	Pähkinä		88055
+527	D	Ingmariini		88224
+528	D	Mansikka		88291
+529	D	Uunilohi		88541
+530	D	Tuorejuusto		88972
+531	D	Pinaattiohukainen		89178
+532	B	Kinkkuleikkeetohuenohut		89246
+533	S	Tortillasipsit (Nacho-Maustettu)		89317
+534	S	Maapähkinä		89412
+535	D	Valkoviiniä		89482
+536	B	Munakas tai Munakokkeli		89564
+537	D	Pinaattikeitto		89802
+538	D	Sekavihanneksia		89874
+539	D	Kunnon Nakki Makkara (Snellman)		89997
+540	L	Tonnikalasalaatti		90056
+541	L	Oranssi		90175
+542	D	Appelsiini		90311
+543	L	Emmentaljuusto		90350
+544	D	Pekonia		90574
+545	D	Basmatiriisi		90714
+546	S	Vaaleaa leipää		90760
+547	S	Maksamakkara		90940
+548	S	Suklaamakeiset (Makeat)		91310
+549	D	Suklaakeksi		91420
+550	B	Yrttitee (muut kuin Kamomilla, Haudutettu)		91686
+551	L	Riisipiirakka		91787
+552	L	Sinappi		91864
+553	D	Riisipuuro		92055
+554	D	Lihapiirakka		92184
+555	S	Makkara		92311
+556	D	Katkarapu		92439
+557	D	Yrttivoipatonki		92752
+558	B	Makkara		92800
+559	S	Mansikat		92928
+560	L	Kreikkalainen Salaatti		93396
+561	L	paahtoleipä		93529
+562	L	Uunilohi		93697
+563	L	Vaaleaa leipää		94128
+564	D	Feta		94308
+565	D	Tuore Appelsiinimehu		94354
+566	S	Palautusjuoma		94603
+567	B	Tomaatit		94743
+568	L	Porsaan Fileepaisti		95134
+569	D	Punajuuri		95588
+570	D	Mozzarella-juustoa		95749
+571	S	Tee		95946
+572	D	Rasvaton jogurtti		96013
+573	S	paahtoleipä		96088
+574	D	Kanakeitto		96256
+575	S	Popcorn		96389
+576	S	Kana		96410
+577	S	Yrttitee		96533
+578	S	Kiwi		96647
+579	D	Kebab		96673
+580	L	Ingmariini		96808
+581	B	Ruis Real (Fazer)		96875
+582	S	Keskiolut		96959
+583	S	Lohi		97080
+584	S	Kreikkalainen jogurtti		97276
+585	B	Nonfat milk		97341
+586	D	Tuorejuustolevite		97426
+587	L	Riisikakku		97517
+588	D	Ruisnäkkileipä		97537
+589	L	Majoneesi kastike		97779
+590	L	Tumma suklaa		97893
+591	L	Pinaattiohukainen		97943
+592	L	Vähärasvaisia juustoja		98011
+593	D	Cashew-pähkinät		98200
+594	S	Valkoinen riisi		98334
+595	S	Mustikoita		98636
+596	D	Lohkoperunat (Oolannin)		98791
+597	D	Coca-cola		98863
+598	B	Polar juusto		98937
+599	L	Paistettu kananmuna		98967
+600	L	Maapähkinä		99186
+601	B	Hedelmäpommi Jogurtti (Valio)		99256
+602	B	Riisikakku		99326
+603	D	Vähärasvaisia juustoja		99346
+604	B	Coffee		99535
+605	B	Oatmeal		99571
+606	D	Aurajuusto		99665
+607	D	Kananmunan valkuainen		99721
+608	B	Raejuusto (Velbo)		99813
+609	D	Herne-Maissi-Paprika (Pirkka)		99879
+610	B	Suolakurkku		99947
+611	L	Munkki		100143
+612	S	Tuore Appelsiinimehu		100378
+613	S	Riisimurot		100627
+614	D	Tonnikalasalaatti		100707
+615	D	Pizza		100826
+616	B	Riisimurot		100845
+617	L	Omenapiirakka		100925
+618	L	Bataatti		101122
+619	L	Päärynä		101304
+620	L	Meetwursti		101488
+621	L	Suklaakeksi		101551
+622	L	Pehmeä raejuusto		101817
+623	S	Suklaamuna		101882
+624	S	Sulatejuustosta		102027
+625	S	Voileipäkinkku		102172
+626	D	Sulatejuustosta		102236
+627	D	2 % maitoa		102381
+628	S	Suolakurkku		102539
+629	B	Becel		102735
+630	B	Chocolate Shake (Nutrilett)		102774
+631	B	Kahvia		102860
+632	S	Kukkakaali		102942
+633	B	Tee		103358
+634	B	Kreikkalainen jogurtti		103425
+635	D	Kaakaota		103490
+636	D	Munakas tai Munakokkeli		103691
+637	D	Täysjyvävehnämakaroni		103929
+638	S	Vaalea Leipä		104182
+639	B	Iso grahampaahto		104563
+640	B	Vadelmakiisseli		104633
+641	B	Kinkkuleikkeet		104658
+642	S	Suklaa päällystetty konvehti		104764
+643	S	Croissant		104868
+644	B	Munankeltuainen		105012
+645	B	Juuso		105133
+646	S	Greippi (Vaaleanpunainen ja Punainen)		105154
+647	D	Riisipiirakka		105382
+648	D	Salmiakki		105459
+649	D	Puuro		105514
+650	D	Tonnikala		105636
+651	D	Appelsiinimehu		105789
+652	D	Perunamuusi (Kevytmaidosta)		106029
+653	S	1 % maito		106352
+654	B	Korvapuusti		106511
+655	L	Broilerin Ohutleike (Rainbow)		106626
+656	L	Jälkiuunileipä		106670
+657	L	Oltermanni (Valio)		106709
+658	L	Kookosmaito		106760
+659	L	Pähkinä		106902
+660	S	Nuudelit		107071
+661	L	Jäätelö		107375
+662	D	Porsaan Fileepaisti		107644
+663	B	Hillo		108098
+664	B	Marjakiisseli		108137
+665	B	Pikakahvi		108262
+666	B	Savusaunakinkku		108394
+667	L	Salaattijuusto (Rainbow)		108450
+668	L	Täysjyvävehnämakaroni		108502
+669	L	Paistetut Perunat		108755
+670	D	Nakki		109176
+671	L	Aurajuusto		109214
+672	B	Juusto edam		109270
+673	D	Keitetty kananmuna		109304
+674	D	Mustikka		109542
+675	D	Pepperonipizza (36 Cm)		109724
+676	D	Vadelmaa		109856
+677	L	Feta		109877
+678	S	Kanafilee		109923
+679	D	Päärynä		110141
+680	D	Mehukeitto (Valio)		110325
+681	D	Soijarouhe		110366
+682	D	Keskiolut		110404
+683	S	Kanelipulla		110525
+684	S	Voi (Valio)		110701
+685	S	Ketsuppi		110751
+686	L	Croissant		110875
+687	L	Voileipäkinkku		111019
+688	S	Kirjolohi		111083
+689	S	Reissumies		111193
+690	S	Tavallinen Muffinssi		111287
+691	S	Mustikkakeitto Sokeroimaton (Valio)		111443
+692	S	Profeel Proteiinirahka Mansikka (Valio)		111527
+693	D	Vehnäsämpylä		111580
+694	S	Cashewpähkinät		111620
+695	B	Banana		111766
+696	D	Lakritsi		111860
+697	D	Kinkkumakkara		112107
+698	S	Kinkkuleikkeet		112138
+699	L	Kinkkua ja vesi		112244
+700	S	Salmiakki		112376
+701	L	Kesäkurpitsa (Kypsennetty)		112431
+702	L	Mango (Skyr)		112735
+703	S	Cheddar-juusto		112783
+704	B	Ruispalat		112914
+705	B	Kananmunaa		112978
+706	B	Jugurtti		113094
+707	B	Maitosuklaa		113115
+708	S	Pähkinäsekoitus		113295
+709	S	Suklaajäätelö		113417
+710	L	Puuro		113699
+711	S	Voi		113821
+712	L	Hapankorppu		114035
+713	L	Suklaakakku		114100
+714	D	Voi (Valio)		114224
+715	D	Arkijuusto		114274
+716	D	Tee		114325
+717	L	Porsaan leikkaukset		114392
+718	L	Vuohenjuusto		114490
+719	L	Cashew-pähkinät		114639
+720	S	Rasvaton raejuusto		114773
+721	S	Keitetty kananmuna		114817
+722	S	Besel		115055
+723	L	Coca-cola		115089
+724	S	Tomaatit		115163
+725	S	Omenamehua		115554
+726	B	Kirjolohi		115714
+727	B	Profeel Rahka (Valio)		115824
+728	S	Ranskalaiset Perunat		115896
+729	L	Maustamaton jugurtti		116212
+730	B	Pikapuuro Omena Mustikka Vadelma (Elovena)		116283
+731	L	Mantelit		116355
+732	S	Täytekakku Kuorrutteella (Kotiresepti tai Kaupan)		116666
+733	L	Mansikka (Skyr)		117095
+734	L	Pekonia		117146
+735	L	Sulatejuustosta		117286
+736	L	Vihreä tee		117431
+737	L	Lihapiirakka		117559
+738	L	Uuniperuna		117686
+739	S	Pasteija		117862
+740	S	Jäävuorisalaatti		117990
+741	S	Pehmeät Sämpylät		118471
+742	B	Soijalesitiinirae (Reformi)		118785
+743	B	Proteiinipatukka		118832
+744	B	Suklaakakku		118999
+745	B	Vadelmahillo		119123
+746	B	Hillot		119238
+747	S	Parsakaali		119332
+748	B	Lohi		119629
+749	B	Oliiviöljyä		119825
+750	S	Paistettu kananmuna		119904
+751	S	Evästeen sipsit		120123
+752	B	Coca-cola		120242
+753	B	Ruispuuro		120316
+754	B	Levite		120426
+755	B	Monen jyvä leipää		120446
+756	B	Vaalea Leipä		120637
+757	B	Purukumi		121018
+758	B	Puolukka		121096
+759	B	Kaurakeksi		121124
+760	B	Peanut butter		121377
+761	S	Margariini (Rasvaton)		121467
+762	S	Suolakeksit		121564
+763	S	Persikka		121845
+764	S	Rasvaton piimä		122025
+765	B	Kanelipulla		122073
+766	B	Profeel Proteiinirahka Mansikka (Valio)		122249
+767	B	Korppukinkku		122302
+768	B	Sokeri		122365
+769	B	Pellavansiemenrouhe (Risetti)		122627
+770	B	Limonadi		122671
+771	B	Strawberry		122800
+772	B	Metwursti		122888
+773	B	Kaakaojauhe		122926
+774	B	Ohut Keittokinkku (Rainbow)		122986
+775	S	Tuorejuusto		123047
+776	B	Luomu Mysli (Pirkka)		123253
+777	S	Paahdettu suolapähkinät		123325
+778	S	Vadelmat		123431
+779	S	Mehukeitto (Valio)		123562
+780	S	Aurajuusto		123603
+781	S	Vesimeloni		123659
+782	S	Makaroni		124069
+783	S	Mango		124613
+784	S	Meetvursti		124663
+785	S	Täysjyvämuro		124697
+786	S	Puuro		124767
+787	S	Jugurtti		124889
+788	S	Maito		124910
+789	S	Jälkiuunileipä		125290
+790	S	Appelsiinit		125329
+791	S	Emmentaljuusto (Vähärasvainen, Pastoroitu)		125577
+792	S	Mustikkarahka		125766
+793	S	Salmiakki (Halva)		125815
+794	S	Kuoreton Nakki (Kartanon)		125861
+795	S	Sämpylät (Täysjyvävehnä)		125930
+796	S	Pirtelö vanilja		126225
+797	S	Jaffa (LU)		126412
+798	S	Sipsi		126485
+799	S	Kakkua		126506
+800		Riisi		126526
+801		Mehu		126595
+802		Kermajuusto		126616
+803		Sekaleipä		126670
+804		Jogurtti		126707
+805		Skyr		126749
+806		nektariini		126770
+807		Välipalakeksi Tumma Suklaa (Elovena)		126808
+808		Oivariini		126856
+809		Ruispalat (Vaasan)		126936
+810		Gotler makkara		127005
+811		Sipsit		127042
+812		Polar 15% (Valio)		127081
+813		Kilomysli (Pirkka)		127150
+814		Kuningatar (Skyr)		127216
+815		Kirsikkatomaatti		127281
+816		Broilerin Fileesuikale (Rainbow)		127300
+817		Moniviljasämpylä		127331
+818		Pihvi		127368
+819		Pellavansiemenet		127388
+820		Avocado		127632
+821		Mansikkakeitto		127729
+822		Irtokarkit		127756
+823		marjajogurtti		127797
+824		Kiivi		127822
+825		Reissumies Tosi Tumma (Oululainen)		127841
+826		Pekoni		127898
+827		Murot		128210
+828		Edamjuusto		128230
+829		Ruispala		128261
+830		Mustikkakeitto		128303
+831		Rasvaton Maitorahka (Ehrmann)		128335
+832		Satsuma		128383
+833		Maitorahka 2%		128410
+834		Reissumies (Oululainen)		128446
+835		Kylmäsavulohi		128516
+836		Kinkkupiirakka		128639
+837		Lauantaimakkara		128676
+838		Voilevite (Kasviöljy, Vähennetyt Kalorit)		128696
+839		Sienet		128786
+840		Mansikkahillo		129052
+841		Kermajuusto 17%		129072
+842		Pakastetut Kasvikset		129105
+843		Pipari		129233
+844		1,5 % maito		129254
+845		Luumu		129351
+846		Rahkajogurtti (Ehrmann)		129371
+847		Porkkanaraaste		129440
+848		Maito Rasvaton		129570
+849		Saunapalvikinkku (HK)		129602
+850		Tee (Haudutettu)		129667
+851		Perunasalaatti (Atria)		129771
+852		Kunnon Lenkki Makkara (Snellman)		129841
+853		Juustoa		129900
+854		Sianjauheliha		129920
+855		Vaniljajäätelö		130097
+856		Pullava		130167
+857		Salaattikastike		130212
+858		Kurpitsansiemen		130249
+859		Oliivit (Musta)		130289
+860		Graavikirjolohifilee (Pirkka)		130620
+861		Kinkkusämpylä		130675
+862		Lehtisalaatti		130696
+863		Täysjyväriisi (Risella)		131020
+864		Raejuusto Keso (Arla)		131082
+865		Leipäjuusto		131150
+866		Mysli (AXA)		131189
+867		Juustopizza (Ohut Pohja)		131257
+868		Patonki		131601
+869		tuoremehu		131621
+870		Reissumies tosi tumma		131655
+871		Täytekakku		131715
+872		Raskas kuohukermaa		131752
+873		Kermavaahto		131887
+874		Juustohampurilainen		131971
+875		Tomaattikeitto		132132
+876		Rahkajugurtti		132258
+877		Silli		132278
+878		Munakas		132508
+879		Pienet Ananaspalat Ananasmehussa (Rainbow)		132586
+880		MCT Öljy		132633
+881		Nutrilett		132660
+882		Raejuusto (Rasvaton)		132700
+883		Pehmeä Rasvaton Maitorahka (Ehrmann)		132803
+884		Voileipä		132873
+885		Kalkkunaleike (HK)		132912
+886		Malto		132971
+887		Paprika (Punainen)		132997
+888		Joulutorttu		133388
+889		Mustikkapiirakka		133425
+890		Pyttipannu (HK)		133613
+891		Sika-Nauta Jauheliha (HK)		133668
+892		Viljaporsaan Pihvifilee (Atria)		133713
+893		Punajuurisalaatti		133786
+894		Vehnälese		133818
+895		Aamiaisjuusto		133872
+896		Cappuccino		133939
+897		Kauratyyny		134149
+898		Chicken Soup (Nutrilett)		134189
+899		Skyr vanilja		134275
+900		Rieska		134294
+901		Mämmi		134315
+902		Broilerin filee		134444
+903		Puolukkasurvos		134506
+904		Oltermanni 17% (Valio)		134526
+905		Salami Meetvursti (Dulano)		134569
+906		Vähärasvaisempi (Ingmariini)		134634
+907		Soijamaito		134689
+908		Karu		134832
+909		Kanakeitto (Saarioinen)		134872
+910		Skyr omena		134945
+911		Perunasalaatti		134964
+912		Energiajuoma		135063
+913		Moniviljaleipä		135090
+914		Pätkis		135111
+915		Mustikkapiirakka (Fazer)		135205
+916		Valkoisia papuja		135292
+917		Majoneesi		135405
+918		Arkijuusto (Valio)		135515
+919		Lettu		135560
+920		Kaurapalat (Vaasan)		135601
+921		Omenat		135679
+922		Jogurttia		136040
+923		Kinkkusuikaleet		136061
+924		Remix		136122
+925		Marjat		136160
+926		Kanamuna 2kpl		136282
+927		AB Piimä (Valio)		136302
+928		Savulohifilee (Hätälä )		136369
+929		Salaatinlehtiä		136422
+930		Keksit (Murotaikina)		136621
+931		Gouda		136728
+932		Hunajameloni		136765
+933		Parmesaanijuustoa		136786
+934		Mansikkajogurtti (Valio)		136907
+935		Oliivi		136980
+936		Mannapuuro		137024
+937		Majoneesi (Kevyt)		137045
+938		Kana- tai Kalkkunasalaatti		137139
+939		Oliiviöljy		137269
+940		Suklaamuffinssi		137343
+941		Lehtipihvi		137498
+942		Rahkapiirakka		137529
+943		Juustopizza (36 Cm)		137559
+944		Ruislese (Elovena)		137691
+945		Puuro (Elovena)		137732
+946		Profeel Proteiinijuoma (Valio)		137798
+947		Maitosuklaavanukas (Jacky)		137857
+948		Broilerin rinta		137922
+949		Kurkkua		137954
+950		Lohisalaatti		138032
+951		Näkkileipää		138099
+952		Myslipatukka		138119
+953		Babyporkkanat		138139
+954		Paistettu Kala		138314
+955		Kaurahiutaleet (Elovena)		138675
+956		Rosvopaisti		138727
+957		Pastaa tomaattikastikkeessa		138765
+958		Italiansalaatti (Forssan)		138887
+959		Gluteeniton Näkkileipä		138952
+960		Kerrosviili		139029
+961		Munavoi		139071
+962		Porkkanakakku (ilman Kuorrutetta)		139091
+963		Mango piltti		139424
+964		Margariini		139465
+965		Pizza Liha- ja Kasvistäytteellä		139545
+966		Jauheliha		139923
+967		Viineri		140008
+968		Päärynä-vanilja jogurtti		140044
+969		Irtokarkki		140102
+970		Maapähkinävoi		140122
+971		Koko paahtoleipää		140204
+972		Alpro soya jogurtti		140388
+973		Arki Rae (Valio)		140424
+974		Persimon		140469
+975		Salsa		140489
+976		Täysjyvävehnäleipä		140621
+977		Ruissämpylä		140913
+978		Cola		140955
+979		Voisilmäpulla		140992
+980		Tumma Suklaa (Fazer)		141013
+981		Kuningatar (Piltti)		141080
+982		Monijyväleipä		141147
+983		Ananas (Säilötty Mehussa, Koko Sisältö)		141355
+984		Reissumies tosi ruis		141657
+985		Suolapähkinät		141695
+986		Donitsit (Tavalliset)		141811
+987		Tortillasipsit (Taco-Maustettu)		142070
+988		Pesto		142181
+989		Kanamuna		142202
+990		Caesar-kastike		142222
+991		Lihakeitto (Rainbow)		142347
+992		Korppukinkku (Wursti)		142387
+993		Maidon		142452
+994		Persikkasose (Muksu)		142561
+995		Rusina		142624
+996		Salmiakki (Fazer)		142662
+997		Mango (Piltti)		142705
+998		Sourcream & Onion (Taffel)		142778
+999		kinkkua		142845
+1000		Edam 17 (Valio)		142936
+1001		Valiojogurtti Vanilja (Valio)		142980
+1002		Nugetti		143048
+1003		Tuorepuuro		143154
+1004		Kana oma		143194
+1005		Glögi		143226
+1006		Siskonmakkarakeitto		143247
+1007		Tee (Makeuttamaton)		143289
+1008		Rusinoita		143419
+1009		Ohuiksi Viipaloidut Naudan Leikkeleet		143610
+1010		Lasagne Lihalla		143762
+1011		Keiju		144041
+1012		Proteiinijauhe		144067
+1013		Kasviöljy		144162
+1014		Tuorekurkku (Kuorineen)		144255
+1015		Whey-80 (Star Nutrition)		144447
+1016		Ananasmehu		144497
+1017		Kanawrap		144534
+1018		Mansikoita		144597
+1019		Kuivattu Luumu		144618
+1020		Pehmeä rasvaton maitorahka		144843
+1021		Omenasosetta		144892
+1022		Moccachino		144996
+1023		Vehnäleseleipä		145057
+1024		Paistettu Peruna		145171
+1025		Fazerin sininen		145589
+1026		Gotler		145636
+1027		Porsaanleike		145674
+1028		Bread		145696
+1029		Brownie		145798
+1030		Kova sämpylä		145838
+1031		Täysjyväruisleipä		145962
+1032		Valkoisia vehnäjauhoja		146003
+1033		Purkka		146111
+1034		Styr rahka 170g		146139
+1035		Digestive		146159
+1036		Soijajogurtti		146181
+1037		Skyr uuniomena		146220
+1038		Suklaamousse		146255
+1039		AB-Jugurtti (Pirkka)		146381
+1040		Caesar Salaattikastike (Saarioinen)		146444
+1041		Vispipuuro		146504
+1042		Täysmaitoa		146526
+1043		Berliininmunkki		146674
+1044		Näkkileipä (Ryvita)		146728
+1045		Sekamehu (Mehukatti)		146796
+1046		Pekoni (Paistettu Pannulla)		146846
+1047		Pudding		147019
+1048		Mustikkamuffinssit		147056
+1049		Broccoli Mix (X-Tra)		147225
+1050		Nutella		147291
+1051		Munakkaan ja sianliha		147332
+1052		Mustaherukka-Vadelmakeitto (Valio)		147459
+1053		Metvursti		147496
+1054		Kinkku		147517
+1055		Marjoja		147551
+1056		Profeel Proteiinijuoma Vanilja (Valio)		147571
+1057		Turkkilainen Jogurtti (Rainbow)		147639
+1058		Juusto polar		147678
+1059		Kukkakaaligratiini		147714
+1060		Rasvaton Maustamaton AB-Jogurtti (Pirkka)		147805
+1061		Chia		147876
+1062		Nouseva pizzan		147916
+1063		Mätitahna		148035
+1064		Soijaproteiini (Eristetty)		148088
+1065		Rinkeli		148163
+1066		Kaurakeksit		148334
+1067		Hedelmäinen kiviä		148480
+1068		Kanan Reisikoipi		148593
+1069		Kanahampurilainen		148936
+1070		Marja		148991
+1071		Hera80 Mint Chocolate (Fast Sports Nutrition)		149034
+1072		A+ Luonnonjogurtti (Valio)		149102
+1073		Kinkkusuikaleet (Portti)		149159
+1074		Taateli		149225
+1075		Luomumaito		149262
+1076		Vaniljavohvelit (Rasvaiset)		149301
+1077		Tee (Sokerin kanssa)		149370
+1078		Rahka lidl		149496
+1079		Protein Bar Strawberry (Easy Body)		149518
+1080		Ranskalainen leipä		149571
+1081		Gouda- tai Edam-juusto		149729
+1082		Whey-		149898
+1083		Turkkilainen Jugurtti (Lindahls)		149933
+1084		Marjarahka		149982
+1085		Saunapalvi		150023
+1086		Luumut		150065
+1087		Luumu kuivattu		150256
+1088		Suklaa (Fazerina)		150295
+1089		Tuc (LU)		150350
+1090		Rahkapulla		150397
+1091		Ohukainen (Pelkästään)		150510
+1092		Voileipäkakku		150809
+1093		Valkosuklaa		150846
+1094		Pinaatti		150931
+1095		Kinuskikastike (Rainbow)		151073
+1096		Kultakinkku		151152
+1097		Lakupala (Panda)		151189
+1098		Paahdettua kinkkua		151256
+1099		Alku puuro		151371
+1100		Naudan Sisäfilee (Vähärasvainen Osa, Jätetty 0.5 Cm Rasvaa)		151399
+1101		Naudan Paahtopaisti (Jätetty 0 Cm Rasvaa)		151476
+1102		Edam		151550
+1103		Rahkajogurtti		151594
+1104		Perunalaatikko (Saarioinen)		151642
+1105		kananugetit		151718
+1106		Kana Kolmioleipä (Rainbow)		151739
+1107		Tomaattiketsuppi		151807
+1108		Hedelmäsalaatti		151986
+1109		Kevyt Viili (Arla Ingman)		152006
+1110		Banaani Jugurtti		152058
+1111		Sokerikeksit (myös Vanilja)		152081
+1112		Hedelmämysli (Rainbow)		152203
+1113		Keittokinkku (HK)		152280
+1114		Vesi (Tonic)		152348
+1115		Herkkusieni		152493
+1116		Margariini (Kasviöljy, 20% Rasvaa)		152516
+1117		Jauheliharisotto		152617
+1118		Kinkku- ja Juustovoileipä Lehtisalaatilla		152747
+1119		Pudding suklaa		152881
+1120		Juustosiivu		152918
+1121		Kaurapuuro (ilman Suolaa, Valmistettu Veteen, ei Lisäravinteita)		152939
+1122		pillimehu		153061
+1123		Banaanirahka		153082
+1124		Kananpojan Fileesuikale Lime (Kariniemen)		153132
+1125		Salaattikastike majoneesia		153205
+1126		Hillomunkki		153325
+1127		Kirjolohikiusaus		153452
+1128		Hapankaali		153499
+1129		Maksamakkaraa		153542
+1130		Katkaravunmakuinen Nuudeli (Mama)		153661
+1131		Kalkkuna		153705
+1132		Mustikkapiiras (Fazer)		153746
+1133		Puolukkasose		153784
+1134		Kinkku-Juusto Kolmioleipä (Rainbow)		153805
+1135		Salaattikastike (Öljy ja Etikka, Kotiresepti)		153868
+1136		Pepsi max		153968
+1137		100% Appelsiinitäysmehu (Pirkka)		153996
+1138		Keitetty pinaatti		154054
+1139		Pepperoni		154160
+1140		Täysjyväriisi (Uncle Ben's)		154469
+1141		Kampelakalat		154548
+1142		Mustikkapiimä		154648
+1143		Riisifrutti		154715
+1144		Coca-cola light		154736
+1145		Halloumi (Pirkka)		154798
+1146		Chili Con Carne		154862
+1147		Pehmeä Rasvaton Maitorahka (Valio)		154968
+1148		Mutakakku		155036
+1149		Aito Nakki (HK)		155058
+1150		Tonnikalaa Vedessä (Säilyke)		155131
+1151		Limppu		155317
+1152		Aprikoosihillo		155338
+1153		Valkosipulikastike		155445
+1154		Maustekurkut		155484
+1155		Savujuusto		155769
+1156		Pippurikalkkuna		155800
+1157		Kauramaito		155839
+1158		Kreikkalainen Jogurtti (Valio)		155862
+1159		Tofu (Alpro)		155907
+1160		Ylikypsä Saunapalvikinkku (HK)		155973
+1161		Kirsikka		156043
+1162		Sokerikorppu		156066
+1163		Makaroni- tai Pastasalaatti Juuston kanssa		156088
+1164		Leivitetty Kala		156220
+1165		Kalkkunanrinta		156525
+1166		Omenamehu		156702
+1167		Omenasose		156861
+1168		Täysjyväleipä		157050
+1169		Pikanuudelikeitto		157081
+1170		Pirtelö		157274
+1171		Maissilastuja		157384
+1172		Jogurtti-Mansikkamuromysli (Pirkka)		157521
+1173		Pakastevadelmat		157580
+1174		Proteiinirahka		157695
+1175		Monijyväleipä GRANO		157776
+1176		Mehumaito		157855
+1177		Recovery		157887
+1178		Marmeladi		157925
+1179		Actimel		158061
+1180		Vaniljakastike		158082
+1181		Bratwurst		158104
+1182		Appelsiinimehua keskittyä		158142
+1183		Kuoreton Nakki (Atria)		158274
+1184		Raejuusto (Vähärasvainen: 1-2%)		158353
+1185		Juustopizza (36 Cm, Ohut Pohja)		158464
+1186		Kaurajuntta		158613
+1187		Marjapuuro		158652
+1188		Iso Juustohampurilainen		158694
+1189		Sianliha		158799
+1190		Mansikkakiisseli (Hellefors)		158821
+1191		Vitalinea		158874
+1192		Rasvaton Raejuusto (Rainbow)		158897
+1193		Kiiwi		158963
+1194		Jasmiiniriisi (Uncle Ben's)		159003
+1195		Pinaattilettu		159067
+1196		Korvapuusti (Rainbow)		159093
+1197		Maustekurkku (Hapan)		159166
+1198		Choco Banana Shake (Naturdiet)		159396
+1199		Verigreippi		159485
+1200		Marjasekoitus		159506
+1201		Brie-juusto		159547
+1202		Vadelma		159699
+1203		Ruohosipuli Tuorejuusto (Creme Bonjour)		159799
+1204		Pullava Voisilmäpitko (Oululainen)		159865
+1205		Kurkkusalaatti		159937
+1206		Appelsiini Täysmehu (Valio)		159985
+1207		Paistetut muikut		160034
+1208		Rahka maustettu		160070
+1209		Hedelmäjogurtti (Rasvaton)		160110
+1210		Karpalomehu		160228
+1211		Bulgarian Jugurtti (Rainbow)		160353
+1212		Kurpitsansiemeniä		160405
+1213		Kotimainen Meetvursti (Saarioinen)		160443
+1214		Mansikkarahka (Rainbow)		160493
+1215		Egg		160535
+1216		Kermajuusto (Pirkka)		160635
+1217		Jugurtti kahvi		160702
+1218		Piltti		160723
+1219		Puolukkahillo		160743
+1220		Juustokeitto (Easy Diet)		160781
+1221		Mehukeitto sokeroimaton		160858
+1222		Kasvisgratiini		160893
+1223		Auringonkukansiemenet (ilman Kuoria)		160935
+1224		Vuohenjuustosalaatti		161154
+1225		Apple		161217
+1226		Tonnikalaa Öljyssä (Säilyke)		161379
+1227		Lihamureke (Nauta tai Sianliha)		161525
+1228		Kevätsipuli		161820
+1229		Ohrapuuro		162025
+1230		Jäädytetyt herneitä		162067
+1231		Polar		162172
+1232		Emmental Juustoraaste (Valio)		162194
+1233		Skyr veriappelsiini		162238
+1234		Juustosämpylä		162278
+1235		Rasvaton Maitorahka (Milbona)		162317
+1236		Täysjyväpaahtoleipä (Fazer)		162367
+1237		Sipulipatonki		162416
+1238		Kevyt Maitojuoma Laktoositon (Rainbow)		162568
+1239		Vuohenjuusto (Kova)		162624
+1240		Sienisalaatti		162709
+1241		Ässämix		162731
+1242		Juustosarvi		162770
+1243		Suolaliha		162810
+1244		Palvikinkku (Rainbow)		162846
+1245		Ruis-Vehnä Sämpylä (Porin Leipä)		162923
+1246		Varrasleipä (Linkosuo)		162994
+1247		Hasselpähkinä		163070
+1248		Vanukas		163132
+1249		Siemennäkkäri		163153
+1250		Weetabix		163194
+1251		Kauraleipä (Moilas)		163231
+1252		Ranskanleipä		163305
+1253		Kikherne		163341
+1254		Karpalo		163384
+1255		Donitsit (Suklaakuorrutteiset tai -päällysteiset)		163425
+1256		Snickers		163632
+1257		Hampurilainen (Hesburger)		163687
+1258		Lihahyytelö		163735
+1259		Almonds		163770
+1260		Suklaakakku (Suklaakuorrutuksella)		163860
+1261		Kuuma Maitokaakao		164022
+1262		Kuppikakku (Cupcake, Kuorrutteella)		164177
+1263		Hedelmämehujää		164288
+1264		Maitosuklaa (Karl Fazer)		164387
+1265		Kofeiinitonta teetä		164450
+1266		Gluteeniton leipä		164529
+1267		Hapankorppu (Oululainen)		164609
+1268		Laktoositon Rasvaton Maitojuoma (Pirkka)		164672
+1269		Oltermanni cheddar		164743
+1270		porkkanamehu		164775
+1271		Vähärasvainen vanilja jogurtti		164924
+1272		Maitorahka (Lidl)		165109
+1273		Kipparijuusto		165171
+1274		Poronkäristys		165208
+1275		Ranskalainen Salaattikastike		165328
+1276		Kananliha (Paahdettu)		165466
+1277		Kermakahvi		165733
+1278		Perunalimppu (Linkosuo)		165799
+1279		Rasvaton Raejuusto 0,3% (Rainbow)		165868
+1280		Juokseva Hunaja (Pirkka)		165930
+1281		Ruispuikula		165973
+1282		Oivallus		166013
+1283		Herkkusienet (Paistettu)		166053
+1284		Rusinat		166160
+1285		Mozzarellajuusto (Rasvaton)		166305
+1286		Voileipäkinkku (Snellman)		166387
+1287		Punajuurisalaatti (Forssan)		166433
+1288		Croissant (Fazer)		166506
+1289		Hedelmäsekoitus (Kypsennetty tai Säilötty, Vedessä, Makeuttamaton)		166544
+1290		Valkoinen sieni		166675
+1291		Onion		166792
+1292		Blueberries		166878
+1293		Kaurapuuro (Elovena)		166977
+1294		Tonnikalapasta		167037
+1295		Toasty fiber		167079
+1296		Pepperonipizza (Pakastettu, Paistettu)		167115
+1297		Vaasan Ruispalat		167242
+1298		Proteiini		167283
+1299		Latte		167311
+1300		Tomaattipyrettä		167499
+1301		Sourcream & Onion Riisikakku (Rainbow)		167631
+1302		Jääkahvi (Maidon kanssa)		167680
+1303		Pizza Lihatäytteellä (Ohut Pohja)		167877
+1304		Kananmakuinen Nuudeli (Mama)		168215
+1305		Tippaleipä		168251
+1306		Mummon Lihapullat (HK)		168324
+1307		Less-Fat Sips (Taffel)		168393
+1308		Paistetut Sipulit		168439
+1309		Minihiilari kaura		168711
+1310		Viinirypälemehu		168754
+1311		Lihapasteija		168886
+1312		Luumu-Rusinakeitto (Valio)		168922
+1313		Kismet		168975
+1314		Paahdettu kalkkunan lihaa		169015
+1315		Keittokinkku (Atria)		169139
+1316		Kinkkukiusaus (feta)		169204
+1317		Suklaakakku (ilman Kuorrutusta)		169243
+1318		Raejuusto (Vähärasvainen 2% Maitorasva)		169420
+1319		Cashew		169535
+1320		Kuivattu Mango		169630
+1321		Ananas (Skyr)		169814
+1322		Katkarapusalaatti (Cocktail-Kastikkeella)		169865
+1323		Activia jugurtti		170026
+1324		Mantelimaito (Alpro)		170066
+1325		Suklaamurot		170117
+1326		Savusaunakinkku (Korpela)		170138
+1327		Mäti		170184
+1328		Voita öljyä		170216
+1329		Kylmäpuristettu Rypsiöljy (Rainbow)		170333
+1330		Meloni-Passionhedelmä (Skyr)		170381
+1331		Tupla		170431
+1332		Yosa sport		170474
+1333		Suklaakuorrutteiset Pehmeät Myslipatukat		170513
+1334		Koskenlaskija		170622
+1335		Keittokinkku (Huhtahyvät)		170654
+1336		Kahvikerma (Kevyt)		170700
+1337		Kermavanukas		170858
+1338		Paahto Kaura (Fazer)		170880
+1339		Mansikkahilloa		170960
+1340		Maksamakkara (HK)		171051
+1341		Margariini (Tavallinen, 80% Rasvaa, Suolainen)		171109
+1342		Banaanit		171217
+1343		Valkoinen Riisi (Pika)		171511
+1344		Vihannesten ja hedelmien mehua		171702
+1345		Vaniljavohvelit (Vähärasvaiset)		171815
+1346		Muffinssi		171979
+1347		Saksanpähkinä		172020
+1348		ohra		172042
+1349		Tonnikalapalat Öljyssä (Pirkka)		172085
+1350		Paula vanukas		172137
+1351		Mustikkariisi		172177
+1352		Hummus		172222
+1353		Pulled pork		172261
+1354		Kahvikerma		172302
+1355		Perunarieska		172342
+1356		Viilis		172363
+1357		Spaghetti		172410
+1358		Suolatikut		172499
+1359		Lihaperunasoselaatikko		172541
+1360		Luonnonjogurtti		172581
+1361		Meksikolainen Lasagnette (Atria)		172604
+1362		Pikapuuro Vadelma (Elovena)		172667
+1363		Suolattua voita		172734
+1364		Minihiilari Auringonkukka-Pellavasämpylä (Vaasan)		172850
+1365		Perunamuusijauhe (Rainbow)		172917
+1366		Karpalomehua		172977
+1367		Krutonki (Hesburger)		173104
+1368		Keitto		173153
+1369		Hedelmämehu		173174
+1370		Kevyt Jauheliha (Atria)		173215
+1371		Vaalea olut		173264
+1372		Jälkiuunipalat		173363
+1373		Lohkeava Jogurtti Sitruuna (Valio)		173403
+1374		PäärynäMehu		173459
+1375		Paksu Maapähkinävoi (Suolainen)		173528
+1376		Tee (Haudutettu, Kofeiiniton)		173647
+1377		Sulatejuusto		173753
+1378		Kabanossi		173789
+1379		kauralese		173831
+1380		Tutti frutti		173892
+1381		Rapu		173942
+1382		Luomu Kevytmaito (Valio)		174039
+1383		Rahkajuoma		174101
+1384		Dumle		174122
+1385		Skyr Kiivi		174144
+1386		Low Sugar Bar With Blueberry (Nutrilett)		174181
+1387		Maksamakkara (Snellman)		174261
+1388		Suklaakuppikakku (Cupcake, Kuorrutteella tai Täytteellä)		174307
+1389		Majoneesi (Vähäkalorinen)		174527
+1390		Vuohenjuusto (Pehmeä)		174650
+1391		Perunapannukakut		174721
+1392		Loimulohifilee (Hätälä )		174980
+1393		Reissumies Kaura		175036
+1394		Puolukkapuuro		175069
+1395		Kalkkunaleikkele		175090
+1396		Kotimehu		175127
+1397		Ruispuuro (Nalle)		175156
+1398		Tonnikalavoileipä		175219
+1399		Hampurilaisen tai Hotdogin Sämpylät		175354
+1400		Luumumehu		175470
+1401		Kinkku- ja Juustovoileivät		175608
+1402		Munakas tai Munakokkeli Vihannesten kanssa		175716
+1403		Taikaruis		175939
+1404		Iso Moniviljapaahto (Vaasan)		175979
+1405		Siemensekoutus		176039
+1406		Toast		176061
+1407		Sveitsiläinen juusto		176155
+1408		Muromysli		176340
+1409		Pieni Perinteinen Riisipiirakka (Saarioinen)		176388
+1410		Rouhe Sämpylä (Leipomo Rosten)		176461
+1411		Välipalakeksi Kaura-Puolukka (Elovena)		176538
+1412		Activia		176622
+1413		Hera		176664
+1414		Naudan Sisäfilee (Jätetty 0.3 Cm Rasvaa)		176686
+1415		Kaurapuikula		176806
+1416		Virvoitusjuoma		176828
+1417		Chocolate chip cookie		176957
+1418		Herbalife Pirtelö		177049
+1419		Kauravälipala		177087
+1420		Palvikinkku (Atria)		177109
+1421		Suomalainen Kalkkunafilee (Ohuen Ohut) (Atria)		177164
+1422		Naudanpaisti		177238
+1423		Hedelmäsose		177271
+1424		Ham		177303
+1425		Yogurt, Greek, plain, nonfat		177388
+1426		Extra vähärasvainen kinkku		177473
+1427		Suolakeksi		177607
+1428		Kismet marianne		177629
+1429		Suklaavanukas		177701
+1430		Orange		177723
+1431		Protein Rahka (Arla)		177831
+1432		Juusto tyynyt		177897
+1433		Gifflar Korvapuustit (Pågen)		178029
+1434		Neljän Viljan Puuro (Nalle)		178077
+1435		Appelsiinimehu kalsiumin		178129
+1436		Rommi		178262
+1437		Juotava Jogurtti (Persikka-Passion) (Rainbow)		178349
+1438		Tavallinen Jogurtti (Rasvaton)		178398
+1439		Silakka		178517
+1440		Hedelmärahka		178539
+1441		Saaristolaisleipä		178578
+1442		Vitamiinijuoma		178618
+1443		Ruiskakko		178641
+1444		Kuivattu Omena		178680
+1445		Valkosipuli		178817
+1446		Persikat (Säilötty Mehussa, Koko Sisältö)		178977
+1447		Minihiilari ruis		179184
+1448		Maustettu Rahka Kuningatar (Valio)		179222
+1449		Kuivakakku		179269
+1450		Neljän Viljan Puuro (Rainbow)		179291
+1451		Täytetty leipä		179344
+1452		Kevytmaito (Valio)		179366
+1453		Jälkiuunileipä (Oululainen)		179433
+1454		Misokeitto		179462
+1455		Kevyt Levi		179501
+1456		Täysjyvävehnäkeksit		179542
+1457		Kasvissosekeitto (Rainbow)		179676
+1458		Pehmeä Rahka (Valio)		179740
+1459		Kinkkupizza (Saarioinen)		179800
+1460		100% Kauraleipä (Vaasan)		179866
+1461		Uuniperuna (Kuorineen)		179944
+1462		Trip		180322
+1463		Bacon		180365
+1464		Natural Pähkinäsekoitus (Rainbow)		180459
+1465		Mustikka (Skyr)		180507
+1466		Makaroni Myllyn Paras		180558
+1467		Cambridge Porrige original		180596
+1468		Naudanpaahtopaistivoileipä Juustolla		180634
+1469		Ranskalaiset (Hesburger)		180741
+1470		Mantelimaito		180782
+1471		Tea		180829
+1472		Maustamaton Jugurtti (Rainbow)		180862
+1473		Mustikka (Pakkasmarja)		180928
+1474		piparkakku		180989
+1475		Palkkari		181011
+1476		Kreikkalainen Jogurtti (Eridanous)		181054
+1477		Lettuja		181093
+1478		Cola (Rainbow)		181125
+1479		Sitruunatee		181171
+1480		Vanhanaikainen donitsi		181193
+1481		Vichy		181429
+1482		Pullava (Oululainen)		181449
+1483		Mustikkakeitto valio		181521
+1484		Meetwursti kevyt		181547
+1485		Carrot		181594
+1486		AB Jogurtti Maustamaton (Rainbow)		181687
+1487		Sugar		181754
+1488		Edamjuustoviipale (Pirkka)		181806
+1489		Rasvaton Maito (Valio)		181869
+1490		Englanti muffini		181923
+1491		Sour Cream & Onion (Pringles)		182038
+1492		Vesirinkeli		182108
+1493		todiste viina		182129
+1494		Original (Pringles)		182166
+1495		Lakupötkö		182227
+1496		Rahkavaahto		182248
+1497		Pekoni (Uunipaistettu)		182270
+1498		Laskiaispulla		182445
+1499		hampunsiemenet		182484
+1500		Sinihomejuusto		182525
+1501		Ahven		182551
+1502		Reissumies Täysjyvä (Oululainen)		182586
+1503		Lucuma		182640
+1504		Vaasan Kauratyynyt		182675
+1505		Parmankinkkua		182713
+1506		Kefir mustikka		182751
+1507		Suklaasuukko		182786
+1508		Kalkkunaleike (Atria)		182808
+1509		Cheddar (Rainbow)		182880
+1510		Valkosipulipatonki		182947
+1511		Fitbar		182969
+1512		Piirakka		183004
+1513		Kirsikat		183046
+1514		Pähkinäsekoitukset		183087
+1515		Täysjyvämurot (Fitness)		183214
+1516		Hotdog		183277
+1517		Kermakakku		183298
+1518		Smoothie (Innocent)		183336
+1519		Barebar		183393
+1520		Proteenijuoma		183436
+1521		Nestle Fitnesse Cereal		183510
+1522		Torttu		183609
+1523		Suklaakeksit (Pehmeät)		183631
+1524		Hedelmä & Pähkinämysli (Rainbow)		183735
+1525		Jauhelihapizza (Atria)		183807
+1526		Mild & Creamy Mansikka-Raparperi Soijajogurtti (Alpro)		183869
+1527		Kanttarellikeitto		183924
+1528		Ylikypsä kinkku		183956
+1529		Ohukainen		184007
+1530		Ylikypsä Kinkku (Atria)		184049
+1531		Kaurapuuro ja Hedelmät		184116
+1532		Ohut Naudanpaisti (Rainbow)		184321
+1533		Rukiinen Riisipiirakka (Vaasan)		184356
+1534		Proteiinipatukka (Leader)		184422
+1535		Marvest Kebab (Lidl)		184483
+1536		Banaanismoothie		184541
+1537		Maapähkinävoi evästeen		184563
+1538		Puuro alku		184761
+1539		Hillot ja Marmeladit (Vähäsokeriset)		184783
+1540		Juustoviipale		184899
+1541		Lihajaloste		184925
+1542		Novelle		185060
+1543		Raspberries, raw		185081
+1544		Omenapiirakka (McDonald's)		185169
+1545		Broilerin ohutleike		185229
+1546		Kotimainen Meetvursti (Snellman)		185284
+1547		Purkitettu pavut		185339
+1548		Yosa		185487
+1549		Tuorejuusto (Kevyt)		185527
+1550		Suodatinkahvi		185676
+1551		Jogurttirahka		185782
+1552		Rasvaton Piimä (Gefilus)		185817
+1553		Ananasmurska		185872
+1554		Laktoositon maito		185918
+1555		Cupcake		186021
+1556		Kalakukko		186112
+1557		Daim		186134
+1558		Ohraleipä		186170
+1559		Purukumi (Sokeriton)		186212
+1560		Välipalakeksi elovena		186296
+1561		Pitza		186335
+1562		Perinnekalja (Sinebrychoff)		186371
+1563		Sima		186415
+1564		Kaakao cappuccino		186438
+1565		Hirvenliha		186473
+1566		Profeel Proteiinijuoma Maitokahvi (Valio)		186539
+1567		Neljän Viljan Hiutale		186599
+1568		Sinappikinkku		186639
+1569		Soijamaito (Kalsiumia lisätty)		186677
+1570		Auringonkukkaöljy		186803
+1571		Proteiinijogurtti		186832
+1572		Tuorejuusto (Vähärasvainen)		186854
+1573		Naudan Paistisuikale (Snellman)		186982
+1574		Broilerin Fileesuikale Hunaja (Atria)		187019
+1575		Ohuen Ohut Kinkku (Snellman)		187093
+1576		Pensasmustikka		187148
+1577		Hedelmäsmoothie (Valmistettu Mehusta tai Hedelmistä)		187187
+1578		Aurinkokasvikset		187351
+1579		Iso tumma riisipiirakka		187391
+1580		Urheilujuoma		187432
+1581		Jälkiuunipala		187458
+1582		Aprikoosi		187495
+1583		Hiivaleipä		187516
+1584		Reissumies tumma		187554
+1585		Proteiinirahka arla 200g		187617
+1586		Mustikkarahka (Skyr)		187637
+1587		Punaherukka		187687
+1588		Kinkkumunakas		187707
+1589		Mustikat (Makeuttamaton, Pakaste)		187744
+1590		Tiramisu		187882
+1591		Suklaa Vanukas		188010
+1592		Perunasalaatti (Forssan)		188031
+1593		Kaurajuoma		188104
+1594		Banaanijugurtti		188168
+1595		Metfursti		188203
+1596		Chia-Siemenet (Cocovi)		188224
+1597		Skyr ananas		188284
+1598		Rikastettu hedelmä maustettu vesi		188322
+1599		Tuc keksi		188406
+1600		Maustekurkku (Makea)		188443
+1601		Kuppikakku (Cupcake)		188736
+1602		Mansikka-Banaani Smoothie (Hesburger)		188844
+1603		Leikkele		188909
+1604		2% milk		188930
+1605		Soppa		189027
+1606		Kebabkiusaus (Saarioinen)		189058
+1607		Valkosipuli 15% (Creme Bonjour)		189128
+1608		Mansikkasuklaa		189190
+1609		sokeroimaton Mehukeitto		189212
+1610		Mansikkajogurtti		189242
+1611		Rahkaa		189283
+1612		Meetvursti (Pirkka)		189305
+1613		Puolukkaa		189353
+1614		Säilykehedelmät juoma		189375
+1615		Maitorahka Maustamaton Hyla (Valio)		189472
+1616		Munakas tai Munakokkeli Juuston kanssa		189532
+1617		Kanakeitto (Easy Diet)		189733
+1618		Kevytolut		189806
+1619		Suklaakinuski		189941
+1620		Mustaherukkarahka		190095
+1621		Viili 1%		190124
+1622		Riisimaissikakku		190188
+1623		Juustorinkeli		190210
+1624		Parapähkinät		190249
+1625		Berocca		190383
+1626		Mustikat (Makeutettu, Pakaste)		190402
+1627		Geisha		190518
+1628		Maalaisviipale		190559
+1629		Maitorahka Vähälaktoosinen (Rainbow)		190581
+1630		Punajuuripihvi		190627
+1631		Juustopizza (36 Cm, Paksu Pohja)		190668
+1632		Energia juoma		190801
+1633		jäätee		190838
+1634		Viinimarjoja		190959
+1635		Dippi		190979
+1636		Aioli		191000
+1637		Yosa kauravälipala		191046
+1638		Alatoopi		191067
+1639		Proteiinileipä		191088
+1640		Kaakao		191110
+1641		Grillisalaatti chili		191146
+1642		Kaurasydän		191178
+1643		Muro		191240
+1644		Vadelmakeitto		191262
+1645		Maito (Rasvaton, lisätty Kalsiumia)		191295
+1646		Pannukakut (Pelkästään)		191438
+1647		Jäädytettyjen mansikoiden		191594
+1648		Sienipiirakka		191820
+1649		Mustaherukka Mehu (Marli)		191842
+1650		kevyt mustikkakeitto		191894
+1651		Kananmuna (Kovaksi Keitetty)		191924
+1652		Sokeroidut Suklaadonitsit		192075
+1653		Suklaapuuro		192290
+1654		Caffe Latte (Coffee House)		192311
+1655		suklaapirtelö		192361
+1656		Eila Lohkeava Jogurtti Ananas (Valio)		192383
+1657		Vaniljakastiketta		192443
+1658		Kaurasydän (Vaasan)		192465
+1659		Juustokakku Hedelmillä		192525
+1660		Voileipä (Maapähkinävoi)		192847
+1661		Kahvi maidolla		192974
+1662		Blackberries, frozen, unsweetened		193012
+1663		Arki juusto		193103
+1664		Ruissipsit		193125
+1665		Viili 1% (Rainbow)		193158
+1666		Paahdettuja auringonkukansiemeniä		193212
+1667		Tattari		193316
+1668		Whole-wheat toast		193435
+1669		Vaahterasiirappia		193533
+1670		Säilöttyjä katkarapuja		193607
+1671		Sieni		193737
+1672		Risifrutti		193826
+1673		Voilevi		193866
+1674		Riisipiirakka (Pirkka)		193894
+1675		Kookoskerma		193955
+1676		Natur Ananas (Marli)		193977
+1677		Jugurttijuoma		194024
+1678		Parapähkinä		194056
+1679		Tee (sis. Vähäkalorinen Makeutusaine)		194097
+1680		Proteiinirahka (Arla)		194222
+1681		Kookoshiutaleet		194262
+1682		Mansikkapirtelö		194284
+1683		Tosi Murea Korppukinkku (Snellman)		194319
+1684		Kanelikorppu		194390
+1685		Pekoni (Paistettu Uunissa, Pannulla tai Paahdettu)		194431
+1686		Paahdettu Vaalea Leipä		194597
+1687		Savulohi Kolmioleipä (Pirkka)		194873
+1688		Iltapala		194944
+1689		Karpalomehu (Makeuttamaton)		194965
+1690		Luumumarmeladi (Dronningholm)		195108
+1691		Maustamaton Rasvaton Jogurtti (Rainbow)		195153
+1692		Ketsuppi (Meira)		195209
+1693		Latte Macchiato (Linessa)		195258
+1694		Becel levite		195335
+1695		Granaattiomena		195372
+1696		Myslijugurtti		195406
+1697		Mysli (Kuivattuja Hedelmiä ja Pähkinöitä)		195449
+1698		Puolukoita		195556
+1699		Perunamuusi (Kuivasekoitus)		195657
+1700		100% Kaura (Vaasan)		195843
+1701		Englantilainen Monijyvämuffini		195911
+1702		Vaniljajogurtti (Vähärasvainen)		196039
+1703		Kuivapaahdetut Pekaanipähkinät (ilman Suolaa)		196171
+1704		Mangorahka		196246
+1705		Englantilainen Täysjyvävehnämuffini		196281
+1706		Täysjyvämuro (Pirkka)		196406
+1707		Banaanijogurtti		196477
+1708		Kaurapuuro (Pika, Valmistettu Veteen, Lisäravinteilla)		196513
+1709		Olymppia		196727
+1710		Low fat fruit yogurt		196765
+1711		Tyrni		196861
+1712		Chocolate Crisp (Nutrilett)		196897
+1713		Naan Bread (Santa Maria)		196974
+1714		Energiajuoma battery		197021
+1715		Real		197048
+1716		Tonnikalaa Tomaattikastikkeessa (Eldorado)		197124
+1717		Melonit (Cantaloupe)		197172
+1718		Original Soft Tortilla (Santa Maria)		197458
+1719		Viilis (Valio)		197530
+1720		Omenat (ilman Kuoria)		197579
+1721		Katkarapusalaatti		197749
+1722		Vanilja Rahka		197789
+1723		Keittokinkkuleike (Atria)		197822
+1724		Rypsiöljy (Pirkka)		197871
+1725		Sulatejuustoviipale		197905
+1726		Honey		198008
+1727		Nakkimunakas		198077
+1728		Riisimurot (Rainbow)		198098
+1729		Gainomax		198162
+1730		Anjovista Öljyssä (Säilyke, Nesteet Valutettu)		198206
+1731		Kaurapuuroa		198371
+1732		Maissileipä		198393
+1733		Piimäkakku		198432
+1734		Kinkkuleikkeet (Tavallinen, noin 11% Rasvaa)		198465
+1735		Tropical Mango Passion (God Morgon)		198623
+1736		Teriyaki-kastike		198694
+1737		Tonnikalaleipä		198818
+1738		Ykkös Viili (Valio)		198855
+1739		Kurpitsan Siemenkota (Kuivattu)		198908
+1740		Omenamehua c-vitamiinia		199042
+1741		Tahini		199174
+1742		Reilu Vehnä (Oululainen)		199212
+1743		Cranberry juice		199275
+1744		Korppu		199356
+1745		Ruisnäkki (Rainbow)		199378
+1746		Salted butter		199441
+1747		Tropicana orange		199535
+1748		Cheese, cottage, lowfat, 1% milkfat		199560
+1749		Kroissantti		199650
+1750		Hasselpähkinät		199672
+1751		Juustotasku		199746
+1752		ohrarieska		199784
+1753		Hedelmäsalaattisäilyke (Persikka, Päärynä, Aprikoosi, Ananas, Kirsikka)		199806
+1754		Jogurttijuoma		199909
+1755		Korppukinkku (Kartanon)		199930
+1756		Saksanpähkinä (Englantilainen)		200002
+1757		Pastillit		200296
+1758		Philadelphia		200325
+1759		tonnikalapastavuoka		200347
+1760		Nachot Juustolla		200369
+1761		Palasokeri		200488
+1762		Kalanmaksaöljy (Lohi)		200510
+1763		Tosi Murea Palvikinkku (Snellman)		200618
+1764		Suklaajuustokakku		200661
+1765		Rye bread		200834
+1766		Jalapeno		200935
+1767		Voileipä Kurkkuja (Herkkumaa)		200968
+1768		Rasvaton Raejuusto (Valio)		201007
+1769		Päärynäsose		201063
+1770		Maustamaton Ab-Jogurtti (Pirkka)		201091
+1771		Recovery&Protein, Strawberry (Fast Sports Nutrition)		201146
+1772		Sienisalaattia		201187
+1773		Karpalo-Viinirypälemehu (Pullotettu)		201209
+1774		Seattle Latte (Starbucks)		201345
+1775		Porridge		201404
+1776		Leipää		201488
+1777		Grahamsämpylä		201533
+1778		Ruistaikina		201574
+1779		Kaurapuuro & Hillo		201596
+1780		Flora vanilja		201618
+1781		Pineapple		201640
+1782		Strawberry Shake (Nutrilett)		201724
+1783		Imatran Riisipiirakka (Fazer)		201800
+1784		Alpro		201855
+1785		Ruisleipä (Vähennetyt Kalorit)		201888
+1786		Kasvis		202041
+1787		Vohvelit		202137
+1788		Pancake		202176
+1789		Lehtisalaatti (Vihreä)		202198
+1790		Berry Boost Smoothie (Nutrilett)		202378
+1791		Provolone-juustoa		202451
+1792		Suklaa (Makea tai Tumma)		202640
+1793		Mansikkapiirakka		202832
+1794		Runebergin torttu		202914
+1795		Ohuen ohut		202946
+1796		Rasvaton Maito (Maitokolmio)		202984
+1797		Fish, tuna salad		203017
+1798		Cabbage		203106
+1799		Proteiinijuoma (Get In Shape)		203187
+1800		Balkan		203242
+1801		Luumusose (Nestlé)		203294
+1802		Suklaamuro		203367
+1803		Proteiinikerrosrahka		203389
+1804		Granola		203435
+1805		lei		203529
+1806		Questbar Chocolate Chip Cookue Dough (Quest Nutrition)		203567
+1807		ä		203642
+1808		Munaka		203744
+1809		päärynä piltti		203790
+1810		Swiss cheese		203833
+1811		Balkan (Atria)		203928
+1812		Greippimehu (Valkoinen)		204000
+1813		Kaura leipä		204184
+1814		Kananmuna- ja Juustovoileivät		204232
+1815		Hedelmä Jugurtti		204345
+1816		Aurinkosalaatti rainbow		204377
+1817		Leivinjauhe		204408
+1818		Croisantti		204483
+1819		Lohkoperunat (X-Tra)		204558
+1820		Pellavansiemenrouhe (Elixi)		204609
+1821		AB-Piimä (Milbona)		204663
+1822		Ö		204725
+1823		Kahvin maidolla		204770
+1824		Luostarinmäen Meetvursti (HK)		204807
+1825		Raakasuklaa		204856
+1826		Minis Choco (Weetabix)		204888
+1827		Pasta Ateria		204945
+1828		Banaanirahka (Rainbow)		204967
+1829		Aamupala juusto		205014
+1830		Maustamaton Pehmeä Proteiinirahka (Arla)		205042
+1831		Blackberries, raw		205089
+1832		Kanarulla		205177
+1833		Banaani	Skyr	205315
+1834		Rasvaton Maito	Milbona	205358
+1835		Rasvaton Maito	Pirkka	205416
+1836		Rypsiöljy	Keiju	205472
+1837		Rypsiöljy	Rainbow	205546
+1838		Makaroni	Myllyn Paras	205601
+1839		(Parboiled) riisi		205668
+1840		Ingmariini	Ingmariini	205732
+1841		Vesijohtovettä		205795
+1842		Olut	Olvi	205921
+1843		Olut	Karhu	205962
+1844		Olut	Koff	206003
+1845		Maitosuklaa	Panda	206060
+1846		Maitosuklaa	Marabou	206109
+1847		Keittokinkku	Pirkka	206173
+1848		Keittokinkku	Pouttu	206232
+1849		Makaronilaatikko	Kokkikartano	206292
+1850		Apple	God Morgon	206356
+1851		Parsakaali	Apetit	206401
+1852		Parsakaali	Rainbow	206441
+1853		Vaniljajäätelöä		206483
+1854		Meetwursti	Rainbow	206610
+1855		Voileipäkinkku	Kartanon	206662
+1856		Voileipäkinkku	Rainbow	206721
+1857		Ketsuppi	Euro Shopper	206765
+1858		Keitettyjä papuja		206820
+1859		Riisipiirakka	Hoviruoka	206882
+1860		Kalkkunaleike	Rainbow	206947
+1861		Täysjyvämuro	Elovena	207006
+1862		Kaakaojauhe	X-Tra	207067
+1863		Kaakaojauhe	Pirkka	207106
+1864		Päärynä	Piltti	207147
+1865		Jauhelihakeitto	Pirkka	207209
+1866		Jauhelihakeitto	Saarioinen	207269
+1867		Naudanlihakastike		207335
+1868		Lihapullat	Kivikylän Kotipalvaamo	207555
+1869		Kookosöljy	Cocovi	207621
+1870		Lasagne	Saarioinen	207660
+1871		Lasagne	Pirkka	207739
+1872		Uunissa ranskalaisia perunoita		207799
+1873		Kasvissosekeitto	Valio	208010
+1874		Maitorahka	Pirkka	208065
+1875		Pehmeä Raejuusto	Valio	208103
+1876		Grillimakkara	X-Tra	208160
+1877		Grillimakkara	Korpela	208215
+1878		Grillimakkara	Pirkka	208258
+1879		Kalapuikkoja		208310
+1880		Proteiinipatukka	Fast Sports Nutrition	208456
+1881		Proteiinipatukka	Atkins	208537
+1882		Hernekeitto	Jalostaja	208639
+1883		Hernekeitto	Rainbow	208703
+1884		Hernekeitto	Fazer Amica	208745
+1885		Wiener Nougat	Fazer	208788
+1886		Juustohampurilainen	McDonald's	208852
+1887		Juustohampurilainen	Hesburger	208943
+1888		Riisipuuro	Rainbow	209026
+1889		Riisipuuro	Saarioinen	209077
+1890		Chicken Indonesia	Findus	209155
+1891		Mätitahna	Rainbow	209217
+1892		Kasvispihvi	Pirkka	209258
+1893		Kasvispihvi	Apetit	209312
+1894		Kalakeitto	Apetit	209377
+1895		Mustikkapiimä	Valio	209443
+1896		Keltainen Tortillachipsit		209503
+1897		Aurajuusto	Valio	209663
+1898		Mämmi	Saarioinen	209737
+1899		Perunoita		209797
+1900		Kevyt tonnikalasäilykkeiden		210007
+1901		Banaanirahka	Eldorado	210152
+1902		Pinaattikeitto	Pirkka	210208
+1903		Pinaattikeitto	Eldorado	210267
+1904		Pinaattikeitto	Apetit	210308
+1905		Pinaattikeitto	Saarioinen	210373
+1906		Pinaattikeitto	Rainbow	210446
+1907		Pinaattikeitto	Freshvale	210511
+1908		Snickers	Snickers	210576
+1909		Vuohenjuustosalaatti	Rosso	210659
+1910		Kanakeitto	Rainbow	210730
+1911		Lihapiirakka	Pirkka	210796
+1912		Mustikkariisi	Rainbow	210843
+1913		Lihapiirakka	Hoviruoka	210893
+1914		Pätkis	Pätkis	210956
+1915		Juusto krakkaamoiden		211021
+1916		Kananrinta (Paistettu Pannulla)		211158
+1917		Sushi		211402
+1918		Raaka parsakaalia		211619
+1919		Basmatiriisi	Pirkka	211856
+1920		Basmatiriisi	Rainbow	211915
+1921		Jauhelihapihvi	Fazer Amica	211954
+1922		Pepperoni	Saarioinen	211993
+1923		Perunasalaatti	Rainbow	212049
+1924		Perunasalaatti	Saarioinen	212106
+1925		Rasvaton Maitorahka	Rainbow	212172
+1926		Tippaleipä	Perheleipurit	212231
+1927		Tippaleipä	Fazer	212272
+1928		Viili	Valio	212334
+1929		Tutti Frutti	Fazer	212374
+1930		Viili	Arla Ingman	212416
+1931		Jauhelihapihvi	HK	212460
+1932		Coca-Cola	Coca-Cola	212568
+1933		Broilerkiusaus	Kokkikartano	212627
+1934		Caesar-Kastike	Café Picnic	212676
+1935		Caesar-Kastike	Hesburger	212725
+1936		Jauhelihapihvi	Atria	212784
+1937		Kookosmaito	Santa Maria	212849
+1938		Kookosmaito	Pirkka	212889
+1939		Kookosmaito	Eldorado	212927
+1940		Lihakeitto	Saarioinen	212972
+1941		Lihakeitto	Jalostaja	213038
+1942		Lihakeitto	Freshvale	213100
+1943		Lihakeitto	Apetit	213162
+1944		Orange	God Morgon	213228
+1945		Paahdettua kananrintaa		213292
+1946		Guacamole		213412
+1947		Ruskea Riisi		213615
+1948		Maissi		213868
+1949		Juustokastike		214150
+1950		Paahtoleivän		214337
+1951		Babyporkkanat	Pirkka	214536
+1952		Pinaattiohukainen	Atria	214599
+1953		Pinaattiohukainen	Pirkka	214653
+1954		Sinappi	Meira	214715
+1955		Wokvihannekset	Rainbow	214753
+1956		Wokvihannekset	Pirkka	214795
+1957		Hampurilainen	McDonald's	214841
+1958		Hampurilainen	HK	214906
+1959		Italianpata	Jalostaja	214971
+1960		Kermaviili	Valio	215068
+1961		Kanawrap	Hesburger	215108
+1962		Kermaviili	Milbona	215201
+1963		Lihapullat ja Muusi	Atria	215245
+1964		Maapähkinä	Meira	215311
+1965		Maapähkinä	Mauste-Sallinen	215351
+1966		Päärynä-Vanilja Jogurtti	Rainbow	215418
+1967		Mansikkatuutti	Pingviini	215457
+1968		Maahan sianlihaa		215527
+1969		Marja leivänpaahdin leivonnaisia		215653
+1970		Kirnupiimä höpöttää		215787
+1971		Nakkikastike		215921
+1972		Nakkikeitto		216018
+1973		Maapähkinät		216215
+1974		Tuorepasta (Kypsennetty)		216354
+1975		Ratatouille		216451
+1976		Kermaa sienikeitto		216643
+1977		Keitetty porkkana		216802
+1978		Feta	Rainbow	217079
+1979		Suklaapatukka	Milky Way	217117
+1980		Savusaunakinkku	Pirkka	217186
+1981		Yrttivoipatonki	Rainbow	217234
+1982		Puuro	Cambridge	217275
+1983		Tumma Suklaa	Royal	217370
+1984		Suklaapatukka	Pirkka	217411
+1985		Suklaapatukka	Daim	217472
+1986		Kinkkukiusaus	Saarioinen	217548
+1987		Kinkkukiusaus	Rainbow	217614
+1988		Kismet Marianne	Kismet	217680
+1989		Kreikkalainen Jogurtti	Milbona	217744
+1990		Lohisalaatti	Greenz	217794
+1991		Mustikka	Piltti	217842
+1992		Pastaa Tomaattikastikkeessa	Pirkka	217903
+1993		Palvikinkku	Pouttu	217969
+1994		Jäätelö	Daim	218029
+1995		Iso Grahampaahto	Vaasan	218092
+1996		Hasselpähkinä	Pirkka	218165
+1997		Hasselpähkinä	Meira	218222
+1998		Juurespihvi	Apetit	218273
+1999		Hampurilainen (80 % laiha)		218337
+2000		Hampurilainen (75 % laiha)		218468
+2001		Paahdettua porsaan ulkofileetä		218599
+2002		Naudanliha pyöreä		218707
+2003		Vihreitä herneitä		218823
+2004		Nauris kasviksia		218948
+2005		Mantelileipä		219089
+2006		Parsa		219257
+2007		Pehmis		219603
+2008		Kesäkurpitsa		219803
+2009		Kaalikeitto		220047
+2010		Kanaliemi		220234
+2011		Grillikastike		220411
+2012		Hiiva		220630
+2013		Sianjauheliha (Paistettu)		220826
+2014		Caesar-Salaattikastike		221013
+2015		Liha- ja Kasvispizza (36 Cm)		221197
+2016		Tuorepasta		221397
+2017		Haudutettua kanaa		221578
+2018		Kanan jalka		221725
+2019		Kevyt pieni rasvaa hedelmät jogurtti		221892
+2020		Rypsi		222067
+2021		Kermavaahtoa voita		222197
+2022		Keitettyjen perunoiden		222345
+2023		Raaka pinaatti		222539
+2024		Paistettu peruna iholle		222728
+2025		Kuorittua manteleita		222924
+2026		Omena-, Rypäle-ja päärynä		223106
+2027		Maapähkinä M & Ms		223267
+2028		Kumikarkit		223464
+2029		Tölkki punaisia kidneypapuja		223822
+2030		Vihreä vahapapu		223957
+2031		Kanan reisi		224095
+2032		Paistettua kalkkunaa		224265
+2033		Octane	Star Nutrition	224406
+2034		Berliininmunkki	Fazer	224496
+2035		Aioli	Kavli	224556
+2036		Poronkäristys	Saarioinen	224593
+2037		Rasvaton Raejuusto	Euro Shopper	224683
+2038		Pyttipannu	Oolannin	224722
+2039		Pyttipannu	Rainbow	224780
+2040		Pyttipannu	Eldorado	224842
+2041		Pyttipannu	X-Tra	224886
+2042		Rasvaton Raejuusto	X-Tra	224944
+2043		Rasvaton Jogurtti	Linessa	225001
+2044		Riistakäristys	Pirkka	225068
+2045		Risottoriisi	Pirkka	225122
+2046		Risottoriisi	Risella	225180
+2047		Rasvaton Raejuusto	Arla	225248
+2048		Valkosipuliperunat	Rainbow	225286
+2049		Suvisalaatti	Saarioinen	225327
+2050		Tonnikala Öljyssä	Abba	225391
+2051		Suklaamuna	Kinder	225434
+2052		Siideri	Fizz	225479
+2053		Jääsalaatti	Järvikylä	225540
+2054		Jääsalaatti	Rainbow	225599
+2055		Fusilli	Rainbow	225664
+2056		Pyttipannu	Findus	225705
+2057		Cola	SodaStream	225767
+2058		Caesar-Salaattikastike	McDonald's	225805
+2059		Katkarapukeitto	Saarioinen	225888
+2060		Kalapuikot	Rainbow	225962
+2061		Kalapuikot	X-Tra	226025
+2062		Kevytmaito	Pirkka	226065
+2063		Kevytmaito	Rainbow	226128
+2064		Maksalaatikko	Saarioinen	226183
+2065		Maksalaatikko	Atria	226247
+2066		Maksalaatikko	Rainbow	226299
+2067		Maksalaatikko	Kokkikartano	226345
+2068		Lihapullapannu	Pirkka	226397
+2069		Pähkinäsekoitus	Pirkka	226457
+2070		Oliivi	Becel	226519
+2071		Mustaherukka	Pakkasmarja	226565
+2072		Jauhettua kalkkunaa		226625
+2073		Kana Hodari		226734
+2074		Kaksinkertainen juustohampurilainen		226870
+2075		Chili (Vihreä)		227017
+2076		Chili Con Carne Pavuilla (Purkitettu)		227192
+2077		Suklaakroissantti		227360
+2078		Suklaakuppikakku (Cupcake)		227562
+2079		Kuppikakku (Cupcake, ilman Täytettä tai Kuorrutetta, ei Suklaa)		227823
+2080		Kuppikakku (Cupcake, Täytteellä tai Kuorrutteella, ei Suklaa)		228001
+2081		Kevyt Vaniljajäätelö (ei Lisättyä Sokeria)		228215
+2082		Raejuusto (Vähärasvainen 1% Maitorasva, ei Suolaa)		228416
+2083		Kaltatut Mantelit		228557
+2084		Kuivapaahdetut Mantelit (ilman Suolaa)		228767
+2085		Mantelipähkinätahna		228950
+2086		Kookospähkinä		229077
+2087		Macadamiapähkinät		229290
+2088		Pekaanipähkinät		229474
+2089		Pinjansiemenet (Kuivatut)		229662
+2090		Spagettikastike		229839
+2091		Tomaattikastike		229994
+2092		Salsa (Valmispakkaus)		230183
+2093		Pippurikastike		230333
+2094		Ranskalainen Salaattikastike (Rasvaa Vähennetty)		230463
+2095		Italialainen Salaattikastike (Rasvaa Vähennetty)		230656
+2096		Italialainen Salaattikastike		230838
+2097		Cantaloupemeloni		231024
+2098		Pasta Carbonara		231423
+2099		Kuskus (Kypsennetty)		231618
+2100		Perunasalaatti (Lisuke)		231893
+2101		Leivitetty Kanapihvi tai -Filee		232058
+2102		Paistettu Kalapihvi tai -Filee (Leivitetty)		232362
+2103		Mozzarellajuusto (Täysmaito)		232626
+2104		Emmentaljuusto (Vähärasvainen)		232786
+2105		Naudan Kulmapaisti (Pihvi, Vähärasvainen Osa, Jätetty 0 Cm Rasvaa)		233046
+2106		Naudan Ulkofilee (Vähärasvainen Osa, Jätetty 0.3 Cm Rasvaa)		233184
+2107		Naudan Ulkofilee (Vähärasvainen Osa, Jätetty 0.3 Cm Rasvaa, Korkea Laatu)		233291
+2108		Naudan Kuve (Vähärasvainen Osa, Jätetty 0 Cm Rasvaa)		233398
+2109		Kuohukermatäyte (Vähärasvainen, Pakastettu)		233540
+2110		Majoneesi (Dieetti tai Kaloreita Vähennetty, Kolesteroliton)		233691
+2111		Tuorejuusto (Rasvaton)		233872
+2112		Ranskalainen Salaattikastike (Rasvaton)		233979
+2113		Italialainen Salaattikastike (Rasvaton)		234177
+2114		Hampurilainen (Mausteilla)		234363
+2115		Kasvishampurilainen tai -Pihvi (ei Lihaa)		234550
+2116		Soijahampurilainen (ei Lihaa)		234744
+2117		Hasselpähkinälevite (Suklaa)		234979
+2118		Naudanjauheliha (Hampurilainen, noin 23 % Rasvaa, Pakastepihvit)		235161
+2119		Iso Hampurilainen (Mausteilla ja Kasviksilla)		235282
+2120		Iso Hampurilainen		235446
+2121		Graham-Keksit (Tavalliset tai Hunaja, sis. Kanelia)		235609
+2122		Hiivasämpylä Taikinajuurella		235892
+2123		Jäätelötötterö		236127
+2124		Suklaajäätelöpatukka		236369
+2125		Suklaajäätelötötterö		236565
+2126		Suklaapehmikset		236767
+2127		Leivitetty Naudanjauheliha tai Pihvi		236970
+2128		Naudanjauheliha (25% Rasvaa)		237371
+2129		Punakaali		237567
+2130		Kiinankaali		237915
+2131		Kaalikääryleet		238179
+2132		Kiinankaali (Bok-Choy, Pak-Choi)		238369
+2133		Hapankaali (Säilötty, Koko Sisältö)		238607
+2134		Kypsennetty Lohi		238789
+2135		Paistettu Kalafilee		239131
+2136		Kaali (Vihreä, Kypsennetty)		239395
+2137		Kaali (Vihreä)		239784
+2138		Kaakao (Täysmaidolla)		240131
+2139		Juustopiiras (ei Lihaa)		240296
+2140		Juustokakku (Valmisruoka)		240685
+2141		Burrito Pavuilla ja Juustolla		240880
+2142		Makaroni Juustolla (Purkitettu)		241040
+2143		Tomaattikastike (Purkki)		241200
+2144		Currykastike (Kuiva)		241391
+2145		Juustohampurilainen Pekonilla ja Mausteilla		241544
+2146		Margariini-voisekoitus (60% Maissiöljyä & 40% Voita)		241708
+2147		Väkevät Alkoholijuomat (40% - Gin, Rommi, Vodka, Viski)		241927
+2148		Naudan Etuselkä (Yläosa, Jätetty 0.5 Cm Rasvaa)		242073
+2149		Naudanjauheliha (5% Rasvaa)		242231
+2150		Naudanjauheliha (5% Rasvaa, Paistettu Pihvi)		242371
+2151		Naudanjauheliha (15% Rasvaa, Paistettu Pihvi)		242598
+2152		Kaakaojauhe (Makeuttamaton)		242826
+2153		Silakkapihvi		243009
+2154		Paistettu Kampela		243153
+2155		Uunipaistettu Kampela		243547
+2156		Paistettu Kampela (Paistinpannulla)		243941
+2157		Kalkkunanrinta (Paahdettu)		244340
+2158		Kalkkunanrinta ja -Nahka		244572
+2159		Kalkkunanrinta ja -Nahka (Paahdettu)		244817
+2160		Kananrinta (Paahdettu)		245057
+2161		Kanan Reisikoipi (Paahdettu)		245378
+2162		Kanansiivet ja -Nahka (Paahdettu)		245697
+2163		Kana-Vihanneskeitto (Valmiste, sis. saman verran Vettä)		246001
+2164		Kana (Leivitetty ja Paistettu)		246223
+2165		Kananmakuinen Nuudelikeitto (Kuivamuona)		246405
+2166		Kana-Nuudelikeitto		246596
+2167		Kananrinta		246792
+2168		Kananmunanoodelit (Kypsennetty)		247167
+2169		Riisinuudelit (Kuiva)		247366
+2170		Riisinuudelit (Kypsennetty)		247473
+2171		Kananmunanuudelit (Kuiva)		247660
+2172		Paistettu Munanvalkuainen		247857
+2173		Kananmuna (Kokonainen)		248069
+2174		Pehmeäksi Keitetty Kananmuna		248366
+2175		Paellaa Meren Antimilla		248653
+2176		Paella		248838
+2177		Kanaa tai Kalkkunaa ja Vihanneksia Soijakastikkeessa (Mukaan Lukien Porkkanaa ja Parsakaalia, ei Perunoita)		249033
+2178		Kauralesemuffinit		249185
+2179		Aamupalapatukat (Kauraa, Sokeria, Rusinoita, Kookosta, myös Myslipatukat)		249429
+2180		Katkarapu ja Paistettu Riisi		249592
+2181		Paistetut Katkaravut (myös Leivitetyt)		249795
+2182		Höyrytetyt tai Keitetyt Katkaravut		250149
+2183		Uunipaistetut Katkaravut		250540
+2184		Kypsennetyt Sekavihannekset (Maissi, Limanpavut, Herneet, Vihreät Pavut ja Porkkanat)		250912
+2185		Oliiviöljy (Ekstraneitsyt)		251108
+2186		Seesamöljy		251289
+2187		Paksu Kasviskeitto (Purkki)		251453
+2188		Kiinalainen Parsakaali (Kypsennetty)		251650
+2189		Kananrinta ja -Nahka		251846
+2190		Kananrinta (Uunipaistettu, Rasvaton, Viipaloitu)		252134
+2191		Kanan Reisikoipi (Nahkaa ei Syöty)		252273
+2192		Paahdettu tai Uunipaistettu Kanan Reisikoipi		252644
+2193		Paahdettu tai Uunipaistettu Kanan Reisikoipi (Nahka Syöty)		253019
+2194		Paistettu Kanan Reisikoipi Nahkoineen (myös Leivitys, Nahka/Leivitys Syöty)		253395
+2195		Karkkirakeet		253791
+2196		Suklaarusinat		253923
+2197		Suklaakeksi (Kotiresepti tai Kaupan)		254163
+2198		Pastakastike Lihalla ja Vihanneksilla (Kotitekoinen)		254475
+2199		Pastakastike Vihanneksilla (Kotitekoinen)		254675
+2200		Pastakastike (ei Lihaa)		254870
+2201		Kuivatut Karpalot (Makeutettu)		255025
+2202		Karpalo-Omenamehu (Pullotettu)		255159
+2203		Karpalomehu-Cocktail (Pullotettu)		255350
+2204		Kuivatut Karpalot		255546
+2205		Voi- tai Sokerikeksi		255755
+2206		Sienikeitto		256032
+2207		Tomaattikeitto (Valmistettu Veteen)		256219
+2208		Voileipäkeksit (Vanilja, Kermatäyte)		256416
+2209		Sinappi (Keltainen)		256647
+2210		Keltainen Sokerimaissi		256812
+2211		Keltainen Sokerimaissi (Säilyke, Koko Ydin, Nesteet Valutettu)		257112
+2212		Paprika (Keltainen)		257309
+2213		Maissi (Keltainen)		257523
+2214		Kermainen Suklaakuorrute		257674
+2215		Kermainen Vaniljakuorrute		257849
+2216		Vaalea Leipä (Vähennetyt Kalorit)		257984
+2217		Kaurapuuro (Pika, Kuivana, Lisäravinteilla)		258148
+2218		Karhunvatukat (Makeuttamaton, Pakaste)		258281
+2219		Parsa (Valmistamaton, Pakaste)		258490
+2220		Parsakaali (Pakaste)		258701
+2221		Ruusukaali (Pakaste)		258829
+2222		Ranskalaiset Perunat (Uppopaistettu, Pakaste)		258955
+2223		Keltainen Sokerimaissi (Kokonainen, Pakaste)		259162
+2224		Oliivit (Pienet ja Suuret)		259386
+2225		Vihreät Oliivit (Liemessä, Säilötty)		259561
+2226		Pinaatti (Säilyke, Nesteet Valutettu Pois)		259656
+2227		Jamssi (ilman Suolaa, Nesteet Poistettu, Keitetty, Paistettu)		259852
+2228		Keltainen Sokerimaissi (Kokonainen, Pakastettu, Keitetty Suolan kanssa, Nesteet Poistettu)		260060
+2229		Perunat (Suolaa lisätty, Keitetty)		260294
+2230		Kesäkurpitsa (Suolan kanssa, Nesteet Poistettu, Kypsennetty, Keitetty)		260541
+2231		Jamssi (Keitetty Suolan kanssa, Nesteet Poistettu)		260773
+2232		Tarhapavut (Keitetty ilman Suolaa)		260982
+2233		Porkkanat (Säilötty, Koko Sisältö)		261131
+2234		Pakasteherneet- ja Porkkanat		261371
+2235		Soijapavut (Kypsät, Keitetty ilman Suolaa)		261535
+2236		Mustat Pavut (Keitetty Suolan kanssa)		261723
+2237		Tarhapavut (Punaiset, Keitetty Suolan kanssa)		261891
+2238		Soijapavut (Kypsät Siemenet, Keitetty Suolan kanssa)		262062
+2239		Vihanneskeitto (Valmistettu Veteen)		262234
+2240		Kermainen Tomaattikeitto (Valmistettu Maitoon)		262420
+2241		Perunakeitto		262624
+2242		Tangeriinit (Säilyke)		262823
+2243		Mangot		263011
+2244		Tangeriinit		263189
+2245		Mangonektari		263511
+2246		Mansikkatäytteet		263721
+2247		Mansikkajäätelöt		263924
+2248		Kuivapaahdetut Mantelit (Suolaa lisätty)		264101
+2249		Hunajapaahdetut Mantelit		264286
+2250		Karhunvatukat		264439
+2251		Englantilainen Muffini		264571
+2252		Hedelmä- tai Pähkinämuffinsi		264797
+2253		Paahdettu Englantilainen Muffini		265052
+2254		Munanvalkuainen		265224
+2255		Sokeroidut Pekaanipähkinät (Sokeri- ja Munanvalkuaiskuorrute)		265391
+2256		Munakoiso Juuston ja Tomaattikastikkeen kanssa		265627
+2257		Munakoiso		265828
+2258		Naudan Rinta (Litteä Puoli, Jätetty 0.3 Cm Rasvaa, Paistettu)		266056
+2259		Naudanjauheliha (Pakastepihvit, Paistettu)		266193
+2260		Suolattu Naudanrinta (Kovettunut, Paistettu)		266404
+2261		Mikropopcorn (Vähärasvainen ja Suolainen)		266639
+2262		Tomaatti- ja Vihannesmehu (Vähäsuolainen)		266741
+2263		Kalkkunanliha (Paahdettu)		266922
+2264		Nakkisämpylä (Ketsupilla ja/tai Sinapilla)		267179
+2265		Paistettu Munankeltuainen		267401
+2266		Naudanlihapihvi		267635
+2267		Naudanlihakastike (Säilyke)		267969
+2268		Täysjyvävehnänuudelit		268174
+2269		Burgundinpata		268417
+2270		Nauriit		268571
+2271		Makaronia tai Nuudeleita Juustolla (Kuivasekoitus)		268805
+2272		Naudan Kuivaliha		269046
+2273		Naudanjauheliha (20% Rasvaa)		269177
+2274		Naudanjauheliha (20% Rasvaa, Paistettu Pihvi)		269319
+2275		Pitkät Riisinuudelit		269513
+2276		Oliivit (Vihreä)		269720
+2277		Oliivit		270107
+2278		Oliivit (Vihreä, Täytetty)		270435
+2279		Omenat (Golden Delicious)		270712
+2280		Omenat (Gala)		271107
+2281		Omenat (Red Delicious)		271510
+2282		Omena (Granny Smith)		271905
+2283		Omenamunkki		272309
+2284		Omenasiideri		272423
+2285		Omenat (Braeburn)		272589
+2286		Omenasose (Makeuttamaton)		272992
+2287		Eurooppalaiset Viinirypäleet (Punaiset ja Vihreät)		273322
+2288		Persikat (Säilötty Vedessä, Koko Sisältö)		273646
+2289		Päärynät		273836
+2290		Aasialaiset Päärynät		274154
+2291		Päärynä (Kypsennetty tai Säilötty)		274425
+2292		Kuivapaahdetut Pähkinäsekoitukset		274655
+2293		Hunajapaahdetut Cashewpähkinät		274810
+2294		Kuivapaahdetut Pistaasipähkinät (ilman Suolaa)		275045
+2295		Paahdetut Pähkinäsekoitukset		275237
+2296		Omenasose (sis. Sokeria)		275427
+2297		Tattarirouhe (Paahdettu)		275756
+2298		Paahdettu Täysjyvävehnäleipä		275903
+2299		Pekoni (Valmistettu Mikroaaltouunissa)		276290
+2300		Savustettu tai Suolattu Pekoni		276510
+2301		Papukeitto		276879
+2302		Saksalaistyylinen Perunasalaatti		277077
+2303		Persikat		277254
+2304		Perunat (ilman Suolaa, Keitetty)		277635
+2305		Perunat (ilman Kuoria ja Suolaa, Keitetty)		277882
+2306		Uuniperuna (ilman Kuoria)		278235
+2307		Pehmeä Tofu		278633
+2308		Täysjyvävehnäspagetti		278810
+2309		Pastaa Tomaattikastikkeella (ei Lihaa)		279028
+2310		Parsakaalivuoka (Parsakaali, Riisi, Juusto, Sienikastike)		279219
+2311		Penne		279416
+2312		Parsa (Tuore, Kypsennetty)		279633
+2313		Parsa (Nesteet Valutettu, Säilyke)		279993
+2314		Parsakaali (Kypsennetty ilman Rasvaa)		280213
+2315		Parsakaali (Kypsennetty)		280450
+2316		Parsakaali (Tuore, Kypsennetty ilman Rasvaa)		280760
+2317		Parsakaali (Pakaste, Kypsennetty ilman Rasvaa)		281089
+2318		Paprika (Vihreä)		281430
+2319		Jalopeno (Säilyke, myös Neste)		281776
+2320		Munakas tai Munakokkeli Sipulin, Paprikan, Tomaatin ja Sienien kanssa		281990
+2321		Pippuri (Punainen tai Cayenne)		282291
+2322		Siirappi		282480
+2323		Kirsikkapaprika (Säilyke)		282691
+2324		Perunat (Kuorineen, ilman Suolaa, Valmistettu Mikroaaltouunissa)		282947
+2325		Peruna (Kuorineen)		283166
+2326		Naudan Fileepihvi (Vähärasvainen Osa, Jätetty 0 Cm Rasvaa, Paistettu)		283479
+2327		Kanavoileipä Levitteellä		283643
+2328		Tortillasipsit (Vähärasvaiset, Paistetut)		283820
+2329		Lihapyörykät (Naudanliha)		283921
+2330		Lihapyörykät (Nauta tai Sianliha)		284275
+2331		Lihapyöryköitä Kastikkeella		284611
+2332		Lihapyörykät (Sianliha)		284842
+2333		Naudanjauheliha (Vähärasvainen)		285100
+2334		Naudanjauheliha (Erittäin Vähärasvainen)		285443
+2335		Lihamureke (Naudanliha)		285805
+2336		Lihamureke (Kana tai Kalkkuna)		286158
+2337		Lihamureke		286509
+2338		Nautapata Perunoilla ja Vihanneksilla (Mukaan Lukien Porkkana ja Parsakaali) Tomaattikastikkeessa		286906
+2339		Piimäpannukakut		287104
+2340		Täysjyvävehnäpannukakut		287321
+2341		Mustikkapannukakut		287716
+2342		Pannukakut (Kuivapakkaus)		287922
+2343		Kevytmaito (2% Rasvaa, lisätty A-Vitamiinia ja Proteiinia)		288150
+2344		Kanankoivet ja -Nahka		288347
+2345		Kanansiivet ja -Nahka		288599
+2346		Kananliha ja -Nahka (Paahdettu)		288874
+2347		Viiriäisenliha ja -Nahka		289106
+2348		Hirviriistaeläinten Liha		289357
+2349		Virvoitusjuoma (Vähäkalorinen)		289464
+2350		Lohikeitto		289595
+2351		Lohikiusaus		289791
+2352		Suolakeksit Maapähkinävoitäytteellä		289979
+2353		Maapähkinät (Kuoria ei Syöty)		290249
+2354		Keitetyt Maapähkinät		290599
+2355		Kuivapaahdetut ja Suolatut Maapähkinät		290940
+2356		Hunajapaahdetut Maapähkinät		291119
+2357		Maapähkinävoi (Rasvaa Vähennetty)		291274
+2358		Kuivapaahdetut Pähkinäsekoitukset (myös Maapähkinä, Suolaa lisätty)		291461
+2359		Kokonaiset Seesaminsiemenet (Kuivattu)		291598
+2360		Kuivattu Kookospähkinä		291791
+2361		Kananmaksapasteija (Säilyke)		291895
+2362		Hanhenmaksapasteija (Pate De Foie Gras, Savustettu, Säilyke)		292058
+2363		Kalanmaksaöljy (Turska)		292213
+2364		Pehmeä Salami		292370
+2365		Chorizot		292634
+2366		Sian- ja Naudanlihamakkarat		293006
+2367		Makaronia tai Nuudeleita Juustolla		293351
+2368		Makaroni- tai Pastasalaatti Kanalla		293529
+2369		Kermainen Makaroni Juustolla		293681
+2370		Kuivapaahdetut Maapähkinät (Suolaa lisätty)		293826
+2371		Kuivapaahdetut Maapähkinät (ilman Suolaa)		293950
+2372		Maapähkinävoikeksit		294090
+2373		Voileipäkeksit (Maapähkinävoitäytteellä)		294256
+2374		Paahdetut Pähkinäsekoitukset (sis. Maapähkinöitä)		294441
+2375		Kaakao (Sokerin ja Rasvattoman Maidon kanssa)		294676
+2376		Jääkahvi (Maidon ja Sokerin kanssa)		294848
+2377		Maissintähkä (Voin kanssa)		295114
+2378		Tortillasipsit (Valkoinen Maissi)		295276
+2379		Maissitortillat		295391
+2380		Corn Flakes		295573
+2381		Vilja		295727
+2382		Majoneesi (Kolesteroliton)		295921
+2383		Raejuusto Hedelmillä		296101
+2384		Raejuusto (Vähärasvainen 1% Maitorasva)		296311
+2385		Kevytmaito (2% Rasvaa, lisätty A-Vitamiinia)		296469
+2386		Suklaamaito (2% Rasvaa)		296652
+2387		Naudan Ulkofilee (Jätetty 0.3 Rasvaa, Keskilaatu)		296870
+2388		Naudan Ulkofilee (Jätetty 0.3 Cm Rasvaa, Korkea Laatu)		297004
+2389		Naudan Ulkofilee (Jätetty 0.3 Cm Rasvaa)		297128
+2390		Hapankerma (Kevyt)		297265
+2391		Keltainen Kesäkurpitsa		297425
+2392		Tomaattikeitto (Valmiste, Kondensoitu)		297707
+2393		Vaniljajäätelö (Kevyt)		297899
+2394		Vaniljapehmikset (Kevyt)		298077
+2395		Kermankorvike (Kevyt Jauhe)		298273
+2396		Kermankorvike (Kevyt Neste)		298463
+2397		Ranskalainen Paahtoleipä (Pakastettu)		298622
+2398		Vihanneskeitto (Vähäsuolainen, sis. Vesi)		298791
+2399		Tonnikalaa Vedessä (Säilyke, Vesi Valutettu)		298969
+2400		Sipulirenkaat (Leivitetty ja Paistettu)		299195
+2401		Sekavihannekset (Säilyke, Koko Sisältö)		299378
+2402		Vehnäleipä (Vähennetyt Kalorit)		299563
+2403		Vehnäkeksit		299741
+2404		Englantilaiset Muffinit		299996
+2405		Kirjolohi (Kasvatettu)		300176
+2406		Sundae (Kuuma Kinuskikastike)		300318
+2407		Leivinjauhe (Natrium Alumiini Sulfaatti)		300491
+2408		Latte-kahvi (Rasvaa Vähennetty)		300605
+2409		Latte-kahvi (Rasvaton)		300868
+2410		Kovat Sämpylät		301131
+2411		Maustekurkut (Vähäsuolaiset)		301391
+2412		Lasagne Kanalla tai Kalkkunalla		301560
+2413		Lasagne Vihanneksilla (ei Lihaa)		301883
+2414		Lasagne Lihalla ja Pinaatilla		302272
+2415		Uunipaistettu Taimen		302660
+2416		Tuorekurkku (Kuorittu)		302993
+2417		Kukkakaali (Tuore, Kypsennetty)		303333
+2418		Kukkakaali (Pakaste, Kypsennetty ilman Rasvaa)		303678
+2419		Kukkakaali (Kypsennetty ilman Rasvaa)		303870
+2420		Pakastekukkakaali		304063
+2421		Kukkakaali (Tuore, Kypsennetty ilman Rasvaa)		304250
+2422		Salami (Kuiva tai Kova)		304598
+2423		Ranskalainen Paahtoleipä Voin kanssa		304809
+2424		Ranskalaiset Leipätikut		304969
+2425		Root Beer		305149
+2426		Bataatti (Kuoreton, Keitetty)		305358
+2427		Bataatti (Muussattu, Säilyke)		305537
+2428		Bataatti (ilman Suolaa, Keitetty Kuorineen)		305767
+2429		Mandariini (Säilyke tai Pakaste)		305998
+2430		Avokadopasta		306196
+2431		Lehtisalaatti Avokadolla, Tomaatilla ja/tai Porkkanoilla		306347
+2432		Avokadot		306534
+2433		Kevytmaito (2%)		306783
+2434		Uppomuna		307174
+2435		Paistettu Kananmuna ilman Rasvaa		307420
+2436		Hedelmäsmoothie (sis. Hedelmämehua ja Maitotuotteita)		307742
+2437		Maitosuklaakuorrutteiset Rusinat		307980
+2438		Ananas (Säilötty Vedessä, Koko Sisältö)		308116
+2439		Maissileipä (jossa Vähärasvaista 2% Maitoa)		308392
+2440		Ranskalainen Paahtoleipä (jossa Vähärasvaista 2% Maitoa)		308550
+2441		Kalkkunanjauheliha (Paistettu)		308708
+2442		Savustettu Hunajakinkku (Paistettu)		308964
+2443		Riisi (Ruskea, Pitkäjyväinen, Kypsennetty)		309060
+2444		Riisi (Ruskea, Kypsennetty)		309252
+2445		Riisi (Valkoinen, Pitkäjyväinen, Kypsennetty)		309435
+2446		Riisi (Valkoinen, Kypsennetty)		309635
+2447		Riisi (Valkoinen, Lyhytjyväinen, Kypsennetty)		309815
+2448		Valkoinen Riisi (Pitkäjyväinen)		309983
+2449		Maito (1% Vähärasvainen, lisätty A-Vitamiinia)		310131
+2450		Maito (1% Vähärasvainen, lisätty A-Vitamiinia ja Proteiinia)		310362
+2451		Rasvaton Maito (lisätty A-Vitamiinia)		310548
+2452		Rasvaton Maito (lisätty A-Vitamiinia ja Proteiinia)		310731
+2453		Keltainen Sokerimaissi (Kokonaiset, ilman Suolaa, Pakastettu, Nesteet Poistettu, Paistettu, Keitetty)		310919
+2454		Perunat (Kuorineen, Paistettu)		311153
+2455		Soseperuna (Kuorineen, Paistettu)		311488
+2456		Munkki (Vaniljakastiketäyte)		311822
+2457		Taco		312025
+2458		Tavallinen Jogurtti (Vähärasvainen)		312166
+2459		Tavallinen Jogurtti (Täysmaito)		312367
+2460		Vaniljan-, Sitruunan- tai Kahvinmakuinen Jogurtti (Rasvaton)		312584
+2461		Pepperonipizza (36 Cm, Paksu Pohja)		312786
+2462		Caesar-Salaattikastike (Vähäkalorinen)		312987
+2463		Naudanjauheliha (10% Rasvaa, Paistettu Pihvi)		313156
+2464		Naudanjauheliha (15% Rasvaa)		313377
+2465		Guacamole Tomaateilla		313518
+2466		Guacamole Tomaateilla ja Chilillä		313711
+2467		Perunalastut (Sour Cream And Onion)		313901
+2468		Lampaankyljys		314019
+2469		Lampaankyljys (Liha ja Rasva Syöty)		314397
+2470		Lampaanpaisti		314775
+2471		Piparjuurisinappi		315119
+2472		Fariinisokeri		315334
+2473		Kidesokeri		315575
+2474		Tomusokeri		315756
+2475		Valkoinen Raesokeri ja Sokeripalat		315969
+2476		Hyytelö (Sokeria Vähennetty)		316209
+2477		Mehujää (Sokeriton)		316404
+2478		Marenkipiiras (Sitruuna)		316530
+2479		Suklaasoijamaito		316712
+2480		Spagetti Lihapullilla ja Tomattikastikkeella		316879
+2481		Suklaasokerikakku		317096
+2482		Suklaakeksitaikina		317439
+2483		Suklaakeksit (Margariinilla)		317581
+2484		Suklaakeksit (Rasvaa Vähennetty)		317809
+2485		Voileipäkeksit (Suklaa, Kermatäyte)		317966
+2486		Suklaakeksit (Voilla)		318141
+2487		Suklaamakeiset (Keskimakeat)		318328
+2488		Spagetti Tomaattikastikkeella ja Vihanneksilla		318576
+2489		Sushi Vihanneksilla Käärittynä Merilevään		318766
+2490		Sushi Vihanneksilla		318981
+2491		Suklaajäätelöt (Runsaasti Suklaata)		319194
+2492		Suolakurkut		319403
+2493		Suolakurkkuhöyste		319658
+2494		Maustekurkkuhöyste		319821
+2495		Sushi Vihanneksilla ja Meren Antimilla		320014
+2496		Täytekakku (ilman Kuorrutusta)		320226
+2497		Jäätee (Makeuttamaton)		320490
+2498		Ravioli Tomaattikastikkeella		320715
+2499		Spagetti Tomaattikastikkeella (ei Lihaa)		320887
+2500		Tomaatti (Punaiset, Säilyke)		321078
+2501		Jääjogurtti (Suklaa)		321368
+2502		Tonnikalalaatikkoa Vihanneksilla ja Sienikeitolla		321651
+2503		Tonnikalasalaattivoileipä		321852
+2504		Makaroni- tai Pastasalaatti Tonnikalan kanssa		322052
+2505		Uunipaistettu Tonnikala		322251
+2506		Tonnikalasalaatti Juuston kanssa		322584
+2507		Fajita Naudanlihalla ja Kasviksilla		322784
+2508		Täysjyvävehnätortilla		323000
+2509		Fajita Kanalla ja Kasviksilla		323379
+2510		Burrito Naudanlihalla ja Juustolla		323610
+2511		Eurooppalaiset Viinirypäleet		323829
+2512		Vuohenjuusto (Pehmeähkö)		324171
+2513		Vehnäleseet		324288
+2514		Sokeroidut Donitsit		324412
+2515		Soijapavut (Kypsät Siemenet, Höyrytetty, Kypsennetty)		324612
+2516		Bulgur (Kypsennetty)		324805
+2517		Suklaamaito (Rasvaa Vähennetty)		324968
+2518		Valkoinen Riisi ja Villiriisi		325181
+2519		Vihanneskeitto (Valmiste, sis. saman verran Vettä)		325450
+2520		Pavut (Vihreät)		325650
+2521		Pavut (Vihreät, Kypsennetyt)		325846
+2522		Pavut (Vähäsuolaiset, Säilyke)		326094
+2523		Kypsennetyt Vihreät Pavut Sienikastikkeella		326290
+2524		Kuivattu Viikuna		326495
+2525		Viikunat		326711
+2526		Burrito Naudanlihalla		326938
+2527		Tonnikalasalaatti Kananmunalla		327178
+2528		Burrito Naudanlihalla, Pavuilla ja Juustolla		327372
+2529		Uuniperunat Juuston kanssa (Kuoret Syöty)		327593
+2530		Pakastevadelmat (Makeuttamattomat)		327839
+2531		Täysjyvävehnäpasta (Kuiva)		327980
+2532		Täysjyvävehnäspagetti (Kypsennetty)		328094
+2533		Spagetti (Kuiva)		328291
+2534		Porkkanat		328413
+2535		Keitetyt Porkkanat		328780
+2536		Pakasteporkkanat		329169
+2537		Ruskea Riisi (Pika)		329349
+2538		Ruskea Riisi ja Villiriisi		329518
+2539		Maustettu Riisi (Ruskea ja Villi)		329792
+2540		Rommikola		329990
+2541		Rommi (45%)		330214
+2542		Lehtisalaatti Valikoiduilla Kasviksilla (myös Tomaatit ja/tai Porkkanat)		330360
+2543		Hedelmärinkeli (ei Rusinoita)		330571
+2544		Paahdettu Rinkeli		330807
+2545		Rinkeli (100% Täysjyvävehnä)		331037
+2546		Rinkeli (Täysjyvävehnä)		331267
+2547		Sienet (Säilyke, Nesteet Valutettu Pois)		331484
+2548		Sienet (Portabella)		331707
+2549		Sienet (Crimini Italian)		331939
+2550		Osterivinokas		332083
+2551		Pitaleipä (Valkoinen)		332290
+2552		Valkoinen Vehnäjauho (Kaikkiin Tarkoituksiin)		332442
+2553		Paistettu Riisi ilman Lihaa		332587
+2554		Itämainen Kanasalaatti (Kana, Lehtisalaatti, Hedelmät, Pähkinät)		332787
+2555		Ranch-Salaattikastike (Rasvaton)		332987
+2556		Ranch-Salaattikastike		333096
+2557		Ranch-Salaattikastike (Rasvaa Vähennetty)		333246
+2558		Linssit		333428
+2559		Linssit (Kypsennetty)		333578
+2560		Linssikeitto		333847
+2561		Linguine		334040
+2562		Samppanja		334256
+2563		Salsa (Punainen)		334457
+2564		Sardiinit Öljyssä (Säilyke)		334657
+2565		Sardiinit Vedessä (Säilyke)		334901
+2566		Sardiinit Tomaattikastikkeella		335132
+2567		Rucola-salaatti		335452
+2568		Sipulit		335587
+2569		Sipuli (Kuullotettu tai Ruskistettu Rasvan kanssa)		335935
+2570		Sipulit (Vihreät, Uudet)		336270
+2571		Italialainen Salaattikastike (Etikka ja Öljy)		336529
+2572		Leivitetyt Sipulirenkaat		336753
+2573		Juustopizza (Paksu Pohja)		337149
+2574		Ranskalainen Salaattikastike (Vähennetyt Kalorit)		337546
+2575		Purukumi (Sokeroitu)		337686
+2576		Pilkotut Ruskeat Perunat		337913
+2577		Perunat (Kuoret, Suolaa lisätty, Keitetty)		338075
+2578		Punajuuret (Tuoreet, Kypsennetty)		338261
+2579		Punajuuret (Säilyke, Nesteet Valutettu)		338625
+2580		Punajuuri (Purkitettu, myös Neste)		338946
+2581		Viini (Syrah)		339145
+2582		Viini (Cabernet Sauvignon)		339274
+2583		Viini (Pinot Gris, Grigio)		339395
+2584		Viini (Chianti)		339524
+2585		Viini (Merlot)		339769
+2586		Viini (Pinot Noir)		339932
+2587		Viini (Zinfandel)		340061
+2588		Viini (Muscat)		340189
+2589		Proteiini-Ateriankorvikejauhe		340317
+2590		Kuorrutettu Kanelipulla		340545
+2591		Vihanneskeitto (Purkki, Kondensoitu)		340811
+2592		Pikakahvi (Cappuccino, Sokerin kanssa)		341008
+2593		Pikakaurapuuro (1 tai 3 Min)		341220
+2594		Nautapata Perunoilla ja Kasviksilla Tomaattikastikkeessa		341494
+2595		Uppopaistetut Ranskalaiset Perunat (Pakasteesta)		341677
+2596		Leivitetyt Ranskalaiset Perunat		342068
+2597		Paistetut Perunankuoret		342455
+2598		Perunamuusi (Valmistettu Voista ja Täysmaidosta)		342849
+2599		Perunamuusi (Täysmaito ja Margariini lisätty)		343048
+2600		Perunamuusi (Täysmaidosta)		343247
+2601		Vaniljasokeri		343448
+2602		Vaniljajäätelö (Runsaasti Vaniljaa)		343595
+2603		Juustopizza Kasviksilla		343773
+2604		Vihannessekamehu (ei Tomaattimehu)		344170
+2605		Lehtisalaatti Juuston, Tomaatin ja/tai Porkkanoiden kanssa		344383
+2606		Lehtisalaatti Kananmunalla, Tomaatilla ja/tai Porkkanoilla		344584
+2607		Lehtisalaatti Kananmunalla, Juustolla, Tomaatilla ja/tai Porkkanoilla		344786
+2608		Korppujauhot (Maustettu)		345036
+2609		Perunalastut (Barbecue-maustettu)		345217
+2610		Colby-juusto		345328
+2611		Märkä mozzarellajuustoa		345539
+2612		Puolet ja puolet		345749
+2613		Kerma korvata jauhe		345915
+2614		Koko kaakaota		346073
+2615		Simpukkamuhennos		346239
+2616		Naudanlihan varastossa		346404
+2617		Lihaliemessä		346561
+2618		Paahdettu kananlihaa		346711
+2619		Teollisuuden soijaa		346858
+2620		Teollisuuden soija ja puuvillansiemenöljyä		346989
+2621		Leivitetty kanan palasia		347120
+2622		Levitä kasviöljy		347274
+2623		Voita ilman suolaa		347419
+2624		Varustelemattomien rasvaton maito		347566
+2625		Maapähkinä öljyä		347725
+2626		Soijaöljy		347851
+2627		Ranskalainen kastike		347983
+2628		Vähän rasvaa kasviöljy levittää		348131
+2629		Maissiöljy		348273
+2630		Blue-juusto kastiketta		348404
+2631		Kerma varajäsen		348557
+2632		Suolaa		348712
+2633		Munia hirviö		348841
+2634		Vatkataan munia		349061
+2635		Suklaa kevytmaitoa		349280
+2636		Valkoinen pelimerkit		349440
+2637		Suolarinkilä		349594
+2638		Valkoinen Tortillachipsit		349751
+2639		M & Ms		349909
+2640		Pelimerkkejä		350108
+2641		Vähentää rasvan pelimerkkejä		350273
+2642		Kaneli rusina sämpylät		350431
+2643		Punaisia Tarhapavut		350616
+2644		Kofeiiniton kahvi		350765
+2645		Soijakastike		350905
+2646		Pullotettu vesi		351078
+2647		Hedelmä mehu juoma e-vitamiinia		351205
+2648		Hedelmä maustettu vesi		351352
+2649		Simpukat		351485
+2650		Säilöttyjä simpukoita		351675
+2651		Paistettu bataatti		351869
+2652		Lämmin tomaatti		352022
+2653		Purkitettu tomaatti		352315
+2654		Haudutettu säilyketomaatista		352504
+2655		Tomaattimehua		352795
+2656		Purkitettu bataatti		352959
+2657		Purkitettu porkkanamehu		353110
+2658		Purkitettu tomaattikastikkeessa		353272
+2659		Purkitettu vihannes mehu		353424
+2660		Peruna iholle		353587
+2661		Roomalainen Lehtisalaatti		353780
+2662		Keitetyt sipuli		354094
+2663		Persilja		354418
+2664		Suolattu paahdetut mantelit		354581
+2665		Paahdetut mantelit		354764
+2666		Rikastettu hedelmä juomaa		354945
+2667		Sitruuna soodaa		355092
+2668		Appelsiinimehu kalsiumin ja D-vit		355228
+2669		Jäädytetty appelsiinimehua keskittyä		355391
+2670		Kinkku tuoremehuja		355557
+2671		Purkitettu keltainen maissi		355716
+2672		Jäädytetyt maissi		355872
+2673		Jäädytetty porkkana		356177
+2674		Selleri		356456
+2675		Hienonnettu parsakaali		356744
+2676		Jäädytetty parsakaali		356979
+2677		Raaka kaali		357214
+2678		Leivitetty Kanapihvi Juustolla		357561
+2679		Jäädytetty vihreä vahapapu		357724
+2680		Hajautetun ruskeat		357860
+2681		Peruna tyynyt		357997
+2682		Keitettyjä linssejä		358147
+2683		Mustia papuja		358285
+2684		Korppujauhoja		358424
+2685		Kurpitsan kakku		358559
+2686		Twix Baari		358744
+2687		Hyytelöt		358907
+2688		Leipomoille suklaa		359053
+2689		Oranssi sorbetti		359205
+2690		Hash ruskeat		359336
+2691		Vauva kaurapuuro		359477
+2692		Chilijauhetta		359611
+2693		Koipi		359751
+2694		Ricottajuustoa		359910
+2695		Mexican Chili	Uncle Ben's	360051
+2696		Kasvisrasvalevite	Benecol	360115
+2697		Peanut Butter Me Up	Ben & Jerry's	360170
+2698		Cookie Dough	Ben & Jerry's	360210
+2699		Oriental Chili	Uncle Ben's	360251
+2700		Pitkäjyväinen Riisi	Uncle Ben's	360314
+2701		Medium Curry	Uncle Ben's	360373
+2702		Green Apple Light Cider	Golden Cap	360440
+2703		Natural Protein Smoothie Cranberry Apple	Fast Sports Nutrition	360484
+2704		Somersby Apple Cider	Sinebrychoff	360526
+2705		Dry Apple	Crowmoor	360564
+2706		Dry Apple	Eldorado	360608
+2707		Protein Mansikka-Sitruunamelissa Proteiinirahka	Arla	360650
+2708		Curry Ateriakastike	Rainbow	360702
+2709		Bataatti-Juuresgratiini	Apetit	360760
+2710		Light Beer	Sinebrychoff	360827
+2711		Chicken Snack Bacon	Korpela	360885
+2712		Kevyt Balkan	Atria	360949
+2713		Mustikka-Banaanirahka	Rainbow	361012
+2714		Reilu Kaura-Pellava	Oululainen	361108
+2715		Pellavansiemenöljy	Elixi	361172
+2716		Low Fat Natural Yogurt	Eridanous	361238
+2717		Naudan Paistijauheliha	Atria	361287
+2718		Nauta-Sika Jauheliha	Atria	361331
+2719		Marjainen Muromysli	Rainbow	361375
+2720		Muromysli	Rainbow	361470
+2721		Rapea Banaanilastu	Urtekram	361533
+2722		Crispy Chocolate Bar	Nutrilett	361571
+2723		Milk Chocolate & Creamy Caramel Bar	Nutrilett	361677
+2724		100% Ruis Hapankorppu	Vaasan	361780
+2725		Laktoositon Pinaattikeitto	Apetit	361844
+2726		Täyteläinen Pinaattikeitto	Kokkikartano	361907
+2727		Multi Mansikka-Kiwi	Bonaqua	361971
+2728		Bravo Sourcream & Sweet Chili	Taffel	362030
+2729		Thai Sweet Chili Sauce	Pirkka	362088
+2730		Sweet & Sour Extra Spicy	Uncle Ben's	362129
+2731		Vegetarian Sweet Chili	Findus	362195
+2732		Sweet Chili Dipping Sauce	Blue Dragon	362257
+2733		Sweet Chili Chicken Teriyaki With Jasmine Rice	Kitchen Joy	362321
+2734		Sweet Pork Nachodas	Amarillo	362387
+2735		Ananas Light	Hartwall	362457
+2736		Dops Milkshake	Ballerina	362503
+2737		Ananaspalat	Del Monte	362576
+2738		Ananasmurska	Rainbow	362618
+2739		Ananas Light	Hartwall Jaffa	362658
+2740		Appelsiini Täysmehu	Rainbow	362710
+2741		Appelsiinimehu	Valio	362766
+2742		Appelsiini Jogurtti	Arla Ingman	362818
+2743		Appelsiini-Mangokeitto	Rainbow	362870
+2744		Extra Creamy Coconut Milk	Santa Maria	362928
+2745		Milk Chocolate Hazelnut	X-Tra	362981
+2746		Triolade	Milka	363021
+2747		Organic Coconut Milk	Santa Maria	363072
+2748		Daim-Kakku	Almondy	363109
+2749		Chocolate Almond & Seasalt	Allevo	363148
+2750		Soya Choco	Alpro	363262
+2751		Mantelijuoma	Alpro	363322
+2752		Hazelnut Drink	Alpro	363382
+2753		Luomu Soijajogurtti	Alpro	363445
+2754		Porsaan Fileepihvi Grillimarinadissa	Snellman	363502
+2755		Proteiinijuoma Prode+	Leader	363568
+2756		Pro Feel Proteiinijuoma, Kaakao	Valio	363630
+2757		Pororuukku	Saarioinen	363686
+2758		Polar Juusto 5%	Valio	363747
+2759		Kreikkalainen Pizza	Atria	363805
+2760		Kevyt Perunasalaatti	Atria	363871
+2761		Perunasoselaatikko	Saarioinen	363936
+2762		Chili-Perunasalaatti	Saarioinen	364002
+2763		Perinteinen Perunamuusi	Apetit	364067
+2764		Imelletty Perunalaatikko	Atria	364132
+2765		Wilhelm Pepperoni-Salami	Atria	364198
+2766		Porsaan Pihvifilee	Rainbow	364251
+2767		Porsaan Ohut Pihvi	Snellman	364289
+2768		Kananpojan Paneroidut Pihvit	Kariniemen	364345
+2769		Lempeä Rasvaton Piimä	Valio	364440
+2770		Rasvaton Piimä	Arla Ingman	364503
+2771		Plus Rasvaton Piimä	Valio	364553
+2772		Rasvaton Piimä	Milbona	364603
+2773		Magus Vanilli Kohupiim	Tere	364659
+2774		Rasvaton Piimä	Valio	364702
+2775		Piimälimppu	Vaasan	364740
+2776		AB Täyteläinen Piimä	Valio	364803
+2777		Ruispalat	Pullapirtti	364860
+2778		Pullava Dallaspitko	Oululainen	364972
+2779		Vaniljainen Pullamuru	Pingviini	365034
+2780		Proteiinirahka	Rainbow	365104
+2781		Banaanitoffee Proteiinipatukka	Leader	365167
+2782		Pro Feel Proteiinijuoma Mansikka	Valio	365285
+2783		Profeel Proteiinijuoma Mansikka	Valio	365353
+2784		Profeel Proteiinijuoma Kaakao	Valio	365410
+2785		Punaviinikastike	HK	365467
+2786		Rosolli	Saarioinen	365534
+2787		Omenapunajuurisalaatti	Forssan	365582
+2788		Kevyt Punajuurisalaatti	Atria	365645
+2789		Ranskalaisia Pastilleja	Pirkka	365711
+2790		Ranskanperunat	Rainbow	365772
+2791		Mikrovalmiit Ranskanperunat	Findus	365830
+2792		Mummon Ranskanperunat	Pohjolan Peruna	365887
+2793		Vanilja Jogurtti Rasvaton	Arla Ingman	365937
+2794		Real Kaura-Ruis	Fazer	365997
+2795		Proteiini Real	Fazer	366112
+2796		Proteiinipatukka Lakritsi-Salmiakki	Leader	366195
+2797		Lontoo Rae	Fazer	366300
+2798		Luomu Raejuusto Maustamaton	Arla	366342
+2799		Cuisine Sipulisekoitus	Creme Bonjour	366400
+2800		Mustikka Vadelma Light Siideri	Rainbow	366454
+2801		Perry Light Siideri	Karlens	366503
+2802		Pehmeä Täyteläinen Maitorahka	Valio	366542
+2803		Savulohi-Juusto Salaatti	Härmän SnackPoint	366593
+2804		Savulohi Wrap	Härmän SnackPoint	366630
+2805		Kermainen Savulohikiusaus	Saarioinen	366674
+2806		Chunky Salsa	Santa Maria	366739
+2807		Rasvaton Mieto Maitorahka	Pirkka	366781
+2808		Esipaistettu Sämpylä	Pirkka	366849
+2809		Ciabatta Sämpylä	Hesburger	366915
+2810		Salaattisekoitus	Rainbow	366972
+2811		Mansikkarahka	Linessa	367022
+2812		Salsadippi	Pirkka	367089
+2813		Tex Mexican Chunky Salsa Hot	Rainbow	367146
+2814		Salsa Dip Hot	Old El Paso	367188
+2815		Ruissipsi Sour Cream	Linkosuo	367252
+2816		Salsa Mediterranean	GoGreen	367317
+2817		Salsa Mexicana	GoGreen	367375
+2818		Multivitamin Tropical Nectar	Linessa	367433
+2819		Salmiakki Mix	Fazer	367501
+2820		Super Salmiakki	Fazer	367548
+2821		Salmiakki Powermix	Rainbow	367593
+2822		Salmiakkisuklaa	Marabou	367633
+2823		Xylitol Salmiakki	SIS.	367699
+2824		Salmiakkisuklaa	Fazer	367764
+2825		Salmiakkipossu	HK	367803
+2826		Original	Risifrutti	367869
+2827		Suklaamanna	Risifrutti	367907
+2828		Manna	Risifrutti	367969
+2829		Broileria ja Riisiä Currykastikkeessa	Pirkka	368011
+2830		Tumma Pikariisi	Rainbow	368084
+2831		Reissumies Eväsleipä Klassikko	Oululainen	368126
+2832		Reissumies Ruissämpylä	Oululainen	368184
+2833		Reissumies Eväsleipä Chilikana	Oululainen	368249
+2834		Vuoksen Riisipiirakka	Fazer	368312
+2835		Rukiinen Riisipiirakka	Fazer	368418
+2836		Rypsiporsas Kermapippuri Lihasuikale	HK	368495
+2837		Rypsiporsas Pippuripihvi	HK	368555
+2838		Rypsiporsas Lihasuikale	HK	368621
+2839		Voi & Rypsiöljy	Creme Bonjour	368679
+2840		Värikäs Salaatti	Rainbow	368745
+2841		Suomalainen Salaattisekoitus	Rainbow	368787
+2842		Chicken Caesar Salaatti	McDonald's	368825
+2843		Broiler-Salaattiateria	Saarioinen	368934
+2844		Tonnikala Salaattiateria	Saarioinen	369017
+2845		Röstiperunat	Rainbow	369082
+2846		Iso Vaalea Riisipiirakka	Saarioinen	369140
+2847		Pieni Vaalea Riisipiirakka	Saarioinen	369208
+2848		Nopea Riistakäristys	Pirkka	369285
+2849		Moccachino	Paulig	369327
+2850		Latte Macchiato	Nescafe	369386
+2851		Chococino	Nescafe	369495
+2852		4-Viljan Puuro	Guldsol	369610
+2853		BBQ Ristikkoperunat	Rainbow	369677
+2854		Täyteläinen Kasvissosekeitto	Kokkikartano	369715
+2855		Porkkanasosekeitto	Saarioinen	369780
+2856		Porkkanaohukainen	Atria	369851
+2857		Porkkana-Vihanneskeitto	Knorr	369904
+2858		Suomalainen Pesty Porkkana	Pirkka	369969
+2859		Maustamaton Raejuusto	Valio	370033
+2860		Itämaiset Wokvihannekset	Rainbow	370091
+2861		Itämaiset Wokvihannekset	Pirkka	370133
+2862		Teriyaki Kanasuikaleet	Subway	370173
+2863		Keso Raejuusto	Arla	370290
+2864		Maustamaton Rasvaton Rahka	X-Tra	370330
+2865		Maustamaton Rasvaton Rahka	Rainbow	370389
+2866		Maustettu Rahka Makea Mansikka	Valio	370444
+2867		Rasvaton Mansikka Rahka	X-Tra	370498
+2868		Kiinalaiset Wokvihannekset	Pirkka	370542
+2869		Kulta	Flora	370584
+2870		Grilliperunat Voi-Tilli	Atria	370647
+2871		Polypop Vadelmajelly	Dr. Oetker	370705
+2872		Vadelma-Vaniljakiisseli	Saarioinen	370765
+2873		Vadelmakeitto Sokeroimaton	Valio	370807
+2874		Ruusunmarjaa ja Vadelmaa	Piltti	370858
+2875		Original	Philadelphia	370924
+2876		Tutti Frutti Sour Island Mix	Fazer	371008
+2877		Tutti Frutti Passion	Fazer	371055
+2878		Tutti Frutti +Choco	Fazer	371103
+2879		Tex Mex Tortilla Wraps	Rainbow	371145
+2880		Tumma Suklaa 78%	Rainbow	371197
+2881		Premium Cocoa Mint	Marabou	371252
+2882		Premium 70% Cocoa	Marabou	371321
+2883		Cacao	Fazer	371384
+2884		Valkosipulituorejuusto	Pirkka	371424
+2885		Pippuriseos	Creme Bonjour	371486
+2886		Tuorejuusto Aurinkokuivattu Tomaatti	Creme Bonjour	371541
+2887		Cocoa Nibs	Fazer	371595
+2888		Taloussuklaa	Fazer	371657
+2889		Ohuet Vihreät Pavut	Rainbow	371720
+2890		Vuohenjuusto Kuutioina Suolavedessä	Pirkka	371762
+2891		Lämmin Kuppi Tomaatti Vuohenjuusto	Blå Band	371811
+2892		Weetabix Original	Weetabix	371883
+2893		Reilu Vehnälese	Oululainen	372002
+2894		Kevyt Viili	Valio	372114
+2895		Mango Viili	Valio	372154
+2896		Tonnikalaa Satay-Kastikkeessa	Pirkka	372193
+2897		Tonnikalaa Chilikastikkeessa	Pirkka	372255
+2898		Tonnikalaa Hiutaleina Vedessä	Rainbow	372314
+2899		Tonnikalaa Pikantissa Tomaattivihanneskastikkeessa	Rainbow	372357
+2900		Tonnikalaa Paloja Vedessä	Eldorado	372398
+2901		Vaaleaa Tonnikalaa Paloina Vedessä	Rainbow	372440
+2902		Tonnikalaa Paloina Vedessä	Rainbow	372503
+2903		Tonnikalasalaattiateria	Saarioinen	372541
+2904		Tortelloni Kana ja Pekoni	Rainbow	372618
+2905		Tonnikalapalat Vedessä	Pirkka	372677
+2906		Tonnikalapalat Vedessä	Euro Shopper	372719
+2907		Tonnikalakolmioleipä	Pirkka	372781
+2908		Tonnikalaa Makeassa Chilikastikkeessa	Rainbow	372825
+2909		Tonnikalaa Paloina Öljyssä	Rainbow	372867
+2910		Tonnikalaa Curry Kastikkeessa	Rainbow	372905
+2911		Tonnikalaa Tomaatti-Basilikakastikkeessa	Eldorado	372942
+2912		Italian Chunky Tomato Soup	Knorr	372984
+2913		Veggie Toast	Arnolds	373101
+2914		Tomaattimurska	Pirkka	373155
+2915		Paseerattu Tomaatti	Rainbow	373193
+2916		Paseerattu Tomaatti	Pirkka	373251
+2917		Suklaatasku	Pirkka	373289
+2918		Marjainen Täysjyvämuro	Pirkka	373350
+2919		Bolognan Spagetti	HK	373401
+2920		Spagetti Bolognese	Piltti	373464
+2921		Spaghetti Bolognese	Rainbow	373532
+2922		Natural Protein Smoothie Strawberry	Fast Sports Nutrition	373598
+2923		Naturally High Protein Strawberry White Chocolate	Fast Sports Nutrition	373641
+2924		Profx Strawberry	Fast Sports Nutrition	373688
+2925		Red Bull Sugarfree	Red Bull	373749
+2926		Sugar Snaps	Apetit	373796
+2927		Low Sugar Cappuccino	Nutrilett	373838
+2928		Sugarfree	Battery	373952
+2929		Juhlapöydän Konvehteja	Panda	374012
+2930		Minttukrokantti	Marabou	374053
+2931		Mud Cake	Frödinge	374159
+2932		Mudcake	Frödinge	374218
+2933		Mars Patukka	Mars	374272
+2934		Fanipala	LU	374376
+2935		Raketti Spagetti	Myllyn Paras	374468
+2936		Täysjyvä Spagetti	Rainbow	374535
+2937		Soijajuoma Luomu	Rainbow	374596
+2938		Kevyt Sinappi-Salaattikastike	Saarioinen	374662
+2939		Grillisalaatti Sinappi	Atria	374724
+2940		Maustamaton	Skyr	374790
+2941		Blueberry & Rasberry Smoothie	Froosh	374831
+2942		Trooppiset Hedelmät Siideri	Olvi	374881
+2943		Forest Fruit Smoothie	Allevo	374938
+2944		Täyteläinen Kana-Kookoskeitto	Kokkikartano	375055
+2945		Lämmin Kuppi Kermainen Kana-Pastakeitto	Blå Band	375122
+2946		Kananpojan Fileepihvi Maustamaton	Kariniemen	375192
+2947		Kananpojan Fileesuikale Hunaja-Inkivääri	Kariniemen	375248
+2948		Kananpojan Paistisuikale Marinoitu	Kariniemen	375314
+2949		Kananpojan Paistisuikale (Maustamaton)	Kariniemen	375375
+2950		Kanaliemikuutio	Knorr	375431
+2951		Broilerin Fileeleike	Pirkka	375498
+2952		Hunajamarinoitu Broilerin Ohutleike	Rainbow	375562
+2953		Kananpojan Fileesuikale	Kariniemen	375602
+2954		Filee Kalapuikot	Findus	375650
+2955		Kana-Nuudeliruukku	Saarioinen	375707
+2956		Nuudeli Kana-Yrtti	Pirkka	375765
+2957		Kana-Nuudelikeitto	Knorr	375831
+2958		Alaskanseiti	Findus	375906
+2959		Kuitupitoiset Kalapuikot	Findus	375959
+2960		Kalkkunafilee	Snellman	376020
+2961		Kulinaari Kalkkunafilee	Atria	376083
+2962		Ohuen Ohut Kalkkunafilee	HK	376141
+2963		Savustettu Kalkkunaleike	Dulano	376199
+2964		Ohut Kalkkunaleike	Rainbow	376239
+2965		Kermajuusto 17%	Rainbow	376302
+2966		Jauhelihakastike ja Muusi	HK	376364
+2967		Spagettia Ja Jauhelihakastiketta	Saarioinen	376452
+2968		Jauhelihamureketta	Fazer Amica	376494
+2969		Jauhelihapuikot Pekoni-Tuorejuustotäytteellä	Atria	376541
+2970		Muhkeat Jauhelihapihvit	Atria	376606
+2971		Maalais Kaalikääryleet	Wigren	376665
+2972		Lohimurekepihvi	Apetit	376709
+2973		Kabanossi Original	HK	376767
+2974		Kabanossi Savupekoni	HK	376830
+2975		Kabanossi Juusto	HK	376893
+2976		Kabanossi Habanero	HK	376954
+2977		Kabanossi Karski	HK	377017
+2978		Savuporon Makuinen Juustokeitto	Easy Diet	377082
+2979		Mustaherukka Vadelma-Keitto	Valio	377195
+2980		Pita Kebab	Hoviruoka	377247
+2981		Kebabpizza	Saarioinen	377301
+2982		Kebablastu	Rainbow	377370
+2983		Kevyt Kermaviili	Rainbow	377411
+2984		Kevyt Kermaviili	Valio	377474
+2985		Kevyt Kermaviili	Pirkka	377539
+2986		Ohuen Ohut Keittokinkku	HK	377577
+2987		Ohuen Ohut Keittokinkku	Snellman	377645
+2988		Peruna ja Keittojuurekset	Rainbow	377707
+2989		Kebablastu	Pouttu	377748
+2990		Tuplasuklaa Keksi	Subway	377807
+2991		Karpalo Lonkero	Olvi	377882
+2992		Fenix Karpalo	Hartwall	377939
+2993		Muurikka-Kasvikset Chili	Apetit	377999
+2994		Muurikka-Kasvikset Hunajainen	Apetit	378062
+2995		Broilerfileet & Kermassa Haudutetut Kasvikset	Kokkikartano	378116
+2996		Häränmurekepihvi ja Kermaiset Kasvikset	Saarioinen	378182
+2997		Makeasipuli Kastike	Subway	378273
+2998		Kala-Kasvispihvi	Hätälä 	378355
+2999		Kasvispihvit	Saarioinen	378407
+3000		Ruoka 5% Rypsiöljystä	Valio	378471
+3001		Rukiinen Karjalanpiirakka	Fazer	378523
+3002		Isot Katkaravut	Rainbow	378579
+3003		Paprika-Chili Katkaravut	Pirkka	378622
+3004		Katkarapu Keitto	Blå Band	378659
+3005		Katkaravut	Pirkka	378731
+3006		Kaurahiutaleita & Kauraleseitä	Elovena	378774
+3007		Pikapuuro Kaura-Kuitu	Elovena	378841
+3008		Naudan Jauheliha 10%	HK	378904
+3009		Naudan Parempi Jauheliha 10%	Atria	378943
+3010		Jauhelihapihvit Muusilla	Atria	378992
+3011		Jalotofu Kylmäsavu	Soya	379071
+3012		Paprikamajoneesi	Hesburger	379113
+3013		Kevyt Vadelma Jäätelö	Ingman	379169
+3014		Salmiakki Jäätelö	Fazer	379222
+3015		Kismet Jäätelö	Kismet	379292
+3016		Jauhelihapihvit ja Perunamuusi	Saarioinen	379375
+3017		Jauhelihapihvit	HK	379462
+3018		Luonto+ Rasvaton Maustamaton Jogurtti	Arla Ingman	379526
+3019		Rasvaton Mansikka-Vanilja Jogurtti	Valio	379590
+3020		Olo Ruuansulatusjogurtti	Valio	379651
+3021		A+ Luonnonjogurtti Rasvaton 0,4%	Valio	379715
+3022		Maustamaton Jogurttirahka	Milbona	379775
+3023		Maustamaton Jogurttirahka	Linessa	379821
+3024		Jugurttijuoma	Rainbow	379884
+3025		Kolmen Marjan Hillo	Rainbow	379927
+3026		Hillosipulit	Rainbow	379969
+3027		Kerroshampurilainen	Hesburger	380021
+3028		Luomu Hernekeitto	Pirkka	380121
+3029		Hunajakauraleipä	Subway	380184
+3030		Kananpojan Fileesuikale (Hunaja)	Kariniemen	380294
+3031		Fileesuikale Hunaja	Atria	380360
+3032		Kananpojan Fileesuikale Hunaja-Chili	Kariniemen	380426
+3033		Perhetilan Broileri Fileesuikale Hunaja	Atria	380492
+3034		Kananpojan Fileepihvi Hunaja	Kariniemen	380558
+3035		Juustolastu	Hesburger	380624
+3036		Kana-Caesar	Hesburger	380702
+3037		Kurkkumajoneesi	Hesburger	380796
+3038		Matador Mix	Haribo	380851
+3039		Click Mix	Haribo	380891
+3040		Tomaatti Ketsuppi	Heinz	380933
+3041		Valkoinen Hasselpähkinäsuklaa	Pirkka	380977
+3042		Hasselpähkinä Original	Arnolds	381040
+3043		Hasselpähkinäsuklaa	Fazer	381111
+3044		Täysjyvä Fusilli Makaroni	Myllyn Paras	381161
+3045		Fusilli Täysjyväpasta	Pirkka	381226
+3046		Täysjyvä Fusilli	Rainbow	381289
+3047		Cool Blue	Gatorade	381346
+3048		Grand Dessert Double Choc	Ehrmann	381402
+3049		Atrilli Grillimakkara	Atria	381444
+3050		Halloumi	Rainbow	381510
+3051		Hampurilaistassu	Saarioinen	381549
+3052		Korma Ateriakastike	Pirkka	381602
+3053		Falafel-Hampurilainen	Hesburger	381643
+3054		Hamppuproteiini	Cocovi	381764
+3055		Kuoritut Hampunsiemenet	Cocovi	381823
+3056		Hampurilaiskastike	Pirkka	381873
+3057		Hampurilaiskastike	Kavli	381938
+3058		Salaattijuustokuutiot	Rainbow	381982
+3059		Apetina 8%	Arla	382022
+3060		Feta 8%	Arla	382062
+3061		Apetina Classic Creamy Block	Arla	382102
+3062		Fetasalaatti	Greenz	382141
+3063		Aurinkokuivatut Tomaatit	Arla	382187
+3064		Finlandia Juusto	Valio	382245
+3065		Hunajamarinoitu Broilerin Fileesuikale	Rainbow	382299
+3066		Mantelikala	Findus	382339
+3067		Wok Thai	Findus	382402
+3068		Espanjalaiset Vihannekset	Findus	382462
+3069		Golden Fries	Eldorado	382526
+3070		Snack Fries	Taffel	382592
+3071		Seasoned Chicken Breast Fillets	Solängen	382651
+3072		Vanilla	Coca-Cola	382713
+3073		Pasta Carbonara	Knorr	382786
+3074		Pasta Carbonara	Nutrilett	382902
+3075		Pasta-Ateria Carbonara	Rainbow	383021
+3076		Questbar Coconut Cashew	Quest Nutrition	383119
+3077		Caesar Salaattikastike	Felix	383224
+3078		Crisp Pita Bread	Fazer	383285
+3079		Dark Bread Gluteeniton	Moilas	383353
+3080		Broccoli Mix	Eldorado	383419
+3081		Broilerin Ohut Fileeleike	Kanamestari	383461
+3082		Broilerin Ohut Fileeleike Pehmeän Pippurinen	Kanamestari	383501
+3083		Questbar Strawberry Cheesecake	Quest Nutrition	383543
+3084		Cheddar	Hochland	383650
+3085		Chicken Tikka Masala	Rainbow	383689
+3086		Chicken Red Curry	Rainbow	383763
+3087		Kirjolohipyörykät	Chipsters	383829
+3088		Fine Cheese Chips	Estrella	383910
+3089		Remouladekastike	Chipsters	383975
+3090		Tortilla Chips	Santa Maria	384029
+3091		Herkku Chips	Estrella	384086
+3092		Dietmix Locarb Mint Chocolate	Fast Sports Nutrition	384151
+3093		Protein Delight Orange-Chocolate	Leader	384261
+3094		Dark Chocolate	Fazer	384380
+3095		Recovery & Protein Mint Chocolate	Fast Sports Nutrition	384435
+3096		Protein Delight Mint-Chocolate Flavour	Leader	384499
+3097		Pudding Double Chocolate	Fast Sports Nutrition	384596
+3098		Välipalakeksi Uuniomena-Toffee	Elovena	384667
+3099		Emmental-Mozzarella Juustoraaste	Pirkka	384775
+3100		Strawberry Proteiinipatukka	Dietmix	384833
+3101		Chicken Vindaloo	Atria	384905
+3102		Chicken Thai Peanut	Pirkka	384969
+3103		Chicken Panang Curry	Saarioinen	385035
+3104		Irish Coffee Pähkinä	Ingman	385112
+3105		Kotasavu Palviviipale	Lapin Liha	385175
+3106		Kreikkalainen Jogurtti, Persikka	Valio	385227
+3107		Country Mix	Green Grocer's	385280
+3108		Parsakaali-Kukkakaali-Porkkana	Rainbow	385346
+3109		Kullanrapeat Kalafileet	Findus	385386
+3110		Eila Laktoositon Rasvaton Maitojuoma	Valio	385450
+3111		Rasvaton Maitojuoma Laktoositon	Milbona	385509
+3112		Kevyt Maitojuoma Laktoositon	Milbona	385567
+3113		Laktoositon Rasvaton Maitojuoma	Rainbow	385628
+3114		Lakumix Choco	Panda	385705
+3115		Lakumatto	Halva	385766
+3116		Lakumix Party	Panda	385822
+3117		Lakumix Original	Panda	385885
+3118		Voileipä Kurkkuja	Felix	385950
+3119		Sinappi-Kurkku Tuoresalaatti	Felix	386000
+3120		Eila Kreikkalainen Jogurtti Sitruuna	Valio	386056
+3121		Lasagnette	Piltti	386098
+3122		Kasvislasagne	Saarioinen	386164
+3123		Lasagneainekset	Rainbow	386228
+3124		Tuoresalaatti Kurkku	Felix	386294
+3125		Kurkkuinen Salaatti	Saarioinen	386352
+3126		Kurkkusalaatti	Felix	386417
+3127		Total 0% Kreikkalainen Jogurtti	Fage	386468
+3128		Protein Delight Crispy Caramel	Leader	386526
+3129		Protein Delight Rasberry-Blueberry	Leader	386636
+3130		Protein Delight Rasberry With Yoghurt Flavour	Leader	386755
+3131		Protein Delight Nutmix With Chocolate Flavour	Leader	386866
+3132		Skinny Latte	Starbucks	386984
+3133		Chai Latte	Paulig	387039
+3134		Frezza Vanilla	Paulig	387094
+3135		Porkkana Ohukainen	Atria	387137
+3136		Kinuski Muru	Panda	387203
+3137		Kirjolohisuikale Creme Fraiche	Apetit	387264
+3138		Kookosmaito Light	Santa Maria	387317
+3139		Kinkku-Juusto Kolmioleipä	Pirkka	387355
+3140		Kolmioleipä Tonnikala	Rainbow	387420
+3141		Kinkkusalaattiateria	Saarioinen	387483
+3142		Classic Pekaani-Suolainen Kinuski	Nestlé	387556
+3143		Kinkkusuikaleet	Snellman	387657
+3144		French Ratatouille	Findus	387713
+3145		Kevyt Kermaviili	Eldorado	387769
+3146		Plus Kevytmaito	Valio	387825
+3147		Tomaattiketchup	Felix	387885
+3148		Tomaattinen Salsa	Felix	387947
+3149		Sokeroimaton Ketsuppi	Felix	388008
+3150		Tomaattiketsuppi	Eldorado	388062
+3151		Laktoositon Kevytmaitojuoma	Pirkka	388114
+3152		Mums Maitosuklaa	Ballerina	388174
+3153		Maitosuklaakerroskeksi	Euro Shopper	388244
+3154		Aino Ihana Maitosuklaa	Pingviini	388341
+3155		Kidius Maitosuklaavanukas	Valio	388382
+3156		Vähälaktoosinen Mieto Maitorahka	Pirkka	388440
+3157		Rasvatonta Mieto Maitorahka	Pirkka	388501
+3158		Makea Maissi	Rainbow	388558
+3159		Herne-Maissi-Paprika	Apetit	388600
+3160		Herne-Maissi-Paprika	Rainbow	388659
+3161		Täysjyvä Makaroni	Torino	388700
+3162		Lihamakaronilaatikko	Saarioinen	388759
+3163		Tumma Makaroni	Myllyn Paras	388823
+3164		Camping Makkara	HK	388905
+3165		Liha-Makaronilaatikko	Fazer Amica	388952
+3166		Musta Makkara	Tapola	388994
+3167		Naudan Maksaviipale	Rainbow	389037
+3168		Tomaattiherkku Maksamakkara	Atria	389093
+3169		Rusinaton Maksalaatikko	Saarioinen	389145
+3170		Kevyt Maksamakkara	Snellman	389211
+3171		Maalais Maksapasteija	Snellman	389274
+3172		Luumunektari	Marli	389339
+3173		Eila Lohkeava Luonnonjogurtti	Valio	389392
+3174		Eila Lohkeava Mustikkajogurtti	Valio	389454
+3175		Kuorrutetut Valkosipuli Lohkoperunat	Rainbow	389516
+3176		Lohkoperunat	Rainbow	389574
+3177		Pariloitua Lohta ja Rosson Caponataa	Rosso	389636
+3178		Kirjolohisuikale	Apetit	389707
+3179		Veriohukainen	Atria	389759
+3180		Muhkeat Lihapullat	Atria	389818
+3181		Kreikkalainen Lihapyörykkä	Korpela	389881
+3182		Palvarin Lihapyörykkä	Kivikylän Kotipalvaamo	389939
+3183		Kasvispyörykät	Hälsans Kök	390009
+3184		Lihapyöryköitä Ruskeakastikkeessa	Jalostaja	390073
+3185		Täytetyt Lihapullat	HK	390138
+3186		Sport Palautusjuoma Suklaa	Teho	390178
+3187		American Classic Pan Pizza	Grandiosa	390291
+3188		Luomu Palvikinkku	HK	390356
+3189		Lämmin Kuppi Juusto Parsakaali	Blå Band	390418
+3190		Kermainen Parsakeitto	Felix	390491
+3191		Pastaa Kermakastikkeessa	Pirkka	390550
+3192		Broilerpasta	Kokkikartano	390592
+3193		Recovery & Protein Peanut Caramel	Fast Sports Nutrition	390636
+3194		Profx Lo-Carb Peanut Nougat	Fast Sports Nutrition	390687
+3195		Peanut	Marabou	390751
+3196		Peruna-Sipulisekoitus	Rainbow	390814
+3197		Persikkarahka	Rainbow	390855
+3198		Persikkasose	Bonne	390895
+3199		Persikka-Vadelmarahka	Skyr	390950
+3200		100% Täysjyvä Paahto	Vaasan	391003
+3201		100% Ruis	Vaasan	391109
+3202		Viisi Viljaa Paahtoleipä	Fazer	391225
+3203		Premium 70% Cocoa Orange	Marabou	391299
+3204		Natural Protein Smoothie Orange Mango (Pullo)	Fast Sports Nutrition	391368
+3205		Orange Light	Rainbow	391452
+3206		Päärynärahka	Skyr	391510
+3207		Päärynäjogurtti	Milbona	391570
+3208		Päärynäjuoma	Eldorado	391636
+3209		Päärynämehu	Juissi	391694
+3210		California Kuivahedelmä-Manteli-Pähkinäse...	Rainbow	391736
+3211		Maustamaton Pähkinäsekoitus	Monarch	391775
+3212		Sekoitus Maustettuja Pähkinöitä	Eldorado	391815
+3213		Rasvaton Juotava Omena-Mangojogurtti	Pirkka	391885
+3214		Omena-Kaura-Raparperirahka	Pirkka	391949
+3215		Omena-Myslipatukka	Pirkka	392007
+3216		Kivettömät Vihreät Oliivit	Rainbow	392081
+3217		Kaurajuoma	Oatly	392123
+3218		Suklaa Kaurajuoma	Oatly	392184
+3219		Kaurakerma	Oatly	392242
+3220		Sunflower Seeds & Oats	Ryvita	392303
+3221		Lite	Koff	392404
+3222		Radler	Fosters	392457
+3223		Ruis Täysjyvähiutale	Nalle	392513
+3224		Pieni Pyöreä Ruis	Vaasan	392575
+3225		Kunto Näkki	Vaasan	392667
+3226		Nakkikastike Muusilla	Atria	392772
+3227		Lihanmakuinen Nuudeli	Euro Shopper	392833
+3228		Diet Noodles	Star Nutrition	392878
+3229		Naudan Lehtipihvi	Atria	392919
+3230		Murotaikina	Sunnuntai	392981
+3231		Suomalainen Mustikka	Pirkka	393042
+3232		Rasvaton Mansikka-Mustikka-Vadelmajogur...	Arla Ingman	393102
+3233		A+ Lisäaineeton Jogurtti Mustikka-Vadelma	Valio	393165
+3234		Mustaherukkahyytelö	Saarioinen	393217
+3235		Proteiinipatukka Mustaherukka	Leader	393278
+3236		Seasoned Mixed Vegetables	Green Grocer's	393391
+3237		Aino Mustikkapiirakka	Nestlé	393453
+3238		Kevyt Snack Kuoreton Nakki	Atria	393495
+3239		Kuorellinen Nakki	Rainbow	393559
+3240		Kevyt A-Lk Kalkkuna Kuoreton Nakki	Atria	393622
+3241		Kuoreton Nakki	Rainbow	393688
+3242		Mansikka Mehu	Juissi	393739
+3243		Vital Multivitamiinijuoma	Marli	393781
+3244		Mansikkainen Sekamehu	Ekströms	393842
+3245		3 Hedelmän Mehu	Valio	393905
+3246		Kevyt Meetvursti	Snellman	393958
+3247		Ultrakevyt Meetvursti 9%	HK	394020
+3248		Kotimainen Meetvursti	Huhtahyvät	394078
+3249		Kevyt Meetvursti	Saarioinen	394128
+3250		Kalkkuna Meetvursti	Snellman	394188
+3251		Maustamaton Jogurtti Laktoositon	Milbona	394247
+3252		Kuoritut Mantelit	Pirkka	394307
+3253		Manteli	Rainbow	394348
+3254		Natural Protein Smoothie Orange Mango	Fast Sports Nutrition	394407
+3255		Hedelmäinen Jogurtti Mango-Papaija	Valio	394450
+3256		Mangosose	Bonne	394502
+3257		Kookos & Mango Smoothie	Chiquita	394541
+3258		Mansikka-Vadelmarahka	Rainbow	394602
+3259		Mansikka-Melonimysli	Finax	394703
+3260		Kerrosjogurtti Mansikka-Vadelma	Valio	394764
+3261		Mansikka-Jogurtti Välipalakeksi	Rainbow	394810
+3262		Mandariinilohkot Sokeriliemessä	Rainbow	394913
+3263		Appelsiini-Mandariini-Rypäletä...	Pirkka	394968
+3264		Mandariinilohkot Mehussa	Rainbow	395025
+3265		Smetanaa		395075
+3266		Kanan siipi		395202
+3267		Paahdettu kanan siipi		395326
+3268		Broilerin maksa		395433
+3269		Kananrintaa iho		395557
+3270		Paneroitu broilerin rintafileetä		395678
+3271		Esikypsennetty sianlihan makkaraa		395805
+3272		Kaakao kiviä		395936
+3273		Sian- ja naudanlihan makkara		396058
+3274		Vauvan riisi vilja		396196
+3275		Silavaa		396318
+3276		Hunaja rypäleterttuja Kaura		396423
+3277		Hunaja rypäleterttuja Kaura manteleita		396558
+3278		Kana tarjoukset		396691
+3279		Kana potin kakku		396826
+3280		Hampurilainen (95 % laiha)		396942
+3281		Hampurilainen (90 % laiha)		397075
+3282		Hampurilainen (85 % laiha)		397210
+3283		Kakku jauhoja		397344
+3284		Keksi muna- ja makkara		397468
+3285		Keksi makkara		397600
+3286		Kevyt vanilja jäätelö		397732
+3287		Raaka valkoinen riisi		397864
+3288		Koko viljan jauhoja		397988
+3289		Kaikki tarkoitukseen jauhoja		398112
+3290		Tomusokeria		398238
+3291		Keksejä kanssa maapähkinävoita		398338
+3292		Vehnä keksejä		398475
+3293		Höpöttää		398609
+3294		Himmeä leivänpaahdin kakut		398743
+3295		Vähentää rasvan maapähkinävoi		398877
+3296		Maapähkinöiden ilman suolaa		398998
+3297		Paahdetut maapähkinät		399133
+3298		Keitettyjä papuja porsaan ja tomaatti kastike		399264
+3299		Monni		399388
+3300		86 todiste viina		399507
+3301		Säilöttyjä vihreitä herneitä		399614
+3302		Purkitettu pinaatti		399739
+3303		Suklaa siirappi		399862
+3304		Pöytälevy pyöreän naudanpaisti		399986
+3305		80 todiste viina		400102
+3306		Naudan terä paisti		400207
+3307		Naudanlihan kylkiluun		400324
+3308		Öljy paahdettuja auringonkukansiemeniä		400431
+3309		Öljy paahdettu pähkinäsekoitus		400551
+3310		Naudan maksaa		400686
+3311		Naudanlihan rinta		400813
+3312		Paistettua rasvaa porsaan ulkofileetä		400929
+3313		Paistettua porsaan ulkofileetä		401037
+3314		Sikuri vihreät		401144
+3315		Endiivi		401276
+3316		Sinappi vihreät		401417
+3317		Maissi chex		401555
+3318		Reese tyynyt		401674
+3319		Kaurapuuro neliöt		401803
+3320		Ympärillään		401935
+3321		Kuitu, yksi		402070
+3322		Hunajaa paahdettuja kaura		402190
+3323		Manteli vanilja		402314
+3324		Rypäleen pähkinöitä viljan		402437
+3325		KIX		402572
+3326		Onnekas hurmaa		402706
+3327		Hunaja pähkinä chex		402843
+3328		Riisi chex		402980
+3329		Koko jyvä yhteensä		403102
+3330		Vehnä chex		403228
+3331		Maissi ryynit		403355

@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>fi-FI</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>RUOKAPÄIVÄKIRJAN</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Yhteiset kohteet</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Poista</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Mitään ei ole valittuna</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Hotelliin aamiaistuotteet</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Hiljattain illallinen kohteita</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Viime excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Hotelliin lounaita</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Viimeisimmät välipala kohteet</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>RUOKAPÄIVÄKIRJAN</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>RUOKAPÄIVÄKIRJAN- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Aamiainen</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Päivällinen</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Liikunta</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Lounas</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Välipala</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Etsi</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Tänään</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Summa</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Kalsium</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorit</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Hiilihydraatteja</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Kolesteroli</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Kuitu</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Rauta</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Kertatyydyttymätön rasvahappo</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Monityydyttymätön rasvahappo</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kalium</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Proteiini</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Tyydyttynyt rasvahappo</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natrium</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Sokeria</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Rasvat yhteensä</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>C-vitamiini</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>D-vitamiini</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Leveys</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Kirjoita hakuehto</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (uusi varuste)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (uusi resepti)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Hakutulokset</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} ei löydy, yritä muuttaa hakusana</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Lisää</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nimi</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Ravitsemus</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>RUOKA INFO</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Syötä paino ensin</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Annoksen koko</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Paljonko?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>lisää asetuksia</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Ravitsemus Tietoa</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Lisää palvelee koko</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Lisää</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalenteri</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Mainos</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>senttilitra</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Muki</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>desilitra</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Nesteunssi</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Gallona</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gramma</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogramma</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litra</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>millilitra</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Unssi</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pint</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Naula</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Neljännesgallona</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Ruokalusikka</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Teelusikka</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Kupit</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>nesteunssi</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Gallona</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Grammat</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>kilogrammaa</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>litraa</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>millilitraa</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>unssia</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pintti</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Naulaa</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Neljäsosagallona</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Rkl</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Tl</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>FI</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Ruokapäiväkirjan sähköpostiviesteihin</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>summa</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>ladataan</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Päivitä nyt</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Kiittää te ajaksi kohteleva nyt kuluva App! Tämä kappale on nyt vanhentunut. Mutta älä huoli, me viemme sinut lataussivulle päivittää, jos painat Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Tämän tehtävän päivitykset Live laatta ruoka päiväkirjaa.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Puhelimen asetukset Live Tile-sovellus on poistettu käytöstä.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Omat asetukset</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Laskea puuttuvat ateriat app laatta</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Muistutukset</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Määritä laatta</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Raportti</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Raportti</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Tl = 4,5 g|Rkl = 12 g|1 palvelevat = 28 g|Kpl = 14 g|Slice = 12 g|1 cup = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Ota kuva</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Kiittää te ajaksi kohteleva nyt kuluva App! Jos löydät sen tarpeelliseksi, auttakaa se menestyvät jättämällä uudelleen.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Jätä tarkistaa?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Tavoitteet</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Ei ole asetettu tavoite</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Päivän lopussa</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Mitä söit?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Muistutus: päivittää kalenteriisi</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>valitut muistutukset näkyvät, jos et ole päivittänyt kalenteriin valittujen mennessä</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Appelsiinimehua, 1 kuppi, paahtoleipää, 1 viipale, muna, 1 keskikokoinen omena, kahvi, banaani</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} yli tavoitteen</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} jäljellä</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Päivyri</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Valitsemalla OK voit poistaa mainoksia app.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Poistaa mainoksia?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Ongelma yhteyden Windows Phone-kauppaan. Yritä myöhemmin uudelleen.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Ilmoita ongelmasta</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Ehdota ominaisuutta tai kysyä</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Luokitus tämä app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Erityistä palautetta parantaa app</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Parantaa käännös</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Irtoseinä kaapata sisältyy</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Jaa linkki</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Jotta download nyt kuluva app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Ruoka päiväkirja teksti</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Tutustu ruoka päiväkirja Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Ruokapäiväkirjan</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Yhteinen aamiaistuotteet</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Illallinen samansisältöistä</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Lounas samansisältöistä</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Välipala samansisältöistä</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Ateriat</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Aamu</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Iltapäivällä</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Iltapäivä</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Erillinen aamulla välipala</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Erillinen alussa iltapäivän välipala</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Erillinen iltapäivän välipala</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Ilta</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Erillinen iltapalaa</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Keskiyöllä</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Yhdistää välipaloja</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Erillinen iltapala</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Iltapäivällä kohteiden</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Alussa iltapäivällä kohteiden</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Viime iltana kohteita</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Hotelliin keskiyön kohteita</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Hotelliin aamu kohteita</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Iltapäivällä samansisältöistä</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Alussa iltapäivällä samansisältöistä</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Illalla samansisältöistä</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Keskiyön samansisältöistä</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Aamu samansisältöistä</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Kiittää te ajaksi koettaminen ruoka päiväkirjaa. Sinulla on {0} trial päivää jäljellä. Avaa sovellus valitsemalla OK.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Avaa nyt?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Kokeilujakso on nyt vanhentunut. Voit tarkastella päiväkirjaasi, mutta et voi lisätä uusia merkintöjä. Valitse OK, jotta aukaista ml; mellinen käännös.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Poista mainokset</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Poistaa pysyvästi kaikki mainokset</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Huomautus: Tämä on varhainen (beta) versio, elintarvike-tietokanta on jatkuvasti laajennettu. Jos sinulla on ehdotuksia, lähetä sähköpostia daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Ruokapäiväkirjan</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Nykyisten käyttäjien palautetta:
+-Tämä app on siunaus kannalta helppo käsitellä. 
+-Tämä app. on kaikki ominaisuudet, joita tarvitaan yksinkertainen sisustus. Se todella tekee tallennus päivittäin ruokailutottumukset, että paljon helpompaa kuin muut sovellukset. Tiedän, että rakastan sitä!
+-Paras lajissaan
+-Se on perusteellinen, hyvin järjestetty, helppokäyttöinen
+-Rakastan tätä app! Se on yksinkertainen, mutta pitää minua seurata ❤ ja jopa muistuttaa minua jos en ole syönyt aterian. Varmasti suureksi avuksi yrittää olla terve minun</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Avain erikoisartikkeli:
+1. tarkoitus olla helpoin ja nopein ruoka päiväkirja app
+2. yhteiset äskettäin syödään valmisruoista ja ovat ehdotuksia, jotta tapahtuma erittäin nopea
+3. ei tarvitse kirjautua sisään tai anna henkilökohtaisia tietoja, kuten sähköpostiosoite tai paino
+4. ruoka tietokannan ravitsemus Tietoa
+5. kätevä palvelevat kokoa valitsimen avulla voit syöttää juuri mitä söi
+6. helposti lisätä uusia elintarvikkeita, että sovellus ei tiedä vielä
+7. Päivittäinen raportti Näytä kaikki ravitsemus tiedot
+8. Viikoittainen raportti osoittaa, miten voit seurata suhteessa tavoitteesi ravitsemus
+9. Konfiguroitavat muistutukset auttavat Varmista, älä unohda täyttää oman päiväkirja
+10. live laatta näyttää kuinka monta ateriaa täytyy olla täytetty ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Jos olet ruokavalio, tai haluat tietää, kuinka monta kaloria, rasvaa, proteiinia tai hiilihydraatteja syödä joka päivä, tämä on sovellus sinulle.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Ruokapäiväkirjan helpoiten seuratakseen mitä syöt joka päivä.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Ravitsemus</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorit</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Ruokavalio</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Ruoka päiväkirjaa</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Kalorilaskuri</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banaani</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kahvi</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>omena</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Muna</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 viipale</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>ilmoitusruutu</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 kuppi</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Appelsiinimehu</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Kiitos tuestanne! Tämän vaihtoehdon avulla voit pysyvästi poistaa mainoksia ruokapäiväkirjan app.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Poistaa mainokset</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Syötä paino</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Karsintakilpailu aika päättynyt, avata?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 keskikokoinen</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Tietoja</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Nopein ja helpoin tapa voit seurata mitä syöt.
+
+Selaa alaspäin lisätietoja tietojen oikeellisuus.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Päivitä nyt</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Ostaa premium-versio</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Ruoka päiväkirjaa {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Jotain odottamatonta meni pieleen. Lehdessä ei lähetetty.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Kirjoita kelvollinen sähköpostiosoite.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Yhteensä</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>vain {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Tukea</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>DISCLAIMER:
+Useimmissa mutta ei kaikissa arvopisteiden tietokannasta peräisin luotettavista lähteistä. Pyrimme Varmista, että kaikki arvot ovat tarkkoja, mutta ei voi pitää vastuussa virheellisistä tai puuttuvista tiedoista. Ravintoarvot vaihtelevat merkeittäin ja ajan mittaan. Tämä app käyttämällä hyväksyt tarkistaa ja korjata tietoja app ja yksin vastuussa vamman tai sen käytön vuoksi.
+
+Kerrothan, jos jotain voi auttaa sinua.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Auttaa pitämään päivityksiä tämän app tulossa</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>KAIKKI toiminnot</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Mukana:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Huomautus: Useimmissa mutta ei kaikissa tiedot ovat peräisin luotettavista lähteistä. Ostamalla premium-versio, hyväksyt täyden vastuun tarkkuudesta ja täydellisyydestä tiedot. Sähköpostiosoite daily.journal@outlook.com lisätietoja.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Uusia ominaisuuksia</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Kaikki premium tarjoaa tulevaisuudessa päivitykset</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Enemmän aterioita</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Seuranta, 6 vähintään 5 ateriaa päivässä</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Enemmän elintarvikkeita *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Satoja tuhansia lisää elintarvikkeita (sijainnin mukaan)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Sähköposti raportit</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Sähköposti päiväkirjaasi tallentaa, tulostaa tai analysoida</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Ei mainoksia</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Kaikki mainokset poistetaan pysyvästi</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Osta nyt</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Lähetä sähköpostitse</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Lähetä nyt</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Sähköpostiosoite</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Saada kaikki ominaisuudet</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Korottaa jotta agio</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Huomautus: Useimmissa mutta ei kaikissa arvopisteiden tietokannasta peräisin luotettavista lähteistä. Pyrimme Varmista, että arvot ovat tarkkoja, mutta ei voi pitää vastuussa virheellisistä tai puuttuvista tiedoista. App avulla tiedostat ja hyväksyt täyden vastuun tarkistaa tietojen oikeellisuus. App voit päivittää poikkeamia löydät.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Lehdessä AAA
+Kysymyksiä tai kommentteja? Vastauksen BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Lähetä</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Päivitä tämä luettelo tekstit parempia käännöksiä. Poista kaikki teksti nimikkeille, jotka eivät sovellu alueesi.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Kiitos avusta!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Käännökset</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Täällä voit auttaa parantamaan tätä app.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Alkuperäinen:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Hyvä</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Kuvauksessa/valvonta:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Parantaa app</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Kirjoita sähköpostiosoitteesi, jos haluat ottaa yhteyttä.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Kommentti</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Parantaa käännökset</value>
+  </data>
+</root>

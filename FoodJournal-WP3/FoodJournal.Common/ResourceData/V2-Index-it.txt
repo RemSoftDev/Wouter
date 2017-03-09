@@ -1,0 +1,3756 @@
+﻿Row	Meal	Name	Pos
+0	B	Latte scremato	33
+1	B	Biscotti 	186
+2	L	Olio d'oliva	267
+3	L	Pomodoro	375
+4	B	Banana	652
+5	B	Marmellata	947
+6	L	Pasta	1060
+7	D	Olio d'oliva	1232
+8	S	Yogurt bifidus, naturale	1340
+9	S	Banana	1510
+10	L	Ricotta	1805
+11	S	Biscotti 	1960
+12	D	Pizza Margherita (Dr. Schär)	2042
+13	B	Caffelatte, non zuccerato	2113
+14	L	Pollo 	2299
+15	D	Pane bianco	2396
+16	D	Pomodoro	2697
+17	B	Caffè, nero, non zuccherato	2975
+18	L	Banana	3112
+19	B	Croissant	3408
+20	L	Pane bianco	3618
+21	L	Riso bianco	3919
+22	S	Latte scremato	4020
+23	B	Té, non zuccherato	4174
+24	S	Mela	4248
+25	D	Pasta	4484
+26	D	Pollo 	4657
+27	L	Carota	4754
+28	D	Bresaola	5075
+29	L	Mela	5250
+30	B	Zucchero cristallino	5486
+31	S	Cioccolato al latte	5684
+32	D	Ricotta	5830
+33	S	Mandarino	5985
+34	D	Patatine amica chips	6147
+35	B	Yogurt bifidus, naturale	6299
+36	L	Broccoli	6470
+37	L	Pizza Margherita (Dr. Schär)	6727
+38	B	Cornflakes	6798
+39	B	Pane	6859
+40	B	Yogurt, naturale	7158
+41	D	Riso bianco	7342
+42	L	Mandarino	7443
+43	L	Bresaola	7605
+44	S	Patatine amica chips	7780
+45	B	Pane bianco	7932
+46	L	Spinaci	8233
+47	L	Patatine amica chips	8412
+48	S	Kiwi	8564
+49	L	Latte scremato	8677
+50	B	Succo d'arancia	8831
+51	B	Caffè istantaneo	8967
+52	D	Mandarino	9074
+53	D	Mela	9236
+54	D	Prosciutto	9472
+55	L	Pane	9626
+56	D	Lenticchie, secche	9925
+57	S	Yogurt, naturale magro	10047
+58	D	Yogurt bifidus, naturale	10217
+59	L	Patate, pelate	10388
+60	L	Sottilette	10580
+61	L	Patate, pelate, al vapore (senza aggiunta di sale)	10802
+62	S	Ricotta	11016
+63	L	Pane croccante integrale	11171
+64	B	Yogurt, naturale magro	11466
+65	S	Arancia	11636
+66	L	Lenticchie, secche	11800
+67	S	Pollo 	11922
+68	S	Marmellata	12019
+69	L	Prosciutto	12133
+70	D	Té, non zuccherato	12287
+71	D	Carota	12361
+72	D	Pane	12682
+73	B	Bresaola	12981
+74	D	Banana	13156
+75	B	Kiwi	13452
+76	L	Yogurt, naturale	13565
+77	D	Spinaci	13749
+78	D	Latte scremato	13928
+79	L	Arancia	14082
+80	B	Mela	14246
+81	D	Pasta al sugo 	14482
+82	D	Hamburger Kebab	14612
+83	S	Mandorle	14682
+84	S	Pane	14917
+85	S	Cacao in polvere	15216
+86	S	Croissant	15337
+87	L	Kiwi	15547
+88	L	Cioccolato al latte	15660
+89	D	Marmellata	15806
+90	D	Broccoli	15920
+91	S	Pane bianco	16177
+92	L	Caffè, nero, non zuccherato	16478
+93	L	Biscotti 	16615
+94	L	Lattuga	16697
+95	B	Pane croccante integrale	17024
+96	D	Patate, pelate, al vapore (senza aggiunta di sale)	17319
+97	B	Pizza Margherita (Dr. Schär)	17533
+98	D	Patate, pelate	17604
+99	L	Salame (linea economica)	17796
+100	L	Salame tipo nostrano	17913
+101	D	Ketchup	18033
+102	B	Acqua minerale Vera	18169
+103	D	Sottilette	18258
+104	D	Verdura (in media)	18481
+105	S	Yogurt, naturale	18615
+106	D	The caldo 	18800
+107	S	Prosciutto	18914
+108	L	Grissini (Dr. Schär)	19069
+109	S	Bresaola	19162
+110	D	Uovo di gallina	19338
+111	L	Marmellata	19527
+112	B	Pollo 	19642
+113	D	Cornetto 	19740
+114	S	Té, non zuccherato	20000
+115	D	Pane croccante integrale	20075
+116	L	Ketchup	20371
+117	S	Sottilette	20507
+118	L	Yogurt bifidus, naturale	20730
+119	D	Patate fritte	20902
+120	D	Yogurt, naturale	21088
+121	S	Zucchero cristallino	21273
+122	L	Ananas	21472
+123	L	Lattuga romana	21708
+124	D	Ananas	22031
+125	B	Cacao in polvere	22267
+126	B	Arancia	22389
+127	S	Succo d'arancia	22554
+128	D	Cioccolato al latte	22691
+129	S	Ketchup	22838
+130	S	Caffelatte, non zuccerato	22974
+131	L	Patate al gratin savoyard", preparate"	23161
+132	S	Caffè, nero, non zuccherato	23303
+133	L	Verdura (in media)	23441
+134	L	Purea di patate, preparata (con panna e burro)	23575
+135	D	Lattuga	23711
+136	B	Mandorle	24039
+137	D	Frittata	24275
+138	B	Ciambellone al cioccolato	24284
+139	L	Parmigiano 	24441
+140	B	Mandarino	24559
+141	B	Cornetto 	24722
+142	L	Cipolla	24982
+143	D	Salame (linea economica)	25282
+144	L	Cornetto 	25400
+145	L	Verza, stufata (senza aggiunta di sale)	25660
+146	D	Yogurt, naturale magro	26005
+147	S	Carota	26176
+148	L	Hamburger Kebab	26498
+149	D	Salame tipo nostrano	26569
+150	D	Petto pollo	26689
+151	L	Pasta al sugo 	26825
+152	D	Arancia	26956
+153	B	Succo di mele	27121
+154	S	Pizza Margherita (Dr. Schär)	27262
+155	D	Lattuga romana	27334
+156	S	The caldo 	27657
+157	L	Mandorle	27771
+158	L	Cuori gocce cioccolato	28007
+159	L	Caffelatte, non zuccerato	28151
+160	L	Yogurt, naturale magro	28338
+161	S	Panino mortadella	28509
+162	S	Hamburger Kebab	28532
+163	L	Caffè istantaneo	28603
+164	L	The caldo 	28711
+165	D	Patate al gratin savoyard", preparate"	28825
+166	L	Zucchero cristallino	28967
+167	L	Petto pollo	29166
+168	L	Acqua minerale Vera	29302
+169	D	Pera	29391
+170	S	Nesquik Cereali (Nestlé)	29593
+171	S	Acqua minerale Vera	29664
+172	D	Pollo alle mandorle 	29753
+173	D	Purea di patate, preparata (con panna e burro)	29877
+174	B	Pasta	30013
+175	D	Kiwi	30187
+176	D	Cetriolo	30301
+177	D	Parmigiano 	30522
+178	D	Manzo, fettina	30640
+179	D	Sogliola	30809
+180	D	Tiramisu Cake	30959
+181	D	Insalata russa, preparata	31045
+182	B	Ketchup	31182
+183	B	Burro di arachidi	31318
+184	B	Ananas	31432
+185	S	Cuori gocce cioccolato	31668
+186	L	Patate fritte	31812
+187	L	Frutta (in media)	31998
+188	S	Latte intero, pastorizzato	32226
+189	L	Insalata russa, preparata	32343
+190	L	Manzo, fettina	32480
+191	L	Cornflakes	32649
+192	L	Piselli, verdi, al vapore (senza aggiunta sale)	32711
+193	L	Tiramisu Cake	32841
+194	S	Ananas	32927
+195	S	Crema da spalmare alle nocciole e cioccolato	33163
+196	B	Butter-Brioche	33302
+197	L	Succo d'arancia	33455
+198	D	Croissant	33592
+199	L	Gambero, cotto	33803
+200	L	Concentrato di pomodoro	33948
+201	L	Straccetti di pollo	34102
+202	L	Fettina	34289
+203	B	Nesquik Cereali (Nestlé)	34390
+204	B	Olio d'oliva	34461
+205	D	Biscotti 	34571
+206	D	Grissini (Dr. Schär)	34654
+207	D	Nesquik Pulver (Nestlé)	34747
+208	D	Pancetta	34818
+209	D	Sedano	34985
+210	D	Cipolla	35247
+211	D	Uovo fritto 	35547
+212	B	M-Budget Chocolate Cookies	35737
+213	B	Patatine amica chips	35852
+214	B	Cioccolato al latte	36005
+215	S	Frutta (in media)	36152
+216	S	Pane croccante integrale	36380
+217	B	Hamburger Kebab	36676
+218	B	Pane di segale vallesano	36747
+219	L	Salmone	37053
+220	D	Salame di campagna	37143
+221	S	Tiramisu Cake	37276
+222	S	Patate fritte	37362
+223	L	Frittata	37548
+224	L	Sugo 	37557
+225	L	Salame di campagna	37704
+226	S	Riso bianco	37837
+227	B	The caldo 	37939
+228	B	Patate, pelate	38053
+229	B	Cuori gocce cioccolato	38246
+230	D	Findus Mini Involtini primavera con pollo, surgelati (Nestlé)	38390
+231	B	Pera	38477
+232	B	Riso bianco	38679
+233	B	Pasta all'uovo	38781
+234	B	Carota	38900
+235	B	Patate, pelate, al vapore (senza aggiunta di sale)	39222
+236	L	Pasta all'uovo	39437
+237	L	Formaggio fresco, alla doppia panna	39556
+238	L	Pancetta	39779
+239	D	Olio di semi di mais	39946
+240	L	Formaggio morbido, doppia panna	40047
+241	S	Pasta	40263
+242	D	Caffelatte, non zuccerato	40437
+243	L	Sogliola	40624
+244	D	Acqua minerale Vera	40774
+245	L	Caramella morbida	40863
+246	L	Uvetta 	40989
+247	L	Fesa francese;Fettina	41217
+248	L	Croissant	41411
+249	L	Grissini al sesamo	41622
+250	L	Butter-Brioche	41758
+251	S	Parmigiano 	41911
+252	D	Caffè, nero, non zuccherato	42029
+253	S	Salame (linea economica)	42167
+254	S	Tuorlo d'uovo	42285
+255	L	Uovo di gallina	42415
+256	D	Tuorlo d'uovo	42604
+257	D	Fagioli 	42734
+258	S	Salame tipo nostrano	42848
+259	D	Polpettone	42968
+260	S	Spinaci	43182
+261	L	Pera	43362
+262	D	Vino spumante (p.es.Champagne)	43564
+263	D	Verza, stufata (senza aggiunta di sale)	43653
+264	D	Formaggio fresco, alla doppia panna	43998
+265	D	Tacchino, petto, scaloppina o sminuzzato	44221
+266	D	Salmone	44388
+267	D	Formaggio morbido, doppia panna	44478
+268	D	Frutta (in media)	44694
+269	S	Pancetta	44922
+270	S	Minestrone	45089
+271	S	Crema alla zucca	45214
+272	S	Lattuga romana	45333
+273	D	Succo d'arancia	45656
+274	L	Panino mortadella	45793
+275	L	Manzo, bollito magro	45816
+276	L	Minestrone	46019
+277	L	Melone	46144
+278	L	Sushi Nigiri Classic	46473
+279	L	Tuorlo d'uovo	46604
+280	L	Olio di soia	46734
+281	L	Uovo strapazato alle erbe, preparato	46839
+282	S	Caffè istantaneo	47044
+283	S	Galletta di riso integrale	47152
+284	S	Panettone	47265
+285	D	Cavolo rapa	47473
+286	D	Uovo strapazato alle erbe, preparato	47687
+287	B	Caramella morbida	47892
+288	D	Butter-Brioche	48018
+289	D	Panino mortadella	48171
+290	D	Manzo, petto, cotto (senza aggiunta di grassi e sale)	48194
+291	D	Manzo, petto	48297
+292	D	Minestrone	48397
+293	D	Pollo arrosto	48522
+294	S	Filetti di aringa marinati	48657
+295	S	Pera	48920
+296	B	Fette biscottate con la nutella 	49122
+297	B	Crema alla zucca	49421
+298	B	Tiramisu Cake	49540
+299	S	Polpettone	49626
+300		Crema di formaggio	49840
+301		Parmigiano-Reggiano	50076
+302		Formaggio svizzero	50221
+303		Formaggio americano	50463
+304		Formaggio americano	50711
+305		Diffusione di formaggio	50957
+306		Metà e metà	51108
+307		Crema leggera	51281
+308		Panna da montare pesante	51452
+309		Burro salato	51651
+310		Burro di panna montata	51868
+311		Burro olio	52085
+312		Panna acida	52289
+313		Sostituto crema polvere	52421
+314		Latte intero	52595
+315		2% di latte	52760
+316		1% latte	52924
+317		Latte magro	53088
+318		Latte secco	53253
+319		Latte intero al cioccolato	53384
+320		Cioccolato al latte	53554
+321		Cioccolato latte magro	53721
+322		Uovo	53885
+323		Tuorlo d'uovo	54080
+324		Uovo fritto	54224
+325		Uovo sodo	54421
+326		Uova strapazzate	54646
+327		Uovo essiccato	54870
+328		Burro senza sale	55029
+329		Latte scremato a decorrere	55245
+330		Salsa di formaggio	55408
+331		Sostituto crema	55554
+332		Peperoncino in polvere	55725
+333		Senape	55878
+334		Sale	56024
+335		Farina d'avena bambino	56168
+336		Cereali riso bambino	56317
+337		Lardo	56455
+338		Salsa maionese	56565
+339		Condimento per insalata con maionese	56711
+340		Olio di arachidi	56872
+341		Olio di soia	57011
+342		Olio d'oliva	57156
+343		Italiana medicazione	57303
+344		Basso grasso olio vegetale diffuso	57465
+345		Olio di mais	57676
+346		Bastone di burro	57820
+347		Margarina	58031
+348		Olio vegetale diffuso	58240
+349		Olio vegetale	58398
+350		Olio di soia industriali	58546
+351		Industriale soia e olio di semi di cotone	58690
+352		Olio di cocco	58834
+353		Pollo	58978
+354		Pollo impanato	59167
+355		Pollo	59361
+356		Pollo fritto	59546
+357		Carne di pollo arrosto	59738
+358		Pollo in umido	59925
+359		Fegato di pollo	60112
+360		Petto di pollo con pelle	60236
+361		Petto di pollo impanato	60387
+362		Petto di pollo arrosto	60544
+363		Carne di petto di pollo	60694
+364		Petto di pollo	60850
+365		Coscia	61001
+366		Coscia di pollo	61163
+367		Coscia di pollo	61314
+368		Ala di pollo	61477
+369		Ala di pollo arrosto	61612
+370		Arrosto di tacchino	61727
+371		Carne di tacchino arrosto	61865
+372		Terra di Turchia	61999
+373		Pepita di pollo	62119
+374		Brodo di manzo	62247
+375		Minestra di tagliatella del pollo	62401
+376		Crema di zuppa di funghi	62564
+377		Sugo	62727
+378		Brodo di manzo	62881
+379		Brodo di pollo	63042
+380		Zuppa di vongole	63205
+381		Brodo di pollo	63374
+382		Salsiccia di fegato	63532
+383		Rotolo di pollo	63665
+384		Salsiccia di carne bovina	63822
+385		Salsiccia di maiale salsiccia	63956
+386		Pranzo carne	64099
+387		Salame piccante	64227
+388		Salsiccia	64360
+389		Salsiccia di maiale e manzo	64487
+390		Salame	64653
+391		Petto di tacchino	64788
+392		Rotolo di carne leggero Turchia	64986
+393		Rotolo di Turchia	65135
+394		Salsiccia italiana	65287
+395		Salsiccia di maiale precotto	65451
+396		Ciottoli di cacao	65579
+397		Patatine fritte del biscotto	65698
+398		Mais chex	65823
+399		Fiocchi di mais	65941
+400		Tutto-crusca di frumento fiocchi	66064
+401		Fiocchi di crusca	66179
+402		Fruttato ciottoli	66303
+403		Muesli	66417
+404		KIX	66542
+405		Portafortuna	66673
+406		Miele dado chex	66807
+407		Crusca di uva passa	66941
+408		Cereali crusca all'uvetta	67069
+409		Riso chex	67193
+410		Fiocchi glassati	67314
+411		Grano intero totale	67442
+412		Frumento chex	67565
+413		Semola di mais	67689
+414		Avena	67817
+415		Farina d'avena	67937
+416		Avena con cannella e spezie	68062
+417		Avena con uva passa e spezie	68187
+418		Basso grasso muesli senza uvetta	68316
+419		Soffi di Reese	68434
+420		Piazze di farina d'avena	68560
+421		Cereali crusca d'avena	68691
+422		Fibra uno	68823
+423		Crusca totale all'uvetta	68940
+424		Soffi di cacao	69058
+425		Scricchiolio del pane tostato di cannella	69181
+426		Basso grasso muesli con uvetta	69317
+427		Avena tostato di miele	69437
+428		Mandorla vaniglia	69558
+429		Succo di mela	69678
+430		Salsa di mele	69841
+431		Mirtilli	69981
+432		Succo d'uva	70133
+433		Uva	70298
+434		Cantalupo	70450
+435		Succo d'arancia	70813
+436		Concentrato di succo d'arancia	70972
+437		Succo d'arancia con calcio	71138
+438		Concentrato di succo d'arancia congelato	71305
+439		Pera	71475
+440		Ananas	71687
+441		Uvetta	71931
+442		Fragola	72174
+443		Fragole congelate	72482
+444		Anguria	72794
+445		Succo di mela, uva e pere	73153
+446		Grasso alla griglia su lonza di maiale	73318
+447		Lonza di maiale alla griglia	73487
+448		Lonza di maiale arrosto	73655
+449		Braciole di maiale	73824
+450		Prosciutto	73994
+451		Arrostito grasso sul prosciutto	74144
+452		Prosciutto arrosto	74278
+453		Prosciutto magro extra	74410
+454		Tagli di carne di maiale	74561
+455		Maiale di terra	74734
+456		Prosciutto con succhi naturali	74857
+457		Prosciutto e acqua	75016
+458		Prosciutto - aggiunta di acqua	75171
+459		Asparagi	75329
+460		Fagioli in scatola verde	75474
+461		Cavolo crudo	75651
+462		Cavolo	75987
+463		Carota	76321
+464		Carote cotte	76649
+465		Carota congelato	76975
+466		Sedano	77303
+467		Verdi di cicoria	77598
+468		Bietole	77725
+469		Mais	77859
+470		In scatola di mais giallo	78126
+471		Mais surgelati	78275
+472		Cetriolo	78542
+473		Indivia	78789
+474		Lattuga romana	78949
+475		Lattuga verde	79280
+476		Fungo bianco	79615
+477		Senape verdi	79775
+478		Cipolla	79908
+479		Cipolla cotta	80214
+480		Cipollotti	80523
+481		Prezzemolo	80737
+482		Piselli verdi	80903
+483		Piselli in scatola	81030
+484		Piselli surgelati	81157
+485		Patata	81284
+486		Patate al forno	81507
+487		Patata lessa	81727
+488		Purè di patate	81947
+489		Bignè di patate	82075
+490		Forno patatine fritte	82239
+491		Spinaci crudi	82436
+492		Spinaci cotti	82627
+493		Spinaci in scatola	82754
+494		Patate dolci al forno	82879
+495		Patata dolce	83090
+496		Pomodoro	83297
+497		Pomodoro cotto	83660
+498		Pomodoro in scatola	83947
+499		Conserve di pomodori stufati	84136
+500		Succo di pomodoro	84421
+501		Concentrato di pomodoro	84589
+502		Conserve di pomodoro	84750
+503		Rapa	84909
+504		Succo di verdura in scatola	85045
+505		Verdure miste	85212
+506		Patata dolce in scatola	85338
+507		Succo di carota in scatola	85547
+508		Patate al forno con pelle	85713
+509		Concentrato di pomodoro	85935
+510		Semi di girasole	86098
+511		Semi di girasole tostati	86229
+512		Mandorle	86361
+513		Mandorle sbollentate	86617
+514		Mandorle tostate	86858
+515		Noce	87098
+516		Semi di girasole Olio tostata	87382
+517		Mandorle tostate salate	87517
+518		Anacardi	87759
+519		Noci miste	87935
+520		Olio torrefatto noci miste	88059
+521		Fegato di manzo	88189
+522		Fegato di manzo	88313
+523		Petto di manzo	88437
+524		Costola di manzo	88553
+525		Manzo	88668
+526		Arrosto di manzo lama	88851
+527		Costola di manzo	88968
+528		Costola di manzo	89088
+529		Manzo rotondo	89211
+530		Controfiletto superiore	89327
+531		Controfiletto superiore	89447
+532		Birra	89568
+533		Birra leggeraliquore di prova	89709
+534		80	89872
+535		Vino rosso	89966
+536		Vino bianco	90074
+537		Succo di frutta e verdura	90180
+538		Bevanda energetica toro rosso	90330
+539		Sciroppo di cioccolato	90499
+540		Caffè decaffeinato	90627
+541		Caffè	90771
+542		Caffè istantaneo	90923
+543		Bevanda di frutta sciroppata	91062
+544		Bevanda di frutta arricchito	91227
+545		Limonata	91403
+546		Tè decaffeinato	91588
+547		Tè	91736
+548		Tè solubile	91884
+549		Acqua del rubinetto	92053
+550		Acqua al gusto di fruttaliquore di prova	92183
+551		86	92345
+552		Acqua in bottiglia	92441
+553		Acqua di frutta arricchito al gusto	92572
+554		Bevanda energetica mostro	92732
+555		Bastoncini di pesce	92894
+556		Pesce piatto	93077
+557		Aringa	93199
+558		Salmone	93468
+559		Tonno in scatola luminosa	93573
+560		Granchio	93759
+561		Gamberetti	93967
+562		Gamberetti in scatola	94113
+563		Vongole	94259
+564		Vongole in scatola	94442
+565		Ostrica	94629
+566		Pesce gatto	94763
+567		Trota iridea	94883
+568		Fagioli al forno	95007
+569		Fagioli al forno con franchi	95132
+570		Cotto fagioli con carne di maiale e pomodoro Salsa	95259
+571		Fagioli neri	95382
+572		Fagioli rossi in scatola	95526
+573		Fagioli rossi	95666
+574		Fagioli bianchi	95820
+575		Lenticchie	95961
+576		Lenticchie cotte	96104
+577		Arachidi salate	96247
+578		Arachidi tostate salate	96395
+579		Burro di arachidi	96539
+580		Fagioli fritti	96669
+581		Salsa di soia	96805
+582		Latte di soia arricchito	96993
+583		Burro di arachidi grasso ridotto	97159
+584		Arachidi senza sale	97284
+585		Arachidi tostate	97430
+586		Bagel uvetta cannella	97572
+587		Biscotto	97790
+588		Biscotto	97960
+589		Pane di mais	98136
+590		Pane francese	98283
+591		Pane italiano	98505
+592		Pane multi-integrale	98699
+593		Pane di segale	99004
+594		Pane	99306
+595		Brindisi	99613
+596		Pane bianco	99919
+597		Pane bianco	100223
+598		Pane integrale	100519
+599		Pane integrale tostato	100822
+600		Briciole di pane	101126
+601		Torta al cioccolato	101266
+602		Pan di Spagna	101417
+603		Biscotto di pepita di cioccolato	101566
+604		Biscotto del burro di arachidi	101742
+605		Biscotti alla vaniglia panino	101917
+606		Cracker con burro di arachidi	102094
+607		Cracker di frumento	102314
+608		Cornetto	102531
+609		Ciambella all'antica	102731
+610		Ciambella	102992
+611		Frittella	103258
+612		Torta di mele	103468
+613		Torta di zucca	103655
+614		Cena rotolo	103845
+615		Rotolo di pane duro	103967
+616		Rotolo di cannella	104158
+617		Lievito in polvere	104351
+618		Lievito	104463
+619		Cialda di latticello	104626
+620		Pasticceria glassato tostapane	104781
+621		Bignè di formaggio	104913
+622		Caramelle	105074
+623		Cioccolato di cottura	105220
+624		Cioccolato semidolce	105367
+625		Cioccolato fondente rivestiti	105505
+626		Luce di gelato alla vaniglia	105650
+627		Gelato di ricco alla vaniglia	105784
+628		Gelato alla vaniglia	105912
+629		Sorbetto arancia	106041
+630		Caramelle gommose	106172
+631		Caramella dura	106494
+632		Marshmallow	106611
+633		Cioccolato al latte	106776
+634		Arachidi M & Ms	106921
+635		M & Ms	107100
+636		Cacao in polvere	107281
+637		Gelato al cioccolato	107410
+638		Calce tipo ghiaccio	107536
+639		Miele	107641
+640		Gelatine	107752
+641		Zucchero di canna	107898
+642		Zucchero	108145
+643		Zucchero a velo	108384
+644		Sciroppo d'acero	108567
+645		Sciroppo d'acero	108694
+646		Chip	108809
+647		Chip grasso ridotto	108969
+648		Farina di mais arricchito	109122
+649		Riso sbramato	109245
+650		Riso bianco grezzo	109366
+651		Riso bianco	109489
+652		Riso istantaneo	109611
+653		Farina di grano intero	109727
+654		Farina	109850
+655		Farina di pane bianco	109975
+656		Farina della torta	110099
+657		Maccheroni	110222
+658		Tagliatelle	110411
+659		Biscotto con uovo e salsiccia	110536
+660		Biscotto con salsiccia	110670
+661		Patatine fritte	110804
+662		Pizze nascente	111000
+663		Pizze sottili	111144
+664		Offerte di pollo	111300
+665		Rotolo di uova con carne di maiale	111429
+666		Carne macinata di manzo (75/25)	111559
+667		Barra di cioccolato potenza	111683
+668		Miele grappoli di avena con le mandorle	111810
+669		Formaggio grasso ridotto	111940
+670		Fiches bianche	112179
+671		Basso grasso formaggio americano	112328
+672		Succo di mirtillo	112566
+673		Miele grappoli d'avena	112727
+674		Basso grasso formaggio svizzero	112859
+675	P	Succo di Pesca (Yoga)	113098
+676	P	Succo di Pesca (Conad)	113163
+677	P	Succo di Frutta alla Pesca (Santal)	113224
+678	P	Succo e Polpa di Pesca (Esselunga)	113266
+679	P	Succo e Polpa di Pesca (Coop)	113336
+680	P	Succo e Polpa di Pesca (Vale)	113416
+681	P	Burro Spalmabile all'olio Vegetale (Ridotto Contenuto Calorico, in Tubetto, Salato)	113477
+682	P	Succo e Polpa di Pesca (Despar)	113643
+683	P	Succo e Polpa di Pesca (Coop)	113707
+684	P	Burro Leggero (Salato)	113768
+685	P	Carciofi Fritti	113893
+686	P	Cuori di Carciofi (Auchan)	114114
+687	P	I Cuori di Carciofo (Buitoni)	114177
+688	P	Carciofini Tagliati Sottolio (Conad)	114237
+689	P	Caciocavallo	114282
+690	P	Formaggio Gouda o Edam	114452
+691	P	Branzino	114698
+692	P	Merlano	115046
+693	P	Merlano al Forno o alla Griglia	115393
+694	P	Merlano Fritto Impanato o Infarinato	115740
+695	P	Peperoni Rossi Dolci	116091
+696	P	Peperoni	116432
+697	P	Peperoni Gialli Dolci	116773
+698	P	Carne Salada	117011
+699	P	Carne di Manzo (Bistecca, Magra, Tagliata con 0 cm di Grasso)	117199
+700	P	Carne Macinata (95% Magra / 5% di Grassi)	117374
+701	P	Carne Macinata (95% Magra / 5% di Grassi, Polpette, Cotta, alla Griglia)	117549
+702	P	Quarto Anteriore di Carne di Manzo (Brasato, Tagliato con 0.3 cm di Grasso)	117815
+703	P	Carne Macinata (90% Magra / 10% di Grassi)	117964
+704	P	Carne Macinata (85% Magra / 15% di Grassi)	118138
+705	P	Cannellini (Bonduelle)	118315
+706	P	Fagioli Cannellini (Esselunga)	118376
+707	P	Fagioli Cannellini Giganti (Select)	118439
+708	P	Fagioli Cannellini (Selex)	118507
+709	P	Fagioli Cannellini (LD Market)	118570
+710	P	Fagioli Cannellini (Auchan)	118628
+711	P	Fagioli Cannellini (Valfrutta)	118667
+712	P	Fagioli Cannellini (Delizie del Sole)	118732
+713	P	Fagioli Cannellini (Bonduelle)	118771
+714	P	Cannellini all'uccelletto (Carrefour)	118832
+715	P	Carciofi	118872
+716	P	Carciofo Cotto (da Fresco)	119093
+717	P	Cuori di Carciofi a Spicchi (Orogel)	119358
+718	P	Carciofi Ripieni	119416
+719	P	Cuori Di Carciofi (Findus)	119600
+720	P	Cuori di Carciofo Sott'olio	119655
+721	P	Zucchine a Fette (Orogel)	119884
+722	P	Olio Extra Vergine di Oliva	119944
+723	P	Olio Extra Vergine di Oliva (Monini)	120165
+724	P	Olio Extra Vergine di Oliva (Bertolli)	120227
+725	P	Tonno all'olio Extra Vergine di Oliva (Rio Mare)	120302
+726	P	Olio d'oliva	120358
+727	P	Olio di Canola Vegetale	120558
+728	P	Olio di Fegato di Merluzzo	120758
+729	P	Condimento per Insalata di Olio e Aceto (Ricetta Casalinga)	120967
+730	P	Olio di Salmone	121167
+731	P	Pomodori	121376
+732	P	Pomodori Ciliegini	121775
+733	P	Pomodori Rossi	121957
+734	P	Insalata di Pomodori	122351
+735	P	Pomodorini	122555
+736	P	Pomodori Gratinati	122814
+737	P	Passata di Pomodori (in Scatola)	123006
+738	P	Passata di Pomodoro (Coop)	123159
+739	P	Polpa di Pomodoro (Mutti)	123199
+740	P	Sugo Pomodoro e Basilico (Althea)	123261
+741	P	Gelato Bianco Variegato Amarena (Valsoia)	123325
+742	P	Gran Varié (Colussi)	123399
+743	P	Dolce Variegata (Mulino Bianco)	123462
+744	P	Torta Variegata (Mulino Bianco)	123523
+745	P	Chicco Merenda Variegata (Scotti)	123585
+746	P	Gran Varié (Colussi)	123667
+747	P	Peperonata	123728
+748	P	Peperoni Fritti	123936
+749	P	Peperoni Verdi	124075
+750	P	Peperoni Grigliati (Saclà)	124419
+751	P	Peperone Ripieno	124457
+752	P	Peperoni in Agrodolce (Ponti )	124692
+753	P	Peperoni alla Griglia (Coop)	124736
+754	P	Carne Macinata (85% Magra / 15% di Grassi, Polpette, Cotta, alla Griglia)	124792
+755	P	Roast Beef	125012
+756	P	Carne Macinata di Manzo (80% Magra / 20% di Grasso)	125165
+757	P	Yogurt alla Vaniglia o al Limone (Magro con Dolcificante Ipocalorico)	125342
+758	P	Yogurt alla Vaniglia (Basso Contenuto di Grassi)	125467
+759	P	Yogurt-Gelato alla Vaniglia (Servito Morbido)	125679
+760	P	Frappè Denso alla Vaniglia	125871
+761	P	Biscotti alla Vaniglia Accoppiati con Crema al Centro	126046
+762	P	Wafer alla Vaniglia (Basso Contenuto di Grassi)	126291
+763	P	Biscotti (Oro Saiwa)	126512
+764	P	Biscotti di Zucchero (Include alla Vaniglia)	126628
+765	P	Biscotti Petit (Coop)	126822
+766	P	Biscotti Petit (Auchan)	126938
+767	P	Wafer alla Vaniglia (Alto Contenuto di Grassi)	127034
+768	P	Gelati alla Vaniglia Light	127211
+769	P	Ricchi Gelati alla Vaniglia	127406
+770	P	Gelati alla Vaniglia	127597
+771	P	Schiacciatine Classiche (Carrefour)	127792
+772	P	Schiacciatine al Rosmarino (Bottoli)	127862
+773	P	Schiacciatine alle Olive (Bottoli)	127931
+774	P	Schiacciatine (Bottoli)	127989
+775	P	Schiacciatine Kamut (Sarchio)	128047
+776	P	Biscotti Petit (Esselunga)	128111
+777	P	Petit Pavesi Biscotti (Pavesi)	128183
+778	P	Biscotti Petit Beurre (Axodiet)	128299
+779	P	Biscotti Semplici o al Latte (Miscela Pronta)	128397
+780	P	Carne di Petto di Tacchino, Carne e Pelle (Cotto, Arrosto)	128520
+781	P	Tagliata di Manzo (solo Parte Magra, Tagliata con 0.3 cm di Grasso)	128772
+782	P	Carne Macinata di Manzo (75% Magro 25% di Grassi)	128951
+783	P	Latte Parzialmente Scremato (Parmalat)	129128
+784	P	Latte Parzialmente Scremato (Granarolo)	129191
+785	P	Latte Parzialmente Scremato (Conad)	129256
+786	P	Cappuccino con Pochi Grassi	129304
+787	P	Cappuccino al Cacao (Nescafe)	129602
+788	P	Cappuccino senza Grassi	129734
+789	P	Cappuccino (Nescafe)	130057
+790	P	Cappuccino Solubile (Don Jerez)	130121
+791	P	Cappuccino Decaffeinato (Nescafe)	130191
+792	P	Cappuccino (Crastan)	130270
+793	P	Chococino (Nescafe)	130353
+794	P	Tramezzini Pollo e Funghi (Coop)	130460
+795	P	Tramezzini Pomodoro e Mozzarella (Coop)	130503
+796	P	Tramezzini ai Gamberetti (Conad)	130544
+797	P	Pane per Tramezzini (LD Market)	130587
+798	P	Pane per Tramezzini (Conad)	130627
+799	P	Tramezzini Preparati con Latte Fresco (Certossa)	130667
+800	P	Pane per Tramezzini (Vogliazzi)	130779
+801	P	Rucola	130821
+802	P	Fitness Cereali Integrali (Nestlé)	130998
+803	P	Corn Flakes	131065
+804	P	Panini Integrali	131258
+805	P	Cereali d'avena (senza Sale, Cotti in Acqua, non Arricchiti)	131604
+806	P	Cereali di Frumento (Dolcificati)	131813
+807	P	Cereali d'avena (Istantanei, Secchi, Fortificati)	132018
+808	P	Gallette di Riso Integrali ai Multicereali	132164
+809	P	Crackers Integrali	132361
+810	P	Cereali d'avena (Istantanei Preparati con Acqua, Fortificati)	132586
+811	P	Muesli Croccante con Cioccolato e Nocciole (Coop)	132870
+812	P	Muesli (Frutta Secca e Noci)	132939
+813	P	Muesli alla Frutta (Vivi Verde Coop)	133077
+814	P	Vitalis Muesli Croccante (Cameo)	133128
+815	P	Muesli Frutta (Vitalis)	133195
+816	P	Muesli Croccante Double Chocolate (Vitalis)	133263
+817	P	Muesli Croccante (Conad)	133330
+818	P	Muesli Bio (Jordans)	133382
+819	P	Muesli alla Frutta (Dico)	133448
+820	P	Muesli Original (Rapunzel)	133512
+821	P	Calamarata (Garofalo)	133571
+822	P	Calamarata (De Cecco)	133608
+823	P	Calamarata Siciliana (Conad)	133675
+824	P	Latte Scremato (Granarolo)	133732
+825	P	Latte Parzialmente Scremato	133770
+826	P	Latte Scremato (Esselunga)	133952
+827	P	Latte Scremato	134021
+828	P	Latte Scremato (Sterilgarda)	134161
+829	P	Latte (Magro)	134229
+830	P	Latte Scremato (Weight Watchers)	134410
+831	P	Latte Scremato (Zymil)	134480
+832	P	Latte Uht Scremato (Coop)	134539
+833	P	Latte Scremato UHT (Conad)	134594
+834	P	Manzotin (Manzotin)	134649
+835	P	Carne Bovina in Gelatina (Manzotin)	134688
+836	P	Formaggio Fresco Morbido (Basso Contenuto di Grassi,2% Grassi nel Latte)	134760
+837	P	Formaggio Fresco Morbido (Basso Contenuto di Grassi,1% Grassi nel Latte)	134958
+838	P	Mozzarella (Latte Intero)	135154
+839	P	Mozzarella (Latte Parzialmente Scremato)	135359
+840	P	Ricotta (Latte Intero)	135524
+841	P	Ricotta (Latte Parzialmente Scremato)	135706
+842	P	Crema Inglese (Metà Latte e Metà Panna)	135888
+843	P	Latte (Latte Intero)	136137
+844	P	Latte (2% di Contenuto di Grassi con Aggiunta di Vitamina A)	136383
+845	P	Latte (2% di Contenuto di Grassi con Aggiunta di Vitamina A e Proteine)	136636
+846	P	Strudel di Mele	136822
+847	P	Strudel di Mele Surgelato (Melinda)	137092
+848	P	Bueno (Kinder)	137160
+849	P	Bueno (Kinder)	137276
+850	P	Bueno Mini (Kinder)	137344
+851	P	Bueno White (Kinder)	137443
+852	P	Burro Spalmabile all'olio Vegetale (Ridotto Contenuto Calorico)	137560
+853	P	Patatine Tortillas (Basso Contenuto di Grassi, Cotte al Forno)	137741
+854	P	Petto di Pollo (al Forno, senza Grassi, a Fette)	137864
+855	P	Miscela di Burro e Margarina (60% di Olio di Semi & 40% di Burro)	138027
+856	P	Petto di Tacchino (97% senza Grassi, al Gusto di Pepe e Limone, Affumicato)	138289
+857	P	Cracker di Farina di Frumento (Semplice o al Miele, con Cannella)	138425
+858	P	Barrette di Musli con Pezzettini di Cioccolato Ricoperte al Cioccolato	138736
+859	P	Buondì al Cioccolato (Buondì)	138902
+860	P	Torta al Cioccolato (con Glassa di Cioccolato)	139006
+861	P	Latte Parzialmente Scremato (Coop)	139210
+862	P	Latte Parzialmente Scremato (Zymil)	139274
+863	P	Latte Parzialmente Scremato (Centrale del Latte di Roma)	139338
+864	P	Latte Parzialmente Scremato (Esselunga)	139402
+865	P	Latte Parzialmente Scremato (Land)	139463
+866	P	Latte Parzialmente Scremato (Carrefour)	139504
+867	P	Vaniglia (Ringo)	139566
+868	P	Cacao (Ringo)	139649
+869	P	Goal (Ringo)	139751
+870	P	Gelato Snack Gusto Vaniglia (Ringo)	139861
+871	P	Biscotti al Cioccolato Accoppiati con Crema al Centro	139929
+872	P	Latte di Soia al Cioccolato	140120
+873	P	Torta al Cioccolato (senza Glassa)	140319
+874	P	Latte al Cioccolato (Intero)	140583
+875	P	Latte al Cioccolato (Ridotto Contenuto di Grassi)	140848
+876	P	Latte al Cioccolato (Basso Contenuto di Grassi)	141090
+877	P	Frappè Denso al Cioccolato	141326
+878	P	Brioss (Kinder)	141510
+879	P	Yogo Brioss (Kinder)	141619
+880	P	Brioss Ciliegia e Cereali (Kinder)	141714
+881	P	Origano	141811
+882	P	Crostini di Pane Conditi	142008
+883	P	Whey Protein (ProAction)	142207
+884	P	Gold Standard Whey (Optimum Nutrition)	142313
+885	P	100% Whey Isolate (Scitec Nutrition)	142427
+886	P	Proteine Whey	142500
+887	P	100% Whey Protein Professional (Scitec Nutrition)	142654
+888	P	Impact Diet Whey (Myprotein)	142754
+889	P	Isobolic Whey (Eurosup)	142836
+890	P	Prostar Whey Protein (Ultimate Nutrition)	142913
+891	P	100% Whey Protein (EAS)	143022
+892	P	VB Whey 104 (Net Integratori)	143149
+893	P	Biscotto	143259
+894	P	Biscotto al Burro o Allo Zucchero	143485
+895	P	Macine (Mulino Bianco)	143814
+896	P	Pan di Stelle (Mulino Bianco)	143929
+897	P	Più Integrali (Galbusera)	144012
+898	P	Biscotti (Gocciole)	144105
+899	P	Biscotti Integrali (Conad)	144212
+900	P	Pizza Margherita	144293
+901	P	Pizza Margherita (Rossopomodoro)	144688
+902	P	Pizza Margherita (Iper)	144740
+903	P	Pizza Margherita (Coop)	144793
+904	P	Pizza Tradizionale Margherita (Cameo)	144916
+905	P	Pizza Margherita (Findus)	145014
+906	P	Pizza Margherita (Conad)	145128
+907	P	Trancio Pizza Margherita (Tre Mulini)	145167
+908	P	Pizza Margherita (Taverna Giuseppe)	145209
+909	P	Mini Pizza Margherita (Buitoni)	145278
+910	P	Insalata Verde con Verdure Assortite	145374
+911	P	Insalata Verde con Verdure Assortite (inclusi Pomodori e / o Carote)	145581
+912	P	Insalata Mista (Despar)	145814
+913	P	Insalata Fantasia (Coop)	145854
+914	P	Insalata Classica (Conad)	145915
+915	P	Mista Fine (Bonduelle)	145953
+916	P	Gran Mix Insalata (Conad)	146024
+917	P	Insalata Verde con Formaggio, Pomodoro e / o Carote	146062
+918	P	Insalata Ricca (Esselunga)	146279
+919	P	Cuori di Iceberg (Carrefour)	146319
+920	P	Cacao in Polvere (non Zuccherato)	146376
+921	P	Crema Inglese o al Caffe (Light)	146588
+922	P	Caffè (dalla Moca)	146864
+923	P	Caffè (Espresso)	147053
+924	P	Caffè (in Polvere)	147174
+925	P	Caffè (Istantaneo)	147400
+926	P	Caffè (Cappuccino in Polvere, Istantaneo, con Zucchero)	147528
+927	P	Pizza al Pomodoro	147794
+928	P	Pizza al Prosciutto	148189
+929	P	Pizza al Formaggio con Verdure	148590
+930	P	Pizza Bianca	148985
+931	P	Pizza Capricciosa	149336
+932	P	Margherita DOP (Fratelli La Bufala)	149733
+933	P	Pizza con Carne e Verdure	149788
+934	P	Pane Bianco Tostato	150188
+935	P	Pane d'avena	150576
+936	P	Pane Arabo Integrale	150721
+937	P	Pumpernickel Pane	150968
+938	P	Pane di Segale (Apporto Calorico Ridotto)	151245
+939	P	Pane di Grano Duro (Apporto Calorico Ridotto)	151442
+940	P	Pane Bianco (Apporto Calorico Ridotto)	151588
+941	P	Pane di Grano di Crusca	151734
+942	P	Pane Bianco	151878
+943	P	Pane Italiano	152227
+944	P	Panini	152479
+945	P	Ciabatta	152867
+946	P	Baguette	153199
+947	P	Panini di Grano	153541
+948	P	Panino all'olio	153734
+949	P	Pane Tostato	153931
+950	P	Fiocchi di Latte (Land)	154203
+951	P	Fiocchi di Latte (Jocca)	154253
+952	P	Fiocchi di Latte (Vitasnella)	154310
+953	P	Fiocchi di Latte con Yogurt (Exquisa)	154351
+954	P	Vivita Fiocchi di Latte (Stuffer)	154404
+955	P	Fiocchi di Latte Light (Vitawell)	154461
+956	P	Fiocco di Latte (Bayernland)	154518
+957	P	Fiocchi di Latte (Carrefour)	154553
+958	P	Fiocchi di Latte (Stuffer)	154606
+959	P	Fiocchi di Latte con Yogurt (Despar)	154670
+960	P	Krapfen	154723
+961	P	Nutella (Nutella)	154938
+962	P	Nutella (Nutella)	155023
+963	P	Bready (Nutella)	155092
+964	P	Biscotti ai Cereali (Esselunga)	155163
+965	P	Biscotti ai Cereali (Dolciando & Dolciando)	155277
+966	P	Biscotti ai Cereali con Crema Allo Yogurt (Dolciando & Dolciando)	155353
+967	P	Biscotti senza Zucchero ai Cereali (Misura)	155418
+968	P	Biscotti Semplici o al Latte	155535
+969	P	Biscotti ai Cereali senza Lievito (Céréal)	155784
+970	P	Biscotti Novellini (Dolciando & Dolciando)	155852
+971	P	Biscotti Novellini (Dolciando & Dolciando)	155943
+972	P	Biscotti con Gocce di Cioccolato (con Burro)	156005
+973	P	Biscotti con Gocce di Cioccolato (Basso Contenuto di Grassi)	156198
+974	P	Biscotti con Gocce di Cioccolato (di tipo Morbido)	156371
+975	P	Impasto per Biscotti con Gocce di Cioccolato	156551
+976	P	Biscotti con Gocce di Cioccolato (con Margarina)	156747
+977	P	Biscotti al Burro di Arachidi	156993
+978	P	Biscotti Frollini	157175
+979	P	Fette Biscottate Integrali (7.9g) (Mulino Bianco)	157370
+980	P	Fette Biscottate Integrali	157500
+981	P	Fette Biscottate Integrali (Coop)	157683
+982	P	Fette Biscottate Integrali (GrissinBon)	157797
+983	P	Fette Biscottate Integrali (Buitoni)	157944
+984	P	Fette Biscottate Integrali (Misura)	158044
+985	P	Fette Biscottate Integrali (Esselunga)	158131
+986	P	Fette Biscottate Integrali (8.8g) (Mulino Bianco)	158200
+987	P	Fette Biscottate Integrali (Conad)	158319
+988	P	Fette Biscottate le Integrali (Mulino Bianco)	158395
+989	P	Fesa di Tacchino	158504
+990	P	Fesa di Tacchino (Rovagnati)	158665
+991	P	Fettine di Fesa di Tacchino (Aia)	158719
+992	P	Arrosto di Fesa di Tacchino (Amadori)	158781
+993	P	Fesa di Tacchino al Forno (Esselunga)	158843
+994	P	Carne di Petto di Tacchino (Cotto, Arrosto)	158884
+995	P	Fesa di Tacchino a Fette (Baroni)	159155
+996	P	Fesa di Tacchino (Dico)	159211
+997	P	Fesa di Tacchino (LD Market)	159251
+998	P	Schiacciatina al Rosmarino (Conad)	159302
+999	P	Schiacciatina Mantovana Classica (Bottoli)	159375
+1000	P	Schiacciatina Gusto Pizza (Bottoli)	159483
+1001	P	Schiacciatina Toscana alle Olive (GranArt)	159584
+1002	P	Mazzancolle	159629
+1003	P	Mazzancolle e Branzino ai Sapori (Salmon Club)	159850
+1004	P	Mazzancolle in Tempura (Bofrost)	159893
+1005	P	Mazzancolle con Verdure e 5 Cereali (Orogel)	159937
+1006	P	Fette Biscottate	160001
+1007	P	Fette Biscottate (Mulino Bianco)	160251
+1008	P	Fette Biscottate (GrissinBon)	160364
+1009	P	Armonie Cereali Fette Biscottate (Mulino Bianco)	160510
+1010	P	Fette Biscottate le Dorate (Mulino Bianco)	160619
+1011	P	Fette Biscottate Armonie Integrali (Mulino Bianco)	160729
+1012	P	Fette Biscottate (Buitoni)	160835
+1013	P	Fette Biscottate Armonie Malto d'orzo (Mulino Bianco)	160938
+1014	P	Fette Biscottate (8.5g) (Panmonviso)	161052
+1015	P	Tè Freddo	161122
+1016	P	Tè Freddo non Zuccherato	161347
+1017	P	Caffè Freddo	161573
+1018	P	Tè Freddo al Limone (Piccolo) (McDonald's)	161812
+1019	P	Caffè Freddo con Latte	161877
+1020	P	Caffè Freddo con Panna e Zucchero	162120
+1021	P	Caffè Freddo con Latte e Zucchero	162365
+1022	P	Tè Freddo alla Pesca (Grande) (McDonald's)	162606
+1023	P	Caffè Leggermente Pre-Zuccherato	162688
+1024	P	Caffè	162930
+1025	P	Caffè Macchiato	163258
+1026	P	Cappuccino	163495
+1027	P	Caffè Espresso	163804
+1028	P	Caffè Istantaneo (in Polvere)	164024
+1029	P	Caffè Latte	164223
+1030	P	Caffè Latte senza Grassi	164483
+1031	P	Tortino Cacao Cioccolato (Germinal)	164739
+1032	P	Tortino di Pesce	164850
+1033	P	Tortino Yogurt (Beniamino)	165075
+1034	P	Tortino Limone Farro (Germinal)	165147
+1035	P	Tortino di Granchio	165251
+1036	P	Tortino Yogurt Kamut (Germinal)	165529
+1037	P	Crackers	165640
+1038	P	Yogurt Bianco Cereali Integrali (Activia)	165949
+1039	P	Yogurt Fragola (Activia)	166028
+1040	P	Yogurt al Caffè Zero Grassi (Activia)	166111
+1041	P	Yogurt Fragola Zero Grassi (Activia)	166172
+1042	P	Yogurt Kiwi Cereali (Activia)	166251
+1043	P	Yogurt Naturale (Activia)	166338
+1044	P	Yogurt Pesca Zero Grassi (Activia)	166413
+1045	P	Yogurt Ciliegia Zero (Activia)	166487
+1046	P	Yogurt Frutti di Bosco Crusca (Activia)	166562
+1047	P	Yogurt Avena Noci (Activia)	166650
+1048	P	Zucchine Cotte	166730
+1049	P	Zucchine	167059
+1050	P	Zucchine Cotte (da Fresche)	167335
+1051	P	Risotto alle Zucchine	167709
+1052	P	Pasta Zucchine e Gamberetti	167911
+1053	P	Zucchine Grigliate (Vallericca)	168084
+1054	P	Risotto Gamberi e Zucchine (Findus)	168146
+1055	P	Zucchine (Salate, Sgocciolate, Cotte, Bollite)	168263
+1056	P	Zucchine Ripiene	168471
+1057	P	Crusca di Grano (il Molino Chiavazza)	168708
+1058	P	Crusca di Frumento (Grezzo)	168753
+1059	P	Germe di Grano	168938
+1060	P	Farro	169110
+1061	P	Insalata di Farro e Verdure (ConBio)	169261
+1062	P	Farro (Barilla)	169328
+1063	P	Farro Perlato (Esselunga Bio)	169388
+1064	P	Minestra di Farro	169453
+1065	P	Farina Integrale di Farro (Alce Nero)	169625
+1066	P	Zuppa di Farro (Bofrost)	169686
+1067	P	Farro Cotti a Vapore (Valfrutta)	169729
+1068	P	Spaghetti di Farro (Ecor)	169794
+1069	P	Farro (Carrefour)	169858
+1070	P	Mousse di Cioccolato	169922
+1071	P	Mousse Magra (Naturella)	170142
+1072	P	Mousse Mela e Pera (Melinda)	170185
+1073	P	Mousse al Cioccolato (Cameo)	170248
+1074	P	Mousse Mela e Fragola (Melinda)	170315
+1075	P	Mousse Magra (Bontanova)	170380
+1076	P	Mousse di Formaggio al Salmone (Stuffer)	170419
+1077	P	Mousse Mela e Banana (Melinda)	170479
+1078	P	Le Stracchinerie (Land)	170543
+1079	P	Mousse Mela e Pesca (Melinda)	170582
+1080	P	Pane Integrale a Fette (Conad)	170648
+1081	P	Pane Integrale a Fette (Pam Panorama)	170722
+1082	P	Pane Integrale Morbido a Fette (Il Forno di Bologna)	170794
+1083	P	Prosciutto Cotto Tagliato a Fette (Extra Magro)	170866
+1084	P	Prosciutto Cotto Tagliato a Fette (Approsimatamente 11% di Grasso)	171031
+1085	P	Sangria	171258
+1086	P	Chiacchiere	171482
+1087	P	Yogurt-Gelato al Cioccolato (Servito Morbido)	171693
+1088	P	Yogurt al Naturale (Latte Intero)	171868
+1089	P	Yogurt al Naturale (Basso Contenuto di Grassi)	172100
+1090	P	Yogurt al Naturale (Latte Scremato)	172284
+1091	P	Yogurt alla Frutta (Basso Contenuto di Grassi, 9g di Proteine Ogni 214g)	172469
+1092	P	Yogurt alla Frutta (Basso Contenuto di Grassi, 11g di Proteine Ogni 214g)	172666
+1093	P	Bignè alla Crema (Ripieni di Crema Pasticcera)	172829
+1094	P	Bistecca alla Fiorentina (Tagliata con 0 cm di Grasso, Cotta, alla Griglia)	173004
+1095	P	Sostituente Crema Inglese (Light, in Polvere)	173208
+1096	P	Sostituente Crema Inglese (Light, Liquido)	173412
+1097	P	Sostituente Crema Inglese (in Polvere)	173578
+1098	P	Crema Inglese (Metà Latte e Metà Panna, senza Grassi)	173790
+1099	P	Condimento per Insalata alla Francese (Ridotto Contenuto di Grassi)	174026
+1100	P	Formaggio Cheddar (Semistagionato)	174249
+1101	P	Formaggio Colby	174585
+1102	P	Formaggio Edam	174895
+1103	P	Formaggio Gouda	175085
+1104	P	Formaggio di Monterey	175277
+1105	P	Provolone	175566
+1106	P	Formaggio Svizzero	175855
+1107	P	Formaggio Americano (da Frigo, Confezionato)	176180
+1108	P	Formaggio Cheddar o Colby (Basso Contenuto di Grassi)	176364
+1109	P	Muffin Inglese Integrale	176631
+1110	P	Torte di Riso Integrale	176825
+1111	P	Riso Integrale (Grani Lunghi, Cotto)	176988
+1112	P	Riso Integrale (Grani Medi, Cotto)	177168
+1113	P	Pasta Integrale Secca	177341
+1114	P	Formaggio Cheddar o Americano (Ridotto Contenuto di Grassi, Pastorizzato)	177493
+1115	P	Formaggio Americano (Basso Contenuto di Grassi, Pastorizzato)	177654
+1116	P	Paella ai Frutti di Mare	177959
+1117	P	Paella (Buitoni)	178161
+1118	P	Paella	178233
+1119	P	Paella Vegetale (Bio Appetì)	178445
+1120	P	Paella (Buitoni)	178500
+1121	P	Paella Valenciana (Findus)	178567
+1122	P	Paella alla Valenciana (Picard)	178635
+1123	P	Paella Surgelata (Vale)	178700
+1124	P	Paella (Gallo)	178745
+1125	P	Paella (Coop)	178863
+1126	P	Biscotti di Zucchero (con Margarina)	178927
+1127	P	Carne Magra in Gelatina (Montana )	179148
+1128	P	Hamburger di Vitello (Montana )	179212
+1129	P	Petto di Pollo Grigliato (Montana )	179299
+1130	P	Hamburger (Montana )	179337
+1131	P	Carne in Gelatina (Montana )	179418
+1132	P	Hamburger Allo Speck (Montana )	179456
+1133	P	Hamburger Leggeri (Montana )	179525
+1134	P	Hamburger al Formaggio (Montana )	179592
+1135	P	Hamburger con Bacon (Montana )	179661
+1136	P	Hamburger con Proteine di Soia (Montana )	179739
+1137	P	Panino Prosciutto e Formaggio	179782
+1138	P	Prosciutto Affumicato al Miele (Cotto)	179957
+1139	P	Prosciutto Tagliato a Dadini	180086
+1140	P	Prosciutto Tritato	180231
+1141	P	Panino con Cannella e Uvetta	180444
+1142	P	Hamburger di Prosciutto (Curato)	180612
+1143	P	Panino Uova e Formaggio	180827
+1144	P	Gallette di Riso (Scotti)	181003
+1145	P	Gallette di Riso (Carrefour)	181099
+1146	P	Gallette di Riso (Conad)	181206
+1147	P	Gallette di Riso (Fiorentini)	181270
+1148	P	Gallette di Riso Integrale (Fiorentini)	181359
+1149	P	Gallette di Riso e Mais Biologiche (Curtiriso)	181473
+1150	P	Gallette di Riso (Vivi Verde Coop)	181586
+1151	P	Gallette di Riso Ricoperte con Cioccolato al Latte (Fiorentini)	181651
+1152	P	Gallette di Riso (OK Bio)	181713
+1153	P	Gallette di Riso (Vivo Meglio)	181797
+1154	P	Fruttosio (Fruttil)	181896
+1155	P	Fruttosio Puro (Fruttil)	181952
+1156	P	Fruttosio Puro (Esselunga)	182016
+1157	P	Fruttosio (Carrefour)	182080
+1158	P	Fruttosio (Esselunga)	182136
+1159	P	Grissini Semplici	182192
+1160	P	Muffins ai Mirtilli	182539
+1161	P	Pizza ai Peperoni (36 cm)	182813
+1162	P	Pizza ai Peperoni (36 cm, Crosta Spessa)	183025
+1163	P	Pizza ai Peperoni (Surgelata, Cotta)	183239
+1164	P	Cereali di Granola	183442
+1165	P	Formaggio Svizzero (Basso Contenuto di Grassi, Pastorizzato)	183594
+1166	P	Formaggio Svizzero (Basso Contenuto di Grassi)	183887
+1167	P	Riso Soffiato Latte e Frutti di Bosco (Più Cereali Bio)	184177
+1168	P	Latte (Magro con Aggiunta di Vitamina A)	184246
+1169	P	Barrette di Cereali con Cioccolato al Latte (Selex)	184460
+1170	P	Barrette di Cereali con Cioccolato al Latte (Kellogg's)	184577
+1171	P	Latte (senza Grassi o Magro, Addizionato di Calcio)	184636
+1172	P	Latte di Riso (Isola Bio)	184859
+1173	P	Latte di Riso (Scotti)	184900
+1174	P	Latte di Riso (Ecolife)	184971
+1175	P	Latte di Riso (Coop)	185053
+1176	P	Latte di Riso (Vital Nature)	185120
+1177	P	Latte di Riso (Soya e Natura)	185187
+1178	P	Ali di Riso con Cioccolato al Latte (Ecor)	185252
+1179	P	Riso con Latte di Cocco	185361
+1180	P	Frollini con Crema di Riso al Latte (Coop)	185519
+1181	P	Biscotti Fior di Riso e Latte (Realforno)	185609
+1182	P	Merluzzo	185702
+1183	P	Filetti di Platessa (Mare Fresco)	186053
+1184	P	Sogliola	186109
+1185	P	Frittura di Pesce	186265
+1186	P	Brioche	186508
+1187	P	Brioche Cereali e Cioccolato con Mandorle (Grancereale)	186722
+1188	P	Carpaccio di Manzo	186837
+1189	P	Carpaccio di Fesa di Manzo (Rigamonti)	186996
+1190	P	Carpaccio di Manzo (Rovagnati)	187078
+1191	P	Filetto di Manzo (Magro, Tagliato con 0,5 cm di Grasso)	187129
+1192	P	Carne Macinata di Manzo (70% Magro, 30% di Grasso)	187281
+1193	P	Controfiletto di Manzo Superiore (Tagliato con 0.3 cm di Grasso, Qualità Media)	187461
+1194	P	Pesce al Forno o alla Griglia	187640
+1195	P	Pesce	188032
+1196	P	Orata	188187
+1197	P	Pesce Fritto in Pastella	188424
+1198	P	Merluzzo al Forno Impanato o in Pastella	188776
+1199	P	Zucchero Semolato	189126
+1200	P	Zucchero	189352
+1201	P	Zucchero di Canna	189602
+1202	P	Zucchero Bianco (in Grani o Zollette)	189904
+1203	P	Barette per la Colazione (Avena, Zucchero, Uvetta, Cocco, incluse le Barette al Muesli)	190154
+1204	P	Ghiacciolo (senza Zucchero)	190332
+1205	P	Gomma da Masticare (senza Zucchero)	190495
+1206	P	Alici	190638
+1207	P	Filetti di Alici (Coop)	190798
+1208	P	Piadina	190842
+1209	P	Piadina Romagnola (CRM)	191203
+1210	P	Piadelle Sfogliate (Mulino Bianco)	191268
+1211	P	Piadina Tradizionale (Coop)	191334
+1212	P	Piadina Romagnola (Conad)	191402
+1213	P	Granpiada Classica (Roberto)	191471
+1214	P	Piadina (Italiamo)	191520
+1215	P	Piadina (Tre Mulini)	191617
+1216	P	Piadina di Kamut (L'Antica Cucina)	191684
+1217	P	Piada Sfogliata Classica (Certossa)	191728
+1218	P	Chele Sapore di Granchio (PanaPesca)	191793
+1219	P	Controfiletto di Manzo Superiore (solo Parte Magra, Tagliato a 0,3 cm di Grasso)	191875
+1220	P	Yogurt Greco Total 0% (Fage)	192034
+1221	P	Crema di Yogurt Greco Extra 0% (Mevgal)	192088
+1222	P	Crema di Yogurt Greco Extra 2% (Mevgal)	192150
+1223	P	Yogurt Greco Total 2% (Fage)	192235
+1224	P	Yogurt Greco (Olympus)	192274
+1225	P	Crema di Yogurt Greco Extra (Mevgal)	192311
+1226	P	Yogurt Greco (Todis)	192373
+1227	P	Crema di Yogurt Greco Extra 0% (Mevgal)	192410
+1228	P	Yogurt Greco (Kionas)	192462
+1229	P	Fagioli in Salsa di Pomodoro con Carne di Maiale (in Scatola)	192509
+1230	P	Chili con Fagioli (in Scatola)	192698
+1231	P	Chili con Carne e Fagioli Porzione Piccola (in Scatola)	192880
+1232	P	Pasta all'uovo Secca	193063
+1233	P	Hamburger con Condimenti	193248
+1234	P	Panino con Arrosto e Formaggio	193447
+1235	P	Panino con la Carne	193621
+1236	P	Fagioli Lima Piccoli (Semi Maturi)	193792
+1237	P	Fagioli Neri (Semi Maturi, con Sale, Cotti, Bolliti)	193944
+1238	P	Pretzel Morbidi	194087
+1239	P	Pan Carrè (Mulino Bianco)	194323
+1240	P	Pan Carré (Tre Mulini)	194433
+1241	P	Pane alla Farina Integrale (Carrefour)	194525
+1242	P	Pane Bianco (Carrefour)	194597
+1243	P	Pane Carré (Roberto)	194647
+1244	P	Pan Carrè (Certossa)	194760
+1245	P	Pan Carrè (San Carlo)	194840
+1246	P	Pane di Grano Duro (Carrefour)	194881
+1247	P	Pancetta Affumicata (Carrefour)	194920
+1248	P	Pan Carré (Schär)	194973
+1249	P	Fiori di Filetto di Merluzzo (Pescanova)	195042
+1250	P	Cuori di Filetto di Merluzzo (Conad)	195127
+1251	P	Croccanti di Filetto di Merluzzo (Coop)	195169
+1252	P	Cuori di Filetto di Merluzzo (Mare Fresco)	195241
+1253	P	Carne di Vitello	195300
+1254	P	Cuori di Filetto di Merluzzo (Dico)	195452
+1255	P	Tagliata di Petto di Pollo (Aia)	195492
+1256	P	Tagliata di Manzo (Tagliata con 0.3 cm di Grasso)	195533
+1257	P	Quarto Anteriore di Carne di Manzo (Copertina Superiore, Tagliata con 0.5 cm di Grasso)	195691
+1258	P	Punta di Petto di Manzo (Tagliata con 0,3 cm di Grasso, Cotta, Brasata)	195850
+1259	P	Petto di Pollo, Carne (Fritto, Cotto)	196026
+1260	P	The alla Pesca (San Benedetto)	196299
+1261	P	Green Tea (Nestea)	196354
+1262	P	Thè Pesca Zero Zucchero (San Benedetto)	196418
+1263	P	The Verde (San Benedetto)	196473
+1264	P	Tea Pesca (Coop)	196529
+1265	P	Tè al Limone (Nestea)	196583
+1266	P	The Verde (Coop)	196638
+1267	P	Té Pesca Gialla e Pesca Bianca (Nestea)	196694
+1268	P	Tea Pesca senza Zucchero (Coop)	196751
+1269	P	Spinaci	196807
+1270	P	Spinaci (in Foglia o Tagliati, Surgelati)	197051
+1271	P	Spinaci Novelli	197251
+1272	P	Spinaci Cotti (da Freschi)	197439
+1273	P	Spinaci Cotti (da Surgelati, senza Aggiunta di Grassi in Cottura)	197649
+1274	P	Tisana Finocchio (Pompadour)	197933
+1275	P	Tisana Snellente (Pompadour)	197991
+1276	P	Tisana Linea (L'Angelica)	198055
+1277	P	Tisana alla Melissa Limoncella (Ricola)	198126
+1278	P	Tisana Distensive Relax (Ricola)	198180
+1279	P	Caffè Ginseng (Ristora)	198262
+1280	P	Carote	198317
+1281	P	Carote Cotte	198665
+1282	P	Carote Crude (Primia)	199014
+1283	P	Carote Julienne (Bennet)	199078
+1284	P	Carotine	199139
+1285	P	Carote Tagliate (Esselunga)	199362
+1286	P	Carote a Rondelle (La Giraffa)	199404
+1287	P	Carote Bollite	199449
+1288	P	Carotine Primizia (Bonduelle)	199626
+1289	P	Piselli e Carotine Natura in Padella (Bonduelle)	199693
+1290	P	Yogurt al Naturale a Basso Contenuto di Grassi	199758
+1291	P	Yogurt Magro 0,1 (Bennet)	199922
+1292	P	Mela	199981
+1293	P	Melanzane Sott'olio	200385
+1294	P	Mela Stark (Coop)	200549
+1295	P	Caco Mela	200590
+1296	P	Mele Cotte	200707
+1297	P	Mele Golden Delicious	200938
+1298	P	Mela (McDonald's)	201341
+1299	P	Mousse Mela (Melinda)	201414
+1300	P	Succo di Mela (Santal)	201480
+1301	P	Mela Essiccata	201541
+1302	P	Cracker (TUC)	201767
+1303	P	Cracker (TUC)	201844
+1304	P	Original (TUC)	201897
+1305	P	Cracker Pomodoro e Grana (TUC)	201964
+1306	P	Tuc Stick (TUC)	202022
+1307	P	Tuc Krek (TUC)	202092
+1308	P	Tuc Paprika (TUC)	202152
+1309	P	Croissant o Cornetto	202215
+1310	P	Cioccolatino (Mon Chéri)	202467
+1311	P	Tè (Infuso)	202534
+1312	P	Tè (Infuso, Decaffeinato)	202718
+1313	P	Tè Pre-Zuccherato	202902
+1314	P	Tè Verde	203131
+1315	P	Thermo Burner Bar (Multipower )	203326
+1316	P	Tè Pre-Zuccherato con Dolcificante a Basse Calorie	203395
+1317	P	Torta Gialla (con Glassa di Cioccolato)	203629
+1318	P	Torta Gialla (con Glassa di Vaniglia)	203831
+1319	P	Petto di Pollo	204037
+1320	P	Petto di Pollo (senza Pelle)	204381
+1321	P	Arrosto di Petto di Pollo alla Griglia o al Forno	204724
+1322	P	Cotoletta Impanata o Filetto di Pollo	205068
+1323	P	Petto di Pollo in Umido (Mangiato senza Pelle)	205386
+1324	P	Arrosto di Petto di Pollo alla Griglia o al Forno (senza Pelle)	205727
+1325	P	Petto di Pollo Affettato (Eurospin)	206070
+1326	P	Succo di Mela (in Cartone o in Bottiglia)	206107
+1327	P	Succo di Pompelmo Bianco	206361
+1328	P	Succo d'arancia	206562
+1329	P	Succo d'arancia (Refrigerato,Concentrato)	206764
+1330	P	Ananas (Solidi e Liquidi, Confezionati in Succo, in Scatola)	206977
+1331	P	Succo di Pompelmo Rosa	207263
+1332	P	Millefoglie	207450
+1333	P	Millefoglie (Vicenzi)	207669
+1334	P	Tè senza Zucchero	207743
+1335	P	Tè Al Limone (Belté)	207953
+1336	P	Tea Forest Fruit (Lipton)	208006
+1337	P	Ice Tea Pesca (Lipton)	208064
+1338	P	Tè Verde Classico (Lipton)	208121
+1339	P	Green Tea Mandarin Orange (Lipton)	208179
+1340	P	Olio Extravergine di Oliva (Dante)	208237
+1341	P	Olio Extravergine d'oliva (Carapelli)	208305
+1342	P	Olio Extravergine di Oliva (Coop)	208379
+1343	P	Olio Extravergine di Oliva (Auchan)	208487
+1344	P	Olio di Sesamo	208564
+1345	P	Riso Bianco (Grani Lunghi, Cotto)	208766
+1346	P	Riso Bianco (Grani Medi, Cotto)	208949
+1347	P	Riso Bianco (Grani Corti, Cotto)	209125
+1348	P	Riso Selvatico (Cotto)	209294
+1349	P	Spaghetti di Riso Secchi	209477
+1350	P	Spaghetti di Riso (Cotti)	209635
+1351	P	Crocchette di Pollo e Tacchino (Coop)	209856
+1352	P	Carne di Pollo Light (Tostata, Arrosto, Cotta)	209920
+1353	P	Frappè	210193
+1354	P	Frappè al Cioccolato	210382
+1355	P	Frappè alla Vaniglia	210675
+1356	P	Frittata di Uova	210969
+1357	P	Filettino di Nasello (Mare Fresco)	211190
+1358	P	Filettini di Nasello (Mare Fresco)	211235
+1359	P	Filetti di Nasello Surgelati (Coop)	211286
+1360	P	Filetto di Struzzo	211346
+1361	P	Lonza di Maiale (Filetto,solo Parte Magra)	211503
+1362	P	Lonza di Maiale (Filetto)	211660
+1363	P	Filetto di Manzo (Tagliato con 0.3 cm di Grasso)	211813
+1364	P	Crackers al Formaggio	211995
+1365	P	Ciambelle al Cioccolato Zuccherate o Glassate	212334
+1366	P	Pancakes, Frittelle al Mirtillo	212591
+1367	P	Carne di Tacchino Macinata (Cotta)	212822
+1368	P	Carne Macinata di Maiale (Cotta)	213101
+1369	P	Pancetta (Curata, al Forno, Cotta)	213319
+1370	P	Pancetta (Curata, al Microonde, Cotta)	213560
+1371	P	Pancetta (Curata, in Padella, Cotta)	213810
+1372	P	Patata Americana (senza Sale, al Forno con Buccia, Cotta)	214057
+1373	P	Bacio Bianco (Perugina)	214328
+1374	P	Mini Babybel (20g) (Babybel)	214451
+1375	P	Mini Babybe (22g) (Babybel)	214507
+1376	P	Cialde di Cioccolato	214608
+1377	P	Biscotto di Fiocchi d'avena	214824
+1378	P	Biscotto di Fiocchi d'avena (con Uvetta)	215051
+1379	P	Brownies	215251
+1380	P	Mini Bastoncini di Pesce (Bofrost)	215470
+1381	P	Filetto o Bastoncino di Pesce al Forno Impanato o in Pastella	215538
+1382	P	Filetto o Bastoncino di Pesce alla Griglia o al Forno	215843
+1383	P	Brodo di Pesce	216147
+1384	P	Spaghetti Secchi	216311
+1385	P	Spaghetti di Soia	216478
+1386	P	Verza	216617
+1387	P	Zuppa con Pezzettini di Pollo (in Scatola)	216863
+1388	P	Zuppa di Pomodoro (in Scatola, Condensata)	217089
+1389	P	Carote (Solide e Liquide, in Scatola)	217299
+1390	P	Carote (Surgelate)	217529
+1391	P	Provolone Piccante (Latteria Soresina)	217745
+1392	P	Provolone Piccante (Auricchio)	217786
+1393	P	Provolone Piccante (Coop)	217827
+1394	P	Salsa Piccante	217910
+1395	P	Lattuga Iceberg (Include Tipi Crisphead)	218063
+1396	P	Albume d'uovo Cotto	218410
+1397	P	Albume (Aia)	218613
+1398	P	Albume d'uovo (Aia)	218674
+1399	P	Albume d'uovo (Le Naturelle)	218733
+1400	P	Pecan Zuccherate (Glassate con Albume e Zucchero)	218788
+1401	P	Ceci Secchi	219038
+1402	P	Ceci (Ceci, Grammo del Bengala) (Semi Maturi, in Scatola)	219216
+1403	P	Farina di Ceci	219360
+1404	P	Pomodorini Secchi	219514
+1405	P	Bonroll Spinaci (Aia)	219732
+1406	P	Bonroll Classico (Aia)	219773
+1407	P	Caciotta (Primo Prato)	219816
+1408	P	Caciotta Morbida (Merivio)	219855
+1409	P	Riso Basmati (Conad)	219928
+1410	P	Riso Basmati (Coop)	219988
+1411	P	Riso Basmati (Scotti)	220077
+1412	P	Riso Basmati (Gallo)	220117
+1413	P	Riso Basmati (Suzi Wan)	220187
+1414	P	Riso Basmati (Eurospin)	220247
+1415	P	Riso Basmati (Carrefour)	220314
+1416	P	Riso Basmati Espresso (Gallo)	220376
+1417	P	Riso Basmati (Curtiriso)	220418
+1418	P	Ricottine Fresche (Vallelata)	220462
+1419	P	Ricotta di Pecora	220514
+1420	P	Ricotta (Santa Lucia)	220685
+1421	P	Ricottina Light (Santa Lucia)	220746
+1422	P	Ricottine (Coop)	220802
+1423	P	Ricotta Misto Pecora (Land)	220866
+1424	P	Ricotta Salata	220904
+1425	P	Ricottina Fresca (Vallelata)	221080
+1426	P	Peperoni Jalapeno	221122
+1427	P	Peperoni Jalapeno (Solidi e Liquidi, in Scatola)	221329
+1428	P	Meloni Gialli	221586
+1429	P	Peperoncino Verde	221945
+1430	P	Peperoncini Verdi (in Scatola)	222184
+1431	P	Petto di Pollo, Carne e Pelle	222359
+1432	P	Carne di Pollo o Tacchino Preso in Gastronomia	222628
+1433	P	Insalata Mista Orientale di Pollo o Tacchino (Pollo e/o Tacchino, Lattuga, Frutta, Noci)	222841
+1434	P	Insalata Mista di Pollo o Tacchino (Pollo e/o Tacchino, Pomodori e/o Carote, Altre Verdure)	223059
+1435	P	Insalata Mista di Pollo o Tacchino (Pollo e/o Tacchino, Verdure diverse da Pomodori e Carote)	223308
+1436	P	Pollo o Tacchino e Verdure in Salsa a Base di Soia (tra cui Carote, Broccoli, no Patate)	223523
+1437	P	Pollo o Tacchino in Agrodolce	223734
+1438	P	Polpettone di Carne di Pollo o Tacchino	224102
+1439	P	Chili con Carne di Pollo o Tacchino e Fagioli	224504
+1440	P	Insalata di Pollo o Tacchino	224719
+1441	P	Insalata di Pollo o Tacchino e Uovo	224939
+1442	P	Piselli Cotti	225157
+1443	P	Piselli Cotti (in Scatola)	225369
+1444	P	Piselli Finissimi (Bonduelle)	225563
+1445	P	Pisellini Primavera (Findus)	225630
+1446	P	Piselli Medi (Valfrutta)	225698
+1447	P	Piselli Spezzati (Esselunga)	225764
+1448	P	Piselli Fini (Coop)	225837
+1449	P	Succo di Frutta alla Pera (Yoga)	225902
+1450	P	Succo di Frutta (Puertosol)	225960
+1451	P	Succo di Frutta (Yoga)	226028
+1452	P	Frullato di Frutta (a Base di Frutta o Succo di Frutta)	226093
+1453	P	Noci di Macadamia Tostate a Secco (con Aggiunta di Sale)	226327
+1454	P	Cocktail di Succo di Mirtilli Rossi (in Bottiglia)	226541
+1455	P	Succo d'ananas	226746
+1456	P	Succo di Ananas (Esselunga)	226954
+1457	P	Succo d'ananas (Yoga)	227019
+1458	P	Succo Ananas (Derby Blue)	227082
+1459	P	Ananas in Succo di Ananas (Coop)	227139
+1460	P	Ananas (Solidi e Liquidi, Sciroppato Light, in Scatola)	227182
+1461	P	Cocktail di Succo di Verdura (in Cartone)	227449
+1462	P	Pezzetti di Ananas (Dolcificati, Congelati)	227659
+1463	P	Spremuta d'arancia	227819
+1464	P	Sorbetto all'arancia	228068
+1465	P	Bevanda di Succo d'arancia	228263
+1466	P	Lenticchie (Conad)	228500
+1467	P	Magretti (Galbusera)	228567
+1468	P	Magretti Zerogi (Galbusera)	228711
+1469	P	Cracker Magretti (Galbusera)	228830
+1470	P	Magretti (Galbusera)	228893
+1471	P	Maki Salmone	228974
+1472	P	Lupini	229205
+1473	P	Kiwi	229346
+1474	P	Maionese Light	229596
+1475	P	Carne di Pollo Light (Tostata)	229802
+1476	P	Carne di Tacchino Light	230070
+1477	P	Tangerini (Mandarini, Sciroppati Light, in Scatola)	230337
+1478	P	Pesche (Solidi e Liquidi, Sciroppate Extra Light, in Scatola)	230535
+1479	P	Pesche (Solidi e Liquidi, Sciroppate Light, in Scatola)	230748
+1480	P	Pere (Solidi e Liquidi, Sciroppate Light, in Scatola)	231004
+1481	P	Latte (1% di Contenuto di Grassi con Aggiunta di Vitamina A e Proteine)	231252
+1482	P	Merluzzo del Pacifico	231476
+1483	P	Melassa	231654
+1484	P	Melograno	231848
+1485	P	Bevanda di Succo di Mela	232069
+1486	P	Frittella di Mela	232226
+1487	P	Peperoncino Banana Pepper	232491
+1488	P	Pane alla Banana (con Margarina)	232794
+1489	P	Budini alla Banana	232978
+1490	P	Pane alla Banana	233122
+1491	P	Passata di Mela e Banana (Chini)	233342
+1492	P	Yogurt Intero Banana (Esselunga)	233411
+1493	P	Omogeneizzato Banana Kiwi (Mellin)	233490
+1494	P	Yogurt alla Banana (Coop)	233538
+1495	P	Succo alla Banana (Esselunga)	233628
+1496	P	Armonie Fette Biscottate Integrali (Mulino Bianco)	233691
+1497	P	Fette Biscottate Dorate (Mulino Bianco)	233805
+1498	P	Fette Biscottate Armonie (Mulino Bianco)	233886
+1499	P	Fette Biscottate (Esselunga)	234001
+1500	P	Fette Biscottate (5.7g) (Panmonviso)	234118
+1501	P	Lenticchie Cotte	234224
+1502	P	Lenticchie	234507
+1503	P	Lenticchie Piccole (Bonduelle)	234689
+1504	P	Lenticchie (Coop)	234757
+1505	P	Lenticchie Rosse (Delizie del Sole)	234824
+1506	P	Lenticchie (Esselunga)	234869
+1507	P	Lenticchie (Valfrutta)	234934
+1508	P	Zuppa di Legumi (Conad)	235001
+1509	P	Lenticchie Lessate (La Palma)	235068
+1510	P	Ananas	235126
+1511	P	Ananas a Fette (Del Monte)	235425
+1512	P	Ananas a Fette (Esselunga)	235468
+1513	P	Ananas a Fette in Succo (Del Monte)	235571
+1514	P	Ananas a Fette in Succo Naturale (Auchan)	235635
+1515	P	Ananas Disidratato (Esselunga)	235739
+1516	P	Succo Ananas (Santal)	235840
+1517	P	Antipasti	235901
+1518	P	Carne di Tacchino (Cotto, Arrosto)	236124
+1519	P	Arrosto di Tacchino (Carrefour)	236395
+1520	P	Arrosto di Tacchino (Coop)	236463
+1521	P	Arrosto di Tacchino (Fileni)	236529
+1522	P	Carne di Tacchino Light Arrosto	236570
+1523	P	Arrosto di Fesa di Tacchino con Spinaci e Funghi (Amadori)	236946
+1524	P	Arrosto di Tacchino Vivo Meglio (LD Market)	236990
+1525	P	Cavolfiore	237045
+1526	P	Cavolfiore Cotto (senza Aggiunta di Grassi in Cottura)	237347
+1527	P	Cavolfiore Cotto (da Fresco)	237518
+1528	P	Cavolfiore Cotto (da Fresco, senza Aggiunta di Grassi in Cottura)	237863
+1529	P	Cavolfiore Cotto (da Surgelati, senza Aggiunta di Grassi in Cottura)	238211
+1530	P	Vellutata Cavolfiori e Patate (Bonduelle)	238401
+1531	P	Cavolfiore (Surgelato)	238467
+1532	P	Contorno Tricolore (Orogel)	238693
+1533	P	Petto di Quaglia	238753
+1534	P	Pollo (Impanati e Fritti)	239033
+1535	P	Fegatini di Pollo	239232
+1536	P	Pizzoccheri	239393
+1537	P	Pizzoccheri alla Valtellinese (Arnaboldi)	239551
+1538	P	Pizzoccheri (Esselunga)	239619
+1539	P	Pizzoccheri della Valtellina (Bocon)	239661
+1540	P	Pizzoccheri della Valtellina (Annoni)	239700
+1541	P	Pizzoccheri (Moro )	239765
+1542	P	Farina di Frumento Bianca (per Tutti gli Usi)	239834
+1543	P	Ricchi Gelati al Cioccolato	240013
+1544	P	Formaggio Brie	240191
+1545	P	Crema di Brie (Entremont)	240456
+1546	P	Crock Brie (McDonald's)	240497
+1547	P	Gnocchi Ripieni con Speck e Brie (Taverna Giuseppe)	240566
+1548	P	Mini Brie (Bergader)	240632
+1549	P	Bresaola a Fette (Clever)	240694
+1550	P	Succo ACE (Santal)	240736
+1551	P	Succo alla Pesca (Valfrutta)	240805
+1552	P	Succo di Pera	240857
+1553	P	Succo Albicocca (Skipper)	240973
+1554	P	Succo Tropicale 100% senza Zuccheri Aggiunti (Coop)	241033
+1555	P	Succo di Mela	241094
+1556	P	Succo di Pompelmo	241397
+1557	P	Spremuta di Pompelmo	241543
+1558	P	Cocktail di Succo di Mirtilli Rossi (Concentrato Congelato, con Acqua)	241735
+1559	P	Succo di Albicocca (Coop)	241905
+1560	P	Succo Albicocca (Valfrutta)	241968
+1561	P	Succo e Polpa Albicocca (Conad)	242015
+1562	P	Succo di Albicocca (Yoga)	242078
+1563	P	Succo e Polpa Albicocca (Puertosol)	242143
+1564	P	Succo e Polpa di Albicocca (Esselunga)	242204
+1565	P	Succo Albicocca (Santal)	242271
+1566	P	Succo Albicocca (Auchan)	242313
+1567	P	Succo e Polpa di Albicocca (La Doria)	242372
+1568	P	Spinaci Filanti (Findus)	242432
+1569	P	Spremuta Arance Rosse (Carrefour)	242493
+1570	P	Spremuta 100% di Arance Rosse (Coop)	242540
+1571	P	Spremuta d'ananas (Sterilgarda)	242600
+1572	P	Spremuta di Pompelmo (Esselunga)	242659
+1573	P	Fagiolini (Surgelati)	242720
+1574	P	Cavolini di Bruxelles (Surgelati)	242917
+1575	P	Salsa (Pronta da Servire)	243098
+1576	P	Porri	243278
+1577	P	Enchilada di Pollo e Formaggio a Base di Salsa di Pomodoro	243494
+1578	P	Cozze con Salsa a Base di Pomodoro (Miscela)	243727
+1579	P	Sardine con Salsa a Base di Pomodoro (Miscela)	243977
+1580	P	Fagioli in Salsa di Pomodoro Vegetariani	244314
+1581	P	Salsa Tartara (Calvé)	244485
+1582	P	Involtino Primavera Vegetariano	244524
+1583	P	Involtino Primavera con Carne di Pollo	244774
+1584	P	Involtino Primavera con Carne di Maiale	245051
+1585	P	Panino con Uova senza Carne	245321
+1586	P	Involtino Primavera con Gamberetti	245523
+1587	P	Panino con Uova e Gamberetti	245796
+1588	P	Panino con Uova, Carne di Manzo e/o di Maiale	245992
+1589	P	Panino con Uova e Pollo o Tacchino	246185
+1590	P	Insalata Mista Verde	246381
+1591	P	Condimento Italiano (fatto con Aceto e Olio)	246618
+1592	P	Insalata Mista (Esselunga)	246875
+1593	P	Insalata Valeriana (Esselunga)	246916
+1594	P	Insalata di Lattuga con Uova, Formaggio, Pomodoro, e / o Carote	246957
+1595	P	Brodo di Carne	247236
+1596	P	Brodo di Pollo	247465
+1597	P	Carne di Cavallo	247650
+1598	P	Miele	247802
+1599	P	Arachidi Salati Tostate a Secco	247999
+1600	P	Salatini	248194
+1601	P	Cracker non Salati Sfoglia di Grano (Mulino Bianco)	248542
+1602	P	Crackers Salati (Conad)	248621
+1603	P	Cracker Salati (Gran Pavesi)	248675
+1604	P	Cracker non Salati (Gran Pavesi)	248795
+1605	P	Crackers non Salati (Conad)	248915
+1606	P	Cracker Salati (Saiwa)	248970
+1607	P	Patatine Paprika (Salati Preziosi)	249049
+1608	P	Cracker Salati (Pavesi)	249116
+1609	P	Sashimi di Salmone	249236
+1610	P	Sashimi di Tonno	249430
+1611	P	Sciroppo d'acero	249646
+1612	P	Sciroppo	249858
+1613	P	100% Sciroppo d'acero	250103
+1614	P	Sciroppo per Pancake-Frittelle (Ridotto Contenuto Calorico)	250327
+1615	P	Sciroppo per Pancake-Frittelle	250495
+1616	P	Insalata di Tonno	250684
+1617	P	Condimento per Insalata all'italiana(Ridotto Contenuto di Grassi)	250902
+1618	P	Condimento per Insalata all'italiana	251114
+1619	P	Condimento per Insalata alla Francese	251330
+1620	P	Condimento per Insalata alla Francese (senza Grassi)	251573
+1621	P	Condimento per Insalata all'italiana (senza Grassi)	251801
+1622	P	Condimento per Insalata (Ridotto Contenuto Calorico)	252017
+1623	P	Condimento per Insalata alla Francese (Ridotto Contenuto Calorico)	252212
+1624	P	Insalata di Patate Contorno	252382
+1625	P	Seitan alla Piastra (Compagnia Italiana Alimenti Biologici)	252561
+1626	P	Seitan al Naturale (Carrefour)	252641
+1627	P	Seitan Fresco (Natura Nuova)	252725
+1628	P	Burger di Seitan (Carrefour)	252803
+1629	P	Seitan	252920
+1630	P	Hamburghella di Tofu e Seitan (Fonte della Vita)	253073
+1631	P	Seitan alla Piastra (Natura Nuova)	253134
+1632	P	Seitan Burger (Compagnia Italiana Alimenti Biologici)	253218
+1633	P	Ragù di Seitan (Carrefour Bio)	253261
+1634	P	Seitan Lavorato a Mano (Fonte della Vita)	253331
+1635	P	Frullato di Frutta (con Succo di Frutta e Latticini)	253399
+1636	P	Indivia, Cicoria, Lattuga Romana o Scarola	253635
+1637	P	Caffè per Latte (Nescafe)	253983
+1638	P	Latte	254067
+1639	P	Latte Intero	254424
+1640	P	Latte Alta Digeribilità (Zymil)	254811
+1641	P	Latte Intero (Granarolo)	254879
+1642	P	Latte di Soia al Cioccolato (Sojasun)	254948
+1643	P	Sgombro	254997
+1644	P	Filetti di Sgombro in Olio di Oliva (Esselunga)	255154
+1645	P	Filetti di Sgombro al Naturale (Rio Mare)	255199
+1646	P	Filetti di Sgombro all'olio di Oliva (Delicius)	255256
+1647	P	Filetti di Sgombro al Naturale (Delicius)	255335
+1648	P	Filetti di Sgombro (Rio Mare)	255409
+1649	P	Carne Sotto Sale - Bresaola	255466
+1650	P	Carne Sotto Sale - Bresaola (Mangiata solo Parte Magra)	255812
+1651	P	Bresaola	256154
+1652	P	Brezel	256340
+1653	P	Break Cioccolato (ManuSol)	256554
+1654	P	Barrette di Cereali con Mirtilli Rossi (Break Energy)	256624
+1655	P	Mozzarella (Centrale del Latte di Brescia)	256726
+1656	P	Cioko Break (Witor's)	256767
+1657	P	Cereal Breakfast (Vitasnella)	256831
+1658	P	Filetti di Sgombro al Naturale (Coop)	256905
+1659	P	Filetti di Sgombro (Conad)	256973
+1660	P	Filetti di Sgombro all'olio di Oliva (Nostromo)	257037
+1661	P	Sgombro Dell'atlantico	257094
+1662	P	Pane per Ripieno (Misto Secco)	257305
+1663	P	Pane per Ripieno (Misto Secco, Comprato)	257459
+1664	P	Misto di Frutta Secca e Noccioline	257604
+1665	P	Misto di Frutta Secca, Pezzetti di Cioccolata, Noccioline e Arachidi	257735
+1666	P	Gallette di Mais	257871
+1667	P	Mandarino	258019
+1668	P	Mandarino (in Scatola o Surgelato)	258364
+1669	P	Mandorle Tostate  a Secco (con Aggiunta di Sale)	258581
+1670	P	Cetriolo (con Buccia)	258800
+1671	P	Maccheroni e Formaggio Porzione Piccola (in Scatola)	259017
+1672	P	Patè di Fegato d'anatra (Patè De Foie Gras, Affumicato in Scatola)	259195
+1673	P	Crema di Pollo (in Scatola, Condensata)	259400
+1674	P	Crema di Funghi (in Scatola, Condensata)	259615
+1675	P	Bistecca di Maiale o Cotoletta	259821
+1676	P	Involtini di Carta di Riso e Verdure con Carne o Gamberetti	260193
+1677	P	Lombata di Manzo Superiore (Tagliata con 0.5 cm di Grasso)	260465
+1678	P	Lombata di Manzo Superiore (Tagliata con 0.3 cm di Grasso)	260718
+1679	P	Yogurt di Capra	260900
+1680	P	Yogurt	261065
+1681	P	Yogurt-Gelato	261222
+1682	P	Yogurt di Soia	261480
+1683	P	Torta al Caffè	261681
+1684	P	Torta Bianca (senza Glassa)	262078
+1685	P	Orzo Caffè (Crastan)	262355
+1686	P	Caffè Solubile Decaffeinato (Hag)	262422
+1687	P	Finocchio	262474
+1688	P	Maxi (Kinder)	262652
+1689	P	Maxi King (Kinder)	262766
+1690	P	Mozzarella (Magra)	262867
+1691	P	Tortellini Ripieni al Formaggio	263049
+1692	P	Cereali (Kinder)	263198
+1693	P	Orecchiette alle Cime di Rapa (Tre Mulini)	263317
+1694	P	Cime di Rapa	263385
+1695	P	Rape	263544
+1696	P	Orecchiette	263808
+1697	P	Orecchiette con Broccoli (Coop)	264005
+1698	P	Orecchiette Pugliesi (Barilla)	264062
+1699	P	Orecchiette (Coop)	264125
+1700	P	Orecchiette (Maffei)	264193
+1701	P	Orecchiette (Conad)	264249
+1702	P	Orecchiette Ripiene al Formaggio con Sugo di Carne	264288
+1703	P	Orecchiette di Crusca (Ki)	264479
+1704	P	Orecchiette (Santa Lucia)	264547
+1705	P	Uvetta d'oro (senza Semi)	264605
+1706	P	Popcorn Preparati con Olio (al Microonde)	264803
+1707	P	Piada Sfogliata (CRM)	264987
+1708	P	Piada Sfogliata (Realforno)	265053
+1709	P	Gran Pesto alla Genovese (Tigullio)	265167
+1710	P	Carne di Petto di Tacchino	265211
+1711	P	Petto di Tacchino (Fresche Fette)	265434
+1712	P	Aequilibrium Petto di Tacchino al Forno (Aia)	265498
+1713	P	Petto di Tacchino al Forno (Esselunga)	265562
+1714	P	Petto di Tacchino (Eurospin)	265621
+1715	P	Petto di Tacchino Stagionato (Beretta)	265684
+1716	P	Petto di Tacchino (Dulano)	265722
+1717	P	Toast alla Francese (Surgelato)	265782
+1718	P	Patate e Carciofi (Orogel)	265967
+1719	P	Carciofi e Patate (Sartor)	266032
+1720	P	Patate Russet (Polpa e Buccia)	266102
+1721	P	Patate Bianche (Polpa e Buccia)	266491
+1722	P	Sfoglia Ripiena con Patate e Piselli (Fritti)	266826
+1723	P	Bucce di Patate Fritte	267036
+1724	P	Bucce di Patate Fritte con Formaggio e Pancetta	267425
+1725	P	Frico	267819
+1726	P	Biscotti Integrali (Esselunga)	267985
+1727	P	Biscotti Fibrextra Integrali (Misura)	268057
+1728	P	Biscotti Integrali (Di Leo)	268151
+1729	P	Biscotti Cereali Integrali (Vitasnella)	268215
+1730	P	Biscotti Integrali (Iper Simply)	268320
+1731	P	Biscotti Integrali (Realforno)	268415
+1732	P	Biscotti Integrali (Divella)	268533
+1733	P	Biscotti Integrali (Carrefour)	268626
+1734	P	Biscotti Fibrextra Integrali (Misura)	268694
+1735	P	Frittata di Patate	268761
+1736	P	Purè di Patate Fresche (Zerbinati)	268989
+1737	P	Tortilla	269054
+1738	P	Patatine Tortilla di Mais	269339
+1739	P	Tortillas di Mais	269682
+1740	P	Quesadilla con Formaggio senza Carne	269901
+1741	P	Fajita con Pollo e Verdure	270166
+1742	P	Nachos con Carne di Manzo e Formaggio	270415
+1743	P	Taco Morbido con Manzo, Formaggio e Insalata	270645
+1744	P	Nachos con Carne di Manzo, Fagioli, Formaggio e Sour Cream (Panna Acida)	270880
+1745	P	Taco Morbido con Manzo, Formaggio, Insalata, Pomodoro e Sour Cream (Panna Acida)	271131
+1746	P	Enchilada senza Carne con Formaggio	271387
+1747	P	Banana	271616
+1748	P	Yogurt Banana (Sterzing)	272017
+1749	P	Succo Mela e Banana (Conad)	272060
+1750	P	Yogurt Banana (Yomo)	272129
+1751	P	Yogurt Cremoso alla Banana (Granarolo)	272173
+1752	P	Yogurt Cremoso Mela Banana (Stuffer)	272215
+1753	P	Yogurt Magro 0,1% Banana (Stuffer)	272281
+1754	P	Cornetto con Farcitura all'albicocca (Casalini)	272351
+1755	P	Cornetto alla Crema (Mulino Bianco)	272431
+1756	P	Cornetto (Mulino Bianco)	272506
+1757	P	Cornetto all'albicocca (Mulino Bianco)	272581
+1758	P	Cornetto Integrale al Miele (Misura)	272658
+1759	P	Cornetto Integrale (Mulino Bianco)	272737
+1760	P	Cornetto Crema Pasticcera (Casalini)	272822
+1761	P	Coscia di Pollo	272901
+1762	P	Coscia di Pollo (Mangiata senza Pelle)	273275
+1763	P	Pollo (senza Pelle)	273639
+1764	P	Pollo alla Griglia	273983
+1765	P	Pollo Allo Spiedo (Coop)	274355
+1766	P	Seppie	274399
+1767	P	Calamaro	274558
+1768	P	Valeriana (Esselunga)	274719
+1769	P	Valeriana (Conad)	274767
+1770	P	Valeriana (Pam Panorama)	274821
+1771	P	Rucola e Valeriana (Esselunga)	274861
+1772	P	Yogurt Magro (Coop)	274903
+1773	P	Yogurt Bianco Magro (Vipiteno)	274982
+1774	P	Yogurt Magro Frutti di Bosco (Esselunga Bio)	275044
+1775	P	Yogurt Magro Frutti di Bosco (Yomo)	275132
+1776	P	Yogurt Magro in Linea (Conad)	275175
+1777	P	Yogurt Magro Bianco Classico (Centrale del Latte Milano)	275236
+1778	P	Caffè Pre-Zuccherato	275302
+1779	P	Caffè Decaffeinato	275517
+1780	P	Caffè Latte con Pochi Grassi	275707
+1781	P	Campagnole (Mulino Bianco)	275963
+1782	P	Verdure Campagnole (Orogel)	276080
+1783	P	Erbette Campagnole (Vallericca)	276140
+1784	P	Crackers Integrali (Tre Mulini)	276201
+1785	P	Crackers Integrali (Sigma)	276311
+1786	P	Crackers Integrali (Carrefour)	276405
+1787	P	Crackers Integrali Bio (Esselunga)	276503
+1788	P	Sfoglia di Grano Cracker Integrali (Mulino Bianco)	276612
+1789	P	Crackers di Frumento	276689
+1790	P	Crackers (con Burro di Arachidi)	276903
+1791	P	Filetti di Platessa (Findus)	277104
+1792	P	Platessa Cotta	277164
+1793	P	Filetti Platessa Impanati (Findus)	277511
+1794	P	Filetti di Platessa Impanati (Picard)	277564
+1795	P	Filetti di Platessa Impanati e Surgelati (Esselunga)	277630
+1796	P	Platessa al Forno o alla Griglia	277693
+1797	P	Platessa alla Mugnaia (Findus)	278087
+1798	P	Filetti di Platessa Surgelati (Coop)	278177
+1799	P	Filetti di Platessa alla Mugnaia (Carrefour)	278243
+1800	P	Lievito in Polvere (Alluminio Solfato di Sodio, a Doppio Effetto)	278308
+1801	P	Lievito in Polvere (Fosfato, a Doppio Effetto)	278445
+1802	P	Fiocchi di Crusca	278580
+1803	P	Semi di Girasole Tostati a Secco (senza Sale)	278757
+1804	P	Noci Pecan Tostate a Secco (senza Aggiunta di Sale)	278921
+1805	P	Pistacchi Tostati a Secco (senza Aggiunta di Sale)	279055
+1806	P	Yogurt Soia Naturale (Provamel)	279287
+1807	P	Tacchino	279346
+1808	P	Carne di Tacchino	279687
+1809	P	Prosciutto di Tacchino	279959
+1810	P	Hamburger di Tacchino (Amadori)	280141
+1811	P	Farinata di Ceci (Zanini)	280207
+1812	P	Farina di Ceci (Ecor)	280245
+1813	P	Farina di Ceci (Colfiorito)	280290
+1814	P	Farina di Ceci (il Molino Chiavazza)	280361
+1815	P	Crackers Salati (Doria)	280411
+1816	P	Riso Su Riso Cracker (Galbusera)	280530
+1817	P	Crackers di Riso	280673
+1818	P	Fibrextra Integrale (Misura)	280856
+1819	P	Fiori d'acqua (Mulino Bianco)	280961
+1820	P	Gallette di Mais (Conad)	281047
+1821	P	Gallette di Mais (Eurospin)	281139
+1822	P	Gallette di Mais (Fiorentini)	281181
+1823	P	Gallette di Mais (OK Bio)	281274
+1824	P	Gallette di Mais (Carrefour)	281359
+1825	P	Gallette di Mais (Montebovi)	281477
+1826	P	Gallette di Mais (Coop)	281560
+1827	P	Gallette di Mais (Montebovi)	281629
+1828	P	Funghi	281695
+1829	P	Funghi Cotti (Grasso Aggiunto in Cottura)	282012
+1830	P	Funghi Cotti	282307
+1831	P	Funghi Cotti (senza Aggiunta di Grassi in Cottura)	282602
+1832	P	Misto Funghi Trifolati (Esselunga)	282914
+1833	P	Funghi (Sgocciolati, in Scatola)	282956
+1834	P	Champignon (Bonduelle)	283213
+1835	P	Funghi Misti con Porcini (Surgelati) (Delizie del Sole)	283279
+1836	P	Funghetti Sott'olio (Polli)	283321
+1837	P	Funghi Bianchi (Saltati in Padella)	283363
+1838	P	Biscotti Secchi Petit (Carrefour)	283546
+1839	P	Biscotti Secchi (Esselunga)	283612
+1840	P	Pane Pita Integrale al 100% Tostato	283731
+1841	P	Pane Integrale al 100% Tostato	283998
+1842	P	Antipasto di Mare Caldo (Arbi)	284307
+1843	P	Salmone Cotto	284369
+1844	P	Fagiolini Verdi	284711
+1845	P	Fagiolini Verdi Cotti (da Freschi)	284939
+1846	P	Fagiolini (Sgocciolati, in Scatola)	285226
+1847	P	Fagiolini	285437
+1848	P	Fagiolini Fini (Bonduelle)	285660
+1849	P	Fagiolini Surgelati (Esselunga Bio)	285725
+1850	P	Le Coccole Spinaci, Fagiolini e Broccoli (Bonduelle)	285791
+1851	P	Fagiolini Finissimi (Bofrost)	285898
+1852	P	Fagiolini Primavera (Findus)	285958
+1853	P	Biscotti Accoppiati al Cioccolato e Vaniglia	286013
+1854	P	Biscotti con Gocce di Cioccolato (Céréal)	286298
+1855	P	Biscotti Gusto Leggero con Gocce di Cioccolato (Colussi)	286367
+1856	P	Biscotti con Gocce di Cioccolato (Dieta Dukan)	286485
+1857	P	Latte Caldo e Cacao	286593
+1858	P	Melanzane alla Parmigiana (Bocon)	286815
+1859	P	Funghi Portabella (alla Griglia)	286881
+1860	P	Pancetta (Curata, alla Griglia, in Padella o al Forno, Cotto)	287036
+1861	P	Mista Fine (Bonduelle)	287285
+1862	P	Crema con Broccoletti (Zerbinati)	287353
+1863	P	Petto di Pollo Fritto senza Pastella (Mangiato con la Pelle)	287417
+1864	P	Petto di Pollo senza Pelle al Forno o Fritto in Pastella (Pastella Mangiata)	287792
+1865	P	Petto di Pollo al Forno a Fette (Le Freschette)	288140
+1866	P	Patata Arrosto	288200
+1867	P	Patata Arrosto (senza Aggiunta di Grassi in Cottura)	288551
+1868	P	Yogurt Greco Total 0% (Fage)	288925
+1869	P	Yogurt Greco Total (Fage)	288980
+1870	P	Pasta al Sugo di Carne e Formaggio	289018
+1871	P	Sugo di Pollo (in Scatola)	289213
+1872	P	Pane Pita Bianco	289381
+1873	P	Formaggio Fresco Morbido (Basso Contenuto di Grassi, 1% Grassi nel Latte, senza Sodio)	289552
+1874	P	Gelati alla Vaniglia Light (Servito Morbido)	289727
+1875	P	Arachidi Tostate a Secco (Salati)	289942
+1876	P	Salatini Molto Salati	290098
+1877	P	Semi di Soia (Semi Maturi, Salati, Cotti, Bolliti)	290246
+1878	P	Confettura Extra di Mirtilli (Hero)	290433
+1879	P	Confettura Extra di Mirtilli (Primia)	290475
+1880	P	Sugo fatto in Casa di Carne e Verdure	290517
+1881	P	Sugo senza Carne	290736
+1882	P	Sughetto di Manzo o Carne	290950
+1883	P	Sugo alle Verdure (fatto in Casa)	291204
+1884	P	Pasta al Sugo di Carne	291417
+1885	P	Sugo Allo Scoglio (Biffi)	291591
+1886	P	Sugo Arrabbiata (Barilla)	291635
+1887	P	Sugo alla Marinara	291695
+1888	P	Sugo di Salsiccia	291868
+1889	P	Torta di Riso	292020
+1890	P	Galletta di Riso Soffiato	292200
+1891	P	Torta a Base di Riso Glutinoso e Fagioli Secchi	292444
+1892	P	Biscotti Privolat (Misura)	292639
+1893	P	Biscotti Privolat con Riso Soffiato e Cacao (Misura)	292744
+1894	P	Biscotti Privolat con Riso Soffiato e Cacao (Misura)	292808
+1895	P	Camilla (Mulino Bianco)	292919
+1896	P	Patata al Forno (Mangiate con la Buccia)	293029
+1897	P	Kid Smile (McCain)	293424
+1898	P	Patata Crisp (McCain)	293464
+1899	P	Happy Potatoes (McCain)	293526
+1900	P	Patata al Forno Ripiena al Formaggio e Pancetta (Mangiata con la Buccia)	293587
+1901	P	Cuori di Iceberg (Coop)	293839
+1902	P	Iceberg (Bonduelle)	293901
+1903	P	Iceberg e Carote (Bonduelle)	293967
+1904	P	Cuori di Iceberg (Esselunga)	294033
+1905	P	Lattuga	294075
+1906	P	Cuori di Iceberg (Vallericca)	294422
+1907	P	Cuore di Iceberg (Conad)	294486
+1908	P	Bucaneve (Doria)	294528
+1909	P	Bucaneve (Doria)	294633
+1910	P	Bucaneve (Doria)	294719
+1911	P	Bucaneve Gocce di Cioccolato (Doria)	294789
+1912	P	Bucaneve Cacao (Doria)	294906
+1913	P	Cotoletta Impanata di Pollo con Formaggio	294972
+1914	P	Crauti Cotti	295137
+1915	P	Insalatina di Crauti (Esselunga)	295355
+1916	P	Crauti (Solidi e Liquidi, in Scatola)	295397
+1917	P	Ciambelle Glassate o Ricoperte di Cioccolato	295616
+1918	P	Frittata di Zucchine	295923
+1919	P	Frittata di Uova o Uovo Strapazzato con Verdure	296154
+1920	P	Frittata di Uova o Uovo Strapazzato con Formaggio e Prosciutto Cotto o Pancetta	296490
+1921	P	Frittata di Uova o Uovo Strapazzato con Formaggio	296801
+1922	P	Frittata di Uova o Uovo Strapazzato con Prosciutto Cotto o Pancetta	297111
+1923	P	Frittata di Uova o Uovo Strapazzato	297397
+1924	P	Frittata di Uova o Uovo Strapazzato con Cipolla, Peperoni e Funghi	297750
+1925	P	Frittata di Uova o Uovo Strapazzato con Salsiccia	298059
+1926	P	Frullato di Frutta	298369
+1927	P	Il Frullato (Valfrutta)	298597
+1928	P	Frullato Ananas Mirtillo Banana (Solfarm)	298677
+1929	P	Frullato Fresco Fragola e Banana (Dimmidisì)	298738
+1930	P	Frullato ACE (Solfarm)	298779
+1931	P	Frullato Fresco Arancia e Carota (Dimmidisì)	298842
+1932	P	Frullato con Mora e Mirtillo (Mulino Bianco)	298882
+1933	P	Sciroppo al Cioccolato	298943
+1934	P	Patata al Forno (Mangiate senza Buccia)	299169
+1935	P	Patate al Forno	299545
+1936	P	Patata al Forno Ripiena alla Panna Acida (Mangiata con la Buccia)	299827
+1937	P	Patate Bianche (Polpa e Buccia, al Forno)	300079
+1938	P	Patata al Forno Ripiena al Formaggio (Mangiata con la Buccia)	300438
+1939	P	Controfiletto di Manzo (Tagliato con 0.3 cm di Grasso)	300683
+1940	P	Pasta al Pesto	300865
+1941	P	Uva (Rossa o Verde, di tipo Europeo come Thompson senza Semi)	301038
+1942	P	Lattuga a Foglia Verde	301330
+1943	P	Tronky (Ferrero)	301607
+1944	P	Tronky Pistacchio (Ferrero)	301680
+1945	P	Crocchette di Patate (Pizzoli)	301747
+1946	P	Crocchette di Patate (Coop)	301804
+1947	P	Crocchette di Patate (Delizie del Sole)	301861
+1948	P	Rocher (Ferrero)	301929
+1949	P	Rocher (Ferrero Roche)	301986
+1950	P	Insalata di Cavolo	302039
+1951	P	Insalata di Patate	302292
+1952	P	Cipolle	302469
+1953	P	Cipolle Mature Cotte	302817
+1954	P	Cipolle Rosse	303161
+1955	P	Cipolle Mature Cotte o Trifolate (Grassi Aggiunti in Cottura)	303509
+1956	P	Cipolle Borettane in Agrodolce (Coop)	303853
+1957	P	Cipolle Dolci	303895
+1958	P	Cipolle Grigliate (Saclà)	304051
+1959	P	Zuppa di Cipolle	304093
+1960	P	Scalogno o Cipollotti	304267
+1961	P	Cipolle Verdi	304596
+1962	P	Cioccolatini al Latte	304880
+1963	P	Cioccolato al Latte (Milka)	305091
+1964	P	Cioccolato al Latte con Nocciole (Milka)	305163
+1965	P	Cioccolatini Fondenti	305249
+1966	P	Cioccolato Fondente Extra (Coop)	305547
+1967	P	Cioccolatini	305611
+1968	P	Cialde di Riso e Mais (Natura in Festa)	305762
+1969	P	Patate Rosse (Polpa e Buccia)	305838
+1970	P	Patate Rosse (Polpa e Buccia, al Forno)	306164
+1971	P	Fette Biscottate Armonie di Cereali (Mulino Bianco)	306474
+1972	P	Fette Biscottate ai Cereali (Tre Mulini)	306584
+1973	P	Fette Biscottate ai Cereali (Panvivis)	306662
+1974	P	Fette Biscottate ai Cereali (Coop)	306741
+1975	P	Fette Biscottate con Cereali (GrissinBon)	306819
+1976	P	Fette Biscottate Cereali (Schär)	306969
+1977	P	Fette Biscottate ai 5 Cereali (Conad)	307041
+1978	P	Fette Biscottate ai Cereali (Eurospin)	307113
+1979	P	Cialde di Riso e Mais (Sunny Nature)	307176
+1980	P	Cialde di Riso e Mais (Selex)	307242
+1981	P	Cialde di Riso e Soia (OK Bio)	307310
+1982	P	Cialde di Riso e Soia (Pam Panorama)	307382
+1983	P	Brodo di Pollo, di Carne o Consommé	307453
+1984	P	Brodo Carne di Manzo (Star)	307654
+1985	P	Broccoli	307720
+1986	P	Broccoli (Tagliati, Surgelati)	308024
+1987	P	Broccoli (Surgelati)	308227
+1988	P	Broccoli Cinesi (Cotti)	308413
+1989	P	Broccoletti	308592
+1990	P	Broccoli Cotti (da Freschi)	308759
+1991	P	Broccoli Cotti (da Surgelati)	309077
+1992	P	Broccoli Cotti (senza Aggiunta di Grassi in Cottura)	309421
+1993	P	Broccoli Cotti (da Freschi, senza Aggiunta di Grassi in Cottura)	309664
+1994	P	Arachidi	310003
+1995	P	Arachidi con Guscio (Mangiate Sgusciate)	310157
+1996	P	Arachidi non Salate Tostate a Secco	310545
+1997	P	Misto di Noci, Noccioline e Arachidi Tostate	310754
+1998	P	Peanut (M&M's)	311011
+1999	P	Arachidi Giant (Ventura)	311116
+2000	P	Burro di Arachidi (Calvé)	311173
+2001	P	Arachidi Tostate al Miele	311267
+2002	P	Caprino (Mauri)	311455
+2003	P	Caprino (Mauri)	311494
+2004	P	Fagottino Spinaci e Caprino (Righi)	311544
+2005	P	Caprino di Latte Vaccino (Nonno Nanni)	311607
+2006	P	Burger di Soia Napoletana (Sojasun)	311665
+2007	P	Burger di Soia Indiana (Sojasun)	311743
+2008	P	Latte di Soia (Arricchito di Calcio)	311823
+2009	P	Salsa di Soia (Shoyu) (Basso Contenuto di Sodio)	311967
+2010	P	Latte di Soia	312182
+2011	P	Proteine di Soia Isolate	312402
+2012	P	Burger di Soia Classico (Sojasun)	312533
+2013	P	Soia (Formaggio Fresco)	312599
+2014	P	Purea Mela e Frutti di Bosco (Le Fruttine)	312744
+2015	P	Purea di Mela e Banana (Le Fruttine)	312806
+2016	P	Riso Arborio Integrale (Esselunga Bio)	312860
+2017	P	Peperone Rosso Dolce	312930
+2018	P	Succo di Mirtilli Rossi (senza Zuccheri Aggiunti)	313323
+2019	P	Pomodori Rossi (in Scatola)	313499
+2020	P	Pastina (Esselunga)	313794
+2021	P	Pastina (Esselunga)	313849
+2022	P	Pastinaca Cotta	313894
+2023	P	Pastina (Plasmon)	314250
+2024	P	Pasta Sfoglia Danese	314316
+2025	P	Pasta Sfoglia Danese con la Frutta	314707
+2026	P	Pastinaca	315099
+2027	P	Orzoro (Nestlé)	315299
+2028	P	Orzoro Moka (Nestlé)	315386
+2029	P	Pasta (Barilla)	315456
+2030	P	Penne	315503
+2031	P	Pasta con Verdure	315700
+2032	P	Spaghetti	315855
+2033	P	Pasta (Barilla)	316052
+2034	P	Pasta alla Carbonara	316156
+2035	P	Punch di Frutta (Concentrato Congelato, con Acqua)	316331
+2036	P	Fagioli Borlotti	316532
+2037	P	Fagioli Bianchi (Semi Maturi, in Scatola)	316674
+2038	P	Emmental (Leerdammer)	316817
+2039	P	Emmental (Entremont)	316858
+2040	P	Emmental Bavarese (Bayernland)	316897
+2041	P	Emmental Cheese (Milbona)	316936
+2042	P	Emmental Francese (Conad)	316981
+2043	P	Lindenberger Emmental (Kraft)	317020
+2044	P	Emmentaler (Ferrari)	317082
+2045	P	Pistacchi Tostati a Secco (con Aggiunta di Sale)	317121
+2046	P	Bistecca di Manzo con L'osso (Tagliata con 0.5 cm di Grasso)	317336
+2047	P	Bistecca con L'osso (solo Parte Magra, Tagliata con 0 cm di Grasso, Cotta, alla Griglia)	317496
+2048	P	Coca Cola o Pepper Soda (con Caffeina, con Aspartame)	317701
+2049	P	Noci e Noccioline Miste Tostate a Secco (con Arachidi, con Aggiunta di Sale)	317881
+2050	P	Marmellate e Conserve di Albicocche	318032
+2051	P	Marmellate e Conserve	318254
+2052	P	Marmellata d'arance	318479
+2053	P	Verdure Miste (Mais, Fagioli, Piselli, Fagiolini, Carote) (senza Sale Aggiunto, in Scatola)	318692
+2054	P	Piselli	318920
+2055	P	Piselli (Sgocciolati, in Scatola)	319101
+2056	P	Piselli (Surgelati)	319320
+2057	P	Piselli e Carote (Surgelati)	319529
+2058	P	Fagioli in Salsa di Pomodoro	319771
+2059	P	Fagioli (in Scatola)	319914
+2060	P	Fagioli Rossi	320061
+2061	P	Fagioli Rossi (in Scatola)	320246
+2062	P	Fagioli Borlotti (Valfrutta)	320427
+2063	P	Fagioli Borlotti (Conad)	320491
+2064	P	Fagioli Borlotti o Fagioli Rossi Cotti	320555
+2065	P	Pasta e Fagioli (Coop)	320889
+2066	P	Fagioli Borlotti (Bonduelle)	321018
+2067	P	Fagioli Borlotti o Fagioli Rossi Cotti (senza Aggiunta di Grassi in Cottura)	321085
+2068	P	Ananas Allo Sciroppo (Valfrutta)	321434
+2069	P	Borlotti in Salsa con Funghi (Carrefour)	321495
+2070	P	Fagioli Borlotti (Vale)	321537
+2071	P	Fagioli Borlotti (Esselunga)	321605
+2072	P	Fruit Cracker (Vitasnella)	321669
+2073	P	Fruit Cracker Arancia e Cioccolato (Vitasnella)	321788
+2074	P	Fruit Cracker Mela e Cannella (Vitasnella)	321829
+2075	P	Pane Croccante di Segale	321949
+2076	P	Castagnole	322250
+2077	P	Cavoli Cappuccio (Coop)	322470
+2078	P	Cappuccino (Splendid)	322540
+2079	P	Soya Cappuccino (Alpro Soya)	322644
+2080	P	Bevanda al Cappuccino (Tisanoreica)	322709
+2081	P	Capperi	322803
+2082	P	Carne Bovina in Gelatina (Simmenthal)	322985
+2083	P	Carne Bovina in Gelatina Vegetale (Simmenthal)	323052
+2084	P	Carne in Scatola (Simmenthal)	323172
+2085	P	Trippa al Sugo (Simmenthal)	323240
+2086	P	Simmenthal (Simmenthal)	323302
+2087	P	Petto di Pollo (Simmenthal)	323367
+2088	P	Spuntì al Tonno (Simmenthal)	323432
+2089	P	Spuntì alla Carne (Simmenthal)	323550
+2090	P	Insalate Gustose (Simmenthal)	323656
+2091	P	Trippa (Simmenthal)	323728
+2092	P	Insalata di Lattuga con Uova, Pomodoro, e / o Carote	323791
+2093	P	Dentice (Speziato)	324011
+2094	P	Fagioli (senza Sale, Cotti, Bolliti)	324175
+2095	P	Semi di Soia (Maturi, senza Sale, Cotti, Bolliti)	324355
+2096	P	Fagioli Rossi (con Sale, Cotti, Bolliti)	324574
+2097	P	Pop Corn Bianchi Cotti con Olio	324717
+2098	P	Chicchi di Grano Saraceno (Cotti, Tostati)	324874
+2099	P	Minestrone 16 Verdure (Bofrost)	325055
+2100	P	Minestrone 12 Verdure (Knorr)	325119
+2101	P	Minestrone 15 Verdure (Orogel)	325183
+2102	P	Minestrone di Verdure (Selex)	325225
+2103	P	Minestrone 15 Verdure (Esselunga)	325267
+2104	P	Minestrone di Verdure (Dimmidisì)	325313
+2105	P	Minestrone di Verdure (Vale)	325355
+2106	P	Minestrone di Verdure (Conad)	325397
+2107	P	Minestrone 12 Verdure (LD Market)	325439
+2108	P	Macedonia di Pesca, Pera, Albicocca, Ananas e Ciliege (Solidi e Liquidi, Confezionati in Acqua, in Scatola)	325485
+2109	P	Albicocche	325668
+2110	P	Grana Padano (Grana Padano)	325918
+2111	P	Grana Padano (Grana Padano)	325972
+2112	P	Grana Padano Grattugiato (Grana Padano)	326053
+2113	P	Grok (Grana Padano)	326116
+2114	P	Gnocchi di Patate	326205
+2115	P	Gnocchi di Patate (Rana)	326395
+2116	P	Gnocchi di Patate (Coop)	326455
+2117	P	Gnocchi di Patate (Taverna Giuseppe)	326497
+2118	P	Gnocchi di Patate (Conad)	326564
+2119	P	Gnocchi di Patate (Patamore)	326608
+2120	P	Gnocchi di Patate Agli Spinaci (Patamore)	326668
+2121	P	Gnocchi di Patate (Ca' Bianca)	326732
+2122	P	Gianduiotto Orogianduia Classico (Pernigotti)	326792
+2123	P	Zuppa di Pollo e Riso	326862
+2124	P	Riso Fritto con Pollo	327076
+2125	P	Per Insalate di Riso con Pollo (Saclà)	327296
+2126	P	Sake	327338
+2127	P	Pasta e Fagioli	327455
+2128	P	Pasta e Fagioli (Knorr)	327626
+2129	P	Pasta e Fagioli (Esselunga)	327688
+2130	P	Pasta e Fagioli (Carrefour)	327756
+2131	P	Pasta e Fagioli (Dimmidisì)	327820
+2132	P	Pane Integrale di Farro (Pema)	327860
+2133	P	Pane Azzimo di Farro (Ecor)	327929
+2134	P	Yogurt alla Frutta (Magro)	328037
+2135	P	Yogurt Intero alla Frutta Mista	328203
+2136	P	Yogurt a Basso Contenuto di Grassi alla Frutta Mista	328408
+2137	P	Yogurt Magro alla Frutta (Crai)	328708
+2138	P	Yogurt Frutti di Bosco (Carte d'Or)	328751
+2139	P	Yogurt Frutti di Bosco (Cuor di Malga)	328819
+2140	P	Yosoi Cereali e Frutta (Valsoia)	328887
+2141	P	Tortine con Frutti Rossi e Yogurt Magro (Conad)	328970
+2142	P	Glassa Cremosa al Cioccolato	329087
+2143	P	Riso Bianco	329292
+2144	P	Riso Classico (Flora)	329527
+2145	P	Riso Integrale	329594
+2146	P	Riso Oro Classico (Scotti)	329804
+2147	P	Crema di Riso	329848
+2148	P	Risotto allo Zafferano	330005
+2149	P	Riso alla Cantonese	330279
+2150	P	Riso Blond (Gallo)	330497
+2151	P	Tiramisù	330547
+2152	P	Babà al Rum	330803
+2153	P	Ciambellone	331023
+2154	P	Torta di Mele	331260
+2155	P	Limone (Estathé)	331451
+2156	P	Pesca (Estathé)	331511
+2157	P	Thè Verde (Estathé)	331549
+2158	P	Zuppa di Fagioli (Conad)	331606
+2159	P	Duplo (Duplo)	331673
+2160	P	Duplo Fondente (Duplo)	331738
+2161	P	Couscous (Cotto)	331848
+2162	P	Couscous	332120
+2163	P	Formaggino Mio (Nestlé)	332263
+2164	P	Salsiccia di Maiale	332328
+2165	P	Salsiccia di Maiale Fresca	332533
+2166	P	Salsiccia Dolce	332809
+2167	P	Salsiccia di Tacchino	333006
+2168	P	Funghi Portabella	333135
+2169	P	Focaccia	333349
+2170	P	Focaccia Farcita (Coop)	333568
+2171	P	Focaccia Genovese	333631
+2172	P	Focaccia (Buitoni)	333791
+2173	P	Focaccia Zucchine e Stracchino (Coop)	333860
+2174	P	La Focaccia (Buitoni)	333930
+2175	P	Focaccia Tradizionale (Tre Mulini)	333997
+2176	P	Focaccia Genovese con Stracchino (Bofrost)	334041
+2177	P	Focaccia (Tre Mulini)	334083
+2178	P	Yogurt Greco Magro alla Frutta (Mevgal)	334127
+2179	P	Frutta Secca Mista	334187
+2180	P	Ginseng Coffee (Nescafe)	334359
+2181	P	Ginseng Coffe (Corsini)	334468
+2182	P	Ginseng e Caffè (Crastan)	334524
+2183	P	Ginseng e Caffè (Don Jerez)	334576
+2184	P	Tortina Ginseng e Guaranà (Falcone)	334649
+2185	P	Ginseng Coffee (Nescafe)	334704
+2186	P	Provola Dolce a Fette (LD Market)	334772
+2187	P	Sfiziusielli Carciofi e Provola (Bofrost)	334829
+2188	P	Provola Affumicata (Zappalà)	334895
+2189	P	Tilapia (Pesce della Specie dei Ciclidi) (Cotto, al Cartoccio)	334936
+2190	P	Ricotta Light (Santa Lucia)	335091
+2191	P	Ricotta Santa Lucia (Galbani)	335147
+2192	P	Ricotta Light (Galbani)	335206
+2193	P	Ricotta Santa Luica Light (Galbani)	335245
+2194	P	Biscotti Più Leggeri (Galbusera)	335303
+2195	P	Biscotti Zero Grano (Galbusera)	335373
+2196	P	Birra	335484
+2197	P	Birra (Heineken)	335666
+2198	P	Birra Alta Gradazione	335754
+2199	P	Birra (Beck's)	335906
+2200	P	Birra Normale	335986
+2201	P	Birra (Ceres)	336161
+2202	P	Birra Leggera	336228
+2203	P	Birra Analcolica (Tourtel)	336417
+2204	P	Lievito di Birra (Equilibra)	336476
+2205	P	Cardo	336519
+2206	P	Caffèlatte (Colussi)	336662
+2207	P	Quinoa	336723
+2208	P	Whisky Sour Mix (in Bottiglia)	336864
+2209	P	Quinoa alle Verdure (Bio Appetì)	337020
+2210	P	Quinoa (Pedon)	337088
+2211	P	Quinoa Real (Altromercato)	337133
+2212	P	Insalata di Quinoa e Verdure (ConBio)	337201
+2213	P	Quinoa (Ecor)	337269
+2214	P	Burger Quinoa e Zucchine (Bio Appetì)	337312
+2215	P	Bulgur e Quinoa (Pedon)	337386
+2216	P	Burger Quinoa e Zucchine (ConBio)	337453
+2217	P	Quinoa Drink (The Bridge)	337527
+2218	P	Pesce Spada	337595
+2219	P	Pesce Spada Cotto	337795
+2220	P	Pesce Spada Affumicato (Fjord)	338142
+2221	P	Pesce Spada Affumicato (Fior Fiore Coop)	338204
+2222	P	Patate Rustiche (McCain)	338270
+2223	P	Patate Rustiche Surgelate (Coop)	338334
+2224	P	Patate Rustiche con Rosmarino (Esselunga)	338399
+2225	P	Patate (Polpa, Salate, Bollite)	338465
+2226	P	Patate (Buccia, Salate, Bollite)	338695
+2227	P	Patate (Polpa, senza Sale, Bollite)	338872
+2228	P	Polpette di Soia (Soya Life)	339102
+2229	P	Carne Macinata (80% Magra / 20% di Grassi, Polpette, Cotta, alla Griglia)	339168
+2230	P	Carne Macinata (90% Magra / 10% di Grassi, Polpette, Cotta, alla Griglia)	339370
+2231	P	Piselli Piccoli (Cotti a Vapore) (Valfrutta)	339606
+2232	P	Pocket Coffee (Ferrero)	339671
+2233	P	Succo alla Pesca (Santal)	339728
+2234	P	Succo Pesca (LD Market)	339772
+2235	P	Succo alla Pesca (Carrefour)	339840
+2236	P	Succo alla Pesca (Selex)	339901
+2237	P	Salmone	339964
+2238	P	Salmone al Forno o alla Griglia	340139
+2239	P	Salmone Affumicato	340489
+2240	P	Filetto di Salmone al Naturale (Rio Mare)	340732
+2241	P	Salmone Norvegese Affumicato (Carrefour)	340828
+2242	P	Filetto di Salmone Marinato al Limone (Rio Mare)	340897
+2243	P	Temaki Salmone	340967
+2244	P	Tranci Croccanti Salmone (Findus)	341113
+2245	P	Patate (Polpa senza Pelle, senza Sale, Bollite)	341243
+2246	P	Purè di Patate (Latte Intero e Margarina Aggiunta)	341568
+2247	P	Purè di Patate (Latte Intero Aggiunto)	341801
+2248	P	Scamorza Affumicata (Coop)	342036
+2249	P	Scamorza	342107
+2250	P	Scamorza Affumicata (Conad)	342304
+2251	P	Scamorza Affumicata (Vallelata)	342345
+2252	P	Scamorza Affumicata a Fette (Carrefour)	342386
+2253	P	Scamorza Affumicata (Zappalà)	342450
+2254	P	Gnocchi Ripieni con Scamorza Affumicata e Radicchio (Deluxe)	342511
+2255	P	Salsiccia di Maiale (Affumicata)	342579
+2256	P	Carne di Manzo Essiccata e Affumicata	342778
+2257	P	Bastoncini di Carne di Manzo Affumicata	342929
+2258	P	Panino con Cheeseburger con 1/4 Libra di Carne (Quarter Pound), Maionese o Condimento per Insalata e Pomodoro	343066
+2259	P	Invernizzina (Invernizzi)	343266
+2260	P	Passato Tradizionale (Knorr)	343309
+2261	P	Passato Tradizionale (Knorr)	343421
+2262	P	Merluzzo Dell'atlantico	343480
+2263	P	Yogurt Magro con Fermenti Probiotici (Cascina Bianca)	343659
+2264	P	Yogurt Probiotico Bianco con Cereali (Coop)	343699
+2265	P	Yogurt Probiotico Bianco Naturale (Coop)	343783
+2266	P	Zucchero (Eridania)	343860
+2267	P	Essenza di Natura (Eridania)	343917
+2268	P	Yogurt Bianco con Zucchero di Canna (Milbona)	343988
+2269	P	Mascobado (Altromercato)	344067
+2270	P	Basilico	344116
+2271	P	Sugo della Carne di Manzo (in Scatola)	344301
+2272	P	Sugo di Tacchino (in Scatola)	344524
+2273	P	Succo Tropicale (Dico)	344774
+2274	P	Macedonia di Frutta Tropicale (Del Monte)	344838
+2275	P	Succo Tropicale (Carrefour)	344883
+2276	P	Ravioli alla Zucca (Esselunga)	344942
+2277	P	Zucca	345004
+2278	P	Zucca (senza Sale, in Scatola)	345198
+2279	P	Zucca Gialla	345378
+2280	P	Semi Essiccati di Zucca e Zucchine	345558
+2281	P	Carne di Manzo Macinata (Fettine Surgelate, Cotta, alla Griglia)	345763
+2282	P	Miele Fior d'acacia (Primia)	345975
+2283	P	Miele di Tiglio (Coop)	346015
+2284	P	Miele di Acacia (Alce Nero)	346057
+2285	P	Miele Millefiori (Rigoni di Asiago)	346123
+2286	P	Miele di Arancio (Coop)	346163
+2287	P	Burrito con Fagioli	346217
+2288	P	Burrito con Fagioli e Formaggio	346392
+2289	P	Sugo di Pomodoro	346569
+2290	P	Succo di Verdura e Pomodoro (Basso Contenuto di Sodio)	346749
+2291	P	Togo (Pavesi)	347010
+2292	P	Togo Classic Fondente (Pavesi)	347053
+2293	P	Togo Snack Gelato (Sanson)	347117
+2294	P	Salsa Tonnata (Calvé)	347175
+2295	P	Farina di Cocco	347216
+2296	P	Noce di Cocco	347420
+2297	P	Cocco Essiccato	347642
+2298	P	Acqua di Cocco	347778
+2299	P	Coco Pops Palline (Kellogg's)	348046
+2300	P	Coco Pops Rotelle (Kellogg's)	348105
+2301	P	Coco Pops Barchette (Kellogg's)	348166
+2302	P	Coco Pops Snack Bar (Kellogg's)	348219
+2303	P	Coco Pops Risociok (Kellogg's)	348291
+2304	P	Coco Pops 2 Choc (Kellogg's)	348350
+2305	P	Popcorn (Basso Contenuto di Grassi e Sodio, Cotti al Microonde)	348407
+2306	P	Popcorn Preparati con Aria Calda	348541
+2307	P	Cotoletta di Pollo (Aia)	348734
+2308	P	Cotoletta Classica (Amadori)	348775
+2309	P	Cotoletta con Spinaci (Baroni)	348821
+2310	P	Cotoletta Rustica (Amadori)	348863
+2311	P	Cotoletta di Pollo (Fileni)	348931
+2312	P	Cotoletta di Merluzzo e Spinaci (Vis)	348972
+2313	P	Crepe al Cioccolato	349022
+2314	P	Crepe Semplice	349251
+2315	P	Crepe alla Frutta	349605
+2316	P	Soavelli (Soavegel)	349828
+2317	P	Ciambella di Pane (con Cipolla, Papavero e Sesamo)	349881
+2318	P	Semi Essiccati di Sesamo Intero	350197
+2319	P	Grissini Al Sesamo (Tre Mulini)	350421
+2320	P	Purè di Patate (Istantaneo)	350492
+2321	P	Purè di Patate (Fresco)	350760
+2322	P	Purè di Patate	351154
+2323	P	Purè di Patate fatto con il Latte (Fresco)	351543
+2324	P	Purè di Patate (Dimmidisì)	351893
+2325	P	Purè di Patate in Fiocchi (Pfanni)	351934
+2326	P	Purea di Mela e Pesca (Le Fruttine)	352054
+2327	P	Preparato per Puré di Patate in Fiocchi (Coop)	352116
+2328	P	Purea di Mela (Frutta & Natura)	352242
+2329	P	Gran Purè (Knorr)	352306
+2330	P	Panzerotto Fritto	352366
+2331	P	Tofu Fritto	352563
+2332	P	Pane tipo Rosetta	352716
+2333	P	Lattuga Cappuccina (Include tipo Boston e Bibb)	352989
+2334	P	Uva (tipo Americano, Buccia Sottile)	353333
+2335	P	Miele Millefiori (Carrefour)	353553
+2336	P	Mielbio Acacia (Rigoni di Asiago)	353610
+2337	P	Miele (Ambrosoli)	353665
+2338	P	Miele Millefiori (Coop)	353721
+2339	P	Biscotto Cereali e Melograno (Misura)	353763
+2340	P	Total 0% Lampone Melograno (Fage)	353875
+2341	P	Mele	353923
+2342	P	Mele (senza Buccia)	354317
+2343	P	Musli Basis (Rapunzel)	354572
+2344	P	Mozzarella (Fidel)	354635
+2345	P	Melanzane, Zucchine e Peperoni Grigliati (Coop)	354682
+2346	P	Verdure Miste Cotte (Mais, Fagioli, Piselli, Fagiolini e Carote)	354742
+2347	P	Verdure Miste (Valfrutta)	354956
+2348	P	Misto Benessere (Orogel)	355016
+2349	P	Contorno Mediterraneo (Findus)	355103
+2350	P	Tenero Mix (Pam Panorama)	355163
+2351	P	Minestrone 15 Verdure (Green Grocer's)	355232
+2352	P	Insalata Mista Briosa (Coop)	355290
+2353	P	Cotti a Vapore Mix Mediterraneo (Valfrutta)	355353
+2354	P	Yogurt Bianco 0,1% (Muller)	355420
+2355	P	Yogurt Bianco e Fiocchi al Cioccolato (Muller)	355469
+2356	P	Crema di Yogurt More e Lamponi (Muller)	355511
+2357	P	Yogurt Pesca e Albicocca (Muller)	355553
+2358	P	Crema di Yogurt Bianco (Muller)	355593
+2359	P	Crema di Yogurt Cocco (Muller)	355637
+2360	P	Mix Yogurt Bianco e Tartufini al Cioccolato (Muller)	355679
+2361	P	Crema di Yogurt Fragola (Muller)	355721
+2362	P	Mix Yogurt Bianco Più Mandorle e Cereali (Muller)	355763
+2363	P	Yogurt 0,1% Fragola e Fragoline (Muller)	355807
+2364	P	Peperoncino Rosso in Polvere	355850
+2365	P	Tonno Bianco (Sgocciolate dall'acqua, in Scatola)	356072
+2366	P	Tonno Pinna Gialla (Pesce)	356289
+2367	P	Torta della Nonna (Cameo)	356526
+2368	P	Tilapia (Pesce della Specie dei Ciclidi)	356644
+2369	P	Torta di Noci Pecan	356799
+2370	P	Cheesecake	356961
+2371	P	Digestive (McVitie's)	357167
+2372	P	Digestive (McVitie's)	357294
+2373	P	Digestive con Avena e Cioccolato (Dolciando & Dolciando)	357399
+2374	P	Digestive Avena Choco (Gullón)	357510
+2375	P	Digestive (Le Contadine)	357580
+2376	P	Digestive (Grancereale)	357691
+2377	P	Digestive al Cioccolato al Latte (McVitie's)	357807
+2378	P	Gran Cereale Digestive (Mulino Bianco)	357925
+2379	P	Biscotti Digestive (Dolciando & Dolciando)	358031
+2380	P	Biscotti Digestive (Campiello)	358135
+2381	P	Sugo al Pomodoro (Barilla)	358248
+2382	P	Melanzana con Formaggio e Sugo di Pomodoro	358310
+2383	P	Sugo al Pomodoro e Ricotta (Coop)	358529
+2384	P	Pasta al Pomodoro	358570
+2385	P	Concentrato di Pomodoro	358742
+2386	P	Sugo Pomodoro e Peperoncino (Mutti)	359025
+2387	P	Sugo Pomodoro e Basilico (Mutti)	359067
+2388	P	Sugo Pomodoro e Verdure Grigliate (Mutti)	359109
+2389	P	Pepe Rosso o Pepe di Cayenna	359169
+2390	P	Mirtilli Rossi	359359
+2391	P	Cotoletta di Soia (Valsoia)	359550
+2392	P	Colomba	359610
+2393	P	La Colomba (Bauli)	359955
+2394	P	Colomba Classica (Melegatti)	360000
+2395	P	La Colomba (Balocco)	360068
+2396	P	Colomba (Balocco)	360137
+2397	P	Grissini Integrali (Coop)	360205
+2398	P	Grissini Integrali (Tre Mulini)	360270
+2399	P	Grissini Integrali (Roberto)	360347
+2400	P	Carne di Manzo Macinata (Hamburger, Circa 23% di Grassi, Fettine Surgelate)	360392
+2401	P	Fragole	360547
+2402	P	Fragole Zuccherate	360891
+2403	P	Confettura Extra di Fragole (Frutta & Natura)	361232
+2404	P	Confettura Extra di Fragole (Iper Simply)	361287
+2405	P	Confettura Extra di Fragole (Coop)	361341
+2406	P	Marmellata di Fragole senza Zucchero (Zuegg)	361393
+2407	P	Biscuit Moments Fragola (Kellogg's)	361457
+2408	P	Fragole Surgelate senza Zuccheri Aggiunti	361531
+2409	P	Confettura Extra di Fragole (Santa Rosa)	361780
+2410	P	Marmellata di Fragole (Zuegg)	361827
+2411	P	Formaggino (Galbani)	361871
+2412	P	Formaggino Susanna (Kraft)	361978
+2413	P	Formaggino (Parmareggio)	362090
+2414	P	Pasta al Burro con Formaggino	362167
+2415	P	Formaggino Quadrifoglio (Prealpi)	362331
+2416	P	Mirtilli Rossi Secchi (Dolcificati)	362397
+2417	P	Pompelmo (Rosa e Rosso)	362546
+2418	P	Cavolo Rosso	362821
+2419	P	Radicchio Rosso	363169
+2420	P	Vino Rosso da Tavola	363380
+2421	P	Succo di Mirtilli Rossi e Mela (in Bottiglia)	363566
+2422	P	Succo di Mirtilli Rossi e Uva (in Bottiglia)	363733
+2423	P	Uovo Sodo	363948
+2424	P	Uovo (Intero)	364267
+2425	P	Uovo Fritto	364576
+2426	P	Albume d'uovo	364768
+2427	P	Tuorlo d'uovo	364923
+2428	P	Uovo Strapazzato (Intero, Cotto)	365129
+2429	P	Tagliatelle all'uovo (Arricchite, Cotte)	365370
+2430	P	Uovo Strapazzato	365553
+2431	P	Sostituto dell'uovo (Liquido)	365740
+2432	P	Sugo di Pomodoro (in Scatola)	365952
+2433	P	Sugo di Pomodoro con Carote e Zucca (Barilla)	366177
+2434	P	Spezzatino di Manzo al Sugo di Pomodoro con Patate e Verdure (Comprese Carote e Broccoli)	366242
+2435	P	Tagliatelle Integrali con Sugo di Carne	366446
+2436	P	Biscotto con Gocce di Cioccolato	366659
+2437	P	Batticuori (Mulino Bianco)	367046
+2438	P	Biscotti Batticuori (Mulino Bianco)	367155
+2439	P	Succo ACE (Pago)	367229
+2440	P	Succo Ace (Carrefour)	367280
+2441	P	Succo ACE (Yoga)	367329
+2442	P	Succo Ace (Conad)	367392
+2443	P	Carne di Bisonte Allo Spiedo (solo Parte Magra, Bistecca Alta 2,5 cm)	367455
+2444	P	Carne di Manzo Allo Spiedo (Tagliata con 0.3 cm di Grasso)	367671
+2445	P	Ananas (Solidi e Liquidi, Confezionati in Acqua, in Scatola)	367831
+2446	P	Arancino	368129
+2447	P	Cioccolatini al Cioccolato Bianco	368344
+2448	P	Uvetta Ricoperta di Cioccolato al Latte	368523
+2449	P	Barrette al Cioccolato Fondente	368674
+2450	P	Budini al Cioccolato	368941
+2451	P	Budini al Cioccolato (senza Grassi)	369164
+2452	P	Gelati al Cioccolato	369295
+2453	P	Tortellini di Carne	369510
+2454	P	Cappelletti Prosciutto Crudo (Rana)	369686
+2455	P	Tortelloni Ricotta e Spinaci (Buitoni)	369729
+2456	P	Tortellini al Prosciutto Crudo (Fini)	369798
+2457	P	Tortellini (Barilla)	369849
+2458	P	Tortellini Ricotta e Spinaci (Rana)	369916
+2459	P	Tortelli con Ricotta e Spinaci (Tre Mulini)	369954
+2460	P	Tortellini Gorgonzola e Noci (Rana)	369997
+2461	P	Aceto (Sidro)	370041
+2462	P	Aceto	370222
+2463	P	Bollito Misto	370403
+2464	P	Involtini di Carne	370573
+2465	P	Vitello Tonnato	370767
+2466	P	Coscia di Pollo, Carne	370987
+2467	P	Carne e Pelle di Pollo (Tostato)	371270
+2468	P	Carne di Pollo (Tostato)	371527
+2469	P	Ala di Pollo, Carne e Pelle	371796
+2470	P	Coscia di Pollo, Carne e Pelle	372094
+2471	P	Carciofotto (Berni)	372377
+2472	P	Cuori di Carciofo (Esselunga)	372418
+2473	P	Topinambur	372481
+2474	P	Carciofo Cotto (in Scatola)	372660
+2475	P	Cuori di Carciofo Interi Surgelati (Coop)	372958
+2476	P	Carne di Petto di Tacchino, Carne e Pelle	373020
+2477	P	Cheerios (Nestlé)	373276
+2478	P	Multi Cheerios (Nestlé)	373343
+2479	P	Multi Cheerios (Nestlé)	373410
+2480	P	Branzino all'acqua Pazza (Findus)	373503
+2481	P	Filetti di Branzino (Findus)	373612
+2482	P	Filetti di Branzino (Oggi Pesce)	373673
+2483	P	Filetti di Branzino alla Siciliana (Salmon Club)	373715
+2484	P	Filetto di Branzino (Oggi Pesce)	373784
+2485	P	Filetti di Branzino all'acqua Pazza (Findus)	373826
+2486	P	Punta di Petto di Manzo	373888
+2487	P	Puntine di Carne di Manzo	374249
+2488	P	Puntine di Manzo al Barbecue (con Slasa)	374623
+2489	P	Punta di Petto di Manzo (Mangiata solo Parte Magra)	375021
+2490	P	Costata di Manzo (Piccola, Magra, Tagliata Completamente senza Grasso)	375366
+2491	P	Cappelletti al Prosciutto Crudo (Buitoni)	375518
+2492	P	Tortellini Prosciutto Crudo (Esselunga)	375637
+2493	P	Trota Iridea Salmonata (da Allevamento)	375698
+2494	P	Trota al Forno o alla Griglia	375876
+2495	P	Trota Iridea Salmonata Selvatica	376226
+2496	P	Bruschette (Forno Damiani)	376402
+2497	P	Bruschetta al Pomodoro	376486
+2498	P	Prosciutto Cotto Tagliato Fresco	376694
+2499	P	Prosciutto Cotto (Parmacotto)	377039
+2500	P	Prosciutto Cotto	377085
+2501	P	Prosciutto Cotto (Citterio)	377413
+2502	P	Prosciutto Crudo	377465
+2503	P	Prosciutto Cotto (Ferrarini)	377737
+2504	P	Prosciutto Cotto (Fiorucci)	377787
+2505	P	Prosciutto Cotto (Rovagnati)	377837
+2506	P	Minestrone	377893
+2507	P	Minestrone Tradizionale (Findus)	378092
+2508	P	Minestrone Leggerezza (Orogel)	378150
+2509	P	Minestrone 15 Verdure (Carrefour)	378213
+2510	P	Minestrone Tagliato (Esselunga)	378279
+2511	P	Minestrone Tradizione (Findus)	378319
+2512	P	Minestrone (Green Grocer's)	378363
+2513	P	Minestrone Classico (Buitoni)	378432
+2514	P	Minestrone di Legumi (Knorr)	378497
+2515	P	Patatine	378556
+2516	P	Classica (San Carlo)	378908
+2517	P	Patatine Fritte (Medie) (McDonald's)	378976
+2518	P	Patasnella (Pizzoli)	379045
+2519	P	Rustica (San Carlo)	379109
+2520	P	Più Gusto Vivace (San Carlo)	379177
+2521	P	Patatine Rustiche (Coop)	379245
+2522	P	Patatine Classiche (San Carlo)	379320
+2523	P	Tortilla (Esselunga)	379388
+2524	P	Polaretti (Dolfin)	379450
+2525	P	Pomodori Secchi (Coop)	379503
+2526	P	Pomodori Secchi (Life)	379550
+2527	P	Pomodori Secchi (Saclà)	379611
+2528	P	Patè di Pomodori Secchi (Coop)	379653
+2529	P	Pomodori Secchi (Noberasco)	379697
+2530	P	Pesto Pomodori Secchi (Barilla)	379739
+2531	P	Succo ACE (Coop)	379806
+2532	P	Uovo Bazzotto	379869
+2533	P	Würstel di Pollo (Almaverde Bio)	380170
+2534	P	Wurstel - Frankfurter - o Hot Dog	380215
+2535	P	Wurstel di Pollo (Salumeo)	380459
+2536	P	Würstel di Pollo e Tacchino (Primia)	380512
+2537	P	Wurstel di Pollo (Bellentani)	380575
+2538	P	Wurstel di pollo e tacchino (LD Market)	380614
+2539	P	Würstel	380664
+2540	P	Yogurt Intero Bianco Bio (Vipiteno)	380850
+2541	P	Spigola	380914
+2542	P	Plum Cake (Mulino Bianco)	381089
+2543	P	Plum Cake Preparati con Yogurt (Coop)	381181
+2544	P	Plum Cake con Gocce di Cioccolato (Mulino Bianco)	381303
+2545	P	Plum Cake (Dolciando & Dolciando)	381407
+2546	P	Plum Cake (Misura)	381451
+2547	P	Plum Cake (Tisanoreica)	381573
+2548	P	Plum Cake al Grano Saraceno (La Città del Sole)	381663
+2549	P	Plum Cake all'avena (La Città del Sole)	381769
+2550	P	Spaghetti alle Vongole	381831
+2551	P	Latte (Magro con Aggiunta di Vitamina A e Proteine)	382003
+2552	P	Latte (1% di Contenuto di Grassi con Aggiunta di Vitamina A)	382229
+2553	P	Zenzero	382492
+2554	P	Zenzero Candito	382744
+2555	P	Succo Ace (Hero)	382915
+2556	P	Gran Soleil Mandarino (Ferrero)	382972
+2557	P	Kiwi e Mela (Skipper)	383041
+2558	P	Fruit Passion Kiwi (Muller)	383112
+2559	P	Yogurt 5 Cereali Fragola Kiwi (Vitasnella)	383156
+2560	P	Zero Kiwi (Activia)	383231
+2561	P	Yogurt Mela e Kiwi (Muller)	383313
+2562	P	Mousse Mela e Kiwi (Melinda)	383355
+2563	P	Arance	383417
+2564	P	Arance (con Buccia)	383733
+2565	P	Misto di Noci e Noccioline (non Salato)	383928
+2566	P	Misto di Noci e Noccioline con Pezzetti di Cioccolata (non Salato)	384058
+2567	P	Asparagi (non Preparati, Surgelati)	384193
+2568	P	Arachidi Tostate a Secco (non Salati)	384393
+2569	P	Cheesecake (da Miscela Pronta, non da essere Cucinata)	384565
+2570	P	Pasta per Pizza (Conad)	384776
+2571	P	Pasta Fresca per Pizza (Coop)	384844
+2572	P	Scaloppine al Limone	384913
+2573	P	Scaloppine al Marsala	385150
+2574	P	Scaloppine di Pollo ai Funghi (Fileni)	385372
+2575	P	Scaloppine di Pollo ai Funghi (Fileni)	385416
+2576	P	Anelli di Cipolla (Impanati e Fritti)	385487
+2577	P	Gallette di Farro (Conad)	385691
+2578	P	Gallette di Farro (Fiorentini)	385794
+2579	P	Gallette Farro Integrale (Ecor)	385893
+2580	P	Gallette di Farro Bio (Poggio del Farro)	385956
+2581	P	Gallette di Farro (Sunny Nature)	386029
+2582	P	Gallette Farro Bio (Vivibio)	386095
+2583	P	Gallette Sottilissime di Farro (Poggio del Farro)	386163
+2584	P	Gallette di Farro (Despar)	386232
+2585	P	Gallette Croccanti con Riso Integrale, Farro e Rosmarino (Altromercato)	386336
+2586	P	Germogli di Bambù	386377
+2587	P	Germogli di Bambù (Sgocciolati, in Scatola)	386611
+2588	P	Funghi (Crimini Italiani)	386864
+2589	P	Baiocchi (8g) (Mulino Bianco)	387044
+2590	P	Baiocchi (Pacchetto) (Mulino Bianco)	387102
+2591	P	Baiocchi (9g) (Mulino Bianco)	387216
+2592	P	Barretta	387316
+2593	P	Barretta Fitness (Nestlé)	387449
+2594	P	Barretta (Kellogg's)	387558
+2595	P	Barretta (Hero)	387676
+2596	P	Barretta di Cereali con Cioccolato Fondente (Kellogg's)	387753
+2597	P	Special K Barretta di Cereali con Mirtilli Rossi (Kellogg's)	387870
+2598	P	Barretta Proteica Cacao (Herbalife)	387988
+2599	P	Barretta Gusto Arancia (Enerzona)	388105
+2600	P	Barretta (Ovomaltine)	388181
+2601	P	Barretta Protein (Enervit)	388248
+2602	P	Barrette di Muesli	388388
+2603	P	Barrette di Muesli Morbide	388570
+2604	P	Wurstel Pollo e Tacchino (Coop)	388747
+2605	P	Würstel (Wudy Aia)	388818
+2606	P	Wurstel Puro Suino (Conad)	388857
+2607	P	Wurstel Pollo e Tacchino (Wudy Aia)	388898
+2608	P	Wurstel Classici (Beretta)	388968
+2609	P	Würstel (Amadori)	389011
+2610	P	Wurstel Pollo e Tacchino (Conad)	389081
+2611	P	Wurstel Puro Suino (Coop)	389122
+2612	P	Torta Bianca Glassata (Ricetta Casalinga o Acquistata)	389194
+2613	P	Biscotto con Gocce di Cioccolato (Ricetta Casalinga o Acquistato)	389597
+2614	P	Succo d'arancia Congelato (Ricostituito con Acqua)	389925
+2615	P	Mirtilli senza Zuccheri Aggiunti Confezionati in Acqua (Cotti o in Scatola)	390141
+2616	P	Zuppa di Pomodoro (Preparato con Acqua)	390308
+2617	P	Minestra di Verdura Vegetariana (Preparato con Acqua)	390512
+2618	P	Sardine in Acqua	390716
+2619	P	Tonno in Acqua (in Scatola)	390950
+2620	P	Patata Americana (Purè, in Scatola)	391242
+2621	P	Purè di Patate (Latte Intero e Burro Aggiunto)	391461
+2622	P	Pavesini (Pavesini)	391694
+2623	P	Patatine Fritte (come Acquistate, con Sale Aggiunto, Surgelate)	391785
+2624	P	Patatine Fritte (Tagliate Fresche, Fritte, Surgelate)	391953
+2625	P	Patatine di Mais	392193
+2626	P	Patatine al Gusto Barbecue	392351
+2627	P	Patatine al Gusto Sour Cream e Cipolla	392498
+2628	P	Lasagne di Carne	392645
+2629	P	Lasagne senza Carne con Verdure	393007
+2630	P	Lasagne Fresche Alla Bolognese (Rana)	393409
+2631	P	Lasagne senza Carne	393454
+2632	P	Lasagne al Ragù (Beretta)	393857
+2633	P	Cannelloni Ricotta e Spinaci (Rana)	393899
+2634	P	Filetti di Merluzzo Gratinati con Pomodoro e Basilico (Findus)	393943
+2635	P	Lasagne Pomodoro e Mozzarella (Rana)	394056
+2636	P	Lasagne Alla Bolognese (Buitoni)	394117
+2637	P	Lasagne Fresche (Esselunga)	394184
+2638	P	Vongole	394229
+2639	P	Lampredotto	394555
+2640	P	Lampredotto (Coop)	394677
+2641	P	Macaron	394719
+2642	P	Olio Extra Vergine Di Oliva (De Cecco)	394950
+2643	P	Olive Ascolane (Coop)	395019
+2644	P	Olive (Piccole-Extra Large)	395146
+2645	P	Olive Verdi (Sottaceto, in Scatola o in Bottiglia)	395357
+2646	P	Oro Ciok al Latte (Oro Saiwa)	395492
+2647	P	Oro Ciok Fondente (Oro Saiwa)	395573
+2648	P	Oro Ciok (Saiwa)	395652
+2649	P	Oro Ciok (Milka)	395736
+2650	P	Filetto di Orata alla Mediterranea (Salmon Club)	395802
+2651	P	Filetti di Orata con Capperi e Olive (Findus)	395861
+2652	P	Omogeneizzato Orata (Mellin)	395916
+2653	P	Pasta di Pane Dolce con Ripieno di Carne (al Vapore)	395965
+2654	P	Pasta Fredda con Carne	396119
+2655	P	Ciambella Dolce alla Cannella (con Glassa)	396293
+2656	P	Zucchine Baby	396451
+2657	P	Pasta Sfoglia (Esselunga)	396643
+2658	P	Pasta Integrale Equilibrio (Esselunga)	396711
+2659	P	Patatine Fritte (Salate)	396776
+2660	P	Patatine Fritte (Amica Chips)	396934
+2661	P	Tortilla Chips (Mais Bianco)	396990
+2662	P	Tortilla Chips Gusto Nacho	397144
+2663	P	Patate	397299
+2664	P	Patate Russet (Polpa e Buccia, al Forno)	397606
+2665	P	Frittelle di Patate	397917
+2666	P	Patate (Polpa e Buccia)	398227
+2667	P	Pasticcini	398567
+2668	P	Petto di Pollo, Carne (Arrosto, Cotto)	398777
+2669	P	Vermicelli	399090
+2670	P	Panna Montata (Pressurizzata)	399282
+2671	P	Panna Montata per Guarnizioni (Basso Contenuto di Grassi, Surgelata)	399489
+2672	P	Panna da Montare	399655
+2673	P	Maionese (Dietetica o a Ridotto Contenuto Calorico, senza Colesterolo)	399976
+2674	P	Formaggio Cheddar o Americano (senza Grassi, Pastorizzato)	400188
+2675	P	Minestrina	400438
+2676	P	Parmigiana di Melanzane	400609
+2677	P	Melanzane a Filetti alla Napoletana (D'Amico)	400782
+2678	P	Melanzane Condite alla Novella (Novella)	400845
+2679	P	Melanzane a Filetti (D'Amico)	400892
+2680	P	Fiori di Nasello (Findus)	400943
+2681	P	Cuori di Filetto di Nasello (Pescanova)	401003
+2682	P	Eglefino al Forno o alla Griglia	401084
+2683	P	Cuori di Filetto di Nasello (Conad)	401435
+2684	P	Eglefino al Forno Impanato o in Pastella	401478
+2685	P	Eglefino Fritto in Pastella	401876
+2686	P	Eglefino	402227
+2687	P	Vongole Cotte al Vapore o Bollite	402578
+2688	P	Vongole (Findus)	402922
+2689	P	Vongole Sgusciate (Despar)	402958
+2690	P	Vongole al Naturale (Conad)	403021
+2691	P	Vongole al Naturale (Athena)	403064
+2692	P	Cereal-Yo (Vitasnella)	403107
+2693	P	Cereal-Yo (Vitasnella)	403171
+2694	P	Cereal-Yo Cacao (Vitasnella)	403257
+2695	P	Cereal-Yo Cacao (Vitasnella)	403318
+2696	P	Cereal-Yo Miele (Vitasnella)	403428
+2697	P	Cereal-Yo Frutti Rossi (Vitasnella)	403539
+2698	P	Cereal-Yo Frutti Rossi (Vitasnella)	403603
+2699	P	Yogurt 5 Cereali Cocco (Vitasnella)	403722
+2700	P	Yogurt 5 Cereali Mirtilli (Vitasnella)	403798
+2701	P	Yogurt Magro 5 Cereali Cocco (Vitasnella)	403878
+2702	P	Uramaki	403961
+2703	P	Contorno di Verdure Grigliate (Esselunga)	404177
+2704	P	Contorno Saporito di Verdure Grigliate (Coop)	404245
+2705	P	Verdure Grigliate (Picard)	404311
+2706	P	Rombo con Verdure Grigliate (Orogel)	404365
+2707	P	Kebab di Pollo con Verdure Grigliate (Aia)	404406
+2708	P	Taralli	404472
+2709	P	Guarnizioni alla Fragola	404701
+2710	P	Lonza di Maiale (alla Contadina)	404934
+2711	P	Budini alla Vaniglia	405084
+2712	P	Glassa Cremosa alla Vaniglia	405277
+2713	P	Snello Tacchino Arrosto (Rovagnati)	405454
+2714	P	Tacchino Arrosto Snello (Rovagnati)	405511
+2715	P	Tacchino Bianco (Tagliato in Rosticceria)	405554
+2716	P	Tramezzino	405681
+2717	P	Tramezzino (Roberto)	405899
+2718	P	Pizza al Formaggio (36 cm, Crosta Spessa)	405941
+2719	P	Pizza al Formaggio (36 cm, Crosta Sottile)	406154
+2720	P	Pizza di Carne e Verdura (36 cm)	406367
+2721	P	Pizza al Formaggio (36 cm)	406581
+2722	P	Polipo	406797
+2723	P	Polpo con Patate (Picard)	406959
+2724	P	Polpo con Patate Surgelato (Coop)	407026
+2725	P	Carpaccio di Polpo (Fior Fiore Coop)	407146
+2726	P	Carpaccio di Polpo (Riunione)	407212
+2727	P	Gran Tramezzino (Tre Mulini)	407259
+2728	P	Tramezzino (Orva)	407373
+2729	P	Tramezzino (Artebianca)	407417
+2730	P	Pan di Spagna	407483
+2731	P	Torta di Mele Classica	407682
+2732	P	Torta Margherita (Cameo)	407996
+2733	P	Pasta Frolla con Panna e Frutta	408065
+2734	P	Torta Degli Angeli	408457
+2735	P	Torta di Ricotta	408803
+2736	P	Mini Tortina al Cioccolato Ripiena o Glassata	408961
+2737	P	Torta al Cioccolato (Buitoni)	409346
+2738	P	Pan di Spagna al Cioccolato	409415
+2739	P	Mini Tortina al Cioccolato	409803
+2740	P	Torta Caprese	410120
+2741	P	Torta Paesana	410285
+2742	P	Sacher	410461
+2743	P	Torta Foresta Nera (Senza Peccato)	410639
+2744	P	Tortellini Freschi alla Carne (Buitoni)	410708
+2745	P	Tortellini alla Carne (Unes)	410777
+2746	P	Tortellini Sfogliavelo alla Carne (Rana)	410821
+2747	P	Tonno e Fagioli (Rio Mare)	410866
+2748	P	Insalatissime Fagioli e Tonno (Rio Mare)	410925
+2749	P	Tonno al Naturale (Rio Mare)	410973
+2750	P	Tonno al Naturale (Rio Mare)	411059
+2751	P	Tonno al Naturale (Coop)	411131
+2752	P	Tonno al Naturale (Nostromo)	411202
+2753	P	Tonno al Naturale (Esselunga)	411263
+2754	P	Tonno al Naturale (Carrefour Discount)	411345
+2755	P	Tonno al Naturale (Asdomar)	411413
+2756	P	Tonno al Naturale (Conad)	411475
+2757	P	Tonno al Naturale (Simply Market)	411536
+2758	P	Tonno al Naturale (LD Market)	411598
+2759	P	Tomino	411646
+2760	P	Torrone	411778
+2761	P	Nocciolato (Pernigotti)	411940
+2762	P	Torroncini (Vergani)	411983
+2763	P	Torrone Morbido (Vergani)	412049
+2764	P	Dixi (San Carlo)	412110
+2765	P	Croccantelle (Forno Damiani)	412173
+2766	P	Croccantelle Gusto Bacon (Forno Damiani)	412219
+2767	P	Croccantelle Gusto Ketchup (Forno Damiani)	412298
+2768	P	Fagolosi (GrissinBon)	412362
+2769	P	Grissini Torinesi (Roberto)	412429
+2770	P	Il Grissino all'olio di Oliva (Biscopan)	412472
+2771	P	Gold Snack al Sesamo (Valledoro)	412548
+2772	P	Grissini Torinesi (Coop)	412619
+2773	P	Pangrì (Mulino Bianco)	412724
+2774	P	Erbazzone	412792
+2775	P	Erbazzone Reggiano (Righi)	413011
+2776	P	Feta Light (Epiros)	413050
+2777	P	Feta Light (Zorbas)	413105
+2778	P	Formaggio Feta	413144
+2779	P	Cioccolato Fondente Extra (Novi)	413392
+2780	P	Cioccolato Fondente Extra (Nestlé)	413437
+2781	P	Cioccolato Fondente (Nestlé)	413482
+2782	P	Cioccolato Fondente (Sisa)	413527
+2783	P	Cioccolato Extra Fondente (Venchi)	413599
+2784	P	Cioccolato Fondente Extra (Conad)	413651
+2785	P	Cioccolato Fondente e Pistacchio (Perugina)	413690
+2786	P	Ciambelle (Semplici)	413758
+2787	P	Ciambelle Zuccherate o Glassate	414135
+2788	P	Bombolone alla Crema	414346
+2789	P	Ciambelle (Mr. Day)	414570
+2790	P	Ciambellina Integrale (Misura)	414668
+2791	P	Ciambelle con Gocce di Cioccolato (Vicenzi)	414788
+2792	P	Impasto per Biscotti Semplici o al Latte (Pochi Grassi)	414864
+2793	P	Cotoletta di Filetti di Pollo Max 5% di Grassi (Aia)	415076
+2794	P	Confetti	415125
+2795	P	Cornetto Fragola (Algida)	415308
+2796	P	Cornetto Sbagliato (Algida)	415421
+2797	P	Cornetto Enigma Caffè (Algida)	415526
+2798	P	Cornetto Caramello (Algida)	415632
+2799	P	Cornetto Enigma Cookie (75g) (Algida)	415744
+2800	P	Gocciole Extra Dark (Gocciole)	415838
+2801	P	Gnocchi di Zucca	415954
+2802	P	Gnocchetti alla Sorrentina (Conad)	416147
+2803	P	Gnocchi ai Formaggi (Taverna Giuseppe)	416191
+2804	P	Gnocchi alla Romana (Rana)	416257
+2805	P	Gnocchetti di Patate (Conad)	416296
+2806	P	Chicche di Patate e Spinaci (Auchan)	416340
+2807	P	Grano Saraceno Decorticato Biologico (Auchan)	416407
+2808	P	Grano Saraceno	416452
+2809	P	Grano Duro	416626
+2810	P	Hamburger di Pollo (Aia)	416798
+2811	P	Hamburger di Pollo (Vivi Verde Coop)	416840
+2812	P	Hamburger di Pollo Viviverde (Coop)	416906
+2813	P	Friarielli	416968
+2814	P	Filetto di Salmone al Naturale (Nostromo)	417130
+2815	P	Filetto di Salmone Affumicato (Rio Mare)	417241
+2816	P	Filetto di Salmone (Findus)	417292
+2817	P	Fette Biscottate Integrali (Gentilini)	417406
+2818	P	Fette Biscottate Tostate (Gentilini)	417521
+2819	P	Fette Biscottate (Gentilini)	417636
+2820	P	Happy Fish (Bofrost)	417741
+2821	P	Crokky Fish (Bofrost)	417780
+2822	P	Fish&Crock (Findus)	417820
+2823	P	Fish Burger (Frosta)	417889
+2824	P	Fishburger (Tiko)	417933
+2825	P	Gelato	417974
+2826	P	Cono Gelato	418300
+2827	P	Gelato al Cioccolato	418559
+2828	P	Gelato alla Frutta	418848
+2829	P	Gelato al Caffè	418995
+2830	P	Gelato Vaniglia (Carte d'Or)	419125
+2831	P	Gelato alla Nocciola (Selex)	419178
+2832	P	Gelato alla Panna (Carte d'Or)	419243
+2833	P	Gelato alla Nocciola (Carte d'Or)	419281
+2834	P	Cono Gelato al Cioccolato	419344
+2835	P	La Mela Cotta (Frulla')	419604
+2836	P	Mela Prugna Polpa di Frutta (Frulla')	419669
+2837	P	Polpa di Pera (Frulla')	419710
+2838	P	Mela e Banana (Frulla')	419753
+2839	P	Biscotti Digestive con Avena e Cioccolata (Dolciando & Dolciando)	419816
+2840	P	Mini Crema e Biscottini al Caffè (Muller)	419927
+2841	P	Biscotti al Muesli (Dolciando & Dolciando)	420005
+2842	P	Biscotti Gran Cereali (Mulino Bianco)	420125
+2843	P	Biscotti Primizie (Mulino Bianco)	420187
+2844	P	Biscotti al Cacao senza Zucchero (Misura)	420288
+2845	P	Biscottini con Ripieno di Crema al Cacao (Dolciando & Dolciando)	420398
+2846	P	Biscotti al Cacao Bio (Auchan)	420462
+2847	P	Papaya	420532
+2848	P	Passata di Pomodoro (De Cecco)	420878
+2849	P	Passata di Pomodoro (Mutti)	420920
+2850	P	Passata di Pomodoro (Conad)	420960
+2851	P	Passata di Pomodoro (Pomì)	421003
+2852	P	Passata di Pomodoro (Selex)	421063
+2853	P	Passata di Pomodoro (Gustato)	421105
+2854	P	Passata Vellutata (Valfrutta)	421166
+2855	P	Passata di Pomodoro (Divella)	421232
+2856	P	Passata Tradizionale (Conad)	421290
+2857	P	Passata di Pomodoro (Del Monte)	421354
+2858	P	Passata di Pomodoro Classica (Pam Panorama)	421418
+2859	P	Parmigiano (Grattugiato)	421468
+2860	P	Parmigiano (in Pezzi)	421719
+2861	P	Parmigiano (Tagliuzzato)	421932
+2862	P	Pasta Mista (Garofalo)	422157
+2863	P	Pandoro (Bauli)	422196
+2864	P	Pandoro (Maina)	422241
+2865	P	Pandoro (Motta)	422286
+2866	P	Pandoro (Paluani)	422331
+2867	P	Pandoro Chantilly (Melegatti)	422401
+2868	P	Panino Bianco Morbido	422466
+2869	P	Panino Prosciutto e Formaggio con Insalata e Salsa Spalmabile	422850
+2870	P	Panino al Tonno e Insalata	423059
+2871	P	Panino al Formaggio	423275
+2872	P	Focaccia Prosciutto e Formaggio con Insalata e Salsa Spalmabile	423494
+2873	P	Pangasio	423709
+2874	P	Filetti di Pangasio (Picard)	423904
+2875	P	Panna da Cucina UHT (Land)	423947
+2876	P	Vino da Tavola	424007
+2877	P	Pinot Noir	424204
+2878	P	Fior di Merluzzo (Findus)	424342
+2879	P	Filetti di Merluzzo Atlantico (Conad)	424381
+2880	P	Merluzzo al Forno o alla Griglia	424422
+2881	P	Stoccafisso Ammollato	424772
+2882	P	Porzioni di Merluzzo (-22)	424904
+2883	P	Bastoncini di Merluzzo (Findus)	424945
+2884	P	Cuori di Filetto di Nasello (Coop)	425023
+2885	P	Bianco Cereali Integrali (Activia)	425092
+2886	P	Zero (Activia)	425178
+2887	P	Zero Fragola (Activia)	425257
+2888	P	Yoghurt Frutti di Bosco (Activia)	425329
+2889	P	Zero Caffè (Activia)	425406
+2890	P	Corn Flakes Originali (Kellogg's)	425487
+2891	P	Special K Classic (Kellogg's)	425562
+2892	P	Cereali Fitness (Nestlé)	425625
+2893	P	Cereali Fitness Chocolate (Nestlé)	425694
+2894	P	All-Bran Bastoncini (Kellogg's)	425763
+2895	P	Fiocchi di Riso e Frumento Integrale (Coop)	425837
+2896	P	Coco Pops Barchette (Kellogg's)	425905
+2897	P	Yogurt Magro al Naturale	426026
+2898	P	Yogurt al Naturale	426194
+2899	P	Yogurt Magro 0,1% (Esselunga)	426358
+2900	P	Yogurt Intero al Naturale	426435
+2901	P	Yogurt Magro Ciliegia (Vitasnella)	426604
+2902	P	Total 0% (Fage)	426679
+2903	P	Crema di Yogurt Stracciatella (Muller)	426727
+2904	P	Mozzarella in Carrozza	426784
+2905	P	Mozzarella in Carrozza (Bofrost)	426996
+2906	P	Mozzarella	427061
+2907	P	Mozzarella (Santa Lucia)	427393
+2908	P	Mozzarella (Coop)	427447
+2909	P	Mozzarella di Bufala	427529
+2910	P	Ciliegie di Mozzarella (Santa Lucia)	427727
+2911	P	Mozzarella Light (Santa Lucia)	427792
+2912	P	Mozzarella (Vallelata)	427848
+2913	P	Mozzarella Italiana (Granarolo)	427887
+2914	P	Mozzarella (Land)	427936
+2915	P	Fior di Latte (Pettinicchio)	427994
+2916	P	Mousse Magra (Land)	428045
+2917	P	Uovo in Camicia	428085
+2918	P	Uovo alla Benedict	428345
+2919	P	Soyadrink (Valsoia)	428611
+2920	P	Tofu (Valsoia)	428694
+2921	P	Burger (Valsoia)	428772
+2922	P	Budino al Cacao (Valsoia)	428840
+2923	P	Soyadrink Light (Valsoia)	428912
+2924	P	Budino Caramello (Valsoia)	428978
+2925	P	Yosoi Bianco Cremoso (Valsoia)	429055
+2926	P	Yosoi Pesca e Maracuja (Valsoia)	429122
+2927	P	Melanzane, Zucchine e Peperoni Grigliati e Surgelati (Coop)	429191
+2928	P	Stufato di Verdure (senza Carne)	429253
+2929	P	Bietola	429472
+2930	P	Yogurt Magro in Linea (Conad)	429669
+2931	P	Yogurt Magro Piacersi (Conad)	429726
+2932	P	Yogurt al Cocco Più Cereali al Cioccolato (Muller)	429794
+2933	P	Uovo all'occhio di Bue senza Grassi	429838
+2934	P	Zeppole	430167
+2935	P	Zucchine Bollite	430331
+2936	P	Patate (Polpa e Buccia , senza Sale , Cotte a Micronde)	430482
+2937	P	Taco Shells (Cotte)	430742
+2938	P	Limone	431042
+2939	P	Yogurt Magro alla Vaniglia, Limone o Caffe	431401
+2940	P	Yogurt al Limone (Mila)	431570
+2941	P	Tacchino al Forno (Pam Panorama)	431625
+2942	P	Petto di Tacchino al Forno (Aia)	431687
+2943	P	Petto di Tacchino al Forno (Le Freschette)	431744
+2944	P	Pallina di Tacchino al Forno (Fiorucci)	431803
+2945	P	Tacchino al Forno Spuntino Maxi (Beretta)	431859
+2946	P	Petto di Tacchino al Forno (In's)	431898
+2947	P	Petto di Pollo Arrosto (Tulip)	431957
+2948	P	Petto di Pollo in Gelatina (Tulip)	431995
+2949	P	Tofu Naturale (Compagnia Italiana Alimenti Biologici)	432036
+2950	P	Tofu Naturale (Almaverde Bio)	432119
+2951	P	Tofu Erbe Aromatiche (Sojasun)	432191
+2952	P	Tofu alla Piastra (Compagnia Italiana Alimenti Biologici)	432258
+2953	P	Tofu al Naturale (Bio Appetì)	432320
+2954	P	Tofu Naturale (Fonte della Vita)	432387
+2955	P	Tofu (Taifun)	432443
+2956	P	Tofu Naturale (Sojasun)	432487
+2957	P	Tofu Rosso (Taifun)	432548
+2958	P	Torta Margherita (Buitoni)	432591
+2959	P	Torta di Mirtilli	432661
+2960	P	Crostino Integrale (Buitoni)	432854
+2961	P	Cornetto al Formaggio	432957
+2962	P	Mini Tortine Glassate (Basso Contenuto di Grassi)	433193
+2963	P	Crostino Dorato (Buitoni)	433381
+2964	P	Crostino Dorato (Buitoni)	433446
+2965	P	Croissant alla Marmellata	433515
+2966	P	Croissant	433739
+2967	P	Cornetto al Cioccolato	434002
+2968	P	Croissant con Farcitura di Albicocca (Coop)	434234
+2969	P	Granleggeri Croissant ai Frutti di Bosco (Melegatti)	434365
+2970	P	Croissant Crema (Eurospin)	434494
+2971	P	Croissant Soffice Sfoglia (Bauli)	434546
+2972	P	Croissant Passione alla Ciliegia (Bauli)	434628
+2973	P	Croissant Albicocca (Paluani)	434705
+2974	P	Crostata	434769
+2975	P	Crostata alla Marmellata	434933
+2976	P	Trancio di Crostata (Falcone)	435095
+2977	P	Crostata ai Frutti di Bosco (Landolfi)	435159
+2978	P	Crostata all'albicocca (Montebovi)	435204
+2979	P	Crostata al Limone (Senza Peccato)	435273
+2980	P	Crostata alle Arance (Esselunga)	435318
+2981	P	Crostata con Confettura di Albicocca (Coop)	435361
+2982	P	Crostata all'albicocca (LD Market)	435429
+2983	P	Crostata al Limone (Esselunga)	435500
+2984	P	Crostini di Pane	435545
+2985	P	Crostino Snack (Buitoni)	435761
+2986	P	Pepite di Crusca d'avena (Dieta Dukan)	435827
+2987	P	Barrette di Crusca d'avena (Dieta Dukan)	435929
+2988	P	Cacao 1% (Dieta Dukan)	435999
+2989	P	Shirataki De Konjac (Dieta Dukan)	436059
+2990	P	Crusca d'avena (Dieta Dukan)	436118
+2991	P	Salsa Condimento Insalata (Dieta Dukan)	436258
+2992	P	Crema Spalmabile (Dieta Dukan)	436320
+2993	P	Biscotti di Crusca d'avena (Dieta Dukan)	436412
+2994	P	Tagliatelle De Konjac (Dieta Dukan)	436513
+2995	P	Panino Dolce	436562
+2996	P	Focaccina Dolce alla Cannella Glassata	436903
+2997	P	Dolcebianco (Fage)	437183
+2998	P	Zabaione	437227
+2999	P	Focaccina Dolce alla Cannella	437437
+3000	P	Dolce Tirolese (Esselunga)	437718
+3001	P	Mais Dolce (Carrefour)	437759
+3002	P	Mais Dolce (Esselunga)	437821
+3003	P	Crostini (Tre Mulini)	437888
+3004	P	Crostini Dorati (San Carlo)	437982
+3005	P	Crostini Integrali (Tre Mulini)	438023
+3006	P	Crostini Integrali (Buitoni)	438083
+3007	P	Crostini non Fritti Gusto Mediterraneo (Panealba)	438148
+3008	P	Equilibrio Crostini Integrali (Esselunga)	438188
+3009	P	Crostini Gusto Prosciutto (Forno Damiani)	438264
+3010	P	Farinata	438375
+3011	P	Farcikao (Midi)	438579
+3012	P	Controfiletto di Manzo Superiore (Tagliato con 0.3 cm di Grasso, Alta Qualità)	438653
+3013	P	Cioccolosi (Sarchio)	438814
+3014	P	Cioccolata Calda (con Latte Intero)	438899
+3015	P	Cioccolata Calda	439061
+3016	P	Miscela di Cacao e Zucchero (con Latte Scremato)	439206
+3017	P	Ciobar Classico (Cameo)	439371
+3018	P	Ciobar Fondente (Cameo)	439439
+3019	P	Miscela di Cacao e Zucchero (con Latte Magro)	439508
+3020	P	Ciobar (Cameo)	439671
+3021	P	Chococioc Zero (Fabbri)	439786
+3022	P	Fettina di Vitello	439889
+3023	P	Vitello Magro	440041
+3024	P	Arrosto di Vitello	440192
+3025	P	Vitello	440534
+3026	P	Cotoletta di Vitello	440879
+3027	P	Hamburger di Vitello (Coop)	441269
+3028	P	Cuore di Vitello	441334
+3029	P	Scaloppina	441491
+3030	P	Omogeneizzato Pollo e Vitello (Plasmon)	441729
+3031	P	Riso Fritto	441775
+3032	P	Minestra Piccante	441993
+3033	P	Senape	442210
+3034	P	Cavolo Cinese (Bok-Choy, Pak-Choi)	442450
+3035	P	Cavolo Cinese	442679
+3036	P	Granchio Blu	442897
+3037	P	Astice	443076
+3038	P	Torta di Mele (Doppia Crosta)	443251
+3039	P	Pizza al Formaggio con Crosta Sottile	443613
+3040	P	Pizza al Formaggio con Crosta Spessa	444011
+3041	P	Pizza al Formaggio e Verdure con Crosta Sottile	444408
+3042	P	Clementine	444810
+3043	P	Clementine (Coop)	444957
+3044	P	Tangerino	445019
+3045	P	Crackers con Riso Soffiato (Crich)	445402
+3046	P	Crackers Pomodoro e Formaggio (Pavesi)	445495
+3047	P	Crackers Olio e Rosmarino (Conad)	445605
+3048	P	Crackers Fibraextra Integrale (Misura)	445662
+3049	P	Crackers Soia (Misura)	445766
+3050	P	Crackers Fibrextra Multigrain (Misura)	445848
+3051	P	Cracker Integrali (Misura)	445966
+3052	P	Crackers di Soia (Misura)	446063
+3053	P	Cozze	446128
+3054	P	Cozze Cotte	446339
+3055	P	Cozze Cotte al Vapore o Bollite	446549
+3056	P	Sugo alle Cozze (Deluxe)	446774
+3057	P	Crescenza (Conad)	446817
+3058	P	Crescenza (Coop)	446862
+3059	P	Formaggini alla Crescenza (Galbani)	446907
+3060	P	Crescenza (Esselunga)	447015
+3061	P	Crescenza Bio (Esselunga)	447071
+3062	P	Crescenza Cremosa (Stella Bianca)	447133
+3063	P	Crescenza (Auchan)	447195
+3064	P	Crescenza Bio (Iper)	447241
+3065	P	Certosa Formaggini alla Crescenza (Galbani)	447293
+3066	P	Crescenza Light (Stella Bianca)	447360
+3067	P	Formula 1 Cacao (Herbalife)	447414
+3068	P	Formula 1 Vaniglia (Herbalife)	447560
+3069	P	Infuso a Base di Erbe (Herbalife)	447632
+3070	P	Aloe Concentrato alle Erbe (Herbalife)	447758
+3071	P	Barretta Proteica Mandorla e Vaniglia (Herbalife)	447846
+3072	P	Barretta Formula 1 (Herbalife)	447957
+3073	P	Barretta per la Colazione	448071
+3074	P	Colazione Più (Kinder)	448283
+3075	P	Colazione Più (Kinder)	448355
+3076	P	Cordon Bleu (Aia)	448444
+3077	P	Cordon Bleu (Findus)	448488
+3078	P	Cordon Bleu (Fileni)	448598
+3079	P	Cordon Bleu Classico (Aia)	448655
+3080	P	Cordon Bleu (Amadori)	448696
+3081	P	Cordon Bleu (Coop)	448764
+3082	P	Cordon Bleu (Conad)	448849
+3083	P	Cordon Bleu (Baroni)	448893
+3084	P	Cordon Bleu (Perdix)	448935
+3085	P	Cordon Bleu (Perdix)	448980
+3086	P	Classico (Grancereale)	449031
+3087	P	Biscotti Fibra e Fibra (Grancereale)	449137
+3088	P	Cioccolato (Grancereale)	449256
+3089	P	Snackbiscotto (Grancereale)	449366
+3090	P	Croccante (Grancereale)	449445
+3091	P	Frutta (Grancereale)	449564
+3092	P	Cereali Croccanti Classico (Grancereale)	449683
+3093	P	Barretta di Cereali Mandorle e Mirtilli Rossi (Grancereale)	449753
+3094	P	Barretta di Cereali Nocciole e Cioccolato (Grancereale)	449844
+3095	P	Snackbiscotto con Crema alla Nocciola (Grancereale)	449945
+3096	P	Barretta Biscotto Cereali e Cioccolato (Grancereale)	450029
+3097	P	Gnocchetti alla Sorrentina (Findus)	450147
+3098	P	Granchio	450210
+3099	P	Surimi (Eurospin)	450455
+3100	P	Granchio al Forno o alla Griglia	450497
+3101	P	Granchio in Scatola	450879
+3102	P	Condigranchio (Arbi)	451066
+3103	P	Granturchese (Colussi)	451107
+3104	P	Granturchese al Cacao (Colussi)	451228
+3105	P	Barretta Proteica Agrumi (Herbalife)	451344
+3106	P	Formula 1 Cappuccino (Herbalife)	451452
+3107	P	Proteine (Herbalife)	451535
+3108	P	Fonzies (Fonzies)	451631
+3109	P	Panino con Hamburger	451753
+3110	P	Hamburger di Tacchino (Aia)	451975
+3111	P	Hamburger di Tacchino con Speck (Aia)	452017
+3112	P	Hamburger di Tacchino con Rosmarino (Aia)	452059
+3113	P	Hamburger di Tacchino con Rosmarino (Baroni)	452103
+3114	P	Hamburger di Tacchino (Del Campo)	452169
+3115	P	Hamburger di Tacchino con Erbette (Amadori)	452238
+3116	P	Hamburger di Soia (Sojasun)	452306
+3117	P	Hamburger Vegetariano a Base di Soia	452384
+3118	P	Panino con Hamburger Vegetariano a Base di Soia e Formaggio	452649
+3119	P	Hamburger di Tacchino (Coop)	452840
+3120	P	Fontina	452902
+3121	P	Formaggio Fresco Spalmabile Light (Conad)	453169
+3122	P	Formaggio Cremoso Spalmabile	453233
+3123	P	Formaggio Fresco Quark (Milbona)	453409
+3124	P	Formaggio Fresco Morbido	453470
+3125	P	Formaggio Fresco Morbido (senza Grassi)	453739
+3126	P	Formaggio Fresco Alta Digeribilità (Exquisa)	453938
+3127	P	Formaggio Fresco senza Lattosio (Exquisa)	454003
+3128	P	Fourré al Cacao (Dolciando & Dolciando)	454068
+3129	P	Controfiletto di Manzo Superiore (solo Parte Magra, Tagliato a 0,3 cm di Grasso, Alta Qualità)	454136
+3130	P	Bistecca di Manzo	454296
+3131	P	Hamburger Vegetariani	454640
+3132	P	Fette Biscottate Integrali (LD Market)	454806
+3133	P	Fiesta (Ferrero)	454915
+3134	P	Fiesta al Caffè (Ferrero)	454998
+3135	P	Fiesta (Kinder)	455100
+3136	P	Fiesta (Kinder)	455172
+3137	P	Flour Tortillas (Casa Fiesta)	455241
+3138	P	Fettuccine	455279
+3139	P	Fettuccine all'uovo (Barilla)	455476
+3140	P	Fettuccine all'uovo (Agnesi)	455537
+3141	P	Fettuccine (Rana)	455602
+3142	P	Spaghetti al Pomodoro senza Carne	455645
+3143	P	Spaghetti al Pomodoro e Verdure	455817
+3144	P	Spaghetti Integrali	455989
+3145	P	Spaghetti al Pomodoro e Polpette	456184
+3146	P	Lingua di Vitello	456432
+3147	P	Fonzies (Fonzies)	456588
+3148	P	Choco (Fonzies)	456653
+3149	P	Banane	456772
+3150	P	Pere	457167
+3151	P	Prugne	457504
+3152	P	Gallette di Mais (Matt)	457751
+3153	P	Gallette ai 5 Cereali (Fiorentini)	457906
+3154	P	Gallette con Crusca d'avena (Fiorentini)	458004
+3155	P	Gallette di Farro (OK Bio)	458092
+3156	P	Faraona	458177
+3157	P	Galletti (Mulino Bianco)	458351
+3158	P	Galletti (Mulino Bianco)	458456
+3159	P	Frutto della Passione	458519
+3160	P	Fruttosa (Rigoni di Asiago)	458760
+3161	P	Frutto Puro - Albicocca (Achillea)	458823
+3162	P	Fruttolo (Fruttolo)	458883
+3163	P	Gelatina Dietetica (con Dolcificante a Basso Contenuto Calorico)	458948
+3164	P	Dolcificante in Bustina (Aspartame)	459100
+3165	P	Limonata o Gazzosa a Basso Contenuto Calorico	459279
+3166	P	Baci di Dama	459439
+3167	P	Baci di Dama (Bistefani)	459660
+3168	P	Baci di Dama (Fior Fiore Coop)	459705
+3169	P	Biscotti Cereali (Realforno)	459820
+3170	P	Biscotti Cereali Croccanti (Auchan)	459888
+3171	P	Biscotti Cereali (Dolciando & Dolciando)	460000
+3172	P	Biscotti Cereali Così (Galbusera)	460119
+3173	P	Biscotti Cereali Piacersi (Conad)	460186
+3174	P	Biscotti con Cereali e Melograno (Misura)	460295
+3175	P	Bieta Erbetta (Orto Maremma)	460392
+3176	P	Bieta a Coste (Findus)	460434
+3177	P	Bieta Lessa	460496
+3178	P	Biscotti Panna e Cacao (Carrefour)	460652
+3179	P	Biscotti Cacao e Nocciole (Carrefour)	460770
+3180	P	Biscotti Cacao e Nocciole (Le Veneziane)	460886
+3181	P	Biscotti Frumento e Cacao (La Città del Sole)	460934
+3182	P	Biscotti Fibrextra Integrali Cacao e Avena (Misura)	460999
+3183	P	Biscottini 6 Cereali (Nipiol)	461104
+3184	P	Mio Biscottini (Nestlé)	461171
+3185	P	Fette Biscottate (Fidel)	461240
+3186	P	Margarina (80% Grassi con Sale, in Tubetto)	461309
+3187	P	Pasta e Lenticchie (Knorr)	461516
+3188	P	Fico d'India	461626
+3189	P	Pere Asiatiche	461830
+3190	P	Succo di Pera (Yoga)	462112
+3191	P	Omogeneizzato Pera (Mellin)	462177
+3192	P	Sete di Frutta con Pera, Banana e Mela (Puertosol)	462223
+3193	P	Succo Ananas (Pago)	462287
+3194	P	Succo Ananas (Valfrutta)	462352
+3195	P	Succo Ananas (Skipper)	462394
+3196	P	Succo Ananas 100% (Coop)	462452
+3197	P	Tangelo	462512
+3198	P	Arista di Maiale	462849
+3199	P	Arance Tarocco (Coop)	463011
+3200	P	Marmellata di Arance (Zuegg)	463073
+3201	P	Cannolo alla Crema	463123
+3202	P	Cannolo Siciliano	463334
+3203	P	Tisana	463556
+3204	P	Tisana (diverso da Camomilla, Infuso)	463751
+3205	P	Camomilla	463930
+3206	P	Cannolo di Riso (Scotti)	464074
+3207	P	Ala di Pollo	464146
+3208	P	Ala di Pollo (Mangiata senza Pelle)	464518
+3209	P	Spinacine (Aia)	464893
+3210	P	Ala di Pollo con la Pelle al Forno o Fritta in Pastella (Mangiata con Pastella e Pelle)	464938
+3211	P	Durango Alette Arrosto di Pollo (Aia)	465336
+3212	P	Ala di Pollo Fritta senza Pastella (Mangiata con la Buccia)	465379
+3213	P	Ceci	465752
+3214	P	Ceci Cotti a Vapore (Valfrutta)	466103
+3215	P	Ceci Secchi Cotti	466169
+3216	P	Ceci (Coop)	466485
+3217	P	Ceci Lessati (Le Conserve della Nonna)	466552
+3218	P	Zuppa di Ceci (Knorr)	466595
+3219	P	Ceci (Esselunga)	466672
+3220	P	Ceci (Carrefour)	466738
+3221	P	Ceci (Valfrutta)	466802
+3222	P	Biscotti ai Cereali (Vitalibre)	466870
+3223	P	Caponata (Bocon)	466987
+3224	P	Caponata e Tonno (Rio Mare)	467053
+3225	P	Canocchie Dell'adriatico (Esca)	467097
+3226	P	Fagioli Cannellini (Conad)	467140
+3227	P	Fagioli Bianchi Cannellini (Carrefour)	467205
+3228	P	Fagioli Cannellini (Coop)	467249
+3229	P	Fagioli Cannellini (Le Conserve della Nonna)	467323
+3230	P	Fagioli Cannellini (Select)	467366
+3231	P	Fagioli Cannellini (Carrefour)	467410
+3232	P	Carne di Capra	467475
+3233	P	Carciofini Tagliati (Coop)	467626
+3234	P	Carciofi Pugliesi I Senzaolio (Polli)	467668
+3235	P	Crema con Carciofi (Knorr)	467710
+3236	P	Fagiolini Bolliti	467832
+3237	P	Amaro (Montenegro)	467980
+3238	P	Crema al Cioccolato Amaro (Tisanoreica)	468034
+3239	P	Cioccolato Fondente Extra Amaro (Esselunga)	468117
+3240	P	Cacao Amaro (Perugina)	468228
+3241	P	Cioccolato Dolce o Amaro	468274
+3242	P	Cacao Amaro in Polvere (Conad)	468557
+3243	P	Cacao Amaro (Carrefour)	468597
+3244	P	Cacao Amaro in Polvere (Coop)	468664
+3245	P	Cacao in Polvere Amaro (Don Jerez)	468726
+3246	P	Carne	468798
+3247	P	Carne di Maiale	469143
+3248	P	Carne di Manzo	469488
+3249	P	Petto di Pollo, Carne	469833
+3250	P	Carne Magra di Manzo Macinata	470103
+3251	P	Carne Macinata di Manzo Impanata o a Polpette	470447
+3252	P	Formaggio Fresco Morbido con la Frutta	470848
+3253	P	Tangerini (Mandarini, Succo di Frutta, in Scatola)	471052
+3254	P	Macedonia di Frutta Tropicale (Ananas, Papaya, Banana e Guava, Solidi e Liquidi, Sciroppoata, in Scatola)	471200
+3255	P	Chayote (Frutta, Salata, Sgocciolata, Bollita, Cotta)	471386
+3256	P	Mandorle	471598
+3257	P	Mandorle Sbucciate	471940
+3258	P	Mandorle Tostate a Secco (senza Aggiunta di Sale)	472140
+3259	P	Pasta di Mandorle	472357
+3260	P	Hotdog	472532
+3261	P	Panino con Frankfurter o Hotdog con Ketchup e/o Senape	472708
+3262	P	American Hot Dog (Morato)	472966
+3263	P	Panino con Frankfurter o Hotdog e Chili	473020
+3264	P	Cheeseburger	473281
+3265	P	Panino con Cheeseburger con Pomodoro e/o Ketchup	473456
+3266	P	Double Bacon Cheeseburger (Burger King)	473674
+3267	P	Cheeseburger con Pancetta e Condimenti	473785
+3268	P	Cheeseburger Grande	473962
+3269	P	Panino con Cheeseburger	474137
+3270	P	Panino con Cheeseburger con 1/4 Libra di Carne (Quarter Pound)	474348
+3271	P	Cheeseburger (Singolo Cheeseburger con Condimenti)	474582
+3272	P	Calzone con Carne e Formaggio	474759
+3273	P	Stufato di Broccoli (Broccoli, Riso, Formaggio e Crema di Funghi)	474957
+3274	P	Costata di Manzo (Piccola, Tagliata Completamente senza Grasso)	475172
+3275	P	Bresaola (Citterio)	475323
+3276	P	Bresaola (Rigamonti)	475382
+3277	P	Bresaola della Valtellina (Rigamonti)	475424
+3278	P	Bresaola (Carrefour)	475466
+3279	P	Bresaola (Rigamonti)	475551
+3280	P	Bresaola della Valtellina I.g.P. (Coop)	475624
+3281	P	Snello Bresaola (Rovagnati)	475684
+3282	P	Bresaola (LD Market)	475724
+3283	P	Bresaola (Dal Salumiere)	475766
+3284	P	Bistecca di Manzo (Mangiata solo Parte Magra)	475832
+3285	P	Sfilacci di Cavallo	476176
+3286	P	Panino con Frankfurter o Hotdog	476330
+3287	P	Pane per Hot Dog (Tre Mulini)	476586
+3288	P	Hotdog con Chili	476668
+3289	P	Wurstel di Manzo - Frankfurter - a Basso Contenuto di Grassi o Hot Dog	476843
+3290	P	Margarina (Olio Vegetale, 20% di Grassi)	477058
+3291	P	Rape Rosse (Auchan)	477256
+3292	P	Rape Rosse Pelate (Ghisetti)	477298
+3293	P	Risolat 1% Vaniglia (Fage)	477343
+3294	P	Risolat 1% Cioccolato (Fage)	477385
+3295	P	Risolatte Cacao (Mevgal)	477425
+3296	P	Risolatte (Mevgal)	477464
+3297	P	Pesce Persico	477505
+3298	P	Riso Bianco (a Grani Lunghi)	477684
+3299	P	Rombo	477867
+3300	P	Caesar Salad con Lattuga Romana	478125
+3301	P	Latte Fresco Pastorizzato Scremato (Centrale del Latte di Roma)	478339
+3302	P	Yogurt Magro Bianco (Centrale del Latte di Roma)	478395
+3303	P	Romantica (Carte d'Or)	478437
+3304	P	Latte Alta Qualità (Centrale del Latte di Roma)	478478
+3305	P	Pane di Mais (Ricetta Casalinga)	478544
+3306	P	Rice Krispies (Kellogg's)	478895
+3307	P	Grisbì Rice (Vicenzi)	478952
+3308	P	Choco Rice (Crownfield)	479050
+3309	P	Drink Rice Natural (Isola Bio)	479116
+3310	P	Snack alla Mandorla (Rice & Rice)	479193
+3311	P	Michetti (Nuova Ricetta) (Mulino Bianco)	479260
+3312	P	Rice Drink Mandorla (The Bridge)	479331
+3313	P	Piadina con le Verdure, Carne, Pollo o Pesce	479403
+3314	P	Piadina Indiana	479605
+3315	P	Piadinelle (Morato)	479891
+3316	P	Piadelle Classiche (Mulino Bianco)	479964
+3317	P	Pasticciotto	480044
+3318	P	Gateau di Patate	480258
+3319	P	Patatine Fritte fatte in Casa	480430
+3320	P	Ravioli di Ricotta e Spinaci (Findus)	480780
+3321	P	Spinaci (Sgocciolati, in Scatola)	480840
+3322	P	Soufflè di Spinaci	481070
+3323	P	Melanzane Grigliate (Orogel)	481331
+3324	P	Melanzana	481387
+3325	P	Melanzane Grigliate (Conad)	481654
+3326	P	Melanzane Grigliate (Coop)	481696
+3327	P	Melanzane Grigliate (Vallericca)	481756
+3328	P	Melanzane Grigliate (Bofrost)	481819
+3329	P	Polenta	481855
+3330	P	Polenta Pronta (Polenta Valsugana)	482118
+3331	P	Polenta al Forno o Bollita	482165
+3332	P	Polenta (Polenta Valsugana)	482473
+3333	P	Polenta Istantanea (Molino di Ferro)	482530
+3334	P	Polenta con Formaggi alla Valdostana (Arnaboldi)	482577
+3335	P	Polenta Fritta	482647
+3336	P	Polenta Gialla (Tre Mulini)	482889
+3337	P	Polenta Integrale (Polenta Valsugana)	482928
+3338	P	Polenta ai Funghi Porcini (Conad)	482992
+3339	P	Coscia di Pollo Fritta senza Pastella (Mangiata con Pelle)	483036
+3340	P	Coscia di Pollo Fritta senza Pastella (Mangiata con la Pelle)	483409
+3341	P	Arrosto di Coscia e Filetto di Pollo (Amadori)	483784
+3342	P	Coscetta di Pollo	483828
+3343	P	Pompelmo	484203
+3344	P	Pompelmo 100% (Coop)	484597
+3345	P	Pompelmo Zero (San Benedetto)	484658
+3346	P	Cocktail o Mix di Frutta	484703
+3347	P	Succo Pompelmo (Selex)	484922
+3348	P	Pollo alle Mandorle	484985
+3349	P	Zucchero a Velo	485096
+3350	P	Barattolino Pistacchio (Sammontana)	485357
+3351	P	Il Tartufo Pistacchio e Cioccolato (Antica Gelateria del Corso)	485400
+3352	P	Mini Pistacchio e Nocciola (Muller)	485483
+3353	P	Yogurt Pistacchio (Yomo)	485563
+3354	P	Ravioli Ricotta e Spinaci (Fini)	485605
+3355	P	Ravioli Ripieni alla Carne	485653
+3356	P	Ravioli Ripieni al Formaggio	485846
+3357	P	Tortelloni Ricotta e Spinaci (Rana)	486054
+3358	P	Ravioli al Vapore	486096
+3359	P	Ravioli con Salsa di Pomodoro	486317
+3360	P	Ravioli Freschi ai Porcini (Rana)	486509
+3361	P	Ravioli al Brasato (Buitoni)	486566
+3362	P	Ravioli alla Carne (Esselunga)	486634
+3363	P	Ravioli Freschi di Zucca (Rana)	486701
+3364	P	Pannocchie al Burro	486761
+3365	P	Burro	486943
+3366	P	Burro di Arachidi con Pezzetti (Salato)	487203
+3367	P	Succo di Pera (Conad)	487423
+3368	P	Succo e Polpa di Pera (Coop)	487491
+3369	P	Succo Pera (Santal)	487551
+3370	P	Succo e Polpa Pera (Sterilgarda)	487595
+3371	P	Succo alla Pera (Santal)	487674
+3372	P	Succo e Polpa Pera (Valfrutta)	487717
+3373	P	Succo e Polpa di Pera (Esselunga Bio)	487759
+3374	P	Succo e Polpa PERA (Puertosol)	487803
+3375	P	Aringa Fresca	487866
+3376	P	Stracchino Mini (Vallelata)	488011
+3377	P	Stracchino (Despar)	488054
+3378	P	Stracchino (Vanetta)	488095
+3379	P	Stracchino con Yogurt (Merivio)	488134
+3380	P	Stracchino (Spega)	488177
+3381	P	Sofficini Spinaci Più Mozzarella (Findus)	488218
+3382	P	Torta Salata	488297
+3383	P	Fiori d'acqua (Mulino Bianco)	488535
+3384	P	Pretzel Duri	488608
+3385	P	Liquirizia	488959
+3386	P	Fette Biscottate senza Glutine (Coop)	489316
+3387	P	Cubello Spinaci (Orogel)	489426
+3388	P	Spinaci con Mozzarella e Formaggi (Selex)	489488
+3389	P	Spinaci in Foglia Surgelati (Coop)	489530
+3390	P	Spinaci (Esselunga)	489590
+3391	P	Spiedini di Pollo con Salsiccia e Peperoni (Coop)	489636
+3392	P	Spiedini Rustici (Amadori)	489678
+3393	P	Mini Spiedini (Amadori)	489748
+3394	P	Spiedini Fantasia (Fileni)	489805
+3395	P	Spiedini Sottilissimi (Aia)	489848
+3396	P	Spiedini di Pollo (Martini Delight)	489889
+3397	P	Spiedini Leggiadre (Fileni)	489964
+3398	P	Pretzel	490002
+3399	P	Salame di Cioccolato	490208
+3400	P	Mais Dolce (Coop)	490423
+3401	P	Mais Dolce Giallo (Sgranato dalla Pannocchia, Surgelato)	490490
+3402	P	Mais Dolce Bianco (sulla Pannocchia, Surgelato)	490697
+3403	P	Mais Giallo	490954
+3404	P	Mais Giallo (Intero, Sgocciolato, in Scatola)	491303
+3405	P	Mais Dolce Giallo (sulla Pannocchia, senza Sale, Surgelato, Sgocciolato, Cotto, Bollito)	491540
+3406	P	Mais Dolce Giallo (sulla Pannocchia, Salato, Surgelato, Sgocciolato, Cotto, Bollito)	491808
+3407	P	Mais Dolce Bianco (sulla Pannocchia, senza Sale, Surgelato, Sgocciolato, Cotto, Bollito)	492075
+3408	P	Mais Dolce Bianco (sulla Pannocchia, Salato, Surgelato, Sgocciolato, Cotto, Bollito)	492330
+3409	P	Pane di Mais (Muffin di Mais) (Miscela Pronta Secca)	492585
+3410	P	Seppie Pulite Piccole (Picard)	492731
+3411	P	Sfilacci di Cavallo (Coppiello Giovanni)	492770
+3412	P	Seadas	492808
+3413	P	Vino Bianco da Tavola	493002
+3414	P	Vino Riesling	493203
+3415	P	Vino Moscato	493345
+3416	P	Latticino Fresco Light (Stuffer)	493492
+3417	P	Latticino Fresco Light (Naturella)	493555
+3418	P	Latticino Fresco Light (Vitawell)	493614
+3419	P	Latticino Fresco Light (Exquisa)	493674
+3420	P	Mozzarella con Fermenti Lattici Vivi (Coop)	493734
+3421	P	Latticino Fresco Light (Land)	493824
+3422	P	Latticino Fresco alle Erbe (Naturella)	493862
+3423	P	Formaggio Latticino Fresco Light (Naturella)	493922
+3424	P	Latticino Fresco Light -30% (Alpina)	493968
+3425	P	Latte Accadì Scremato (Granarolo)	494027
+3426	P	Latte Accadì Parzialmente Scremato (Granarolo)	494090
+3427	P	Latte Scremato al Cioccolato	494153
+3428	P	Mozzarella con Latte Parzialmente Scremato	494317
+3429	P	Latte Parzialmente Scremato (Consilia)	494608
+3430	P	Latte Parzialmente Scremato (Tigullio)	494667
+3431	P	Latte al Cacao (Mukki)	494708
+3432	P	Sdrink Milk Latte con Cacao (Granarolo)	494752
+3433	P	Biscotti al Latte (LD Market)	494829
+3434	P	Biscotti al Latte (Rossi)	494899
+3435	P	Biscotti al Latte con Farina Integrale (Rossi)	494942
+3436	P	Formaggio Linea (Osella)	495054
+3437	P	Linea (Osella)	495101
+3438	P	Fave Secche	495140
+3439	P	Pane Pita con Pollo (stile Fajita), Insalata e Pomodoro	495286
+3440	P	Insalata di Uova	495514
+3441	P	Panino con Uova e Insalata	495799
+3442	P	Tostada o Taco con Manzo, Formaggio e Insalata	496013
+3443	P	Tostada o Taco con Manzo, Insalata, Pomodoro e Salsa	496258
+3444	P	Tostada o Taco con Manzo, Formaggio, Insalata, Pomodoro e Salsa	496497
+3445	P	Insalata di Mare	496766
+3446	P	Insalata di Mare (Coop)	496939
+3447	P	Insalata di Mare Surgelata (Coop)	497005
+3448	P	Insalata di Mare (La Caldera)	497075
+3449	P	Insalata di Mare Surgelata (Eurospin)	497116
+3450	P	Insalata Orzo e Farro con Tranci di Tonno (Mareblu)	497161
+3451	P	Insalata di Tonno Orto e Mare (Nostromo)	497207
+3452	P	Pinguì (Kinder)	497272
+3453	P	Cioccolato (Kinder)	497370
+3454	P	Barretta (Kinder)	497451
+3455	P	Brodo Granulare Classico (Knorr)	497532
+3456	P	5 Cereali (Oro Saiwa)	497573
+3457	P	Oro Più Gocce di Cioccolato (Oro Saiwa)	497683
+3458	P	Fibrattiva (Oro Saiwa)	497801
+3459	P	Cruscoro (Oro Saiwa)	497915
+3460	P	Oro Sandwich (Oro Saiwa)	498035
+3461	P	Oro Più Magia di Cacao (Oro Saiwa)	498111
+3462	P	Le Biscotte (Oro Saiwa)	498228
+3463	P	Risotto Parmigiana (Star)	498341
+3464	P	Mini Sofficini Parmigiana di Melanzane (Findus)	498406
+3465	P	Pizza Bella Napoli Parmigiana (Buitoni)	498499
+3466	P	Risotto alla Parmigiana (Esselunga)	498612
+3467	P	Pasta Fredda Condita con Olio e Aceto	498679
+3468	P	Per Pasta Aglio Olio Peperoncino (Rio Mare)	498890
+3469	P	Pinot Bianco	498949
+3470	P	Pasta e Patate	499095
+3471	P	Patate Hash Brown	499267
+3472	P	La Passata 500 (Cirio)	499408
+3473	P	Parmigiano Duro	499455
+3474	P	Parmigiano Grattugiato	499700
+3475	P	Grissini Teneri con Aglio e Parmigiano	499938
+3476	P	Pasta al Forno	500290
+3477	P	Pasta Sfoglia	500463
+3478	P	Fegato	500697
+3479	P	Patè di Fegato di Pollo (in Scatola)	500860
+3480	P	Pane di Mais (con Latte Magro 2%)	501054
+3481	P	Pancakes, Frittelle Semplici	501189
+3482	P	Pancakes (Picard)	501428
+3483	P	Buttermilk Pancakes, Frittelle di Latticello	501488
+3484	P	Pancakes, Frittelle (Miscela in Polvere)	501730
+3485	P	Pane di Mais (Miscela Pronta Istantanea)	501983
+3486	P	Pane Viennese (Lievitato)	502124
+3487	P	Pane Viennese Tostato (Lievitato)	502405
+3488	P	Pane Integrale al 100%	502658
+3489	P	Ciambella di Pane Integrale al 100%	502926
+3490	P	Pane Pita Integrale	503212
+3491	P	Carne di Cinghiale Selvatico	503528
+3492	P	Salame di Maiale (a Secco o Duro)	503664
+3493	P	Milka (Philadelphia)	503901
+3494	P	Biscotto (Milka)	503993
+3495	P	Milk Protein 90 (Watt)	504036
+3496	P	Philadelphia con Milka (Philadelphia)	504094
+3497	P	Cioccolato Bianco (Milka)	504186
+3498	P	Milkshake Fragola (McDonald's)	504251
+3499	P	Cioccolato con Riso Soffiato (Milka)	504319
+3500	P	Delice (Kinder)	504383
+3501	P	Ricotta (Granarolo)	504501
+3502	P	Ricotta Light (Granarolo)	504557
+3503	P	Salsa Teriyaki	504617
+3504	P	Salsa al Curry (Essiccata, Disidratata)	504815
+3505	P	Salsa di Soia (Shoyu)	504983
+3506	P	Salsa di Soia (Tamari)	505244
+3507	P	Coscia di Pollo (Arrosto o Cotta)	505479
+3508	P	Ala di Pollo, Carne e Pelle (Arrosto, Cotta)	505827
+3509	P	Marrons Glacé (Motta)	506157
+3510	P	Mentos (Perfetti)	506218
+3511	P	Mele Fuji	506266
+3512	P	Mele Rosse Delicious	506669
+3513	P	Mele Granny Smith	507072
+3514	P	Mele Pink Lady	507476
+3515	P	Mele Gala	507880
+3516	P	Riso Messicano	508284
+3517	P	Bevanda di Riso Messicano (Horchata)	508497
+3518	P	Contorno Messicano (Ghisetti)	508712
+3519	P	Riso Spagnolo	508764
+3520	P	Affettato Salamella (Muscolo di Grano)	508973
+3521	P	Affettato Bresaola (Muscolo di Grano)	509034
+3522	P	Arrosto Vegan (Muscolo di Grano)	509100
+3523	P	Yogurt Cremoso Frutti di Bosco con Pezzi (Granarolo)	509170
+3524	P	Yogurt Frutti di Bosco (Yomo)	509214
+3525	P	Yogurt Frutti di Bosco (Vipiteno)	509258
+3526	P	Yogurt con Frutti di Bosco (Carrefour)	509321
+3527	P	Yogurt Ciliegia (Activia)	509390
+3528	P	Piadina alle Verdure	509475
+3529	P	Zuppa di Pollo e Verdure (con Pari Quantità di Acqua, in Scatola)	509691
+3530	P	Minestra con Pezzi di Verdure (in Scatola)	509925
+3531	P	Minestra di Verdure (con Pari Quantità di Acqua, in Scatola)	510141
+3532	P	Patata Americana	510359
+3533	P	Patata Americana (senza Buccia, Cotta, Bollita)	510580
+3534	P	Muffin con Gocce di Cioccolato	510823
+3535	P	Muffin con Gocce di Cioccolato (Mr. Day)	511095
+3536	P	Barette di Muesli Morbide con Gocce di Cioccolato	511213
+3537	P	Muffin al Cioccolato (Billa)	511394
+3538	P	Virtual (San Carlo)	511509
+3539	P	Uovo	511571
+3540	P	Uovo all'occhio di Bue	511898
+3541	P	Vellutata di Asparagi (Coop)	512230
+3542	P	Vellutata di Asparagi Bianchi e Verdi (Knorr)	512316
+3543	P	Yogurt Magro Albicocca (YMA)	512436
+3544	P	Yogurt Magro Albicocca (Lattebusche)	512479
+3545	P	Yogurt Pesca Albicocca (Activia)	512520
+3546	P	Yogurt Albicocca (Mila)	512602
+3547	P	Crema di Yogurt Pesca & Albicocca (Muller)	512670
+3548	P	Yogurt Magro Fragola (Vitasnella)	512710
+3549	P	Yogurt Magro Vellutato Pesca (Vitasnella)	512783
+3550	P	Yogurt Magro Frutti di Bosco (Vitasnella)	512866
+3551	P	Yogurt Magro Ananas (Vitasnella)	512943
+3552	P	Yogurt Magro Bianco (Vitasnella)	512999
+3553	P	Yogurt Magro Pesca (Land)	513066
+3554	P	Yogurt Magro Alla Pesca (Vitawell)	513128
+3555	P	Yogurt alla Pesca (Coop)	513198
+3556	P	Yogurt Magro alla Pesca (Esselunga)	513287
+3557	P	Crema di Yogurt alla Nocciola (Muller)	513370
+3558	P	Yogurt Nocciola con Mandorle e Cereali (Muller)	513412
+3559	P	Yogurt alla Nocciola Più Mandorle (Muller)	513456
+3560	P	Yogurt alla Banana (Lattebusche)	513500
+3561	P	Yogurt alla Banana (Coop)	513541
+3562	P	Yogurt alla Banana (Land)	513610
+3563	P	Yogurt Frutti di Bosco (Mila)	513654
+3564	P	Crema di Yogurt Ciliegia (Muller)	513722
+3565	P	Yogurt Ciliegia (Sojasun)	513762
+3566	P	Zuppa di Grano Saraceno (Annalisa)	513829
+3567	P	Zuppa di Pesce (La Caldera)	513872
+3568	P	Zuppa di Pesce (Mare Pronto)	513936
+3569	P	Zuppa di Pesce (Carrefour)	513984
+3570	P	Zuppa di Pesce Surgelata (Coop)	514050
+3571	P	Zuppa di Pesce (Conad)	514121
+3572	P	Vellutata di Zucca e Patate Dolci con Finferli (Knorr)	514163
+3573	P	Wok di Verdure e Avena (Bio Appetì)	514224
+3574	P	Yogo Fruit (Montebovi)	514294
+3575	P	Fruitesse Macedonia (Yoga)	514403
+3576	P	Wurstel Vegetali con Farro e Soia (Natura Nuova Bio)	514461
+3577	P	Wurstel di Fegato	514532
+3578	P	Würstel (Senfter)	514913
+3579	P	Wurstel (Salumeo)	514972
+3580	P	Wurstel Suino (Recla)	515015
+3581	P	Yakult (Yakult)	515056
+3582	P	Yakult Light (Yakult)	515166
+3583	P	Tarallini (Puglia Sapori)	515286
+3584	P	Tarallini Pugliesi (Coop)	515354
+3585	P	Taralli Naturali (Forno Damiani)	515461
+3586	P	Tarallini (Puglia Sapori)	515504
+3587	P	Taralli (Tre Mulini)	515559
+3588	P	Taralli (Forno Damiani)	515625
+3589	P	Tarallini al Peperoncino (Certossa)	515668
+3590	P	Toast alla Francese (con Latte Magro 2%)	515735
+3591	P	Verdure Miste (Surgelate)	515910
+3592	P	Minestra di Verdure (in Scatola, Condensata)	516120
+3593	P	Minestra di Verdure (Basso Contenuto di Sodio, con Acqua)	516335
+3594	P	Verdure Miste (Solidi e Liquidi, in Scatola)	516528
+3595	P	The alla Pesca (Fidel)	516747
+3596	P	The alla Pesca (Conad)	516798
+3597	P	Risotto alla Pescatora (Knorr)	516844
+3598	P	Frutti di Mare Già Conditi alla Pescatora (Esca)	516905
+3599	P	Verdure Miste (Sgocciolate, in Scatola)	516944
+3600	P	Hamburger Grande con Condimenti e Verdure	517166
+3601	P	Sushi	517343
+3602	P	California Rolls - Sushi	517580
+3603	P	Sushi con Verdure Avvolti in Alghe Marine	517798
+3604	P	Sushi con Verdure e Frutti di Mare	518033
+3605	P	Sushi con Verdure	518265
+3606	P	Condimento per Inslata con Formaggio Blu o Roquefort	518498
+3607	P	Condimento per Caesar Salad	518721
+3608	P	Condimento per Caesar Salad (Basso Contenuto Calorico)	518937
+3609	P	Tris di Verdure (Orto Maremma)	519138
+3610	P	Tris di Verdure (McDonald's)	519180
+3611	P	Trancetto (Balconi)	519233
+3612	P	Trancetto (Balconi)	519340
+3613	P	Philadelphia Light (Philadelphia)	519409
+3614	P	Philadelphia (Philadelphia)	519504
+3615	P	Philadelphia Classico (25g) (Philadelphia)	519571
+3616	P	Philadelphia Mini (Philadelphia)	519650
+3617	P	Balance (Philadelphia)	519727
+3618	P	Philadelphia Light (Philadelphia)	519790
+3619	P	Fantasie al Salmone (Philadelphia)	519857
+3620	P	Fantasie alle Erbe (Philadelphia)	519937
+3621	P	Philadelphia Classico (30g) (Philadelphia)	520014
+3622	P	Philadelphia al Prosciutto Cotto (Philadelphia)	520133
+3623	P	Pane Multicereali	520231
+3624	P	Pane Multicereali Ipocalorico con Alto Contenuto di Fibre	520511
+3625	P	Pane Integrale 8 Cereali (Pema)	520759
+3626	P	Pan Bauletto 5 Cereali e Soia (Mulino Bianco)	520817
+3627	P	Pane Multicereali Tostato	520934
+3628	P	Fette Biscottate le Cereali (Mulino Bianco)	521257
+3629	P	Succo di Mela (Concentrato Congelato, Diluito con Acqua)	521325
+3630	P	Fagioli Borlotti (Semi Maturi)	521545
+3631	P	Fagioli Borlotti (Semi Maturi, in Scatola)	521731
+3632	P	Pasta Fredda col Tonno	521882
+3633	P	Pasta al Tonno	522099
+3634	P	Per Pasta alla Marinara con Tonno (Rio Mare)	522272
+3635	P	Pasta di Mais	522327
+3636	P	Pasta Fresca	522501
+3637	P	Pasta Fresca (Cotta)	522659
+3638	P	Tonno Rosso (Pesce)	522811
+3639	P	Tonno Light (Sgocciolato dall'acqua, in Scatola)	522968
+3640	P	Passato di Verdure (Dimmidisì)	523233
+3641	P	Passato di Verdure (Coop)	523374
+3642	P	Passato di Verdure (Orogel)	523429
+3643	P	Passato di Verdure (Star)	523494
+3644	P	Passato di Verdure (Dimmidisì)	523566
+3645	P	Passato di Verdure (Knorr)	523604
+3646	P	Passato di Verdure Surgelato (Coop)	523668
+3647	P	Passato di Verdure (Conad)	523731
+3648	P	Torta Salata ai Carciofi (Tre Mulini)	523798
+3649	P	Torta di Ciliegie (Commerciale)	523863
+3650	P	Tortellini Ricotta e Spinaci (Esselunga)	524106
+3651	P	Tonno in Scatola	524151
+3652	P	Tonno in Olio (in Scatola)	524378
+3653	P	Insalata di Tonno e Formaggio	524604
+3654	P	Tonno all'olio di Oliva (Rio Mare)	524822
+3655	P	Tonno all'olio d'oliva (Nostromo)	524874
+3656	P	Tonno	524985
+3657	P	Tonno in Olio di Oliva (Coop)	525176
+3658	P	Tonno al Forno o alla Griglia	525301
+3659	P	Tonno al Naturale (Coop)	525650
+3660	P	Tonno all'olio di Oliva (Mareblu)	525763
+3661	P	Panino con Gyros-Kebab di Carne di Manzo	525814
+3662	P	Panino con Gyros-Kebab di Agnello	526031
+3663	P	Panino con Gyros-Kebab di Pollo	526247
+3664	P	Panino da Hamburger o Hot Dog	526464
+3665	P	Orzo Soffiato (Fiorentini)	526646
+3666	P	Orzo Soffiato (Ecor)	526704
+3667	P	Orzo Soffiato (Ki)	526748
+3668	P	Riso Soffiato (Fortificato)	526792
+3669	P	Orzo Perlato (Cotto)	526916
+3670	P	Spaghetti Integrali (Cotti)	527099
+3671	P	Pizzetta	527281
+3672	P	Pizzetta Sfoglia	527502
+3673	P	Fruttino Merendina di Cotogna (Zuegg)	527720
+3674	P	Merendina Allo Yogurt (Plasmon)	527767
+3675	P	Merendina Allo Yogurt (Latteria)	527875
+3676	P	Cuore di Lattuga (Conad)	527948
+3677	P	Cuori di Lattuga (Esselunga)	527984
+3678	P	Mix Lattugoso (Bonduelle)	528026
+3679	P	Lattuga Romana	528090
+3680	P	PanBauletto Integrale (Mulino Bianco)	528388
+3681	P	Pane Integrale (Auchan)	528505
+3682	P	Pane ai 5 Cereali e Semi di Lino (Conad)	528577
+3683	P	Pane Integrale (Conad)	528645
+3684	P	The Verde (Rocchetta)	528707
+3685	P	The Verde (Coop)	528747
+3686	P	Semi di Soia (Semi Maturi, al Vapore, Cotto)	528807
+3687	P	Salmone Selvatico Dell'atlantico	529034
+3688	P	Salmone Rosa	529212
+3689	P	Salmone Rosso (Sockeye)	529394
+3690	P	Salmone Dell'atlantico (da Allevamento)	529615
+3691	P	Salsa al Formaggio	529792
+3692	P	Zuppa di Noodle al Pollo (Sintetica, Disidratata)	529994
+3693	P	Mousse di Mela e Melograno (Melinda)	530206
+3694	P	Mousse di Mela (Boschetti)	530268
+3695	P	Mousse Mela e Frutti di Bosco (Melinda)	530331
+3696	P	Mousse di Mela e Prugna (Boschetti)	530399
+3697	P	Muffin di Mais	530461
+3698	P	Muffins alla Crusca d'avena	530737
+3699	P	Polpette di Manzo	531008
+3700	P	Polpettone di Carne di Manzo	531404
+3701	P	Polpette di Carne di Manzo e di Maiale	531757
+3702	P	Polpette con il Sugo	532120
+3703	P	Polpette di Maiale	532367
+3704	P	Polpettine Vegetali (Kio Ene)	532643
+3705	P	Polpette di Pollo	532709
+3706	P	Polpette di Soia (Natura Nuova)	533032
+3707	P	Polpette di Tacchino	533100
+3708	P	Polpettine con Zucca e Carote (Amadori)	533422
+3709	P	Pollo Arrosto	533489
+3710	P	Coscia di Pollo Arrosto al Forno o alla Griglia	533861
+3711	P	Pollo Allo Spiedo senza Pelle (Carrefour)	534234
+3712	P	Arrosto di Pollo alla Griglia o al Forno (senza Pelle)	534280
+3713	P	Arrosto di Petto di Pollo alla Griglia o al Forno (con la Pelle)	534624
+3714	P	Petto di Pollo Arrosto (Beretta)	534999
+3715	P	Arrosto di Pollo alla Griglia o al Forno	535046
+3716	P	Ala di Pollo Arrosto al Forno o alla Griglia (Mangiata con la Pelle)	535391
+3717	P	Pollo al Curry	535767
+3718	P	Curry in Polvere	536139
+3719	P	Carne di Pollo (Tostato, Arrosto, Cotto)	536357
+3720	P	Supplì	536625
+3721	P	Sofficini I Supplì (Findus)	536846
+3722	P	Gelati alla Fragola	536960
+3723	P	Coni Gelato (Wafer)	537152
+3724	P	Ghiacciolo	537376
+3725	P	Succo di Limone	537532
+3726	P	Succo di Limone (in Cartone o in Bottiglia)	537776
+3727	P	Buccia di Limone	538037
+3728	P	Torta Meringata al Limone	538251
+3729	P	Gallette di Riso e Mais (Scotti)	538450
+3730	P	Budino di Riso	538530
+3731	P	Stracchino (Nonno Nanni)	538621
+3732	P	Stracchino (Granarolo)	538666
+3733	P	Stracchino (Land)	538718
+3734	P	Stracchino (LD Market)	538773
+3735	P	Stracchino (Bontà Viva)	538816
+3736	P	Stracchino Alta Digeribilità (Soligo)	538872
+3737	P	Stracchino (Centrale del Latte di Roma)	538940
+3738	P	Stracchino Accadì (Granarolo)	538996
+3739	P	Lo Stracchino (Mukki)	539060
+3740	P	Stracchino Allo Yogurt (Nonno Nanni)	539105
+3741	P	Schiacciata Romana (Bofrost)	539150
+3742	P	Scamorza Bianca (Sigma)	539196
+3743	P	Campagnola Scamorza e Porcini (Amadori)	539237
+3744	P	Ravioli Radicchio e Scamorza (Buitoni)	539300
+3745	P	Sottiletta Light (Kraft)	539413
+3746	P	Hamburger di Bovino Adulto (Coop)	539490
+3747	P	Hamburger	539556
+3748	P	Hamburger di Tacchino	539732
+3749	P	Panino con Hamburger, Maionese o Condimento per Insalata e Pomodoro	540009
+3750	P	Hamburger (Coop)	540218
+3751	P	Panino con Hamburger, Pomodoro e/o Ketchup	540286
+3752	P	Hamburger (-22)	540502
+3753	P	Hamburger Grande	540570
+3754	P	Popcorn al Gusto di Formaggio	540746

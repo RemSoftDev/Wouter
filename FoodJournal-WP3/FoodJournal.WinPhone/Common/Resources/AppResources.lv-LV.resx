@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>lv-LV</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>PĀRTIKAS DIENASGRĀMATA</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Kopējā preces</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Dzēst</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Nekas, kas atlasīts</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Nesen brokastis vienumus</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Pēdējo vakariņu vienumus</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Manu neseno excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Nesen pusdienu krājumus</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Uzkodu jaunākos vienumus</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>PĀRTIKAS DIENASGRĀMATA</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>PĀRTIKAS ŽURNĀLS- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Brokastis</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Vakariņas</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Vingrinājumā</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Pusdienas</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Uzkodas</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Meklēt</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Šodien</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Summa</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Kalcija</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorijas</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Ogļhidrāti</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Holesterīns</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Šķiedra</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Dzelzs</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Mononepiesātinātiem taukiem</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Polinepiesātināto tauku</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kālija</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Olbaltumvielas</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Piesātinātie tauki</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Nātrijs</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Cukurs</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Tauki kopā</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>C vitamīns</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>D vitamīns</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Biezums</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Preferences</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Ievadiet meklējamo terminu</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (jauna pozīcija)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (jauna recepte)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Meklēšanas rezultāti</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} netika atrasta, mēģiniet mainīt meklēšanas terminu</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Pievienot</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>vārds</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Uzturvērtība</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>PĀRTIKAS INFO</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Lūdzu, vispirms ievadiet lielumu</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Porcijas lielums</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>cik daudz?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>papildu opcijas</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Informāciju par uzturvērtību</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Pievienot kalpo izmērs</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Pievienot</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalendārs</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Reklāma</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centilitri</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Kauss</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Dekalitri</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Šķidruma unce</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galons</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Grami</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogrami</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litri</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Mililtri</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Unces</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pinte</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Mārciņas</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Kvarta</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Ēdamkarote</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Tējkarote</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Tases</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>šķidruma unces</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galoni</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Grami</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogrami</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litri</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililitri</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>unces</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pintes</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Mārciņas</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Kvartas</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Ēdamkarotes</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Tējkarotes</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>lv</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-pasts no pārtikas dienasgrāmata</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>summa</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>notiek ielāde...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Atjaunināt tūlīt</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Paldies jums, izmantojot šo App! Šī kopija tagad beidzies. Bet neuztraucieties, mēs tevi aizvedīsim uz lejupielādes lapu, lai atjauninātu, ja noklikšķināsiet uz Labi.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Šī uzdevuma atjauninājumus dzīvot flīžu pārtikas dienasgrāmata.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Ir atspējojis tālruņa uzstādījumus programmā Live mozaīku.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Manas preferences</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Saskaitīt trūkst maltītes app mozaīkā</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Atgādinājumi</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Iestatījumi</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Iestatīt flīzes</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Atskaite</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Atskaite</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Tējkarote = 4.5 g|Ēdamkarote = 12 g|1 apkalpo = 28 g|Gabals = 14 g|Šķēle = 12 g|1 kauss = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Uzņemt fotoattēlu</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Paldies jums, izmantojot šo App! Ja jūs atradīsiet par lietderīgu, lūdzu palīdzēt tai kļūt veiksmīgs, atstājot pārskatīšanu.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Atstāt atsauksmi?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Mērķi</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Nav mērķi</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Dienas beigās</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Ko tu ēdi?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Atgādinājums: atjaunināt savu dienasgrāmatu</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>atlasīto Atgādinājumi parādās, ja neesat atjauninājis savu dienasgrāmatu pēc izvēlētā laika perioda</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Apelsīnu sula, 1 tase Toast, 1 šķēle, olu, 1 vidēja banānu, ābolu, kafijas</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} virs mērķis</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>Atlikuši {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Dienasgrāmata</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Izvēlieties Labi, lai noņemtu reklāmas no app.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Noņemt reklāmas?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Bija problēma, veidojot savienojumu ar Windows Phone veikalu. Lūdzu, vēlāk mēģiniet vēlreiz.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Ziņot par problēmu</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Iesaku līdzeklis vai uzdot jautājumu</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Novērtēt šo app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Īpašas atsauksmes palīdz uzlabot app</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Palīdzēt uzlabot tulkošanas</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Ekrāna tvērums ir iekļauts</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Kopīgot saiti</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Lai lejupielādētu šo app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Pārtikas dienasgrāmata tekstu</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Izbraukšana Windows Phone pārtikas dienasgrāmata</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Pārtikas dienasgrāmata</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Kopīgas brokastis vienumus</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Kopīgas vakariņas vienumus</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Kopīgas pusdienas vienumus</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Kopējā uzkodu vienumus</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Ēdienreizes</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Rīts</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Agrā pēcpusdienā</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Pēcpusdiena</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Atsevišķu uzkodām</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Atsevišķu agrās pēcpusdienas uzkodām</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Atsevišķu pēcpusdienas uzkodām</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Vakars</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Atsevišķu pusnakts uzkodas</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Pusnakts</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Apvienot uzkodas</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Atsevišķā vakarā uzkodas</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Pēcpusdienā jaunākos vienumus</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Nesenie agrā pēcpusdienā vienumi</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Pēdējā vakarā vienumus</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Nesen pusnakts vienumus</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Pēdējā rītā vienumus</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Pēcpusdienā kopējo krājumu</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Kopējā agrā pēcpusdienā vienumus</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Kopējās vakara vienumus</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Kopējā pusnakts vienumus</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Kopējā rīta vienumus</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Paldies par mēģina pārtikas dienasgrāmata. Jums ir atlikušas {0} pārbaudes dienas. Nospiediet taustiņu OK, lai atbloķētu app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Unlock tagad?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Izmēģinājuma tagad beidzies. Jūs joprojām varat skatīt savu žurnālu, bet nevar pievienot jaunas ievadnes. Izvēlieties Labi, lai atraisītu pilnu versiju.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Noņemt reklāmas</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Neatgriezeniski noņemt visus sludinājumus</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Piezīme: Tas ir agri (beta) versija, pārtikas bāze pastāvīgi tiek paplašināts. Ja jums ir kādi ieteikumi, lūdzu, e-pasts daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Pārtikas dienasgrāmata</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Esošo lietotāju atsauksmes:
+-Šis app ir svētība ērta tās lietošana izteiksmē. 
+-Šis app ir visas funkcijas, nepieciešams vienkāršs dizains. Tā patiešām padara ierakstīšanas ikdienas ēšanas paradumi, kas daudz vieglāk nekā citas progr. Es zinu, ka man tas patīk!
+-Labāko no tās veida
+-Tā ir pamatīga, labi organizēta un viegli lietojams
+-Es mīlu šo app! Tas ir vienkārši, vēl notur mani uz ceļa ❤ un pat man atgādina, ja neesmu ēdis kārtīgu maltīti. Noteikti ir liela palīdzība, cenšoties būt veselīgi ar manu</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Galvenās iezīmes:
+1. izstrādāta, lai būtu vienkāršākais un ātrākais pārtikas dienasgrāmata app
+2. kopējo pārtikas un nesen ēst pārtikas ir ieteikumi, lai veiktu ierakstu ļoti ātri
+3. nav nepieciešams pierakstīties vai ievadīt privāto informāciju, piemēram, jūsu e-pasta adresi vai svars
+4. esošo pārtikas datu bāzi ar informāciju par uzturvērtību
+5. ērta kalpo izmērs selektora ļauj ievadīt tieši to, ko tu ēd
+6. viegli pievienot jaunus pārtikas produktus, kas app vēl nezina par
+7. ikdienas pārskatā parādītas visas uztura detaļas
+8 iknedēļas ziņojums parāda, kā jūs izsekot salīdzinājumā ar uzturvielu mērķiem
+9. konfigurējamas atgādinājumi palīdzētu pārliecināties, jūs neaizmirstiet, aizpildiet savu dienasgrāmatu
+10 dzīvu mozaīkas parāda cik maltītes ir jābūt piepildīts ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Ja jūs ievērojat diētu, vai jūs vēlaties zināt, cik kalorijas, tauku, olbaltumvielu vai ogļhidrātu ēst katru dienu, tas ir app jums.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Pārtikas dienasgrāmata ir vieglākais veids, kā izsekot tam, ko tu ēd katru dienu.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Uzturvērtība</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorijas</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Diēta</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Pārtikas žurnāls</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Kaloriju skaitītājs</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banāns</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kafija</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Ābols</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Olu</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 šķēle</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Paziņojums par sarunas pieprasījumu</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 tase</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Apelsīnu sula</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Paldies par jūsu atbalstu! Izmantojiet šo opciju, lai neatgriezeniski noņemtu reklāmas no jūsu pārtikas dienasgrāmata app.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Noņemt reklāmas</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Ievadiet lielumu</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Izmēģinājuma periods beidzies, atslēgt?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 vidēja</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Par</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Ātrākais un vieglākais veids, kā izsekot tam, ko tu ēd.
+
+Ritiniet uz leju, lai iegūtu informāciju par datu precizitāti.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Jaunināt tūlīt</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Nopirkt premium versiju</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Pārtikas žurnāls {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Kaut neparedzēta kļūme. Žurnāls netiek nosūtīts.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Lūdzu, ievadiet derīgu e-pasta adresi.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Kopā</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>tikai {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Attīstības atbalstam</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>ATRUNA:
+Lielākā daļa, bet ne visiem datu punktiem, datu bāzes, kas nāk no cienījamiem avotiem. Mēs mūsu vislabāk, lai pārliecinātos, ka visas vērtības ir pareizi, bet nevar būt atbildīgs par pareizas vai to trūkst datu. Uztura vērtības atšķiras zīmolu un laika gaitā. Izmantojot šo app, jūs piekrītat, lai pārbaudītu un koriģētu visus datus app un ir pilnībā atbildīgs par zaudējumu vai kaitējumu sakarā ar tās lietošanu.
+
+Lūdzu, dariet man zināmu, ja tur ir kaut kas man var palīdzēt jums ar.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Palīdzēt uzturēt šo app nāk atjauninājumus</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Iegūstiet visas funkcijas</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Iekļauts:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Piezīme: Lielākā daļa, bet ne visi dati tiks ņemti no cienījamiem avotiem. Iegādājoties premium versiju, jūs pieņemat pilnu atbildību par precizitāti un pilnīgumu datus. E-pasts daily.journal@outlook.com detaļas.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Jauni līdzekļi</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Visas piemaksas līdzekļi nākotnē atjauninājumus</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Vairāk ēdieni</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>5, 6 vai vairāk ēdienreizes dienā izsekošanai</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Vairāk pārtiku *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Simtiem tūkstošiem vairāk pārtikas krājumus (atkarībā no vietas)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>E-pasta ziņojumus</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-pasts jūsu žurnālu saglabāt, izdrukāt vai analyze it</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Bez reklāmas</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Visas reklāmas ir neatgriezeniski noņemti</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Pirkt tagad</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Nosūtīt pa e-pastu</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>nosūtīt tūlīt</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>E-pasta adresi</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Iegūtu piekļuvi visām funkcijām</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Jaunināt uz premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Piezīme: Lielākā daļa, bet ne visiem datu punktiem, datu bāzē nāk no cienījamiem avotiem. Mēs mūsu vislabāk, lai pārliecinātos, ka ir precīzas vērtības, bet nevar būt atbildīgs par pareizas vai to trūkst datu. Izmantojot app, jūs apzināties un pieņemt pilnu atbildību par datu pareizību pārbauda. App ļauj atjaunināt var atrast pretrunas.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Vēstnesis, AAA
+Jautājumi vai komentāri? Atbildot uz BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Iesniegšanas</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Ar labāku tulkojumu, lūdzu, atjauniniet tekstus šajā sarakstā. Noņemtu visu teksta vienumiem, kas nav piemēroti jūsu reģionā.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Paldies par jūsu palīdzību!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Tulkojumi</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Šeit jūs varat palīdzēt uzlabot šo app.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Oriģināls:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>labs</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Apraksts:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Palīdzēt uzlabot app</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Ievadiet savu e-pasta adresi, ja jūs vēlaties sazināties.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Komentārs</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Uzlabot tulkojumus</value>
+  </data>
+</root>

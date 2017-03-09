@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+  <color name="activated_color">#D6D2D2</color>
+<!---  <color name="ActionBar_Background">#46F</color> -->
+  <color name="bar_color">#B9CFFF</color>
+  <color name="baralternate_color">#0050EF</color>
+
+    <color name="ActionBar_Background">#0050EF</color>
+    <color name="ActionBar_ForeColor">#FFF</color>
+  <color name="trialcolor">#1976d2</color>
+    <color name="NormalTextColor">#000</color>
+
+  <color name="SubtleTextColor">#888</color>
+  <color name="ListItemBackcolor">#FFF</color>
+  <color name="drawerbackcolor">#FFF</color>
+
+<!--- 
+  <color name="ButtonBackcolor">#000</color>
+  <color name="ButtonForecolor">#000</color>
+-->
+  <color name="ButtonBackcolor">#EEE</color>
+  <color name="ButtonSubtleForecolor">#666</color>
+  <color name="ButtonForecolor">#000</color>
+
+  <color name="blue">#00E</color>
+  <color name="green">#0E0</color>
+  <color name="violet">#EE0</color>
+  
+    <color name="accentToolbar">#FFEB3B</color>
+
+    <color name="accent">#1976D2</color>
+    <color name="drawer_background">#2A2826</color>
+    <color name="fab">#F44336</color>
+    <color name="primaryDark">#0D47A1</color>
+    <color name="text_calories">#1976D2</color>
+    <color name="text_carbs">#9050B0</color>
+    <color name="text_fat">#EB785E</color>
+    <color name="text_protein">#5F9F61</color>
+    <color name="text_other">#666</color>
+
+    <color name="accentSecondTheme">#D500F9</color>
+    <color name="primaryDarkSecondTheme">#AA00FF</color>
+    <color name="primarySecondTheme">#E040FB</color>
+
+<color name="drawer">@drawable/selector</color>
+
+    <color name="mdtp_accent_color">#1976D2</color>
+    <color name="mdtp_accent_color_dark">#1976D2</color>
+
+
+    	    	<color name="mdtp_white">#FFFFFF</color>
+    	    	<color name="mdtp_transparent_black">#000000</color>
+    	    	<color name="ripple_material_light">#000000</color>
+    	    	<color name="button_material_dark">#000000</color>
+    	    	<color name="primary_text_default_material_light">#000000</color>
+    	    	<color name="background_floating_material_dark">#000000</color>
+    	    	<color name="dim_foreground_material_dark">#000000</color>
+
+    	    	<!---    	    	<color name="abc_primary_text_material_light">#000000</color>
+    	    	<color name="abc_secondary_text_material_light">#1976D2</color>
+    	    	<color name="abc_primary_text_material_dark">#000000</color> -->
+
+</resources>

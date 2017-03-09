@@ -1,0 +1,883 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Chlieb		33
+1	B	Ovsené vločky		309
+2	L	Biela ryža		490
+3	L	Kuracie prsia		613
+4	B	Šunka		753
+5	B	Káva		909
+6	D	Chlieb		1046
+7	B	Vajcia		1322
+8	B	Čaj		1493
+9	L	Varené zemiaky		1576
+10	S	Chlieb		1786
+11	B	Banán		2063
+12	D	Šunka		2382
+13	B	1% mlieka		2539
+14	B	Jablko		2679
+15	D	Kuracie prsia		2717
+16	B	Maslo bez soli		2858
+17	S	Káva		3062
+18	L	Kuracie rezancová polievka		3200
+19	S	Sušienky		3344
+20	L	Chlieb		3494
+21	D	Biela ryža		3771
+22	D	Vajcia		3895
+23	S	Banán		4067
+24	D	Paradajka		4386
+25	S	Čaj		4609
+26	B	Paradajka		4693
+27	S	Mliečna čokoláda		4916
+28	S	Vajcia		5047
+29	L	Paradajka		5219
+30	D	Varené zemiaky		5442
+31	B	Plnotučné mlieko		5653
+32	L	Kuracie		5807
+33	L	Maslo olej		5943
+34	L	Bravčové rezy		6078
+35	B	Nízka tuk ovocné jogurty		6192
+36	L	Hovädzie mäso		6289
+37	L	Vajcia		6466
+38	L	Rezance		6638
+39	D	Ľadový šalát		6749
+40	D	Maslo olej		7119
+41	L	Ľadový šalát		7254
+42	L	Kešu oriešky		7624
+43	D	Banán		7771
+44	D	Nízka tuk ovocné jogurty		8090
+45	B	Matné sendvičovač pečivo		8187
+46	B	Ľahké nízke tuk ovocné jogurty		8312
+47	L	Mrkva		8470
+48	L	Čaj		8785
+49	D	Mrkva		8869
+50	S	Slanina		9184
+51	B	Biely chlieb		9325
+52	B	Jogurt		9601
+53	L	Olivový olej		9620
+54	B	Syr čedar		9712
+55	D	Kuracie		9931
+56	D	Syr čedar		10067
+57	L	Miešanú zeleninou		10286
+58	D	Slanina		10389
+59	B	maslo		10530
+60	L	cesnak		10625
+61	D	Matné sendvičovač pečivo		10663
+62	B	Orech		10788
+63	S	Jablko		11048
+64	D	Syr		11086
+65	D	Rastúce chrumkavú pizzu		11184
+66	L	Kurací vývar		11300
+67	B	Instantná káva		11443
+68	D	Maslo bez soli		11497
+69	B	Med		11701
+70	B	Bageta		11791
+71	L	Banán		11819
+72	B	Slanina		12138
+73	L	Pečené zemiaky		12279
+74	D	Uhorka		12477
+75	S	Nízka tuk ovocné jogurty		12685
+76	S	1% mlieka		12782
+77	B	Tuniaková pomazanka		12922
+78	S	Saláma		12955
+79	B	jogurt biely		13067
+80	B	Švajčiarsky syr		13105
+81	B	Celok-pšeničná chlieb		13324
+82	L	Jablko		13552
+83	B	Káva s mliekom		13590
+84	B	Hnedý cukor		13663
+85	B	Saláma		13820
+86	D	Rezance		13932
+87	D	maslo		14043
+88	S	Protein		14138
+89	B	Kešu oriešky		14176
+90	S	Orech		14323
+91	L	Kapusta		14583
+92	D	cesnak		14892
+93	L	Káva		14930
+94	D	Protein		15068
+95	D	Tvaroh		15106
+96	L	Zrnami ryže		15143
+97	D	Olivový olej		15198
+98	S	2% mlieka		15290
+99	L	Syr čedar		15429
+100	B	Čerstvej pomarančovej šťavy		15648
+101	B	Pomaranc		15782
+102	S	Syr čedar		15821
+103	S	Ľahké nízke tuk ovocné jogurty		16041
+104	L	Ľahké nízke tuk ovocné jogurty		16200
+105	D	Cibuľa		16359
+106	B	Protein		16645
+107	B	Parky		16684
+108	B	Rožok		16722
+109	B	Francúzsky chlieb		16762
+110	D	Zníženým obsahom tuku syr		16914
+111	B	Biela ryža		17138
+112	L	Cestoviny		17263
+113	D	Jablko		17360
+114	S	Rezance		17399
+115	S	Masť		17511
+116	D	Mozzarela		17585
+117	D	Kapusta		17624
+118	L	Šunka		17934
+119	D	Jogurt sabi		18092
+120	D	Müsli		18127
+121	D	Káva		18164
+122	D	Tuniak vo vlastnej stave		18303
+123	S	Kuracie prsia		18341
+124	D	1% mlieka		18483
+125	S	Kukurica		18624
+126	L	Ovsené vločky		18883
+127	B	Ražný chlieb		19066
+128	B	Solené maslo		19350
+129	B	Müsli		19504
+130	B	Ovsené otruby		19541
+131	S	Slnečnicové semená		19581
+132	D	Bravčové rezy		19692
+133	L	Losos		19807
+134	L	Cibuľa		19904
+135	L	Syr		20190
+136	L	Ovsené otruby		20289
+137	L	Hranolky		20329
+138	B	Miešané vajcia		20508
+139	B	Ovos		20706
+140	D	Plnotučné mlieko		20817
+141	D	Miešanú zeleninou		20972
+142	S	Pomaranc		21076
+143	B	Syr		21115
+144	B	Kapusta		21214
+145	B	Cmar vafle		21524
+146	L	Slanina		21655
+147	B	Mrkva		21797
+148	B	Smotanový syr		22113
+149	B	Tekvicove semienka		22306
+150	L	Mozzarela		22344
+151	L	Uhorka		22383
+152	B	Hruška		22592
+153	S	Mandarinka		22777
+154	L	Maslo bez soli		22816
+155	L	Ražný chlieb		23021
+156	D	Mrazené pizze		23305
+157	B	cesnak		23425
+158	B	Broskyňa		23464
+159	L	Paprika		23656
+160	B	Paprika		23697
+161	S	Kešu oriešky		23738
+162	L	Zelený šalát		23886
+163	L	Bryndza		24259
+164	B	parok		24297
+165	S	Rímsky šalát		24332
+166	S	Šunka		24660
+167	S	Jogurt		24818
+168	L	Ploché ryby		24838
+169	B	Uhorka		24936
+170	D	Paprika		25145
+171	D	2% mlieka		25186
+172	D	Hovädzie mäso		25326
+173	D	Pečené zemiaky		25504
+174	D	Konzervované tuniaky svetla		25703
+175	L	Pečené kuracie mäso		25860
+176	B	Mandarinka		26034
+177	S	Ovsené vločky		26073
+178	L	1% mlieka		26256
+179	S	Maslo bez soli		26397
+180	L	Pomaranc		26602
+181	L	Konzervované tuniaky svetla		26641
+182	B	Tvaroh		26798
+183	L	Por		26836
+184	L	Sosovica		26868
+185	D	Čaj		27018
+186	D	Acidko		27103
+187	D	Parky		27146
+188	D	Smotanový syr		27184
+189	D	Ploché ryby		27377
+190	D	Losos		27475
+191	S	Müsli		27572
+192	S	Biela ryža		27609
+193	S	Jogurt sabi		27734
+194	S	Arašidové maslo		27769
+195	B	Jogurt sabi		27816
+196	B	Čokoládovú tortu		27851
+197	D	Med		27983
+198	B	Avokádo		28074
+199	B	Mliečna čokoláda		28190
+200	D	Kešu oriešky		28322
+201	D	Bryndza		28470
+202	D	Parenica		28508
+203	D	Zelený šalát		28546
+204	D	Piškóty		28919
+205	D	Rožok		28959
+206	B	Acidko		28999
+207	S	Paradajka		29042
+208	L	Mila		29266
+209	L	Parky		29304
+210	L	Müsli		29342
+211	L	Tvaroh		29379
+212	L	Mrazené pizze		29417
+213	L	Švajčiarsky syr		29537
+214	L	Zeleninový šalát		29757
+215	S	Parky		29788
+216	S	Cukor		29826
+217	B	Olivy		29982
+218	B	Kuracie rezancová polievka		30016
+219	B	Miešanú zeleninou		30161
+220	B	Zmesi orechov		30265
+221	L	Biely chlieb		30370
+222	D	Sója		30647
+223	S	Pražené arašidy		30685
+224	B	Rozok biely		30795
+225	D	Zeleninový šalát		30835
+226	L	Horčica		30866
+227	S	Káva s mliekom		30981
+228	D	Avokádo		31055
+229	B	Slnečnicové semená		31171
+230	D	Hruška		31282
+231	B	Monte		31467
+232	D	Čokoládovú tortu		31507
+233	D	Jogurt		31639
+234	D	Miešané vajcia		31659
+235	B	Cibuľa		31857
+236	D	Ražný chlieb		32143
+237	D	Ovsené vločky		32427
+238	B	Arašidové maslo		32610
+239	D	Saláma		32657
+240	B	Jahoda		32770
+241	B	Opevnených nízkym tuku ovocie jogurt		33046
+242	D	Por		33208
+243	D	Klobása		33240
+244	B	Maslo olej		33347
+245	B	Sosovica		33483
+246	D	Jahoda		33633
+247	B	Čokoláda 86%		33909
+248	L	Cmar vafle		33947
+249	L	Jogurt		34078
+250	L	Kuracie stehna		34098
+251	B	2% mlieka		34235
+252	B	Tvarohový koláč		34375
+253	S	Parenica		34510
+254	S	Čokoláda na varenie		34548
+255	L	Matné sendvičovač pečivo		34659
+256	L	Jogurt sabi		34785
+257	S	Čokoláda 86%		34820
+258	S	Hrozno		34858
+259	S	Čokoládovú tortu		34984
+260	D	Tofu		35116
+261	S	Bravčové rezy		35158
+262	D	Cottage Cheese		35273
+263	L	Vyprážané vajcia		35313
+264	S	Tvaroh		35475
+265	S	Biely chlieb		35513
+266	S	Makrela údená		35790
+267	S	Kurací vývar		35829
+268	S	Plnotučné mlieko		35973
+269	S	Čerstvej pomarančovej šťavy		36128
+270	S	Hruška		36262
+271	S	Ľadový šalát		36447
+272	L	Nízka tuk ovocné jogurty		36818
+273	D	Cestoviny		36916
+274	D	Pomaranc		37013
+275	D	Cestoviny s paradajkovou omáčkou		37052
+276	D	Prípitok		37171
+277	D	Rozok biely		37413
+278	D	Mliečna čokoláda		37453
+279	D	Pečené kuracie mäso		37585
+280	D	parok		37759
+281	L	Varená mrkva		37794
+282	L	Cestoviny s paradajkovou omáčkou		38091
+283	B	Kečup		38210
+284	L	Zmesi orechov		38370
+285	B	Olivový olej		38475
+286	B	Ovsená kaša		38568
+287	B	Grep		38652
+288	B	Tuniak vo vlastnej stave		38693
+289	B	Dzem		38731
+290	B	Biely jogurt		38758
+291	B	Párok v rožku		38791
+292	L	Pohanka		38903
+293	L	Cvikla		38997
+294	L	Škorica		39035
+295	L	Avokádo		39075
+296	L	Klobása		39191
+297	L	Smotanový syr		39298
+298	L	2% mlieka		39491
+299	L	Mandarinka		39631
+300	L	Majonéza dressingom		39670
+301	L	Kukurica		39797
+302	S	Grep		40056
+303	D	Horčica		40097
+304	D	Kuracie rezancová polievka		40212
+305	D	Celok-pšeničná chlieb		40357
+306	D	jogurt biely		40586
+307	B	Klobása		40625
+308	D	Tvarohový koláč		40732
+309	S	Mrkva		40867
+310	D	Olivy		41183
+311	D	Hranolky		41217
+312	D	Mango		41396
+313	D	Jarná cibuľka		41427
+314	S	Tekvicove semienka		41629
+315	S	Kuracie rezancová polievka		41667
+316	S	Olivy		41812
+317	B	Kukuričné vločky		41846
+318	B	Ananás		41954
+319	B	Konzervované tuniaky svetla		42166
+320	B	Cukor		42323
+321	B	Jablková šťava		42479
+322	B	cerealie		42609
+323	B	Horalka		42649
+324	B	Tea		42686
+325	S	Med		42721
+326	S	Miešané vajcia		42812
+327	B	Zelený šalát		43010
+328	B	Piškóty		43383
+329	B	Rastúce chrumkavú pizzu		43423
+330	B	Keks		43540
+331	S	Ovsené otruby		43579
+332	S	Acidko		43619
+333	S	Tea		43662
+334	S	Varené zemiaky		43697
+335	S	Celok-pšeničná chlieb		43909
+336	S	Solené maslo		44138
+337	S	Cibuľa		44292
+338	S	Cestoviny s paradajkovou omáčkou		44578
+339	S	Jablková šťava		44697
+340	L	Opevnených nízkym tuku ovocie jogurt		44827
+341	S	Rastúce chrumkavú pizzu		44989
+342	D	Biely chlieb		45106
+343	B	Ovsené vločky štvorce		45383
+344	B	Egg		45495
+345	B	Mozzarela		45596
+346	B	Cottage Cheese		45635
+347	D	Cokolada		45675
+348	D	Solené maslo		45695
+349	D	Čerstvej pomarančovej šťavy		45849
+350	L	Káva s mliekom		45983
+351	D	Kurací vývar		46057
+352	B	Pažítka		46201
+353	D	Ľahké nízke tuk ovocné jogurty		46235
+354	D	Kuracie stehna		46394
+355	D	Pomarančový džús koncentrát		46531
+356	D	Broskyňa		46661
+357	D	Hovädzie a bravčové klobásy		46853
+358	D	Rímsky šalát		46964
+359	D	Jablková šťava		47292
+360	D	Arašidové maslo		47422
+361	D	Káva s mliekom		47469
+362	D	Makrela údená		47543
+363	D	Rukola		47582
+364	D	Ovsené otruby		47623
+365	L	Rozok biely		47663
+366	L	ovocny jogurt		47703
+367	D	Dzem		47804
+368	L	Tuniak vo vlastnej stave		47831
+369	B	Proteinova tycinka		47869
+370	L	Tofu		47902
+371	L	Obaľované kuracie prsia		47944
+372	L	Broskyňa		48084
+373	L	Cestoviny s mäsovými guľkami v paradajkovej omáčke		48276
+374	L	Jablková šťava		48399
+375	L	Plnotučné mlieko		48529
+376	L	Jablkový koláč		48684
+377	L	Kuracie krídla		48845
+378	B	Jablkový koláč		48964
+379	L	Sója		49125
+380	L	Protein		49163
+381	B	Cottage		49202
+382	B	Hovädzie a bravčové klobásy		49240
+383	B	Por		49351
+384	B	Kukurica		49383
+385	B	Horčica		49642
+386	B	Losos		49757
+387	L	Rastúce chrumkavú pizzu		49854
+388	L	Zníženým obsahom tuku syr		49971
+389	L	Bageta		50195
+390	B	Kuracia pečeň		50224
+391	B	Coffee		50321
+392	B	Redkovka		50359
+393	B	vlasske orechy		50379
+394	B	Škorica		50414
+395	B	Strudla		50454
+396	B	Melón		50493
+397	B	2% milk		50854
+398	B	Makrela údená		50951
+399	B	Syr gouda		50990
+400	B	Tofu		51021
+401	B	Kukuričné lupienky		51063
+402	B	Pohanka		51191
+403	B	Ploché ryby		51285
+404	B	Hrozienka		51383
+405	B	Sušienky		51620
+406	L	Celok-pšeničná chlieb		51771
+407	B	Rajčina		52000
+408	B	Parenica		52031
+409	L	Makrela údená		52069
+410	D	Kukurica		52108
+411	D	Bageta		52367
+412	D	Orech		52396
+413	D	Kečup		52657
+414	D	Švajčiarsky syr		52817
+415	L	Pečené fazuľa		53037
+416	L	Tvarohový koláč		53089
+417	L	Acidko		53224
+418	D	Jablkový koláč		53267
+419	L	Rukola		53428
+420	L	Pažítka		53469
+421	L	Cukor		53503
+422	L	Solené maslo		53659
+423	L	Orech		53813
+424	L	Čokoládovú tortu		54074
+425	L	Jahoda		54206
+426	L	Rožok		54482
+427	S	Maslo olej		54522
+428	S	Instantná káva		54658
+429	S	Ražný chlieb		54713
+430	S	Hnedý cukor		54997
+431	S	Sójová tyčinka		55155
+432	S	Cottage		55193
+433	S	Konzervované tuniaky svetla		55231
+434	S	Vyprážané vajcia		55388
+435	L	parok		55550
+436	S	Hranolky		55585
+437	D	Kuracia pečeň		55764
+438	S	Matné sendvičovač pečivo		55861
+439	S	Cvikla		55987
+440	S	Tofu		56025
+441	D	Puding		56067
+442	D	Mandarinka		56092
+443	D	Syr gouda		56131
+444	D	Proteinova tycinka oriflame		56162
+445	S	Paprika		56182
+446	L	Proteinova tycinka oriflame		56223
+447	L	Pomarančový džús koncentrát		56243
+448	L	Čokoláda 86%		56373
+449	D	Čokoláda 86%		56411
+450	S	Keks		56449
+451	B	Proteinova tycinka oriflame		56488
+452	B	Kurací vývar		56508
+453	B	Zeleninový šalát		56652
+454	B	Vyprážané vajcia		56683
+455	B	Čokoláda na varenie		56845
+456	S	Pečené fazuľa		56956
+457	B	Kyslá kapusta		57008
+458	S	Kuracie		57040
+459	S	Rožok		57177
+460	S	Piškóty		57217
+461	S	Ovos		57257
+462	B	Zníženým obsahom tuku syr		57368
+463	B	Mrazené jahody		57592
+464	S	Cokolada		57861
+465	B	Sójová tyčinka		57881
+466	B	Tycinka		57919
+467	B	Cestoviny s mäsovými guľkami v paradajkovej omáčke		57940
+468	B	Varené zemiaky		58063
+469	D	Instantná káva		58275
+470	D	Ovos		58330
+471	D	Varených vajec		58441
+472	D	Mila		58642
+473	D	Hrozienka		58680
+474	B	Pražené arašidy		58917
+475	S	Bryndza		59027
+476	S	Mozzarela		59065
+477	S	Apple		59104
+478	S	Melón		59196
+479	S	Sója		59557
+480	S	Varená mrkva		59595
+481	S	Proteinova tycinka oriflame		59892
+482	S	Por		59912
+483	S	Broskyňa		59944
+484	S	Jablkový koláč		60136
+485	S	Kapusta		60297
+486	S	Losos		60607
+487	S	Uhorka		60704
+488	S	Mrazené pizze		60913
+489	S	Bageta		61033
+490	S	Hrozienka		61062
+491	S	Avokádo		61299
+492	S	Mrazené jahody		61415
+493	S	Arašidy bez soli		61684
+494	S	Jahoda		61796
+495	S	Pečené zemiaky		62072
+496	S	Tvarohový koláč		62271
+497	S	Klobása		62406
+498	S	Smotanový syr		62513
+499	D	Opevnených nízkym tuku ovocie jogurt		62706
+500	S	Pohanka		62868
+501	L	Ovocie ochutené vody		62962
+502	L	Cottage		63056
+503	L	jogurt biely		63094
+504	L	Med		63133
+505	L	Arašidy bez soli		63224
+506	L	Hruška		63336
+507	L	Párok v rožku		63521
+508	L	Olivy		63633
+509	L	Kečup		63667
+510	L	Čokoláda na varenie		63827
+511	D	Cestoviny s mäsovými guľkami v paradajkovej omáčke		63938
+512	L	Melón		64061
+513	L	Horalka		64422
+514	L	Mliečna čokoláda		64459
+515	B	Pečené kuracie mäso		64591
+516	B	ovocny jogurt		64765
+517	S	Kyslá kapusta		64866
+518	B	Mila		64898
+519	B	Apple		64936
+520	B	Majonéza dressingom		65028
+521	B	Varených vajec		65155
+522	B	Rukola		65356
+523	B	Varená mrkva		65397
+524	B	Sója		65694
+525	L	Zemiakové pusinky		65732
+526	B	Mrazené pizze		65885
+527	D	Masť		66005
+528	D	Ananás		66079
+529	D	Párok v rožku		66291
+530	D	Termix		66403
+531	D	Tycinka		66424
+532	D	Kyslá kapusta		66445
+533	D	Ovsené vločky štvorce		66477
+534	D	Redkovka		66589
+535	D	Strudla		66609
+536	D	Zemiakové pusinky		66648
+537	L	Termix		66801
+538	B	Ľadový šalát		66822
+539	L	Puding		67193
+540	B	Cokolada		67218
+541	B	Kuracie krídla		67238
+542	B	Pečené fazuľa		67357
+543	B	Zrnami ryže		67409
+544	B	Pomarančový džús koncentrát		67465
+545	B	Bravčové rezy		67595
+546	B	Kuracie		67710
+547	B	Cvikla		67847
+548	B	Ovocie ochutené vody		67885
+549	L	Cottage Cheese		67979
+550	D	Čokoláda na varenie		68019
+551	B	Prípitok		68130
+552	B	Voda z vodovodu		68372
+553	L	Brokolica		68499
+554	D	Brokolica		68763
+555	D	Voda z vodovodu		69027
+556	L	Voda z vodovodu		69154
+557	L	Zemiaky		69281
+558	L	Špagety		69507
+559	D	Zemiaky		69628
+560	L	Zemiaková kaša		69854
+561	L	Kuracie stehno		69982
+562	L	Zeler		70161
+563	S	Biele víno		70451
+564	D	Svetlé pivo		70553
+565	S	Čokoládová zmrzlina		70686
+566	D	Zeler		70812
+567	S	Svetlé pivo		71102
+568	S	Piškótový tortu		71235
+569	L	Morčacie prsia		71387
+570	S	Balená voda		71579
+571	L	Obed mäso		71707
+572	L	Paradajková šťava		71837
+573	L	Bravčové kotlety		72002
+574	L	Polievka z mušlí		72130
+575	D	Kuracie stehno		72296
+576	L	Biela fazuľa		72475
+577	D	Bravčové kotlety		72624
+578	L	Čokoládová zmrzlina		72752
+579	D	Červené víno		72878
+580	D	Obed mäso		72953
+581	L	Mrazený zelený hrášok		73083
+582	D	Pečená bravčová panenka		73210
+583	B	Pomarančový Zmrzlinový		73337
+584	D	Čokoládová zmrzlina		73458
+585	S	Zemiaky		73584
+586	L	Začiatok sviečkovice		73810
+587	S	Vanilková zmrzlina		73928
+588	L	Špargľa		74057
+589	D	Špargľa		74175
+590	S	Soľ		74293
+591	D	Sóda citrón		74429
+592	S	Pivo		74564
+593	D	Tortu múky		74702
+594	L	Hnedá ryža		74825
+595	L	Konzervované červenej fazule		74946
+596	L	Krém hubová polievka		75094
+597	L	Omáčku		75254
+598	L	Kyslou smotanou		75400
+599	L	Pečené kuracie krídla		75540
+600	L	Pečená bravčová panenka		75658
+601	D	Petržlen		75785
+602	D	Palacinka		75963
+603	L	Karamelky		76129
+604	B	Vajce		76276
+605	B	Hrianka		76450
+606	L	Vajce		76697
+607	D	Vajce		76871
+608	D	Hrianka		77045
+609	S	Vajce		77292
+610	S	Hrianka		77466
+611		Mlieko Polotucne		77713
+612		Multi-obilia chleba		77751
+613		Knackebrot		78039
+614		Muffin		78078
+615		Mascarpone		78099
+616		Treska		78141
+617		Kukuričný chlieb		78175
+618		Kakaový prášok		78313
+619		Šiška		78430
+620		Špenát		78657
+621		Krupica		78699
+622		Radler		78739
+623		Cuketa		78771
+624		Ryzove chlebicky		78811
+625		Smotana		78849
+626		Olej		78889
+627		Grecky jogurt		78927
+628		Tuniakový šalát		78962
+629		Mandle		79002
+630		Zelený čaj		79159
+631		Pašteka		79187
+632		Kiwi		79207
+633		Activia		79248
+634		Sardinky		79289
+635		Pečeňová paštéta		79315
+636		Energy drink		79350
+637		Detská krupica		79377
+638		Granko		79410
+639		Bublanina		79431
+640		Lúpačka		79468
+641		Smotana 33%		79562
+642		Jačmenná kaša		79603
+643		Makovka		79642
+644		Detská výživa		79663
+645		Karelab		79706
+646		Debrecínska bageta		79726
+647		Tekvicový koláč		79764
+648		Americký syr		79930
+649		1,5% mlieka		80158
+650		Chia		80255
+651		Džús		80286
+652		Čerešne		80313
+653		Hovädzí vývar		80333
+654		Hroznová šťava		80484
+655		Ananásový melón		80646
+656		Pomarančový džús s vápnikom		81041
+657		Pomarančový džús mrazené koncentrát		81205
+658		Jablko a hruška hroznového džúsu		81372
+659		Konzervy, fazuľa zelená		81534
+660		Nakrájané brokolica		81711
+661		Mrazené brokolica		81974
+662		Surovej kapusty		82237
+663		Extra chudé šunky		82587
+664		Extra chudé pečená šunka		82738
+665		Šunka s prirodzený džúsy		82889
+666		Šunka a vody		83048
+667		Šunka - pridaná voda		83203
+668		Rúra hranolky		83361
+669		Surový špenát		83559
+670		Pečené batáty		83744
+671		Sladké zemiaky		83948
+672		Varená cibuľa		84148
+673		Zemiaky v koži		84471
+674		Žltá kukurice konzervy		84693
+675		Mrazené kukurice		84848
+676		Mrazené mrkvy		85120
+677		Surové brokolica		85446
+678		Biela hubová		85711
+679		Pražené mandle solené		85875
+680		Blanšírovania mandle		86067
+681		Pražené mandle		86258
+682		Konzervované zeleninové šťavy		86448
+683		Rôsol		86612
+684		Konzervované sladké zemiaky		86846
+685		Konzervované mrkvová šťava		87048
+686		Pečené zemiaky s kožou		87211
+687		Paradajkový pretlak		87436
+688		Varené paradajky		87605
+689		Konzervované paradajky		87890
+690		Dusené paradajky v konzervách		88086
+691		Konzervy paradajkovou omáčkou		88369
+692		Hovädzie mäso skladom		88534
+693		Obaľované kuracie		88692
+694		Vyprážané kurča		88899
+695		Dusené kurča		89104
+696		Margarín		89304
+697		Úplne čokoládové mlieko		89499
+698		Čokoládové mlieko		89666
+699		Nízkotučné čokoládové mlieko		89830
+700		Vanilkový jogurt s nízkym obsahom tuku		89991
+701		Neprispôsobených nemastný mlieka		90166
+702		Krém náhrada		90326
+703		Svetlo opevnených nízkym tuku ovocie jogurt		90486
+704		Ovsené detská		90662
+705		Nízkym obsahom tuku čedar		90825
+706		Nízka tuku rastlinný olej šíriť		91065
+707		Nemastný mlieka		91262
+708		Nahradiť krém v prášku		91424
+709		Pol na pol		91587
+710		Ľahký krém		91767
+711		Ťažkých šľahačkou		91941
+712		Šľahačkou maslo		92143
+713		Makaróny		92346
+714		Biele lupienky		92525
+715		Praclíky		92674
+716		Americký syr nízky obsah tuku		92823
+717		Brusnicová šťava		93065
+718		Nízky obsah tuku švajčiarsky syr		93223
+719		Čipy		93466
+720		Zníženie tuku čipy		93626
+721		Želé		93779
+722		Arašidové M & Ms		94126
+723		M & Ms		94316
+724		Syrové pusinky		94508
+725		Červenej fazule		94674
+726		Káva bez kofeínu		94837
+727		Sleď obyčajný		94978
+728		Krab		95215
+729		Krevety		95402
+730		Konzervované krevety		95546
+731		Mušle		95690
+732		Konzervované mušle		95870
+733		Zeleninové a ovocné šťavy		96054
+734		Zázvorové pivo		96201
+735		Koreňové pivo		96329
+736		Konzervované ovocie nápoj		96459
+737		Obohatený ovocný nápoj		96594
+738		Limonáda		96740
+739		Vanilkový kokteil		96895
+740		Čaj bez kofeínu		97135
+741		Obohateného ovocia ochutená voda		97280
+742		Celok-pšeničná prípitok		97410
+743		Krakovania		97716
+744		Krekry s arašidové maslo		97889
+745		Pšenica sušienky		98066
+746		Staromódny šiška		98240
+747		Bagel škorica hrozienkové		98476
+748		Taliansky chlieb		98657
+749		Sójová omáčka		98858
+750		Obohatený tempeh		99034
+751		Čierna fazuľa		99197
+752		Fazuľami		99349
+753		Šošovica		99486
+754		Varenej šošovice		99637
+755		Solené arašidy		99788
+756		Pražené arašidy solené		99937
+757		Strúhanka		100082
+758		Rybie tyčinky		100230
+759		Instantný čaj		100407
+760		Ustrice		100572
+761		Tvrdé cukríky		100708
+762		Droždie		100820
+763		Caesar dressingom		100972
+764		Hash hnedá		101130
+765		Parmezán		101273
+766		Syr šíriť		101426
+767		Suché mlieko		101570
+768		Kukuričný olej		101716
+769		Modrým syrom dressingom		101850
+770		Repkový olej		102008
+771		Taliansky dresing		102141
+772		Dresing francúzsky		102295
+773		Zálievka s majonézou		102448
+774		Arašidový olej		102601
+775		Sójový olej		102730
+776		Syrovou omáčkou		102865
+777		Vaječný žĺtok		103009
+778		Rastlinný olej šíriť		103152
+779		Rastlinný olej		103300
+780		Priemyselné sójového oleja		103438
+781		Priemyselné sóje a olej z bavlníkových		103572
+782		Kokosový olej		103706
+783		Kuracie prsia s kožou		103840
+784		Pečené kuracie prsia		103993
+785		Kuracím mäsom		104145
+786		Dolné stehno		104303
+787		Pečená morka		104472
+788		Pečené morčacie mäso		104608
+789		Čakanka		104740
+790		Zelené fazuľa modul		104905
+791		Hashovaný adresár hnedá		105043
+792		Pečené tuku na šunku		105182
+793		Pečená šunka		105314
+794		Mrazené zelené fazuľa modul		105444
+795		Talianskej klobásy		105580
+796		Druh klobásy jaternice		105741
+797		Jablkové pyré		105882
+798		Čučoriedky		106021
+799		Ovos so škoricou a korenia		106158
+800		Vločky s hrozienkami a korenia		106299
+801		Morčacie		106444
+802		Kuracie nugety		106552
+803		Pečeň klobása		106668
+804		Sušené vaječné		106802
+805		Dieťa ryže obilnín		106944
+806		Nízkym obsahom tuku granolového bez hrozienok		107079
+807		Reese je pusinky		107195
+808		Ovsených otrúb obilnín		107319
+809		Vlákniny, jeden		107449
+810		Celková hrozienkové otruby		107564
+811		Kakao pusinky		107682
+812		Nízkym obsahom tuku granolového s hrozienkami		107803
+813		Med opekané ovsa		107921
+814		Vanilka, mandle		108040
+815		Feferónky		108158
+816		Kuracie párok v rožku		108289
+817		Vopred uvarené jaternice		108426
+818		Kakao kamienky		108552
+819		Kukurica chex		108669
+820		All-otruby pšeničné vločky		108787
+821		Otruby, vločky		108900
+822		Ovocná štrk		109022
+823		Granolového		109134
+824		Hrozna-orechy z obilnín		109259
+825		KIX		109389
+826		Talizmany		109518
+827		Hrozienkové otruby		109650
+828		Hrozienkové otrúb obilnín		109778
+829		Ryža chex		109902
+830		Zamrznuté vločky		110023
+831		Celé zrno celkom		110151
+832		Pšenica chex		110272
+833		Kukuričnej krupice		110394
+834		Vozovkou bravčové		110522
+835		Pečené tuku na bravčová panenka		110643
+836		Pečené bravčové bábiky		110770
+837		Varené špenát		110896
+838		Konzervované špenát		111023
+839		Zelený hrášok		111148
+840		Konzervované zelený hrášok		111275
+841		Čakanka zelených		111402
+842		Kel		111531
+843		Horčica greenov		111667
+844		Okrúhlice		111802
+845		Praženej slnečnice		111940
+846		Olej pečené zmesi orechov		112071
+847		Hovädzia pečeň		112203
+848		Hovädzie hruď		112328
+849		Hovädzie rebro		112442
+850		Olej praženej slnečnice		112555
+851		Hovädzie čepeľ chrbty		112689
+852		Hovädzom kole		112804
+853		Surové biela ryža		112918
+854		Sušienky s vajcom a klobásou		113041
+855		Sušienky s klobásou		113174
+856		Granolového bare		113307
+857		Kuracie ponuky		113420
+858		Mleté hovädzie mäso (75/25)		113549
+859		Med hrozno ovos s mandľami		113669
+860		Med strapce ovsa		113797
+861		Vafle		113927
+862		Typu ľadu vápna		114076
+863		Práškový cukor		114181
+864		Javorový sirup		114271
+865		Obohatený kukuričná múka		114406
+866		Instantné ryžové		114529
+867		Celozrnné múky		114645
+868		Hladkej múky		114768
+869		Bielej chlebovej múky		114893
+870		Polosladké čokoláda		115017
+871		Čokoládový Fondán potiahnuté		115145
+872		Svetlo vanilkovou zmrzlinou		115252
+873		Sumec		115386
+874		Pstruh dúhový		115503
+875		86 dôkaz likér		115624
+876		Zapečené fazuľa s Frankovia		115720
+877		Zapečené fazuľa s bravčovým mäsom a paradajka omáčkou		115847
+878		80 dôkaz likér		115970
+879		Čokoládový sirup		116064
+880		Prášok do pečiva		116190
+881		Zníženie tuku arašidové maslo		116301

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:transitionName="@string/transition_name_circle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:contentScrim="?attr/colorPrimary"
+        app:layout_collapseMode="pin"
+        app:layout_scrollFlags="scroll|enterAlways"
+        android:background="@color/accent" />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <LinearLayout
+            android:orientation="vertical"
+            style="@style/PaneStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="@string/SendFeedback"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2" />
+            <TextView
+                android:text="@string/Feedback_Header"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp" />
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/unlockframe"
+                android:visibility="gone">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/unlock"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_Unlock"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_UnlockText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/removeads"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_RemoveAds"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_RemoveAdsText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/email"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_Email"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_EmailText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rate"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_Rate"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_RateText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/translate"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_Localize"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_LocalizeText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/share"
+                    android:minHeight="60dp" />
+                <TextView
+                    android:text="@string/Feedback_Share"
+                    style="@style/FeedbackButtonTextStyle" />
+                <TextView
+                    android:text="@string/Feedback_ShareText"
+                    style="@style/FeedbackButtonSubtleTextStyle" />
+            </FrameLayout>
+            <TextView
+                android:text="@string/EmailReport_Footer2"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

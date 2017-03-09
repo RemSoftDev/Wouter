@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>lt-LT</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>MITYBOS DIENORAŠTIS</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Populiarūs produktai</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Trinti</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Nieko nepasirinkta</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Neseni pusryčių produktai</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Neseni vakarienės produktai</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Mano neseni pratimai</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Neseni pietų produktai</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Neseni užkandžių produktai</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>MITYBOS DIENORAŠTIS</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>MAITINIMO DIENRAŠTIS- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Pusryčiai</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Vakarienė</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Pratimai</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Pietūs</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Užkandžiai</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Ieškoti</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Šiandien</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Kiekis</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Kalcis</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorijos</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Angliavandeniai</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Cholesterolis</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Skaidulos</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Geležis</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Mononesotieji riebalai</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Polinesotieji riebalai</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kalis</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Baltymai</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Sotieji riebalai</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natris</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Cukrus</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Iš viso riebalų</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitaminas C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitaminas D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Svoris</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Nuostatos</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Įveskite paieškos žodį</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value>(naujas produktas)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value>(naujas receptas)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Ieškos rezultatai</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} nerasta, keisti paieškos žodį</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Įtraukti</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Pavadinimas</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Maistinė vertė</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>MAISTO INFORMACIJA</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Iš pradžių įveskite svorį</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Porcijos dydis</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Kiek?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>daugiau parinkčių</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Maistinės vertės informacijos nėra</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Pridėti porciją</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Įtraukti</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalendorius</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Reklama</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centilitras</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Puodelis</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Dekalitras</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Skysčio uncija</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galonas</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gramas</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogramas</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litras</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Mililitras</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Uncija</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pinta</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Svaras</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Kvorta</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Šaukštas</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Šaukštelis</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centilitrai</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Puodeliai</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Decilitrai</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Skysčių uncijos</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galonai</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gramai</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogramai</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litrai</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililitrai</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Uncijos</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pintos</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Svarai</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Kvortos</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Šaukštai</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Šaukšteliai</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>LT</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Mitybos dienoraščio el. laiškas</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>suma</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>įkeliama…</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Naujinti dabar?</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Ačiū, kad naudojate šią programą! Šio kopijos veikimas baigėsi. Tačiau nesijaudinkite – paspaudus Ok, mes jus nuvesime į puslapį, kuriame galėsite atsisiųsti atnaujinimą.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Ši užduotis atnaujina Mitybos dienoraščio Live Tile.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Savo telefono nustatymuose išjungėte Live Tile.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Mano nuostatos</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Skaičiuokite trūkstamus produktus programos plytelėje</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Priminimai</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Nustatymai</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Nustatyti plytelę</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Ataskaita</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Ataskaita</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Šaukštelis = 4.5 g|Šaukštas = 12 g|1 tarnauja = 28 g|Gabalas = 14 g|Gabalas = 12 g|1 puodelis 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Fotografuoti</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Ačiū, kad naudojate šią programą! Jei manote, kad ji naudinga, parašykite atsiliepimą, tuomet ji bus dar geresnė.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Rašyti atsiliepimą?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Tikslai</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Nėra tikslo rinkinys</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Dienos pabaigoje</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Ką jūs valgėte?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Priminimas: atnaujinti dienoraštį</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>pasirinkti priminimai rodomi, jei iki pasirinkto laiko neatnaujinote dienoraščio</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Apelsinų sultys, 1 stiklinė, skrudinta duona, 1 griežinėlis, kiaušinių, 1 vidutinio, obuolių, kavos ir bananų</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>Tikslas viršytas {0}</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>Liko {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Dienoraštis</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Norėdami pašalinti reklamą, pasirinkite OK.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Pašalinti reklamą?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Nepavyko prisijungti prie Windows Phone parduotuvės. Bandykite vėliau.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Pranešti apie problemą</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Arba pasiūlykite savo funkciją arba užduokite klausimą</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Įvertinkite šią programą</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Konkretūs atsiliepimai padeda gerinti programą</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Padėkite pagerinti vertimą</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Yra momentinis ekrano fotografavimas</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Bendrinti saitą</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Norėdami parsisiųsti šią programą</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Mitybos dienoraščio tekstas</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Susipažinkite su Mitybos dienoraščiu Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Mitybos dienoraštis</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Populiarūs produktai pusryčiams</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Populiarūs produktai vakarienei</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Populiarūs produktai pietums</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Populiarūs produktai užkandžiams</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Valgymai</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Rytas</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Ankstyva popietė</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Popietė</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Atskiras ryto užkandis</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Atskiras ankstyvo pavakario užkandis</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Atskiras pavakario užkandis</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Vakaras</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Atskiras vidurnakčio užkandis</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Vidurnaktis</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Sujungti užkandžius</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Atskiras vakaro užkandis</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Neseni popietės produktai</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Neseni ankstyvos popietės produktai</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Neseni vakaro produktai</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Neseni vidurnakčio produktai</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Neseni ryto produktai</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Populiarūs produktai popietei</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Populiarūs produktai ankstyvai popietei</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Populiarūs produktai vakarui</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Populiarūs produktai vidurnakčiui</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Populiarūs produktai rytui</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Ačiū, kad bando maisto dienoraštis. Jūs turite {0} tyrimo dienas likusias. Paspauskite Gerai, Norìdami atrakinti app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Atrakinti dabar?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Savo bandomąją dabar baigėsi galiojimo laikas. Galite matyti savo leidinyje, bet jūs negalite pridėti naujų įrašų. Pasirinkite gerai norėdami atrakinti pilną versiją.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Pašalinti reklamą</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Visam laikui pašalinti reklamą</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Atsisiųsti dabar nes jums patinka jį naudoti.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Mitybos dienoraštis</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>PREMIUM PASLAUGŲ:
+1. daugiau reklama.
+2. daug didesnis maisto duomenų bazė.
+3. gebėjimas el. sau pieninės kopija.
+4. daugiau variantų, įskaitant pereiti iki 8 atskirą patiekalų dieną.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>ĮRANGA:
+1. paprasta ir galinga dizainas: app atidaro tiesiogiai įrašas ekrano, paskutinis miltų, nes tai, ką jūs naudoti labiausiai. Jo konstrukcija neleidžia pridėti įrašų kaip paprasta ir intuityvi galima.
+2. vienu bakstelėjimu įrašą su asmeninį pasiūlymai: dažniausiai maisto produktus galima iš karto pasirinkti. Pradėti antrą dieną, savo Vėliausių elementų yra siūloma todėl, kad jūs galite valgyti tą patį maistą dažnai.
+3. Prisijungimas į nereikia: nėra asmens duomenys arba kontaktinę informaciją.
+4. tūkstančiai daiktų jau į duomenų bazę: dauguma maisto prekės turėti tikslią informaciją apie bendrą tarnauja dydžių, kalorijų, angliavandenių, baltymų ir riebalų. 
+5. visiškai off-line parama: nereikia būti prijungtas prie interneto. 
+6. tikslūs įrašas taip pat paprasta: tiksliai galite įvesti tikslią sumą, naudojant slankiklį.
+7. kasdien praneša: naudojant meniu, galite tiesiogiai atidaryti dienoraščio, kuris rodo trumpą informaciją apie savo dieną. Čia jūs galite persijungti tarp kalorijų, baltymų ir angliavandenių paspausdami mažas trikampis.
+8. sekti savo tikslus: įvedę savo asmeninių tikslų, galite naudoti ataskaitą savaitę pamatyti jūsų tendencijas. 
+9. asmens priminimus padeda likti tikslą: jie yra patogus būdas įsitikinti, kad jums užpildyti jūsų dienoraštis, po kiekvieno valgio, arba dienos pabaigoje.
+
+Tai gera idėja patikrinti duomenų bazės informacija yra tokia, kokią informaciją apie jūsų maisto pakuotės; maisto mitybos kinta su prekių ženklais ir per tam tikrą laiką.
+
+Būtinai aptarti savo tikslus su savo gydytoju ar mitybos specialistu.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>APIE PROGRAMĄ:
+Nuolat stebėti, ką valgyti, buvo įrodyta, kad padėti užkirsti kelią ir sustabdyti per daug valgyti.
+Ši programa padės jums kontroliuoti savo mitybą ir valgyti sveikesni, todėl lengva sekti, ką valgyti. Dizainas yra optimizuota, kad įrašas taip greitai, kaip įmanoma, su 1 paspauskite įrašo, o neseniai maisto pasiūlymus. Pastatytas duomenų bazėje jau yra tūkstančiai maisto produktus ir jei jūsų nežinoma, įtraukdami juos lengva.
+
+Pastaba: Ši programa yra nemokamai atsisiųsti, ir palaiko savo skelbimus. Galite naudoti jį nemokamai tol, kol jums patinka. Yra galimybė pašalinti reklamos už tam tikrą mokestį, kuris leis papildomų funkcijų.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Maitinimo dienraštis: Dietos ir kalorijų sekimo programos.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Maistinė vertė</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorijos</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dieta</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Mitybos dienoraštis</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Kalorijų skaitiklis</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Bananas</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kava</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Obuolys</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Kiaušinis</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 riekė</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Skrebutis</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 puodelis</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Apelsinų sultys</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Dėkojame už jūsų paramą! Naudokite šią parinktį Norėdami visam laikui pašalinti skelbimai iš savo maisto dienoraštis app.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Pašalinti skelbimai</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Įvesti svorį</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Bandomasis laikotarpis baigėsi. Atrakinti?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 vidutinio kietumo</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Apie</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Greičiausias ir paprasčiausias būdas sekti, ką valgyti.
+
+Slinkite žemyn gauti informacijos apie duomenų tikslumą.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Naujinti dabar</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Pirkti pilną versiją</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>{0} mitybos dienoraštis</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Kažkas atsitiko. Dienoraštis neišsiųstas.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Įveskite galiojantį el. pašto adresą.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Iš viso</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>tik {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Paremkite programos kūrimą</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>ATSAKOMYBĖS APRIBOJIMAS:
+Dauguma, tačiau ne visos duomenų taškų duomenų bazėje yra iš patikimų šaltinių. Mes darome viską, kad įsitikinti, kad visi dydžiai yra tikslūs, bet negali būti laikoma atsakinga už neteisingai ar trūksta duomenų. Maistinė vertė skiriasi pagal gamintoją ir per tam tikrą laiką. Naudojant šią programą, jūs sutinkate patikrinti ir ištaisyti visus programos duomenys, ir būti visiškai atsakingi už sužalojimą arba žalą dėl jo naudojimo.
+
+Prašome leiskite man žinoti, jei yra ką aš galiu padėti jums.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Padėkite kurti programos naujinius</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Gauti VISAS funkcijas</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Ką gaunate</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Pastaba: didžioji dalis, tačiau ne visa duomenų bazės informacija paimta iš patikimų šaltinių. Pirkdami Premium versiją, jūs prisiimate visą atsakomybę už duomenų patikimumą. Daugiau informacijos kreipkitės daily.journal@outlook.com.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Naujos funkcijos</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Visos papildomos funkcijos kituose atnaujinimuose</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Daugiau patiekalų</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Stebėkite 5, 6 ar daugiau valgymų per dieną</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Daugiau patiekalų *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Šimtai ar tūkstančiai naujų maisto produktų (priklausomai nuo vietovės)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>El. pašto ataskaitos</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Siųskite savo dienoraštį el. paštu, kad galėtumėte jį išsaugoti, išspausdinti arba analizuoti</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Jokios reklamos</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Visi skelbimai pašalinami yra visam laikui</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>pirkti dabar</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Siųsti el. paštu</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>siųsti dabar</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>El. pašto adresas</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Gauti prieigą prie visų funkcijų</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Atnaujinti su priemoka</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Pastaba: didžioji dalis, tačiau ne visa duomenų bazės informacija paimta iš patikimų šaltinių. Mes labai stengiamės nurodyti teisingas reikšmes, tačiau neatsakome už klaidingą ar trūkstamą informaciją. Naudodami programą, jūs sutinkate prisiimti visą atsakomybę už duomenų patikimumą. Programa leidžia jums pakoreguoti rastas klaidas.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Leidinyje iš AAA
+Klausimai arba komentarai? Atsakymas į BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Pateikti</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Prašome atnaujinti šį sąrašą tekstai geriau vertimai. Pašalinti visus teksto elementus, kurie netinka jūsų regione.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Ačiū už jūsų pagalbą!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Vertimai</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Čia galite padėti pagerinti šią programą.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Pirminis:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Geras</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Aprašymas:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Padėkite pagerinti programą</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Jei norite, kad su jumis susisiektų, įveskite savo el. pašto adresą.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Komentaras</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Pagerinti vertimą</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Įtraukti į paleidimo režimą</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>VDT</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Atšaukti</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Kopijuoti iš panašaus produkto</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Trinti įrašą</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Įvesti šio kiekio svorį</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Daugiau parinkčių</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Nė vienas</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>Ok</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>1 dienos akcija: {0} % nuolaida</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Iš viso</value>
+</data>
+<data name="EmailReport_Footer1a" xml:space="preserve">
+<value>AAA dienoraštis</value>
+</data>
+<data name="EmailReport_Footer1b" xml:space="preserve">
+<value>Turite klausimų ar komentarų? Atsakykite BBB</value>
+</data>
+</root>

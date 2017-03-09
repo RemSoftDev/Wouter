@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6ff5a637-edb9-4b0b-9a47-8f20b1eabd62" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FoodJournalService.disco" MetadataType="Disco" ID="df2f4666-5fab-4ca4-84f0-d3dc329f3d5e" SourceId="1" SourceUrl="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc?disco" />
+    <MetadataFile FileName="FoodJournalService.wsdl" MetadataType="Wsdl" ID="b5803374-d149-4104-8edf-f81d0b9ff93b" SourceId="1" SourceUrl="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc?wsdl" />
+    <MetadataFile FileName="FoodJournalService.xsd" MetadataType="Schema" ID="2aedca67-a77c-416b-a72c-7ae939ae0181" SourceId="1" SourceUrl="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FoodJournalService1.xsd" MetadataType="Schema" ID="6b0d60a5-bb35-49b1-ac05-f1e9b3d0ff27" SourceId="1" SourceUrl="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FoodJournalService2.xsd" MetadataType="Schema" ID="f38710bb-bda4-4e5d-847d-dfeca10ca17c" SourceId="1" SourceUrl="http://dailylogservice.cloudapp.net/FoodJournalService/FoodJournalService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

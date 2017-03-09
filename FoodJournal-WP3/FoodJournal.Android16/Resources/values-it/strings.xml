@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">DIARIO ALIMENTARE</string>
+	<string name="CommonItems">Elementi comuni</string>
+	<string name="Delete">Elimina</string>
+	<string name="EmptyEntryList">Nessuna selezione</string>
+	<string name="MyRecentItems_Breakfast">Alimenti recenti a colazione</string>
+	<string name="MyRecentItems_Dinner">Alimenti recenti a cena</string>
+	<string name="MyRecentItems_Exercise">I miei esercizi recenti</string>
+	<string name="MyRecentItems_Lunch">Alimenti recenti a pranzo</string>
+	<string name="MyRecentItems_Snack">Alimenti recenti come spuntino</string>
+	<string name="PageTitle">DIARIO ALIMENTARE</string>
+	<string name="PageTitleBase">DIARIO ALIMENTARE- </string>
+	<string name="Period_Breakfast">Colazione</string>
+	<string name="Period_Dinner">Cena</string>
+	<string name="Period_Exercise">Esercizio</string>
+	<string name="Period_Lunch">Pranzo</string>
+	<string name="Period_Snack">Spuntino</string>
+	<string name="Search">Cerca</string>
+	<string name="Today">Oggi</string>
+	<string name="StandardProperty_Amount">Quantità</string>
+	<string name="StandardProperty_Calcium">Calcio</string>
+	<string name="StandardProperty_Calories">Calorie</string>
+	<string name="StandardProperty_Carbs">Carboidrati</string>
+	<string name="StandardProperty_Cholesterol">Colesterolo</string>
+	<string name="StandardProperty_Fiber">Fibre</string>
+	<string name="StandardProperty_Iron">Ferro</string>
+	<string name="StandardProperty_MonoFat">Grassi monoinsaturi</string>
+	<string name="StandardProperty_PolyFat">Grassi polinsaturi</string>
+	<string name="StandardProperty_Potassium">Potassio</string>
+	<string name="StandardProperty_Protein">Proteine</string>
+	<string name="StandardProperty_SatFat">Grassi saturi</string>
+	<string name="StandardProperty_Sodium">Sodio</string>
+	<string name="StandardProperty_Sugar">Zucchero</string>
+	<string name="StandardProperty_TotalFat">Grassi totali</string>
+	<string name="StandardProperty_VitaminC">Vitamina C</string>
+	<string name="StandardProperty_VitaminD">Vitamina D</string>
+	<string name="StandardProperty_Weight">Peso</string>
+	<string name="Preferences">Preferenze</string>
+	<string name="EmptySearchList">Immettere un termine di ricerca</string>
+	<string name="NewItemSuffix"> (nuovo articolo)</string>
+	<string name="NewRecipeSuffix"> (nuova ricetta)</string>
+	<string name="SearchResults">Risultati ricerca</string>
+	<string name="SearchTermNotFound">{0} non trovato, provare a cambiare il vostro termine di ricerca</string>
+	<string name="AcceptNew">Aggiungi</string>
+	<string name="Name">Nome</string>
+	<string name="Nutrition">Alimentazione</string>
+	<string name="PageTitleItemDetail">INFO ALIMENTARI</string>
+	<string name="EnterWeight">Per favore inserisci prima il peso prima</string>
+	<string name="ServingSizes">Porzione</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Quanto\?</string>
+	<string name="MoreOptions">altre opzioni</string>
+	<string name="NoNutritionInfo">Nessuna informazione di nutrizione</string>
+	<string name="AddServingSize">Aggiungere una porzione</string>
+	<string name="Add">Aggiungi</string>
+	<string name="SelectDate">Calendario</string>
+	<string name="Advertisement">Annuncio</string>
+	<string name="Unit_Centiliter">Centilitro</string>
+	<string name="Unit_Cup">Tazza</string>
+	<string name="Unit_Deciliter">Decilitro</string>
+	<string name="Unit_FluidOunce">Oncia liquida</string>
+	<string name="Unit_Gallon">Gallone</string>
+	<string name="Unit_Gram">Grammo</string>
+	<string name="Unit_Kilogram">Chilogrammo.</string>
+	<string name="Unit_Liter">Litro</string>
+	<string name="Unit_Milliliter">Millilitro</string>
+	<string name="Unit_Ounce">Oncia</string>
+	<string name="Unit_Pint">Pinta</string>
+	<string name="Unit_Pound">Libbra</string>
+	<string name="Unit_Quart">Quarto</string>
+	<string name="Unit_Tablespoon">Cucchiaio da tavola</string>
+	<string name="Unit_Teaspoon">Cucchiaino da tè</string>
+	<string name="Units_Centiliter">Centilitri</string>
+	<string name="Units_Cup">Tazze</string>
+	<string name="Units_Deciliter">Decilitri</string>
+	<string name="Units_FluidOunce">Once fluide</string>
+	<string name="Units_Gallon">Galloni</string>
+	<string name="Units_Gram">Grammi</string>
+	<string name="Units_Kilogram">Chilogrammi</string>
+	<string name="Units_Liter">Litri</string>
+	<string name="Units_Milliliter">Millilitri</string>
+	<string name="Units_Ounce">Once</string>
+	<string name="Units_Pint">Pinte</string>
+	<string name="Units_Pound">Libbre</string>
+	<string name="Units_Quart">Quarti</string>
+	<string name="Units_Tablespoon">Cucchiai</string>
+	<string name="Units_Teaspoon">Cucchiaini</string>
+	<string name="DatabaseCulture">it</string>
+	<string name="Equivalent">importo</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">.. caricamento in corso ..</string>
+	<string name="ExpiredCaption">Aggiorna Ora\?</string>
+	<string name="ExpiredMessage">Grazie per utilizzare questa App! Questa copia è ormai scaduta. Ma non ti preoccupare, noi ti porteremo alla pagina di download per aggiornarla se premerai Ok.</string>
+	<string name="AgentDescription">Questa attività aggiorna il Live Tile per il Diario Alimentare.</string>
+	<string name="AgentDisabled">Hai disabilitato l\'applicazione Live Tile nelle impostazioni del telefono.</string>
+	<string name="PageTitleSettings">Le mie preferenze</string>
+	<string name="EnableLiveTile">Conteggio dei pasti mancanti nella app tile</string>
+	<string name="Reminders">Promemoria</string>
+	<string name="SettingsScreen">Impostazioni</string>
+	<string name="PinToStart">Impostare la tile</string>
+	<string name="OpenReport">Rapporto</string>
+	<string name="Report">Rapporto</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Cucchiaino = 4.5 g|Cucchiaio = 12 g|1 servire = 28 g|Pezzo = 14 g|Fetta = 12 g|1 tazza = 237 g</string>
+	<string name="TakeAPicture">Scatta foto</string>
+	<string name="ReviewBody">Grazie per utilizzare questa App! Se lo trovate utile, aiutate a renderla più di successo lasciando una recensione.</string>
+	<string name="ReviewTitle">Lasciare una recensione\?</string>
+	<string name="Goals">Obiettivi</string>
+	<string name="NoGoalSet">Nessun obiettivo impostato</string>
+	<string name="EndOfDay">Alla fine della giornata</string>
+	<string name="ReminderContent">Ciò che si mangia\? Cosa hai mangiato\?</string>
+	<string name="ReminderTitle">Promemoria: aggiorna il tuo diario</string>
+	<string name="ReminderDescription">I promemoria selezionati appaiono se non hai aggiornato il diario nel tempo selezionato</string>
+	<string name="ScreenshotTitles">Succo d\'arancia, 1 tazza, pane tostato, 1 fetta, uovo, 1 medio, mela, caffè, Banana</string>
+	<string name="GoalUnder">{0} rimanenti</string>
+	<string name="OpenJournal">Diario</string>
+	<string name="GoalOver">{0} sopra l\'obiettivo</string>
+	<string name="RemoveAdsTitle">Rimuovere la pubblicità\?</string>
+	<string name="Feedback_ShareText">Per scaricare questa app</string>
+	<string name="ShareMessage">Controlla il Diario Alimentare super Windows Phone</string>
+	<string name="Feedback_Share">Condividi un collegamento</string>
+	<string name="Feedback_ScreenshotText">È inclusa la possibilità di eseguire uno screenshot dello schermo</string>
+	<string name="Feedback_Screenshot">Contribuire a migliorare la traduzione</string>
+	<string name="Feedback_RateText">Un feedback specifico aiuta a migliorare la app</string>
+	<string name="Feedback_Rate">Votare questa app</string>
+	<string name="Feedback_EmailText">Suggerisci una funzione o fai una domanda</string>
+	<string name="Feedback_Email">Segnala un problema</string>
+	<string name="RemoveAdsText">Scegliere OK per rimuovere la pubblicità dalla app.</string>
+	<string name="FeedbackSubject">E-mail dal Diario Alimentare</string>
+	<string name="ScreenshotSubject">Testo del Diario Alimentare</string>
+	<string name="ShareTitle">Diario alimentare</string>
+	<string name="CommonItems_Snack">Elementi comuni come spuntino</string>
+	<string name="CommonItems_Lunch">Elementi comuni a pranzo</string>
+	<string name="CommonItems_Dinner">Elementi comuni a cena</string>
+	<string name="CommonItems_Breakfast">Elementi comuni a colazione</string>
+	<string name="Meals">Pasti</string>
+	<string name="Period_SnackMidnight">Mezzanotte</string>
+	<string name="Meals_SnacksCombined">Combinare snack spuntini</string>
+	<string name="Meals_SnackEveningEnabled">Spuntino serale separato</string>
+	<string name="MyRecentItems_SnackMorning">Alimenti recenti di mattina</string>
+	<string name="CommonItems_SnackMorning">Elementi comuni di mattina</string>
+	<string name="CommonItems_SnackMidnight">Elementi comuni a mezzanotte</string>
+	<string name="CommonItems_SnackEvening">Elementi comuni di sera</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Elementi comuni di pomeriggio presto</string>
+	<string name="CommonItems_SnackAfternoon">Elementi comuni di pomeriggio</string>
+	<string name="MyRecentItems_SnackMidnight">Alimenti recenti a mezzanotte</string>
+	<string name="MyRecentItems_SnackEvening">Alimenti serali recenti di sera</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Alimenti recenti di pomeriggio presto</string>
+	<string name="MyRecentItems_SnackAfternoon">Alimenti pomeridiani recenti pomeridiani</string>
+	<string name="Meals_SnackMidnightEnabled">Spuntino di mezzanotte separato</string>
+	<string name="Period_SnackEvening">Sera</string>
+	<string name="Meals_SnackAfternoonEnabled">Merenda pomeridiana separata</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Merenda del primo pomeriggio separata</string>
+	<string name="Meals_SnackMorningEnabled">Spuntino mattutino separato</string>
+	<string name="Period_SnackAfternoon">Pomeriggio</string>
+	<string name="Period_SnackEarlyAfternoon">Primo pomeriggio</string>
+	<string name="Period_SnackMorning">Mattina</string>
+	<string name="UnlockFullTitle">Sbloccare ora\?</string>
+	<string name="TrialExpiredBody">La versione di prova è scaduto. È comunque possibile visualizzare il vostro giornale, ma non è possibile aggiungere nuove voci. Scegliere OK per sbloccare la versione completa.</string>
+	<string name="UnlockFullBody">Grazie per aver provato il diario alimentare. Avete {0} giorni di prova rimanenti. Premere OK per sbloccare l\'app.</string>
+	<string name="StoreException">Si è verificato un problema di connessione all\'archivio di Windows Phone. Riprova più tardi.</string>
+	<string name="Feedback_RemoveAdsText">Rimuovere in modo permanente tutti gli annunci</string>
+	<string name="Feedback_RemoveAds">Rimuovere gli annunci</string>
+	<string name="StoreText_5">Scarica ora perché vi innamorerete di usarlo.</string>
+	<string name="AppTitle">Diario alimentare</string>
+	<string name="StoreText_4">CARATTERISTICHE PREMIUM:
+1. Nessuna pubblicità di più.
+2. un database molto più grande di cibo.
+3. la capacità di te via e-mail una copia della latteria.
+4. più opzioni di configurazione, inclusa la possibilità di inserire fino a 8 distinti pasti al giorno.</string>
+	<string name="StoreText_3">CARATTERISTICHE:
+1. un disegno semplice e potente: l\'app si apre direttamente sullo schermo voce, il pasto più recente, perché questo è quello che userete più. Il design rende aggiunge voci come semplice e intuitivo possibile.
+2. un rubinetto entrata con suggerimenti personalizzati: I prodotti alimentari più comuni possono essere selezionati immediatamente. A partire dal secondo giorno, vostri articoli recenti sono suggeriti perché si può mangiare lo stesso cibo frequentemente.
+3. registrazione in non è necessario: dati personali o informazioni di contatto non sono richieste.
+4. migliaia di elementi già presenti nel database: la maggior parte dei prodotti alimentari hanno informazioni precise circa i comuni formati di servire, calorie, carboidrati, proteine e grassi. 
+5. full off-line supporto: non è necessario essere connessi a internet. 
+6. precisa voce anche è facile: È possibile immettere con precisione l\'importo preciso utilizzando un dispositivo di scorrimento.
+7. giornaliera segnala: usando il menu, è possibile aprire direttamente il diario, che mostra un sommario della tua giornata. Qui è possibile passare tra carboidrati, proteine e calorie premendo sul piccolo triangolo.
+8. tenere traccia dei vostri obiettivi: dopo aver inserito i vostri obiettivi personali, è possibile utilizzare il report della settimana per vedere le tendenze. 
+9. personale promemoria aiutarti a rimanere sul bersaglio: essi sono un modo pratico per assicurarsi che compila il diario, dopo ogni pasto o alla fine della giornata.
+
+È una buona idea verificare che le informazioni nel database sono lo stesso come le informazioni sul vostro imballaggio alimentare; nutrizione alimentare oscilla con marchi e nel tempo.
+
+Assicurati di discutere i vostri obiettivi con il tuo specialista medico o nutrizionale.</string>
+	<string name="StoreText_2">SULL\'APP:
+Tenere traccia di quello che mangi ha dimostrata di prevenire e di smettere di mangiare troppo.
+Questa applicazione consente di controllare la vostra dieta e mangiare sano, rendendo facile tenere traccia di ciò che si mangia. Il design è ottimizzato per rendere la voce rapidamente quanto suggerimenti alimentari possibili, con voce 1 clic e recenti. Costruito nel database ha già migliaia di prodotti alimentari e se il tuo non sono noti, aggiungendoli è facile.
+
+Nota bene: Questa app è scaricabile gratuitamente e supportati dalla pubblicità. Può utilizzarla gratuitamente come ti piace. È possibile rimuovere l\'annuncio a pagamento, che permetterà anche di funzioni aggiuntive.</string>
+	<string name="StoreText_1">Diario alimentare: La dieta e calorie tracking app.</string>
+	<string name="StoreKeyword_5">Alimentazione</string>
+	<string name="StoreKeyword_4">Calorie</string>
+	<string name="StoreKeyword_3">Dieta</string>
+	<string name="StoreKeyword_2">Diario alimentare</string>
+	<string name="StoreKeyword_1">Conta calorie</string>
+	<string name="Screenshot_H3">Banana</string>
+	<string name="Screenshot_H2">Caffè</string>
+	<string name="Screenshot_H1">Mela</string>
+	<string name="Screenshot_3a">Uovo</string>
+	<string name="Screenshot_2b">1 fetta</string>
+	<string name="Screenshot_2a">Toast</string>
+	<string name="Screenshot_1b">1 tazza</string>
+	<string name="Screenshot_1a">Succo d\'arancia</string>
+	<string name="Product_2">Grazie per il vostro sostegno! Utilizzare questa opzione per rimuovere definitivamente la pubblicità da app diario alimentare.</string>
+	<string name="Product_1">Rimuovere pubblicità</string>
+	<string name="CantCalculateNutrition">Inserisci il peso</string>
+	<string name="TrialExpiredTitle">Periodo di prova scaduto, sbloccare\?</string>
+	<string name="Screenshot_3b">1 medio</string>
+	<string name="SendFeedback">Informazioni</string>
+	<string name="Feedback_UnlockText">Acquista la versione premium</string>
+	<string name="EmailReport_SubjectTemplate">Diario Alimentare per {0}</string>
+	<string name="EmailReport_Exception">Qualcosa di inaspettato è andato storto. Il diario non è stato inviato.</string>
+	<string name="EmailReport_InvalidEmailAddress">Inserisci un indirizzo e-mail valido.</string>
+	<string name="Total">Totale</string>
+	<string name="Price">solo {0}</string>
+	<string name="Feature6_Text">Sostenere lo sviluppo</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+La maggior parte, ma non tutti i punti di dati nel database provengono da fonti affidabili. Facciamo del nostro meglio per assicurarsi che tutti i valori sono esatti, ma non possono essere ritenuti responsabili per dati errati o mancanti. Valori nutrizionali variano dalla marca e nel tempo. Utilizzando questa app, accetti di verificare e correggere eventuali dati nell\'app e per essere pienamente responsabile per lesioni o danni a causa del suo utilizzo.
+
+Per favore fatemi sapere se c\'è qualcosa che posso aiutarti con.</string>
+	<string name="Feature6_Desc">Aiuta a mantenerti aggiornato sulle novità della app</string>
+	<string name="GetAllFeatures">Ottenere TUTTE le funzioni</string>
+	<string name="Feature_Header">Incluso:</string>
+	<string name="Feature_Footer">* NOTA: La maggior parte, ma non tutti i dati provengono da fonti affidabili. Acquistando la versione premium, si accetta la piena responsabilità per dell\'accuratezza e la completezza dei dati. Inviare una e-mail a daily.journal@outlook.com per dettagli.</string>
+	<string name="Feature5_Text">Nuove funzionalità</string>
+	<string name="Feature5_Desc">Tutte le funzioni premium nei futuri aggiornamenti</string>
+	<string name="Feature4_Text">Più pasti</string>
+	<string name="Feature4_Desc">Per tracciare 5, 6 o più pasti al giorno</string>
+	<string name="Feature3_Text">Più alimenti *</string>
+	<string name="Feature3_Desc">Da centinaia a migliaia di alimenti (a seconda della location)</string>
+	<string name="Feature2_Text">E-mail dei rapporti</string>
+	<string name="Feature2_Desc">Invia una email del tuo diario per salvare, stamparlo o analizzarlo</string>
+	<string name="Feature1_Text">No pubblicità</string>
+	<string name="Feature1_Desc">Tutti gli annunci vengono rimossi in modo permanente</string>
+	<string name="BuyNow">Acquista ora</string>
+	<string name="EmailReport_ShowSettings">Inviare via e-mail</string>
+	<string name="EmailReport_SendNow">Inviare ora</string>
+	<string name="EmailReport_Address">Indirizzo e-mail</string>
+	<string name="Feedback_Unlock">Aggiornamento ora</string>
+	<string name="Feedback_Header">Il modo più semplice e veloce per tenere traccia di ciò che si mangia.
+
+Scorrere verso il basso per informazioni sull\'accuratezza dei dati.</string>
+	<string name="Product_4">Ottieni l\'accesso a tutte le funzionalità</string>
+	<string name="Product_3">Upgrade a premium</string>
+	<string name="EmailReport_Footer2">Nota: La maggior parte, ma non tutti i punti di dati nel database provengono da fonti affidabili. Facciamo del nostro meglio per assicura che i valori sian esatti, ma non possiamo essere ritenuti responsabili per dati errati o mancanti. Usando la app, si riconosce ed accetta la piena responsabilità per il controllo dell\'esattezza dei dati. La app consente di aggiornare eventuali discrepanze che si possono verificare.</string>
+	<string name="EmailReport_Footer1">Diario di AAA 
+Domande o commenti\? Rispondi a BBB</string>
+	<string name="Localization_Submit">Invia</string>
+	<string name="Localization_TranslationsText">Si prega di aggiornare i testi in questo elenco con traduzione migliore. Rimuovere tutto il testo per gli elementi che sono inadeguate per la vostra regione.</string>
+	<string name="Localization_ThankYou">Grazie per il vostro aiuto!</string>
+	<string name="Localization_Translations">Traduzioni</string>
+	<string name="Localization_Text">Qui si può contribuire a migliorare questa app.</string>
+	<string name="Localization_Original">Originale:</string>
+	<string name="Localization_Good">Buona</string>
+	<string name="Localization_Description">Descrizione:</string>
+	<string name="Feedback_LocalizeText">Contribuire a migliorare la app</string>
+	<string name="Localization_CommentText">Inserisci il tuo indirizzo e-mail se vuoi essere contattato.</string>
+	<string name="Localization_Comment">Commento</string>
+	<string name="Feedback_Localize">Migliorare le traduzioni</string>
+	<string name="AddToLauncher">Aggiungi alla schermata principale</string>
+	<string name="Avg">Media</string>
+	<string name="Cancel">Annulla</string>
+	<string name="CopyFromSimilarItem">Copia da elemento simile</string>
+	<string name="DeleteEntry">Elimina voce</string>
+	<string name="EnterTheWeightForThisAmount">Inserisci il peso per questa somma</string>
+	<string name="MoreOptions2">Altre opzioni</string>
+	<string name="None">Nessuno</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">Sconto per un giorno: -{0}%</string>
+	<string name="Total2">Totale</string>
+	<string name="EmailReport_Footer1a">Gazzetta di AAA</string>
+	<string name="EmailReport_Footer1b">Domande o commenti\? Rispondi a BBB</string>
+	<string name="Add_New">NUOVO ELEMENTO</string>
+	<string name="Add_Note">AGGIUNGI UNA NOTA</string>
+	<string name="add_target">AGGIUNGI ALIMENTO</string>
+	<string name="choose_time">imposta ora</string>
+	<string name="daily_target">Alimento</string>
+	<string name="daily_target_hint">Obiettivo giornaliero (opzionale)</string>
+	<string name="describe_goal">Descrivi il tuo obiettivo qui</string>
+	<string name="drawer_close">Chiudi</string>
+	<string name="drawer_open">Apri</string>
+	<string name="edit_meals">SCEGLI PASTI</string>
+	<string name="enter_meal_time">Inserisci ora per ogni pasto</string>
+	<string name="enter_serving_weight">Inserisci prima il peso (g)</string>
+	<string name="enter_value">Inserisci alimento</string>
+	<string name="get_started">Inizia!</string>
+	<string name="get_started_second_text">Tocca "+" per aggiungere una voce nel diario.</string>
+	<string name="Input_Notes">Inserisci le tue note qui</string>
+	<string name="meal_options">Opzioni pasto</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Obiettivo personale</string>
+	<string name="Per_Cup">1 tazza (250 grammi) NOTUSED</string>
+	<string name="Per_Grams">100 grammi</string>
+	<string name="portion_caption">porzione</string>
+	<string name="RadioButton_Alpha">in ordine alfabetico NOTYETUSED</string>
+	<string name="RadioButton_Sort">Ordina la storia NOTYETUSED</string>
+	<string name="Serving">Quantità</string>
+	<string name="Show_More_Options">ALTRE OPZIONI</string>
+	<string name="show_total_with_meal">Mostra un obiettivo alimentare</string>
+	<string name="target_date">Data obiettivo</string>
+	<string name="target_date_hint">Scegli data obiettivo</string>
+	<string name="transition_name_circle">transizione: cerchio</string>
+	<string name="transition_name_name">Nome: transizione</string>
+	<string name="transition_name_phone">transizione: telefono</string>
+	<string name="Type_Name">Cerca</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">Unità metriche</string>
+	<string name="Units_US">Unità USA</string>
+	<string name="Upgrade">Upgrade</string>
+	<string name="weight_gram">peso (g)</string>
+	<string name="InvalidEmailError">Indirizzo di posta elettronica non valido</string>
+	<string name="NoGoalsTitle">Tutte le voci</string>
+	<string name="SendReportTitle">Invia Report</string>
+	<string name="DeleteEntryMessage">Eliminare questa voce\?</string>
+	<string name="NewBody">Molti miglioramenti inclusi: note, più alimenti, migliore progettazione e altro.
+Scaricare gratis\?</string>
+	<string name="NewTitle">Versione 2.0 è ora disponibile!</string>
+</resources>

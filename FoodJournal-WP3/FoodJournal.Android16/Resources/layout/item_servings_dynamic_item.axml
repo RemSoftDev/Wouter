@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_standard"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/opt_serving_selected"
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_weight=".08" />
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_weight=".53"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/edit_text_serving_cup"
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/portion_caption"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary_text_default_material_light"
+                android:longClickable="false"
+                android:inputType="textCapSentences|textMultiLine"
+                android:maxLines="2"
+                android:maxLength="2000"
+                android:scrollHorizontally="false"
+                android:nextFocusDown="@+id/edit_text_serving_gram"
+                android:singleLine="false" />
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_weight=".25"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/edit_text_serving_gram"
+                style="@style/AppTheme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:hint="@string/weight_gram"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary_text_default_material_light"
+                android:inputType="numberDecimal" />
+        </android.support.design.widget.TextInputLayout>
+        <ImageView
+            android:id="@+id/btn_delete"
+            android:layout_width="0dp"
+            android:layout_weight=".14"
+            android:layout_height="@dimen/clear_height"
+            android:src="@drawable/ic_clear" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/progress_bar_right"
+        android:layout_marginLeft="@dimen/progress_bar_left"
+        android:layout_marginRight="@dimen/progress_bar_right"
+        android:layout_marginStart="@dimen/progress_bar_left">
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SliderValue"
+            android:max="48" />
+    </LinearLayout>
+</LinearLayout>

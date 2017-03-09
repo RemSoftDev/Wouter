@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffff"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        style="@style/PaneStyle"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <TextView
+            android:text="@string/GetAllFeatures"
+            style="@style/PhoneTextExtraLargeCenterStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:id="@+id/line1"
+            android:layout_marginBottom="8dp" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_marginTop="8dp"
+            android:layout_above="@+id/buy1l"
+            android:id="@+id/scrollView2"
+            android:layout_below="@+id/line1"
+            android:layout_marginBottom="0.0dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick" />
+                        <TextView
+                            android:text="@string/Feature1_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature1_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick" />
+                        <TextView
+                            android:text="@string/Feature3_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature3_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip" />
+                    <TextView
+                        android:text="@string/more_food1"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="24dip" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/linearLayout2">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/frameLayout2">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick"
+                            android:id="@+id/textView4" />
+                        <TextView
+                            android:text="@string/Feature2_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip"
+                            android:id="@+id/textView5" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature2_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip"
+                        android:id="@+id/textView6" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick" />
+                        <TextView
+                            android:text="@string/Feature4_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature4_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/linearLayout1">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/frameLayout1">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick"
+                            android:id="@+id/textView1" />
+                        <TextView
+                            android:text="@string/Feature6_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip"
+                            android:id="@+id/textView2" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature6_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip"
+                        android:id="@+id/textView3" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:text="✓"
+                            style="@style/FeatureTextTick" />
+                        <TextView
+                            android:text="@string/Feature5_Text"
+                            style="@style/FeatureTextStyle"
+                            android:layout_marginLeft="24dip" />
+                    </FrameLayout>
+                    <TextView
+                        android:text="@string/Feature5_Desc"
+                        style="@style/FeatureDescriptionStyle"
+                        android:paddingTop="10dp"
+                        android:layout_marginLeft="24dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <View
+            android:id="@+id/buy1l"
+            android:layout_above="@+id/buy1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:background="@color/button_material_dark" />
+        <LinearLayout
+            android:id="@+id/buy1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/buy2"
+            android:orientation="horizontal"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true">
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="2"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Monthly"
+                    android:textColor="#1976d2"
+                    style="@style/AppTheme"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Your subscription renews every month."
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/abc_secondary_text_material_light"
+                    style="@style/AppTheme" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="$3.99"
+                    android:textColor="@color/abc_primary_text_material_light"
+                    style="@style/AppTheme"
+                    android:textAlignment="textEnd"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="per month"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/abc_primary_text_material_light"
+                    style="@style/AppTheme"
+                    android:gravity="center"
+                    android:id="@+id/textView7" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/buy2l"
+            android:layout_above="@+id/buy2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:background="@color/button_material_dark" />
+        <LinearLayout
+            android:id="@+id/buy2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/buy3l"
+            android:orientation="horizontal"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true">
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="2"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3 Months"
+                    android:textColor="#1976d2"
+                    style="@style/AppTheme"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Renew every 3 months for a 15% discount."
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/abc_secondary_text_material_light"
+                    style="@style/AppTheme" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="$9.99"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/abc_primary_text_material_light"
+                    style="@style/AppTheme"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="MOST POPULAR"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/holo_green_dark"
+                    style="@style/AppTheme"
+                    android:gravity="center"
+                    android:id="@+id/textView7" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/buy3l"
+            android:layout_above="@+id/buy3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:background="@color/button_material_dark" />
+        <LinearLayout
+            android:id="@+id/buy3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/abc1"
+            android:orientation="horizontal"
+            android:background="?attr/selectableItemBackground"
+            android:clickable="true">
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="2"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1 Full Year"
+                    android:textColor="#1976d2"
+                    style="@style/AppTheme"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Choose yearly for 50% off."
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/abc_secondary_text_material_light"
+                    style="@style/AppTheme" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:layout_width="0dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="$23.99"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/abc_primary_text_material_light"
+                    style="@style/AppTheme"
+                    android:textAlignment="textEnd"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textSize="16dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="BEST VALUE"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@android:color/holo_red_light"
+                    style="@style/AppTheme"
+                    android:gravity="center"
+                    android:id="@+id/textView7" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/abc1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:background="@color/button_material_dark"
+            android:layout_above="@+id/abc" />
+        <LinearLayout
+            android:id="@+id/abc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingRight="10dp"
+            android:background="#ffffff"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentBottom="true">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_gravity="center|right"
+                android:gravity="center|right">
+                <TextView
+                    android:id="@+id/dismissBuy"
+                    onClick="DismissBuy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16dp"
+                    android:textColor="#1976d2"
+                    android:text="@string/Cancel" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

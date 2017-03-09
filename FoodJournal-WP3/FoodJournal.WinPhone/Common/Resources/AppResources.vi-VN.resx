@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>vi-VN</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>THỰC PHẨM NHẬT KÝ</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Thường thấy trong các</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Xóa</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Không có gì được chọn</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Tại bữa ăn</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Bữa ăn tối tại mục</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Của tôi tại excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Ăn trưa tại mục</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Tại snack mục</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>THỰC PHẨM NHẬT KÝ</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>NHẬT KÝ THỰC PHẨM- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Bữa sáng</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Bữa ăn</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Tập thể dục</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Bữa trưa</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Snack</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>hôm nay</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Số lượng</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Canxi</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Calo</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Carbohydrate</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Cholesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Chất xơ</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Sắt</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Chất béo không bão hòa đơn</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Chất béo không bão hòa đa</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kali</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Protein</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Chất béo bão hòa</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natri</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Đường</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Tổng số chất béo</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamin C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamin D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Độ dày</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Tùy chọn</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Nhập cụm từ tìm kiếm</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (mục mới)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (công thức mới)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Kết quả tìm kiếm</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} đã không tìm thấy, hãy thử thay đổi thuật ngữ tìm kiếm của bạn</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>thêm</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Dinh dưỡng</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>THỰC PHẨM THÔNG TIN</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Vui lòng nhập trọng lượng đầu tiên</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Phục vụ kích thước</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Bao nhiêu?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>thêm tùy chọn</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Không có thông tin dinh dưỡng</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Thêm một kích thước phục vụ</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>thêm</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Lịch</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Quảng cáo</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Cup</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Fluid ounce</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Gallon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gam</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Lít</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Milliliter</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Ounce</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pint</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Pound</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Quart</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Tablespoon</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Teaspoon</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Ly</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Chất lỏng Aoxơ</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Gallon</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilôgram</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Lít</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mili lít</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Aosơ</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pints</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Cân anh</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarts</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Muỗng</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Muỗng cà phê</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>vi</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>Thư điện tử từ Nhật ký thực phẩm</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Số lượng</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>đang nạp ...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Cập nhật Ngay</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Cảm ơn bạn đã sử dụng ứng dụng này! Bản sao này bây giờ đã hết hạn. Nhưng đừng lo, chúng tôi sẽ đưa bạn đến trang tải về để Cập Nhật nếu bạn bấm Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Nhiệm vụ này Cập Nhật Live gạch cho các Nhật ký thực phẩm.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Bạn đã vô hiệu hóa các ứng dụng sống ngói trong cài đặt thoại.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Ưu tiên của tôi</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Đếm các bữa ăn thiếu trên app ngói</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Lời nhắc</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Thiết đặt</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Thiết lập gạch</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Báo cáo</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Báo cáo</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Muỗng cà phê = 7.2 g|Muỗng canh = 12 g|1 phục vụ = 28 g|Mảnh = 14 g|Lát = 12 g|1 ly = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Chụp ảnh</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Cảm ơn bạn đã sử dụng ứng dụng này! Nếu bạn tìm thấy nó hữu ích, xin vui lòng giúp nó trở thành thành công bằng cách để lại một bài đánh giá.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Để lại một bài đánh giá?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Mục tiêu</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Không có thiết lập mục tiêu</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Cuối ngày</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Bạn ăn gì?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Nhắc nhở: Cập Nhật Nhật ký của bạn</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>lời nhắc được chọn xuất hiện nếu bạn chưa Cập Nhật Nhật ký của bạn của thời gian đã chọn</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Nước cam, 1 cốc, bánh mì nướng, 1 lát, trứng, 1 trung bình, Apple, cà phê, chuối</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} trong mục tiêu</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} còn lại</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Sổ ký sự</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Chọn OK để loại bỏ quảng cáo từ các ứng dụng.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Loại bỏ quảng cáo?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Các vấn đề kết nối với các cửa hàng Windows Phone. Xin vui lòng thử lại sau.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Báo cáo sự cố</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Đề nghị một tính năng hoặc đặt một câu hỏi</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Đánh giá các ứng dụng này</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Thông tin phản hồi cụ thể sẽ giúp cải thiện các ứng dụng</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Giúp cải thiện các dịch</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Một màn hình chụp được bao gồm</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Chia sẻ một kết</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Để tải về ứng dụng này</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Thực phẩm Nhật ký văn bản</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Kiểm tra thực phẩm Nhật ký cho Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Thực phẩm Nhật ký</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Bữa ăn sáng phổ biến</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Thường thấy trong các bữa ăn tối</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Thường thấy trong các bữa ăn trưa</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Thường thấy trong các snack</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Bữa ăn</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Buổi sáng</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Đầu buổi chiều</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Buổi chiều</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Buổi sáng riêng biệt snack</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Riêng biệt snack đầu buổi chiều</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Riêng biệt chiều snack</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Buổi tối</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Riêng biệt nửa đêm snack</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Nửa đêm</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Kết hợp đồ ăn nhẹ</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Buổi tối riêng biệt snack</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Tại buổi chiều mục</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Tại mục đầu buổi chiều</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Buổi tối tại mục</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Nửa đêm tại mục</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Tại buổi sáng mục</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Thường thấy trong các buổi chiều</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Thường thấy trong các buổi chiều đầu</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Thường thấy trong các buổi tối</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Thường thấy trong các nửa đêm</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Thường thấy trong các buổi sáng</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Cảm ơn bạn đã cố gắng Nhật ký thực phẩm. Bạn có thử nghiệm {0} ngày còn lại. Bấm OK để mở khóa các ứng dụng.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Mở khóa bây giờ?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Thử nghiệm của bạn bây giờ đã hết hạn. Bạn vẫn có thể xem Nhật ký của bạn, nhưng bạn không thể thêm mục mới. Chọn OK để mở khóa các phiên bản đầy đủ.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Loại bỏ quảng cáo</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Vĩnh viễn loại bỏ tất cả quảng cáo</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Lưu ý: Đây là phiên bản đầu tiên (beta), cơ sở dữ liệu thực phẩm liên tục được mở rộng. Nếu bạn có bất cứ đề nghị, xin vui lòng e-mail daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Thực phẩm Nhật ký</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Thông tin phản hồi từ người dùng hiện tại:
+-Ứng dụng đây là một phước lành trong điều khoản của dễ dàng xử lý. 
+-Ứng dụng này có tất cả các tính năng cần thiết trong một thiết kế đơn giản. Nó thực sự làm cho ghi âm thói quen ăn hàng ngày là dễ dàng hơn nhiều so với các ứng dụng khác. Tôi biết tôi thích nó!
+-Tốt nhất của loại hình này
+-Đó là toàn diện, tổ chức tốt, dễ sử dụng
+-Tôi thích ứng dụng này! Nó là đơn giản, nhưng vẫn giữ tôi về ca khúc ❤ và thậm chí nhắc tôi nếu tôi đã không ăn một bữa ăn. Chắc chắn là một trợ giúp lớn trong cố gắng để được khỏe mạnh với của tôi</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Tính năng chính:
+1. thiết kế được ứng dụng Nhật ký thực phẩm dễ nhất và nhanh nhất
+2. phổ biến thực phẩm và thực phẩm mới ăn là gợi ý để làm cho mục nhập rất nhanh
+3. không cần phải đăng nhập vào hoặc nhập các thông tin cá nhân như địa chỉ e-mail hoặc trọng lượng của bạn
+4. một cơ sở dữ liệu thực phẩm sẵn có thông tin dinh dưỡng
+5. một chọn kích thước thuận tiện phục vụ cho phép bạn nhập chính xác những gì bạn ăn
+6. dễ dàng thêm thức ăn mới mà các ứng dụng không biết về chưa
+7. báo cáo hàng ngày cho thấy tất cả các chi tiết dinh dưỡng
+8. một báo cáo hàng tuần cho thấy làm thế nào bạn theo dõi tương đối so với mục tiêu dinh dưỡng của bạn
+9. cấu hình nhắc nhở giúp đảm bảo rằng bạn không quên để điền vào Nhật ký của bạn
+10. gạch sống cho thấy bao nhiêu bữa ăn phải là điền ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Nếu bạn đang trên một chế độ ăn uống, hoặc bạn muốn biết bao nhiêu calo, chất béo, protein hoặc carbohydrate bạn ăn mỗi ngày, đây là các ứng dụng cho bạn.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Nhật ký thực phẩm là cách dễ nhất để theo dõi những gì bạn ăn mỗi ngày.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Dinh dưỡng</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Calo</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Chế độ ăn uống</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Tạp chí thực phẩm</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Calorie số lượt truy cập</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Trái chuối</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Cà phê</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Táo</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Trứng</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 lát</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Bánh mì nướng</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 chén</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Nước cam</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Cảm ơn bạn đã hỗ trợ của bạn! Sử dụng tùy chọn này để vĩnh viễn loại bỏ quảng cáo từ ứng dụng Nhật ký thực phẩm của bạn.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Loại bỏ quảng cáo</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Nhập trọng lượng</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Thời gian dùng thử hết hạn, mở khóa?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 trung</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Về</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Cách nhanh nhất và dễ nhất để theo dõi những gì bạn ăn.
+
+Di chuyển xuống cho các thông tin về dữ liệu chính xác.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Nâng cấp bây giờ</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Mua phiên bản đặc biệt</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Tạp chí thực phẩm cho {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Một cái gì đó bất ngờ đã đi sai. Tạp chí đã không được gửi.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Vui lòng nhập một địa chỉ e-mail hợp lệ.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Tổng cộng</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>chỉ {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Hỗ trợ sự phát triển</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>TUYÊN BỐ TỪ CHỐI:
+Hầu hết, nhưng không phải tất cả điểm dữ liệu trong cơ sở dữ liệu đến từ nguồn có uy tín. Chúng tôi làm tốt nhất của chúng tôi để đảm bảo rằng tất cả giá trị chính xác, nhưng không thể được tổ chức chịu trách nhiệm về dữ liệu không chính xác hoặc thiếu. Giá trị dinh dưỡng khác nhau theo nhãn hiệu và theo thời gian. Bằng cách sử dụng ứng dụng này, bạn đồng ý để kiểm tra và sửa chữa bất kỳ dữ liệu nào trong ứng dụng, và được hoàn toàn chịu trách nhiệm về thương tích hay thiệt hại do việc sử dụng của nó.
+
+Xin vui lòng cho tôi biết nếu có bất cứ điều gì tôi có thể giúp bạn với.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Giúp đỡ để giữ Cập Nhật của ứng dụng này đến</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Nhận được tất cả các tính năng</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Bao gồm:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Lưu ý: Hầu hết, nhưng không phải tất cả dữ liệu đến từ nguồn có uy tín. Bằng cách mua các phiên bản premium, bạn chấp nhận trách nhiệm hoàn toàn cho độ chính xác và đầy đủ của dữ liệu. E-mail daily.journal@outlook.com để biết chi tiết.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Tính năng mới</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Phí bảo hiểm tất cả tính năng trong tương lai thông tin Cập Nhật</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Thêm bữa ăn</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Để theo dõi 5, 6 hoặc nhiều bữa ăn mỗi ngày</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Thêm thực phẩm *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Hàng trăm đến hàng ngàn thêm thực phẩm mục (tùy thuộc vào vị trí)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Báo cáo email</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-mail tạp chí của bạn để tiết kiệm, in, hoặc phân tích nó</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Không có quảng cáo</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Tất cả quảng cáo được xoá vĩnh viễn</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>mua bây giờ</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Gửi qua thư điện tử</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>gửi ngay bây giờ</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Địa chỉ e-mail</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Truy cập vào tất cả các tính năng</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Nâng cấp lên premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Lưu ý: Hầu hết, nhưng không phải tất cả điểm dữ liệu trong cơ sở dữ liệu đến từ nguồn có uy tín. Chúng tôi làm tốt nhất của chúng tôi để đảm bảo rằng giá trị chính xác, nhưng không thể được tổ chức chịu trách nhiệm về dữ liệu không chính xác hoặc thiếu. Bằng cách sử dụng các ứng dụng, bạn thừa nhận và chấp nhận trách nhiệm hoàn toàn cho kiểm tra tính chính xác của dữ liệu. Các ứng dụng cho phép bạn để cập nhật bất kỳ sự khác biệt bạn có thể tìm thấy.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Tạp chí của AAA
+Câu hỏi hay bình luận? Trả lời với BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Gửi</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Xin vui lòng cập nhật các văn bản trong danh sách này với bản dịch tốt hơn. Loại bỏ tất cả văn bản cho các mục mà là không thích hợp cho khu vực của bạn.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Cảm ơn bạn đã giúp đỡ của bạn!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Bản dịch</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Ở đây bạn có thể giúp cải thiện ứng dụng này.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Ban đầu:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Tốt</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Trò chơi mô tả:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Giúp cải thiện các ứng dụng</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Nhập địa chỉ e-mail của bạn nếu bạn muốn được liên lạc.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Bình luận</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Cải thiện tham khảo</value>
+  </data>
+</root>

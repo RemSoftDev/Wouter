@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">DNEVNIK PREHRANE</string>
+	<string name="CommonItems">Pogosti izdelki</string>
+	<string name="Delete">Izbriši</string>
+	<string name="EmptyEntryList">Nič ni izbrano</string>
+	<string name="MyRecentItems_Breakfast">Nedavni izdelki zajtrk</string>
+	<string name="MyRecentItems_Dinner">Nedavni izdelki večerja</string>
+	<string name="MyRecentItems_Exercise">Moja nedavna vadba</string>
+	<string name="MyRecentItems_Lunch">Nedavni izdelki kosilo</string>
+	<string name="MyRecentItems_Snack">Nedavni prigrizki</string>
+	<string name="PageTitle">DNEVNIK PREHRANE</string>
+	<string name="PageTitleBase">HRANE DNEVNIK- </string>
+	<string name="Period_Breakfast">Zajtrk</string>
+	<string name="Period_Dinner">Večerja</string>
+	<string name="Period_Exercise">Vadba</string>
+	<string name="Period_Lunch">Kosilo</string>
+	<string name="Period_Snack">Prigrizek</string>
+	<string name="Search">Išči</string>
+	<string name="Today">Danes</string>
+	<string name="StandardProperty_Amount">Količina</string>
+	<string name="StandardProperty_Calcium">Kalcij</string>
+	<string name="StandardProperty_Calories">Kalorije</string>
+	<string name="StandardProperty_Carbs">Ogljikovi hidrati</string>
+	<string name="StandardProperty_Cholesterol">Holesterol</string>
+	<string name="StandardProperty_Fiber">Vlaknine</string>
+	<string name="StandardProperty_Iron">Železo</string>
+	<string name="StandardProperty_MonoFat">Enkrat nenasičene maščobe</string>
+	<string name="StandardProperty_PolyFat">Večkrat nenasičene maščobe</string>
+	<string name="StandardProperty_Potassium">Kalij</string>
+	<string name="StandardProperty_Protein">Beljakovine</string>
+	<string name="StandardProperty_SatFat">Nasičene maščobe</string>
+	<string name="StandardProperty_Sodium">Natrij</string>
+	<string name="StandardProperty_Sugar">Sladkor</string>
+	<string name="StandardProperty_TotalFat">Skupne maščobe</string>
+	<string name="StandardProperty_VitaminC">Vitamin C</string>
+	<string name="StandardProperty_VitaminD">Vitamin D</string>
+	<string name="StandardProperty_Weight">Teža</string>
+	<string name="Preferences">Izbor</string>
+	<string name="EmptySearchList">Vnesite iskalni izraz</string>
+	<string name="NewItemSuffix">(nov izdelek)</string>
+	<string name="NewRecipeSuffix"> (nov recept)</string>
+	<string name="SearchResults">Rezultati iskanja</string>
+	<string name="SearchTermNotFound">{0} ni mogoče najti, poskusite spremeniti iskalni izraz</string>
+	<string name="AcceptNew">Dodaj</string>
+	<string name="Name">Ime</string>
+	<string name="Nutrition">Hranilna vrednost</string>
+	<string name="PageTitleItemDetail">PODATKI O ŽIVILIH</string>
+	<string name="EnterWeight">Prosimo, da najprej vnesete težo</string>
+	<string name="ServingSizes">Velikost obroka</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Koliko\?</string>
+	<string name="MoreOptions">Več možnosti</string>
+	<string name="NoNutritionInfo">Ni podatkov o hranilni vrednosti</string>
+	<string name="AddServingSize">Dodaj velikost obroka</string>
+	<string name="Add">Dodaj</string>
+	<string name="SelectDate">Koledar</string>
+	<string name="Advertisement">Oglas</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">Skodelica</string>
+	<string name="Unit_Deciliter">Deciliter</string>
+	<string name="Unit_FluidOunce">Tekočinska unča</string>
+	<string name="Unit_Gallon">Galona</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Liter</string>
+	<string name="Unit_Milliliter">Mililiter</string>
+	<string name="Unit_Ounce">Unča</string>
+	<string name="Unit_Pint">Pint</string>
+	<string name="Unit_Pound">Funt</string>
+	<string name="Unit_Quart">Quart</string>
+	<string name="Unit_Tablespoon">Žlica</string>
+	<string name="Unit_Teaspoon">Čajna žlička</string>
+	<string name="Units_Centiliter">Centilitrov</string>
+	<string name="Units_Cup">Skodelic</string>
+	<string name="Units_Deciliter">Decilitrov</string>
+	<string name="Units_FluidOunce">Tekočinskih unč</string>
+	<string name="Units_Gallon">Galon</string>
+	<string name="Units_Gram">Gramov</string>
+	<string name="Units_Kilogram">Kilogramov</string>
+	<string name="Units_Liter">Litrov</string>
+	<string name="Units_Milliliter">Mililitrov</string>
+	<string name="Units_Ounce">Unč</string>
+	<string name="Units_Pint">Pint</string>
+	<string name="Units_Pound">Funtov</string>
+	<string name="Units_Quart">Quarts</string>
+	<string name="Units_Tablespoon">Žlic</string>
+	<string name="Units_Teaspoon">Čajnih žličk</string>
+	<string name="DatabaseCulture">sl</string>
+	<string name="FeedbackSubject">E-pošta iz dnevnika prehrane</string>
+	<string name="Equivalent">Znesek:</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">Nalaganje ...</string>
+	<string name="ExpiredCaption">Posodobim zdaj\?</string>
+	<string name="ExpiredMessage">Zahvaljujemo se vam za uporabo te aplikacije! Ta različica je zdaj potekla. Vendar ne skrbite, saj vas bomo usmerili na stran za prenos, če pritisnete Ok.</string>
+	<string name="AgentDescription">To opravilo posodobi živo ploščico za dnevnik prehrane.</string>
+	<string name="AgentDisabled">Onemogočili ste živo ploščico v telefonskih nastavitvah.</string>
+	<string name="PageTitleSettings">Moj izbor</string>
+	<string name="EnableLiveTile">Seštej manjkajoče obroke na živi ploščici</string>
+	<string name="Reminders">Opomniki</string>
+	<string name="SettingsScreen">Nastavitve</string>
+	<string name="PinToStart">Nastavi živo ploščico</string>
+	<string name="OpenReport">Poročilo</string>
+	<string name="Report">Poročilo</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Čajna žlička = 4,5 g|Žlica = 12 g|1 služijo = 28 g|Kos = 14 g|Rezina = 12 g|1 skodelica = 237 g</string>
+	<string name="TakeAPicture">Fotografiraj</string>
+	<string name="ReviewBody">Zahvaljujemo se vam za uporabo te aplikacije! Če se vam zdi uporabna, prosimo, da pustite svojo oceno.</string>
+	<string name="ReviewTitle">Podaj oceno.</string>
+	<string name="Goals">Cilji</string>
+	<string name="NoGoalSet">Ni nastavljenega cilja</string>
+	<string name="EndOfDay">Ob koncu dneva</string>
+	<string name="ReminderContent">Kaj ste jedli\?</string>
+	<string name="ReminderTitle">Opomnik: Posodobite vaš dnevnik.</string>
+	<string name="ReminderDescription">Izbrani opomniki bodo prikazani, če niste posodobili vašega dnevnika do določenega časa.</string>
+	<string name="ScreenshotTitles">Pomarančni sok, 1 skodelica, Toast, 1 rezina, jajce, 1 srednje, jabolko, kava, Banana</string>
+	<string name="GoalOver">{0} preko cilja</string>
+	<string name="GoalUnder">{0} preostalih</string>
+	<string name="OpenJournal">Dnevnik</string>
+	<string name="RemoveAdsText">Izberite OK in odstranite oglase iz aplikacije.</string>
+	<string name="RemoveAdsTitle">Odstranim oglase\?</string>
+	<string name="StoreException">Prišlo je do težave pri povezavi s trgovino Windows Phone. Prosimo, poskusite znova pozneje.</string>
+	<string name="Feedback_Email">Sporoči težavo</string>
+	<string name="Feedback_EmailText">Ali predlagaj funkcijo ali postavi vprašanje</string>
+	<string name="Feedback_Rate">Oceni to aplikacijo</string>
+	<string name="Feedback_RateText">Vaše mnenje pomaga izboljšati aplikacijo</string>
+	<string name="Feedback_Screenshot">Pomagaj izboljšati prevod</string>
+	<string name="Feedback_ScreenshotText">Posnetek zaslona je vključen</string>
+	<string name="Feedback_Share">Deli povezavo</string>
+	<string name="Feedback_ShareText">Prenesi to aplikacijo</string>
+	<string name="ScreenshotSubject">Dnevnik prehrane, besedilo</string>
+	<string name="ShareMessage">Oglejte si dnevnik prehrane za Windows Phone</string>
+	<string name="ShareTitle">Dnevnik prehrane</string>
+	<string name="CommonItems_Breakfast">Pogosti izdelki zajtrk</string>
+	<string name="CommonItems_Dinner">Pogosti izdelki večerja</string>
+	<string name="CommonItems_Lunch">Pogosti izdelki kosilo</string>
+	<string name="CommonItems_Snack">Pogosti prigrizki</string>
+	<string name="Meals">Obroki</string>
+	<string name="Period_SnackMorning">Jutro</string>
+	<string name="Period_SnackEarlyAfternoon">Zgodaj popoldne</string>
+	<string name="Period_SnackAfternoon">Popoldne</string>
+	<string name="Meals_SnackMorningEnabled">Ločen jutranji prigrizek</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Ločen zgodnjepopoldanski prigrizek</string>
+	<string name="Meals_SnackAfternoonEnabled">Ločen popoldanski prigrizek</string>
+	<string name="Period_SnackEvening">Večer</string>
+	<string name="Meals_SnackMidnightEnabled">Ločen polnočni prigrizek</string>
+	<string name="Period_SnackMidnight">Polnoč</string>
+	<string name="Meals_SnacksCombined">Združi prigrizke</string>
+	<string name="Meals_SnackEveningEnabled">Ločen večerni prigrizek</string>
+	<string name="MyRecentItems_SnackAfternoon">Nedavni izdelki popoldne</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Nedavni izdelki zgodnje popoldne</string>
+	<string name="MyRecentItems_SnackEvening">Nedavni izdelki večer</string>
+	<string name="MyRecentItems_SnackMidnight">Nedavni izdelki polnoč</string>
+	<string name="MyRecentItems_SnackMorning">Nedavni izdelki jutro</string>
+	<string name="CommonItems_SnackAfternoon">Pogosti izdelki popoldne</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Pogosti izdelki zgodnje popoldne</string>
+	<string name="CommonItems_SnackEvening">Pogosti izdelki večer</string>
+	<string name="CommonItems_SnackMidnight">Pogosti izdelki polnoč</string>
+	<string name="CommonItems_SnackMorning">Pogosti izdelki jutro</string>
+	<string name="UnlockFullBody">Hvala, ker ste težaven hrane dnevnik. Imate {0} poskus days ostanek. Pritisnite OK, da odkleniti app.</string>
+	<string name="UnlockFullTitle">Odkleniti zdaj\?</string>
+	<string name="TrialExpiredBody">Svoj poskus zdaj izdihniti. Si lahko ogledate vaš časopis, vendar ne morete dodajati novih vnosov. Izberite »v redu« , če želite odkleniti poln prevod.</string>
+	<string name="Feedback_RemoveAds">Odstrani oglase</string>
+	<string name="Feedback_RemoveAdsText">Trajno odstrani vse oglase</string>
+	<string name="StoreText_5">Prenesite zdaj, ker ljubiš jo uporabljajo.</string>
+	<string name="AppTitle">Dnevnik prehrane</string>
+	<string name="StoreText_4">NAGRADA ZUNANJA OBLIKA:
+1. ni več oglas.
+2. veliko večji hrani zbirko podatkov.
+3. sposobnost e-mail sami kopijo mleka in mlečnih izdelkov.
+4. več možnosti konfiguracije, vključno s sposobnostjo za vstop do 8 ločene obroke na dan.</string>
+	<string name="StoreText_3">ZNAČILNOSTI:
+1. enostaven in zmogljiv model: app odpira neposredno na zaslonu vstop na zadnji obrok, ker to je, kaj boste uporabili najbolj. Zasnova omogoča dodajanje vnosov kot preprosta in intuitivna, kot je mogoče.
+2. eno pipo vstop z prilagojene predloge: Najpogostejši prehrambene izdelke lahko izberete takoj. Odhod na drugi dan, vaš Nedavni elementi so predlagal, saj boste lahko jedli isto hrano pogosto.
+3. prijavi ni potrebna: nobenih osebnih podatkov ali kontaktne podatke je potrebno.
+4. tisoč predmetov, ki so že v zbirki podatkov: večina živilski izdelki so točne informacije o skupnih služijo velikosti, kalorij, ogljikovih hidratov, beljakovin in maščob. 
+5. celovita off-line podpora: ni treba biti povezani z internetom. 
+6. natančne vnos je tudi enostavno: natančno vnesete natančne količine using a drsnik.
+7. vsak dan poročila: Uporaba menija, lahko neposredno odprete dnevnik, ki prikazuje povzetek vaš dan. Tukaj lahko preklopite med kalorij, beljakovin in ogljikovih hidratov s pritiskom na majhen trikotnik.
+8. Spremljajte svoje cilje: po vnosu vaših osebnih ciljev, lahko uporabite poročilo teden videti vaš trendi. 
+9. osebna opomnike vam pomaga ostati na cilj: so priročen način, da poskrbite, da boste izpolnite vaš dnevnik, po vsakem obroku ali ob koncu dneva.
+
+To je dobra ideja, da preveri, ali podatkov v zbirki podatkov je enak kot informacij na embalažo hrane; hrana prehrane niha z blagovnimi znamkami in skozi čas.
+
+Prepričajte se, da bi razpravljali svoje cilje s vaš zdravnik ali prehrana specialist.</string>
+	<string name="StoreText_2">O APP:
+Vzdrževanje tir od kaj jeste dokazano pomaga preprečiti in ustavite preveč jedo.
+Ta app vam pomaga nadzorovati vaše prehrane in jesti zdravo, tako da je enostavno slediti, kaj jeste. Zasnova je optimizirana, da vnos kakor hitro je mogoče, z 1 kliknite vnos, in nedavni hrane predloge. Zgrajena v zbirki že več tisoč živilo reč in če vaša niso znani, dodajati jih je lahko.
+
+Prosimo, upoštevajte: To app je prost v travnato gričevje, in podprte z oglasi. Uporabite ga lahko brezplačno tako dolgo, kot vam je všeč. Je mogoče umakniti oglas za pristojbino, ki bo omogočajo tudi dodatne funkcije.</string>
+	<string name="StoreText_1">Hrane dnevnik: Vaše prehrane in kalorij, sledenje app.</string>
+	<string name="StoreKeyword_5">Hranilna vrednost</string>
+	<string name="StoreKeyword_4">Kalorije</string>
+	<string name="StoreKeyword_3">Prehrana</string>
+	<string name="StoreKeyword_2">Dnevnik prehrane</string>
+	<string name="StoreKeyword_1">Števec kalorij</string>
+	<string name="Screenshot_H3">Banana</string>
+	<string name="Screenshot_H2">Kava</string>
+	<string name="Screenshot_H1">Jabolko</string>
+	<string name="Screenshot_3a">Jajce</string>
+	<string name="Screenshot_2b">1 rezina</string>
+	<string name="Screenshot_2a">Toast</string>
+	<string name="Screenshot_1b">1 skodelica</string>
+	<string name="Screenshot_1a">Pomarančni sok</string>
+	<string name="Product_2">Zahvaljujemo se vam za vašo podporo! Uporabite to možnost za trajno odstranitev oglasov iz vaše hrane dnevnik app.</string>
+	<string name="Product_1">Odstranitev oglasov</string>
+	<string name="CantCalculateNutrition">Vnesite težo</string>
+	<string name="TrialExpiredTitle">Poskusna doba je potekla, odklenem\?</string>
+	<string name="Screenshot_3b">1, srednje</string>
+	<string name="SendFeedback">O aplikaciji</string>
+	<string name="Feedback_Header">Najhitrejši in najpreprostejši način za sledenje kaj jeste.
+
+Pomaknite se navzdol za informacije o točnosti podatkov.</string>
+	<string name="Feedback_Unlock">Nadgradi zdaj</string>
+	<string name="Feedback_UnlockText">Kupi premium različico</string>
+	<string name="EmailReport_SubjectTemplate">Dnevnik prehrane za {0}</string>
+	<string name="EmailReport_Exception">Prišlo je do nepričakovane napake. Dnevnik ni bil poslan.</string>
+	<string name="EmailReport_InvalidEmailAddress">Prosimo, vnesite veljaven e-poštni naslov.</string>
+	<string name="Total">Skupaj</string>
+	<string name="Price">samo {0}</string>
+	<string name="Feature6_Text">Podpri razvoj</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+Večina, vendar ne vse podatkovne točke v zbirki prihajajo iz uglednih virov. Bomo potrudili prepričati, vse vrednosti so točni, vendar ne more biti odgovoren za napačne ali manjkajoče podatke. Hranilni vrednosti razlikujejo z blagovno znamko in sčasoma. Z uporabo te app, se strinjate, da preveri in popravi vse podatke v app, in je v celoti odgovoren za škodo ali poškodbe zaradi njegove uporabe.
+
+Prosim pustiti mi znanje če je kaj vam lahko pomagamo.</string>
+	<string name="Feature6_Desc">Pomagaj pri novih posodobitvah te aplikacije</string>
+	<string name="GetAllFeatures">Pridobite VSE funkcije</string>
+	<string name="Feature_Header">Vključuje:</string>
+	<string name="Feature_Footer">* OPOMBA: Večina podatkov (vendar ne vsi) izvira iz uglednih virov. Z nakupom različice premium sprejemate polno odgovornost za točnost in popolnost podatkov. Za več podrobnosti pošljite e-sporočilo na naslov daily.journal@outlook.com.</string>
+	<string name="Feature5_Text">Nove funkcije</string>
+	<string name="Feature5_Desc">Vse premium funkcije v prihodnjih posodobitvah</string>
+	<string name="Feature4_Text">Več obrokov</string>
+	<string name="Feature4_Desc">Za beleženje 5, 6 ali več obrokov na dan</string>
+	<string name="Feature3_Text">Več živil *</string>
+	<string name="Feature3_Desc">Več sto do tisoč živilskih izdelkov (glede na lokacijo)</string>
+	<string name="Feature2_Text">E-poštna poročila</string>
+	<string name="Feature2_Desc">Pošiljanje vašega dnevnika na e-poštni naslov za shranjevanje, tiskanje ali analizo</string>
+	<string name="Feature1_Text">Brez oglasov</string>
+	<string name="Feature1_Desc">Vsi oglasi so trajno odstranjeni</string>
+	<string name="BuyNow">Kupi zdaj</string>
+	<string name="EmailReport_ShowSettings">Pošlji po e-pošti</string>
+	<string name="EmailReport_SendNow">Pošlji zdaj</string>
+	<string name="EmailReport_Address">E-poštni naslov</string>
+	<string name="Product_4">Dobili dostop do vseh funkcij</string>
+	<string name="Product_3">Vzpenjajoč se v nagrada</string>
+	<string name="EmailReport_Footer2">OPOMBA: Večina podatkov (vendar ne vsi) izvira iz uglednih virov. Trudimo se, da so vrednosti točne, vendar ne moremo odgovarjati za napačne ali manjkajoče podatke. Z uporabo aplikacije priznavate in sprejemate polno odgovornost za preverjanje točnosti podatkov. Aplikacija vam omogoča, da posodobite vse razlike, ki jih boste morda našli.</string>
+	<string name="EmailReport_Footer1">Temeljnice, ki so z AAA
+Vprašanja ali pripombe\? Odgovor na BBB</string>
+	<string name="Localization_Submit">Oddaj</string>
+	<string name="Localization_TranslationsText">Prosimo, posodobite besedila na tem seznamu z boljše prevode. Odstranite vse besedilo za postavke, ki so neprimerna za vašo regijo.</string>
+	<string name="Localization_ThankYou">Hvala za pomoč!</string>
+	<string name="Localization_Translations">Prevodi</string>
+	<string name="Localization_Text">Tukaj lahko pomagate izboljšati to aplikacijo.</string>
+	<string name="Localization_Original">Izvirnik:</string>
+	<string name="Localization_Good">Dobro</string>
+	<string name="Localization_Description">Opis:</string>
+	<string name="Feedback_LocalizeText">Pomagaj izboljšati aplikacijo</string>
+	<string name="Localization_CommentText">Vpišite vaš e-poštni naslov, če želite, da stopimo v stik z vami.</string>
+	<string name="Localization_Comment">Komentiraj</string>
+	<string name="Feedback_Localize">Izboljšaj prevode</string>
+	<string name="AddToLauncher">Zaženi</string>
+	<string name="Avg">Avg</string>
+	<string name="Cancel">Prekliči</string>
+	<string name="CopyFromSimilarItem">Kopiraj iz podobnega izdelka</string>
+	<string name="DeleteEntry">Izbriši vnos</string>
+	<string name="EnterTheWeightForThisAmount">Vnesite težo za to količino</string>
+	<string name="MoreOptions2">Več možnosti</string>
+	<string name="None">Nič</string>
+	<string name="Ok">V redu</string>
+	<string name="OneDaySalePctOff">prvi dan razprodaje: znižanje {0} %</string>
+	<string name="Total2">Skupaj</string>
+	<string name="EmailReport_Footer1a">Dnevnik osebe AAA</string>
+	<string name="EmailReport_Footer1b">Imate vprašanja ali pripombe\? Pošljite jih osebi BBB</string>
+	<string name="Add_New">NOV ELEMENT</string>
+	<string name="Add_Note">DODAJTE OPOMBO</string>
+	<string name="add_target">DODAJ PREHRANA</string>
+	<string name="choose_time">določen čas</string>
+	<string name="daily_target">Prehrana</string>
+	<string name="daily_target_hint">Dnevno cilj (neobvezno)</string>
+	<string name="describe_goal">Opišite vaš cilj tukaj</string>
+	<string name="drawer_close">Blizu</string>
+	<string name="drawer_open">Odprta</string>
+	<string name="edit_meals">IZBERITE JEDI</string>
+	<string name="enter_meal_time">Vnesite čas za vsak obrok</string>
+	<string name="enter_serving_weight">Najprej vnesite teža (g)</string>
+	<string name="enter_value">Vnesite prehrana</string>
+	<string name="get_started">Začnite!</string>
+	<string name="get_started_second_text">Tapnite "+" dodati vnos za vaš časopis.</string>
+	<string name="Input_Notes">Vnesite svoje zapiske tukaj</string>
+	<string name="meal_options">Obrok možnosti</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Osebni cilj</string>
+	<string name="Per_Cup">1 skodelico (250 gramov) NOTUSED</string>
+	<string name="Per_Grams">100 gramov</string>
+	<string name="portion_caption">del</string>
+	<string name="RadioButton_Alpha">po abecedi NOTYETUSED</string>
+	<string name="RadioButton_Sort">razvrstite po zgodovini NOTYETUSED</string>
+	<string name="Serving">Služijo</string>
+	<string name="Show_More_Options">VEČ MOŽNOSTI</string>
+	<string name="show_total_with_meal">Pokaži ciljna prehrana</string>
+	<string name="target_date">Ciljni datum</string>
+	<string name="target_date_hint">Izberite ciljni datum</string>
+	<string name="transition_name_circle">prehod: KROG</string>
+	<string name="transition_name_name">prehod: ime</string>
+	<string name="transition_name_phone">prehod: telefon</string>
+	<string name="Type_Name">Išči</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metričnih enotah</string>
+	<string name="Units_US">AMERIŠKE merske enote</string>
+	<string name="Upgrade">Nadgradnja</string>
+	<string name="weight_gram">teža (g)</string>
+	<string name="InvalidEmailError">Neveljaven e-poštni naslov</string>
+	<string name="NoGoalsTitle">Vse postavke</string>
+	<string name="SendReportTitle">Pošlji poročilo</string>
+	<string name="DeleteEntryMessage">Ali želite izbrisati ta vnos\?</string>
+	<string name="NewBody">Številne izboljšave, ki so vključeni: ugotavlja, več hrane, boljša design in še več.
+Travnato gričevje zakaj prost\?</string>
+	<string name="NewTitle">Različica 2.0, ki so zdaj na voljo!</string>
+</resources>

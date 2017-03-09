@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Friday" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EYs-A1-Lyg">
+                    <rect key="frame" x="15" y="8" width="90" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="ht1-cy-QX7"/>
+                        <constraint firstAttribute="width" constant="90" id="tPO-kr-kgy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow.png" translatesAutoresizingMaskIntoConstraints="NO" id="s9P-VS-gZn">
+                    <rect key="frame" x="297" y="13" width="8" height="12"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="8" id="6M4-Gg-46g"/>
+                        <constraint firstAttribute="height" constant="12" id="kqN-Ki-ie5"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sep 15" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XZZ-Th-WdF">
+                    <rect key="frame" x="221" y="8" width="68" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="68" id="N7O-e6-wSC"/>
+                        <constraint firstAttribute="height" constant="21" id="gIs-t2-pAf"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="17"/>
+                    <color key="textColor" white="0.33333333333333331" alpha="0.71999999999999997" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="^300" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XqM-Zi-49t">
+                    <rect key="frame" x="269" y="37" width="36" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="36" id="4ai-Yl-Wvn"/>
+                        <constraint firstAttribute="height" constant="21" id="E9e-Nh-3ZO"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" tag="3" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2500" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XSz-Oe-tLv">
+                    <rect key="frame" x="202" y="36" width="67" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="Zem-Ac-pwE"/>
+                        <constraint firstAttribute="width" constant="67" id="xNI-0n-Phu"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                    <color key="textColor" red="0.023529411760000001" green="0.40784313729999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="XqM-Zi-49t" secondAttribute="trailing" constant="15" id="EdB-Bm-wwv"/>
+                <constraint firstItem="s9P-VS-gZn" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="13" id="GPj-Wb-37f"/>
+                <constraint firstItem="XZZ-Th-WdF" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="8" id="GyP-KQ-6SP"/>
+                <constraint firstItem="EYs-A1-Lyg" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="8" id="KJG-F0-mW4"/>
+                <constraint firstItem="XqM-Zi-49t" firstAttribute="leading" secondItem="XSz-Oe-tLv" secondAttribute="trailing" id="ZWK-e9-Fk0"/>
+                <constraint firstItem="EYs-A1-Lyg" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="15" id="o15-H2-ewZ"/>
+                <constraint firstAttribute="trailing" secondItem="s9P-VS-gZn" secondAttribute="trailing" constant="15" id="qKn-Ja-hVQ"/>
+                <constraint firstItem="s9P-VS-gZn" firstAttribute="leading" secondItem="XZZ-Th-WdF" secondAttribute="trailing" constant="8" id="ubi-pg-2o7"/>
+                <constraint firstItem="XqM-Zi-49t" firstAttribute="top" secondItem="XZZ-Th-WdF" secondAttribute="bottom" constant="8" id="xFb-4V-nHD"/>
+                <constraint firstItem="XSz-Oe-tLv" firstAttribute="top" secondItem="XZZ-Th-WdF" secondAttribute="bottom" constant="7" id="ydF-ee-L6R"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="253" y="-1490"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="arrow.png" width="16" height="25"/>
+    </resources>
+</document>

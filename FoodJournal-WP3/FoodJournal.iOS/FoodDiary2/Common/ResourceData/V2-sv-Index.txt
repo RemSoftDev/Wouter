@@ -1,0 +1,1097 @@
+﻿Row	Meal	Name	Brand	Pos
+0	B	Kaffe		33
+1	B	Bröd		141
+2	B	Ägg		405
+3	S	Kaffe		553
+4	B	Havregryn		661
+5	L	Kyckling		774
+6	B	1% mjölk		944
+7	D	Potatis		1071
+8	D	Tomat		1299
+9	L	Bröd		1562
+10	S	Banan		1826
+11	D	Bröd		2099
+12	B	Helmjölk		2364
+13	L	Kaffe		2522
+14	B	Skinka		2631
+15	S	Bröd		2763
+16	L	Tomat		3028
+17	L	Ägg		3292
+18	B	Banan		3441
+19	B	Saltat smör		3714
+20	D	Kyckling		3888
+21	B	Te		4059
+22	B	2% mjölk		4132
+23	L	Potatis		4282
+24	L	Gurka		4511
+25	D	Gurka		4646
+26	B	Låg fett fruktyoghurt		4781
+27	B	Cheddarost		4938
+28	B	Rågbröd		5091
+29	L	Grön sallad		5341
+30	D	Vitt ris		5580
+31	D	Nötkött		5688
+32	S	Ägg		5857
+33	L	Morot		6006
+34	L	Köttfärs (75/25)		6172
+35	D	Isbergssallad		6274
+36	L	Vitt ris		6523
+37	B	Gurka		6631
+38	D	Ägg		6766
+39	S	Apple		6915
+40	D	Grön sallad		7013
+41	B	Tomat		7252
+42	D	Köttfärs (75/25)		7516
+43	D	Lax		7618
+44	S	Te		7753
+45	L	Isbergssallad		7826
+46	D	Sås		8075
+47	D	Morot		8200
+48	S	Mjölkchoklad		8366
+49	D	Lök		8473
+50	L	Banan		8667
+51	B	Margarin		8940
+52	L	Lax		9105
+53	S	2% mjölk		9240
+54	S	Kex		9390
+55	S	Helmjölk		9521
+56	B	Knäckebröd		9679
+57	S	Kanelbulle		9803
+58	B	Lätta		9935
+59	L	Skinka		9971
+60	S	Cashewnötter		10103
+61	B	Låg fett müsli med russin		10211
+62	D	Makaroner		10327
+63	L	Olivolja		10428
+64	L	Kokt potatis		10498
+65	D	Kycklingbröst		10642
+66	L	Crème fraiche		10763
+67	S	Päron		10869
+68	B	Kvarg		11008
+69	D	Saltat smör		11041
+70	B	Lantgoda surdegsbröd		11215
+71	L	1% mjölk		11250
+72	D	Olivolja		11378
+73	S	Hårt godis		11448
+74	S	Låg fett fruktyoghurt		11534
+75	D	Crème fraiche		11691
+76	D	Avokado		11797
+77	D	1% mjölk		11924
+78	B	Franskt bröd		12052
+79	D	Korv		12205
+80	B	Bregott		12339
+81	S	Skinka		12386
+82	L	Broccoli		12518
+83	S	Apelsin		12546
+84	L	Avokado		12580
+85	S	Vitt vin		12707
+86	L	Cheddarost		12793
+87	D	Cheddarost		12946
+88	D	Kaffe		13099
+89	S	Saltat smör		13208
+90	B	Ost		13382
+91	S	Sockerkaka		13401
+92	B	Avokado		13547
+93	B	Mjukost		13674
+94	B	Goudaost		13798
+95	L	Korv		13827
+96	D	Gräddfil		13961
+97	D	Skinka		14085
+98	S	Cheddarost		14217
+99	L	Fetaost		14370
+100	B	Honung		14414
+101	D	Mozzarellaost		14518
+102	D	Rött vin		14667
+103	L	Räkor		14758
+104	L	Helmjölk		14878
+105	D	Vitt vin		15037
+106	B	Blåbär		15124
+107	D	Pasta		15252
+108	B	Apelsinjuice koncentrat		15273
+109	L	Cashewnötter		15394
+110	D	Knäckebröd		15503
+111	S	Knäckebröd		15628
+112	B	Svecia		15753
+113	D	Paprika		15788
+114	L	Makaroner		15820
+115	D	Nötfärs		15922
+116	L	Keso		15954
+117	D	Blandade grönsaker		15993
+118	B	Yougurt		16093
+119	B	Müsli		16147
+120	D	Broccoli		16204
+121	B	Kaviar		16233
+122	B	Keso		16281
+123	D	Helmjölk		16320
+124	B	Hel-vete bröd		16479
+125	L	Apple		16664
+126	L	Saltat smör		16763
+127	L	Knäckebröd		16938
+128	D	Majs		17063
+129	D	Potatismos		17326
+130	B	Korv		17427
+131	D	Smörolja		17562
+132	L	Blandade grönsaker		17711
+133	L	Te		17811
+134	L	Sås		17885
+135	D	Ost		18011
+136	L	Blandfärs		18031
+137	D	Fetaost		18052
+138	S	Choklad glass		18097
+139	L	Nötkött		18215
+140	S	Kvarg		18385
+141	S	Mandel		18419
+142	L	Pasta		18534
+143	B	Äppelmos		18555
+144	D	Pizza		18655
+145	B	Strösocker		18697
+146	B	Äppeljuice		18767
+147	L	Lök		18883
+148	L	Kvarg		19078
+149	B	Havre		19112
+150	B	Solrosfrön		19205
+151	B	Hallon		19309
+152	B	Havregrynsgröt		19355
+153	S	Ost		19388
+154	D	Räkor		19408
+155	L	Köttbullar		19528
+156	L	Majs		19549
+157	B	Blandfärs		19812
+158	B	Filmjölk		19833
+159	B	Kalles kaviar		19895
+160	B	Yoghurt		19940
+161	B	Fil		19959
+162	S	Vaniljglass		20000
+163	D	Pannkaka		20115
+164	D	Varmkorv		20254
+165	L	Gräddfil		20362
+166	D	Banan		20487
+167	D	2% mjölk		20761
+168	B	Vitt bröd		20912
+169	L	Potatismos		21144
+170	L	2% mjölk		21245
+171	B	Apple		21396
+172	S	Strösocker		21495
+173	D	Kvarg		21565
+174	D	Margarin		21599
+175	S	Potatis		21765
+176	L	Låg fett fruktyoghurt		21995
+177	D	Hamburgare		22153
+178	B	Olivolja		22254
+179	D	Bregott		22325
+180	L	Honung		22373
+181	L	Paprika		22477
+182	L	Rågbröd		22509
+183	B	Smör		22760
+184	B	Låg fetthalt vanilj yoghurt		22788
+185	D	Köttbullar		22935
+186	B	Äggvita		22956
+187	D	Gröna ärtor		22993
+188	L	Hamburgare		23095
+189	S	Kokosolja		23196
+190	L	Kycklingbröst		23278
+191	D	Grillad fläskkarré		23400
+192	S	Gurka		23500
+193	S	Tunga vispgrädde		23636
+194	L	Kassler		23744
+195	S	Äppelpaj		23764
+196	L	Salladsdressing med majonnäs		23920
+197	B	A-fil		24030
+198	B	Crème fraiche		24094
+199	B	Gröt		24201
+200	S	Chokladkaka		24242
+201	S	Tomat		24355
+202	S	Keso		24620
+203	D	Avokado (livsmedelsverket)		24659
+204	S	Honung		24697
+205	D	Kokt potatis		24801
+206	L	Vitt bröd		24946
+207	D	Bacon		25178
+208	B	Schweizisk ost		25206
+209	B	Naturell yoghurt		25353
+210	L	Bregott		25399
+211	S	Margarin		25447
+212	B	Supergröt blåbär & hallon		25613
+213	D	Bakad potatis		25667
+214	D	Rostbiff		25816
+215	D	Rågbröd		25861
+216	L	Mozzarellaost		26112
+217	L	Ost		26261
+218	B	Pumpafrön		26281
+219	B	Hushållsost		26312
+220	B	Leverpastej		26333
+221	L	Lätta		26372
+222	L	Gröna ärtor		26409
+223	B	Linfrön		26511
+224	S	Morot		26549
+225	S	Ostbågar		26716
+226	D	Strösocker		26851
+227	L	Smörolja		26921
+228	B	Majs		27070
+229	S	Druvor		27333
+230	D	Vitt bröd		27491
+231	D	Hackat fläskkött		27723
+232	L	Varmkorv		27829
+233	B	Apelsin		27937
+234	L	Vlcd		27972
+235	S	Avokado		28000
+236	L	Brunt ris		28128
+237	D	Apple		28225
+238	S	Coca Cola		28324
+239	D	Kycklingfilé, Kronfågel		28345
+240	B	Skinkost		28381
+241	L	Rå spenat		28424
+242	B	Snabbkaffe		28572
+243	S	Clementin		28621
+244	S	Apelsinjuice koncentrat		28656
+245	D	Stekt ägg		28777
+246	S	Valnöt		28926
+247	B	Smörolja		29029
+248	L	Havregryn		29178
+249	B	Potatis		29293
+250	S	Rågbröd		29523
+251	D	Te		29774
+252	D	Blandfärs		29848
+253	B	Digestivekex		29869
+254	B	Bacon		29889
+255	B	Havremjölk		29917
+256	S	Havregryn		29960
+257	D	Apelsin		30075
+258	L	Kycklingfilé, Kronfågel		30110
+259	L	Apelsin		30146
+260	S	Blåbär		30181
+261	B	Päron		30309
+262	B	Kassler		30449
+263	D	Goudaost		30469
+264	L	Svecia		30499
+265	S	Olivolja		30534
+266	L	Pannkaka		30605
+267	L	Margarin		30744
+268	S	Crème fraiche		30910
+269	S	Naturell yoghurt		31017
+270	D	Mjölkchoklad		31063
+271	B	Kiwi		31171
+272	L	Goudaost		31210
+273	S	Chips		31240
+274	L	Smör		31260
+275	L	Kål		31288
+276	L	Pizza		31551
+277	L	Risenta müsli		31593
+278	B	Kalkonbröst		31628
+279	B	Turkisk yoghurt		31765
+280	L	Kanelbulle		31812
+281	S	Jordgubb		31945
+282	D	Tonfisk		32125
+283	D	Tunga vispgrädde		32159
+284	D	Nudlar		32267
+285	B	Tunga vispgrädde		32379
+286	S	Vitt bröd		32487
+287	B	Lingonsylt		32719
+288	L	Bacon		32753
+289	L	Hel-vete bröd		32781
+290	L	Låg fetthalt vanilj yoghurt		32966
+291	L	Nudlar		33113
+292	L	Rostbiff		33225
+293	L	Valnöt		33270
+294	D	Kanelbulle		33373
+295	L	Champinjoner		33506
+296	B	Oboy		33539
+297	S	1% mjölk		33570
+298	S	Gainer		33699
+299	D	Kål		33737
+300	B	Müsli med russin		34000
+301	L	Lantgoda surdegsbröd		34034
+302	B	Äggröra		34070
+303	L	Stekt ägg		34221
+304	L	Vit svamp		34370
+305	D	Hårt godis		34483
+306	B	Tea		34570
+307	L	Hårt godis		34634
+308	S	Pepparkaka		34721
+309	S	Rött vin		34752
+310	B	Sill		34843
+311	B	Chiafrön		35014
+312	D	Vaniljglass		35054
+313	D	Franskt bröd		35169
+314	D	Keso		35323
+315	B	Apelsinjuice med kalcium		35362
+316	B	Lättmjölk		35482
+317	B	Stekt ägg		35519
+318	D	Salladsdressing med majonnäs		35668
+319	D	Blomkål		35778
+320	B	Valnöt		35805
+321	L	Falukorv		35908
+322	S	Riskaka		35946
+323	B	Mandel		35986
+324	S	Äppel		36101
+325	D	Kycklingfilé		36122
+326	S	Smörolja		36160
+327	S	Vindruvor		36309
+328	B	Laktosfri filmjölk		36330
+329	B	Keso (med Låg Fetthalt 1% Mjölkfett)		36373
+330	B	Paprika		36406
+331	B	Färsk apelsinjuice		36438
+332	B	Ljus låg fett fruktyoghurt		36562
+333	B	Apelsinjuice		36701
+334	L	Blåbär		36736
+335	L	Tonfisk		36864
+336	L	Strösocker		36898
+337	L	Jordgubb		36968
+338	S	Nyponsoppa		37148
+339	S	Semla		37170
+340	B	Köttbullar		37191
+341	L	Omelett		37212
+342	L	Pyttipanna		37250
+343	S	Popcorn		37271
+344	D	Grädde		37302
+345	D	Chokladkaka		37323
+346	S	Russin		37436
+347	S	Korv		37615
+348	S	Goudaost		37750
+349	D	Smörgåsrån		37780
+350	S	Cappuccino, stor		37809
+351	S	Stekt ägg		37849
+352	B	Morot		37998
+353	B	Roast'nToast		38165
+354	B	Mannagrynsgröt		38202
+355	B	Jordnötssmör		38242
+356	B	Hallonsylt		38338
+357	L	Tunga vispgrädde		38364
+358	S	Isbergssallad		38472
+359	S	Pannkaka		38722
+360	S	Bregott		38861
+361	S	Bacon		38909
+362	S	Låg fetthalt vanilj yoghurt		38937
+363	L	Hushållsost		39084
+364	L	Nötfärs		39105
+365	L	Nyponsoppa		39137
+366	L	Hallon		39159
+367	L	Blomkål		39205
+368	L	Surskorpa		39232
+369	D	Vita bönor		39271
+370	D	Skinkost		39323
+371	B	Proviva		39366
+372	B	Lax		39404
+373	L	Makrill		39540
+374	L	Kokosmjölk		39568
+375	L	Chokladkaka		39598
+376	L	Päron		39711
+377	D	Chips		39851
+378	B	Broccoli		39871
+379	D	Havregrynsgröt		39900
+380	D	Hushållsost		39933
+381	D	Schweizisk ost		39954
+382	D	Vlcd		40101
+383	D	Kassler		40129
+384	D	Frysta gröna ärtor		40149
+385	D	Rå spenat		40253
+386	B	Mjölkchoklad		40401
+387	D	Äppelmos		40509
+388	B	Egg		40609
+389	B	Kokosmjölk		40708
+390	B	Choklad lättmjölk		40738
+391	B	Tacochips		40880
+392	B	Majonnäs		40901
+393	B	Russin		40938
+394	S	Lax		41117
+395	S	Lätta		41253
+396	S	Blandade nötter		41290
+397	S	Mandarin		41401
+398	L	Sockerkaka		41423
+399	L	Fruktyoghurt		41570
+400	L	Sallad		41659
+401	L	Makrill i tomatsås		41702
+402	L	Grädde		41746
+403	L	Mjukost		41767
+404	D	Majonäs		41892
+405	L	Kycklingfilé		41925
+406	D	Majschips		41963
+407	D	Smör		42076
+408	D	Kycklingklubba		42104
+409	B	1,5% mjölk		42291
+410	S	Makrill i tomatsås		42392
+411	D	Kalkonbröst		42436
+412	D	Låg fett fruktyoghurt		42573
+413	S	Prinsesstårta		42731
+414	B	Linfrö		42765
+415	D	Tortilla Bröd		42796
+416	D	Cashewnötter		42822
+417	L	Majonnäs		42931
+418	D	Hamburgare, Big Star		42968
+419	D	Pumpafrön		43006
+420	S	Schweizisk ost		43037
+421	S	Vitt ris		43184
+422	S	Smör		43293
+423	S	Äppelmos		43321
+424	L	Grillkorv, finsk		43421
+425	L	Rökt skinka		43456
+426	L	Lingonsylt		43483
+427	L	Grillad fläskkarré		43517
+428	L	Äppeljuice		43617
+429	L	Ostsås		43733
+430	S	Kokt potatis		43847
+431	L	Schweizisk ost		43992
+432	B	Juice		44139
+433	B	Mellanmjölk		44166
+434	B	Coffee		44246
+435	B	Salami		44282
+436	B	Pannkaka		44335
+437	S	Gräddfil		44474
+438	D	Ostsås		44599
+439	S	Fil		44713
+440	D	Havrekuddar		44754
+441	S	Kiwi		44798
+442	D	Jordgubb		44837
+443	D	Lingonsylt		45017
+444	D	Svecia		45051
+445	D	Rapsolja		45086
+446	D	Korvbröd		45159
+447	S	Broccoli		45212
+448	S	Vattenmelon		45241
+449	S	Mozzarellaost		45433
+450	S	Mjukglass		45582
+451	S	Kyckling		45623
+452	B	Smoothie		45795
+453	L	Skinkost		45815
+454	L	Roast'nToast		45858
+455	L	Lättmjölk		45895
+456	L	Turkisk yoghurt		45932
+457	L	Vitt vin		45979
+458	L	Nutrilett		46066
+459	L	Fil		46102
+460	B	Rökt skinka		46143
+461	S	Bakning choklad		46170
+462	B	Nyponsoppa		46271
+463	S	Hamburgare		46293
+464	B	Kanelbulle		46394
+465	B	Grön sallad		46527
+466	L	Kalles kaviar		46767
+467	S	Majschips		46812
+468	D	Sill		46925
+469	L	Riskakor		47096
+470	B	Frysta jordgubbar		47117
+471	L	Gravad lax		47286
+472	B	Bread		47325
+473	L	Salami		47427
+474	L	Mjölkchoklad		47480
+475	B	Kex Choklad		47588
+476	B	Oatmeal		47628
+477	S	Paprika		47722
+478	S	Äppeljuice		47754
+479	S	Kassler		47870
+480	S	Smörgåsrån		47890
+481	B	Grönt te		47919
+482	S	Lantgoda surdegsbröd		47985
+483	B	Gräddost		48021
+484	B	Macka		48052
+485	B	Jordgubbssylt		48087
+486	S	Kycklingbröst		48108
+487	L	Vita bönor		48230
+488	D	Semla		48282
+489	D	Potatissallad		48303
+490	D	Havregryn		48324
+491	L	Rapsolja		48439
+492	L	Apelsinjuice koncentrat		48512
+493	D	Riskakor		48633
+494	L	Kaviar		48654
+495	D	Pyttipanna		48702
+496	L	Smoothie		48723
+497	L	A-fil		48743
+498	B	Ananas		48807
+499	B	Lätt Kvarg (Garant)		48973
+500	B	Brieost		49002
+501	B	Cashewnötter		49030
+502	L	Äppelpaj		49139
+503	D	Riven ost		49295
+504	D	Gris- och nötkött korv		49315
+505	D	Soppa		49426
+506	D	Lantgoda surdegsbröd		49446
+507	D	Lätta		49482
+508	B	Proteinpulver		49519
+509	L	Yoghurt		49559
+510	B	Havrekli		49578
+511	D	Majonnäs		49681
+512	D	Flingor		49718
+513	B	Clementin		49743
+514	B	Tonfisk		49778
+515	L	Choklad glass		49812
+516	B	Lättfil		49930
+517	B	Fullkorn totala		49968
+518	B	Flingor		50088
+519	B	Jordgubb		50113
+520	B	Rågflingor		50293
+521	B	Vlcd		50330
+522	D	Apelsinjuice koncentrat		50358
+523	S	Proteinshake		50479
+524	S	Hallon		50518
+525	S	Yoghurt		50564
+526	S	Röd paprika		50583
+527	S	Biskvi		50623
+528	S	Hushållsost		50644
+529	S	Digestive		50665
+530	S	Proteinpulver		50700
+531	S	Vlcd		50740
+532	L	Mango		50768
+533	L	Frysta gröna ärtor		50790
+534	S	Leverkorv		50894
+535	D	Solrosfrön		50931
+536	D	Kex Choklad		51035
+537	L	Soppa		51075
+538	L	Tortilla Bröd		51095
+539	L	Semla		51121
+540	D	Clementin		51142
+541	L	Kex		51177
+542	D	Digestivekex		51309
+543	L	Risgrynsgröt		51329
+544	L	Tacochips		51375
+545	D	Kycklingfärs		51396
+546	D	Tomatpuré		51432
+547	D	Falukorv		51548
+548	D	Champinjoner		51586
+549	L	Avokado (livsmedelsverket)		51619
+550	D	Leverpastej		51657
+551	B	Chokladkaka		51696
+552	D	Ljus låg fett fruktyoghurt		51809
+553	B	Marmelad		51948
+554	B	Gräddfil		51968
+555	B	Hackat fläskkött		52093
+556	B	Rostbiff		52199
+557	B	Proteinshake		52244
+558	D	Riskaka		52283
+559	B	Kaffe Med Mjölk		52323
+560	L	Banana		52448
+561	L	Tea		52543
+562	L	Vaniljglass		52607
+563	L	Frysta jordgubbar		52722
+564	L	Solrosfrön		52891
+565	L	Pytt I Panna		52995
+566	L	Popcorn		53016
+567	L	Flingor		53047
+568	B	Naturell jogurt		53072
+569	B	Limpa		53104
+570	B	Smörgås		53125
+571	B	Havrekuddar		53215
+572	D	Sockerkaka		53259
+573	B	Tortilla Bröd		53406
+574	B	Semla		53432
+575	B	Kokosolja		53453
+576	B	Nutrilett		53535
+577	B	Köttfärs (75/25)		53571
+578	B	Sockerkaka		53674
+579	B	Hårt godis		53821
+580	B	Banana		53908
+581	B	Porridge		54003
+582	D	Äppeljuice		54087
+583	B	Mandarin		54203
+584	B	Medwurst		54225
+585	S	Multi grain bröd		54262
+586	L	Potatissallad		54505
+587	L	Vispgrädde		54526
+588	S	Blandfärs		54644
+589	S	Ostskiva		54665
+590	S	Naturdiet		54686
+591	S	Redbull		54707
+592	S	Vete kex		54729
+593	S	Salta Pinnar		54855
+594	S	Gräddost		54876
+595	S	Leverpastej		54907
+596	S	Frysta jordgubbar		54946
+597	D	Roast'nToast		55115
+598	S	Bar		55152
+599	D	Risgrynsgröt		55180
+600	D	Linfrön		55226
+601	D	Selleri		55264
+602	D	Hallon		55450
+603	D	Äggröra		55496
+604	D	Barbecuesås		55647
+605	D	Vit svamp		55752
+606	D	Nyponsoppa		55865
+607	D	Rödlök		55887
+608	S	Räkor		55906
+609	S	Plommon		56026
+610	S	Lättmjölk		56067
+611	S	Svecia		56104
+612	S	Tårta		56139
+613	S	Varmkorv		56159
+614	S	Riskakor		56267
+615	S	Makaroner		56288
+616	L	Hamburgare, Big Star		56390
+617	S	Skorpa		56428
+618	L	Ananas		56449
+619	L	Kaffe Med Mjölk		56615
+620	S	Saft		56740
+621	L	Röd paprika		56762
+622	L	Quinoa		56802
+623	L	Granola		56841
+624	S	Sås		56885
+625	D	Prinskorv		57011
+626	L	Leverpastej		57032
+627	D	Makrill		57071
+628	D	Ananas		57099
+629	D	Honung		57265
+630	D	Blåbär		57369
+631	L	Hackat fläskkött		57497
+632	S	Lakrits		57603
+633	D	Röd paprika		57641
+634	L	Filmjölk		57681
+635	D	Druvor		57743
+636	L	Tomatpuré		57901
+637	D	Brunt ris		58017
+638	L	Gris- och nötkött korv		58114
+639	L	Proviva		58225
+640	D	Müsli		58263
+641	L	Chips		58320
+642	B	Hårdost		58340
+643	L	Apelsinjuice		58366
+644	L	Sylt		58401
+645	B	Frysta Hallon		58422
+646	B	Röd paprika		58450
+647	B	Redbull		58490
+648	B	Leverkorv		58512
+649	B	Chia		58549
+650	B	Salta Pinnar		58585
+651	B	Sesamfrön		58606
+652	B	Blåbärs soppa		58641
+653	B	Kex		58661
+654	B	Bar		58793
+655	L	Senap		58821
+656	L	Nutrilett bar		58861
+657	B	Välling		58893
+658	B	Kycklingbröst		58925
+659	L	Meatballs, meatless		59047
+660	B	Grekisk yoghurt		59135
+661	B	Fazer Rågform		59166
+662	B	Vitt ris		59206
+663	B	Isbergssallad		59315
+664	B	Lök		59565
+665	L	Mysli		59760
+666	S	Majs		59780
+667	S	Apelsinjuice med kalcium		60043
+668	S	Havre		60163
+669	S	Kycklingfilé		60256
+670	S	Skyr		60294
+671	S	Flingor		60330
+672	S	Vispgrädde		60355
+673	S	Risifrutti		60473
+674	S	Ljus låg fett fruktyoghurt		60493
+675	S	Rostade jordnötter		60632
+676	S	Salami		60749
+677	S	Supergröt blåbär & hallon		60802
+678	S	Pasta		60856
+679	S	Naturell jogurt		60877
+680	S	Limpa		60909
+681	S	Sesamfrön		60930
+682	S	Snickers		60965
+683	S	Frysta Hallon		61074
+684	S	Digestivekex		61102
+685	S	Nötkött		61122
+686	S	Mango		61292
+687	S	Banana		61314
+688	B	Riskakor		61409
+689	S	Egg		61430
+690	B	Majonäs		61529
+691	B	Ostskiva		61562
+692	B	Blåbärssoppa		61583
+693	B	Shake		61605
+694	B	Grädde		61659
+695	B	Vit svamp		61680
+696	B	2% milk		61793
+697	B	Risgrynsgröt		61890
+698	B	Mozzarellaost		61936
+699	B	Grapefrukt		62085
+700	S	Grön sallad		62112
+701	S	Smoothie		62352
+702	S	Köttbullar		62372
+703	S	Makrill		62393
+704	S	Cola		62421
+705	S	Socker		62480
+706	S	1,5% mjölk		62566
+707	S	Mannagrynsgröt		62667
+708	S	Proteinbar		62707
+709	S	Choklad lättmjölk		62743
+710	S	Avocado		62885
+711	S	Wienerbröd		62924
+712	S	Färsk apelsinjuice		62945
+713	S	Havremjölk		63069
+714	S	Omelett		63112
+715	S	Pizza		63150
+716	S	Protein shake		63192
+717	S	Ädelost		63223
+718	S	Salladsdressing med majonnäs		63326
+719	S	Kaka		63436
+720	S	Persika		63467
+721	S	Rödlök		63626
+722	S	Köttfärs (75/25)		63645
+723	S	Brieost		63748
+724	S	Kalkonbröst		63776
+725	S	Havregrynsgröt		63913
+726	S	Coffee		63946
+727	S	Filmjölk		63982
+728	S	Blåbärssoppa		64044
+729	S	Grönkål		64066
+730	S	Kycklingklubba		64170
+731	S	Välling		64357
+732	S	Grädde		64389
+733	D	Öl		64410
+734	D	Burk tomatsås		64532
+735	S	Konserverad fruktdrink		64670
+736	D	Fläskkotletter		64791
+737	L	Fläskkotletter		64899
+738	D	Hönsbuljong		65007
+739	L	Burk tomatsås		65146
+740	L	Stekt kyckling		65284
+741	D	Pommes frites		65442
+742	L	Vatten på flaska		65601
+743	D	Rostade jordnötter		65713
+744	L	Cantaloupemelon		65858
+745	L	Romansallad		66058
+746	L	Rostad kalkon		66323
+747	S	Burk tomatsås		66449
+748	D	Stekt fläskkarré		66587
+749	D	Ugn pommes frites		66693
+750	D	Ugnsbakad sötpotatis		66853
+751	L	Vattenmelon		66990
+752	D	Vitt bröd mjöl		67186
+753	L	Sill		67298
+754	S	Pommes frites		67492
+755	D	Sötpotatis		67651
+756	D	Sparris		67784
+757	D	Kålrot greener		67911
+758	L	Kalkonbröst		68025
+759	L	Linser		68173
+760	L	Majschips		68301
+761	S	Jordnötter M & Ms		68429
+762	D	Kranvatten		68604
+763	L	Kranvatten		68715
+764	S	Karameller		68826
+765	S	Gräddan av svampsoppa		68969
+766	L	Franskt bröd		69113
+767	S	Fläskkotletter		69279
+768	L	Pommes frites		69387
+769	D	Parmesanost		69546
+770	L	Äpple		69672
+771	D	Rostat bröd		69843
+772	L	Ångbehandlat ris		70044
+773		Majsbröd		70095
+774		Fröknäcke		70116
+775		Färskost		70158
+776		3% mjölk		70178
+777		Vispgrädde 40%		70285
+778		Rökt lax		70319
+779		Hårdkokta ägg		70355
+780		Fullkornsbröd		70501
+781		Lingongrova		70544
+782		Rågflingegröt		70600
+783		Keso mini		70638
+784		Muffins		70677
+785		Bregott Mellan		70698
+786		Lätt Fil		70730
+787		Finn crisp		70774
+788		Nektarin		70810
+789		Lantbröd		70830
+790		Grillkorv		70864
+791		Whey		70884
+792		Varma koppen		70929
+793		Havregröt		70949
+794		Ströbröd		70998
+795		Kikärter		71052
+796		Minibaguette		71073
+797		Tranbärsjuice		71106
+798		Våfflor		71220
+799		Kycklingsallad		71261
+800		Vårrullar		71282
+801		Tårta mjöl		71322
+802		Risnudlar		71422
+803		Körsbär		71443
+804		Kalkonpålägg		71465
+805		Skyr Blodapelsin		71487
+806		Räksallad		71529
+807		Caffe latte		71557
+808		Tunnbröd		71578
+809		Satsumas		71610
+810		Cornflakes		71648
+811		Havrefras		71688
+812		Kakaopulver		71719
+813		Skagenröra		71835
+814		Hasselnötter		71855
+815		Krusbär		71895
+816		Kycklinglår		71936
+817		Rökt kalkon		71965
+818		Sojamjölk		71986
+819		Körsbärstomat		72021
+820		Konserverade tomater		72055
+821		Rysk yoghurt		72179
+822		Salta kex		72211
+823		Philadelphia		72241
+824		Getost		72262
+825		Vetemjöl		72299
+826		Fisk pinnar		72339
+827		Kalkon Skinka		72467
+828		Smörgåstårta		72496
+829		Bran flakes		72516
+830		Kebabtallrik		72553
+831		Hönökaka		72574
+832		Corn flakes		72612
+833		Chevré		72719
+834		Special K		72754
+835		Wasa sandwich		72792
+836		Persilja		72812
+837		Pastej		72932
+838		Fruktyoghurt 2,5%		72962
+839		Hamburgerdressing		72998
+840		Hårt bröd		73037
+841		Köttsoppa		73136
+842		Chorizo		73156
+843		Surdegstoastbröd, ljust		73195
+844		Munk		73232
+845		Grekisk laktosfri yoghurt		73253
+846		Blåbärssylt		73290
+847		Matlagningsgrädde		73327
+848		Kefir		73363
+849		Herbalife		73402
+850		Coca Cola Zero		73422
+851		Delicatoboll		73444
+852		Cheddar cheese		73482
+853		Crunchy		73576
+854		Amerikanska pannkakor		73609
+855		Toast		73649
+856		Havreyoghurt		73741
+857		Cream Fraiche		73763
+858		Gelé		73784
+859		Reissumies		73862
+860		Pirog		73883
+861		Glutenfritt bröd		73923
+862		Gainomax Protein		73993
+863		Fit kvark		74032
+864		Pinjenötter		74067
+865		Rökt Makrill		74104
+866		Valnötter		74137
+867		Frostat flingor		74158
+868		Energi dryck		74271
+869		Choklad mjölk		74293
+870		Protein drink		74426
+871		Yoghurt 3%		74456
+872		Weetabix		74485
+873		Tårtbit		74506
+874		Sirap		74527
+875		Ljus grädde		74557
+876		1% milk		74691
+877		Smörgås Med Smör Och Pålägg		74788
+878		Näringsdryck		74809
+879		Fiberhusk		74830
+880		Frukost		74858
+881		Falu Rågrut		74879
+882		Gul paprika		74899
+883		Modifast		74932
+884		Äggula		74967
+885		Bagel		75081
+886		Low fat fruit yogurt		75101
+887		1.5% mjölk		75198
+888		Cream cheese		75298
+889		Lime		75335
+890		Kornbröd		75380
+891		Smothy		75502
+892		Matjesill		75531
+893		Olja rostade blandade nötter		75560
+894		Vita bönor med fläsk och tomat sås		75669
+895		0.5% mjölk		75772
+896		Kvarg vanilj		75815
+897		Renskav		75843
+898		Fikon		75930
+899		Rostade solrosfrön		75951
+900		Låg fett yoghurt		76054
+901		Yoggi mini		76088
+902		Knäcke bröd		76108
+903		Äpplemos		76140
+904		M & Ms		76160
+905		Bana		76317
+906		Oboy Med Mjölk		76413
+907		Havre kli spannmål		76434
+908		Vårlök		76550
+909		Frysta Blåbär		76695
+910		Yogurt, Greek, plain, nonfat		76727
+911		Vispad smör		76812
+912		Provoloneost		76984
+913		Amerikansk ost		77153
+914		Våt mozzarellaost		77325
+915		Minskad fetthalt ost		77492
+916		Låg fetthalt amerikansk ost		77655
+917		Låg fetthalt schweizisk ost		77817
+918		Rå vitkål		77980
+919		Fryst majs		78263
+920		Kokt morot		78506
+921		Fryst morot		78695
+922		Kokt lök		78886
+923		Panerad kyckling		79116
+924		Fettsnål cheddarost		79276
+925		Låg fett vegetabilisk olja sprids		79436
+926		Rostad kycklingkött		79602
+927		Stuvad kyckling		79755
+928		Ättikslag		79908
+929		Kokta tomater		80093
+930		Stuvade burktomater		80320
+931		Ringdiagram		80545
+932		Sojasås		80736
+933		Italienskt bröd		80894
+934		Ost knäckt		81093
+935		Kex med jordnötssmör		81242
+936		Jordnötter saltade		81391
+937		Rostade jordnötter saltade		81542
+938		Röda kidneybönor		81689
+939		Konserverad ljus tonfisk		81824
+940		Gelékarameller		81969
+941		Bakpulver		82109
+942		Jäst		82227
+943		Brunt socker		82359
+944		Tomatjuice		82494
+945		Potatis puffar		82643
+946		Potatis i huden		82793
+947		Konserverad grönsaksjuice		82961
+948		Burk sötpotatis		83109
+949		Konserverad morotsjuice		83244
+950		Bakad potatis med skal		83391
+951		Skållade mandlar		83562
+952		Rostade mandlar		83710
+953		Salta Rostade mandlar		83857
+954		Koffeinfritt kaffe		84006
+955		Lättöl		84131
+956		Berikad fruktdrink		84250
+957		Lemonad		84382
+958		Koffeinfritt te		84523
+959		Frukt smaksatt vatten		84652
+960		Berikad frukt smaksatt vatten		84770
+961		Konserverade räkor		84886
+962		Musslor		85016
+963		Konserverade musslor		85143
+964		Majsolja		85274
+965		Vegetabilisk olja sprids		85392
+966		Vegetabilisk olja		85524
+967		Industriella sojaolja		85646
+968		Industriella soja och bomullsfröolja		85764
+969		Hela choklad mjölk		85882
+970		Grädde substitut		86033
+971		Befäst låg fett fruktyoghurt		86163
+972		Ljus befästa låg fett fruktyoghurt		86319
+973		Chilipulver		86471
+974		Kyckling lår		86611
+975		Jordnötsolja		86766
+976		Sojaolja		86879
+977		Kycklingben		86998
+978		Nötkött buljong		87166
+979		Kyckling nudelsoppa		87301
+980		Ljus kött Turkiet rulle		87445
+981		Turkiet rulle		87590
+982		Äppeljuice med c-vitamin		87728
+983		Apelsinjuice fryst koncentrat		87873
+984		Druvsaft		88024
+985		Nötkött lager		88170
+986		Kycklingbuljong		88312
+987		Musselsoppa		88456
+988		Kyckling rulle		88606
+989		Konserverad gul majs		88749
+990		Konserverade bönor		88887
+991		Skinka med naturliga juicer		89036
+992		Skinka och vatten		89181
+993		Skinka - vatten		89322
+994		Extra mager skinka		89466
+995		Extra magert rostad skinka		89603
+996		Kringla		89740
+997		Grädde substitut pulver		89873
+998		Hälften och hälften		90006
+999		Torr mjölk		90155
+1000		Ricottaost		90274
+1001		Honung klasar av havre		90391
+1002		Vita marker		90525
+1003		Gul tortillachips		90647
+1004		Honung klasar av havre med mandel		90775
+1005		Kex med ägg och korv		90907
+1006		Kex med korv		91027
+1007		Ostburgare		91147
+1008		Dubbel hamburgare		91286
+1009		Dubbel ostburgare		91424
+1010		Kyckling anbud		91562
+1011		Kyckling pot-pie		91692
+1012		Hamburgare (95% mager)		91818
+1013		Hamburgare (90% mager)		91948
+1014		Hamburgare (85% mager)		92080
+1015		Hamburgare (80% mager)		92211
+1016		Hamburgare (75% mager)		92339
+1017		Fläsk nedskärningar		92467
+1018		Rostad fett på skinkan		92579
+1019		Rostad skinka		92702
+1020		Gröna snapin bönor		92823
+1021		Frysta gröna snapin bönor		92948
+1022		Cikoria gröna		93071
+1023		Konserverade gröna ärtor		93178
+1024		Endiv		93293
+1025		Kyckling varmkorv		93427
+1026		Lunch kött		93560
+1027		Havre med kanel och krydda		93696
+1028		Havre med russin och krydda		93811
+1029		Reeses puffar		93930
+1030		Havregryn torg		94058
+1031		Totala russin kli		94179
+1032		Kakao puffar		94287
+1033		Honung rostat havre		94412
+1034		Vanilj mandel		94535
+1035		Vete chex		94657
+1036		Havre gryn		94783
+1037		Stekt fett på fläskkarré		94901
+1038		Italiensk korv		95009
+1039		Förkokt fläskkorv		95145
+1040		Apple-uttag		95275
+1041		Kakao stenar		95386
+1042		Majs chex		95507
+1043		Druvan-nötter spannmål		95615
+1044		Kix		95749
+1045		Lyckosymboler		95882
+1046		Honung mutter chex		96018
+1047		Russin kli		96154
+1048		Russin kli spannmål		96272
+1049		Ris chex		96386
+1050		Rostad kalkonkött		96497
+1051		Kyckling vinge		96620
+1052		Rostad kyckling vinge		96746
+1053		Ister		96853
+1054		Torkade ägg		96958
+1055		Kycklinglever		97087
+1056		Kyckling bröstschnitzel		97212
+1057		Panerad kycklingfilé		97330
+1058		Rostad kyckling bröst		97454
+1059		Kycklingbröst kött		97571
+1060		Ostron		97694
+1061		Havskatt		97805
+1062		Regnbåge		97923
+1063		Plattfiskar		98045
+1064		86 bevis sprit		98165
+1065		80 bevis sprit		98250
+1066		Choklad sirap		98333
+1067		Nötkött revben		98457
+1068		Nötkött runda		98564
+1069		Topp runda nötkött		98679
+1070		Topp runda nötstek		98800
+1071		Topp ytterfilé		98915
+1072		Olja rostade solrosfrön		99034
+1073		Nötkött lever		99168
+1074		Senap greener		99295
+1075		Kokt spenat		99407
+1076		Konserverad spenat		99522
+1077		Lönnsirap		99635
+1078		Anrikat majsmjöl		99757
+1079		Rå vitt ris		99869
+1080		Hela korn mjöl		99981
+1081		Alla ändamål mjöl		100093
+1082		Våffla		100207
+1083		Kärnmjölk våffla		100343
+1084		Frostat brödrost bakverk		100479
+1085		Vit tortillachips		100608
+1086		Belagda chokladfondant		100734
+1087		Krabba		100842
+1088		Svarta bönor		100964
+1089		Burk röda bönor		101090
+1090		Kokta linser		101212
+1091		Minskat fett jordnötssmör		101337
+1092		Pumpa paj		101458
+1093		Middag rulle		101602
+1094		Hamburgare rulle		101724
+1095		Hårt bröd rulle		101853

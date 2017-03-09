@@ -1,0 +1,505 @@
+﻿Row	Meal	Name	Pos
+0	B	Ou	33
+1	B	Cafè	203
+2	B	Torrades	322
+3	B	Pa	564
+4	B	Plàtan	861
+5	B	Cafè	1179
+6	L	Pa	1307
+7	S	Tetera	1604
+8	B	Tetera	1711
+9	B	Torrades	1818
+10	B	Plàtan	2114
+11	D	Pa	2377
+12	B	Farina de civada	2675
+13	B	Iogurt fruita baixa greix	2803
+14	L	Tomàquet	2909
+15	L	Ou	3137
+16	D	Arròs blanc	3308
+17	B	Pa integral	3418
+18	D	Pastanaga	3657
+19	S	Galeta	3967
+20	B	Cafè	4123
+21	D	Tomàquet	4252
+22	B	Cansalada	4524
+23	L	Arròs blanc	4698
+24	S	Poma	4808
+25	S	Cafè	5057
+26	S	Iogurt fruita baixa greix	5177
+27	L	Tomàquet	5283
+28	S	Pa	5555
+29	B	Plàtan	5853
+30	D	Ou	6123
+31	D	Ceba	6294
+32	D	Pollastre	6583
+33	B	Iogurt fruita baixa greix	6761
+34	S	Plàtan	6933
+35	B	llet 1%	7252
+36	S	Plàtan	7400
+37	D	Pizzes	7663
+38	L	Arròs blanc	7805
+39	D	Vi negre	7916
+40	B	Cafè	7986
+41	L	Pastanaga	8080
+42	B	Pa	8390
+43	L	Pollastre	8665
+44	B	Poma	8806
+45	S	Taronja	9055
+46	L	Iogurt fruita baixa greix	9239
+47	B	Taronja	9409
+48	B	Civada	9593
+49	B	Pa francès	9716
+50	B	Plàtan	9885
+51	B	Pa	10190
+52	L	Poma	10422
+53	L	Fesols al forn	10671
+54	D	Tomàquet	10731
+55	L	Plàtan	10959
+56	D	Torrades	11278
+57	B	Cafè instantani	11521
+58	L	Arròs vaporitzat	11599
+59	D	Vi negre	11661
+60	D	Tomàquet	11733
+61	D	Cansalada	12006
+62	L	Oli d'oliva	12180
+63	L	Tomàquet	12290
+64	L	Taronja	12505
+65	S	Ou	12689
+66	D	Pit de pollastre	12860
+67	L	Tetera	12990
+68	L	Tomàquet	13098
+69	B	Flocs de blat de moro	13371
+70	L	Pa	13490
+71	B	Poma	13765
+72	S	Torrades	13956
+73	B	Plàtan	14199
+74		Crema de formatge	14504
+75		Formatge parmesà	14715
+76		Formatge suís	14859
+77		Formatge americà	15091
+78		Formatge americà	15329
+79		Formatge difondre	15565
+80		Meitat i meitat	15712
+81		Crema lleugera	15854
+82		Crema de llet pesat	16021
+83		Mantega salada	16188
+84		Mantega batuda	16401
+85		Mantega oli	16614
+86		Crema agra	16814
+87		Substitut crema en pols	16945
+88		Llet sencera	17115
+89		2% de llet	17271
+90		llet 1%	17426
+91		Llet sec	17581
+92		Llet xocolata sencera	17725
+93		Xocolata amb llet	17886
+94		Baix greix xocolata amb llet	18044
+95		Iogurt vainilla baix en greix	18199
+96		Iogurt fruita baixa greix	18375
+97		Ou	18554
+98		Rovell d'ou	18732
+99		Ou fregit	18880
+100		Ous durs	19060
+101		Remenat d'ou	19269
+102		Ou seques	19477
+103		Mantega sense sal	19633
+104		Salsa de formatge	19846
+105		Iogurt fruita greix baix llum	19994
+106		Crema substitut	20170
+107		Iogurt fortificada fruita baixa greix	20338
+108		Llum fortificada iogurt fruita baixa greix	20520
+109		Pols de Chile	20698
+110		Mostassa	20852
+111		Sal	20995
+112		Civada nadó	21139
+113		Cereals d'arròs de nadó	21291
+114		Llard de porc	21418
+115		Salsa maionesa	21528
+116		Amanida guarniment amb maionesa	21675
+117		Oli de cacauet	21837
+118		Oli de soja	21977
+119		Oli d'oliva	22123
+120		Amaniment italià	22271
+121		Francès vestir-se	22434
+122		Baix greix oli vegetal es va estendre	22596
+123		Oli de blat de moro	22804
+124		Pal de mantega	22949
+125		Margarina	23157
+126		Oli vegetal es va estendre	23363
+127		Oli vegetal	23522
+128		Oli de coco	23671
+129		Pollastre	23816
+130		Pollastre arrebossat	24018
+131		Pollastre	24225
+132		Pollastre fregit	24423
+133		Carn de pollastre rostit	24628
+134		Pollastre guisat	24828
+135		Fetge de pollastre	25028
+136		Pit de pollastre amb pell	25151
+137		Pit de pollastre arrebossat	25297
+138		Pit de pollastre rostit	25449
+139		Carn de pit de pollastre	25594
+140		Pit de pollastre	25745
+141		Cuixa	25891
+142		Cama de pollastre	26049
+143		Cuixa de pollastre	26219
+144		Ala de pollastre	26378
+145		Ala de pollastre rostit	26511
+146		Gall dindi rostit	26626
+147		Carn de gall dindi rostit	26761
+148		Terra de Turquia	26892
+149		Brou de carn	27000
+150		Sopa de fideus de pollastre	27146
+151		Crema de sopa de bolet	27301
+152		Salsa	27456
+153		Salsa de barbacoa	27611
+154		Carn de boví	27771
+155		Brou de pollastre	27924
+156		Sopa de cloïsses	28079
+157		Brou de pollastre	28240
+158		Bolonya	28390
+159		Botifarra de fetge	28550
+160		Rotllo de pollastre	28684
+161		Xoriço	28840
+162		Gos calent	28973
+163		Gos calent de pollastre	29101
+164		Dinar de carn	29235
+165		Salsitxa	29345
+166		Salsitxa de porc i vedella	29469
+167		Embotits	29608
+168		Pit de gall dindi	29739
+169		Rotllo de carn llum Turquia	29928
+170		Rotllo de Turquia	30078
+171		Salsitxa italiana	30229
+172		Salsitxa de porc de pre-cuinats	30391
+173		Sotes de pomes	30516
+174		Còdols de cacau	30637
+175		Patates fregides de galeta	30753
+176		Blat de moro chex	30875
+177		Flocs de blat de moro	30993
+178		Tot-segó blat flocs	31116
+179		Segó flocs	31228
+180		Còdols afruitats	31349
+181		Raïm-fruits secs cereals	31460
+182		Kix	31589
+183		Vida quàquera civada	31717
+184		Amulets de la sort	31860
+185		Mel femella chex	31991
+186		Segó amb panses	32122
+187		Arròs chex	32250
+188		Xap	32371
+189		Flocs desllustrador	32501
+190		Blat chex	32629
+191		Civada	32750
+192		Farina de civada	32885
+193		Civada amb canyella i espècies	33025
+194		Civada amb panses i espècies	33165
+195		Glopades de Reese	33309
+196		Places de civada	33432
+197		Fibra un	33563
+198		Cacau glopades	33677
+199		Crisi de la torrada de canyella	33797
+200		Inici elegant cereals	33930
+201		Civada torrada de mel	34045
+202		Vainilla d'ametlla	34163
+203		Poma	34280
+204		Suc de Poma	34537
+205		Compota de Poma	34692
+206		Alvocat	34831
+207		Plàtan	35017
+208		Nabius	35344
+209		Suc de raïm	35480
+210		Raïm	35637
+211		Mànec	35787
+212		Meló	35934
+213		Taronja	36347
+214		Suc de taronja	36543
+215		Suc de taronja concentrat	36694
+216		Suc de taronja amb calci	36852
+217		Concentrat de suc de taronja congelat	37011
+218		Préssec	37173
+219		Pera	37392
+220		Pinya	37597
+221		Panses	37840
+222		Maduixa	38026
+223		Gelat de maduixes	38326
+224		Síndria	38630
+225		Suc de Poma, raïm i pera	39039
+226		Graella greix a llom	39196
+227		Llom de porc a la brasa	39345
+228		Llom de porc rostit	39493
+229		Costelles de porc	39642
+230		Cansalada	39792
+231		Pernil	39978
+232		Greix rostit sobre pernil	40127
+233		Torrada de pernil	40258
+234		Pernil magre extraordinàriament	40387
+235		Extraordinàriament magra pernil rostit	40537
+236		Especejament de porcí	40687
+237		Porc de terra	40840
+238		Pernil amb sucs naturals	40960
+239		Pernil i aigua	41118
+240		Pernil - afegit aigua	41272
+241		Espàrrecs	41429
+242		Verds Petar fesols	41546
+243		Conserves mongetes verdes	41684
+244		Mongetes Petar verds congelades	41856
+245		Bròquil cru	41992
+246		Bròquil	42246
+247		Bròquil picat	42499
+248		Bròquil congelat	42751
+249		Cabdell crua	43003
+250		Cabdell	43358
+251		Pastanaga	43711
+252		Pastanaga cuita	44029
+253		Pastanaga congelada	44345
+254		API	44663
+255		Verds xicoira	44937
+256		Blat de moro	45064
+257		Blat de moro groc conserves	45352
+258		Blat de moro congelat	45506
+259		Cogombre	45794
+260		Escarola	46034
+261		L'enciam	46193
+262		Enciam Lollo verd	46554
+263		Bolets blanques	46919
+264		Mostassa	47080
+265		Ceba	47213
+266		Ceba cuita	47510
+267		Ceba tendra	47810
+268		Julivert	48018
+269		Pèsols verds	48187
+270		Llauna de pèsols	48313
+271		Pèsols congelats	48439
+272		Patata	48565
+273		Patates al forn	48778
+274		Patata de pell	48988
+275		Patata bullida	49197
+276		Marrons parcial	49407
+277		Puré de patates	49545
+278		Glopades de patata	49673
+279		Forn patates fregides	49850
+280		L'espinac crua	50050
+281		Espinacs cuits	50230
+282		Conserves espinacs	50356
+283		Moniato al forn	50480
+284		Moniato	50683
+285		Tomàquet	50882
+286		Tomàquet cuit	51239
+287		Conserves de tomàquet	51521
+288		Tomàquets enllaunats estofades	51707
+289		Suc de tomàquet	51987
+290		Pasta de tomàquet	52147
+291		Salsa de tomàquet de llauna	52306
+292		Nap	52463
+293		Suc de conserves vegetals	52599
+294		Verdures mixtes	52758
+295		Esquaix d'estiu	52883
+296		L'hivern esquaix	53092
+297		Conserves de moniato	53300
+298		Suc pastanaga conserves	53501
+299		Patates al forn amb la pell	53659
+300		Pasta de tomàquet	53871
+301		Salsa de tomàquet	54032
+302		Cogombre	54175
+303		Assaborir	54411
+304		Pipes	54570
+305		Pipes torrades	54700
+306		Ametlles	54831
+307		Ametlla Repelada	55034
+308		Ametlla torrada	55229
+309		Noguera	55423
+310		Oli de rostit pipes	55687
+311		Atmelles torrades	55821
+312		Anacards	56017
+313		Mescla de nous	56196
+314		Oli de rostit mescla de nous	56320
+315		Hamburguesa	56450
+316		Fetge de vedella	56577
+317		Fetge de vedella	56702
+318		Farta de pit de vedella	56827
+319		Costella de vedella	56942
+320		Carn de boví	57056
+321		Costella de vedella	57265
+322		Costella de vedella	57386
+323		Rodó de vedella	57510
+324		Bou de la ronda de dalt	57625
+325		Ronda de dalt de vedella	57746
+326		Filet dels millors	57861
+327		Filet dels millors	57980
+328		Cervesa	58099
+329		Cervesa lleugera	58232
+330		licor prova 80	58361
+331		Vi negre	58455
+332		Vi blanc	58557
+333		Suc de verdura i fruita	58657
+334		Cervesa de gingebre	58799
+335		Refresc de llimona	58923
+336		Beguda energètica RedBullring	59054
+337		Cervesa d'arrel	59189
+338		Xarop de xocolata	59315
+339		Cafè a l'Hotel	59445
+340		Cafè	59581
+341		Cafè exprés	59725
+342		Cafè instantani	59844
+343		Conserves de fruita	59980
+344		Copa de fruites enriquits	60111
+345		Llimonada	60253
+346		Batut de vainilla	60404
+347		Tetera	60545
+348		Tetera instantània	60685
+349		Aigua aixeta	60853
+350		Aigua amb gust de fruita	60975
+351		86 prova licor	61103
+352		Aigua embotellada	61199
+353		L'aigua enriquida amb gust de fruita	61322
+354		Beguda energètica monstre	61448
+355		Palets de peix	61576
+356		Peixos plans	61754
+357		Arengada	61874
+358		Salmó	62119
+359		Tonyina de llauna	62241
+360		Cranc	62417
+361		Gambetes	62588
+362		Gambetes conserves	62732
+363		Cloïsses	62876
+364		Llauna de cloïsses	63056
+365		Ostres	63240
+366		Silur	63373
+367		Truita irisada	63491
+368		Tilàpia	63613
+369		Fesols al forn	63731
+370		Fesols al forn amb francs	63856
+371		Mongetes amb carn de porc i cebeta al forn salsa	63983
+372		Fesol negre	64106
+373		Enllaunats fesols vermells	64250
+374		Fesols vermells	64390
+375		Fesols xics crus	64544
+376		Fesols xics	64691
+377		Mongetes blanques	64833
+378		Llenties	64974
+379		Llenties cuites	65117
+380		Cacauets salats	65260
+381		Cacauets salats rostits	65409
+382		Mantega de cacauet	65554
+383		Salsa de soja	65686
+384		Llet de soja enriquit	65845
+385		Reducció greix de mantega de cacauet	66003
+386		Cacauets sense sal	66130
+387		Cacauets torrats	66277
+388		Panets de canyella amb panses	66420
+389		Galeta	66603
+390		Galeta	66767
+391		Pa francès	66937
+392		Pa italià	67172
+393		Pa de multi-gra	67373
+394		Pa de sègol	67677
+395		Pa	67978
+396		Torrades	68284
+397		Pa blanc	68589
+398		Pa blanc torrat	68892
+399		Pa integral	69187
+400		Torrades de blat sencer	69489
+401		Molles de pa	69792
+402		Pastís de xocolata	69932
+403		Pa de pessic	70084
+404		Pastís de formatge	70234
+405		Espurnes de xocolata	70379
+406		Galetes xocolata sandvitx	70552
+407		Galetes de mantega de cacauet	70726
+408		Galetes de vainilla sandvitx	70898
+409		Galeta de formatge	71024
+410		Intrús	71222
+411		Galetes amb mantega de cacauet	71416
+412		Galetes de blat	71614
+413		Anelles	71809
+414		Panet de nabius	72019
+415		Pancakes	72230
+416		Pastís de Poma	72373
+417		Pastís de carbassa	72556
+418		Sopar rotllo	72742
+419		Rotllo hamburgueses	72864
+420		Rotllo de pa dur	72993
+421		Rotllo de canyella	73184
+422		Closca de tac	73377
+423		Truita de blat de moro	73591
+424		Truita	73832
+425		Pols de coure	74069
+426		Llevat	74203
+427		Gofre	74363
+428		Pastisseria torradora glaçat	74526
+429		Xips de blat de moro	74658
+430		Barreta de cereals	74812
+431		Crispetes	74931
+432		Crispetes	75061
+433		Xips de truita blanc	75201
+434		Xocolata per coure	75352
+435		Xocolata semidolç	75501
+436		Gelat de vainilla	75641
+437		Sorbet de taronja	75769
+438		Pastilles de goma	75901
+439		Caramels durs	76338
+440		Malví	76452
+441		Xocolata amb llet	76604
+442		Cacauet M & Ms	76751
+443		M & Ms	76923
+444		Twix barra	77097
+445		Cacau en pols	77227
+446		Gelat de xocolata	77356
+447		Tipus de gel de calç	77481
+448		Mel	77585
+449		Gelatines	77696
+450		Sucre Moreno	77835
+451		Sucre	78053
+452		Sucre en pols	78263
+453		Xarop d'auró	78394
+454		Xarop d'auró	78521
+455		Xips	78636
+456		Reducció greixos xips	78794
+457		Nét de Noé enriquit	78945
+458		Arròs integral	79068
+459		Arròs blanc brut	79189
+460		Arròs blanc	79312
+461		Arròs vaporitzat	79434
+462		Arròs instantani	79557
+463		Farina de gra sencer	79673
+464		Tota farina de propòsit	79796
+465		Pa blanc de farina	79921
+466		Farina per pastís	80045
+467		Macarrons	80168
+468		Fideus	80355
+469		Espaguetis	80480
+470		Bescuit amb ou i butifarra	80601
+471		Bescuit amb salsitxa	80734
+472		Hamburguesa amb formatge	80867
+473		Patates fregides	81019
+474		Augment pizzes escorça	81218
+475		Pizzes	81364
+476		Pizzes escorça gruixuda	81510
+477		Pizzes carns i verdures	81657
+478		Doble hamburguesa	81802
+479		Doble hamburguesa amb formatge	81940
+480		De pollastre	82091
+481		Pastís de pollastre	82220
+482		Rotllo d'ou amb porc	82348
+483		Hamburguesa (95% magre)	82478
+484		Hamburguesa (90% magre)	82602
+485		Hamburguesa (85% magre)	82728
+486		Hamburguesa (80% magre)	82853
+487		Hamburguesa (80% magre)	82975
+488		Hamburguesa (75% magre)	83101
+489		Hamburguesa (75% magre)	83223
+490		Carn picada (75/25)	83349
+491		Crispetes de microones	83458
+492		Xips de truita groc	83592
+493		Mel raïms de civada amb ametlles	83745
+494		Formatge greix reduïda	83872
+495		Fitxes blanques	84102
+496		Crisi de rosca de plàtan	84249
+497		Amaniment Cèsar	84382
+498		Barreta de cereals	84549
+499		Brètzels	84673
+500		Baix greix formatge americà	84821
+501		Suc de nabius	85050
+502		Mel raïms de civada	85203
+503		Baix greix formatge suís	85332

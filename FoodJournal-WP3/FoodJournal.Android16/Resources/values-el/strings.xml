@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">ΗΜΕΡΟΛΟΓΙΟ ΔΙΑΤΡΟΦΗΣ</string>
+	<string name="CommonItems">Κοινά προϊόντα</string>
+	<string name="Delete">Διαγραφή</string>
+	<string name="EmptyEntryList">Περιοδικό Διατροφής για {0}</string>
+	<string name="MyRecentItems_Breakfast">Πρόσφατα προϊόντα πρωινού</string>
+	<string name="MyRecentItems_Dinner">Πρόσφατα προϊόντα δείπνου</string>
+	<string name="MyRecentItems_Exercise">Οι πρόσφατες ασκήσεις μου</string>
+	<string name="MyRecentItems_Lunch">Πρόσφατα προϊόντα μεσημεριανού</string>
+	<string name="MyRecentItems_Snack">Πρόσφατα προϊόντα σνακ</string>
+	<string name="PageTitle">ΗΜΕΡΟΛΟΓΙΟ ΔΙΑΤΡΟΦΗΣ</string>
+	<string name="PageTitleBase">ΗΜΕΡΟΛΌΓΙΟ ΤΡΟΦΊΜΩΝ- </string>
+	<string name="Period_Breakfast">Πρωινό</string>
+	<string name="Period_Dinner">Δείπνο</string>
+	<string name="Period_Exercise">Άσκηση</string>
+	<string name="Period_Lunch">Μεσημεριανό</string>
+	<string name="Period_Snack">Σνακ</string>
+	<string name="Search">Αναζήτηση</string>
+	<string name="Today">Σήμερα</string>
+	<string name="StandardProperty_Amount">Ποσότητα</string>
+	<string name="StandardProperty_Calcium">Ασβέστιο</string>
+	<string name="StandardProperty_Calories">Θερμίδες</string>
+	<string name="StandardProperty_Carbs">Υδατάνθρακες</string>
+	<string name="StandardProperty_Cholesterol">Χοληστερίνη</string>
+	<string name="StandardProperty_Fiber">Φυτικές ίνες</string>
+	<string name="StandardProperty_Iron">Σίδηρος</string>
+	<string name="StandardProperty_MonoFat">Μονοακόρεστα λιπαρά</string>
+	<string name="StandardProperty_PolyFat">Πολυακόρεστα λιπαρά</string>
+	<string name="StandardProperty_Potassium">Κάλιο</string>
+	<string name="StandardProperty_Protein">Πρωτεΐνη</string>
+	<string name="StandardProperty_SatFat">Κορεσμένα λιπαρά</string>
+	<string name="StandardProperty_Sodium">Νάτριο</string>
+	<string name="StandardProperty_Sugar">Ζάχαρη</string>
+	<string name="StandardProperty_TotalFat">Συνολικά λιπαρά</string>
+	<string name="StandardProperty_VitaminC">Βιταμίνη C</string>
+	<string name="StandardProperty_VitaminD">Βιταμίνη D</string>
+	<string name="StandardProperty_Weight">Βάρος</string>
+	<string name="Preferences">Προτιμήσεις</string>
+	<string name="EmptySearchList">Δεν έχει γίνει καμία επιλογή</string>
+	<string name="NewItemSuffix">(νέο προϊόν)</string>
+	<string name="NewRecipeSuffix"> (νέα συνταγή)</string>
+	<string name="SearchResults">Αποτελέσματα αναζήτησης</string>
+	<string name="SearchTermNotFound">{0} δεν βρέθηκαν, δοκιμάστε να αλλάξετε τον όρο αναζήτησης</string>
+	<string name="AcceptNew">Προσθήκη</string>
+	<string name="Name">Όνομα</string>
+	<string name="Nutrition">Διατροφή</string>
+	<string name="PageTitleItemDetail">ΠΛΗΡΟΦΟΡΙΕΣ ΤΡΟΦΙΜΩΝ</string>
+	<string name="EnterWeight">Εισάγετε το βάρος για αυτή την ποσότητα</string>
+	<string name="ServingSizes">Μέγεθος μερίδας</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Πόσο;</string>
+	<string name="MoreOptions">περισσότερες επιλογές</string>
+	<string name="NoNutritionInfo">Δεν υπάρχει διατροφική πληροφορία</string>
+	<string name="AddServingSize">Προσθέστε ένα μέγεθος μερίδας</string>
+	<string name="Add">Προσθήκη</string>
+	<string name="SelectDate">Ημερολόγιο</string>
+	<string name="Advertisement">Διαφήμιση</string>
+	<string name="Unit_Centiliter">Εκατοστόλιτρο</string>
+	<string name="Unit_Cup">Φλιτζάνι</string>
+	<string name="Unit_Deciliter">Δεκατόλιτρο</string>
+	<string name="Unit_FluidOunce">Ουγγιά για υγρά</string>
+	<string name="Unit_Gallon">Γαλόνι</string>
+	<string name="Unit_Gram">Γραμμάριο</string>
+	<string name="Unit_Kilogram">Κιλό</string>
+	<string name="Unit_Liter">Λίτρο</string>
+	<string name="Unit_Milliliter">Χιλιοστόλιτρο</string>
+	<string name="Unit_Ounce">Ουγγιά</string>
+	<string name="Unit_Pint">Πίντα</string>
+	<string name="Unit_Pound">Λίβρα</string>
+	<string name="Unit_Quart">Κουόρτ</string>
+	<string name="Unit_Tablespoon">Κουταλιά της σούπας</string>
+	<string name="Unit_Teaspoon">Κουταλάκι του γλυκού</string>
+	<string name="Units_Centiliter">Εκατοστόλιτρο</string>
+	<string name="Units_Cup">Φλιτζάνια</string>
+	<string name="Units_Deciliter">Δεκατόλιτρο</string>
+	<string name="Units_FluidOunce">Ουγγιά για υγρά</string>
+	<string name="Units_Gallon">Γαλόνια</string>
+	<string name="Units_Gram">Γραμμάρια</string>
+	<string name="Units_Kilogram">Κιλά</string>
+	<string name="Units_Liter">Λίτρα</string>
+	<string name="Units_Milliliter">Χιλιοστόλιτρα</string>
+	<string name="Units_Ounce">Ουγγιές</string>
+	<string name="Units_Pint">Πίντες</string>
+	<string name="Units_Pound">Λίβρες</string>
+	<string name="Units_Quart">Κουόρτ</string>
+	<string name="Units_Tablespoon">Κουταλιές της σούπας</string>
+	<string name="Units_Teaspoon">Κουταλάκια του γλυκού</string>
+	<string name="DatabaseCulture">el</string>
+	<string name="FeedbackSubject">Email από το Ημερολόγιο Διατροφής</string>
+	<string name="Equivalent">Ποσό:</string>
+	<string name="EnterEquivalent">Στο τέλος της ημέρας</string>
+	<string name="Loading">φόρτωση…</string>
+	<string name="ExpiredCaption">Παρακαλούμε εισάγετε βάρος πρώτα</string>
+	<string name="ExpiredMessage">Ενημέρωση τώρα; Σας ευχαριστούμε που χρησιμοποιείτε αυτή την εφαρμογή! Αυτό το αντίγραφο πρόκειται να λήξει. Αλλά μην ανησυχείτε, θα μεταφερθείτε στη σελίδα λήψης, για να ανανεώσετε αν πατήσετε το Ok.</string>
+	<string name="AgentDescription">Αυτό ενημερώνει τον Live Τοίχο για το Ημερολόγιο Τροφίμων.</string>
+	<string name="AgentDisabled">Έχετε απενεργοποιήσει την εφαρμογή Live Τοίχος στις ρυθμίσεις τηλεφώνου.</string>
+	<string name="PageTitleSettings">Οι προτιμήσεις μου</string>
+	<string name="EnableLiveTile">Εισάγετε έναν όρο αναζήτησης</string>
+	<string name="Reminders">Υπενθυμίσεις</string>
+	<string name="SettingsScreen">Ρυθμίσεις</string>
+	<string name="PinToStart">Ορίστε τον τοίχο</string>
+	<string name="OpenReport">Αναφορά</string>
+	<string name="Report">Αναφορά</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Κουταλάκι του γλυκού = 4.5 g|Κουταλιά της σούπας = 12 g|1 μερίδα = 28 g|Κομμάτι = 14 g|Φέτα = 12 Κύπελλο g|1 = 237 g</string>
+	<string name="TakeAPicture">Λήψη εικόνας</string>
+	<string name="ReviewBody">Σας ευχαριστούμε που χρησιμοποιείτε την εφαρμογή! Αν σας φαίνεται χρήσιμο, παρακαλούμε να μας βοηθήσετε με να γίνει επιτυχής, υποβάλλοντας μια αξιολόγηση.</string>
+	<string name="ReviewTitle">Υποβολή αξιολόγησης;</string>
+	<string name="Goals">Στόχοι</string>
+	<string name="NoGoalSet">Κανένα σύνολο γκολ</string>
+	<string name="EndOfDay">Μέτρηση ελλιπών γευμάτων στην εφαρμογή τοίχου</string>
+	<string name="ReminderContent">Τι φάγατε;</string>
+	<string name="ReminderTitle">Υπενθύμιση: ενημερώστε το ημερολόγιό σας.</string>
+	<string name="ReminderDescription">επιλεγμένες υπενθυμίσεις εμφανίζονται αν δεν έχετε ενημερώσει σας ημερολόγιο έως την επιλεγμένη ώρα</string>
+	<string name="ScreenshotTitles">Χυμό πορτοκαλιού, 1 φλιτζάνι, τοστ, 1 φέτα, αυγό, 1 μέτρια, καφέ, μήλο, μπανάνα</string>
+	<string name="GoalOver">{0} πάνω από το στόχο</string>
+	<string name="GoalUnder">{0} απέμειναν</string>
+	<string name="OpenJournal">Ημερολόγιο</string>
+	<string name="RemoveAdsText">Επιλέξτε OK για να αφαιρέστε τις διαφημίσεις από την εφαρμογή.</string>
+	<string name="RemoveAdsTitle">Αφαίρεση των διαφημίσεων;</string>
+	<string name="StoreException">Προέκυψε ένα σφάλμα, κατά τη σύνδεση στο Windows Phone store. Παρακαλούμε, δοκιμάστε ξανά αργότερα.</string>
+	<string name="Feedback_Email">Αναφέρετε ένα πρόβλημα</string>
+	<string name="Feedback_EmailText">Προτείνετε ένα χαρακτηριστικό ή κάντε μια ερώτηση</string>
+	<string name="Feedback_Rate">Αξιολογήστε αυτή την εφαρμογή</string>
+	<string name="Feedback_RateText">Η συγκεκριμένη κριτική βοηθά στη βελτίωση της εφαρμογής</string>
+	<string name="Feedback_Screenshot">Βοηθήστε να βελτιώσουμε τη μετάφραση</string>
+	<string name="Feedback_ScreenshotText">Περιλαμβάνεται μια απεικόνιση οθόνης</string>
+	<string name="Feedback_Share">Κοινοποίηση συνδέσμου</string>
+	<string name="Feedback_ShareText">Για να κατεβάσετε την εφαρμογή</string>
+	<string name="ScreenshotSubject">Κείμενο Ημερολογίου Διατροφής</string>
+	<string name="ShareMessage">Δείτε το Ημερολόγιο Διατροφής για Windows Phone</string>
+	<string name="ShareTitle">Ημερολόγιο Διατροφής</string>
+	<string name="CommonItems_Breakfast">Κοινά προϊόντα πρωινού</string>
+	<string name="CommonItems_Dinner">Κοινά προϊόντα δείπνου</string>
+	<string name="CommonItems_Lunch">Κοινά προϊόντα γεύματος</string>
+	<string name="CommonItems_Snack">Κοινά προϊόντα σνακ</string>
+	<string name="Meals">Γεύματα</string>
+	<string name="Period_SnackMorning">Πρωί</string>
+	<string name="Period_SnackEarlyAfternoon">Νωρίς το απόγευμα</string>
+	<string name="Period_SnackAfternoon">Απόγευμα</string>
+	<string name="Meals_SnackMorningEnabled">Ξεχωριστό σνακ για το πρωί</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Ξεχωριστό σνακ για νωρίς το απόγευμα</string>
+	<string name="Meals_SnackAfternoonEnabled">Ξεχωριστό απογευματινό σνακ</string>
+	<string name="Period_SnackEvening">Βράδυ</string>
+	<string name="Meals_SnackMidnightEnabled">Ξεχωριστό σνακ για τα μεσάνυχτα</string>
+	<string name="Period_SnackMidnight">Μεσάνυχτα</string>
+	<string name="Meals_SnacksCombined">Συνδυασμός σνακ</string>
+	<string name="Meals_SnackEveningEnabled">Ξεχωριστό βραδινό σνακ</string>
+	<string name="MyRecentItems_SnackAfternoon">Πρόσφατα προϊόντα απογευματινού</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Πρόσφατα προϊόντα για νωρίς το απόγευμα</string>
+	<string name="MyRecentItems_SnackEvening">Πρόσφατα προϊόντα βραδινού</string>
+	<string name="MyRecentItems_SnackMidnight">Πρόσφατα προϊόντα για μεσάνυχτα</string>
+	<string name="MyRecentItems_SnackMorning">Πρόσφατα προϊόντα πρωινού</string>
+	<string name="CommonItems_SnackAfternoon">Κοινά προϊόντα απογευματινού</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Κοινά προϊόντα για νωρίς το απόγευμα</string>
+	<string name="CommonItems_SnackEvening">Κοινά προϊόντα βραδινού</string>
+	<string name="CommonItems_SnackMidnight">Κοινά προϊόντα για μεσάνυχτα</string>
+	<string name="CommonItems_SnackMorning">Κοινά προϊόντα για πρωί</string>
+	<string name="UnlockFullBody">Σας ευχαριστούμε που δοκιμάσατε το ημερολόγιο τροφίμων. Έχετε {0} δίκη ημέρες παραμένω. Πατήστε OK για να ξεκλειδώσετε το app.</string>
+	<string name="UnlockFullTitle">Ξεκλειδώσετε τώρα;</string>
+	<string name="TrialExpiredBody">Τώρα είναι έληξε δίκη σας. Μπορείτε να δείτε ακόμα το περιοδικό σας, αλλά δεν μπορείτε να προσθέσετε νέες εγγραφές. Επιλέξτε OK για να ξεκλειδώσετε την πλήρη έκδοση.</string>
+	<string name="Feedback_RemoveAds">Αφαίρεση Διαφημίσεων</string>
+	<string name="Feedback_RemoveAdsText">Μόνιμη αφαίρεση όλων των διαφημίσεων</string>
+	<string name="StoreText_5">Κατεβάστε τώρα γιατί θα αγαπήσετε το χρησιμοποιεί.</string>
+	<string name="AppTitle">Ημερολόγιο Διατροφής</string>
+	<string name="StoreText_4">ΠΡΌΣΘΕΤΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΆ:
+1. δεν περισσότερα διαφήμιση.
+2. μια πολύ μεγαλύτερη βάση δεδομένων των τροφίμων.
+3. τη δυνατότητα να e-mail στον εαυτό σας ένα αντίγραφο του γάλακτος.
+4. Οι περισσότερες επιλογές ρύθμισης συμπεριλαμβανομένης της δυνατότητας να εισάγετε μέχρι 8 ξεχωριστό γεύματα την ημέρα.</string>
+	<string name="StoreText_3">ΧΑΡΑΚΤΗΡΙΣΤΙΚΆ ΓΝΩΡΊΣΜΑΤΑ:
+1. ένα απλό και ισχυρό σχέδιο: app ανοίγει απευθείας πάνω στην οθόνη εισόδου, σχετικά με το πιο πρόσφατο γεύμα, διότι αυτό είναι αυτό που θα χρησιμοποιείτε περισσότερο. Το σχέδιο κάνει την προσθήκη καταχωρήσεις ως απλή και διαισθητική δυνατό.
+2. μια βρύση είσοδο με εξατομικευμένες προτάσεις: τα πιο κοινά είδη διατροφής μπορούν αμέσως να επιλεγούν. Ξεκινώντας τη δεύτερη ημέρα, πρόσφατα στοιχεία σας προτείνονται επειδή μπορεί να τρώτε το ίδιο φαγητό συχνά.
+3. συνδεθείτε στο δεν είναι απαραίτητη: απαιτείται καμία προσωπικά δεδομένα ή στοιχεία επικοινωνίας.
+4. χιλιάδες στοιχεία ήδη στη βάση δεδομένων: τα περισσότερα είδη διατροφής έχουν ακριβείς πληροφορίες σχετικά με τα κοινά μεγέθη που εξυπηρετούν, θερμίδες, υδατάνθρακες, πρωτεΐνες και λίπος. 
+5. πλήρη off-line υποστήριξη: δεν χρειάζεται να συνδεθεί με το Διαδίκτυο. 
+6. η ακριβής θέση είναι επίσης εύκολο: με ακρίβεια μπορείτε να εισαγάγετε το ακριβές ποσό χρησιμοποιώντας μια μπάρα.
+7. οι ημερήσιες αναφορές: χρησιμοποιώντας το μενού, μπορείτε να ανοίξετε απευθείας το ημερολόγιο, το οποίο δείχνει μια περίληψη της ημέρας σας. Εδώ μπορείτε να αλλάξετε μεταξύ θερμίδες, πρωτεΐνες και υδατάνθρακες, πατώντας στο μικρό τρίγωνο.
+8. να παρακολουθείτε τους στόχους σας: μετά την είσοδό τους προσωπικούς σας στόχους, μπορείτε να χρησιμοποιήσετε την έκθεση εβδομάδα να δείτε σας τάσεις. 
+9. προσωπικό θύμισα σας βοηθήσει να μείνετε στο στόχο: είναι ένας βολικός τρόπος για να βεβαιωθείτε ότι μπορείτε να συμπληρώσετε το ημερολόγιό σας, μετά από κάθε γεύμα, ή στο τέλος της ημέρας.
+
+Είναι μια καλή ιδέα να ελέγξει τις πληροφορίες στη βάση δεδομένων είναι το ίδιο με τις πληροφορίες για τη συσκευασία τροφίμων σας\? διατροφή τροφίμων κυμαίνεται ανάλογα με τα εμπορικά σήματα και διαχρονικά.
+
+Σιγουρευτείτε για να συζητήσουν τους στόχους σας με σας γιατρό ή διατροφής ειδικός.</string>
+	<string name="StoreText_2">ΣΧΕΤΙΚΆ ΜΕ ΤΟ APP:
+Παρακολούθηση του τι τρώτε έχει αποδειχθεί για να βοηθήσει να αποτρέψει και να σταματήσει η υπερβολική κατανάλωση.
+Αυτό το app βοηθά να ελέγχουν τη διατροφή σας και να τρώνε υγιεινά, από τη καθιστώντας το εύκολο να παρακολουθείτε τι τρώτε. Το σχέδιο έχει βελτιστοποιηθεί για να κάνουν την είσοδο τόσο γρήγορα όσο το δυνατόν, με 1 Κάντε κλικ στο κουμπί Έναρξη, και πρόσφατες τροφίμων προτάσεις. Η ενσωματωμένη βάση δεδομένων έχει ήδη χιλιάδες είδη διατροφής και αν δεν σου είναι γνωστά, η προσθήκη τους είναι εύκολη.
+
+Παρακαλώ σημειώστε: Αυτό το app είναι ελεύθερο να μεταφορτώσει, και υποστηρίζεται από διαφημίσεις. Μπορείτε να το χρησιμοποιήσετε για δωρεάν εφ \' όσο θέλετε. Είναι δυνατόν να αφαιρέσει τη διαφήμιση για ένα τέλος, το οποίο θα επιτρέψει, επίσης, πρόσθετα χαρακτηριστικά.</string>
+	<string name="StoreText_1">Ημερολόγιο τροφίμων: Σας διατροφή και θερμίδες εντοπισμού app.</string>
+	<string name="StoreKeyword_5">Διατροφή</string>
+	<string name="StoreKeyword_4">Θερμίδες</string>
+	<string name="StoreKeyword_3">Δίαιτα</string>
+	<string name="StoreKeyword_2">Ημερολόγιο διατροφής</string>
+	<string name="StoreKeyword_1">Μετρητής θερμίδων</string>
+	<string name="Screenshot_H3">Μπανάνα</string>
+	<string name="Screenshot_H2">Καφές</string>
+	<string name="Screenshot_H1">Μήλο</string>
+	<string name="Screenshot_3a">Αυγό</string>
+	<string name="Screenshot_2b">1 φέτα</string>
+	<string name="Screenshot_2a">Τοστ</string>
+	<string name="Screenshot_1b">1 φλιτζάνι</string>
+	<string name="Screenshot_1a">Χυμός πορτοκαλιού</string>
+	<string name="Product_2">Σας ευχαριστώ για την υποστήριξή σας! Χρησιμοποιήστε αυτήν την επιλογή για να καταργήσετε οριστικά τις διαφημίσεις από το app σας ημερολόγιο τροφίμων.</string>
+	<string name="Product_1">Αφαιρέστε τις διαφημίσεις</string>
+	<string name="CantCalculateNutrition">Εισάγετε βάρος</string>
+	<string name="TrialExpiredTitle">Η δοκιμαστική περίοδος έληξε. Θέλετε να ξεκλειδώσετε;</string>
+	<string name="Screenshot_3b">1 μέτριο</string>
+	<string name="SendFeedback">Σχετικά με</string>
+	<string name="Feedback_Header">Ο γρηγορότερος και ευκολότερος τρόπος για να παρακολουθείτε τι τρώτε.
+
+Μετακινηθείτε προς τα κάτω για πληροφορίες σχετικά με την ακρίβεια των δεδομένων.</string>
+	<string name="Feedback_Unlock">Αναβαθμίστε τώρα</string>
+	<string name="Feedback_UnlockText">Αγοράστε την έκδοση premium</string>
+	<string name="EmailReport_SubjectTemplate">Αποστολή μέσω email</string>
+	<string name="EmailReport_Exception">Κάτι αναπάντεχο πήγε στραβά. Το περιοδικό δεν εστάλη.</string>
+	<string name="EmailReport_InvalidEmailAddress">Η εφαρμογή σας επιτρέπει να αλλάξετε και να ενημερώσετε τα λάθη που μπορεί να βρείτε.</string>
+	<string name="Total">Σύνολο</string>
+	<string name="Price">μόνο {0}</string>
+	<string name="Feature6_Text">Υποστηρίξτε την κατασκευή</string>
+	<string name="Feedback_Footer">ΑΠΟΠΟΊΗΣΗ ΕΥΘΥΝΏΝ:
+Οι περισσότεροι, αλλά δεν είναι όλα τα σημεία δεδομένων στη βάση δεδομένων που προέρχονται από αξιόπιστες πηγές. Εμείς κάνουμε το καλύτερο για να βεβαιωθείτε ότι όλες οι τιμές είναι ακριβείς, αλλά δεν φέρει καμία ευθύνη για ανακριβείς ή ελλείπουσες δεδομένων. Θρεπτικές αξίες ποικίλλουν από μάρκα και διαχρονικά. Χρησιμοποιώντας αυτό το app, συμφωνείτε να εξακριβώσουμε και να διορθώσουμε όλα τα δεδομένα στο app, και να είναι πλήρως υπεύθυνη για βλάβη ή ζημία λόγω της χρήσης του.
+
+Παρακαλώ επιτρέψτε μου να ξέρω αν υπάρχει κάτι που μπορώ να σας βοηθήσω.</string>
+	<string name="Feature6_Desc">Βοηθήστε να κρατήσουμε τις ενημερώσεις της εφαρμογής που έρχεται</string>
+	<string name="GetAllFeatures">Αποκτήστε ΟΛΑ τα χαρακτηριστικά</string>
+	<string name="Feature_Header">Περιλαμβάνονται:</string>
+	<string name="Feature_Footer">* ΣΗΜΕΙΩΣΗ: Τα περισσότερα, αλλά όχι όλα τα δεδομένα, προέρχονται από αξιόπιστες πηγές. Αγοράζοντας την premium έκδοση, αποδέχεστε την πλήρη ευθύνη για την ακρίβεια και την πληρότητα των δεδομένων. Email daily.journal@outlook.com για λεπτομέρειες.</string>
+	<string name="Feature5_Text">Νέα χαρακτηριστικά</string>
+	<string name="Feature5_Desc">Όλα τα premium χαρακτηριστικά σε μελλοντικές εκδόσεις</string>
+	<string name="Feature4_Text">Περισσότερα γεύματα</string>
+	<string name="Feature4_Desc">Για την παρακολούθηση 5, 6 ή περισσότερων γευμάτων ημερησίως</string>
+	<string name="Feature3_Text">Περισσότερα τρόφιμα *</string>
+	<string name="Feature3_Desc">Εκατοντάδες, έως και χιλιάδες περισσότερα τρόφιμα (εξαρτάται από την περιοχή)</string>
+	<string name="Feature2_Text">Αναφορές email</string>
+	<string name="Feature2_Desc">Στείλτε με email το ημερολόγιό σας για αποθήκευση, εκτύπωση ή ανάλυση</string>
+	<string name="Feature1_Text">Χωρίς διαφημίσεις</string>
+	<string name="Feature1_Desc">Καταργούνται οριστικά όλες τις διαφημίσεις</string>
+	<string name="BuyNow">αγορά τώρα</string>
+	<string name="EmailReport_ShowSettings">αποστολή τώρα</string>
+	<string name="EmailReport_SendNow">Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email.</string>
+	<string name="EmailReport_Address">Διεύθυνση email</string>
+	<string name="Product_4">Αποκτήστε πρόσβαση σε όλες τις δυνατότητες</string>
+	<string name="Product_3">Αναβάθμιση σε premium</string>
+	<string name="EmailReport_Footer2">ΣΗΜΕΙΩΣΗ: Τα περισσότερα, αλλά όχι όλα τα σημεία δεδομένων, στη βάση δεδομένων, προέρχονται από αξιόπιστες πηγές. Κάνουμε το καλύτερο δυνατό για να εξασφαλίσουμε, ότι οι αξίες είναι ακριβείς, ωστόσο δεν μπορούμε να θεωρηθούμε υπεύθυνοι για τυχόν λανθασμένα ή ελλιπή δεδομένα. Χρησιμοποιώντας την εφαρμογή, έχετε γνώση και αποδέχεστε την πλήρη ευθύνη για τον έλεγχο της ακρίβειας των δεδομένων.</string>
+	<string name="EmailReport_Footer1">Εφημερίδα από AAA
+Ερωτήσεις ή σχόλια; Απάντηση σε BBB</string>
+	<string name="Localization_Submit">Υποβολή</string>
+	<string name="Localization_TranslationsText">Παρακαλούμε να ενημερώσετε τα κείμενα σε αυτή τη λίστα με τις καλύτερες μεταφράσεις. Αφαιρέστε όλα τα κείμενα για τα είδη που είναι ακατάλληλες για την περιοχή σας.</string>
+	<string name="Localization_ThankYou">Ευχαριστούμε για τη βοήθειά σας!</string>
+	<string name="Localization_Translations">Μεταφράσεις</string>
+	<string name="Localization_Text">Εδώ μπορείτε να βοηθήσετε να βελτιώσουμε την εφαρμογή</string>
+	<string name="Localization_Original">Αρχικό:</string>
+	<string name="Localization_Good">Καλό</string>
+	<string name="Localization_Description">Περιγραφή:</string>
+	<string name="Feedback_LocalizeText">Βοηθήστε να βελτιώσουμε την εφαρμογή</string>
+	<string name="Localization_CommentText">Εισάγετε το email σας αν θέλετε επικοινωνία.</string>
+	<string name="Localization_Comment">Σχόλιο</string>
+	<string name="Feedback_Localize">Βελτιώστε τις μεταφράσεις</string>
+	<string name="AddToLauncher">Προσθήκη στην εκκίνηση</string>
+	<string name="Avg">ΜΕΣΟΣ ΟΡΟΣ</string>
+	<string name="Cancel">Ακύρωση</string>
+	<string name="CopyFromSimilarItem">Αντιγραφή από παρόμοιο αντικείμενο</string>
+	<string name="DeleteEntry">Διαγραφή καταχώρησης</string>
+	<string name="EnterTheWeightForThisAmount">;</string>
+	<string name="MoreOptions2">Περισσότερες επιλογές</string>
+	<string name="None">Κανένα</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 ημέρα πώλησης: {0}% έκπτωση</string>
+	<string name="Total2">Σύνολο</string>
+	<string name="EmailReport_Footer1a">Ημερολόγιο από AAA</string>
+	<string name="EmailReport_Footer1b">Ερωτήσεις ή σχόλια; Απάντηση σε BBB</string>
+	<string name="Add_New">ΝΈΟ ΣΤΟΙΧΕΊΟ</string>
+	<string name="Add_Note">ΠΡΟΣΘΈΣΕΤΕ ΜΙΑ ΣΗΜΕΊΩΣΗ</string>
+	<string name="add_target">ΠΡΟΣΘΈΣΤΕ ΔΙΑΤΡΟΦΉ</string>
+	<string name="choose_time">Ορισμός χρόνου</string>
+	<string name="daily_target">Διατροφή</string>
+	<string name="daily_target_hint">Καθημερινές προορισμού (προαιρετικά)</string>
+	<string name="describe_goal">Περιγράφουν το στόχο σας</string>
+	<string name="drawer_close">Κλείσιμο</string>
+	<string name="drawer_open">Ανοικτή</string>
+	<string name="edit_meals">ΕΠΙΛΈΞΤΕ ΓΕΎΜΑΤΑ</string>
+	<string name="enter_meal_time">Εισαγάγετε το χρόνο για κάθε γεύμα</string>
+	<string name="enter_serving_weight">Εισάγετε βάρος (ζ) πρώτα</string>
+	<string name="enter_value">Εισάγετε διατροφή</string>
+	<string name="get_started">Πάρτε αρχισμένος!</string>
+	<string name="get_started_second_text">Πατήστε "+" για να προσθέσετε μια καταχώρηση στο περιοδικό σας.</string>
+	<string name="Input_Notes">Εισάγετε τις σημειώσεις σας εδώ</string>
+	<string name="meal_options">Επιλογές γευμάτων</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Προσωπική στόχος</string>
+	<string name="Per_Cup">1 φλιτζάνι (250 γραμμάρια) NOTUSED</string>
+	<string name="Per_Grams">100 γραμμάριο</string>
+	<string name="portion_caption">μερίδα</string>
+	<string name="RadioButton_Alpha">αλφαβητικά NOTYETUSED</string>
+	<string name="RadioButton_Sort">ταξινόμηση κατά ιστορία NOTYETUSED</string>
+	<string name="Serving">Σερβίρισμα</string>
+	<string name="Show_More_Options">ΠΕΡΙΣΣΌΤΕΡΕΣ ΕΠΙΛΟΓΈΣ</string>
+	<string name="show_total_with_meal">Δείχνουν ένα στόχο διατροφή</string>
+	<string name="target_date">Ημερομηνία-στόχο</string>
+	<string name="target_date_hint">Επιλέξτε ημερομηνία-στόχο σας</string>
+	<string name="transition_name_circle">μετάβαση: κύκλοσ</string>
+	<string name="transition_name_name">μετάβαση: όνομα</string>
+	<string name="transition_name_phone">μετάβαση: τηλέφωνο</string>
+	<string name="Type_Name">Αναζήτηση</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Μονάδες του μετρικού συστήματος</string>
+	<string name="Units_US">Η.π.α.</string>
+	<string name="Upgrade">Αναβάθμιση</string>
+	<string name="weight_gram">βάρος (γραμ.)</string>
+	<string name="InvalidEmailError">Μη έγκυρη διεύθυνση ηλεκτρ</string>
+	<string name="NoGoalsTitle">Όλες οι καταχωρήσεις</string>
+	<string name="SendReportTitle">Αποστολή έκθεσης</string>
+	<string name="DeleteEntryMessage">Διαγραφεί αυτή η καταχώρηση;</string>
+	<string name="NewBody">Πολλές βελτιώσεις περιλαμβάνονται: σημειώσεις, περισσότερα τρόφιμα, καλύτερο σχέδιο, και περισσότερο.
+Κατεβάστε το αρχείο;</string>
+	<string name="NewTitle">Έκδοση 2.0 που είναι τώρα διαθέσιμο!</string>
+</resources>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">STRAVOVACÍ DENÍK</string>
+	<string name="CommonItems">Běžné položky</string>
+	<string name="Delete">Odstranit</string>
+	<string name="EmptyEntryList">Nic není vybráno</string>
+	<string name="MyRecentItems_Breakfast">Položky poslední snídaně</string>
+	<string name="MyRecentItems_Dinner">Položky poslední večeře</string>
+	<string name="MyRecentItems_Exercise">Moje poslední cvičení</string>
+	<string name="MyRecentItems_Lunch">Položky posledního oběda</string>
+	<string name="MyRecentItems_Snack">Položky poslední dopolední svačiny</string>
+	<string name="PageTitle">STRAVOVACÍ DENÍK</string>
+	<string name="PageTitleBase">POTRAVINY DENÍK- </string>
+	<string name="Period_Breakfast">Snídaně</string>
+	<string name="Period_Dinner">Večeře</string>
+	<string name="Period_Exercise">Cvičení</string>
+	<string name="Period_Lunch">Oběd</string>
+	<string name="Period_Snack">Svačina</string>
+	<string name="Search">Hledat</string>
+	<string name="Today">Dnes</string>
+	<string name="StandardProperty_Amount">Množství</string>
+	<string name="StandardProperty_Calcium">Vápník</string>
+	<string name="StandardProperty_Calories">Kalorie</string>
+	<string name="StandardProperty_Carbs">Sacharidy</string>
+	<string name="StandardProperty_Cholesterol">Cholesterol</string>
+	<string name="StandardProperty_Fiber">Vláknina</string>
+	<string name="StandardProperty_Iron">Železo</string>
+	<string name="StandardProperty_MonoFat">Mononenasycené mastné kyseliny</string>
+	<string name="StandardProperty_PolyFat">Polynenasycené mastné kyseliny</string>
+	<string name="StandardProperty_Potassium">Draslík</string>
+	<string name="StandardProperty_Protein">Bílkoviny</string>
+	<string name="StandardProperty_SatFat">Nasycené tuky</string>
+	<string name="StandardProperty_Sodium">Sodík</string>
+	<string name="StandardProperty_Sugar">Cukr</string>
+	<string name="StandardProperty_TotalFat">Tuky celkem</string>
+	<string name="StandardProperty_VitaminC">Vitamín C</string>
+	<string name="StandardProperty_VitaminD">Vitamín D</string>
+	<string name="StandardProperty_Weight">Váha</string>
+	<string name="Preferences">Nastavení</string>
+	<string name="EmptySearchList">Zadejte hledaný termín</string>
+	<string name="NewItemSuffix"> (nová položka)</string>
+	<string name="NewRecipeSuffix"> (nový recept)</string>
+	<string name="SearchResults">Výsledky hledání</string>
+	<string name="SearchTermNotFound">{0} nenalezeno, zkuste změnit hledaný výraz</string>
+	<string name="AcceptNew">Přidat</string>
+	<string name="Name">Jméno</string>
+	<string name="Nutrition">Výživa</string>
+	<string name="PageTitleItemDetail">POTRAVINOVÉ INFO</string>
+	<string name="EnterWeight">Prosím nejprve zadejte váhu</string>
+	<string name="ServingSizes">Velikost porce</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Kolik\?</string>
+	<string name="MoreOptions">další možnosti</string>
+	<string name="NoNutritionInfo">Žádné nutriční informace</string>
+	<string name="AddServingSize">Přidat velikost porce</string>
+	<string name="Add">Přidat</string>
+	<string name="SelectDate">Kalendář</string>
+	<string name="Advertisement">Reklama</string>
+	<string name="Unit_Centiliter">Centilitr</string>
+	<string name="Unit_Cup">Šálek</string>
+	<string name="Unit_Deciliter">Decilitr</string>
+	<string name="Unit_FluidOunce">Dutá unce</string>
+	<string name="Unit_Gallon">Galon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Litr</string>
+	<string name="Unit_Milliliter">Mililitr</string>
+	<string name="Unit_Ounce">Unce</string>
+	<string name="Unit_Pint">Pinta</string>
+	<string name="Unit_Pound">Libra</string>
+	<string name="Unit_Quart">Kvart</string>
+	<string name="Unit_Tablespoon">Polévková lžíce</string>
+	<string name="Unit_Teaspoon">Čajová lžička</string>
+	<string name="Units_Centiliter">Centilitrech</string>
+	<string name="Units_Cup">Hrnky</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">Duté unce</string>
+	<string name="Units_Gallon">Galony</string>
+	<string name="Units_Gram">Gramy</string>
+	<string name="Units_Kilogram">Kilogramů</string>
+	<string name="Units_Liter">Litrů</string>
+	<string name="Units_Milliliter">Mililitrů</string>
+	<string name="Units_Ounce">Unce</string>
+	<string name="Units_Pint">Pinty</string>
+	<string name="Units_Pound">Libry</string>
+	<string name="Units_Quart">Quarty</string>
+	<string name="Units_Tablespoon">Lžíce</string>
+	<string name="Units_Teaspoon">Lžičky</string>
+	<string name="DatabaseCulture">CS</string>
+	<string name="FeedbackSubject">E-maily od Stravovacího deníku</string>
+	<string name="Equivalent">částka</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">načítání...</string>
+	<string name="ExpiredCaption">Aktualizovat</string>
+	<string name="ExpiredMessage">Děkujeme vám za používání této aplikace. Tato kopie nyní vypršela. Nic se však neděje, klepnutí na tlačítko Ok Vás odvede na stránku, kde si stáhnete aktualizaci.</string>
+	<string name="AgentDescription">Tento úkol aktualizuje Live Tile panely pro Stravovací deník.</string>
+	<string name="AgentDisabled">Zakázali jste Live Tile panely aplikace v nastavení telefonu.</string>
+	<string name="PageTitleSettings">Moje nastavení</string>
+	<string name="EnableLiveTile">Spočítat chybějící jídla na panelu aplikace</string>
+	<string name="Reminders">Upomínky</string>
+	<string name="SettingsScreen">Nastavení</string>
+	<string name="PinToStart">Nastavit panely</string>
+	<string name="OpenReport">Souhrn</string>
+	<string name="Report">Souhrn</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Lžička = 4,5 g|Lžíce = 12 g|1 porce = 28 g|Kus = 14 g|Řez = 12 g|1 cup = 237 g</string>
+	<string name="TakeAPicture">Pořídit fotografii</string>
+	<string name="ReviewBody">Děkujeme vám za používání této aplikace. Pokud zjistíte, že je pro vás užitečná, prosím, zanechte nám recenzi.</string>
+	<string name="ReviewTitle">Napsat hodnocení\?</string>
+	<string name="Goals">Cíle</string>
+	<string name="NoGoalSet">Žádný cíl sada</string>
+	<string name="EndOfDay">Na konci dne</string>
+	<string name="ReminderContent">Co jsi jedl/a\?</string>
+	<string name="ReminderTitle">Upomínka: aktualizovat váš deník</string>
+	<string name="ReminderDescription">vybrané upomínky se zobrazí v případě, že jste neaktualizovali svůj deník do stanoveného času</string>
+	<string name="ScreenshotTitles">Pomerančová šťáva, 1 šálek, Toast, 1 plátek, vajíčko, 1 střední, Apple, káva, banány</string>
+	<string name="GoalOver">{0} nad limit</string>
+	<string name="GoalUnder">Zbývá {0}</string>
+	<string name="OpenJournal">Deník</string>
+	<string name="RemoveAdsText">Klepněte na tlačítko OK, chcete-li odstranit reklamy z aplikace.</string>
+	<string name="RemoveAdsTitle">Odstranit reklamy\?</string>
+	<string name="StoreException">Problém připojování k úložišti Windows Phone. Opakujte akci později.</string>
+	<string name="Feedback_Email">Ohlásit problém</string>
+	<string name="Feedback_EmailText">Navrhněte funkci nebo položte otázku</string>
+	<string name="Feedback_Rate">Ohodnoťte tuto aplikaci</string>
+	<string name="Feedback_RateText">Konkrétní zpětná vazba pomáhá zlepšit aplikaci</string>
+	<string name="Feedback_Screenshot">Pomoci zlepšit překlad</string>
+	<string name="Feedback_ScreenshotText">Snímání obrazovky je zahrnuto</string>
+	<string name="Feedback_Share">Sdílet odkaz</string>
+	<string name="Feedback_ShareText">Stáhnout tuto aplikaci</string>
+	<string name="ScreenshotSubject">Stravovací deník - text</string>
+	<string name="ShareMessage">Podívejte se na Stravovací deník pro Windows Phone</string>
+	<string name="ShareTitle">Stravovací deník</string>
+	<string name="CommonItems_Breakfast">Běžné položky - snídaně</string>
+	<string name="CommonItems_Dinner">Běžné položky - večeře</string>
+	<string name="CommonItems_Lunch">Běžné položky - oběd</string>
+	<string name="CommonItems_Snack">Běžné položky - dopolední svačina</string>
+	<string name="Meals">Strava</string>
+	<string name="Period_SnackMorning">Ráno</string>
+	<string name="Period_SnackEarlyAfternoon">Popoledni</string>
+	<string name="Period_SnackAfternoon">Odpoledne</string>
+	<string name="Meals_SnackMorningEnabled">Samostatná dopolední svačina</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Samostatná poobědová svačina</string>
+	<string name="Meals_SnackAfternoonEnabled">Samostatná odpolední svačina</string>
+	<string name="Period_SnackEvening">Večer</string>
+	<string name="Meals_SnackMidnightEnabled">Samostatné půlnoční svačina</string>
+	<string name="Period_SnackMidnight">Půlnoc</string>
+	<string name="Meals_SnacksCombined">Kombinovat jídlo</string>
+	<string name="Meals_SnackEveningEnabled">Samostatná večeře</string>
+	<string name="MyRecentItems_SnackAfternoon">Položky poslední odpolední svačiny</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Položky poslední poobědové svačiny</string>
+	<string name="MyRecentItems_SnackEvening">Položky poslední večeře</string>
+	<string name="MyRecentItems_SnackMidnight">Položky poslední půlnoční svačiny</string>
+	<string name="MyRecentItems_SnackMorning">Položky poslední snídaně</string>
+	<string name="CommonItems_SnackAfternoon">Běžné položky - odpoledne</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Běžné položky - po obědě</string>
+	<string name="CommonItems_SnackEvening">Běžné položky - večer</string>
+	<string name="CommonItems_SnackMidnight">Běžné položky - noc</string>
+	<string name="CommonItems_SnackMorning">Běžné položky - ráno</string>
+	<string name="UnlockFullBody">Děkujeme vám za vyzkoušení potraviny deník. Máte {0} zkušební zbývajících dní. Chcete-li odemknout app.</string>
+	<string name="UnlockFullTitle">Nyní odemknout\?</string>
+	<string name="TrialExpiredBody">Zkušební verze je nyní vypršela. Můžete zobrazit váš časopis, ale nelze přidat nové záznamy. Klepněte na tlačítko OK, chcete-li odemknout plnou verzi.</string>
+	<string name="Feedback_RemoveAds">Odstranit reklamy</string>
+	<string name="Feedback_RemoveAdsText">Natrvalo odstranit všechny reklamy</string>
+	<string name="StoreText_5">Stáhněte nyní, protože budete milovat ji používat.</string>
+	<string name="AppTitle">Stravovací deník</string>
+	<string name="StoreText_4">PRÉMIOVÉ FUNKCE:
+1. žádné další reklama.
+2. mnohem větší databáze potravin.
+3. možnost odeslat sami kopii do mlékárny.
+4. další možnosti konfigurace, včetně schopnost vstoupit až 8 samostatných jídel denně.</string>
+	<string name="StoreText_3">RYSY:
+1. jednoduchý a účinný design: app otevře přímo na vstupní obrazovce, na poslední jídlo, protože to je to, co budete používat nejčastěji. Design dělá přidávání položek jako jednoduché a intuitivní, jak je to možné.
+2. jedna klepnutím položku s personalizované návrhy: nejběžnější potravinové položky lze okamžitě vybrat. Od druhého dne, vaše poslední položky jsou navrhl, protože může jíst stejné jídlo často.
+3. přihlášení není zapotřebí: je třeba žádné osobní údaje nebo kontaktní informace.
+4. tisíce položek v databázi: většina potravin položky mají přesné informace o společné velikost porcí, kalorií, sacharidů, bílkovin a tuků. 
+5. plná offline podpora: nemusíte být připojeni k Internetu. 
+6. přesné zadání je také snadné: přesně, můžete zadat přesnou částku, pomocí jezdce.
+7. denní zprávy: použití nabídky, můžete přímo otevřít deník, který zobrazuje souhrn vašeho dne. Zde můžete přepínat mezi kalorií, bílkoviny a sacharidy stisknutím na malý trojúhelník.
+8. sledování cíle: po zadání vašich osobních cílů, můžete použít sestavu týden vidět své trendy. 
+9. osobní připomínky vám pomohou zůstat na cíl: jsou pohodlný způsob, jak Ujistěte se, vyplňte váš deník, po každém jídle, nebo na konci dne.
+
+To je vhodné ověřit, že informace v databázi je shodný s informací o vašem balení potravin; potraviny výživa kolísá s značky a postupem času.
+
+Ujistěte se, že diskutovat o své cíle s lékařem nebo nutriční specialista.</string>
+	<string name="StoreText_2">O APLIKACI:
+Udržování přehledu o co jíš ukázal pomoci zabránit a přestat přejídání.
+Tato aplikace vám pomůže ovládat svůj jídelníček a jíst zdravější, tím, že jej snadno sledovat, co jíte. Design je optimalizován aby vstup tak rychle, jak je možné, s 1 klepněte na možnost položka a poslední jídlo návrhy. Stavěný z do databáze již má tisíce potravin a je-li vaše nejsou známy, jejich přidávání je snadné.
+
+Upozornění: Tato aplikace je volně ke stažení a s podporou reklamy. Můžete ji použít zdarma tak dlouho, jak chcete. Je možné odstranit reklamy za poplatek, což umožní další funkce.</string>
+	<string name="StoreText_1">Potraviny deník: Vaše strava a kalorie sledování aplikace.</string>
+	<string name="StoreKeyword_5">Výživa</string>
+	<string name="StoreKeyword_4">Kalorie</string>
+	<string name="StoreKeyword_3">Dieta</string>
+	<string name="StoreKeyword_2">Stravovací deník</string>
+	<string name="StoreKeyword_1">Počítadlo kalorií</string>
+	<string name="Screenshot_H3">Banán</string>
+	<string name="Screenshot_H2">Káva</string>
+	<string name="Screenshot_H1">Jablko</string>
+	<string name="Screenshot_3a">Vejce</string>
+	<string name="Screenshot_2b">1 plátek</string>
+	<string name="Screenshot_2a">Toust</string>
+	<string name="Screenshot_1b">1 šálek</string>
+	<string name="Screenshot_1a">Pomerančová šťáva</string>
+	<string name="Product_2">Děkujeme vám za vaši podporu! Tato možnost slouží k trvale odstranit reklamy z potravin deník aplikací.</string>
+	<string name="Product_1">Odstranit reklamy</string>
+	<string name="CantCalculateNutrition">Zadejte hmotnost</string>
+	<string name="TrialExpiredTitle">Zkušební doba vypršela, odemknout\?</string>
+	<string name="Screenshot_3b">1 střední</string>
+	<string name="SendFeedback">O</string>
+	<string name="Feedback_Header">Nejrychlejší a nejsnadnější způsob, můžete sledovat, co jíte.
+
+Vyhledejte informace o přesnosti údajů.</string>
+	<string name="Feedback_Unlock">Upgradovat nyní</string>
+	<string name="Feedback_UnlockText">Koupit premium verzi</string>
+	<string name="EmailReport_SubjectTemplate">Potravinový seznam {0}</string>
+	<string name="EmailReport_Exception">Něco se pokazilo. Deník nebyl odeslán.</string>
+	<string name="EmailReport_InvalidEmailAddress">Zadejte prosím platnou e-mailovou adresu.</string>
+	<string name="Total">Celkem</string>
+	<string name="Price">pouze {0}</string>
+	<string name="Feature6_Text">Podporovat rozvoj</string>
+	<string name="Feedback_Footer">ZŘEKNUTÍ SE ZÁRUKY:
+Většina, ale ne všechny datové body v databázi pocházejí z důvěryhodných zdrojů. Budeme se snažit zajistit, všechny hodnoty jsou přesné, ale nemůže nést odpovědnost za nesprávné nebo chybějící data. Nutriční hodnoty se liší podle značky a postupem času. Pomocí této aplikace, souhlasíte s tím, ověřit a opravit data v app a být plně zodpovědný za zranění nebo poškození v důsledku jeho použití.
+
+Prosím, dejte mi vědět, jestli existuje něco, co může pomoci vám s.</string>
+	<string name="Feature6_Desc">Podpořte rozvoj dalších aktualizací této aplikace</string>
+	<string name="GetAllFeatures">Získejte všechny funkce</string>
+	<string name="Feature_Header">Zahrnuto:</string>
+	<string name="Feature_Footer">* Poznámka: Většina, ale ne všechna data pocházejí z důvěryhodných zdrojů. Nákupem verze premium přijímáte plnou odpovědnost za správnost a aktuálnost údajů. Pro více informací prosím napište na E-daily.journal@outlook.com</string>
+	<string name="Feature5_Text">Nové funkce</string>
+	<string name="Feature5_Desc">Všechny prémiové funkce v budoucích aktualizací</string>
+	<string name="Feature4_Text">Další jídla</string>
+	<string name="Feature4_Desc">Pro sledování 5, 6 a více jídel denně</string>
+	<string name="Feature3_Text">Další potraviny *</string>
+	<string name="Feature3_Desc">Stovky až tisíce potravinových položek (dle umístění)</string>
+	<string name="Feature2_Text">E-mailové zprávy</string>
+	<string name="Feature2_Desc">Pošlete si váš deník emailem, abyste ho mohli tisknout, uložit nebo prostudovat</string>
+	<string name="Feature1_Text">Žádné reklamy</string>
+	<string name="Feature1_Desc">Všechny reklamy jsou trvale odstraněny.</string>
+	<string name="BuyNow">Kup teď</string>
+	<string name="EmailReport_ShowSettings">Poslat e-mailem</string>
+	<string name="EmailReport_SendNow">Odeslat nyní</string>
+	<string name="EmailReport_Address">E-mailová adresa</string>
+	<string name="Product_4">Získejte přístup ke všem funkcím</string>
+	<string name="Product_3">Upgrade na premium</string>
+	<string name="EmailReport_Footer2">Poznámka: Většina, ale ne všechny údaje v databázi pocházejí z důvěryhodných zdrojů. Snažíme se, aby uváděné hodnoty byly přesné, ale nemůžeme nést odpovědnost za nepřesná nebo chybějící data. Při použití aplikace toto berete na vědomí a přijímáte plnou odpovědnost za kontrolu správnosti údajů. Aplikace umožňuje aktualizovat veškeré nesrovnalosti, které naleznete.</string>
+	<string name="EmailReport_Footer1">Deník od AAA
+Otázky nebo připomínky\? Odpovědět na BBB</string>
+	<string name="Localization_Submit">Odeslat</string>
+	<string name="Localization_TranslationsText">Aktualizujte s lepší překlady textů v tomto seznamu. Odeberte veškerý text pro položky, které jsou nevhodné pro vaši oblast.</string>
+	<string name="Localization_ThankYou">Děkujeme za vaši pomoc!</string>
+	<string name="Localization_Translations">Překlady</string>
+	<string name="Localization_Text">Zde můžete pomoci zlepšit tuto aplikaci.</string>
+	<string name="Localization_Original">Původní:</string>
+	<string name="Localization_Good">Dobré</string>
+	<string name="Localization_Description">Popis:</string>
+	<string name="Feedback_LocalizeText">Pomoc se zlepšením aplikace</string>
+	<string name="Localization_CommentText">Zadejte vaši e-mailovou adresu, pokud chcete být kontaktováni.</string>
+	<string name="Localization_Comment">Komentář</string>
+	<string name="Feedback_Localize">Zlepšit překlady</string>
+	<string name="AddToLauncher">Přidat spouštěč</string>
+	<string name="Avg">AVG</string>
+	<string name="Cancel">Storno</string>
+	<string name="CopyFromSimilarItem">Kopírovat z podobné položky</string>
+	<string name="DeleteEntry">Odstranit položku</string>
+	<string name="EnterTheWeightForThisAmount">Zadejte hmotnost pro toto množství</string>
+	<string name="MoreOptions2">Další možnosti</string>
+	<string name="None">Žádný</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 den prodeje: {0} % sleva</string>
+	<string name="Total2">Celkem</string>
+	<string name="EmailReport_Footer1a">Deník od AAA</string>
+	<string name="EmailReport_Footer1b">Otázky nebo připomínky\? Odpovědět na BBB</string>
+	<string name="Add_New">NOVÁ POLOŽKA</string>
+	<string name="Add_Note">PŘIDÁNÍ POZNÁMKY</string>
+	<string name="add_target">PŘIDAT VÝŽIVA</string>
+	<string name="choose_time">nastavit čas</string>
+	<string name="daily_target">Výživa</string>
+	<string name="daily_target_hint">Každodenní cíl (volitelné)</string>
+	<string name="describe_goal">Popište váš cíl</string>
+	<string name="drawer_close">Zavřít</string>
+	<string name="drawer_open">Otevřené</string>
+	<string name="edit_meals">VÝBĚR JÍDLA</string>
+	<string name="enter_meal_time">Zadejte čas pro každé jídlo</string>
+	<string name="enter_serving_weight">Nejprve zadejte hmotnost (g)</string>
+	<string name="enter_value">Zadejte výživa</string>
+	<string name="get_started">Začněte!</string>
+	<string name="get_started_second_text">Klepněte na tlačítko "+" Chcete-li přidat položku do deníku.</string>
+	<string name="Input_Notes">Zadejte své poznámky</string>
+	<string name="meal_options">Možnosti stravování</string>
+	<string name="Period_First_Snack">Period_First_Snack NEPOUŽÍVÁNO</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NEPOUŽÍVÁNO</string>
+	<string name="Period_Second_Snack">Period_First_Snack NEPOUŽÍVÁNO</string>
+	<string name="Period_Third_Snack">Period_First_Snack NEPOUŽÍVÁNO</string>
+	<string name="personal_goal">Osobní cíl</string>
+	<string name="Per_Cup">1 hrnek (250 g) NEPOUŽÍVÁNO</string>
+	<string name="Per_Grams">100 gramů</string>
+	<string name="portion_caption">část</string>
+	<string name="RadioButton_Alpha">abecedně NOTYETUSED</string>
+	<string name="RadioButton_Sort">Seřadit podle historie NOTYETUSED</string>
+	<string name="Serving">Porce</string>
+	<string name="Show_More_Options">DALŠÍ MOŽNOSTI</string>
+	<string name="show_total_with_meal">Zobrazit cíl výživy</string>
+	<string name="target_date">Cílové datum</string>
+	<string name="target_date_hint">Zvolte cílové datum</string>
+	<string name="transition_name_circle">Přechod: kruh</string>
+	<string name="transition_name_name">Přechod: jméno</string>
+	<string name="transition_name_phone">Přechod: telefon</string>
+	<string name="Type_Name">Hledat</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Metrické jednotky</string>
+	<string name="Units_US">AMERICKÉ jednotky</string>
+	<string name="Upgrade">Inovace</string>
+	<string name="weight_gram">hmotnost (g)</string>
+	<string name="InvalidEmailError">Neplatná e-mailová adresa</string>
+	<string name="NoGoalsTitle">Všechny položky</string>
+	<string name="SendReportTitle">Odeslat zprávu</string>
+	<string name="DeleteEntryMessage">Odstranit tuto položku\?</string>
+	<string name="NewBody">Mnoho vylepšení, včetně: poznámky, více potravin, lepší design a další.
+Stáhnout zdarma\?</string>
+	<string name="NewTitle">Verze 2.0 je nyní k dispozici!</string>
+</resources>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodJournal.Views.Controls.WeakStatsView">
+
+  <StackLayout x:Name="LayoutRoot" Padding="12,0,12,12" Width="450">
+
+    <!--Grid Width="416" Height="190" Padding="0,12" HorizontalOptions="Start">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="50"/>
+        <ColumnDefinition/>
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition/>
+        <RowDefinition Height="20"/>
+      </Grid.RowDefinitions>
+
+      <Label Text="{Binding HighBound}" HorizontalOptions="End" />
+      <Label Text="{Binding MediumBound}" HorizontalOptions="End" />
+      <Label Text="{Binding LowBound}" HorizontalOptions="End"  />
+
+      <AbsoluteLayout Grid.Column="1" Grid.Row="0" Height="170" Padding="0,0,0,0">
+        <Canvas.Clip>
+          <RectangleGeometry Rect="0,0,360,170" />
+        </-->
+    <!--Line X1="0" Y1="12" X2="8" Y2="12" Stroke="LightGray"/>
+        <Line X1="0" Y1="87" X2="8" Y2="87" Stroke="LightGray"/>
+        <Line X1="0" Y1="162" X2="8" Y2="162" Stroke="LightGray"/>
+
+        <Line X1="8" Y1="12" X2="8" Y2="162" Stroke="LightGray"/>
+
+        <Rectangle  Width="20" Height="170" Left="19" Top="{Binding Top6}"/>
+        <Rectangle  Width="20" Height="170" Left="69" Top="{Binding Top5}"/>
+        <Rectangle  Width="20" Height="170" Left="119" Top="{Binding Top4}"/>
+        <Rectangle  Width="20" Height="170" Left="169" Top="{Binding Top3}"/>
+        <Rectangle  Width="20" Height="170" Left="219" Top="{Binding Top2}"/>
+        <Rectangle  Width="20" Height="170" Left="269" Top="{Binding Top1}"/>
+        <Rectangle  Width="20" Height="170" Left="319" Top="{Binding Top0}" />
+
+        <Rectangle  Width="350" Height="10" Left="12" Top="162"/>
+
+        <Line X1="8" Y1="162" X2="8" Y2="170" Stroke="LightGray"/>
+        <Line X1="58" Y1="162" X2="58" Y2="170" Stroke="LightGray"/>
+        <Line X1="108" Y1="162" X2="108" Y2="170" Stroke="LightGray"/>
+        <Line X1="158" Y1="162" X2="158" Y2="170" Stroke="LightGray"/>
+        <Line X1="208" Y1="162" X2="208" Y2="170" Stroke="LightGray"/>
+        <Line X1="258" Y1="162" X2="258" Y2="170" Stroke="LightGray"/>
+        <Line X1="308" Y1="162" X2="308" Y2="170" Stroke="LightGray"/>
+        <Line X1="358" Y1="162" X2="358" Y2="170" Stroke="LightGray"/>
+
+        <Line X1="8" Y1="162" X2="358" Y2="162" Stroke="LightGray"/>
+        <Line Visibility="{Binding GoalVisibility}" X1="12" Y1="{Binding GoalTop}" X2="346" Y2="{Binding GoalTop}" Stroke="Gray" StrokeThickness="3" StrokeDashArray="2 2"/>
+      </AbsoluteLayout>
+
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[6].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}"/>
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[5].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}" />
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[4].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}" />
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[3].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}" />
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[2].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}" />
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[1].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}"/>
+      <Label Grid.Column="1" Grid.Row="1" Text="{Binding Day[0].Text}" HorizontalOptions="Center" Style="{StaticResource XAxisTextStyle}" />
+
+    </Grid-->
+
+  </StackLayout>
+
+</ContentPage>

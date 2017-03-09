@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">יומן אוכל</string>
+	<string name="CommonItems">פריטים נפוצים</string>
+	<string name="Delete">מחק</string>
+	<string name="EmptyEntryList">לא נבחר דבר</string>
+	<string name="MyRecentItems_Breakfast">ארוחות בוקר אחרונות</string>
+	<string name="MyRecentItems_Dinner">ארוחות ערב אחרונות</string>
+	<string name="MyRecentItems_Exercise">תרגילי האימון האחרונים שלי</string>
+	<string name="MyRecentItems_Lunch">ארוחות צהריים אחרונות</string>
+	<string name="MyRecentItems_Snack">חטיפים אחרונים</string>
+	<string name="PageTitle">יומן אוכל</string>
+	<string name="PageTitleBase">יומן מזון- </string>
+	<string name="Period_Breakfast">ארוחת בוקר</string>
+	<string name="Period_Dinner">ארוחת ערב</string>
+	<string name="Period_Exercise">פעילות גופנית</string>
+	<string name="Period_Lunch">ארוחת צהריים</string>
+	<string name="Period_Snack">חטיף</string>
+	<string name="Search">חיפוש</string>
+	<string name="Today">היום</string>
+	<string name="StandardProperty_Amount">כמות</string>
+	<string name="StandardProperty_Calcium">סידן</string>
+	<string name="StandardProperty_Calories">קלוריות</string>
+	<string name="StandardProperty_Carbs">פחמימות</string>
+	<string name="StandardProperty_Cholesterol">כולסטרול</string>
+	<string name="StandardProperty_Fiber">סיבים תזונתיים</string>
+	<string name="StandardProperty_Iron">ברזל</string>
+	<string name="StandardProperty_MonoFat">שומן חד בלתי רווי</string>
+	<string name="StandardProperty_PolyFat">שומן רב בלתי רווי</string>
+	<string name="StandardProperty_Potassium">אשלגן</string>
+	<string name="StandardProperty_Protein">חלבון</string>
+	<string name="StandardProperty_SatFat">שומן רווי</string>
+	<string name="StandardProperty_Sodium">נתרן</string>
+	<string name="StandardProperty_Sugar">סוכר</string>
+	<string name="StandardProperty_TotalFat">סה"כ שומן</string>
+	<string name="StandardProperty_VitaminC">ויטמין C</string>
+	<string name="StandardProperty_VitaminD">ויטמין D</string>
+	<string name="StandardProperty_Weight">משקל</string>
+	<string name="Preferences">העדפות</string>
+	<string name="EmptySearchList">הזן מונח לחיפוש</string>
+	<string name="NewItemSuffix"> (פריט חדש)</string>
+	<string name="NewRecipeSuffix"> (מתכון חדש)</string>
+	<string name="SearchResults">תוצאות חיפוש</string>
+	<string name="SearchTermNotFound">{0} לא נמצא, נסה לשנות את מונח החיפוש שלך</string>
+	<string name="AcceptNew">הוסף</string>
+	<string name="Name">שם</string>
+	<string name="Nutrition">תזונה</string>
+	<string name="PageTitleItemDetail">מידע על אוכל</string>
+	<string name="EnterWeight">נא להזין משקל קודם</string>
+	<string name="ServingSizes">מנת הגשה</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">כמה\?</string>
+	<string name="MoreOptions">אפשרויות נוספות</string>
+	<string name="NoNutritionInfo">אין מידע תזונתי</string>
+	<string name="AddServingSize">הוסף מנת הגשה</string>
+	<string name="Add">הוסף</string>
+	<string name="SelectDate">לוח שנה</string>
+	<string name="Advertisement">מודעת פרסומת</string>
+	<string name="Unit_Centiliter">סנטיליטר</string>
+	<string name="Unit_Cup">כוס</string>
+	<string name="Unit_Deciliter">דציליטר</string>
+	<string name="Unit_FluidOunce">אונקיה נוזלית</string>
+	<string name="Unit_Gallon">גלון</string>
+	<string name="Unit_Gram">גרם</string>
+	<string name="Unit_Kilogram">קילוגרם</string>
+	<string name="Unit_Liter">ליטר</string>
+	<string name="Unit_Milliliter">מיליליטר</string>
+	<string name="Unit_Ounce">אונקיה</string>
+	<string name="Unit_Pint">שמינית גלון</string>
+	<string name="Unit_Pound">פאונד</string>
+	<string name="Unit_Quart">רבע גלון</string>
+	<string name="Unit_Tablespoon">כף</string>
+	<string name="Unit_Teaspoon">כפית</string>
+	<string name="Units_Centiliter">סנטיליטר</string>
+	<string name="Units_Cup">כוסות</string>
+	<string name="Units_Deciliter">דציליטרים</string>
+	<string name="Units_FluidOunce">אונקיות נוזליות</string>
+	<string name="Units_Gallon">גלונים</string>
+	<string name="Units_Gram">גרמים</string>
+	<string name="Units_Kilogram">קילוגרמים</string>
+	<string name="Units_Liter">ליטרים</string>
+	<string name="Units_Milliliter">מיליליטרים</string>
+	<string name="Units_Ounce">אונקיות</string>
+	<string name="Units_Pint">שמיניות גלונים</string>
+	<string name="Units_Pound">פאונדים</string>
+	<string name="Units_Quart">רבעי גלון</string>
+	<string name="Units_Tablespoon">כפות</string>
+	<string name="Units_Teaspoon">כפיות</string>
+	<string name="DatabaseCulture">he</string>
+	<string name="FeedbackSubject">דואר אלקטרוני מיומן אוכל</string>
+	<string name="Equivalent">סכום</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">טוען...</string>
+	<string name="ExpiredCaption">עדכן כעת \?</string>
+	<string name="ExpiredMessage">תודה לך על השימוש באפליקציה! תוקפו של עותק זה פג, אך אל דאגה. לחץ על אישור כדי לעבור לדף ההורדה.</string>
+	<string name="AgentDescription">משימה זו מעדכנת את האריח החי של יומן האוכל.</string>
+	<string name="AgentDisabled">יישום האריח החי מושבת בטלפון שלך.</string>
+	<string name="PageTitleSettings">ההעדפות שלי</string>
+	<string name="EnableLiveTile">ספור את הארוחות החסרות באריח האפליקצייה.</string>
+	<string name="Reminders">תזכורות</string>
+	<string name="SettingsScreen">הגדרות</string>
+	<string name="PinToStart">להגדיר את האריח</string>
+	<string name="OpenReport">דוח</string>
+	<string name="Report">דוח</string>
+	<string name="CommonServingSizes">עוז g|1 100 = 28 g|כפית = 4.5 g|כף הגשה g|1 12 = = 28 g|חתיכת = 14 g|פרוסה = גביע g|1 12 = 237 g</string>
+	<string name="TakeAPicture">צלם תמונה</string>
+	<string name="ReviewBody">תודה לך על השימוש באפליקציה! אם אתה חושב שהאפליקציה שלנו שימושית, נשמח אם תעזור לנו להפוך אותה למצליחה על ידי השארת הביקורת שלך.</string>
+	<string name="ReviewTitle">האם להשאיר ביקורת\?</string>
+	<string name="Goals">מטרות</string>
+	<string name="NoGoalSet">לא הוגדרו המטרה</string>
+	<string name="EndOfDay">בסוף היום</string>
+	<string name="ReminderContent">מה אכלת\?</string>
+	<string name="ReminderTitle">תזכורת: עדכן את היומן שלך</string>
+	<string name="ReminderDescription">תזכורות שנבחרו להופיע אם לא עדכנת את היומן שלך עד לזמן שנבחר</string>
+	<string name="ScreenshotTitles">מיץ תפוזים, 1 כוס, טוסט, 1 פרוסה, הביצה, בינוני 1, תפוח, קפה, בננה</string>
+	<string name="GoalOver">{0}  קלוריות יותר מהמטרה</string>
+	<string name="GoalUnder">{0}  נותרים</string>
+	<string name="OpenJournal">יומן</string>
+	<string name="RemoveAdsText">בחר ב"אישור" על מנת להסיר את הפרסומות מהאפליקציה</string>
+	<string name="RemoveAdsTitle">האם להסיר את הפרסומות\?</string>
+	<string name="StoreException">עקב תקלה ,לא ניתן להתחבר לחנות ה.Windows Phone   אנא נסה שנית מאוחר יותר.</string>
+	<string name="Feedback_Email">דווח על בעיה</string>
+	<string name="Feedback_EmailText">או הצע תכונה/מאפיין או שאל שאלה</string>
+	<string name="Feedback_Rate">דרג את האפליקציה</string>
+	<string name="Feedback_RateText">משוב מפורט מסייע לנו לשפר את האפליקציה.</string>
+	<string name="Feedback_Screenshot">עזור לנו לשפר את התרגום</string>
+	<string name="Feedback_ScreenshotText">לכידת מסך כלולה</string>
+	<string name="Feedback_Share">שתף קישור</string>
+	<string name="Feedback_ShareText">כדי להוריד אפליקצייה זו</string>
+	<string name="ScreenshotSubject">טקסט יומן אוכל</string>
+	<string name="ShareMessage">בדוק את יומן האוכל עבור Windows Phone</string>
+	<string name="ShareTitle">יומן אוכל</string>
+	<string name="CommonItems_Breakfast">ארוחות בוקר נפוצות</string>
+	<string name="CommonItems_Dinner">ארוחות ערב נפוצות</string>
+	<string name="CommonItems_Lunch">ארוחות צהריים נפוצות</string>
+	<string name="CommonItems_Snack">חטיפים נפוצים</string>
+	<string name="Meals">ארוחות</string>
+	<string name="Period_SnackMorning">בוקר</string>
+	<string name="Period_SnackEarlyAfternoon">בשעות הצהריים</string>
+	<string name="Period_SnackAfternoon">אחר הצהריים</string>
+	<string name="Meals_SnackMorningEnabled">חטיף בוקר נפרד</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">חטיף נפרד של אחר הצהריים המוקדמים</string>
+	<string name="Meals_SnackAfternoonEnabled">חטיף אחר הצהריים נפרד</string>
+	<string name="Period_SnackEvening">ערב</string>
+	<string name="Meals_SnackMidnightEnabled">חטיף חצות נפרד</string>
+	<string name="Period_SnackMidnight">חצות</string>
+	<string name="Meals_SnacksCombined">שלב חטיפים</string>
+	<string name="Meals_SnackEveningEnabled">חטיף ערב נפרד</string>
+	<string name="MyRecentItems_SnackAfternoon">פריטי אחר הצהריים אחרונים</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">פריטים אחרונים של שעות אחר הצהריים המוקדמות</string>
+	<string name="MyRecentItems_SnackEvening">פריטי ערב אחרונים</string>
+	<string name="MyRecentItems_SnackMidnight">פריטי חצות אחרונים</string>
+	<string name="MyRecentItems_SnackMorning">פריטי בוקר אחרונים</string>
+	<string name="CommonItems_SnackAfternoon">פריטי אחר הצהריים נפוצים</string>
+	<string name="CommonItems_SnackEarlyAfternoon">פריטים נפוצים של שעות אחר הצהריים המוקדמות</string>
+	<string name="CommonItems_SnackEvening">פריטי ערב נפוצים</string>
+	<string name="CommonItems_SnackMidnight">פריטי חצות נפוצים</string>
+	<string name="CommonItems_SnackMorning">פריטי בוקר נפוצים</string>
+	<string name="UnlockFullBody">תודה שניסית את יומן מזון. יש לך {0} ימים ניסיון הנותרים. לחץ על אישור כדי לפתוח את האפליקציה.</string>
+	<string name="UnlockFullTitle">. לפתוח עכשיו\?</string>
+	<string name="TrialExpiredBody">המשפט שלך עכשיו שפג תוקפו. אתה עדיין יכול לראות את היומן שלך, אך אינך יכול להוסיף ערכים חדשים. בחר אישור לפתוח את הגירסה המלאה.</string>
+	<string name="Feedback_RemoveAds">הסר מודעות</string>
+	<string name="Feedback_RemoveAdsText">להסיר לצמיתות את כל הפרסומות</string>
+	<string name="StoreText_5">הורד כעת כי אתה תאהב את השימוש בו.</string>
+	<string name="AppTitle">יומן אוכל</string>
+	<string name="StoreText_4">תכונות מובחרות:
+1. אין עוד פרסומת.
+2. הרבה יותר גדול מזון מסד נתונים.
+3. היכולת לשלוח לעצמך עותק של החלב.
+4. אפשרויות תצורה נוספות, כולל היכולת להזין עד 8 ארוחות ביום נפרד.</string>
+	<string name="StoreText_3">תכונות:
+1. עיצוב פשוטה ורבת -עוצמה: app פותח ישירות במסך הכניסה, את הארוחה האחרונה, כי זה מה תשתמש ביותר. העיצוב עושה הוספת ערכים כמו פשוטה ואינטואיטיבית ככל האפשר.
+2. ברז כניסה עם הצעות מותאמות אישית: מיד ניתן לבחור את פריטי המזון הנפוץ ביותר. החל ביום השני, פריטים אחרונים שלך הם הציעו כי תוכלי לאכול את אותו האוכל בתדירות גבוהה.
+3. רישום באין צורך: אין מידע אישי או פרטי קשר נדרש.
+4. אלפי פריטים שכבר קיימים במסד הנתונים: רוב פריטי מזון יש מידע מדויק על נפוצות בגדלי הגשה, קלוריות, פחמימות, חלבון ושומן. 
+5. תמיכה מלאה במצב לא מקוון: אין צורך להיות מחובר לאינטרנט. 
+6. מדויקת כניסה גם קל: באפשרותך להזין במדויק הסכום המדויק באמצעות מחוון.
+7. היומית מדווחת: באמצעות התפריט, אתה יכול לפתוח ישירות היומן, אשר מציג סיכום של היום שלך. כאן אתה יכול לעבור בין קלוריות, חלבון ופחמימות על-ידי לחיצה על המשולש הקטן.
+8. לעקוב אחר המטרות שלך: לאחר הזנת המטרות שלך, באפשרותך להשתמש ח שבוע כדי לראות את המגמות. 
+9. תזכורות אישיות לעזור לך! תישאר על המטרה: הן דרך נוחה לוודא למלא את היומן שלך, אחרי כל ארוחה, או בסוף היום.
+
+. זה רעיון טוב כדי לאמת המידע במסד הנתונים זהה המידע על אריזות מזון שלך; מזון תזונה תנודות עם מותגים, ועם הזמן.
+
+ודא לדון במטרות עם מומחה הרופא או תזונה.</string>
+	<string name="StoreText_2">על היישום:
+שמירה על מסלול של מה שאתה אוכל הוכח כדי למנוע ולתקן להפסיק לאכול יתר על המידה.
+יישום זה מסייע לך שליטה בתזונה ולאכול בריא יותר, על-ידי הפיכתה קל לעקוב אחר מה שאתה אוכל. העיצוב ממוטבת לעשות כניסה מהר ככל מזון עם ערך לחץ 1, ושהיו הצעות. המאגר נבנה ב כבר יש אלפי פריטי מזון, ואם שלך אינה ידועה, הוספתם קל.
+
+שימו לב: האפליקציה הזו היא להורדה ללא תשלום, ונתמכים על ידי פרסומות. באפשרותך להשתמש זה בחינם כל עוד אתה אוהב. זה אפשרי להסיר הפרסומת בתשלום, אשר יאפשר גם תכונות נוספות.</string>
+	<string name="StoreText_1">יומן מזון: שלך דיאטה, קלוריות מעקב אחר יישום.</string>
+	<string name="StoreKeyword_5">תזונה</string>
+	<string name="StoreKeyword_4">קלוריות</string>
+	<string name="StoreKeyword_3">דיאטה</string>
+	<string name="StoreKeyword_2">יומן אוכל</string>
+	<string name="StoreKeyword_1">מונה קלוריות</string>
+	<string name="Screenshot_H3">בננה</string>
+	<string name="Screenshot_H2">קפה</string>
+	<string name="Screenshot_H1">תפוח</string>
+	<string name="Screenshot_3a">ביצה</string>
+	<string name="Screenshot_2b">1 חתיכה</string>
+	<string name="Screenshot_2a">צנים</string>
+	<string name="Screenshot_1b">1  כוס</string>
+	<string name="Screenshot_1a">מיץ תפוזים</string>
+	<string name="Product_2">תודה לך על תמיכתך! השתמש באפשרות זו כדי להסיר לצמיתות את פרסומות מתוך app שלך יומן מזון.</string>
+	<string name="Product_1">להסיר את הפרסומות</string>
+	<string name="CantCalculateNutrition">הזן משקל</string>
+	<string name="TrialExpiredTitle">פגה תקופת הניסיון, לפתוח\?</string>
+	<string name="Screenshot_3b">1 בינוני</string>
+	<string name="SendFeedback">אודות</string>
+	<string name="Feedback_Header">הדרך המהירה והקלה ביותר כדי לעקוב אחר מה שאתה אוכל.
+
+גלול למטה לפרטים על דיוק המידע.</string>
+	<string name="Feedback_Unlock">שדרג עכשיו</string>
+	<string name="Feedback_UnlockText">קנה את גירסת הפרימיום</string>
+	<string name="EmailReport_SubjectTemplate">יומן אוכל עבור {0}</string>
+	<string name="EmailReport_Exception">משהו בלתי צפוי התרחש. היומן לא נשלח.</string>
+	<string name="EmailReport_InvalidEmailAddress">אנא הזן כתובת דואר אלקטרוני חוקית.</string>
+	<string name="Total">סה"כ</string>
+	<string name="Price">רק {0}</string>
+	<string name="Feature6_Text">תמוך בפיתוח</string>
+	<string name="Feedback_Footer">כתב ויתור:
+לרוב, אך לא כולם נקודות נתונים במסד הנתונים מגיעים מקורות בעלי מוניטין. אנחנו עושים כמיטב יכולתנו כדי לוודא שכל הערכים הם מדויקים, אבל לא יכולים להיות אחראים נתונים שגוי או חסר. ערכים תזונתיים להשתנות על ידי המותג לאורך זמן. באמצעות יישום זה, אתה מסכים לאמת ולתקן נתונים ב- app, להיות אחראי באופן מלא על פציעה או נזק שייגרם עקב השימוש בו.
+
+אנא הודע לי אם יש משהו שאני יכול לעזור לך.</string>
+	<string name="Feature6_Desc">עזור לנו להמשיך ולאפשר עדכונים נוספים של האפליקציה.</string>
+	<string name="GetAllFeatures">קבל את כל התכונות</string>
+	<string name="Feature_Header">כולל :</string>
+	<string name="Feature_Footer">* הערה: רוב המידע, אך לא כולו, מגיע ממקורות בעלי מוניטין.על ידי רכישת גרסה משופרת, אתה מקבל אחריות מלאה לגבי דיוק ושלמות הנתונים. פנה אלינו בכתובת daily.journal@outlook.com  לקבלת פרטים  נוספים.</string>
+	<string name="Feature5_Text">תכונות חדשות</string>
+	<string name="Feature5_Desc">כל מאפייני הפרימיום אשר יופיעו בעדכונים הבאים.</string>
+	<string name="Feature4_Text">ארוחות נוספות</string>
+	<string name="Feature4_Desc">עבור מעקב אחר 5, 6 או יותר ארוחות ביום</string>
+	<string name="Feature3_Text">מזונות נוספים *</string>
+	<string name="Feature3_Desc">מאות עד אלפי פריטי אוכל נוספים (בהתאם למיקום)</string>
+	<string name="Feature2_Text">שלח את הדוחות לדואר האלקטרוני.</string>
+	<string name="Feature2_Desc">שלח את היומן שלך לדואר האלקטרוני על מנת לשמור העתק ממנו, להדפיסו או לנתחו.</string>
+	<string name="Feature1_Text">אין פרסומות</string>
+	<string name="Feature1_Desc">כל מודעות הפרסומת יוסרו לצמיתות.</string>
+	<string name="BuyNow">קנה עכשיו</string>
+	<string name="EmailReport_ShowSettings">לשלוח באמצעות דואר אלקטרוני</string>
+	<string name="EmailReport_SendNow">שלח עכשיו</string>
+	<string name="EmailReport_Address">כתובת דואר אלקטרוני</string>
+	<string name="Product_4">קבל גישה לכל תכונות</string>
+	<string name="Product_3">שדרוג לפרימיום</string>
+	<string name="EmailReport_Footer2">הערה: רוב הנקודות במסד הנתונים, אך לא כולם,  מגיעים ממקורות בעלי מוניטין. אנחנו עושים כמיטב יכולתנו כדי לוודא שהערכים מדויקים, אך אין אנו יכולים לקחת אחריות על נתונים שגויים או חסרים. באמצעות השימוש באפליקציה, אתה מאשר ומסכים לקבל על עצמך את מלוא האחריות לבדיקת דיוק הנתונים. האפליקציה מאפשרת לעדכן אי-התאמות שאתה עשוי לגלות.</string>
+	<string name="EmailReport_Footer1">היומן מאת AAA
+הערות או שאלות\? תגובה ל BBB</string>
+	<string name="Localization_Submit">בצע</string>
+	<string name="Localization_TranslationsText">נא לעדכן את הטקסטים ברשימה זו עם תרגום טוב יותר. להסיר את כל הטקסט עבור פריטים אשר אינם הולמים עבור האזור שלך.</string>
+	<string name="Localization_ThankYou">תודה על עזרתך!</string>
+	<string name="Localization_Translations">תרגומים</string>
+	<string name="Localization_Text">כאן תוכל לסייע לשפר אפליקציה זו.</string>
+	<string name="Localization_Original">מקורי :</string>
+	<string name="Localization_Good">טוב</string>
+	<string name="Localization_Description">תיאור:</string>
+	<string name="Feedback_LocalizeText">עזור לנו לשפר את האפליקציה</string>
+	<string name="Localization_CommentText">הזן את כתובת הדואר האלקטרוני שלך אם ברצונך שניצור עמך קשר.</string>
+	<string name="Localization_Comment">הגב</string>
+	<string name="Feedback_Localize">שפר את התרגום</string>
+	<string name="AddToLauncher">הוסף ללאנצ\'ר</string>
+	<string name="Avg">ממוצע</string>
+	<string name="Cancel">ביטול</string>
+	<string name="CopyFromSimilarItem">העתקת פריט דומה</string>
+	<string name="DeleteEntry">מחק ערך</string>
+	<string name="EnterTheWeightForThisAmount">הזן את המשקל עבור כמות זו</string>
+	<string name="MoreOptions2">אפשרויות נוספות</string>
+	<string name="None">אף אחד</string>
+	<string name="Ok">אישור</string>
+	<string name="OneDaySalePctOff">הנחה ליום אחד בלבד של  {0} %</string>
+	<string name="Total2">סה"כ</string>
+	<string name="EmailReport_Footer1a">יומן מאת AAA</string>
+	<string name="EmailReport_Footer1b">הערות או שאלות\? שלח תגובה ל BBB</string>
+	<string name="Add_New">פריט חדש</string>
+	<string name="Add_Note">הוספת הערה</string>
+	<string name="add_target">להוסיף לתזונה</string>
+	<string name="choose_time">זמן מוגדרת</string>
+	<string name="daily_target">תזונה</string>
+	<string name="daily_target_hint">המטרה היומית (אופציונלי)</string>
+	<string name="describe_goal">לתאר את המטרה שלך כאן</string>
+	<string name="drawer_close">סגור</string>
+	<string name="drawer_open">פתוח</string>
+	<string name="edit_meals">לבחור ארוחות</string>
+	<string name="enter_meal_time">הזן זמן לכל ארוחה</string>
+	<string name="enter_serving_weight">להזין משקל (g) קודם</string>
+	<string name="enter_value">הזן תזונה</string>
+	<string name="get_started">נתחיל!</string>
+	<string name="get_started_second_text">הקש על \'+\' כדי להוסיף ערך ליומן שלך.</string>
+	<string name="Input_Notes">הזן את הערותיך כאן</string>
+	<string name="meal_options">אפשרויות ארוחה</string>
+	<string name="Period_First_Snack">Period_First_Snack סוער</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack סוער</string>
+	<string name="Period_Second_Snack">Period_First_Snack סוער</string>
+	<string name="Period_Third_Snack">Period_First_Snack סוער</string>
+	<string name="personal_goal">המטרה האישית</string>
+	<string name="Per_Cup">1 כוס (250 גרם) לא רגילים</string>
+	<string name="Per_Grams">100 גרם</string>
+	<string name="portion_caption">חלק</string>
+	<string name="RadioButton_Alpha">בסדר אלפביתי NOTYETUSED</string>
+	<string name="RadioButton_Sort">מיין לפי ההיסטוריה NOTYETUSED</string>
+	<string name="Serving">הגשה</string>
+	<string name="Show_More_Options">אפשרויות נוספות</string>
+	<string name="show_total_with_meal">הצג יעד תזונה</string>
+	<string name="target_date">תאריך היעד</string>
+	<string name="target_date_hint">בחר את תאריך היעד שלך</string>
+	<string name="transition_name_circle">המעבר: מעגל</string>
+	<string name="transition_name_name">המעבר: שם</string>
+	<string name="transition_name_phone">המעבר: טלפון</string>
+	<string name="Type_Name">חיפוש</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">מטרי יחידות</string>
+	<string name="Units_US">יחידות בארה ב</string>
+	<string name="Upgrade">שדרוג</string>
+	<string name="weight_gram">משקל (g)</string>
+	<string name="InvalidEmailError">כתובת דואר אלקטרוני לא חוקית</string>
+	<string name="NoGoalsTitle">כל הערכים</string>
+	<string name="SendReportTitle">לשלוח דוח</string>
+	<string name="DeleteEntryMessage">האם למחוק את הפוסט הזה\?</string>
+	<string name="NewBody">שיפורים רבים כללו: הערות, יותר מזונות, עיצוב טוב יותר, ועוד.
+הורד בחינם\?</string>
+	<string name="NewTitle">גירסה 2.0 זמין כעת!</string>
+</resources>

@@ -1,0 +1,1582 @@
+﻿Row	ID	AllWeights	AllProperties
+0	WS19381	1 nagy pohár=355|1 kis pohár=180|1 csésze	032.65|040.1|060.4|070.1|127.65|130.05|1427.5|151.4
+1	WS8997	1 mell=160|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szelet=81|1 egység=100|1 adag=100|0.3 csésze (apróra k vágott)|2 egységs|1 csésze (apróra vágott, vagy kockára vágott)=140	03160|0430|053.45|091|101.25|110.75|1215|131.05|14255|1574|1685|180.1
+2	WS19344	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 vékony szelet héja (kocka)=9|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03270|0410.5|053.45|0649.5|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+3	WS19752	1 közepes=44|1 nagy=50|3 db=120|1 kis=38|1 extra nagy=56|2 darab=105|1 csésze	03145|0412.5|059.5|060.75|080.35|093.15|103.65|111.9|1256|131.75|14140|15145|16370|182
+4	WS19345	1 közepes (8 cm)=180|1 kis (7 cm)=150|1 nagy (8 cm)=225|1 kis alma=125|1 extra kicsi (6 cm)=100|2 db=275|1 kicsi=100|1 csésze (szeletek)=110|1 csésze (apróra vágott)=125|1 nagy=230|1 közepes=200|1 kis (5 cm)=50	0351|040.25|050.15|0613.5|072.4|0810.5|090.05|110.05|126|130.1|14105|151|174.6
+5	WS19381	1 nagy pohár=355|1 kis pohár=180|1 csésze	032.65|040.1|060.4|070.1|127.65|130.05|1427.5|151.4
+6	WS19753	1 adag=100|1 c=60|0.3 csésze	03365|0412|056.9|0668.5|0710|081.5|091.35|102.35|112.55|12350|1324.5|14365|15220
+7	WS8997	1 mell=160|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szelet=81|1 egység=100|1 adag=100|0.3 csésze (apróra k vágott)|2 egységs|1 csésze (apróra vágott, vagy kockára vágott)=140	03160|0430|053.45|091|101.25|110.75|1215|131.05|14255|1574|1685|180.1
+8	WS19279	1 adag=50|1 csésze	03335|046.6|050.6|0673.5|071.2|080.1|090.15|100.2|110.15|1226|133.9|14105|154.5
+9	WS19280	1 kis pohár=180|1 nagy pohár=355|1 cu'p=235|1 csésze|1.5 deciliters	0342|043.35|050.95|065|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+10	WS19518	1 szelet=27|1 vékony szelet=15|1 adag=200|1 csésze	03175|0422.5|059|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+11	WS19344	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 vékony szelet héja (kocka)=9|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03270|0410.5|053.45|0649.5|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+12	WS22400	1 szelet=25|1 nagyon vékony szelet (kocka)=15|1 vékony szelet=20|2 darab nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 szelet héja=12|2 vékony szelet héja (kocka)=18|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03260|0411|053.3|0650.5|074.3
+13	WS21060	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50|1 sült krumpli=71|1 nagy (8 cm. 11 cm-es)=370|8.3 sült=100	03310|043.4|0514.5|0641|073.8|080.3|092.3|105.95|115.35|1218|130.8|14580|15210|174.75
+14	WS19345	1 közepes (8 cm)=180|1 kis (7 cm)=150|1 nagy (8 cm)=225|1 kis alma=125|1 extra kicsi (6 cm)=100|2 db=275|1 kicsi=100|1 csésze (szeletek)=110|1 csésze (apróra vágott)=125|1 nagy=230|1 közepes=200|1 kis (5 cm)=50	0351|040.25|050.15|0613.5|072.4|0810.5|090.05|110.05|126|130.1|14105|151|174.6
+15	WS9000	1 nagy pohár=355|1 tányér=180|1 kis pohár=180|1 serving=100|1 csésze	037.9|041.25|050.25|060.1|090.1|100.1|126|130.15|1454|15370
+16	WS19754	1 közepes (18 cm. 20 cm-es)=120|1 kis (15 cm-18 cm)=100|1 nagy (20 cm és 22 cm)=135|1 extra kicsi (15 cm-nél kisebb)=81|1 csésze (tört)=225|1 közepes (18 cm, 20 cm-es)=120|1 extra-nagy (22 cm-es vagy hosszabb)=150|1 csésze (szeletelve)=150	0394.5|041.1|050.3|0623|072.05|0817|090.1|110.05|127.75|130.4|14385|151|1711.5
+17	WS19754	1 közepes (18 cm. 20 cm-es)=120|1 kis (15 cm-18 cm)=100|1 nagy (20 cm és 22 cm)=135|1 extra kicsi (15 cm-nél kisebb)=81|1 csésze (tört)=225|1 közepes (18 cm, 20 cm-es)=120|1 extra-nagy (22 cm-es vagy hosszabb)=150|1 csésze (szeletelve)=150	0394.5|041.1|050.3|0623|072.05|0817|090.1|110.05|127.75|130.4|14385|151|1711.5
+18	WS20809	1 közepes kifli=57|1 kis kifli=42|1 nagy kifli=67|2 kifli=42|2 fél=100	03405|048.25|0521|0646|072.6|0811.5|0911.5|105.55|111.1|1237|132.05|14120|15470|1667|170.2
+19	WS19344	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 vékony szelet héja (kocka)=9|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03270|0410.5|053.45|0649.5|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+20	WS20324	1 közepes (6 cm)=125|1 kis paradicsom (6 cm)=91|1 nagy (8 cm)=180|1 kis parardicsom (6 cm)=110|1 szelet (1 cm)=20|5 kicsi=125|0.5 közepes=125|1 közepes 6 cm=83|1 vastag/nagy szelet (1 cm)=27|1 ék (1/4 közepes paradicsom)=31|1 kis paradicsom (6 cm)í hogy nem is=105|1 csésze	0320|040.9|050.4|064.6|071.5|1215|131.1|1716
+21	WS20324	1 közepes (6 cm)=125|1 kis paradicsom (6 cm)=91|1 nagy (8 cm)=180|1 kis parardicsom (6 cm)=110|1 szelet (1 cm)=20|5 kicsi=125|0.5 közepes=125|1 közepes 6 cm=83|1 vastag/nagy szelet (1 cm)=27|1 ék (1/4 közepes paradicsom)=31|1 kis paradicsom (6 cm)í hogy nem is=105|1 csésze	0320|040.9|050.4|064.6|071.5|1215|131.1|1716
+22	WS19381	1 nagy pohár=355|1 kis pohár=180|1 csésze	032.65|040.1|060.4|070.1|127.65|130.05|1427.5|151.4
+23	WS19702	1 forduló szelet=12.5|6 darab=24.5|1 adag=30|2 szelet	03340|0422|0526|062.4|080.95|099.3|1011|112.55|1215|131.55|14315|151750|1689|181
+24	WS19752	1 közepes=44|1 nagy=50|3 db=120|1 kis=38|1 extra nagy=56|2 darab=105|1 csésze	03145|0412.5|059.5|060.75|080.35|093.15|103.65|111.9|1256|131.75|14140|15145|16370|182
+25	WS19344	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 vékony szelet héja (kocka)=9|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03270|0410.5|053.45|0649.5|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+26	WS20324	1 közepes (6 cm)=125|1 kis paradicsom (6 cm)=91|1 nagy (8 cm)=180|1 kis parardicsom (6 cm)=110|1 szelet (1 cm)=20|5 kicsi=125|0.5 közepes=125|1 közepes 6 cm=83|1 vastag/nagy szelet (1 cm)=27|1 ék (1/4 közepes paradicsom)=31|1 kis paradicsom (6 cm)í hogy nem is=105|1 csésze	0320|040.9|050.4|064.6|071.5|1215|131.1|1716
+27	WS19286	1 keksz (6 cm)=35|10 keksz háztartási=20|1 közepes=51|1 kis=35|3 keksz=50|1 nagy=77|2 keksz (ĺ6 cm)=120	03360|046.2|0516.5|0648|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+28	WS20826	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1.5 nagy levél (kb. 18 cm)=22.5|1 kis levél (reszelt)=5|1 közepes saláta (15 cm)=540|0.7 közepes levél kb. 14 cm=21|1 csésze (reszelt)=72|1 kis fej (reszelt)=325|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755	0314|040.9|050.15|062.95|071.2|081.95|110.05|1218|130.4|14140|1510|172.8
+29	WS19279	1 adag=50|1 csésze	03335|046.6|050.6|0673.5|071.2|080.1|090.15|100.2|110.15|1226|133.9|14105|154.5
+30	WS41415	1 rúd (sq 2 cm. 1 cm)=115|1 rúd (sq 2 cm. 1 )=10|1 rúd (sq 2 cm. 2 cm)=115|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|1511|16215|181.5
+31	WS19346	1 szelet=25|1 vékony szelet=20|0.5 nagyon vékony szelet (kocka)=7.5|1 nagy szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03310|0413|053.95|0655.5|074.6|086.3|090.95|101|111.7|12165|134.1|14225|15605|170.2
+32	WS19285	1 mini bár=7|4 kocka=14|1 Tábla=50	03545|047.7|0530|0660|073.4|0851.5|0918.5|107.2|111.4|12190|132.35|14370|1579|1623
+33	WS19755	0.5 csirke=460|1 csirkecomb=135|1 mell=290|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szárny=49|0.5 c=80|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03180|0420.5|0511|1214|131.5
+34	WS19345	1 közepes (8 cm)=180|1 kis (7 cm)=150|1 nagy (8 cm)=225|1 kis alma=125|1 extra kicsi (6 cm)=100|2 db=275|1 kicsi=100|1 csésze (szeletek)=110|1 csésze (apróra vágott)=125|1 nagy=230|1 közepes=200|1 kis (5 cm)=50	0351|040.25|050.15|0613.5|072.4|0810.5|090.05|110.05|126|130.1|14105|151|174.6
+35	WS21450	1 közepes=200|1 csésze (apróra vágott)=135|1 rúd (10 cm)=9|4 szelet=28|1 kis (16 cm)=160|1 csésze (szeletelve)=120|1 nagy (21 cm)=280|2 kicsi=200|0.2 rúd (20)cm	0312.5|040.6|050.15|062.2|070.7|081.4|110.1|1214|130.2|14135|152|173.2
+36	WS19753	1 adag=100|1 c=60|0.3 csésze	03365|0412|056.9|0668.5|0710|081.5|091.35|102.35|112.55|12350|1324.5|14365|15220
+37	WS19752	1 közepes=44|1 nagy=50|3 db=120|1 kis=38|1 extra nagy=56|2 darab=105|1 csésze	03145|0412.5|059.5|060.75|080.35|093.15|103.65|111.9|1256|131.75|14140|15145|16370|182
+38	WS40887	100 gramm	03240|0426.5|0514|094.9|106|111.5|1220|131.1|14340|1557|1688|170.1|180.9
+39	WS19518	1 szelet=27|1 vékony szelet=15|1 adag=200|1 csésze	03175|0422.5|059|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+40	WS19346	1 szelet=25|1 vékony szelet=20|0.5 nagyon vékony szelet (kocka)=7.5|1 nagy szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03310|0413|053.95|0655.5|074.6|086.3|090.95|101|111.7|12165|134.1|14225|15605|170.2
+41	WS19862	1 narancs (7 cm)=130|1 nagy (8 cm)=185|1 kis (6 cm)=96|1 csésze (szakaszok)=180|0.5 narancs=65.5	0347|040.95|050.1|0611.5|072.4|089.35|110.05|1240|130.1|14180|1753
+42	WS19757	1 tartály=245|1 kis tartály=125|1 közepes konténer=185|1 pohar=245|1 Kis pohár=125	0395.5|043.8|052.9|0613.5|0813|091.8|100.7|110.15|12130|14125|1545|169|180.05
+43	WS19345	1 közepes (8 cm)=180|1 kis (7 cm)=150|1 nagy (8 cm)=225|1 kis alma=125|1 extra kicsi (6 cm)=100|2 db=275|1 kicsi=100|1 csésze (szeletek)=110|1 csésze (apróra vágott)=125|1 nagy=230|1 közepes=200|1 kis (5 cm)=50	0351|040.25|050.15|0613.5|072.4|0810.5|090.05|110.05|126|130.1|14105|151|174.6
+44	WS20826	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1.5 nagy levél (kb. 18 cm)=22.5|1 kis levél (reszelt)=5|1 közepes saláta (15 cm)=540|0.7 közepes levél kb. 14 cm=21|1 csésze (reszelt)=72|1 kis fej (reszelt)=325|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755	0314|040.9|050.15|062.95|071.2|081.95|110.05|1218|130.4|14140|1510|172.8
+45	WS30871	1 szelet=28|1 csésze (kockázva)=130|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|1 köbcenti=17|1 csésze (elolvadt)=245	03380|0427|0528|065.4|081.3|0918|107.25|110.95|12790|130.2|1477|15190|1692|180.5
+46	WS38995	1 kicsomagolt TK=3|1 csomag=2.8|1 csomagolt TK=4.6|1 kicsomagolt kupa=145|0.8000001 csomagolt kupa=175	03385|06105|08100|121|130.05|142|151
+47	WS19522	1 szelet=25|1 vékony szelet=20|1 nagy szelet (kocka)=30|1 szelet héja=12|1 nagyon vékony szelet (kocka)=15|1 csésze (zsemlemorzsa)=45|1 vékony szelet héja (kocka)=9|0.8 nagy szelet|1 csésze (kocka)=35	03270|049.2|053.15|0649|072.7|085.05|090.7|100.6|111.6|12260|133.6|14115|15490
+48	WS19752	1 közepes=44|1 nagy=50|3 db=120|1 kis=38|1 extra nagy=56|2 darab=105|1 csésze	03145|0412.5|059.5|060.75|080.35|093.15|103.65|111.9|1256|131.75|14140|15145|16370|182
+49	WS38986	2 rúd (sq 2 cm. 1 cm)=225|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03875|040.3|0599.5|0962|1028.5|113.7|124|145|152|16255|181.8
+50	WS19757	1 tartály=245|1 kis tartály=125|1 közepes konténer=185|1 pohar=245|1 Kis pohár=125	0395.5|043.8|052.9|0613.5|0813|091.8|100.7|110.15|12130|14125|1545|169|180.05
+51	WS24766	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1 közepes saláta (15 cm)=540|1 doboz=140|2 nagy levél (kb. 18 cm)=30|1 kis levél (reszelt)=5|1 csésze (reszelt)=72|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755|1 kis fej (reszelt)=325	0317.5|041.35|050.15|062.85|071.3|080.8|110.1|1236|130.85|14195|1528|179.2
+52	WS21030	1 pohár=12|0.5 tartály=120|1.2 po=20.5|1 evőkanál	03200|042.1|0520|064.05|082.9|0911.5|105.05|110.85|12110|130.15|14140|1580|1652|170.9|180.4
+53	WS19754	1 közepes (18 cm. 20 cm-es)=120|1 kis (15 cm-18 cm)=100|1 nagy (20 cm és 22 cm)=135|1 extra kicsi (15 cm-nél kisebb)=81|1 csésze (tört)=225|1 közepes (18 cm, 20 cm-es)=120|1 extra-nagy (22 cm-es vagy hosszabb)=150|1 csésze (szeletelve)=150	0394.5|041.1|050.3|0623|072.05|0817|090.1|110.05|127.75|130.4|14385|151|1711.5
+54	WS20325	1 közepes (6 cm)=110|1 evőkanál (apróra vágott)=10|10 gyűrűk=60|1 nagy szelet (1 cm)=38|1 kis=70|1 vékony szelet=9|0.5 csésze (apróra vágott)=80|1 csésze (szeletelve)=115|1 nagy=150|1 közepes szelet=14|0.1 csésze (apróra evágott)=12|2.1 közepes (6 cm) ca	0340|041.1|050.1|069.35|071.7|084.25|090.05|1223|130.2|14145|154|177.4
+55	WS21028	1 csirkecomb=105|1 csirkecomb (bőrrel)=135|1 comb=72|1 csirkecomb nélkül (bőr)=120|1 láb csont=200|1 vissza-csont=22|200 milliliter|1 csirkecombot|1 rántott csirkecomb	03175|0423.5|057.9|092.15|103.1|111.65|1212|131.05|14265|1599.5|16125|180.1
+56	WS22539	1 közepes=61|1 kis (14 cm)=50|1 nagy (7-21 cm)=72|1 adag=300|1 csésze (apróra vágott)=130|1 csésze (csíkokra vagy szelet)=120|1 nagy szalag (8 cm)=7|1 szelet=3|1 cs=7|1 csésze (reszelt)=110	0341|040.95|050.25|069.55|072.8|084.75|090.05|110.1|1233|130.3|14320|1569|175.9
+57	WS22169	1 kis csomag=85|1 felvert evőkanál=10|1 köbcenti=16|1 evőkanál	03340|045.95|0534|064.05|083.2|0919.5|108.6|111.45|1298|130.4|14140|15320|16110|180.6
+58	WS19518	1 szelet=27|1 vékony szelet=15|1 adag=200|1 csésze	03175|0422.5|059|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+59	WS19280	1 kis pohár=180|1 nagy pohár=355|1 cu'p=235|1 csésze|1.5 deciliters	0342|043.35|050.95|065|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+60	WS19522	1 szelet=25|1 vékony szelet=20|1 nagy szelet (kocka)=30|1 szelet héja=12|1 nagyon vékony szelet (kocka)=15|1 csésze (zsemlemorzsa)=45|1 vékony szelet héja (kocka)=9|0.8 nagy szelet|1 csésze (kocka)=35	03270|049.2|053.15|0649|072.7|085.05|090.7|100.6|111.6|12260|133.6|14115|15490
+61	WS8997	1 mell=160|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szelet=81|1 egység=100|1 adag=100|0.3 csésze (apróra k vágott)|2 egységs|1 csésze (apróra vágott, vagy kockára vágott)=140	03160|0430|053.45|091|101.25|110.75|1215|131.05|14255|1574|1685|180.1
+62	WS21029	1 közepes szár (19 cm - 20 cm)=180|0.5 csésze (apróra vágott)=92|1 kis fej=25|1 adag=300|1 nagy szár (12 cm - 15 cm)=280|1 kis szár (12 cm)=140|3 lándzsa (kb. 12 cm)=110	0334|042.4|050.4|066.8|073.3|081.4|090.1|100.05|110.15|1240|130.65|14295|1541|1765
+63	WS21450	1 közepes=200|1 csésze (apróra vágott)=135|1 rúd (10 cm)=9|4 szelet=28|1 kis (16 cm)=160|1 csésze (szeletelve)=120|1 nagy (21 cm)=280|2 kicsi=200|0.2 rúd (20)cm	0312.5|040.6|050.15|062.2|070.7|081.4|110.1|1214|130.2|14135|152|173.2
+64	WS9235	1 közepes=44|2 kicsi=60|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze	03195|0414|0515|060.95|080.4|094.3|106.15|113.25|1262|131.9|14150|15205|16400|182.2
+65	WS19755	0.5 csirke=460|1 csirkecomb=135|1 mell=290|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szárny=49|0.5 c=80|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03180|0420.5|0511|1214|131.5
+66	WS20343	1 adag=48|4 szelet=110|1 db=48	03340|0419.5|0528.5|099.15|1012.5|113.75|1213|131.35|14295|15895|1684|170.7|180.7
+67	WS19759	1 szelet=8|1 vastag szelet=12|1 vékony szelet=5|1 adag=100	03540|0436.5|0542|061.45|0913.5|1018.5|114.55|1211|131.45|14565|151700|16110|181
+68	WS25780	1 nagy pohár=355|1 kis pohár=180|1 csésze	0350|043.3|052|064.8|085.05|091.25|100.55|110.05|12120|14140|1547|168|170.2|181.2
+69	WS19518	1 szelet=27|1 vékony szelet=15|1 adag=200|1 csésze	03175|0422.5|059|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+70	WS19759	1 szelet=8|1 vastag szelet=12|1 vékony szelet=5|1 adag=100	03540|0436.5|0542|061.45|0913.5|1018.5|114.55|1211|131.45|14565|151700|16110|181
+71	WS19862	1 narancs (7 cm)=130|1 nagy (8 cm)=185|1 kis (6 cm)=96|1 csésze (szakaszok)=180|0.5 narancs=65.5	0347|040.95|050.1|0611.5|072.4|089.35|110.05|1240|130.1|14180|1753
+72	WS20809	1 közepes kifli=57|1 kis kifli=42|1 nagy kifli=67|2 kifli=42|2 fél=100	03405|048.25|0521|0646|072.6|0811.5|0911.5|105.55|111.1|1237|132.05|14120|15470|1667|170.2
+73	WS21450	1 közepes=200|1 csésze (apróra vágott)=135|1 rúd (10 cm)=9|4 szelet=28|1 kis (16 cm)=160|1 csésze (szeletelve)=120|1 nagy (21 cm)=280|2 kicsi=200|0.2 rúd (20)cm	0312.5|040.6|050.15|062.2|070.7|081.4|110.1|1214|130.2|14135|152|173.2
+74	WS30178		0392.5
+75	WS22400	1 szelet=25|1 nagyon vékony szelet (kocka)=15|1 vékony szelet=20|2 darab nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 szelet héja=12|2 vékony szelet héja (kocka)=18|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03260|0411|053.3|0650.5|074.3
+76	WS44890	1.5 adag=150|0.5 k=91|0.5 csésze	0373.5|042.85|050.35|0614|074.4|083.1|090.05|110.05|1225|130.8|14170|1535|173.2
+77	WS8922		0366|043.3|052.95|065.5
+78	WS40887	100 gramm	03240|0426.5|0514|094.9|106|111.5|1220|131.1|14340|1557|1688|170.1|180.9
+79	WS24766	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1 közepes saláta (15 cm)=540|1 doboz=140|2 nagy levél (kb. 18 cm)=30|1 kis levél (reszelt)=5|1 csésze (reszelt)=72|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755|1 kis fej (reszelt)=325	0317.5|041.35|050.15|062.85|071.3|080.8|110.1|1236|130.85|14195|1528|179.2
+80	WS22539	1 közepes=61|1 kis (14 cm)=50|1 nagy (7-21 cm)=72|1 adag=300|1 csésze (apróra vágott)=130|1 csésze (csíkokra vagy szelet)=120|1 nagy szalag (8 cm)=7|1 szelet=3|1 cs=7|1 csésze (reszelt)=110	0341|040.95|050.25|069.55|072.8|084.75|090.05|110.1|1233|130.3|14320|1569|175.9
+81	WS102020		03105
+82	WS42722	1 adag=100|1 csésze	03160|043.6|051.2|0633|071.8|080.35|090.2|100.35|110.3|1210|130.4|1443|155
+83	WS19754	1 közepes (18 cm. 20 cm-es)=120|1 kis (15 cm-18 cm)=100|1 nagy (20 cm és 22 cm)=135|1 extra kicsi (15 cm-nél kisebb)=81|1 csésze (tört)=225|1 közepes (18 cm, 20 cm-es)=120|1 extra-nagy (22 cm-es vagy hosszabb)=150|1 csésze (szeletelve)=150	0394.5|041.1|050.3|0623|072.05|0817|090.1|110.05|127.75|130.4|14385|151|1711.5
+84	WS19346	1 szelet=25|1 vékony szelet=20|0.5 nagyon vékony szelet (kocka)=7.5|1 nagy szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03310|0413|053.95|0655.5|074.6|086.3|090.95|101|111.7|12165|134.1|14225|15605|170.2
+85	WS38995	1 kicsomagolt TK=3|1 csomag=2.8|1 csomagolt TK=4.6|1 kicsomagolt kupa=145|0.8000001 csomagolt kupa=175	03385|06105|08100|121|130.05|142|151
+86	WS21028	1 csirkecomb=105|1 csirkecomb (bőrrel)=135|1 comb=72|1 csirkecomb nélkül (bőr)=120|1 láb csont=200|1 vissza-csont=22|200 milliliter|1 csirkecombot|1 rántott csirkecomb	03175|0423.5|057.9|092.15|103.1|111.65|1212|131.05|14265|1599.5|16125|180.1
+87	WS20343	1 adag=48|4 szelet=110|1 db=48	03340|0419.5|0528.5|099.15|1012.5|113.75|1213|131.35|14295|15895|1684|170.7|180.7
+88	WS146886		03355|046.7|050.4|0680.5
+89	WS146886		03355|046.7|050.4|0680.5
+90	WS21445		03355|049.7|0658
+91	WS20809	1 közepes kifli=57|1 kis kifli=42|1 nagy kifli=67|2 kifli=42|2 fél=100	03405|048.25|0521|0646|072.6|0811.5|0911.5|105.55|111.1|1237|132.05|14120|15470|1667|170.2
+92	WS21060	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50|1 sült krumpli=71|1 nagy (8 cm. 11 cm-es)=370|8.3 sült=100	03310|043.4|0514.5|0641|073.8|080.3|092.3|105.95|115.35|1218|130.8|14580|15210|174.75
+93	WS20324	1 közepes (6 cm)=125|1 kis paradicsom (6 cm)=91|1 nagy (8 cm)=180|1 kis parardicsom (6 cm)=110|1 szelet (1 cm)=20|5 kicsi=125|0.5 közepes=125|1 közepes 6 cm=83|1 vastag/nagy szelet (1 cm)=27|1 ék (1/4 közepes paradicsom)=31|1 kis paradicsom (6 cm)í hogy nem is=105|1 csésze	0320|040.9|050.4|064.6|071.5|1215|131.1|1716
+94	WS19286	1 keksz (6 cm)=35|10 keksz háztartási=20|1 közepes=51|1 kis=35|3 keksz=50|1 nagy=77|2 keksz (ĺ6 cm)=120	03360|046.2|0516.5|0648|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+95	WS46299	0.5 csésze|50 gramm	03355|0426|051.05|0660|0730.5|082.05|090.15|100.2|110.5|1256|137.55|14955|156|174.4
+96	WS19855	1 csésze|1 müzlis tál|50 gramm	03445|047.5|050.5|0684|073.3|089.5|090.1|100.05|110.2|127|1329|14170|15730|1721|183.6
+97	WS32096	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 nagy szelet (kocka)=30|1 vékony szelet héja (kocka)=9	03300|0416|053.95|0650.5|079.2|085.75|090.9|101.95|110.75|12130|132.95|14325|15495
+98	WS26659	2 gombóc=105|0.5 csésze	03215|043.8|0511|0628|071.2|0825.5|096.8|103.2|110.4|12110|130.95|14250|1576|1634|170.7|180.2
+99	WS19862	1 narancs (7 cm)=130|1 nagy (8 cm)=185|1 kis (6 cm)=96|1 csésze (szakaszok)=180|0.5 narancs=65.5	0347|040.95|050.1|0611.5|072.4|089.35|110.05|1240|130.1|14180|1753
+100	WS19862	1 narancs (7 cm)=130|1 nagy (8 cm)=185|1 kis (6 cm)=96|1 csésze (szakaszok)=180|0.5 narancs=65.5	0347|040.95|050.1|0611.5|072.4|089.35|110.05|1240|130.1|14180|1753
+101	WS19529	1 szelet=76	03300|0413|0514|0631|072.5|083.6|096.2|103.5|113.05|12290|131.7|14200|15740|1628|173
+102	WS21029	1 közepes szár (19 cm - 20 cm)=180|0.5 csésze (apróra vágott)=92|1 kis fej=25|1 adag=300|1 nagy szár (12 cm - 15 cm)=280|1 kis szár (12 cm)=140|3 lándzsa (kb. 12 cm)=110	0334|042.4|050.4|066.8|073.3|081.4|090.1|100.05|110.15|1240|130.65|14295|1541|1765
+103	WS44890	1.5 adag=150|0.5 k=91|0.5 csésze	0373.5|042.85|050.35|0614|074.4|083.1|090.05|110.05|1225|130.8|14170|1535|173.2
+104	WS25781	1 kis pohár=180|1 nagy pohár=355|1 csésze	0371|043.25|051|0612.5|070.5|089.95|090.6|100.3|110.05|12115|130.25|14170|1561|163|170.9|181.1
+105	WS19704	1 szelet=25|1 vékony szelet=20|2 nagy szelet (kocka)=60|2 nagyon vékony szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03260|048.5|053.3|0649|075.8|083.85|090.65|101.3|110.8|1273|132.85|14165|15605|170.4
+106	WS20343	1 adag=48|4 szelet=110|1 db=48	03340|0419.5|0528.5|099.15|1012.5|113.75|1213|131.35|14295|15895|1684|170.7|180.7
+107	WS73294		0323|041.2|051.45|062.1
+108	WS19381	1 nagy pohár=355|1 kis pohár=180|1 csésze	032.65|040.1|060.4|070.1|127.65|130.05|1427.5|151.4
+109	WS41816	1 kávéskanál=10|1 kiskanál=3|1 evőkanál	03310|040.3|0682.5|070.2|0882|126|130.4|1452|154|170.5
+110	WS22400	1 szelet=25|1 nagyon vékony szelet (kocka)=15|1 vékony szelet=20|2 darab nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 szelet héja=12|2 vékony szelet héja (kocka)=18|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03260|0411|053.3|0650.5|074.3
+111	WS46299	0.5 csésze|50 gramm	03355|0426|051.05|0660|0730.5|082.05|090.15|100.2|110.5|1256|137.55|14955|156|174.4
+112	WS29323	1 csésze	03105|042.05|050.65|0623.5|070.95
+113	WS24434	1 közepes (3 cm)=12|1 adag=145|1 csésze (szeletelve)=165|1 kis adag=200|1 csésze (felezett)=150|1 kis (2 cm)=7|4 nagy (3 cm)=72|1 extra-nagy (4 cm)=27|1 korsó (3 cm)=355|1.7 csésze|1 csésze (pépesítve)=230	0332|040.65|050.3|067.7|072|084.9|100.05|110.15|1216|130.4|14155|151|1759
+114	WS20826	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1.5 nagy levél (kb. 18 cm)=22.5|1 kis levél (reszelt)=5|1 közepes saláta (15 cm)=540|0.7 közepes levél kb. 14 cm=21|1 csésze (reszelt)=72|1 kis fej (reszelt)=325|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755	0314|040.9|050.15|062.95|071.2|081.95|110.05|1218|130.4|14140|1510|172.8
+115	WS22355		0326.5|041.15|065.55
+116	WS8922		0366|043.3|052.95|065.5
+117	WS25780	1 nagy pohár=355|1 kis pohár=180|1 csésze	0350|043.3|052|064.8|085.05|091.25|100.55|110.05|12120|14140|1547|168|170.2|181.2
+118	WS24434	1 közepes (3 cm)=12|1 adag=145|1 csésze (szeletelve)=165|1 kis adag=200|1 csésze (felezett)=150|1 kis (2 cm)=7|4 nagy (3 cm)=72|1 extra-nagy (4 cm)=27|1 korsó (3 cm)=355|1.7 csésze|1 csésze (pépesítve)=230	0332|040.65|050.3|067.7|072|084.9|100.05|110.15|1216|130.4|14155|151|1759
+119	WS21030	1 pohár=12|0.5 tartály=120|1.2 po=20.5|1 evőkanál	03200|042.1|0520|064.05|082.9|0911.5|105.05|110.85|12110|130.15|14140|1580|1652|170.9|180.4
+120	WS24434	1 közepes (3 cm)=12|1 adag=145|1 csésze (szeletelve)=165|1 kis adag=200|1 csésze (felezett)=150|1 kis (2 cm)=7|4 nagy (3 cm)=72|1 extra-nagy (4 cm)=27|1 korsó (3 cm)=355|1.7 csésze|1 csésze (pépesítve)=230	0332|040.65|050.3|067.7|072|084.9|100.05|110.15|1216|130.4|14155|151|1759
+121	WS42722	1 adag=100|1 csésze	03160|043.6|051.2|0633|071.8|080.35|090.2|100.35|110.3|1210|130.4|1443|155
+122	WS21445		03355|049.7|0658
+123	WS25780	1 nagy pohár=355|1 kis pohár=180|1 csésze	0350|043.3|052|064.8|085.05|091.25|100.55|110.05|12120|14140|1547|168|170.2|181.2
+124	WS19704	1 szelet=25|1 vékony szelet=20|2 nagy szelet (kocka)=60|2 nagyon vékony szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03260|048.5|053.3|0649|075.8|083.85|090.65|101.3|110.8|1273|132.85|14165|15605|170.4
+125	WS20826	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1.5 nagy levél (kb. 18 cm)=22.5|1 kis levél (reszelt)=5|1 közepes saláta (15 cm)=540|0.7 közepes levél kb. 14 cm=21|1 csésze (reszelt)=72|1 kis fej (reszelt)=325|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755	0314|040.9|050.15|062.95|071.2|081.95|110.05|1218|130.4|14140|1510|172.8
+126	WS19282		03370|0474|054.9|0614
+127	WS27064	1 mell=280|1 csésze (apróra vágott. vagy kockára vágott)=140|2 szelet=140|1 csésze (apróra vágott, vagy kockára vágott)=140	03255|0424.5|0513|069.2|070.3|093.55|105.45|113.1|1220|131.25|14200|15275|1685|180.1
+128	WS33950	1 adag=85|1 szelet=85|1 csésze	03155|0425|055.5|091.85|102.55|110.65|127|130.95|14315|151350|1655|180.9
+129	WS19757	1 tartály=245|1 kis tartály=125|1 közepes konténer=185|1 pohar=245|1 Kis pohár=125	0395.5|043.8|052.9|0613.5|0813|091.8|100.7|110.15|12130|14125|1545|169|180.05
+130	WS8983		03335|0412|053.1|0670
+131	WS9000	1 nagy pohár=355|1 tányér=180|1 kis pohár=180|1 serving=100|1 csésze	037.9|041.25|050.25|060.1|090.1|100.1|126|130.15|1454|15370
+132	WS22355		0326.5|041.15|065.55
+133	WS43173	0.5 csésze|3 gombóc	03205|043.5|0510.5|0623.5|070.7|0821|096.8|102.95|110.45|12130|130.1|14200|1580|1644|170.6|180.2
+134	WS40896	1 kis pohár=180|1 doboz=355|1 pohár=240|1 csésze|1 kvart|4 deciliters|1 kispohár|1 nagy pohár	03195|040.3|050.75|0649|070.35|0844|090.05|101|110.05|128.15|130.1|1473|1511.5|1713
+135	WS19702	1 forduló szelet=12.5|6 darab=24.5|1 adag=30|2 szelet	03340|0422|0526|062.4|080.95|099.3|1011|112.55|1215|131.55|14315|151750|1689|181
+136	WS30993		03210|0412|0517.5|061.85
+137	WS62957	1 rúd (sq 2 cm. 1 cm)=115|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03660|040.2|0574.5|060.75|0914|1036.5|1126.5|123|1417|15655|170.1
+138	WS54458	1 közepes (7 cm)=150|1 nagy (7 cm)=175|1 kis (6 cm)=130|1 csésze (szeletek)=155|1 extra-nagy (8 cm)=225|4 kicsi (7 cm)=600|2 közepes (18 cm. 20 cm-es)	0339|040.9|050.25|069.6|071.5|088.4|100.05|110.1|126|130.25|14190|176.6
+139	WS31898	1 csésze (reszelt)=70|1 csésze (apróra vágott)=89|1 nagy levél (kb. 18 cm)=33|1 kis káposzta (kb. 11 cm)=715|2 levél (reszelt)=30|1 közepes káposzta (kb. 14 cm)=910|0.5 csésze|1 nagy káposzta (kb. 18 cm)=1250|1 közepes levél (kb. 14 cm)=23	0323|041.25|050.05|065.55|071.9|082.85|1248|130.15|14195|157.95|1737.5
+140	WS19280	1 kis pohár=180|1 nagy pohár=355|1 cu'p=235|1 csésze|1.5 deciliters	0342|043.35|050.95|065|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+141	WS9250		03240|0418|0521.5|065.05
+142	WS26599		03100|0418|052.25|061.65
+143	WS22400	1 szelet=25|1 nagyon vékony szelet (kocka)=15|1 vékony szelet=20|2 darab nagyon vékony szelet (kocka)=30|1 nagy szelet (kocka)=30|1 szelet héja=12|2 vékony szelet héja (kocka)=18|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35	03260|0411|053.3|0650.5|074.3
+144	WS36111	1 adag=250|2 csésze	0370|042.2|050.45|0614|070.9|084|090.15|100.1|110.15|1213|130.9|14190|15270|161
+145	WS8922		0366|043.3|052.95|065.5
+146	WS30178		0392.5
+147	WS45021		0354.5
+148	WS22172	1 evőkanál|1 teáskanál	03390|040.9|0533.5|0624|086.4|094.9|109|1118|1214|130.2|149|15710|1626|180.1
+149	WS19704	1 szelet=25|1 vékony szelet=20|2 nagy szelet (kocka)=60|2 nagyon vékony szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03260|048.5|053.3|0649|075.8|083.85|090.65|101.3|110.8|1273|132.85|14165|15605|170.4
+150	WS30178		0392.5
+151	WS19753	1 adag=100|1 c=60|0.3 csésze	03365|0412|056.9|0668.5|0710|081.5|091.35|102.35|112.55|12350|1324.5|14365|15220
+152	WS22355		0326.5|041.15|065.55
+153	WS53840	1 pohár=150|1 p=12.5|1 deciliters	0379|040.05|062.6|080.95|129|130.25|1471|155
+154	WS20325	1 közepes (6 cm)=110|1 evőkanál (apróra vágott)=10|10 gyűrűk=60|1 nagy szelet (1 cm)=38|1 kis=70|1 vékony szelet=9|0.5 csésze (apróra vágott)=80|1 csésze (szeletelve)=115|1 nagy=150|1 közepes szelet=14|0.1 csésze (apróra evágott)=12|2.1 közepes (6 cm) ca	0340|041.1|050.1|069.35|071.7|084.25|090.05|1223|130.2|14145|154|177.4
+155	WS26656	1 kis pohár=180|1 nagy pohár=355|1 csésze	0361|043.15|053.4|064.8|085.05|091.85|100.8|110.2|12115|130.05|14130|1543|1610|181.3
+156	WS27122	1 közepes=44|1 nagy=50|1 extra nagy=56|1 kis=38|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03150|0411|0510.5|061.6|081.4|093.35|104.45|112.45|1266|131.3|14130|15145|16275|181.8
+157	WS8907		03390|0414|052.75|0665.5
+158	WS29459		03335
+159	WS41435	1 közepes (6 cm. 8 cm-es)=215|1 nagy (8 cm. 11 cm-es)=370|1 kis (4 cm. 6 cm-es)=170|0.5 kupa (kockázva)=75|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0398.5|041.95|050.15|0621.5|071.5|081.7|090.05|110.05|125|130.35|14390|155|1713
+160	WS20283	1 tál=140|1 adag=250|1 tányér=500|1 csésze	03170|046.25|050.95|0633.5|071.8|080.55|090.2|100.15|110.3|127|131.3|1444|151
+161	WS9250		03240|0418|0521.5|065.05
+162	WS19283	1 nagy pohár=355|1 kis pohár=180|1 tányér=400|1 csésze	0336|042.55|051.2|063.55|081.6|090.3|100.6|110.2|123|130.2|14105|15145|163|170.2
+163	WS30871	1 szelet=28|1 csésze (kockázva)=130|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|1 köbcenti=17|1 csésze (elolvadt)=245	03380|0427|0528|065.4|081.3|0918|107.25|110.95|12790|130.2|1477|15190|1692|180.5
+164	WS20813	1 nagy pohár=355|1 kis pohár=180|1 doboz=400|1 pint|1 csésze	0343.5|040.45|063.6|124|1427|154
+165	WS12642	1 közepes (6 cm. 8 cm-es)=215|0.5 kupa (kockázva)=75|1 adag kockázva=300|1 kis (4 cm. 6 cm-es)=170|1 nagy (8 cm. 11 cm-es)=370|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0385.5|041.75|050.1|0620|071.8|080.85|090.05|110.05|128|130.3|14330|155|177.4
+166	WS53840	1 pohár=150|1 p=12.5|1 deciliters	0379|040.05|062.6|080.95|129|130.25|1471|155
+167	WS19757	1 tartály=245|1 kis tartály=125|1 közepes konténer=185|1 pohar=245|1 Kis pohár=125	0395.5|043.8|052.9|0613.5|0813|091.8|100.7|110.15|12130|14125|1545|169|180.05
+168	WS128003		03440|0410.5|0513|06225
+169	WS19522	1 szelet=25|1 vékony szelet=20|1 nagy szelet (kocka)=30|1 szelet héja=12|1 nagyon vékony szelet (kocka)=15|1 csésze (zsemlemorzsa)=45|1 vékony szelet héja (kocka)=9|0.8 nagy szelet|1 csésze (kocka)=35	03270|049.2|053.15|0649|072.7|085.05|090.7|100.6|111.6|12260|133.6|14115|15490
+170	WS30993		03210|0412|0517.5|061.85
+171	WS62957	1 rúd (sq 2 cm. 1 cm)=115|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03660|040.2|0574.5|060.75|0914|1036.5|1126.5|123|1417|15655|170.1
+172	WS9235	1 közepes=44|2 kicsi=60|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze	03195|0414|0515|060.95|080.4|094.3|106.15|113.25|1262|131.9|14150|15205|16400|182.2
+173	WS160941		03415|0478.5|053.45|0615
+174	WS95250		0343.5|043.15|051.4|064.7|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+175	WS73294		0323|041.2|051.45|062.1
+176	WS27900	1 palacsinta=40|1 palacsinta (15 cm)=73	03235|045.25|056.9|0637.5|071|088.3|091.15|101.55|113.85|1278|135.65|1490|15460|1618|170.3
+177	WS45196	6 rúd (sq 2 cm. 1 cm)=680|1 teáskanál|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|15715|16215|181.5
+178	WS20343	1 adag=48|4 szelet=110|1 db=48	03340|0419.5|0528.5|099.15|1012.5|113.75|1213|131.35|14295|15895|1684|170.7|180.7
+179	WS30863		03425|0485.5|056.55|0613.5
+180	WS21448	1 gomba=12|1 csésze (db)=155|3 evőkanál	0332|042.15|050.45|065.2|072.2|082.35|090.05|110.2|126|131.75|14355|152|174|180.2
+181	WS23163		03310|048.15|0519|0638.5
+182	WS29712		03115|0414|055.1|063.55
+183	WS79771		0354|043.05|052.55|064.8
+184	WS28017	1 csirkecomb=135|1 mell=280|0.5 csirke=465|1 szárny=49|1 csésze (apróra vágott. vagy kockára vágott)=140|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03280|0422|0516.5|069.75|070.3|094.6|107.1|114.1|1221|131.35|14185|15290|1687|180.2
+185	WS20809	1 közepes kifli=57|1 kis kifli=42|1 nagy kifli=67|2 kifli=42|2 fél=100	03405|048.25|0521|0646|072.6|0811.5|0911.5|105.55|111.1|1237|132.05|14120|15470|1667|170.2
+186	WS41435	1 közepes (6 cm. 8 cm-es)=215|1 nagy (8 cm. 11 cm-es)=370|1 kis (4 cm. 6 cm-es)=170|0.5 kupa (kockázva)=75|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0398.5|041.95|050.15|0621.5|071.5|081.7|090.05|110.05|125|130.35|14390|155|1713
+187	WS29315		03490|0410|0512.5|06215
+188	WS19282		03370|0474|054.9|0614
+189	WS19881		0372.5|043.4|052.65|066.7
+190	WS8997	1 mell=160|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szelet=81|1 egység=100|1 adag=100|0.3 csésze (apróra k vágott)|2 egységs|1 csésze (apróra vágott, vagy kockára vágott)=140	03160|0430|053.45|091|101.25|110.75|1215|131.05|14255|1574|1685|180.1
+191	WS19529	1 szelet=76	03300|0413|0514|0631|072.5|083.6|096.2|103.5|113.05|12290|131.7|14200|15740|1628|173
+192	WS30870		03125|0422|055|063
+193	WS42717	1 kicsomagolt TK=3|2 csomag|1 csomagolt TK=4.6|1 csomagolt kupa=220|1 kicsomagolt kupa=145	03380|040.1|0698|0897|1283|130.7|14135|1528
+194	WS30866		03275|055.8|0642
+195	WS44775		03370|049.95|051.55|0674
+196	WS19436	1 kiskanál=5|3 evőkanál|1 teáskanál	03900|05100|0913|1066.5|118|121|130.1|151
+197	WS41415	1 rúd (sq 2 cm. 1 cm)=115|1 rúd (sq 2 cm. 1 )=10|1 rúd (sq 2 cm. 2 cm)=115|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|1511|16215|181.5
+198	WS8922		0366|043.3|052.95|065.5
+199	WS19285	1 mini bár=7|4 kocka=14|1 Tábla=50	03545|047.7|0530|0660|073.4|0851.5|0918.5|107.2|111.4|12190|132.35|14370|1579|1623
+200	WS41415	1 rúd (sq 2 cm. 1 cm)=115|1 rúd (sq 2 cm. 1 )=10|1 rúd (sq 2 cm. 2 cm)=115|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|1511|16215|181.5
+201	WS19282		03370|0474|054.9|0614
+202	WS98521		03550|045.95|0535|0650.5
+203	WS31898	1 csésze (reszelt)=70|1 csésze (apróra vágott)=89|1 nagy levél (kb. 18 cm)=33|1 kis káposzta (kb. 11 cm)=715|2 levél (reszelt)=30|1 közepes káposzta (kb. 14 cm)=910|0.5 csésze|1 nagy káposzta (kb. 18 cm)=1250|1 közepes levél (kb. 14 cm)=23	0323|041.25|050.05|065.55|071.9|082.85|1248|130.15|14195|157.95|1737.5
+204	WS89865		0384|0411.5|052.1|064.45
+205	WS29712		03115|0414|055.1|063.55
+206	WS93559		03475|0426.5|0539.5|063.95
+207	WS58707	1 közepes ék (1/8 dinnye)=69|1 nagy ék (1/8 dinnye)=100|1 kis-ék (1/8 dinnye)=55|1 nagy (kb. 16 cm)=815|1 kis (kb. 11 cm)=440|1 közepes (kb. 12 cm)=550|1 kiss ék (1/8 dinnye)=69|2 sárgadinnye Golyók (kb. 11 cm)=28	0330|040.6|050.15|067.5|070.4|086.2|100.05|110.05|127|130.25|14110|151|178.1
+208	WS38995	1 kicsomagolt TK=3|1 csomag=2.8|1 csomagolt TK=4.6|1 kicsomagolt kupa=145|0.8000001 csomagolt kupa=175	03385|06105|08100|121|130.05|142|151
+209	WS22862	1 adag=125|10 szőlő=49|1 c=100|1 csésze	0375|040.75|050.2|0618|070.9|0815.5|090.05|110.05|1210|130.35|14190|152|173.2
+210	WS44818	1 nagy pohár=355|1 kis pohár=180|1 csésze	0376|041.35|055.3|066.95|070.7|080.4|090.95|101.2|112.9|1212|130.2|1464|15690|180.2
+211	WS8983		03335|0412|053.1|0670
+212	WS19702	1 forduló szelet=12.5|6 darab=24.5|1 adag=30|2 szelet	03340|0422|0526|062.4|080.95|099.3|1011|112.55|1215|131.55|14315|151750|1689|181
+213	WS22169	1 kis csomag=85|1 felvert evőkanál=10|1 köbcenti=16|1 evőkanál	03340|045.95|0534|064.05|083.2|0919.5|108.6|111.45|1298|130.4|14140|15320|16110|180.6
+214	WS26599		03100|0418|052.25|061.65
+215	WS46836	0.2 nagy pohár=71|1 tábla=355|0.5 kis pohár=89|1 csésze	0396.5|043.15|053.75|0611|070.8|089.55|092.1|101|110.1|12110|130.25|14165|1560|1612|170.9|181.3
+216	WS79762		0344|043.05|051.5|064.55
+217	WS9250		03240|0418|0521.5|065.05
+218	WS19279	1 adag=50|1 csésze	03335|046.6|050.6|0673.5|071.2|080.1|090.15|100.2|110.15|1226|133.9|14105|154.5
+219	WS20325	1 közepes (6 cm)=110|1 evőkanál (apróra vágott)=10|10 gyűrűk=60|1 nagy szelet (1 cm)=38|1 kis=70|1 vékony szelet=9|0.5 csésze (apróra vágott)=80|1 csésze (szeletelve)=115|1 nagy=150|1 közepes szelet=14|0.1 csésze (apróra evágott)=12|2.1 közepes (6 cm) ca	0340|041.1|050.1|069.35|071.7|084.25|090.05|1223|130.2|14145|154|177.4
+220	WS24434	1 közepes (3 cm)=12|1 adag=145|1 csésze (szeletelve)=165|1 kis adag=200|1 csésze (felezett)=150|1 kis (2 cm)=7|4 nagy (3 cm)=72|1 extra-nagy (4 cm)=27|1 korsó (3 cm)=355|1.7 csésze|1 csésze (pépesítve)=230	0332|040.65|050.3|067.7|072|084.9|100.05|110.15|1216|130.4|14155|151|1759
+221	WS36247	1 db=285|1 vékony szelet=27|1 hátszín=165|1 vastag szelet=85|1 borda=270|1 penge=245	03290|0426.5|0519.5|097.75|108.45|110.7|129|132.7|14320|1563|1687|180.3
+222	WS8908		0388.5|051.7|065.95
+223	WS29712		03115|0414|055.1|063.55
+224	WS18871		03255|0413|059.75|0628.5
+225	WS21445		03355|049.7|0658
+226	WS31746	1 ek=5|1 kk=1|1 evőkanál	03230|0418|0513|0656.5|0730|081.75|097.75|104.4|110.4|12110|1315.5|142500|1519
+227	WS51288	1 rúd (10 x 2 cm x 1 cm)=28|2.5 db (2cm x 2cm)=140|1 db (10 x 5 cm x 1 cm)=57	03250|0411|0513|0621|071.4|082.5|092.75|104.2|115.7|1226|131|14215|15420|1628|180.4
+228	WS32351		03185|0414|059.5|0611.5
+229	WS44775		03370|049.95|051.55|0674
+230	WS22172	1 evőkanál|1 teáskanál	03390|040.9|0533.5|0624|086.4|094.9|109|1118|1214|130.2|149|15710|1626|180.1
+231	WS19436	1 kiskanál=5|3 evőkanál|1 teáskanál	03900|05100|0913|1066.5|118|121|130.1|151
+232	WS36111	1 adag=250|2 csésze	0370|042.2|050.45|0614|070.9|084|090.15|100.1|110.15|1213|130.9|14190|15270|161
+233	WS25780	1 nagy pohár=355|1 kis pohár=180|1 csésze	0350|043.3|052|064.8|085.05|091.25|100.55|110.05|12120|14140|1547|168|170.2|181.2
+234	WS27064	1 mell=280|1 csésze (apróra vágott. vagy kockára vágott)=140|2 szelet=140|1 csésze (apróra vágott, vagy kockára vágott)=140	03255|0424.5|0513|069.2|070.3|093.55|105.45|113.1|1220|131.25|14200|15275|1685|180.1
+235	WS8998	1 adag=100|1 tanyer=250|0.5 csésze	0384|045.4|050.2|0615.5|075.5|085.95|090.05|110.1|1227|131.55|14270|153|1714
+236	WS151814		03470|043.5|0520.5|0661.5
+237	WS19280	1 kis pohár=180|1 nagy pohár=355|1 cu'p=235|1 csésze|1.5 deciliters	0342|043.35|050.95|065|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+238	WS23780	1 adag=20|17.9 kernelek=22|1 kiskanál=5|1 csésze (föld)=95|16 mandula (forgácsolt)=19|15 szem=22|1 csésze|1 csésze (szeletelve)=92|1 csésze (forgácsolt)=110	03575|0421.5|0549|0621|0712|083.9|093.75|1031|1112|12265|133.7|14705|151
+239	WS27900	1 palacsinta=40|1 palacsinta (15 cm)=73	03235|045.25|056.9|0637.5|071|088.3|091.15|101.55|113.85|1278|135.65|1490|15460|1618|170.3
+240	WS21959	1 csésze (vágott)=150|1 közepes kukorica (17 cm. 19 cm-es)=105|1 kis kukorica (14 cm-16 cm)=89|1 kukorica (19 cm és 22 cm)=77|1 nagy fül (19 cm és 22 cm)=120|1 közepes kukorica (17 cm, 19 cm-es)=105|1 baba kukorica (19 cm és 22 cm)=8	0396|043.4|051.5|0621|072.4|084.55|090.2|100.35|110.6|123|130.45|14220|151|175.5
+241	WS93817		0347|042.45|050.75|066.95
+242	WS11217	1 szelet=27|1 vékony szelet=15|3 szelet (9 cm-es négyzet)=63|2 db=200|1 csésze	03110|0417.5|051.85|064.55|070.5|083.5|090.35|100.55|110.35|128.4|131.45|14300|15930|1642.5|175.7|180.1
+243	WS41436	1 piskóta=42	03375|043.45|0511.5|0664|071|0837.5|094.15|104.9|111.85|1224|131.35|1471|15470|1641|170.1|180.1
+244	WS32360	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50	03165|042.65|055.2|0627.5|072.8|080.3|091.05|103.25|110.3|1212|130.75|14450|15390|1713.5
+245	WS28096	1 adag=100|1 csésze	03340|048.1|050.5|0678|076.6|083.35|090.15|110.15|1227|131.2|141100|15105|1781
+246	WS28854	0.5 csésze|100 gramm	0325|042.95|050.25|064.05|072.4|080.45|090.05|110.1|12135|133.55|14465|1570|179.8
+247	WS35030		03345|0416.5|052.3|0663.5
+248	WS109963		03320|0426|0524|061.8
+249	WS28854	0.5 csésze|100 gramm	0325|042.95|050.25|064.05|072.4|080.45|090.05|110.1|12135|133.55|14465|1570|179.8
+250	WS21959	1 csésze (vágott)=150|1 közepes kukorica (17 cm. 19 cm-es)=105|1 kis kukorica (14 cm-16 cm)=89|1 kukorica (19 cm és 22 cm)=77|1 nagy fül (19 cm és 22 cm)=120|1 közepes kukorica (17 cm, 19 cm-es)=105|1 baba kukorica (19 cm és 22 cm)=8	0396|043.4|051.5|0621|072.4|084.55|090.2|100.35|110.6|123|130.45|14220|151|175.5
+251	WS97919		03125|042.55|050.5|0631.5
+252	WS19286	1 keksz (6 cm)=35|10 keksz háztartási=20|1 közepes=51|1 kis=35|3 keksz=50|1 nagy=77|2 keksz (ĺ6 cm)=120	03360|046.2|0516.5|0648|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+253	WS198184		03360|0473.5|053.35|066.65
+254	WS20227		03505
+255	WS19346	1 szelet=25|1 vékony szelet=20|0.5 nagyon vékony szelet (kocka)=7.5|1 nagy szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03310|0413|053.95|0655.5|074.6|086.3|090.95|101|111.7|12165|134.1|14225|15605|170.2
+256	WS20813	1 nagy pohár=355|1 kis pohár=180|1 doboz=400|1 pint|1 csésze	0343.5|040.45|063.6|124|1427|154
+257	WS44775		03370|049.95|051.55|0674
+258	WS45021		0354.5
+259	WS41816	1 kávéskanál=10|1 kiskanál=3|1 evőkanál	03310|040.3|0682.5|070.2|0882|126|130.4|1452|154|170.5
+260	WS21961	1 zacskó=28|1 csésze|1 zacsko	03440|0414|057.65|0687|0714.5|080.85|090.55|101.1|111.9|127|133.2|14330|158
+261	WS19529	1 szelet=76	03300|0413|0514|0631|072.5|083.6|096.2|103.5|113.05|12290|131.7|14200|15740|1628|173
+262	WS35307		0356.5|044.6|054.85|065.7
+263	WS27224	1 máj=44	03120|0417|054.85|060.75|091.55|101.25|111.3|128|139|14230|1571|16345|1718
+264	WS21128	1 piskóta=42|1 kisebb szelet=42|1 szelet=42	03400|043.65|0516|0660.5|073.2|0838|094.9|108.5|111.8|12115|133.6|14175|15330|171.9
+265	WS19702	1 forduló szelet=12.5|6 darab=24.5|1 adag=30|2 szelet	03340|0422|0526|062.4|080.95|099.3|1011|112.55|1215|131.55|14315|151750|1689|181
+266	WS32096	1 szelet=25|2 nagyon vékony szelet (kocka)=30|1 vékony szelet=20|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 nagy szelet (kocka)=30|1 vékony szelet héja (kocka)=9	03300|0416|053.95|0650.5|079.2|085.75|090.9|101.95|110.75|12130|132.95|14325|15495
+267	WS18871		03255|0413|059.75|0628.5
+268	WS45196	6 rúd (sq 2 cm. 1 cm)=680|1 teáskanál|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|15715|16215|181.5
+269	WS26101	1 doboz=165|1 csésze (szilárd vagy darabokat)=155|1 nagy lehet (lecsapolt)=355|0.5 nagy doboz	0392|0420.5|051.3|090.2|100.1|110.3|1217|131.65|14180|15245|1636|181.2
+270	WS95250		0343.5|043.15|051.4|064.7|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+271	WS23163		03310|048.15|0519|0638.5
+272	WS45021		0354.5
+273	WS32180	1 nagy pohár=355|1 kis pohár=180|1 pohár=200|1 csésze	0345|040.7|050.2|0610.5|070.2|088.4|100.05|110.05|1211|130.2|14200|151|1750
+274	WS45196	6 rúd (sq 2 cm. 1 cm)=680|1 teáskanál|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|15715|16215|181.5
+275	WS24766	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1 közepes saláta (15 cm)=540|1 doboz=140|2 nagy levél (kb. 18 cm)=30|1 kis levél (reszelt)=5|1 csésze (reszelt)=72|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755|1 kis fej (reszelt)=325	0317.5|041.35|050.15|062.85|071.3|080.8|110.1|1236|130.85|14195|1528|179.2
+276	WS92853		0344|042.95|051.45|064.65
+277	WS21754	1 csésze	03360|048.2|050.85|0678|071.7|080.3|090.15|100.05|110.4|1214|137.3|14105|152
+278	WS116002		03230|0425|0514.5|061
+279	WS40018	1 szelet=28|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|0.8 csésze (elolvadt)=195|1 c=100|1 csésze (kockázva)=130|1 köbcenti=17	03240|0418|0514|0610.5|088|098.85|104.15|110.4|12530|130.2|14330|151600|1653|180.3
+280	WS104484		0352|041.2|0612
+281	WS143278		03660|047|0565|0624
+282	WS9009		0379|045.4|053.95|066.15
+283	WS36381		0325.5
+284	WS8924		03150
+285	WS34613		0313.5|040.35|061.2|070.1|127.95|130.05|1426.5|151.35
+286	WS59859		0323|064.75
+287	WS34818		03115|042.9|055.85|0611
+288	WS54458	1 közepes (7 cm)=150|1 nagy (7 cm)=175|1 kis (6 cm)=130|1 csésze (szeletek)=155|1 extra-nagy (8 cm)=225|4 kicsi (7 cm)=600|2 közepes (18 cm. 20 cm-es)	0339|040.9|050.25|069.6|071.5|088.4|100.05|110.1|126|130.25|14190|176.6
+289	WS11175		03175|043.45|0640.5
+290	WS19704	1 szelet=25|1 vékony szelet=20|2 nagy szelet (kocka)=60|2 nagyon vékony szelet (kocka)=30|1 szelet héja=12|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=35|1 vékony szelet héja (kocka)=9	03260|048.5|053.3|0649|075.8|083.85|090.65|101.3|110.8|1273|132.85|14165|15605|170.4
+291	WS19881		0372.5|043.4|052.65|066.7
+292	WS26101	1 doboz=165|1 csésze (szilárd vagy darabokat)=155|1 nagy lehet (lecsapolt)=355|0.5 nagy doboz	0392|0420.5|051.3|090.2|100.1|110.3|1217|131.65|14180|15245|1636|181.2
+293	WS21753	1 közepes=180|1 kis=150|1 nagy=230|0.5 csésze (szeletelve)=70|1 adag=165|1 csésze (kocka)=160	0357|040.35|050.15|0615.5|073.1|089.75|100.1|110.1|129|130.2|14115|151|174.3
+294	WS52888	1 DL (14 fele)=28.5|0.2 csésze (apróra vágott)=23.5|1 csésze (héjazott (50 fele)=100|0.2 csésze (darab vagy zseton)=24|1 csésze (héjazott (25 fele)=100|1 adag=10|1 csésze (föld)=80|1 csésze	03645|0415|0565|0613.5|076.7|082.6|096.15|108.95|1147|1298|132.9|14440|152|171.3
+295	WS21030	1 pohár=12|0.5 tartály=120|1.2 po=20.5|1 evőkanál	03200|042.1|0520|064.05|082.9|0911.5|105.05|110.85|12110|130.15|14140|1580|1652|170.9|180.4
+296	WS27900	1 palacsinta=40|1 palacsinta (15 cm)=73	03235|045.25|056.9|0637.5|071|088.3|091.15|101.55|113.85|1278|135.65|1490|15460|1618|170.3
+297	WS22169	1 kis csomag=85|1 felvert evőkanál=10|1 köbcenti=16|1 evőkanál	03340|045.95|0534|064.05|083.2|0919.5|108.6|111.45|1298|130.4|14140|15320|16110|180.6
+298	WS29315		03490|0410|0512.5|06215
+299	WS105846		03255|0410|0520|0613.5
+300	WS34713		03265|0655
+301	WS12642	1 közepes (6 cm. 8 cm-es)=215|0.5 kupa (kockázva)=75|1 adag kockázva=300|1 kis (4 cm. 6 cm-es)=170|1 nagy (8 cm. 11 cm-es)=370|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0385.5|041.75|050.1|0620|071.8|080.85|090.05|110.05|128|130.3|14330|155|177.4
+302	WS27224	1 máj=44	03120|0417|054.85|060.75|091.55|101.25|111.3|128|139|14230|1571|16345|1718
+303	WS31899		03140
+304	WS27900	1 palacsinta=40|1 palacsinta (15 cm)=73	03235|045.25|056.9|0637.5|071|088.3|091.15|101.55|113.85|1278|135.65|1490|15460|1618|170.3
+305	WS27782	0.2 csomag=1|3 evőkanálnyi reszelt=20|1 teáskanál|2 evőkanál	0379|044.75|054.05|065.8|073.3|080.85|090.25|102.65|110.95|1258|131.5|14140|151150|171.5
+306	WS19753	1 adag=100|1 c=60|0.3 csésze	03365|0412|056.9|0668.5|0710|081.5|091.35|102.35|112.55|12350|1324.5|14365|15220
+307	WS19881		0372.5|043.4|052.65|066.7
+308	WS19436	1 kiskanál=5|3 evőkanál|1 teáskanál	03900|05100|0913|1066.5|118|121|130.1|151
+309	WS19279	1 adag=50|1 csésze	03335|046.6|050.6|0673.5|071.2|080.1|090.15|100.2|110.15|1226|133.9|14105|154.5
+310	WS36247	1 db=285|1 vékony szelet=27|1 hátszín=165|1 vastag szelet=85|1 borda=270|1 penge=245	03290|0426.5|0519.5|097.75|108.45|110.7|129|132.7|14320|1563|1687|180.3
+311	WS146683		0315|050.1|063.6
+312	WS26101	1 doboz=165|1 csésze (szilárd vagy darabokat)=155|1 nagy lehet (lecsapolt)=355|0.5 nagy doboz	0392|0420.5|051.3|090.2|100.1|110.3|1217|131.65|14180|15245|1636|181.2
+313	WS11177		03130|043.6|053.45|0620.5
+314	WS29712		03115|0414|055.1|063.55
+315	WS40023		03385
+316	WS30739		03395|0432|0528|063.6|082.05|0917|108.2|111.15|121000|130.8|14115|151250|1687|180.5
+317	WS30742		03360|0470.5|057|069.3
+318	WS53678		0347.5|042.65|051.05|067.85
+319	WS81319		03390|044.15|059.1|0620.5
+320	WS34713		03265|0655
+321	WS30871	1 szelet=28|1 csésze (kockázva)=130|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|1 köbcenti=17|1 csésze (elolvadt)=245	03380|0427|0528|065.4|081.3|0918|107.25|110.95|12790|130.2|1477|15190|1692|180.5
+322	WS40018	1 szelet=28|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|0.8 csésze (elolvadt)=195|1 c=100|1 csésze (kockázva)=130|1 köbcenti=17	03240|0418|0514|0610.5|088|098.85|104.15|110.4|12530|130.2|14330|151600|1653|180.3
+323	WS22539	1 közepes=61|1 kis (14 cm)=50|1 nagy (7-21 cm)=72|1 adag=300|1 csésze (apróra vágott)=130|1 csésze (csíkokra vagy szelet)=120|1 nagy szalag (8 cm)=7|1 szelet=3|1 cs=7|1 csésze (reszelt)=110	0341|040.95|050.25|069.55|072.8|084.75|090.05|110.1|1233|130.3|14320|1569|175.9
+324	WS39019	1 szelet=28|0.4 csésze (reszelt)=45|1 csomag (elolvadt)=170|1 csésze (kockázva)=130|1 csésze (elolvadt)=245|1 köbcenti=17	03365|0418|0530.5|064.8|082.25|0918|108.25|111.3|121050|130.65|14130|151650|16100|187.5
+325	WS28196	1 szelet (9 cm x 2 cm)=84|1 csésze (darabokat)=165|1 nagy szelet (12 cm x 2 cm)=165|1 vékony szelet (9 x 1 cm)=56|1 ananász (9 x 1 cm)=905	0350.5|040.55|050.1|0613|071.4|089.85|110.05|1213|130.3|14110|151|1748
+326	WS44822	1 nagy (8 cm. 11 cm-es)=370|1 közepes (6 cm. 8 cm-es)=215|1 kis (4 cm. 6 cm-es)=170|0.2 kupa (kockázva)=30|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0377|042|050.1|0617.5|072.2|080.8|090.05|110.05|1212|130.8|14420|156|1719.5
+327	WS21448	1 gomba=12|1 csésze (db)=155|3 evőkanál	0332|042.15|050.45|065.2|072.2|082.35|090.05|110.2|126|131.75|14355|152|174|180.2
+328	WS28258	1 adag=89|1 közepes levél (kb. 14 cm)=8|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 közepes saláta (15 cm)=540|1 nagy saláta (15 cm)=755|1 nagy levél (kb. 18 cm)=15|1 csésze (reszelt)=72|1 kis levél (reszelt)=5|1 kis fej (reszelt)=325	0317|041.25|050.3|063.3|072.1|081.2|090.05|110.15|1233|130.95|14245|158|174
+329	WS198184		03360|0473.5|053.35|066.65
+330	WS38995	1 kicsomagolt TK=3|1 csomag=2.8|1 csomagolt TK=4.6|1 kicsomagolt kupa=145|0.8000001 csomagolt kupa=175	03385|06105|08100|121|130.05|142|151
+331	WS93817		0347|042.45|050.75|066.95
+332	WS9009		0379|045.4|053.95|066.15
+333	WS23163		03310|048.15|0519|0638.5
+334	WS31599	1 kis tartály=125|1 tartály=245|1 közepes konténer=185	0385|044.95|051.25|0613.5|0814|090.8|100.35|110.05|12170|130.05|14220|1566|165|170.8
+335	WS20283	1 tál=140|1 adag=250|1 tányér=500|1 csésze	03170|046.25|050.95|0633.5|071.8|080.55|090.2|100.15|110.3|127|131.3|1444|151
+336	WS59306		03180|042.15|0510|0621
+337	WS140174		03320|0426|0523.5|060.9
+338	WS48322	100 gramm	03210|0428.5|059.65|093.5|104.3|110.75|1218|131.1|14425|1558|1681|170.6|180.7
+339	WS31745	1 evőkanál|0.2 csésze	03420|0437.5|0528.5|064.05|080.9|0917.5|108.4|111.15|121100|130.9|14125|151550|1688|180.5
+340	WS103834	1 közepes (8 cm)=54|1 nagy (10 cm)=71|0.5 közepes=27|1 extra-nagy (12 cm)=120|1 hosszú perec (11 cm)=52	03420|046.15|0522.5|0648|072.1|0823|099.45|107.25|113.6|12100|132.4|14100|15315|1630|171.2|180.1
+341	WS23163		03310|048.15|0519|0638.5
+342	WS61609	1 közepes=44|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03155|0412.5|0510.5|061.1|081.1|093.25|104.1|111.4|1250|131.2|14125|15125|16375|182.2
+343	WS38341		03165|047.3|059.65|068.35
+344	WS36381		0325.5
+345	WS53401	1 nagy pohár=355|1 kis pohár=180|1 csésze|0.5 kvart	0317|040.75|050.05|064.25|070.4|083.55|1210|130.45|14230|15270|1718.5
+346	WS28196	1 szelet (9 cm x 2 cm)=84|1 csésze (darabokat)=165|1 nagy szelet (12 cm x 2 cm)=165|1 vékony szelet (9 x 1 cm)=56|1 ananász (9 x 1 cm)=905	0350.5|040.55|050.1|0613|071.4|089.85|110.05|1213|130.3|14110|151|1748
+347	WS11217	1 szelet=27|1 vékony szelet=15|3 szelet (9 cm-es négyzet)=63|2 db=200|1 csésze	03110|0417.5|051.85|064.55|070.5|083.5|090.35|100.55|110.35|128.4|131.45|14300|15930|1642.5|175.7|180.1
+348	WS97919		03125|042.55|050.5|0631.5
+349	WS28196	1 szelet (9 cm x 2 cm)=84|1 csésze (darabokat)=165|1 nagy szelet (12 cm x 2 cm)=165|1 vékony szelet (9 x 1 cm)=56|1 ananász (9 x 1 cm)=905	0350.5|040.55|050.1|0613|071.4|089.85|110.05|1213|130.3|14110|151|1748
+350	WS61609	1 közepes=44|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03155|0412.5|0510.5|061.1|081.1|093.25|104.1|111.4|1250|131.2|14125|15125|16375|182.2
+351	WS8908		0388.5|051.7|065.95
+352	WS49785	32 földimogyoró=28|1 marék=50|1 csésze|1.5 adag	03600|0427.5|0552|0614.5|079.4|084.2|098.65|1026|1115.5|1261|131.5|14725|15320|170.8
+353	WS21450	1 közepes=200|1 csésze (apróra vágott)=135|1 rúd (10 cm)=9|4 szelet=28|1 kis (16 cm)=160|1 csésze (szeletelve)=120|1 nagy (21 cm)=280|2 kicsi=200|0.2 rúd (20)cm	0312.5|040.6|050.15|062.2|070.7|081.4|110.1|1214|130.2|14135|152|173.2
+354	WS19881		0372.5|043.4|052.65|066.7
+355	WS11303		03595|0410.5|0529|0684
+356	WS9235	1 közepes=44|2 kicsi=60|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze	03195|0414|0515|060.95|080.4|094.3|106.15|113.25|1262|131.9|14150|15205|16400|182.2
+357	WS60980	1 nagy pohár=355|1 kis pohár=180|1 csésze|1 kvart	0346|040.1|050.15|0611|070.2|089.6|110.05|128|130.1|14100|154|170.9
+358	WS76044		03430|0424|0518|0642
+359	WS29813		03415|047|0541|0654
+360	WS58707	1 közepes ék (1/8 dinnye)=69|1 nagy ék (1/8 dinnye)=100|1 kis-ék (1/8 dinnye)=55|1 nagy (kb. 16 cm)=815|1 kis (kb. 11 cm)=440|1 közepes (kb. 12 cm)=550|1 kiss ék (1/8 dinnye)=69|2 sárgadinnye Golyók (kb. 11 cm)=28	0330|040.6|050.15|067.5|070.4|086.2|100.05|110.05|127|130.25|14110|151|178.1
+361	WS82743	1 szelet=165	0370|0412.5|051.95|090.45|100.55|110.35|1221|130.2|14160|15295|1645|182.8
+362	WS67791		03255|045.05|0656.5
+363	WS32351		03185|0414|059.5|0611.5
+364	WS54086	1 nagy darab (1/8-22 cm)=125|0.5 közepes darab (1/6-20 cm-es kör)=58.5|0.2 darab=47|3 szelet=190|2 darab (1/8-22 cm)=135|4 közepes kocka	03240|041.9|0511|0634|071.6|0815.5|093.8|104.4|112.2|1211|130.45|1465|15200|173.2
+365	WS46554	1 avokádó=200|1 csésze (pépesítve)=230|0.8000001 csésze (szeletelve)=115|0.6 csésze (kocka)=90	03160|042|0514.5|0610|076.7|080.65|092.15|109.8|111.8|1212|130.55|14485|157|1710
+366	WS19435	0.5 adag=50|0.3 csésze	03375|0413|056.6|0668.5|0710|081|091.1|102|112.3|1252|134.25|14360|156
+367	WS54086	1 nagy darab (1/8-22 cm)=125|0.5 közepes darab (1/6-20 cm-es kör)=58.5|0.2 darab=47|3 szelet=190|2 darab (1/8-22 cm)=135|4 közepes kocka	03240|041.9|0511|0634|071.6|0815.5|093.8|104.4|112.2|1211|130.45|1465|15200|173.2
+368	WS91634		03155|0414.5|0511.5|065.35
+369	WS20821	1 közepes szelet (10 x 6 cm x 4 cm)=64|1 nagy szelet (15 x 6 cm x 4 cm)=96|1 kis szelet (5 x 6 cm x 4 cm)=32	03310|0412|052.2|0663|073.15
+370	WS102089		0332.5|041.95|050.35|065.6|072.5|081.3|090.1|110.2|1238|130.9|14105|15245|172.7
+371	WS88856		03190|046.6|052.95|0635
+372	WS59306		03180|042.15|0510|0621
+373	WS36678	1 közepes (10 cm)=15|1 evőkanál (apróra vágott)=6|1 kis (8 cm)=5|1 nagy=25|1 csésze (apróra vágott)=100	0332.5|041.85|050.2|067.3|072.6|082.35|090.05|100.05|110.05|1272|131.5|14275|1516|1719
+374	WS40018	1 szelet=28|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|0.8 csésze (elolvadt)=195|1 c=100|1 csésze (kockázva)=130|1 köbcenti=17	03240|0418|0514|0610.5|088|098.85|104.15|110.4|12530|130.2|14330|151600|1653|180.3
+375	WS73179		03100|042.65|056|0614
+376	WS9235	1 közepes=44|2 kicsi=60|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze	03195|0414|0515|060.95|080.4|094.3|106.15|113.25|1262|131.9|14150|15205|16400|182.2
+377	WS30414		03285|0413.5|0517.5|06125
+378	WS122128		0327.5|041|050.2|066.2
+379	WS65698		0361.5|045.6|051.35|063.95
+380	WS27122	1 közepes=44|1 nagy=50|1 extra nagy=56|1 kis=38|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03150|0411|0510.5|061.6|081.4|093.35|104.45|112.45|1266|131.3|14130|15145|16275|181.8
+381	WS30739		03395|0432|0528|063.6|082.05|0917|108.2|111.15|121000|130.8|14115|151250|1687|180.5
+382	WS79289		03105|050.6|0627
+383	WS68937	1 csésze|3 evőkanál	03125|048.45|050.4|0621.5|076.3|080.35|090.1|100.05|110.15|1290|133.7|14560|156
+384	WS41816	1 kávéskanál=10|1 kiskanál=3|1 evőkanál	03310|040.3|0682.5|070.2|0882|126|130.4|1452|154|170.5
+385	WS82743	1 szelet=165	0370|0412.5|051.95|090.45|100.55|110.35|1221|130.2|14160|15295|1645|182.8
+386	WS27782	0.2 csomag=1|3 evőkanálnyi reszelt=20|1 teáskanál|2 evőkanál	0379|044.75|054.05|065.8|073.3|080.85|090.25|102.65|110.95|1258|131.5|14140|151150|171.5
+387	WS103834	1 közepes (8 cm)=54|1 nagy (10 cm)=71|0.5 közepes=27|1 extra-nagy (12 cm)=120|1 hosszú perec (11 cm)=52	03420|046.15|0522.5|0648|072.1|0823|099.45|107.25|113.6|12100|132.4|14100|15315|1630|171.2|180.1
+388	WS39019	1 szelet=28|0.4 csésze (reszelt)=45|1 csomag (elolvadt)=170|1 csésze (kockázva)=130|1 csésze (elolvadt)=245|1 köbcenti=17	03365|0418|0530.5|064.8|082.25|0918|108.25|111.3|121050|130.65|14130|151650|16100|187.5
+389	WS8998	1 adag=100|1 tanyer=250|0.5 csésze	0384|045.4|050.2|0615.5|075.5|085.95|090.05|110.1|1227|131.55|14270|153|1714
+390	WS19285	1 mini bár=7|4 kocka=14|1 Tábla=50	03545|047.7|0530|0660|073.4|0851.5|0918.5|107.2|111.4|12190|132.35|14370|1579|1623
+391	WS23780	1 adag=20|17.9 kernelek=22|1 kiskanál=5|1 csésze (föld)=95|16 mandula (forgácsolt)=19|15 szem=22|1 csésze|1 csésze (szeletelve)=92|1 csésze (forgácsolt)=110	03575|0421.5|0549|0621|0712|083.9|093.75|1031|1112|12265|133.7|14705|151
+392	WS28017	1 csirkecomb=135|1 mell=280|0.5 csirke=465|1 szárny=49|1 csésze (apróra vágott. vagy kockára vágott)=140|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03280|0422|0516.5|069.75|070.3|094.6|107.1|114.1|1221|131.35|14185|15290|1687|180.2
+393	WS31232		03445|0410.5|0511.5|0668
+394	WS19283	1 nagy pohár=355|1 kis pohár=180|1 tányér=400|1 csésze	0336|042.55|051.2|063.55|081.6|090.3|100.6|110.2|123|130.2|14105|15145|163|170.2
+395	WS121346		0339.5|041|069.25
+396	WS41816	1 kávéskanál=10|1 kiskanál=3|1 evőkanál	03310|040.3|0682.5|070.2|0882|126|130.4|1452|154|170.5
+397	WS35307		0356.5|044.6|054.85|065.7
+398	WS102820		0336|041.3|051.85|062.8
+399	WS27782	0.2 csomag=1|3 evőkanálnyi reszelt=20|1 teáskanál|2 evőkanál	0379|044.75|054.05|065.8|073.3|080.85|090.25|102.65|110.95|1258|131.5|14140|151150|171.5
+400	WS20342	1 csésze (apróra vágott)=130	0328|041.9|050.4|065.65|072|081.25|090.05|100.05|110.2|1272|130.9|14230|1523|1741
+401	WS31745	1 evőkanál|0.2 csésze	03420|0437.5|0528.5|064.05|080.9|0917.5|108.4|111.15|121100|130.9|14125|151550|1688|180.5
+402	WS55961		0389.5|049.45|055.9|0610.5
+403	WS146683		0315|050.1|063.6
+404	WS22172	1 evőkanál|1 teáskanál	03390|040.9|0533.5|0624|086.4|094.9|109|1118|1214|130.2|149|15710|1626|180.1
+405	WS33950	1 adag=85|1 szelet=85|1 csésze	03155|0425|055.5|091.85|102.55|110.65|127|130.95|14315|151350|1655|180.9
+406	WS8908		0388.5|051.7|065.95
+407	WS8908		0388.5|051.7|065.95
+408	WS35409	1 kis pohár=180|1 nagy pohár=355|1 csésze	0334|043.25|050.1|064.8|085.1|090.05|12120|130.05|14155|1542|162|181.2
+409	WS33965		03365|0426|0527|064.6
+410	WS23780	1 adag=20|17.9 kernelek=22|1 kiskanál=5|1 csésze (föld)=95|16 mandula (forgácsolt)=19|15 szem=22|1 csésze|1 csésze (szeletelve)=92|1 csésze (forgácsolt)=110	03575|0421.5|0549|0621|0712|083.9|093.75|1031|1112|12265|133.7|14705|151
+411	WS90920		03230|0510|0654.5
+412	WS47327	100 gramm	03585|0419.5|0550|0624|0711|082.75|095.2|109.5|1133|1270|133.8|14850|153|171.4
+413	WS181526		0342|0610.5
+414	WS91629		0367|041.35|050.45|0614.5
+415	WS24766	1 adag=89|1 csésze (1 cm-es darabokra. apróra vágott. lazán csomagolt)=57|1 közepes levél (kb. 14 cm)=8|1 közepes saláta (15 cm)=540|1 doboz=140|2 nagy levél (kb. 18 cm)=30|1 kis levél (reszelt)=5|1 csésze (reszelt)=72|1 csésze (1 cm-es darabokra, apróra vágott, lazán csomagolt)=57|1 nagy saláta (15 cm)=755|1 kis fej (reszelt)=325	0317.5|041.35|050.15|062.85|071.3|080.8|110.1|1236|130.85|14195|1528|179.2
+416	WS21060	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50|1 sült krumpli=71|1 nagy (8 cm. 11 cm-es)=370|8.3 sült=100	03310|043.4|0514.5|0641|073.8|080.3|092.3|105.95|115.35|1218|130.8|14580|15210|174.75
+417	WS30871	1 szelet=28|1 csésze (kockázva)=130|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|1 köbcenti=17|1 csésze (elolvadt)=245	03380|0427|0528|065.4|081.3|0918|107.25|110.95|12790|130.2|1477|15190|1692|180.5
+418	WS33549		03330
+419	WS12059		03165|049.35|0510|068.25
+420	WS8984		03175|049.65|053.5|0625
+421	WS44775		03370|049.95|051.55|0674
+422	WS35683	1 csésze|1 adag	03105|044.15|055.1|0611|072.7|082.85|092|102.2|110.35|1212|131.3|14140|15290|169|173|180.2
+423	WS57374	1 közepes ék (1/8 dinnye)=69|1 kis-ék (1/8 dinnye)=55|1 nagy ék (1/8 dinnye)=100|1 nagy (kb. 16 cm)=815|1 közepes (kb. 12 cm)=550|1 kis (kb. 11 cm)=440|10 sárgadinnye Golyók (kb. 11 cm)=140	0335.5|040.95|050.3|068.1|070.9|087.8|090.05|110.1|1213.5|130.2|14260|1521|1736
+424	WS45927		0384.5|0413|051.5|064
+425	WS160941		03415|0478.5|053.45|0615
+426	WS40887	100 gramm	03240|0426.5|0514|094.9|106|111.5|1220|131.1|14340|1557|1688|170.1|180.9
+427	WS21128	1 piskóta=42|1 kisebb szelet=42|1 szelet=42	03400|043.65|0516|0660.5|073.2|0838|094.9|108.5|111.8|12115|133.6|14175|15330|171.9
+428	WS21060	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50|1 sült krumpli=71|1 nagy (8 cm. 11 cm-es)=370|8.3 sült=100	03310|043.4|0514.5|0641|073.8|080.3|092.3|105.95|115.35|1218|130.8|14580|15210|174.75
+429	WS8924		03150
+430	WS68937	1 csésze|3 evőkanál	03125|048.45|050.4|0621.5|076.3|080.35|090.1|100.05|110.15|1290|133.7|14560|156
+431	WS19529	1 szelet=76	03300|0413|0514|0631|072.5|083.6|096.2|103.5|113.05|12290|131.7|14200|15740|1628|173
+432	WS29315		03490|0410|0512.5|06215
+433	WS128003		03440|0410.5|0513|06225
+434	WS38986	2 rúd (sq 2 cm. 1 cm)=225|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03875|040.3|0599.5|0962|1028.5|113.7|124|145|152|16255|181.8
+435	WS11177		03130|043.6|053.45|0620.5
+436	WS54959		03250|0413|0523
+437	WS39019	1 szelet=28|0.4 csésze (reszelt)=45|1 csomag (elolvadt)=170|1 csésze (kockázva)=130|1 csésze (elolvadt)=245|1 köbcenti=17	03365|0418|0530.5|064.8|082.25|0918|108.25|111.3|121050|130.65|14130|151650|16100|187.5
+438	WS21754	1 csésze	03360|048.2|050.85|0678|071.7|080.3|090.15|100.05|110.4|1214|137.3|14105|152
+439	WS69336	3 deciliters|100 gramm	0349|041.4|051.5|067.55|071.8|085.5|090.15|100.4|110.5|1227|130.8|14320|15420|162|172
+440	WS45021		0354.5
+441	WS44822	1 nagy (8 cm. 11 cm-es)=370|1 közepes (6 cm. 8 cm-es)=215|1 kis (4 cm. 6 cm-es)=170|0.2 kupa (kockázva)=30|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0377|042|050.1|0617.5|072.2|080.8|090.05|110.05|1212|130.8|14420|156|1719.5
+442	WS64498	1 evőkanál|1 teáskanál|1 csésze|1 gramm	03860|05100|0925|1041|1128|121|130.05|154
+443	WS44890	1.5 adag=150|0.5 k=91|0.5 csésze	0373.5|042.85|050.35|0614|074.4|083.1|090.05|110.05|1225|130.8|14170|1535|173.2
+444	WS140174		03320|0426|0523.5|060.9
+445	WS154482		0381.5|0414.5|051.45|062
+446	WS19285	1 mini bár=7|4 kocka=14|1 Tábla=50	03545|047.7|0530|0660|073.4|0851.5|0918.5|107.2|111.4|12190|132.35|14370|1579|1623
+447	WS57373	1 adag=85|0.2 csésze	03245|0421.5|0517|096|107.9|111.8|127|130.85|14285|151200|1662|180.7
+448	WS31746	1 ek=5|1 kk=1|1 evőkanál	03230|0418|0513|0656.5|0730|081.75|097.75|104.4|110.4|12110|1315.5|142500|1519
+449	WS81319		03390|044.15|059.1|0620.5
+450	WS60628		0394.5|049.7|055.95
+451	WS21754	1 csésze	03360|048.2|050.85|0678|071.7|080.3|090.15|100.05|110.4|1214|137.3|14105|152
+452	WS37033		03205
+453	WS22539	1 közepes=61|1 kis (14 cm)=50|1 nagy (7-21 cm)=72|1 adag=300|1 csésze (apróra vágott)=130|1 csésze (csíkokra vagy szelet)=120|1 nagy szalag (8 cm)=7|1 szelet=3|1 cs=7|1 csésze (reszelt)=110	0341|040.95|050.25|069.55|072.8|084.75|090.05|110.1|1233|130.3|14320|1569|175.9
+454	WS35307		0356.5|044.6|054.85|065.7
+455	WS79922		0380|040.8|051.8|069.35
+456	WS73294		0323|041.2|051.45|062.1
+457	WS30739		03395|0432|0528|063.6|082.05|0917|108.2|111.15|121000|130.8|14115|151250|1687|180.5
+458	WS34613		0313.5|040.35|061.2|070.1|127.95|130.05|1426.5|151.35
+459	WS69336	3 deciliters|100 gramm	0349|041.4|051.5|067.55|071.8|085.5|090.15|100.4|110.5|1227|130.8|14320|15420|162|172
+460	WS26656	1 kis pohár=180|1 nagy pohár=355|1 csésze	0361|043.15|053.4|064.8|085.05|091.85|100.8|110.2|12115|130.05|14130|1543|1610|181.3
+461	WS48322	100 gramm	03210|0428.5|059.65|093.5|104.3|110.75|1218|131.1|14425|1558|1681|170.6|180.7
+462	WS36381		0325.5
+463	WS31599	1 kis tartály=125|1 tartály=245|1 közepes konténer=185	0385|044.95|051.25|0613.5|0814|090.8|100.35|110.05|12170|130.05|14220|1566|165|170.8
+464	WS61609	1 közepes=44|1 nagy=50|1 kis=38|1 extra nagy=56|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03155|0412.5|0510.5|061.1|081.1|093.25|104.1|111.4|1250|131.2|14125|15125|16375|182.2
+465	WS19286	1 keksz (6 cm)=35|10 keksz háztartási=20|1 közepes=51|1 kis=35|3 keksz=50|1 nagy=77|2 keksz (ĺ6 cm)=120	03360|046.2|0516.5|0648|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+466	WS127906		03345|047.05|054.05|0679
+467	WS26474		03165|0634.5
+468	WS25960	1 ovális szelet=9.3	03205|0418|053.4|062.6|091.1|101.3|110.1|126|132.05|14310|15885|1648|180.1
+469	WS41545	3 szelet=81|1 vékony szelet=15|1 csésze=140	03165|0421.5|057.75|060.75|092.6|103.75|111.05|127.85|131.35|14350|151350|1656.5|180.75
+470	WS66521		0320|041.2|050.3|063
+471	WS26661	1 szelet=120	03270|0411|0510.5|0633|072.2|083.35|094.25|102.6|112.75|12180|132.5|14170|15595|1617|171.2
+472	WS88073		03110|0411.5|054.75|066.25
+473	WS58703	1 közepes (6 cm)=10|1 nagy (9 cm - 10 cm)=40|1 harapás méretű cookie-t (6 cm)=2.2	03470|045.6|0520|0670.5|072.8|0841|096.4|108.5|113.55|1222|138.7|14215|15460
+474	WS41435	1 közepes (6 cm. 8 cm-es)=215|1 nagy (8 cm. 11 cm-es)=370|1 kis (4 cm. 6 cm-es)=170|0.5 kupa (kockázva)=75|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0398.5|041.95|050.15|0621.5|071.5|081.7|090.05|110.05|125|130.35|14390|155|1713
+475	WS9250		03240|0418|0521.5|065.05
+476	WS21445		03355|049.7|0658
+477	WS21128	1 piskóta=42|1 kisebb szelet=42|1 szelet=42	03400|043.65|0516|0660.5|073.2|0838|094.9|108.5|111.8|12115|133.6|14175|15330|171.9
+478	WS9009		0379|045.4|053.95|066.15
+479	WS26661	1 szelet=120	03270|0411|0510.5|0633|072.2|083.35|094.25|102.6|112.75|12180|132.5|14170|15595|1617|171.2
+480	WS85198	0.5 mell=81|1 csirkecomb=98|0.5 csirke=260|1 adag (apróra vágott. vagy kockára vágott)=100|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szárny=34|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03220|0430.5|059.1|061.7|070.1|092.45|103.35|112.15|1217|131.35|14255|1591|1694|180.1
+481	WS51288	1 rúd (10 x 2 cm x 1 cm)=28|2.5 db (2cm x 2cm)=140|1 db (10 x 5 cm x 1 cm)=57	03250|0411|0513|0621|071.4|082.5|092.75|104.2|115.7|1226|131|14215|15420|1628|180.4
+482	WS34818		03115|042.9|055.85|0611
+483	WS22862	1 adag=125|10 szőlő=49|1 c=100|1 csésze	0375|040.75|050.2|0618|070.9|0815.5|090.05|110.05|1210|130.35|14190|152|173.2
+484	WS110106		03175
+485	WS54458	1 közepes (7 cm)=150|1 nagy (7 cm)=175|1 kis (6 cm)=130|1 csésze (szeletek)=155|1 extra-nagy (8 cm)=225|4 kicsi (7 cm)=600|2 közepes (18 cm. 20 cm-es)	0339|040.9|050.25|069.6|071.5|088.4|100.05|110.1|126|130.25|14190|176.6
+486	WS19522	1 szelet=25|1 vékony szelet=20|1 nagy szelet (kocka)=30|1 szelet héja=12|1 nagyon vékony szelet (kocka)=15|1 csésze (zsemlemorzsa)=45|1 vékony szelet héja (kocka)=9|0.8 nagy szelet|1 csésze (kocka)=35	03270|049.2|053.15|0649|072.7|085.05|090.7|100.6|111.6|12260|133.6|14115|15490
+487	WS160941		03415|0478.5|053.45|0615
+488	WS85469		03625
+489	WS42717	1 kicsomagolt TK=3|2 csomag|1 csomagolt TK=4.6|1 csomagolt kupa=220|1 kicsomagolt kupa=145	03380|040.1|0698|0897|1283|130.7|14135|1528
+490	WS53678		0347.5|042.65|051.05|067.85
+491	WS108165		03115|046.6|057.85|063.6
+492	WS146683		0315|050.1|063.6
+493	WS52888	1 DL (14 fele)=28.5|0.2 csésze (apróra vágott)=23.5|1 csésze (héjazott (50 fele)=100|0.2 csésze (darab vagy zseton)=24|1 csésze (héjazott (25 fele)=100|1 adag=10|1 csésze (föld)=80|1 csésze	03645|0415|0565|0613.5|076.7|082.6|096.15|108.95|1147|1298|132.9|14440|152|171.3
+494	WS40023		03385
+495	WS17534	1 tér (10 cm-es tér)=33|2 db=100|1 darab=100|3 tér (13 cm-es tér)=99	03345|048.75|0511.5|0649|072.4|085|091.65|104.9|112.2|12305|136.9|14145|15730|1615
+496	WS28196	1 szelet (9 cm x 2 cm)=84|1 csésze (darabokat)=165|1 nagy szelet (12 cm x 2 cm)=165|1 vékony szelet (9 x 1 cm)=56|1 ananász (9 x 1 cm)=905	0350.5|040.55|050.1|0613|071.4|089.85|110.05|1213|130.3|14110|151|1748
+497	WS41122	1 csésze (felvert)=120|0.1 csésze (folyadék)=24|1 evőkanál	03345|042.05|0537|062.8|080.1|0923|1010.5|111.35|1265|130.05|1475|1538|16135|170.6|180.7
+498	WS95970		0349|043|050.75|063.2|090.1|100.1|126|130.15|1454|15370
+499	WS21753	1 közepes=180|1 kis=150|1 nagy=230|0.5 csésze (szeletelve)=70|1 adag=165|1 csésze (kocka)=160	0357|040.35|050.15|0615.5|073.1|089.75|100.1|110.1|129|130.2|14115|151|174.3
+500	WS121866		0345|0611
+501	WS21030	1 pohár=12|0.5 tartály=120|1.2 po=20.5|1 evőkanál	03200|042.1|0520|064.05|082.9|0911.5|105.05|110.85|12110|130.15|14140|1580|1652|170.9|180.4
+502	WS30742		03360|0470.5|057|069.3
+503	WS103834	1 közepes (8 cm)=54|1 nagy (10 cm)=71|0.5 közepes=27|1 extra-nagy (12 cm)=120|1 hosszú perec (11 cm)=52	03420|046.15|0522.5|0648|072.1|0823|099.45|107.25|113.6|12100|132.4|14100|15315|1630|171.2|180.1
+504	WS85198	0.5 mell=81|1 csirkecomb=98|0.5 csirke=260|1 adag (apróra vágott. vagy kockára vágott)=100|1 csésze (apróra vágott. vagy kockára vágott)=140|1 szárny=34|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03220|0430.5|059.1|061.7|070.1|092.45|103.35|112.15|1217|131.35|14255|1591|1694|180.1
+505	WS31348		0390|049.55|052.25|063.75
+506	WS120221		03535|047.85|0535|0634
+507	WS122128		0327.5|041|050.2|066.2
+508	WS29348		03340
+509	WS22862	1 adag=125|10 szőlő=49|1 c=100|1 csésze	0375|040.75|050.2|0618|070.9|0815.5|090.05|110.05|1210|130.35|14190|152|173.2
+510	WS96047		03205|0417.5|057.6|0616.5
+511	WS30742		03360|0470.5|057|069.3
+512	WS104469		0321|041.15|063.85
+513	WS121346		0339.5|041|069.25
+514	WS33965		03365|0426|0527|064.6
+515	WS46554	1 avokádó=200|1 csésze (pépesítve)=230|0.8000001 csésze (szeletelve)=115|0.6 csésze (kocka)=90	03160|042|0514.5|0610|076.7|080.65|092.15|109.8|111.8|1212|130.55|14485|157|1710
+516	WS28096	1 adag=100|1 csésze	03340|048.1|050.5|0678|076.6|083.35|090.15|110.15|1227|131.2|141100|15105|1781
+517	WS103834	1 közepes (8 cm)=54|1 nagy (10 cm)=71|0.5 közepes=27|1 extra-nagy (12 cm)=120|1 hosszú perec (11 cm)=52	03420|046.15|0522.5|0648|072.1|0823|099.45|107.25|113.6|12100|132.4|14100|15315|1630|171.2|180.1
+518	WS38986	2 rúd (sq 2 cm. 1 cm)=225|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03875|040.3|0599.5|0962|1028.5|113.7|124|145|152|16255|181.8
+519	WS28853		0329|040.7|068.4
+520	WS35650	2 kiskanál=10|2 evőkanál	03590|0425|0550.5|0619.5|076|089.2|0910.5|1024|1114|1243|131.85|14650|15460
+521	WS27064	1 mell=280|1 csésze (apróra vágott. vagy kockára vágott)=140|2 szelet=140|1 csésze (apróra vágott, vagy kockára vágott)=140	03255|0424.5|0513|069.2|070.3|093.55|105.45|113.1|1220|131.25|14200|15275|1685|180.1
+522	WS9000	1 nagy pohár=355|1 tányér=180|1 kis pohár=180|1 serving=100|1 csésze	037.9|041.25|050.25|060.1|090.1|100.1|126|130.15|1454|15370
+523	WS22169	1 kis csomag=85|1 felvert evőkanál=10|1 köbcenti=16|1 evőkanál	03340|045.95|0534|064.05|083.2|0919.5|108.6|111.45|1298|130.4|14140|15320|16110|180.6
+524	WS32180	1 nagy pohár=355|1 kis pohár=180|1 pohár=200|1 csésze	0345|040.7|050.2|0610.5|070.2|088.4|100.05|110.05|1211|130.2|14200|151|1750
+525	WS143278		03660|047|0565|0624
+526	WS44114		03710|046|0528.5|0653.5
+527	WS11303		03595|0410.5|0529|0684
+528	WS63295		03295|0449.5|0528.5
+529	WS85469		03625
+530	WS56068	1 tartály=245|1 kis tartály=125|1 közepes konténer=185	03100|044.35|051.1|0619|0819|090.7|100.3|110.05|12150|130.05|14195|1558|164|170.7|181.3
+531	WS150302	0.1 DL (60 mazsola)=2.9|16.7 mazsola (nem csomagolt)=8.7|1 kis doboz=43|1 csomagolt kupa=165|1 csésze (nem csomagolt)=145|1 kis doboz (nem csomagolt)=14	03295|042.8|050.8|0679
+532	WS3219		03375|0414|056.65|0666|0710|081|091.1|102|112.3|1252|134.25|14360|156
+533	WS185153		0318.5|051.1|061.65
+534	WS21464	1 szelet=22|1 szelet héja=11|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=42|1 nagy szelet (kocka)=27|1 vékony szelet=17|1 vékony szelet héja (kocka)=8|1 nagyon vékony szelet (kocka)=13	03295|049|054|0654.5|072.5|084.75|090.6|100.8|112.1|12120|133.35|14130|15590|161
+535	WS29314	1 mini bár=7	03500|0413|0552.5|0630|0716.5|080.9|0932.5|1016|111.55|12100|1317.5|14830|1524
+536	WS4111		03460|049.25|0519|0654|078.1|080.45|096.8|109.8|1123|124|132|14180|151050|170.3
+537	WS96635		03410|045.35|059.75|0674
+538	WS56068	1 tartály=245|1 kis tartály=125|1 közepes konténer=185	03100|044.35|051.1|0619|0819|090.7|100.3|110.05|12150|130.05|14195|1558|164|170.7|181.3
+539	WS111747		03120|044.7|0510.5|065.8
+540	WS79771		0354|043.05|052.55|064.8
+541	WS26661	1 szelet=120	03270|0411|0510.5|0633|072.2|083.35|094.25|102.6|112.75|12180|132.5|14170|15595|1617|171.2
+542	WS21960	6.699999 szelet|100 gramm	03205|0429|059.3|092.55|103|111.05|1251|130.85|14275|1572|1679|180.8
+543	WS37558		0348
+544	WS26597	1 adag=125	03295|0425.5|0521|097.7|109.25|111.85|1222|131.3|14360|1573|1694|170.7|180.5
+545	WS62957	1 rúd (sq 2 cm. 1 cm)=115|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03660|040.2|0574.5|060.75|0914|1036.5|1126.5|123|1417|15655|170.1
+546	WS32180	1 nagy pohár=355|1 kis pohár=180|1 pohár=200|1 csésze	0345|040.7|050.2|0610.5|070.2|088.4|100.05|110.05|1211|130.2|14200|151|1750
+547	WS224513		03275|0414|0524|061.2
+548	WS30178		0392.5
+549	WS22172	1 evőkanál|1 teáskanál	03390|040.9|0533.5|0624|086.4|094.9|109|1118|1214|130.2|149|15710|1626|180.1
+550	WS43173	0.5 csésze|3 gombóc	03205|043.5|0510.5|0623.5|070.7|0821|096.8|102.95|110.45|12130|130.1|14200|1580|1644|170.6|180.2
+551	WS95970		0349|043|050.75|063.2|090.1|100.1|126|130.15|1454|15370
+552	WS17534	1 tér (10 cm-es tér)=33|2 db=100|1 darab=100|3 tér (13 cm-es tér)=99	03345|048.75|0511.5|0649|072.4|085|091.65|104.9|112.2|12305|136.9|14145|15730|1615
+553	WS185153		0318.5|051.1|061.65
+554	WS60881		0345|041.2|050.1|068.7|071.5|084.55|090.05|110.05|1222.5|130.25|14160|153.4|176.05
+555	WS45927		0384.5|0413|051.5|064
+556	WS92852		03385|048.4|052.1|0682
+557	WS41436	1 piskóta=42	03375|043.45|0511.5|0664|071|0837.5|094.15|104.9|111.85|1224|131.35|1471|15470|1641|170.1|180.1
+558	WS36112	1 nagy pohár=355|0.9 kis pohár=160|1 csésze	0316|042|050.6|060.4|080.3|090.15|100.25|110.1|124|130.2|1486|15305
+559	WS19759	1 szelet=8|1 vastag szelet=12|1 vékony szelet=5|1 adag=100	03540|0436.5|0542|061.45|0913.5|1018.5|114.55|1211|131.45|14565|151700|16110|181
+560	WS19523	2 evőkanál|1 csésze	03195|0410.5|0515|065.5|070.1|080.2|098.05|104.75|111.4|12310|130.35|14140|15495|1638|170.6|181
+561	WS21753	1 közepes=180|1 kis=150|1 nagy=230|0.5 csésze (szeletelve)=70|1 adag=165|1 csésze (kocka)=160	0357|040.35|050.15|0615.5|073.1|089.75|100.1|110.1|129|130.2|14115|151|174.3
+562	WS91460		03150|045.25|052.6|0615.5
+563	WS91629		0367|041.35|050.45|0614.5
+564	WS66517		03295|0423|0521.5|063.95
+565	WS30993		03210|0412|0517.5|061.85
+566	WS46677	1 evőkanál|1 csésze	03455|040.75|0545|0615.5|0816|095.65|108.45|1121|1224|130.8|1467|15835|173.6
+567	WS39028	1 sajtburger=125	03265|0413|0512.5|0625|071.9|085.25|095.8|105.05|111.35|12125|132.25|14185|15630|1639|170.4|180.1
+568	WS60610		0347|040.9|050.35|0610.5
+569	WS21753	1 közepes=180|1 kis=150|1 nagy=230|0.5 csésze (szeletelve)=70|1 adag=165|1 csésze (kocka)=160	0357|040.35|050.15|0615.5|073.1|089.75|100.1|110.1|129|130.2|14115|151|174.3
+570	WS54895		03110|055.4|06160
+571	WS66517		03295|0423|0521.5|063.95
+572	WS32360	1 közepes adag=115|1 kis adag=71|1 nagy adag=155|10 sült krumplival=50	03165|042.65|055.2|0627.5|072.8|080.3|091.05|103.25|110.3|1212|130.75|14450|15390|1713.5
+573	WS171691		03290
+574	WS74954		0366.5|0612
+575	WS58703	1 közepes (6 cm)=10|1 nagy (9 cm - 10 cm)=40|1 harapás méretű cookie-t (6 cm)=2.2	03470|045.6|0520|0670.5|072.8|0841|096.4|108.5|113.55|1222|138.7|14215|15460
+576	WS91460		03150|045.25|052.6|0615.5
+577	WS89865		0384|0411.5|052.1|064.45
+578	WS88073		03110|0411.5|054.75|066.25
+579	WS93972		03295|041.9|0530|064.4
+580	WS54920		0371.5
+581	WS92221		03120
+582	WS56999	1 szelet=27|1 vékony szelet=15|1 csésze	03110|0416.5|052.75|064.65|080.55|090.6|100.9|110.35|1216|130.4|14440|151050|1645
+583	WS50736		0333|041.35|050.35|064.65
+584	WS31599	1 kis tartály=125|1 tartály=245|1 közepes konténer=185	0385|044.95|051.25|0613.5|0814|090.8|100.35|110.05|12170|130.05|14220|1566|165|170.8
+585	WS99284		03125|0426|055.2
+586	WS18871		03255|0413|059.75|0628.5
+587	WS21754	1 csésze	03360|048.2|050.85|0678|071.7|080.3|090.15|100.05|110.4|1214|137.3|14105|152
+588	WS44448	1 doboz (303 x 406)=260|1 csésze (szilárd anyagok)=155|10 bab=62	0325|041.25|050.35|064.25|072.5|081.3|090.1|110.2|1238|130.9|14105|15245|172.7
+589	WS56044		03115
+590	WS328221		03345
+591	WS105846		03255|0410|0520|0613.5
+592	WS108165		03115|046.6|057.85|063.6
+593	WS214186		03110|0424.5|051|060.5
+594	WS33818		0392.5|0418.5|051.1
+595	WS41436	1 piskóta=42	03375|043.45|0511.5|0664|071|0837.5|094.15|104.9|111.85|1224|131.35|1471|15470|1641|170.1|180.1
+596	WS40023		03385
+597	WS58433		03320|0432.5|052.65|0633.5
+598	WS120039		03215|0418.5|0516
+599	WS122868		03165|042.85|050.45|0629.5
+600	WS107068		03185|045.8|053.85|0632.5
+601	WS41415	1 rúd (sq 2 cm. 1 cm)=115|1 rúd (sq 2 cm. 1 )=10|1 rúd (sq 2 cm. 2 cm)=115|1 evőkanál|1 teáskanál|1 csésze|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|1511|16215|181.5
+602	WS39753		03430|0412.5|0520|0649
+603	WS39470	10 gumicukorkát=36|1 csésze gumicukorkát (2 cm)=180|10 a mézgás Medve (2 cm)=22|10 nyúlós hal (2 cm)=50|10 nyúlós dinoszauruszok (2 cm)=63|10 dagadt férgek (2 cm)=74	03395|0698.5|070.1|0859|123|130.4|145|1544
+604	WS104484		0352|041.2|0612
+605	WS20325	1 közepes (6 cm)=110|1 evőkanál (apróra vágott)=10|10 gyűrűk=60|1 nagy szelet (1 cm)=38|1 kis=70|1 vékony szelet=9|0.5 csésze (apróra vágott)=80|1 csésze (szeletelve)=115|1 nagy=150|1 közepes szelet=14|0.1 csésze (apróra evágott)=12|2.1 közepes (6 cm) ca	0340|041.1|050.1|069.35|071.7|084.25|090.05|1223|130.2|14145|154|177.4
+606	WS65336		0376.5|065.3
+607	WS109963		03320|0426|0524|061.8
+608	WS38341		03165|047.3|059.65|068.35
+609	WS42630	1 adag=48	03380|0414.5|0535|0911.5|1015|114.85|12135|130.9|14305|15750|1674|170.7|180.8
+610	WS49785	32 földimogyoró=28|1 marék=50|1 csésze|1.5 adag	03600|0427.5|0552|0614.5|079.4|084.2|098.65|1026|1115.5|1261|131.5|14725|15320|170.8
+611	WS52888	1 DL (14 fele)=28.5|0.2 csésze (apróra vágott)=23.5|1 csésze (héjazott (50 fele)=100|0.2 csésze (darab vagy zseton)=24|1 csésze (héjazott (25 fele)=100|1 adag=10|1 csésze (föld)=80|1 csésze	03645|0415|0565|0613.5|076.7|082.6|096.15|108.95|1147|1298|132.9|14440|152|171.3
+612	WS101193		0395|042.65|052.05|0611
+613	WS104484		0352|041.2|0612
+614	WS92221		03120
+615	WS175713		0379.5|0410|050.95|061.4|080.35|093.15|103.65|111.9|1256|131.75|14140|15140|16370|182
+616	WS12059		03165|049.35|0510|068.25
+617	WS27122	1 közepes=44|1 nagy=50|1 extra nagy=56|1 kis=38|1 csésze (apróra vágott)=135|1 evőkanál=8.5	03150|0411|0510.5|061.6|081.4|093.35|104.45|112.45|1266|131.3|14130|15145|16275|181.8
+618	WS12060		03530|0663.5
+619	WS21961	1 zacskó=28|1 csésze|1 zacsko	03440|0414|057.65|0687|0714.5|080.85|090.55|101.1|111.9|127|133.2|14330|158
+620	WS50736		0333|041.35|050.35|064.65
+621	WS171691		03290
+622	WS120221		03535|047.85|0535|0634
+623	WS206393		0325.5
+624	WS265639		03295
+625	WS62958		03210
+626	WS63928		03255|052.5|0646.5
+627	WS54086	1 nagy darab (1/8-22 cm)=125|0.5 közepes darab (1/6-20 cm-es kör)=58.5|0.2 darab=47|3 szelet=190|2 darab (1/8-22 cm)=135|4 közepes kocka	03240|041.9|0511|0634|071.6|0815.5|093.8|104.4|112.2|1211|130.45|1465|15200|173.2
+628	WS27064	1 mell=280|1 csésze (apróra vágott. vagy kockára vágott)=140|2 szelet=140|1 csésze (apróra vágott, vagy kockára vágott)=140	03255|0424.5|0513|069.2|070.3|093.55|105.45|113.1|1220|131.25|14200|15275|1685|180.1
+629	WS21448	1 gomba=12|1 csésze (db)=155|3 evőkanál	0332|042.15|050.45|065.2|072.2|082.35|090.05|110.2|126|131.75|14355|152|174|180.2
+630	WS105846		03255|0410|0520|0613.5
+631	WS122128		0327.5|041|050.2|066.2
+632	WS72106		03385|0516.5|0646
+633	WS34713		03265|0655
+634	WS130938		03600|046.95|0528|0651|075.1|0834.5|0910.5|109.75|113.2|1235|1310|14320|15385
+635	WS54895		03110|055.4|06160
+636	WS87892		03260
+637	WS42630	1 adag=48	03380|0414.5|0535|0911.5|1015|114.85|12135|130.9|14305|15750|1674|170.7|180.8
+638	WS22862	1 adag=125|10 szőlő=49|1 c=100|1 csésze	0375|040.75|050.2|0618|070.9|0815.5|090.05|110.05|1210|130.35|14190|152|173.2
+639	WS22278		03435|0425.5|059.05|0660.5
+640	WS24765	1 adag=85|1 csésze=140	03145|0430|052.1|090.6|100.65|110.55|129|130.7|14250|1599|1680|180.3
+641	WS29315		03490|0410|0512.5|06215
+642	WS102091	2 adag=210|0.5 csésze (apróra vágott)=92|1 nagy szár (12 cm - 15 cm)=280|1 közepes szár (19 cm - 20 cm)=180|1 lándzsa (kb. 12 cm)=37|1 kis szár (12 cm)=140	0336|042.9|050.25|064.95|073|081.45|110.05|1251|130.6|14180|1524|1740
+643	WS207066		03245|049.5|054.75|0643
+644	WS54372	1 tartály=245|1 kis tartály=125|1 közepes konténer=185	03105|044.9|051.4|0618.5|082.9|090.9|100.4|110.05|12150|130.05|14195|1558|166|170.7
+645	WS35030		03345|0416.5|052.3|0663.5
+646	WS31898	1 csésze (reszelt)=70|1 csésze (apróra vágott)=89|1 nagy levél (kb. 18 cm)=33|1 kis káposzta (kb. 11 cm)=715|2 levél (reszelt)=30|1 közepes káposzta (kb. 14 cm)=910|0.5 csésze|1 nagy káposzta (kb. 18 cm)=1250|1 közepes levél (kb. 14 cm)=23	0323|041.25|050.05|065.55|071.9|082.85|1248|130.15|14195|157.95|1737.5
+647	WS31745	1 evőkanál|0.2 csésze	03420|0437.5|0528.5|064.05|080.9|0917.5|108.4|111.15|121100|130.9|14125|151550|1688|180.5
+648	WS29348		03340
+649	WS93972		03295|041.9|0530|064.4
+650	WS81322		03635|0422|052.55|0682
+651	WS46366		0386
+652	WS68437	32 földimogyoró=28|1 csésze=18	03585|0424|0549.5|0620.5|078|084.2|096.9|1024.5|1115.5|1254|132.25|14660|15680
+653	WS25781	1 kis pohár=180|1 nagy pohár=355|1 csésze	0371|043.25|051|0612.5|070.5|089.95|090.6|100.3|110.05|12115|130.25|14170|1561|163|170.9|181.1
+654	WS23497		03590|045.55|0532|0668
+655	WS85651	1 kis pohár=180|1 doboz=355|1 csésze	0341|040.1|0610.5|0810|122|141|1510
+656	WS72106		03385|0516.5|0646
+657	WS29323	1 csésze	03105|042.05|050.65|0623.5|070.95
+658	WS46366		0386
+659	WS27799		03635|0416|0560|0632.5|076|088.5|0920|1024.5|1112|1236.5|131.75|14520|15370
+660	WS20227		03505
+661	WS54372	1 tartály=245|1 kis tartály=125|1 közepes konténer=185	03105|044.9|051.4|0618.5|082.9|090.9|100.4|110.05|12150|130.05|14195|1558|166|170.7
+662	WS85651	1 kis pohár=180|1 doboz=355|1 csésze	0341|040.1|0610.5|0810|122|141|1510
+663	WS58707	1 közepes ék (1/8 dinnye)=69|1 nagy ék (1/8 dinnye)=100|1 kis-ék (1/8 dinnye)=55|1 nagy (kb. 16 cm)=815|1 kis (kb. 11 cm)=440|1 közepes (kb. 12 cm)=550|1 kiss ék (1/8 dinnye)=69|2 sárgadinnye Golyók (kb. 11 cm)=28	0330|040.6|050.15|067.5|070.4|086.2|100.05|110.05|127|130.25|14110|151|178.1
+664	WS26103	1 evőkanál	03900|05100|0939|1045|1111|1695|182.5
+665	WS238653		03110
+666	WS62203		03200
+667	WS79289		03105|050.6|0627
+668	WS143868		0341.5|042|052.05|063.65
+669	WS94206		0385.5|041.7|054.55|069.8
+670	WS31232		03445|0410.5|0511.5|0668
+671	WS19435	0.5 adag=50|0.3 csésze	03375|0413|056.6|0668.5|0710|081|091.1|102|112.3|1252|134.25|14360|156
+672	WS47785	1 kis pohár=180|1 nagy pohár=355|3.5 pohár=700|1 csésze	0348.5|040.7|050.1|0611|070.3|088.3|110.05|1211|130.15|14180|152|1733.5
+673	WS8924		03150
+674	WS30993		03210|0412|0517.5|061.85
+675	WS30739		03395|0432|0528|063.6|082.05|0917|108.2|111.15|121000|130.8|14115|151250|1687|180.5
+676	WS31746	1 ek=5|1 kk=1|1 evőkanál	03230|0418|0513|0656.5|0730|081.75|097.75|104.4|110.4|12110|1315.5|142500|1519
+677	WS53403		0348|041.4|050.3|0611
+678	WS47785	1 kis pohár=180|1 nagy pohár=355|3.5 pohár=700|1 csésze	0348.5|040.7|050.1|0611|070.3|088.3|110.05|1211|130.15|14180|152|1733.5
+679	WS54465		03280|047.4|0512.5|0637
+680	WS19282		03370|0474|054.9|0614
+681	WS25960	1 ovális szelet=9.3	03205|0418|053.4|062.6|091.1|101.3|110.1|126|132.05|14310|15885|1648|180.1
+682	WS37033		03205
+683	WS79762		0344|043.05|051.5|064.55
+684	WS36112	1 nagy pohár=355|0.9 kis pohár=160|1 csésze	0316|042|050.6|060.4|080.3|090.15|100.25|110.1|124|130.2|1486|15305
+685	WS91634		03155|0414.5|0511.5|065.35
+686	WS105903		0320|041.1|050.2|063.5
+687	WS109963		03320|0426|0524|061.8
+688	WS21464	1 szelet=22|1 szelet héja=11|1 csésze (zsemlemorzsa)=45|1 csésze (kocka)=42|1 nagy szelet (kocka)=27|1 vékony szelet=17|1 vékony szelet héja (kocka)=8|1 nagyon vékony szelet (kocka)=13	03295|049|054|0654.5|072.5|084.75|090.6|100.8|112.1|12120|133.35|14130|15590|161
+689	WS54893	1 nagy pohár=355|1 csésze|1 kvart|1 kis pohár=180	0337.5|050.05|0610|089|125|130.05|1411|152
+690	WS179400		0344|043|051.5|064.7
+691	WS172250		0394|0414.5
+692	WS27799		03635|0416|0560|0632.5|076|088.5|0920|1024.5|1112|1236.5|131.75|14520|15370
+693	WS20813	1 nagy pohár=355|1 kis pohár=180|1 doboz=400|1 pint|1 csésze	0343.5|040.45|063.6|124|1427|154
+694	WS16621		03165|044.85|052.3|0627
+695	WS59766		03145|0416.5|054.9|066.4
+696	WS42461		03210
+697	WS87892		03260
+698	WS38954		03215|048.4|055.75|0624
+699	WS35219		03255
+700	WS109325		03405|045.8|0515.5|0660
+701	WS26655	1 szelet=120	03260|0412.5|058.8|0633|072.5|085.1|093.85|102.2|111.4|12175|131.75|14175|15555|1616|171.9
+702	WS63295		03295|0449.5|0528.5
+703	WS33965		03365|0426|0527|064.6
+704	WS44818	1 nagy pohár=355|1 kis pohár=180|1 csésze	0376|041.35|055.3|066.95|070.7|080.4|090.95|101.2|112.9|1212|130.2|1464|15690|180.2
+705	WS36673		0394|0419|052.35|0614
+706	WS79520		03335|046|0515|0633.5
+707	WS85651	1 kis pohár=180|1 doboz=355|1 csésze	0341|040.1|0610.5|0810|122|141|1510
+708	WS60980	1 nagy pohár=355|1 kis pohár=180|1 csésze|1 kvart	0346|040.1|050.15|0611|070.2|089.6|110.05|128|130.1|14100|154|170.9
+709	WS46366		0386
+710	WS44890	1.5 adag=150|0.5 k=91|0.5 csésze	0373.5|042.85|050.35|0614|074.4|083.1|090.05|110.05|1225|130.8|14170|1535|173.2
+711	WS114447		03235
+712	WS22355		0326.5|041.15|065.55
+713	WS27224	1 máj=44	03120|0417|054.85|060.75|091.55|101.25|111.3|128|139|14230|1571|16345|1718
+714	WS39028	1 sajtburger=125	03265|0413|0512.5|0625|071.9|085.25|095.8|105.05|111.35|12125|132.25|14185|15630|1639|170.4|180.1
+715	WS39753		03430|0412.5|0520|0649
+716	WS72106		03385|0516.5|0646
+717	WS141608		031200|0540|06180
+718	WS54895		03110|055.4|06160
+719	WS44822	1 nagy (8 cm. 11 cm-es)=370|1 közepes (6 cm. 8 cm-es)=215|1 kis (4 cm. 6 cm-es)=170|0.2 kupa (kockázva)=30|1 közepes (6 cm, 8 cm-es)=215|1 nagy (8 cm, 11 cm-es)=370|1 kis (4 cm, 6 cm-es)=170	0377|042|050.1|0617.5|072.2|080.8|090.05|110.05|1212|130.8|14420|156|1719.5
+720	WS85470		0348|0611
+721	WS35030		03345|0416.5|052.3|0663.5
+722	WS27525	1 csésze	03380|0411.5|054.85|0678|078.3|0816.5|090.85|101.6|111.5|12205|1329.5|14365|15345|1711.5
+723	WS114113		0358.5|043|052.85|064.7
+724	WS79520		03335|046|0515|0633.5
+725	WS62203		03200
+726	WS58703	1 közepes (6 cm)=10|1 nagy (9 cm - 10 cm)=40|1 harapás méretű cookie-t (6 cm)=2.2	03470|045.6|0520|0670.5|072.8|0841|096.4|108.5|113.55|1222|138.7|14215|15460
+727	WS90920		03230|0510|0654.5
+728	WS68893		03295|0411.5|052|0663
+729	WS241045		03510|0412|0524|0655
+730	WS9009		0379|045.4|053.95|066.15
+731	WS21029	1 közepes szár (19 cm - 20 cm)=180|0.5 csésze (apróra vágott)=92|1 kis fej=25|1 adag=300|1 nagy szár (12 cm - 15 cm)=280|1 kis szár (12 cm)=140|3 lándzsa (kb. 12 cm)=110	0334|042.4|050.4|066.8|073.3|081.4|090.1|100.05|110.15|1240|130.65|14295|1541|1765
+732	WS109538		03480|0519.5|0655
+733	WS124336		0352|0614.5
+734	WS121866		0345|0611
+735	WS101732		03395|0412|0561.5|0675.5
+736	WS39753		03430|0412.5|0520|0649
+737	WS40363	1 doboz=355|1 csésze|1 kis pohár=180	0342|0611|0811|123|143|1575
+738	WS40018	1 szelet=28|1 csomag (elolvadt)=170|1 csésze (reszelt)=115|0.8 csésze (elolvadt)=195|1 c=100|1 csésze (kockázva)=130|1 köbcenti=17	03240|0418|0514|0610.5|088|098.85|104.15|110.4|12530|130.2|14330|151600|1653|180.3
+739	WS35409	1 kis pohár=180|1 nagy pohár=355|1 csésze	0334|043.25|050.1|064.8|085.1|090.05|12120|130.05|14155|1542|162|181.2
+740	WS21028	1 csirkecomb=105|1 csirkecomb (bőrrel)=135|1 comb=72|1 csirkecomb nélkül (bőr)=120|1 láb csont=200|1 vissza-csont=22|200 milliliter|1 csirkecombot|1 rántott csirkecomb	03175|0423.5|057.9|092.15|103.1|111.65|1212|131.05|14265|1599.5|16125|180.1
+741	WS29459		03335
+742	WS150302	0.1 DL (60 mazsola)=2.9|16.7 mazsola (nem csomagolt)=8.7|1 kis doboz=43|1 csomagolt kupa=165|1 csésze (nem csomagolt)=145|1 kis doboz (nem csomagolt)=14	03295|042.8|050.8|0679
+743	WS82592		03110|050.05|0632
+744	WS27224	1 máj=44	03120|0417|054.85|060.75|091.55|101.25|111.3|128|139|14230|1571|16345|1718
+745	WS9000	1 nagy pohár=355|1 tányér=180|1 kis pohár=180|1 serving=100|1 csésze	037.9|041.25|050.25|060.1|090.1|100.1|126|130.15|1454|15370
+746	WS53403		0348|041.4|050.3|0611
+747	WS175713		0379.5|0410|050.95|061.4|080.35|093.15|103.65|111.9|1256|131.75|14140|15140|16370|182
+748	WS26599		03100|0418|052.25|061.65
+749	WS84033		03435|0465.5|053.65|0618.5
+750	WS200855		0357.5
+751	WS81322		03635|0422|052.55|0682
+752	WS102020		03105
+753	WS167974		03300|047|0514|0639
+754	WS109202		03385|044.85|0522.5|0627
+755	WS31232		03445|0410.5|0511.5|0668
+756	WS30414		03285|0413.5|0517.5|06125
+757	WS64498	1 evőkanál|1 teáskanál|1 csésze|1 gramm	03860|05100|0925|1041|1128|121|130.05|154
+758	WS76044		03430|0424|0518|0642
+759	WS57411	1 db=6|8 kis darab=24	03395|050.2|0698|0863|123|130.3|145|1538
+760	WS34613		0313.5|040.35|061.2|070.1|127.95|130.05|1426.5|151.35
+761	WS105370		0396|042.65|053.85|0611
+762	WS114780		03545|047.75|0537.5|0643
+763	WS183370		0357|041|050.5|0613
+764	WS91460		03150|045.25|052.6|0615.5
+765	WS73030		03370|0410|0518|0640
+766	WS79255		03350|0679.5
+767	WS42143	1 csésze	03340|0413|052.5|0672|0710.5|080.4|090.45|100.3|111.15|1234|133.6|14365|152
+768	WS21756		03280|0412|051.75|0666
+769	WS108038		03325|0410|0519.5|0640.5
+770	WS64601		0395|0611
+771	WS26482	1 mini bár=7	03480|044.2|0530|0664|075.9|0854.5|0918|109.95|110.95|1232|133.15|14365|1511
+772	WS44114		03710|046|0528.5|0653.5
+773	WS103623		03655|0415.5|0563.5|068.7
+774	WS98637		03355|047|0691.5
+775	WS41826		0315|040.5|063
+776	WS45196	6 rúd (sq 2 cm. 1 cm)=680|1 teáskanál|1 evőkanál|1 rúd (sq 2 cm, 1 cm)=115	03715|040.85|0581|060.05|080.05|0951.5|1021|113.05|1224|1424|15715|16215|181.5
+777	WS42717	1 kicsomagolt TK=3|2 csomag|1 csomagolt TK=4.6|1 csomagolt kupa=220|1 kicsomagolt kupa=145	03380|040.1|0698|0897|1283|130.7|14135|1528
+778	WS42722	1 adag=100|1 csésze	03160|043.6|051.2|0633|071.8|080.35|090.2|100.35|110.3|1210|130.4|1443|155
+779	WS141608		031200|0540|06180
+780	WS40887	100 gramm	03240|0426.5|0514|094.9|106|111.5|1220|131.1|14340|1557|1688|170.1|180.9
+781	WS75180		0393.5
+782	WS167976		03220
+783	WS60653		03360|044.1|0516.5|0643.5
+784	WS50120		0354.5|043.2|053.2|064
+785	WS81322		03635|0422|052.55|0682
+786	WS28017	1 csirkecomb=135|1 mell=280|0.5 csirke=465|1 szárny=49|1 csésze (apróra vágott. vagy kockára vágott)=140|1 aranyrög=20|1 csésze (apróra vágott, vagy kockára vágott)=140	03280|0422|0516.5|069.75|070.3|094.6|107.1|114.1|1221|131.35|14185|15290|1687|180.2
+787	WS71824		0355.5|041.05|050.75|0613
+788	WS280076		03385|0413.5|051.85|0679
+789	WS20283	1 tál=140|1 adag=250|1 tányér=500|1 csésze	03170|046.25|050.95|0633.5|071.8|080.55|090.2|100.15|110.3|127|131.3|1444|151
+790	WS36111	1 adag=250|2 csésze	0370|042.2|050.45|0614|070.9|084|090.15|100.1|110.15|1213|130.9|14190|15270|161
+791	WS8998	1 adag=100|1 tanyer=250|0.5 csésze	0384|045.4|050.2|0615.5|075.5|085.95|090.05|110.1|1227|131.55|14270|153|1714
+792	WS8983		03335|0412|053.1|0670
+793	WS11299		03535|0422|0522|0640
+794	WS187976		03410
+795	WS21029	1 közepes szár (19 cm - 20 cm)=180|0.5 csésze (apróra vágott)=92|1 kis fej=25|1 adag=300|1 nagy szár (12 cm - 15 cm)=280|1 kis szár (12 cm)=140|3 lándzsa (kb. 12 cm)=110	0334|042.4|050.4|066.8|073.3|081.4|090.1|100.05|110.15|1240|130.65|14295|1541|1765
+796	WS41122	1 csésze (felvert)=120|0.1 csésze (folyadék)=24|1 evőkanál	03345|042.05|0537|062.8|080.1|0923|1010.5|111.35|1265|130.05|1475|1538|16135|170.6|180.7
+797	WS26103	1 evőkanál	03900|05100|0939|1045|1111|1695|182.5
+798	WS77313	1 közepes (dia 5 cm. 12 cm-es)=115|1 közepes (dia 5 cm, 12 cm-es)=115|1 nagy=180|1 csésze=200|1 csésze (tört)=330|1 kis=60	0378|041.4|050.1|0618.5|072.5|085.75|090.05|110.05|1227|130.7|14230|1527|1713
+799	WS54085		03235|0622
+800	WS125816		0371.5|041.4|050.5|063.45|072.1|081.2|090.05|110.15|1236|130.95|14245|1512.5|174
+801	WS31597		03135
+802	WS173429		03150|0412.5|0510|060.9|080.7|093.2|103.85|111.7|1253|131.5|14130|15135|16370|182.1
+803	WS157481		03525|065.2
+804	WS68894		03295|0411|0522.5|065.3
+805	WS426961		0346
+806	WS212272		03135|040.9|0514
+807	WS33415		03155
+808	WS117482		03355|051.55|0666.5
+809	WS128661		03200
+810	WS125331		03175
+811	WS173094		03245|0410|055.95|0641
+812	WS325246		03235|0419.5|050.5|0637
+813	WS58706		0390|043.05|051.85|0615.5
+814	WS23168		03395
+815	WS264186		03295|06220
+816	WS191181		03125|0417.5|052.4|068.8
+817	WS113193		03390|0484|053.65|065.65
+818	WS164118		03450|0520|0656
+819	WS58443		0362|040.9|050.55|0614.5
+820	WS159222		03495|046.75|0524|0661.5
+821	WS96990		03240|0414|0513|0618.5
+822	WS50117		03140|042.2|0510.5|0610.5
+823	WS360998		03440
+824	WS189554		0347.5|042.7|051.7|063.2
+825	WS88026		03270|0410.5|053.45|0649.5|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+826	WS106636		03250
+827	WS119953		03150|047.45|059.75|064.2
+828	WS53728		03250|046.6|053.3|0681
+829	WS175573		03265|040.6|050.35|0665
+830	WS112150		03260|0414|0521|064
+831	WS79559		03390|0422.5|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+832	WS67294		03165
+833	WS155021		03145|0416|057|063.7
+834	WS468176		03405
+835	WS325566		03185|045|051.2|0634
+836	WS111470		03305|044.3|0518|0630.5
+837	WS37048		03295|0414|0519.5|0619.5|071.4|083.5|095.75|106.1|113|1235|132.8|14190|15290|1646|170.2|180.1
+838	WS54088		03170|0414.5|0510|061
+839	WS110431		03160
+840	WS94745	50 bogyók=68|0.8 csésze	0357|040.75|050.35|0614.5|072.4|089.95|090.05|100.05|110.15|126|130.3|1477|151|179.7
+841	WS60837		0351|041.25|050.6|0614
+842	WS92170		03320
+843	WS61851		03365|051.8|0677
+844	WS251620		03335
+845	WS61300		03190|0419|0513.5
+846	WS61399		031
+847	WS78711		03440|047.3|056|0667.5|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+848	WS12859		03375|0420|0534.5
+849	WS172333		03245|0418|0519|060.7
+850	WS104336		0374
+851	WS154250		03145|0416|057|063.7
+852	WS116999	18 kernelek=28.5|1 csésze=130|1 csésze (felét és a darab)=130	03590
+853	WS116506		03480|047.3|0525.5|0666
+854	WS96284		03565
+855	WS39871		031250|058|0680
+856	WS66964		03270
+857	WS34374		0383|042.65|055.15|063.85
+858	WS80989		0361.5|043.45|052.9|064.2
+859	WS67802		03150|043.9|0511|067.35
+860	WS103170		03325|0415|0515|0630
+861	WS110863		03200|0511|062.3
+862	WS101733		0339.5
+863	WS176961		0379.5|042.6|053.35|069.5
+864	WS3465		03380|046.7|0519.5|0641.5|072.6|0811.5|0911.5|105.55|111.1|1237|132.05|14120|15465|1667|170.2
+865	WS207067		03370|0417|0533|061
+866	WS198920		03210|051.95|074.2|086.1|090.8|100.65|111.6|12140|133.5|14180|15520|170.2
+867	WS326256		0362|043.4|053.6|064
+868	WS300147		03430|0666.5
+869	WS46555		03265|057.4|0623.5
+870	WS66881		03140|050.5|0630
+871	WS121997		03360|0418|058|0663
+872	WS174865		03230|0428|0512.5|061
+873	WS133011		03175|0416.5|055.55|061.8
+874	WS53402		0327|041.75|064.35
+875	WS40708		03350|0516.5|0654.5
+876	WS124892		03330|0412|0530|064.8
+877	WS178695		03120|0511|064.3
+878	WS68952	0.5 filé=160	03145|0421|056.35|090.8|101.35|110.8|127|130.4|14365|1575|1646|1811
+879	WS94160		0373.5|044.7|053.15|066.9
+880	WS44819		03245|0417|0513.5|0612
+881	WS78212		0328.5|050.1|066.25
+882	WS60907		0354.5|052.05|068.15
+883	WS79384		0390.5
+884	WS177525		03485
+885	WS22864	1 adag=57	03370|0412.5|055.1|0675|079.9|0816.5|090.9|101.55|112.05|12190|1330|14440|15365|1711.5
+886	WS90295		03270|049.85|052.85|0651
+887	WS57560		03150|044.5|053.95|0634.5
+888	WS102295		03235|049.5|051.15|0656
+889	WS161490		03320|0411|057.7|0649
+890	WS8921		03185|048.8|0512.5|069.35
+891	WS327169		03330|0425|0525|061.8
+892	WS46756	1 nagy pohár=355|1 kis pohár=180|1 csésze	0351|040.15|050.1|0612.5|070.2|089.95|110.05|1272|130.15|1489|155|1750.5
+893	WS53932	1 közepes=115|1 kis=62|1 nagy=145	03335|048.3|053.6|0667|071.7|080.25|090.7|101.05|110.95|1223|133.9|1488|15805|163
+894	WS457232		03210
+895	WS72731		03235|0410|0520|066.8
+896	WS337380		03120|0415|055.2|062.4
+897	WS32267		03345|0424|0527.5|062
+898	WS55344		0324
+899	WS371702		03200|047.9|053.6|0634
+900	WS32098	1 csésze (apróra vágott)=100|1 kis szár (12 cm)=17|1 közepes szár (19 cm - 20 cm)=40|1 nagy szár (12 cm - 15 cm)=64|1 adag=110|1 evőkanál=7.5|1 csík (10 cm)=4	0316|040.7|050.15|062.95|071.6|081.85|090.05|100.05|110.1|1240|130.2|14260|1580|173.1
+901	WS117108		03385|048.4|057.35|0669.5
+902	WS164502		03260|0414|0518.5|068.7
+903	WS200715		0342|043.1|050.2|064.8
+904	WS128201		03335|0416|0532.5|061.4
+905	WS206635	1 teáskanál|2 evőkanál|10 gramm	03760|0598
+906	WS392009		0354
+907	WS63627		03245|052.15|0647
+908	WS118469		03445|0413.5|0522|0639.5
+909	WS64605		03205|043.5|058.15|0623.5|070.7|0821|096.8|102.95|110.45|12130|130.1|14200|1580|1644|170.6|180.2
+910	WS66010		03205|0419|0514
+911	WS166203		03380|0412.5|0536|061.1
+912	WS71564		03200|049.05|058.25|0620.5
+913	WS87619		03310|042.75|059.8|0645.5
+914	WS243201		0330
+915	WS88487		03390|046.15|0518.5|0651.5
+916	WS111321		03310
+917	WS79872		03310|056.15|0645.5
+918	WS22354		03430|049.35|0521.5|0645
+919	WS116775	1 a folyadék uncia=30|1.7 csésze	039|040.1|050.2|061.65|090.1|110.1|122|130.15|14115|1514|170.2
+920	WS81145		03250|0639
+921	WS358087		03390
+922	WS157474		03240|0660
+923	WS21757		03315
+924	WS176968		0315
+925	WS345576		0337|040.5|068
+926	WS143125		0347.5|040.85|051.4|067.45
+927	WS118803		03570|048.35|0537|0649.5
+928	WS78216		03355|049.95|055.1|0669
+929	WS328316		0378.5
+930	WS38680		03275|042|0521|0621
+931	WS501278		03295|0431|0519
+932	WS67002		0344.5|041.3|050.4|069.65
+933	WS95990		0381.5|0610
+934	WS193226		03360|0413.5|0533.5|062.3
+935	WS54373		0367.5|042.1|053.85|069.1
+936	WS80634		03405|0410.5|058.35|0690
+937	WS275847		03385|057.15|0670.5
+938	WS245609		03390|048.85|0520|0643
+939	WS89564		03145|0414|057.85|064.15
+940	WS51809		03225|049.35|055.1|0634.5
+941	WS132825		03245|048.9|0523|060.95
+942	WS224767		03695|046|0562|0624
+943	WS53323		03595|0451.5|054.45|0617.5
+944	WS94890		0366.5
+945	WS102959		03220|0426|057.5|067.7
+946	WS509983		03255|049.85|055.45|0642
+947	WS190893		031.65
+948	WS130882		03565|0420.5|0550.5|068.1
+949	WS351194		03275
+950	WS421983		03230|048.65|051.65|0643
+951	WS81753		0350|043.2|055.1|0617.5
+952	WS191436		03455|0485.5|057.75|0612.5
+953	WS538973		03455|0411.5|0666.5
+954	WS151886		0348
+955	WS126077		03230
+956	WS110652		03375|046.9|0519.5|0641
+957	WS38984		03330
+958	WS253869		03225
+959	WS399358		03425|041.65|0518.5|06110
+960	WS164751		03250|0410.5|050.95|0654
+961	WS108873		0398|042.15|055.5|0613.5
+962	WS40154	1 mangó=335|1 csésze (db)=165	0361|040.8|050.4|0615|071.6|0813.5|090.1|100.15|110.05|1211|130.15|14170|151|1736.5
+963	WS93705		0370.5
+964	WS207192		0320|040.1|050.9|062.7
+965	WS157477		03420|0411|0510|0667
+966	WS96403		03250|048|052.4|0649
+967	WS150731		0360.5|0614
+968	WS24769		03165|0515.5|064.6
+969	WS154480		03460|046.65|0522.5|0655
+970	WS256023		03365|0421|0530|062.5
+971	WS112963		0343|043.15|051.3|064.8|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+972	WS386438		03410|0412.5|057.45|0666
+973	WS105818		03155
+974	WS54129		0352|043.35|052.4|067.75
+975	WS245947		0391|043.35|052.4|0614|0813|091.8|100.7|110.15|12130|14125|1545|169|180.05
+976	WS256461		03340|0469|053.25|067.95
+977	WS19727	0.5 kis pohár=89|1 nagy pohár=355|2 kocka=475|1 csésze	0376|043|051.9|0612|070.7|089.55|091.2|100.45|110.1|12110|130.25|14170|1566|168|181.2
+978	WS165214		03160
+979	WS42645		03175|047.95|056.25|069.6
+980	WS129934		0326|041.05|050.15|065.2
+981	WS103286		03330|049.6|051.65|0668.5
+982	WS154225		03225
+983	WS120727		03535|0434.5|0542
+984	WS174289		03220|048.15|051.85|0633.5
+985	WS461305		03510|0527|0661.5
+986	WS58704		03365|048|0516|0665
+987	WS9212		03130|0412|058.35|060.7|080.35|093.15|103.65|111.9|1256|131.75|14140|15140|16370|182
+988	WS327113		03490|0542.5|0618
+989	WS34375	1 db=125|1 kis darab=80	03320|045.7|0522|0625.5|070.4|0822|099.9|108.65|111.6|1251|130.65|1490|15440|1655|170.4|180.5
+990	WS11218		0389|041.1|050.35|0623|072.6|0812|090.1|100.05|110.05|125|130.25|14360|150.95|178.7
+991	WS260648		0313000|04675|0510|061350
+992	WS191809		0341|050.15|064.05
+993	WS472470		0334|043.05|064.75
+994	WS59692	1 csésze	03340|0421.5|051.4|0662.5|0715.5|082.1|090.35|100.1|110.6|12125|135|141500|155
+995	WS384999		0354
+996	WS34614		0331.5|065.85
+997	WS258451		03405|059.6|0644
+998	WS21664		03260|049.4|052.05|0648
+999	WS20224		03130
+1000	WS225589		03155|0415|058.6|061.4
+1001	WS248384		03550|0419|0541|0617
+1002	WS214187		0311|041|061.7
+1003	WS37658	100 gramm	03250|0414|0515.5|0613.5|071.4|083.5|095.75|106.1|113|1235|132.8|14190|15290|1646|170.2|180.1
+1004	WS63596		03185|043.35|0641.5
+1005	WS268972		03140|0416.5|057|063.2
+1006	WS103793		03180|044.7|054.95|0629.5
+1007	WS57419		03525|0425|0548
+1008	WS127973		03410|0519.5|0648|071.3|083.5|092.5|106.9|116.2|1249|133.3|14225|15940|161
+1009	WS213873		03470|0524|0657
+1010	WS11214		03215
+1011	WS134135		03100|0422|051.1|061
+1012	WS170925		03465|047.4|0518|0665.5
+1013	WS38292		0355
+1014	WS158060		0338
+1015	WS59694		03265|048.75|053|0649.5|072.7|085.05|090.7|100.6|111.6|12260|133.6|14115|15490
+1016	WS423980		0383|051.5|0621
+1017	WS118295		03450|047|0516|0668
+1018	WS278518		03165|0431|053.55|091|101.25|110.75|1215|131.05|14255|1574|1685|180.1
+1019	WS425170		03300
+1020	WS64603	1 szelet=150	03105|0416|053.9
+1021	WS63294		03110|0417.5|052.8|063.1
+1022	WS183137		0388|043|053|065.5
+1023	WS83391		0388|056.65|065.35
+1024	WS172470		03275|0415|0522.5|062.4
+1025	WS284129		03395
+1026	WS323176		03105|0417.5|052.8|062.4
+1027	WS167263		03510|045.85|0529|0658
+1028	WS103305		03365|0486.5|051.9|063.25
+1029	WS29138		03300|054|0630
+1030	WS242299		0385|044.5|052|0612.5
+1031	WS462877		03205
+1032	WS138631		03370|048|0522|0647
+1033	WS497305		03190
+1034	WS93844	1 csésze	03320|048|051.7|0678|0713.5|0832|090.3|100.35|110.85|1252|1318.5|14540|15425|170.8|181.7
+1035	WS391199		0390|043.2|052.3|0613
+1036	WS33820	1 nagy szelet (18 x 6 cm x 1 cm)=65|1 közepes filé (12 cm x 4 cm x 1 cm)=40|1 kis szelet (6 x 3 cm x 1 cm)=20|1 köbcenti=17	03220|0424|0513|092.8|105.1|112.9|1284|131.5|14445|15920|1682|171|182.2
+1037	WS178689		03480
+1038	WS170718		03210|0412.5|0519|060.75
+1039	WS101986		03370
+1040	WS105044		03330
+1041	WS49264		03220|0420.5|0515|066.05
+1042	WS28016		03135|0416|057.55|060.95
+1043	WS408334		03170|0420|058.45|061.75
+1044	WS253346		0381.5
+1045	WS326378		03255|046.55|056.6|0642.5
+1046	WS381060		03300
+1047	WS121179		0337|040.95|050.3|068.1
+1048	WS64602		03355
+1049	WS113012		03225
+1050	WS23165		03425
+1051	WS314507		03215|0411.5|0517|063.65
+1052	WS130852		0341.5
+1053	WS91359		03370|0422|0531|060.55
+1054	WS508419		03410|046|055.75|0671
+1055	WS126339		03260|0411|0524|061.5
+1056	WS34045		03490|043.85|0526|0658
+1057	WS421104		03230
+1058	WS67250		03195
+1059	WS60253		03390|046.75|0513|0653
+1060	WS228361		03380|0411|0513|0656
+1061	WS20658		03170|0510|060.1
+1062	WS202318		0322|041.1|050.35|063.7
+1063	WS73848		03370|045.55|0518|0648
+1064	WS38681		03360|046.25|0521|0637.5
+1065	WS43848		03130|047|058|0614.5
+1066	WS97170		03500
+1067	WS106839		03230|0411.5|057.5|0641
+1068	WS186222		03360|0518
+1069	WS208119		03145|043.45|053.3|0613.5
+1070	WS17533		0339.5
+1071	WS106873		03140
+1072	WS162468		03355|045|056.45|0670.5
+1073	WS61987		0376
+1074	WS181104		0351.5|050.3|0614
+1075	WS47687	100 gramm	03240|0427.5|0514|095.25|106.2|111.2|1219|130.85|14425|1562|1680|170.6|181.3
+1076	WS145959		03110
+1077	WS216282		0335|040.3|050.2|0619
+1078	WS65737		03320
+1079	WS165491	0.5 csésze (rostált)=50|1 teáskanál	03390|06100|0898|121|130.05|142|152
+1080	WS413157		03505|044.95|0526|0669
+1081	WS448327		032.35
+1082	WS343994		0363|044|051.1|068.4
+1083	WS63836		03350|0415.5|053|0665
+1084	WS63957		03385|0515.5|0670
+1085	WS32181	1 adag=28	03385|045.6|055.2|0683.5|075.7|0837|091|101.7|112.1|12370|1316.5|14270|15565|1722|183.7
+1086	WS190669		0334|041.65|050.2|065.95
+1087	WS164752		03585|0414.5|0520.5|060.2
+1088	WS215290		03360|0422|053.1|0660.5
+1089	WS19288	1 kis pohár=180|1 csésze|1 doboz=355	0347|0612|070.2|0811.5|128|130.1|1431|1538|1729.5
+1090	WS83318		03275|047.05|058.95|0641
+1091	WS407956	1 szelet=81	03190|0429|055.25|065.15|091.7|100.65|110.65|126|136.55|14350|1579|16395|171.9|181.2
+1092	WS119375		0375|041.5|050.7|0622.5
+1093	WS85010		03535|0457.5|0537.5|0623
+1094	WS502112		036.2
+1095	WS87228	1 tekercs (9 cm)=57|1 tekercs (7 cm-es négyzet)=60	03370|046.2|0516.5|0651|072.4|0831.5|093.1|104.8|117.45|1272|131.6|14110|15305|1666|172
+1096	WS143804		0384
+1097	WS190648		03405|0654
+1098	WS259422		0395.5|043.5|052.6|0615
+1099	WS128939		03510|0412|0528.5|0639.5
+1100	WS468238		03355
+1101	WS59297	1 turmix=210|1 csésze|1 közepes McDonald-shake=335|1 kis McDonald-shake=250	03140|043.35|056.5|0619.5|070.9|0813.5|093.95|101.8|110.3|12115|130.45|14165|1581|1623
+1102	WS218949		03290
+1103	WS219261		03220|0413|058.3|0642.5
+1104	WS413630		03365|0410.5|0517|0638.5
+1105	WS127895		03275|0411|058.95|0635.5
+1106	WS132969		03200|046.1|053.3|0636
+1107	WS108074		0365
+1108	WS276879		03225
+1109	WS190524		0333|041|066
+1110	WS358249	1 sajtburger=220	03260|0412|0514|0622|071.4|083.25|095.05|105.1|113.85|12125|131.4|14180|15485|1636|170.3|180.1
+1111	WS54894	1 közepes szelet=20|3 kis szelet (8 x 6 cm x 1 cm)=30|1 nagy szelet (11 x 8 cm x 2 cm)=30	03270|048.8|053.5|0650|072.9|081.05|090.85|100.85|111.35|1277.5|132.95|14115|15610
+1112	WS446117		0341.5|050.3|067.9
+1113	WS89161		03210
+1114	WS280140		03430|0423|0510.5|0681
+1115	WS328968		03320
+1116	WS235893		0344
+1117	WS74763		0326.5
+1118	WS218415		0325|042.6|050.75
+1119	WS265277		0322|041|050.2|064
+1120	WS252303		03475|044.6|0521|0654.5
+1121	WS106228		03375|045.35|059.35|0665.5
+1122	WS435357		03225|043.8|0536.5|0616
+1123	WS63608		03230|041.25|051.8|0654.5
+1124	WS161100		03295|040.65|0530|064.65
+1125	WS76176		03305|0410|055.25|0650
+1126	WS61985		03485|046.25|05120|06265
+1127	WS59858		0318|063.6
+1128	WS442648		03265|0414|052|0656
+1129	WS480460		03150|0428|0524.5|0637.5
+1130	WS327720		03270
+1131	WS423228		0364
+1132	WS67497		03560|0425|0546.5|0614
+1133	WS444501		03190|044.1|055.8|0630
+1134	WS307672		03160
+1135	WS425472		03900|040.3|0598
+1136	WS31347		03260|0410|053|0648
+1137	WS109992		03440|047.5|0514.5|0667
+1138	WS115705		0365.5
+1139	WS167503		0350.5|042.9|052.35|064.65|085.1|091.15|100.5|110.05|12120|14140|1546.5|167.45|170.2|181.2
+1140	WS435393		03365|0418|054.45|0664
+1141	WS272311		03225
+1142	WS273217		03170|0415.5|0514
+1143	WS397963		03165
+1144	WS179379		03250|048.95|0522|064.75
+1145	WS442645		0386|040.65|056.85|064
+1146	WS174947		03315
+1147	WS176854		03320|0410|0515|0635
+1148	WS203753		03105|043.45|050.9|0621.5
+1149	WS232275	1 csésze	03360|0412|051.65|0672.5|072.4|080.3|090.25|100.15|110.75|1215|134.4|14100|152
+1150	WS387192		03470|047.2|0521|0660.5
+1151	WS139380		03130
+1152	WS184573		03775|0680
+1153	WS282978		03145|055.7|0611.5
+1154	WS427003		03230|051.9
+1155	WS26489		03635|042.5|0569|061
+1156	WS236311		03345|049.5|053.1|0669.5
+1157	WS94130		03295|0416.5|0514.5|0622
+1158	WS185778		03315|051.95|0610.5
+1159	WS16620		03465
+1160	WS297527		03345|048.5|056.3|0676.5
+1161	WS196344		03380
+1162	WS298014		03405|0537
+1163	WS170796		03230
+1164	WS25799		03325|0417|0526
+1165	WS198942		0315
+1166	WS486542		03355|045.45|0535.5|064.2
+1167	WS105237		03125
+1168	WS535832		03395|040.2|051.35|0692
+1169	WS172417		03105
+1170	WS114810		03185
+1171	WS375105		03135
+1172	WS392046		0361|065.2
+1173	WS120345		03120|045.7|052.35|0619.5
+1174	WS141611		03285
+1175	WS419367		03445|0421|0531.5|064.9
+1176	WS120851		03610|047.2|053.35|0677.5
+1177	WS128006	1 evőkanál|0.5 csésze	03395|0413.5|055.3|0672|074.5|086.2|091.2|101|112.05|12185|134.85|14195|15730
+1178	WS136074		03395
+1179	WS229062	1 tojássárgája=17|1 csésze=245	03325|0415.5|0527|064.35|080.55|099.55|1011.5|114.2|12130|132.75|14110|1548|161100|185.4
+1180	WS402670	1 kis pohár=180|1 nagy pohár=355|1 csésze	0347|040.7|050.1|0611.5|070.3|088.3|110.05|12140|130.15|14180|152|1733.5
+1181	WS525890		03265|049.1|055|0650
+1182	WS93408		03120|0414|056.7|061.15
+1183	WS489721		03195|0426|059
+1184	WS128424		03200
+1185	WS360208		03395|0434.5|057.45|0647.5
+1186	WS215993		0355|051|067.1
+1187	WS250672		03335|048|056|0657
+1188	WS119112	1 evőkanál|1 kis tartály=11	03195|042.7|0519.5|063.65|080.15|0912|105.6|110.7|1296|130.05|14120|1540|1666|170.8|180.4
+1189	WS331743		03300|058.5|0625.5
+1190	WS387807		03340
+1191	WS68915		03495|048.35|0524|0660
+1192	WS123225		03275
+1193	WS448009		0363.5
+1194	WS63602		03245|0660
+1195	WS177216		03300|043|0515|0630
+1196	WS337868		03400
+1197	WS468239		03130
+1198	WS79761		03400|046.7|0510|0670
+1199	WS284319		03270
+1200	WS41121		03110|053.5|063.75
+1201	WS435923		03210|045|0512|0626
+1202	WS71264	1 négyszögletes=4|1 csésze (harapás méret)=62	03495|0411.5|0524.5|0658.5|072.3|0810.5|094.9|1014|114.65|1281|132.75|14215|15800
+1203	WS211894		03135|044|0511|066
+1204	WS54395		03420
+1205	WS72107		03130|042.35|052.35|0622
+1206	WS277599		0359|042.8|050.2|0611.5
+1207	WS30876		03170|0428|052.05|066.45
+1208	WS136944		03335|0417|0516|0632.5
+1209	WS279964		03405
+1210	WS386701		03395|046|0516|0658.5
+1211	WS490415		0376
+1212	WS29713		0395.5|0414.5|056.9|064.05
+1213	WS113488		03240|061.45
+1214	WS23171		03100
+1215	WS320329		03245|041.75|053|068
+1216	WS58711		0385
+1217	WS337884		03280|047|0521|0618
+1218	WS15082		0348|040.25|050.2|0612.5|072.4|0810.5|090.05|110.05|126|130.1|14105|151|174.6
+1219	WS160962		03460|0512.5|0674
+1220	WS177661		03205|0423|0512.5
+1221	WS9237		031600|0426|0562.5|06280
+1222	WS91444		03300|0419|0524|062.3
+1223	WS417141	0.5 kolbász (10 x 2 cm)=6.5	03395|0414|0536|062.7|0913|1017|113.9|1210|131.15|14190|15930|1671|180.7
+1224	WS473576		03275
+1225	WS10424		031|040.1|122|1448.5|152
+1226	WS438119		03230|049.85|053.3|0634
+1227	WS163484		03375
+1228	WS355520		03365|045.7|0517|0646.5
+1229	WS514970		03145
+1230	WS62139		03230|051.35|0640
+1231	WS179549	1 csésze|1 doboz=355|1 kis pohár=180	0322|065.5|085.5|1217|1712.5
+1232	WS189608		03415|0539.5|0669.5
+1233	WS21651	1 szelet=28|1 csésze (kockázva)=130|1 csésze (reszelt)=115|1 csésze (elolvadt)=245|1 köbcenti=17|1 csomag (elolvadt)=170	03175|0428.5|055.1|063.4|081.35|093.3|101.35|110.2|12960|130.15|14110|15260|1635|180.1
+1234	WS424861		03255|049|052|0648
+1235	WS95759		03470|047.5|0521.5|0660
+1236	WS249019		03475|049.5|0521|0658.5
+1237	WS309978		0396|043.25|054.75|069
+1238	WS404535		03280|049.4|051.5|0636.5
+1239	WS231959		03150|0412|0512|0634.5
+1240	WS249159		03200
+1241	WS529953		03130|046.25|051.9|0627.5
+1242	WS446684		0331|066.3|085.5|1217|1712.5
+1243	WS281531		03355|0410|0517.5|0639.5
+1244	WS426977		0366.5|042.8|051.4|0611
+1245	WS165490		0392|051|0617
+1246	WS497321		03190
+1247	WS369757		03400
+1248	WS40723		0386|052.65
+1249	WS192726		03500|048.6|0530|0655
+1250	WS433572		03100|043.65|053.1|0614.5
+1251	WS207239		03235|049.3|052.5|0644.5
+1252	WS239429		03250|041.45|0522|0610.5
+1253	WS397714		03310|0410|0514.5|0630
+1254	WS211905		0337.5|042|066.7
+1255	WS225583		0373.5|043.1|051.4|0610.5
+1256	WS134124		03345|0422|0527.5|062.35
+1257	WS481300		03145
+1258	WS72727		03250|0525|064
+1259	WS464413		03115
+1260	WS34616		03155|045.6|0511|067.2
+1261	WS230211		0342|040.7|050.1|0610.5
+1262	WS60640		0371|042.15|051.9|0611
+1263	WS190875		03330|049|0525|0644
+1264	WS404714		03420|047.6|0511.5|0669|0710|081.5|091.35|102.35|112.55|12350|1324.5|14365|15220
+1265	WS48523	1 csésze|1 kis pohár=180|1 nagy pohár=355	0334|043.35|050.1|064.95|085.1|090.05|12120|130.05|14155|1542|162
+1266	WS118813		03225|046.75|055.25|0632
+1267	WS33272		03380|044.3|0522.5|0637
+1268	WS147845	1 db=245	03340|0427|0525|0910|1011|110.9|1213|133.15|14235|1565|16105|180.4
+1269	WS262168		03115|0419|053.8|060.6
+1270	WS447379		03480|046.3|0521|0666
+1271	WS149770		03260|0416|0514
+1272	WS159834		03200|0418.5|0515|065.15
+1273	WS429065		03105|0420.5|052|061
+1274	WS30198		03405|0425|0533|061.3|080.5|0921|109.4|110.95|12720|130.7|1498|15620|16105|180.6
+1275	WS120114		03145
+1276	WS140994		03175|042.45|0511.5|0617
+1277	WS325545		03320
+1278	WS141416		03520|0537.5|0638.5
+1279	WS185893		03165
+1280	WS223764		0342|040.2|050.8|060.1
+1281	WS455572		03450|0531|0648.5
+1282	WS253776		0334|067.6
+1283	WS196325		03250|0416|056.6|068.75
+1284	WS241631		03370|0412.5|051.35|0676.5
+1285	WS479876		03540|046.35|0527|0652.5
+1286	WS168681		031250
+1287	WS189019		0349|043.1|052|063.6
+1288	WS254997		03170
+1289	WS47193		03505|044.7|0524.5|0663.5
+1290	WS461968		03345
+1291	WS8928		03175
+1292	WS164152		03240|042.25|050.45|0657.5
+1293	WS171541		03245|045.3|053.3|0647.5
+1294	WS464614		03375
+1295	WS528956		0322.5|040.15|051.3|067.55|070.1|127.6|130.05|1427.5|151.4
+1296	WS182562		03310
+1297	WS467532		0350
+1298	WS164925		03575|049.45|0537|0642
+1299	WS467622		0346|044.6|050.1|065.8
+1300	WS40220	1 csésze	03360|0436|050.75|0652|0852|090.5|100.2|110.05|121250|130.3|141800|15535|1620|176.8
+1301	WS23566		03285
+1302	WS54128	1 tekercs=85	03220|049.95|057.15|0629.5|072.1|085.3|091.6|102.35|112.45|1234|131.55|14210|15405|1614|1729.5|180.1
+1303	WS192956		0394.5|040.1|0640.5|070.1|127.6|130.05|1427.5|151.4
+1304	WS452277		03270|0410.5|051.6|0664
+1305	WS289027		0397.5|044.4|052.95|0614
+1306	WS30482		03430
+1307	WS43850		0342|0611
+1308	WS94184		03160|0417|058.8|060.8
+1309	WS10425		03290|0412|054|0652.5|074.55|086.3|090.95|100.9|111.7|12155|133.9|14210|15575|170.2
+1310	WS94336		03175
+1311	WS459916		03155|043.25|058.1|0616.5
+1312	WS357727		03355|0520|0656.5
+1313	WS444139		03185
+1314	WS515959		03770
+1315	WS155207		03430|042.9|0515.5|0637
+1316	WS170818		03440
+1317	WS401105		03510|0417|0548|062
+1318	WS445419		03440|0515|0667.5
+1319	WS176844		03260
+1320	WS407510		03350
+1321	WS537361		03280
+1322	WS139414		0330.5|040.5|050.1|067.15
+1323	WS251304		03340|049.4|051|0673.5
+1324	WS367353		03355|0664.5
+1325	WS408470		0359
+1326	WS46364		0358.5
+1327	WS59461		0392|043|053|0614
+1328	WS473497		03115|044.7|069.6|070.1|127.6|130.05|1427.5|151.4
+1329	WS8910		0351|040.45|050.55|0612.5|071.4|089.85|110.05|1213|130.3|14110|151|1748
+1330	WS173620		03265|0524|061.65
+1331	WS419366		0393.5
+1332	WS162168		03600
+1333	WS174270		03490
+1334	WS379501		03325|0422|0525|062.35
+1335	WS398177		03330|0435|05175|06120
+1336	WS76579		03260|0413.5|0514|0616.5
+1337	WS120836		03385
+1338	WS256022		03240|0523|068.25
+1339	WS64230		03265|0524|062
+1340	WS213875		0347|070.1|127.6|130.05|1427.5|151.4
+1341	WS385303		03450|0517|0670.5
+1342	WS95692		03445|0512.5|0678
+1343	WS445406		03470
+1344	WS108438		03345
+1345	WS328327		0378
+1346	WS359355		03195|0414|0515|061
+1347	WS328716		0340|042|065.25
+1348	WS319148		03190
+1349	WS217858	1 evőkanál=20	03260|040.05|050.05|0667|0868|12100|130.1|14210|1512
+1350	WS389296		03215|052.25|061
+1351	WS140927		03425|0511.5|0674.5|070.1|127.95|130.05|1426.5|151.35
+1352	WS185264		03500|0410|0512.5|06225
+1353	WS284284		0324|063.6
+1354	WS370997		0376.5
+1355	WS56045		03355|0425|0528|061.45|081.45|0917.5|108.1|110.65|12730|130.45|14190|15965|1689|180.5
+1356	WS173423	1 adag=28	03405|046.25|057.8|0681|076.3|0819|090.8|104.7|111.55|1237|1334|14220|15420|183.1
+1357	WS266213		03420
+1358	WS69383		0394.5|041.1|050.3|0623|072.05|0817|090.1|110.05|127.75|130.4|14385|151|1711.5
+1359	WS130917		03320|048|056
+1360	WS178684		03245|0417|0517|066
+1361	WS69731		0384|042.4|051.6|0613
+1362	WS346899		0346|042.9|052|064
+1363	WS457426		03305|049|0513|0638
+1364	WS76467	1 csésze=235|1 kis pohár=180|1 nagy pohár=355	0360|040.35|050.15|0615|070.2|0814|090.05|1211|130.25|14105|155|1725
+1365	WS380509		03240
+1366	WS514735		03300|048|0512|0635
+1367	WS276702		03240|046.5|0639
+1368	WS299765		03220|0411|0519|061
+1369	WS485157		03110|054.85|0610
+1370	WS523707		03540|0437|0542|061.4
+1371	WS8932		031900|045.45|0537|0642
+1372	WS108382		0369|050.8
+1373	WS385682		03510
+1374	WS181819		03165|049|0513|069
+1375	WS62968		03120|055.6|0615.5
+1376	WS260355		03630|0566
+1377	WS314386		0347
+1378	WS445888		03110
+1379	WS497148		03375
+1380	WS234993		03190
+1381	WS366751		03300
+1382	WS33275		03165|047.35|0516|066.35
+1383	WS30007		0332|040.65|050.3|067.7|072|084.9|100.05|110.15|1216|130.4|14155|151|1759
+1384	WS390065		03155|042|0514.5|068.8|076.7|080.65|092.15|109.8|111.8|1212|130.55|14485|157|1710
+1385	WS498821		031850|0512.5|0678
+1386	WS63605		03235
+1387	WS471132		03400|040.35|054.75|0665.5
+1388	WS130898		03180|0422.5|059|093.1|104.45|111.4|128|131.35|14410|151500|1659|180.8
+1389	WS252306	1 szelet=27|1 vékony szelet=15|1 csésze=140	03115|0414|055|064|084.2|091.5|102.1|110.65|128|130.8|14265|151300|1643|180.6
+1390	WS195454		03290|0411|054.75|0650
+1391	WS508961		03145|051.4|068.75
+1392	WS354732		03290
+1393	WS480160		03115|066.1
+1394	WS8923		0350|043.3|052|064.8|085.05|091.25|100.55|110.05|12120|14140|1547|168|170.2|181.2
+1395	WS226178		03355|0517.5|0639
+1396	WS301980		0342|043.35|050.95|065|085.2|090.65|100.3|110.05|12125|130.05|14150|1544|165|181.2
+1397	WS32268		03260
+1398	WS176343		03245|040.3|0659.5
+1399	WS157479		0340|041.3|052|063.95
+1400	:SD1001011	1 pohár=150g	0369.2|040.2|060.3|080.29|128|130.9|14115|155
+1401	:LT047	1 csésze=254g	0369.09|044.77|050.53|0616.91|075.6
+1402	U05062	1 mell=236g|1 csésze (apróra vágott, vagy kockára vágott)=140g	03114|0421.23|052.59|060|070|080|090.567|100.763|110.399|125|130.37|14370|15116|1664|171.2|180.1
+1403	U11937	1 nagy (10 cm)=135g|1 db=65g|1 szelet=7g|1 kis savanyúság (10 cm)=37g|1 csésze (apróra vágott)=143g|1 csésze (körülbelül 23 szeletek)=155g	0312|040.6|050.14|062.59|071.1|081.31|090.036|100.002|110.056|1242|130.37|1492|15875|160|170.8|180
+1404	U11283	1 közepes (6 cm)=110g|1 nagy=150g|1 csésze (apróra vágott)=160g|1 csésze (szeletelve)=115g|1 evőkanál (apróra vágott)=10g|1 nagy szelet (1 cm)=38g|1 közepes szelet=14g|1 kis=70g|1 vékony szelet=9g|10 gyűrűk=60g	0344|041.36|050.19|0610.15|071.4|084.73|090.031|100.027|110.073|1222|130.24|14166|153|160|175.2|180
+1405	U11125	1 közepes=61g|1 nagy (7-21 cm)=72g|1 kis (14 cm)=50g|1 szelet=3g|1 csésze (reszelt)=110g|1 csésze (csíkokra vagy szelet)=122g|1 nagy szalag (8 cm)=7g|1 csésze (apróra vágott)=128g	0335|040.76|050.18|068.22|073|083.45|090.03|100.006|110.089|1230|130.34|14235|1558|160|173.6|180
+1406	U16070	1 csésze=198g|1 evőkanál=12.3g	03116|049.02|050.38|0620.13|077.9|081.8|090.053|100.064|110.175|1219|133.33|14369|152|160|171.5|180
+1407	U11508	1 közepes (dia 5 cm, 12 cm-es)=114g|1 nagy=180g|1 csésze=200g|1 csésze (tört)=328g|1 kis=60g	0390|042.01|050.15|0620.71|073.3|086.48|090.034|100.001|110.064|1238|130.69|14475|1536|160|1719.6|180
+1408	U11531	1 doboz=190g|1 csésze=240g|1 evőkanál=15g|1 nagy=164g|1 közepes=111g|1 kis=82g	0317|040.78|050.13|064|071|082.38|090.018|100.021|110.052|1231|130.97|14188|15143|160|179.3|180
+1409	U05013	0,5 csirke=258g|1 mell=162g|1 csirkecomb=98g|1 szárny=34g|1 aranyrög=20g|1 csésze (apróra vágott, vagy kockára vágott)=140g	03190|0428.93|057.41|060|070|080|092.04|102.66|111.69|1215|131.21|14243|1586|1689|170|180.1
+1410	U20100	1 csésze=140g|1 csésze (spirális alakú)=134g|1 csésze (kis kagyló)=115g	03158|045.8|050.93|0630.86|071.8|080.56|090.176|100.131|110.319|127|131.28|1444|151|160|170|180
+1411	U14201	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	030|040.1|050|060|070|080|090.002|100|110.002|122|130.05|1454|152|160|170|180
+1412	U14006	1 csésze=237g|1 doboz=356g|1 kis pohár=178g	0329|040.24|050|061.64|070|080.09|090|100|110|124|130.03|1421|154|160|170|180
+1413	U12063	0 1/4 csésze=37g|23 dió=28.35g|1 csésze (föld)=95g|1 csésze (szeletelve)=92g|1 csésze (forgácsolt)=108g|1 mandula (forgácsolt)=1.2g	03595|0421.06|0552.05|0621.2|0710.9|084.93|094.03|1032.383|1112.995|12267|133.83|14712|153|160|170|180
+1414	U14411	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	030|040|050|060|070|080|090|100|110|123|130|140|154|160|170|180
+1415	U14555	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	030|040|050|060|070|080|090|100|110|1210|130|140|152|160|170|180
+1416	U05060	1 mell=196g|1 csésze (apróra vágott, vagy kockára vágott)=140g	03197|0429.8|057.78|060|070|080|092.19|103.03|111.66|1214|131.07|14245|1571|1684|170|180.1
+1417	U20110	1 csésze=160g	03138|044.54|052.07|0625.16|071.2|080.4|090.419|100.581|110.552|1212|131.47|1438|155|1629|170|180.1
+1418	U18938	1 tészta=55g	03391|044.23|0510.08|0670.81|070.7|0835.52|092.672|105.733|111.235|1211|134.05|1471|15312|160|170|180
+1419	U19140	10 darab=20g|1 kislemez táska=54g|1 a szórakoztató méretű csomag=18g|1 csésze=170g	03515|049.57|0526.13|0660.48|073.7|0850.75|0910.169|108.086|113.456|12102|131.16|14347|1550|168|170|180
+1420	U19141	10 darab=20g|1 kislemez táska=54g|1 a szórakoztató méretű csomag=18g|1 csésze=170g	03492|044.33|0521.13|0671.19|072.8|0863.68|0913.08|105.183|110.921|12105|131.11|14261|1561|1614|170.5|180
+1421	U18185	1 közepes (6 cm)=10g|1 harapás méretű cookie-t (6 cm)=2.2g|1 nagy (9 cm - 10 cm)=40g	03477|049.6|0523.6|0658.9|071.8|0831.83|094.485|1012.368|115.518|1235|132.51|14167|15506|161|170|180
+1422	U18248	1 közepes (8 cm)=54g|1 nagy (10 cm)=71g|1 extra-nagy (12 cm)=122g|1 hosszú perec (11 cm)=52g	03418|045.87|0523.55|0645.63|071.6|0816.28|097.127|1012.732|112.659|1225|133|14113|15450|169|171.3|180
+1423	U18375	1 csomag=7.2g|1 teáskanál=4g|1 evőkanál=12g	03325|0440.44|057.61|0641.22|0726.9|080|091.001|104.309|110.017|1230|132.17|14955|1551|160|170.3|180
+1424	U18005	1 közepes (9 cm a 10 cm-es)=105g|1 nagy (11 cm)=131g|1 kis (8 cm)=69g	03274|049.8|051.7|0655.2|072.3|085.98|090.274|100.175|110.671|1219|133.8|14148|15344|160|170.7|180
+1425	U18035	1 szelet=25g|1 szelet héja=12g|1 csésze (zsemlemorzsa)=45g|1 csésze (kocka)=35g|1 nagy szelet (kocka)=30g|1 vékony szelet=20g|1 vékony szelet héja (kocka)=9g|1 nagyon vékony szelet (kocka)=15g	03265|0413.36|054.23|0643.34|077.4|086.39|090.872|100.76|111.872|12103|132.5|14230|15381|160|170.1|180
+1426	U16123	1 teáskanál=5.3g|1 egyéni csomag=8.9g|1 csésze=255g|1 evőkanál=16g	0353|048.14|050.57|064.93|070.8|080.4|090.073|100.088|110.263|1233|131.45|14435|155493|160|170|180
+1427	U16139	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0343|042.6|051.47|064.92|070.2|083.65|090.205|100.382|110.858|12123|130.42|14122|1547|160|170|181.1
+1428	U16034	1 doboz=436g|1 evőkanál=16g|1 csésze=256g	0381|045.22|050.36|0614.83|075.3|081.85|090.073|100.044|110.243|1229|131.25|14260|15256|160|170.8|180
+1429	U14462	1 csésze=237g|1 doboz=356g|1 kis pohár=178g	035|040|050|061.22|070|081.22|090|100|110|121|130.03|1416|1513|160|178.8|180
+1430	U15140	0 1/4 csésze=27g|1 csésze (pikkelyes és darab)=118g|1 csésze (nem csomagolt)=135g	0383|0417.88|050.74|060|070|080|090.201|100.129|110.258|1291|130.5|14259|15395|1697|173.3|180
+1431	U15149	4 nagy=28g|1 közepes=6g|1 kis=5g	0371|0413.61|051.01|060.91|070|080|090.115|100.08|110.13|1254|130.21|14113|15566|16126|170|180.1
+1432	U15152	4 nagy=28g|1 közepes=6g|1 kis=5g	03100|0420.42|051.36|060|070|080|090.188|100.108|110.684|12145|132.13|1480|15777|16252|174.1|180
+1433	U15157	1 közepes=14.5g|1 nagy=20g|1 kis=9g|1 csésze (a folyadék és a kagyló)=227g	0386|0414.67|050.96|063.57|070|080|090.187|100.12|110.192|1239|131.62|1446|15601|1630|170|180
+1434	U15160	1 közepes=14.5g|1 nagy=20g|1 kis=9g|1 csésze (a folyadék és a kagyló)=227g	03142|0424.25|051.59|065.9|070|080|090.309|100.198|110.318|1265|132.68|14628|15112|1650|170|180.1
+1435	U14119	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0329|040.04|050.01|067.47|070|082.1|090|100|110|123|130.04|1419|1521|160|1732.5|180
+1436	U14136	1 csésze=237g|1 doboz=356g|1 kis pohár=178g	0334|040|050|068.77|070|088.7|090|100|110|123|130.18|141|157|160|170|180
+1437	U14157	1 csésze=237g|1 doboz=356g|1 kis pohár=178g	0341|040|050|0610.6|070|0810.6|090|100|110|125|130.05|141|1513|160|170|180
+1438	U14264	1 csésze=237g|1 doboz=356g|1 kis pohár=178g	0348|040|050|0611.97|070|0811.29|090|100|110|128|130.09|1425|1510|160|170.4|180
+1439	U43015	1 evőkanál=14.9g|1 teáskanál=5g|1 csésze=239g	03542|042.17|0557.85|063.3|070.5|082.81|098.789|1013.504|1132.857|1248|131.08|1429|151209|1639|170.3|180.1
+1440	U43275	1 szelet=28g|1 csésze (kockázva)=132g|1 csésze (reszelt)=113g|1 csésze (elolvadt)=244g|1 köbcenti=17g|1 csomag (elolvadt)=170g	03180|0424.6|057|063.5|070|080.59|094.41|102.005|110.222|12684|130.43|14180|151430|1635|170|180.1
+1441	U43382	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0346|040.39|050.13|0612.2|070.1|0812.1|090.01|100.023|110.07|128|130.25|1477|152|160|179.3|180
+1442	U11172	0 1/4 is=73g|1 doboz=289g|1 csésze=164g	0379|042.46|051.11|0617.77|071.9|083.04|090.161|100.223|110.415|124|130.55|14138|15186|160|171.6|180
+1443	U11179	1 közepes kukorica (17 cm, 19 cm-es)=103g|1 csésze (vágott)=149g|1 kis kukorica (14 cm-16 cm)=89g|1 nagy fül (19 cm és 22 cm)=118g|1 baba kukorica (19 cm és 22 cm)=8g|1 kukorica (19 cm és 22 cm)=77g	0381|042.55|050.67|0619.3|072.4|083.07|090.103|100.197|110.318|123|130.47|14233|151|160|173.5|180
+1444	U11131	1 közepes=61g|1 nagy (7-21 cm)=72g|1 kis (14 cm)=50g|1 szelet=3g|1 csésze (reszelt)=110g|1 csésze (csíkokra vagy szelet)=122g|1 nagy szalag (8 cm)=7g|1 csésze (apróra vágott)=128g	0337|040.58|050.68|067.73|073.3|084.08|090.12|100.031|110.334|1235|130.53|14192|1559|160|172.3|180
+1445	U11090	1 közepes szár (19 cm - 20 cm)=180g|0,5 csésze (apróra vágott)=92g|1 lándzsa (kb. 12 cm)=37g|1 nagy szár (12 cm - 15 cm)=280g|1 kis szár (12 cm)=140g	0334|042.82|050.37|066.64|072.6|081.7|090.039|100.011|110.038|1247|130.73|14316|1533|160|1789.2|180
+1446	U11457	1 csésze=30g|1 csokor=340g|1 levél (reszelt)=10g|1 csomag (elolvadt)=283g	0323|042.86|050.39|063.63|072.2|080.42|090.063|100.01|110.165|1299|132.71|14558|1579|160|1728.1|180
+1447	U11365	1 közepes (6 cm, 8 cm-es)=213g|1 nagy (8 cm, 11 cm-es)=369g|1 kis (4 cm, 6 cm-es)=170g|0,5 kupa (kockázva)=75g	0387|041.87|050.1|0620.13|071.8|080.87|090.026|100.002|110.043|125|130.31|14379|154|160|1713|180
+1448	U11645	1 közepes (dia 5 cm, 12 cm-es)=114g|1 nagy=180g|1 csésze=200g|1 csésze (tört)=328g|1 kis=60g	0389|040.98|050.2|0620.93|072.5|0815.4|090.041|100.008|110.084|1215|130.8|14185|1544|160|1710.5|180
+1449	U11655	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0340|040.95|050.15|069.28|070.8|083.91|090.027|100.007|110.071|1224|130.46|14292|1566|160|178.5|180
+1450	U11674	1 közepes (6 cm, 8 cm-es)=213g|1 nagy (8 cm, 11 cm-es)=369g|1 kis (4 cm, 6 cm-es)=170g|0,5 kupa (kockázva)=75g	0393|042.5|050.13|0621.15|072.2|081.18|090.035|100.003|110.058|1215|131.08|14535|1510|160|179.6|180
+1451	U11887	1 kis doboz=170g|1 evőkanál=16g|1 csésze=262g	0382|044.32|050.47|0618.91|074.1|0812.18|090.1|100.067|110.159|1236|132.98|141014|15790|160|1721.9|180
+1452	U11945	1 evőkanál=15g|1 csomag=2/3 tbsp|1 csésze=245g	03130|040.37|050.47|0635.06|071.1|0829.13|090.054|100.209|110.122|123|130.87|1425|15811|160|171|180
+1453	U11530	1 közepes (6 cm)=123g|1 csésze=240g|1 szelet (1 cm)=20g|1 nagy (8 cm)=182g|1 ék (1/4 közepes paradicsom)=31g|1 vastag/nagy szelet (1 cm)=27g|1 kis paradicsom (6 cm)=91g	0318|040.95|050.11|064.01|070.7|082.49|090.015|100.016|110.044|1211|130.68|14218|1511|160|1722.8|180
+1454	U11533	1 közepes (6 cm)=123g|1 csésze=240g|1 szelet (1 cm)=20g|1 nagy (8 cm)=182g|1 ék (1/4 közepes paradicsom)=31g|1 vastag/nagy szelet (1 cm)=27g|1 kis paradicsom (6 cm)=91g	0326|040.91|050.19|066.19|071|083.52|090.026|100.029|110.077|1234|131.33|14207|15221|160|177.9|180
+1455	U11549	1 kis doboz=170g|1 evőkanál=16g|1 csésze=262g	0324|041.32|050.18|065.38|071.5|084.25|090.025|100.027|110.073|1213|131.02|14331|15524|160|177|180
+1456	U11578	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0319|040.63|050.09|064.55|070.8|083.3|090.013|100.014|110.038|1211|130.42|14193|15198|160|1727.7|180
+1457	U12062	0 1/4 csésze=37g|23 dió=28.35g|1 csésze (föld)=95g|1 csésze (szeletelve)=92g|1 csésze (forgácsolt)=108g|1 mandula (forgácsolt)=1.2g	03590|0421.4|0552.52|0618.67|079.9|084.63|093.953|1033.415|1112.368|12236|133.28|14659|1519|160|170|180
+1458	U12563	0 1/4 csésze=37g|23 dió=28.35g|1 csésze (föld)=95g|1 csésze (szeletelve)=92g|1 csésze (forgácsolt)=108g|1 mandula (forgácsolt)=1.2g	03595|0421.06|0552.05|0621.2|0710.9|084.93|094.03|1032.383|1112.995|12267|133.83|14712|15656|160|170|180
+1459	U09320	1 közepes (3 cm)=12g|1 csésze (szeletelve)=166g|1 csésze (felezett)=152g|1 csésze (pépesítve)=232g|1 csésze=144g|1 extra-nagy (4 cm)=27g|1 nagy (3 cm)=18g|1 korsó (3 cm)=357g|1 kis (2 cm)=7g|1 adag=147g	0396|040.53|050.13|0625.92|071.9|0824.01|090.007|100.018|110.064|1211|130.59|1498|153|160|1741.4|180
+1460	U09400	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0346|040.1|050.13|0611.3|070.2|089.62|090.022|100.006|110.039|128|130.12|14101|154|160|1738.5|180
+1461	U09214	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	03159|042.39|050.21|0638.17|070.8|0837.37|090.024|100.038|110.041|1232|130.35|14674|153|160|17137.9|180
+1462	U11093	0,5 csésze (apróra vágott)=92g|1 közepes szár (19 cm - 20 cm)=180g|1 lándzsa (kb. 12 cm)=37g|1 nagy szár (12 cm - 15 cm)=280g|1 kis szár (12 cm)=140g	0328|043.1|050.12|065.35|073|081.47|090.018|100.008|110.055|1233|130.61|14142|1511|160|1740.1|180
+1463	U11109	0,5 kupa=35g|1 csésze (reszelt)=70g|1 levél (reszelt)=15g|1 csésze (apróra vágott)=89g|1 nagy káposzta (kb. 18 cm)=1248g|1 nagy levél (kb. 18 cm)=33g|1 közepes káposzta (kb. 14 cm)=908g|1 közepes levél (kb. 14 cm)=23g|1 kis káposzta (kb. 11 cm)=714g	0325|041.28|050.1|065.8|072.5|083.2|090.034|100.017|110.017|1240|130.47|14170|1518|160|1736.6|180
+1464	U10900	1 szelet=27g|1 vékony szelet=15g|1 csésze=140g	03112|0419.38|053.43|060.95|070|081.02|091.005|101.372|110.428|126|130.87|14346|151096|1653|170|180.6
+1465	U10909	1 szelet=27g|1 vékony szelet=15g|1 csésze=140g	03121|0417.06|055.38|061.2|070|081.42|091.889|102.571|110.759|128|130.85|14312|151126|1650|170|180.6
+1466	U05014	0,5 csirke=258g|1 mell=162g|1 csirkecomb=98g|1 szárny=34g|1 aranyrög=20g|1 csésze (apróra vágott, vagy kockára vágott)=140g	03177|0427.29|056.71|060|070|080|091.84|102.39|111.54|1214|131.17|14180|1570|1683|170|180.1
+1467	U06116	1 evőkanál=14.9g|1 teáskanál=5g|1 csésze=239g	0353|043.75|052.36|064.81|070.4|080.21|091.153|100.962|110.08|126|130.7|1481|15560|163|170|180
+1468	U06170	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0313|041.97|050.09|061.2|070|080.54|090.035|100.043|110.005|128|130.27|14185|15198|160|170|180
+1469	U06230	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0361|043.24|052.02|067.46|070.3|082.81|091.094|100.268|110.513|1270|131.21|14179|15273|167|172.1|180.6
+1470	U06019	1 csésze=237g|1 kis pohár=178g|1 nagy pohár=356g	0352|042.59|051.94|066.03|070.3|080.54|090.542|100.855|110.54|129|131.35|1444|15706|1611|170|180
+1471	U02047	1 teáskanál=6g|1 kötőjel=0.4g|1 evőkanál=18g|1 csésze=292g	030|040|050|060|070|080|090|100|110|1224|130.33|148|1538758|160|170|180
+1472	U03189	1 evőkanál=3.2g|0,5 DL=15g|1 doboz=223g	03399|0413.07|058|0669.65|079|083.84|091.37|102.57|112.47|12707|1351.25|14420|154|160|170|180
+1473	U01205	1 evőkanál=15g|1 csomag=3g|1 teáskanál=2g|1 csésze=94g	03251|040.69|0513.5|0635.07|071.1|0833.04|092.635|104.002|116.269|126|130.59|1496|1580|160|170|180
+1474	U01219	1 tartály=245g|1 közepes konténer=184g|1 kis tartály=123g	03105|044.86|051.41|0618.6|070|082.9|090.909|100.387|110.04|12152|130.07|14194|1558|166|170.7|181.3
+1475	U04128	1 evőkanál=14g|1 teáskanál=4g|1 csésze=227g|1 rúd (sq 2 cm, 1 cm)=113g	03339|040.51|0537.77|060.66|070|080|098.637|1013.958|1112.407|126|130.02|1434|15589|160|170.1|180
+1476	U04518	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03900|040|05100|060|070|080|0912.948|1027.576|1154.677|120|130|140|150|160|170|180
+1477	U04539	1 evőkanál=14.9g|1 teáskanál=5g|1 csésze=239g	03476|041.37|0551.1|064.62|070.4|083.48|098.275|1013.279|1127.545|1237|130.09|1488|151041|1631|170.7|180.1
+1478	U04582	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03884|040|05100|060|070|080|097.365|1063.276|1128.142|120|130|140|150|160|170|180
+1479	U04613	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03533|040.17|0559.81|060.86|070|080|0912.086|1019.348|1126.477|1221|130|1430|15615|161|170.1|180
+1480	U04651	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03884|040|05100|060|070|080|0918.101|1040.262|1136.847|120|130|140|150|160|170|180
+1481	U04654	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03884|040|05100|060|070|080|0925.883|1059.133|1110.305|120|130|140|150|160|170|180
+1482	U04042	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03884|040|05100|060|070|080|0916.9|1046.2|1132|120|130.03|140|150|160|170|180
+1483	U04044	1 evőkanál=13.6g|1 teáskanál=4.5g|1 csésze=218g	03884|040|05100|060|070|080|0915.65|1022.783|1157.74|120|130.05|140|150|160|170|180
+1484	U04114	1 evőkanál=14.9g|1 teáskanál=5g|1 csésze=239g	03240|040.41|0521.12|0612.12|070|0810.77|092.948|105.638|1110.748|1213|130.26|1484|15993|160|170.4|180
+1485	U01069	1 evőkanál=15g|1 csomag=3g|1 teáskanál=2g|1 csésze=94g	03545|044.79|0535.48|0654.88|070|0854.88|0932.525|100.968|110.014|1222|131.15|14812|15181|160|170|180
+1486	U01049	1 evőkanál=15g|1 különálló tartályban=15g|1 csésze=242g	03130|042.96|0511.5|064.3|070|080.16|097.158|103.321|110.427|12105|130.07|14130|1541|1637|170.9|180.2
+1487	U01002	1 evőkanál=14g|1 teáskanál=4g|1 csésze=227g|1 rúd (sq 2 cm, 1 cm)=113g	03717|040.85|0581.11|060.06|070|080.06|0950.489|1023.426|113.012|1224|130.16|1426|15827|16219|170|181.5
+1488	U01048	2 evőkanál=32g|1 üveg=142g	03290|0416.41|0521.23|068.73|070|087.32|0913.327|106.219|110.624|12562|130.33|14242|151625|1655|170|180.4
+1489	U01133	1 evőkanál=5g|1 csésze (rostált)=85g	03605|0448.37|0543.04|061.53|070|080.3|0913.516|1017.073|116.856|12236|134.33|14540|15480|161630|170|183.1
+1490	U03194	1 evőkanál=2.5g|0,5 DL=15g	03391|047.1|054.9|0677.7|070.5|080.12|090.919|101.26|112.016|12850|1347.5|14385|156|160|172.4|180
+1491	U05182	1 adag=85g|1 csésze=140g	03177|0429.55|055.57|060.05|070|080|091.603|101.984|111.596|1211|130.8|14248|15101|1689|170|180.4
+1492	U07089	1 közepes kolbász=67g|1 nagy kolbász=83g	03344|0419.12|0527.31|064.27|070.1|080.86|099.655|1012.777|113.507|1221|131.43|14304|151207|1657|170.1|181
+1493	U05057	1 mell=290g|1 csésze (apróra vágott, vagy kockára vágott)=140g	03172|0420.85|059.25|060|070|080|092.66|103.82|111.96|1211|130.74|14220|1563|1664|170|180.4
+1494	U05091	1 comb  nélkül (bőr)=149g|1 comb (bőrrel)=189g	03219|0416.24|0516.61|060.25|070|080|094.478|106.89|113.449|128|130.67|14205|1577|1698|170|180.1
+1495	U05100	1 szárny=49g|1 kis szárny=29g	03222|0418.33|0515.97|060|070|080|094.48|106.35|113.39|1212|130.95|14156|1573|1677|170.7|180.1
+1496	U09020	0 1/4 csésze=61g|1 csésze=246g	0368|040.16|050.17|0617.49|071.2|0814.67|090.03|100.007|110.054|123|130.12|1475|152|160|171.7|180
+1497	U08128	0,333 kupa=27g|1 csésze=81g	03369|049.53|054.84|0676.08|078|0825.33|090.768|101.487|111.696|12234|138.46|14284|15434|160|170|180
+1498	U08132	0,333 kupa=27g|1 csésze=81g	03360|048.45|054.03|0676.33|075.7|0837.14|090.639|101.207|111.274|12228|139.43|14362|15462|160|170.7|180
+1499	U08049	0,333 kupa=27g|1 csésze=81g	03374|049.98|054.43|0677.74|076.6|0819.43|090.834|101.475|111.418|12351|1329.33|14283|15501|160|170|180
+1500	U11061	10 bab=62g|1 csésze=153g	0328|041.49|050.17|066.45|073|081.23|090.042|100.007|110.084|1242|130.66|14159|151|160|174.1|180
+1501	U11370	0,5 kupa=72g|1 csésze=144g	03265|043|0512.52|0635.11|073.2|081.49|091.883|105.299|114.703|1214|130.55|14576|15342|160|1713|180
+1502	U11399	10 felfújtadat=84g|10 burgonya felfújtadat=60g	03190|042.05|058.62|0627.75|072.5|080.25|091.823|106.03|110.447|1214|130.64|14312|15462|160|176.3|180
+1503	U11297	1 evőkanál=3.8g|1 csésze (apróra vágott)=60g	0336|042.97|050.79|066.33|073.3|080.85|090.132|100.295|110.124|12138|136.2|14554|1556|160|17133|180
+1504	U11053	10 bab=62g|1 csésze=153g	0335|041.89|050.28|067.88|073.2|081.55|090.062|100.012|110.145|1244|130.65|14146|151|160|179.7|180
+1505	U11213	0,5 csésze (apróra vágott)=25g|1 endívia (apróra vágott)=513g	0317|041.25|050.2|063.35|073.1|080.25|090.048|100.004|110.087|1252|130.83|14314|1522|160|176.5|180
+1506	U42283	1 csésze=34g|1 zacskó=168g	03469|045|0518.2|0671.4|074.8|085.01|092.631|109.91|114.234|12125|130.8|14721|15634|160|170|180
+1507	U15167	6 közepes=84g|1 csésze=248g	0351|045.71|051.71|062.72|070|080.62|090.474|100.253|110.528|1259|134.61|14156|1585|1640|170|180
+1508	U16033	1 csésze=177g|1 evőkanál=11g	03127|048.67|050.5|0622.8|077.4|080.32|090.072|100.039|110.275|1228|132.94|14403|152|160|171.2|180
+1509	U16103	1 doboz=443g|1 csésze=238g	0391|045.41|051.17|0615.26|075.1|080.46|090.391|100.381|110.332|1233|131.67|14336|15449|160|176|180
+1510	U16389	0 1/8 csésze=18g|32 földimogyoró=28g	03599|0428.03|0552.5|0615.26|079.4|084.18|098.686|1025.976|1115.292|1261|131.52|14726|156|160|170.8|180
+1511	U16390	0 1/8 csésze=18g|32 földimogyoró=28g	03585|0423.68|0549.66|0621.51|078|084.18|096.893|1024.64|1115.694|1254|132.26|14658|156|160|170|180
+1512	U19300	1 csomag=14g|1 adag=1 tbsp	03266|040.15|050.02|0669.95|071|0851.22|090.005|100.001|110.004|127|130.19|1454|1530|160|170.9|180
+1513	U19411	1 csésze=34g|1 zacskó=168g	03542|046.56|0536.4|0650.81|074.4|080.37|094.014|1015.999|1115.998|1224|131.61|141642|15480|160|1718.6|180
+1514	U21026	0,5 kupa=72g|1 csésze=144g	03327|042.61|0521.65|0632.2|072.7|080.24|094.947|1011.545|113.796|1216|130.67|14356|15518|160|172.9|180
+1515	U18214	1 négyszögletes=4g|1 csésze (harapás méret)=62g	03489|0410.93|0522.74|0659.42|072.3|084.53|095.288|105.744|1110.09|12136|134.88|14156|15973|163|170|180
+1516	U18232	1 négyszögletes=4g|1 csésze (harapás méret)=62g	03456|048.95|0517.36|0667.35|073.7|0813.8|092.73|104.297|119.225|1281|134.69|14207|15787|160|170|180
+1517	U18326	1 nagy darab (1/8-22 cm)=125g|1 közepes darab (1/6-20 cm-es kör)=117g	03243|043.9|059.75|0634.83|071.8|0818.88|091.988|104.6|111.77|1264|130.9|14167|15239|1626|170|180.1
+1518	U18369	1 teáskanál=4.6g|0,5 kiskanál=2.3g	0353|040|050|0627.7|070.2|080|090|100|110|125876|1311.02|1420|1510600|160|170|180
+1519	U19160	2 bár=58g|1 king-size csomag (4 bar)=95g	03502|044.91|0524.85|0664.8|071.1|0848.25|0918.96|102.988|110.628|12106|130.81|14186|15198|167|170.6|180
+1520	U19008	10 felfújtadat=84g|10 burgonya felfújtadat=60g	03563|045.87|0536.56|0653|071.7|083.03|095.512|1010.9|1119.637|1257|132.14|14189|15926|167|170|180
+1521	U19074	1 db=10.1g|1 csomag (elolvadt)=71g	03382|044.6|058.1|0677|070|0865.5|092.476|101.542|113.478|12138|130.14|14214|15245|167|170.4|180
+1522	U19088	0,5 kupa=107g	03180|044.78|054.83|0629.46|070.3|0822.12|092.927|101.281|110.219|12161|130.19|14208|1574|1627|171.2|180.1
+1523	U19089	0,5 kupa=107g	03249|043.5|0516.2|0622.29|070|0820.65|0910.329|104.46|110.68|12117|130.34|14157|1561|1692|170|180.3
+1524	U19097	0,5 kupa=107g	03144|041.1|052|0630.4|071.3|0824.32|091.16|100.53|110.08|1254|130.14|1496|1546|161|172.3|180
+1525	U18933	1 tér (10 cm-es tér)=33g	03309|047.42|059.49|0648.39|072.6|084.41|092.283|105.292|111.526|12299|136.59|14138|15710|1613|170|180
+1526	U18362	1 tészta=55g	03391|044.67|0510.56|0669.23|071.1|0828.59|092.618|106.404|111.082|1211|133.85|1475|15334|160|170|180
+1527	U18210	1 ovális elem (8 cm x 3 cm x 1 cm)=15g	03483|044.5|0520|0672.1|071.5|0839.3|092.979|108.437|117.551|1227|132.21|1491|15349|160|170|180
+1528	U21005	1 elem=162g	03312|0411.13|0520.77|0621.05|070.2|080.95|096.449|109.985|112.967|1251|131.9|14149|15672|16161|170|180.5
+1529	U21009	1 elem=111g	03371|049.67|0524.42|0629.99|070.4|081.59|097.427|1012.157|113.107|1247|131.86|14153|15814|1628|170|180.3
+1530	U20044	1 csésze=185g	03365|047.13|050.66|0679.95|071.3|080.12|090.18|100.206|110.177|1228|134.31|14115|155|160|170|180
+1531	U21401	4 db=62g	03299|0417.63|0518.13|0616.21|071.3|080.1|093.131|106.009|117.479|1219|130.64|14330|15748|1647|170|180.2
+1532	U22906	1 kör=302g	03198|044.82|0511.45|0618.99|071|082.4|094.178|103.932|112.749|1221|130.58|14105|15407|1617|171|180.1
+1533	U20022	1 csésze=157g	03370|047.11|051.75|0679.45|073.9|081.61|090.169|100.299|110.634|123|134.36|14142|157|160|170|180
+1534	U20081	1 csésze=137g	03364|0410.33|050.98|0676.31|072.7|080.27|090.155|100.087|110.413|1215|134.64|14107|152|160|170|180
+1535	U19280	0,5 kupa=107g	03128|040.4|050|0632.6|070|0832.6|090|100|110|122|130.16|143|1522|160|171|180
+1536	U16150	2 evőkanál=32g	03520|0425.9|0534|0635.65|075.2|089.28|095.76|1016.156|119.182|1235|131.9|14669|15540|160|170|180
+1537	U16008	1 csésze=259g	03142|046.75|056.57|0615.39|076.9|086.53|092.352|102.83|110.836|1248|131.73|14235|15430|166|172.3|180
+1538	U16011	1 csésze=246g	0394|045.15|050.93|0618.69|074|085.67|090.293|100.277|110.157|1256|133.24|14295|15437|167|173|180
+1539	U15240	1 szelet=79g	03141|0419.94|056.18|060|070|080|091.383|101.979|111.507|1225|130.31|14377|1551|1659|172.9|1815.9
+1540	U15261	1 szelet=116g	0396|0420.08|051.7|060|070|080|090.585|100.498|110.363|1210|130.56|14302|1552|1650|170|183.1
+1541	U14181	2 evőkanál=18g	03279|042.1|051.13|0665.1|072.6|0849.65|090.519|100.286|110.026|1214|132.11|14224|1572|160|170.2|180
+1542	U12538	0 1/4 csésze=28g	03592|0420.06|0551.3|0622.89|0710.6|083.11|097.068|108.063|1134.294|1287|134.28|14483|15733|160|171.1|180
+1543	U43570	1 adag=28g	03398|047.12|055.46|0681.19|074.2|0819.79|090.693|102.831|111.307|1223|1334.82|14209|15482|160|170|184.6
+1544	U23580	1 adag=139g	03277|0426.28|0518.21|060|070|080|097.044|108.373|110.509|1234|132.63|14354|1593|1689|170|180.2
+1545	U25017		03363|0414.15|053.11|0669.63|075.7|0830.07|091.32|101.05|110.589|12504|1311.7|14362|15146|160|1792.3|180
+1546	U11271	1 csésze (apróra vágott)=140g	0326|042.56|050.47|064.51|072|081.41|090.012|100.11|110.046|12118|130.87|14162|159|160|1725.3|180
+1547	U11152	1 csésze (apróra vágott)=29g	0323|041.7|050.3|064.7|074|080.7|090.073|100.006|110.131|12100|130.9|14420|1545|160|1724|180
+1548	U11308	0,5 kupa=80g	0368|044.47|050.8|0611.36|074.9|082.99|090.143|100.071|110.375|1223|131.18|14106|15273|160|174.2|180
+1549	U11313	0,5 kupa=80g	0378|045.15|050.27|0614.26|075.5|084.65|090.049|100.024|110.129|1224|131.52|14110|1572|160|179.9|180
+1550	U12635	10 dió=14g	03594|0417.3|0551.45|0625.35|079|084.8|096.5|1031.395|1110.768|1270|133.7|14693|15345|160|170.4|180
+1551	U12637	10 dió=14g	03607|0420.04|0553.95|0621.05|077|084.15|098.711|1028.488|1114.612|12117|132.61|14632|15273|160|170.5|180
+1552	U13368	1 db=264g	03218|0429.75|0510.08|060|070|080|093.63|104.65|110.3|126|132.81|14285|1570|1693|170|180.2
+1553	U13388	1 db=214g	03238|0427.53|0513.4|060|070|080|095.35|105.6|110.38|128|132.82|14357|1573|1681|170|180.2
+1554	U13865	1 db=313g	03235|0427.54|0512.98|060|070|080|094.9|105.56|110.52|126|132.55|14395|1562|1679|170|180.2
+1555	U13890	1 db=283g	03228|0433.93|058.33|062.03|070|080|092.399|103.031|111.523|126|133.4|14484|1565|16102|170|180.1
+1556	U11461	0,5 kupa=95g	0323|042.81|050.5|063.4|072.4|080.4|090.081|100.013|110.211|12127|132.3|14346|15322|160|1714.3|180
+1557	U11569	1 csésze (apróra vágott)=144g	0320|041.14|050.23|064.36|073.5|080.53|090.053|100.015|110.091|12137|130.8|14203|1529|160|1727.4|180
+1558	U12036	0 1/4 csésze=28g	03584|0420.78|0551.46|0620|078.6|082.62|094.455|1018.528|1123.137|1278|135.25|14645|159|160|171.4|180
+1559	U11012	0,5 kupa=90g	0322|042.4|050.22|064.11|072|081.3|090.048|100|110.105|1223|130.91|14224|1514|160|177.7|180
+1560	U10026		03210|0428.57|059.8|060|070|080|093.64|104.45|110.77|1217|130.91|14438|1564|1679|170.7|180.9
+1561	U08050	1 adag=28g	03380|047.67|055.02|0680.89|075|0836.13|090.885|101.586|111.542|12434|1322.27|14222|15648|160|1726.6|183.9
+1562	U08057	1 adag=28g	03375|046.25|053.13|0687.5|073.1|0828.13|090.529|101.113|111.17|12313|1314.06|14156|15625|160|1718.8|183.1
+1563	U08060	1 csésze=59g	03314|047.72|052.72|0677.29|0711.4|0831.3|090.48|100.339|110.949|1243|1312.33|14596|15356|160|170|183.9
+1564	U08064	1 csésze=28g	03375|046.9|051.4|0684.5|074.4|088.1|090.3|100.3|110.3|12370|1333.3|14164|15898|160|1722.2|183.7
+1565	U08069	1 csésze=42g	03369|043.96|051.68|0689.2|072.2|0835.43|090.451|100.265|110.669|123|1326.7|1476|15468|160|1724.2|184.7
+1566	U08077	1 adag=28g	03320|048.4|052.1|0674.7|079.1|0816.4|090.6|100.3|110.8|123333|1360|14306|15470|160|17200|188.3
+1567	U08082	1 adag=28g	03345|049.8|051.8|0682.2|0712.2|0810.3|090.4|100.3|111|12213|1330.6|14369|15570|160|1712.8|182.1
+1568	U08092	1 csésze=28g	03359|047.31|052.14|0676.02|074.2|081.51|090.362|100.395|110.967|12378|1338.75|14163|151050|160|170|180
+1569	U08194	1 adag=28g	03413|046.8|0511.1|0675.6|074.7|0835.3|092.1|104.7|113.7|12345|1315.5|14244|15555|160|1720.7|183.4
+1570	U08028	1 adag=28g	03318|0410|052|0679|0717.5|0817|090.4|100.5|111.1|1252|1362|14590|15715|160|17207|183.5
+1571	U08034	1 adag=28g	03400|044.3|054|0686.2|070.8|0838|093.6|100.1|110.1|1217|136|1467|15630|160|1720|188.3
+1572	U08048	1 adag=28g	03357|047.69|053.46|0682.82|078.8|089.76|090.576|100.99|111.277|12570|1332|14223|15596|160|1725.4|183.3
+1573	U08244	1 adag=28g	03200|046.5|052.2|0684.6|0747.9|081|090.4|100.5|111.3|12333|1315|14329|15349|160|1720|180
+1574	U08247	1 csésze=56g	03312|045.6|051.6|0676.8|079.1|0832.3|090.4|100.3|110.8|121887|1334|14504|15339|160|170|184.7
+1575	U08387	1 adag=28g	03352|0410.3|055.3|0677.5|0715.1|0815.6|090.9|101.2|111.3|1242|135.5|14310|15256|160|1791|180
+1576	U08543	1 adag=28g	03378|047.7|054.2|0683.2|079.3|0830.4|090.4|102.2|111.1|1232|1327|14251|15569|160|1770|183.3
+1577	U08015	1 adag=28g	03397|044.7|054.2|0685.8|071.5|0834.5|093.45|100.2|110.1|1221|136|14172|15586|160|170|188.3
+1578	U08019	1 csésze=28g	03370|046.4|052.4|0684.9|075.6|0811.1|090.4|100.6|111.3|12323|1329|14195|15760|160|1729|184.8
+1579	U05103	1 szárny=34g	03290|0426.86|0519.46|060|070|080|095.45|107.64|114.14|1215|131.27|14184|1582|1684|170|180.1
+1580	U07014	1 szelet (6 x 1 cm)=18g	03327|0414.5|0528.5|063.1|070|080|099.307|1012.731|113.193|129|1311.2|14199|15977|16180|170|181.2

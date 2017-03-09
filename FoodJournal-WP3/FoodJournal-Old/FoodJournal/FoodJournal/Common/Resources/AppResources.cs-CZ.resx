@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>cs-CZ</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>STRAVOVACÍ DENÍK</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Běžné položky</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Odstranit</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Nic není vybráno</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Položky poslední snídaně</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Položky poslední večeře</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Moje poslední cvičení</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Položky posledního oběda</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Položky poslední dopolední svačiny</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>STRAVOVACÍ DENÍK</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>POTRAVINY DENÍK- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Snídaně</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Večeře</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Cvičení</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Oběd</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Svačina</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Hledat</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Dnes</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Množství</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Vápník</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorie</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Sacharidy</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Cholesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Vláknina</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Železo</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Mononenasycené mastné kyseliny</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Polynenasycené mastné kyseliny</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Draslík</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Bílkoviny</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Nasycené tuky</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Sodík</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Cukr</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Tuky celkem</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamín C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamín D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Váha</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Nastavení</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Zadejte hledaný termín</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (nová položka)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (nový recept)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Výsledky hledání</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} nenalezeno, zkuste změnit hledaný výraz</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Přidat</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Jméno</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Výživa</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>POTRAVINOVÉ INFO</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Prosím nejprve zadejte váhu</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Velikost porce</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Kolik?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>další možnosti</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Žádné nutriční informace</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Přidat velikost porce</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Přidat</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalendář</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Reklama</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centilitr</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Šálek</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Decilitr</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Dutá unce</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litr</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Mililitr</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Unce</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pinta</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Libra</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Kvart</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Polévková lžíce</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Čajová lžička</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centilitrech</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Hrnky</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Duté unce</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galony</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gramy</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogramů</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litrů</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililitrů</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Unce</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pinty</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Libry</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarty</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Lžíce</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Lžičky</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>CS</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-maily od Stravovacího deníku</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>částka</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>načítání...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Aktualizovat</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Děkujeme vám za používání této aplikace. Tato kopie nyní vypršela. Nic se však neděje, klepnutí na tlačítko Ok Vás odvede na stránku, kde si stáhnete aktualizaci.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Tento úkol aktualizuje Live Tile panely pro Stravovací deník.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Zakázali jste Live Tile panely aplikace v nastavení telefonu.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Moje nastavení</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Spočítat chybějící jídla na panelu aplikace</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Upomínky</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Nastavení</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Nastavit panely</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Souhrn</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Souhrn</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Lžička = 4,5 g|Lžíce = 12 g|1 porce = 28 g|Kus = 14 g|Řez = 12 g|1 cup = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Pořídit fotografii</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Děkujeme vám za používání této aplikace. Pokud zjistíte, že je pro vás užitečná, prosím, zanechte nám recenzi.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Napsat hodnocení?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Cíle</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Žádný cíl sada</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Na konci dne</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Co jsi jedl/a?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Upomínka: aktualizovat váš deník</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>vybrané upomínky se zobrazí v případě, že jste neaktualizovali svůj deník do stanoveného času</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Pomerančová šťáva, 1 šálek, Toast, 1 plátek, vajíčko, 1 střední, Apple, káva, banány</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} nad limit</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>Zbývá {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Deník</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Klepněte na tlačítko OK, chcete-li odstranit reklamy z aplikace.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Odstranit reklamy?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Problém připojování k úložišti Windows Phone. Opakujte akci později.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Ohlásit problém</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Navrhněte funkci nebo položte otázku</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Ohodnoťte tuto aplikaci</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Konkrétní zpětná vazba pomáhá zlepšit aplikaci</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Pomoci zlepšit překlad</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Snímání obrazovky je zahrnuto</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Sdílet odkaz</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Stáhnout tuto aplikaci</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Stravovací deník - text</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Podívejte se na Stravovací deník pro Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Stravovací deník</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Běžné položky - snídaně</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Běžné položky - večeře</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Běžné položky - oběd</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Běžné položky - dopolední svačina</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Strava</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Ráno</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Popoledni</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Odpoledne</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Samostatná dopolední svačina</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Samostatná poobědová svačina</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Samostatná odpolední svačina</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Večer</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Samostatné půlnoční svačina</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Půlnoc</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Kombinovat jídlo</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Samostatná večeře</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Položky poslední odpolední svačiny</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Položky poslední poobědové svačiny</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Položky poslední večeře</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Položky poslední půlnoční svačiny</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Položky poslední snídaně</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Běžné položky - odpoledne</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Běžné položky - po obědě</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Běžné položky - večer</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Běžné položky - noc</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Běžné položky - ráno</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Děkujeme vám za vyzkoušení potraviny deník. Máte {0} zkušební zbývajících dní. Chcete-li odemknout app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Nyní odemknout?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Zkušební verze je nyní vypršela. Můžete zobrazit váš časopis, ale nelze přidat nové záznamy. Klepněte na tlačítko OK, chcete-li odemknout plnou verzi.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Odstranit reklamy</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Natrvalo odstranit všechny reklamy</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Stáhněte nyní, protože budete milovat ji používat.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Stravovací deník</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>PRÉMIOVÉ FUNKCE:
+1. žádné další reklama.
+2. mnohem větší databáze potravin.
+3. možnost odeslat sami kopii do mlékárny.
+4. další možnosti konfigurace, včetně schopnost vstoupit až 8 samostatných jídel denně.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>RYSY:
+1. jednoduchý a účinný design: app otevře přímo na vstupní obrazovce, na poslední jídlo, protože to je to, co budete používat nejčastěji. Design dělá přidávání položek jako jednoduché a intuitivní, jak je to možné.
+2. jedna klepnutím položku s personalizované návrhy: nejběžnější potravinové položky lze okamžitě vybrat. Od druhého dne, vaše poslední položky jsou navrhl, protože může jíst stejné jídlo často.
+3. přihlášení není zapotřebí: je třeba žádné osobní údaje nebo kontaktní informace.
+4. tisíce položek v databázi: většina potravin položky mají přesné informace o společné velikost porcí, kalorií, sacharidů, bílkovin a tuků. 
+5. plná offline podpora: nemusíte být připojeni k Internetu. 
+6. přesné zadání je také snadné: přesně, můžete zadat přesnou částku, pomocí jezdce.
+7. denní zprávy: použití nabídky, můžete přímo otevřít deník, který zobrazuje souhrn vašeho dne. Zde můžete přepínat mezi kalorií, bílkoviny a sacharidy stisknutím na malý trojúhelník.
+8. sledování cíle: po zadání vašich osobních cílů, můžete použít sestavu týden vidět své trendy. 
+9. osobní připomínky vám pomohou zůstat na cíl: jsou pohodlný způsob, jak Ujistěte se, vyplňte váš deník, po každém jídle, nebo na konci dne.
+
+To je vhodné ověřit, že informace v databázi je shodný s informací o vašem balení potravin; potraviny výživa kolísá s značky a postupem času.
+
+Ujistěte se, že diskutovat o své cíle s lékařem nebo nutriční specialista.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>O APLIKACI:
+Udržování přehledu o co jíš ukázal pomoci zabránit a přestat přejídání.
+Tato aplikace vám pomůže ovládat svůj jídelníček a jíst zdravější, tím, že jej snadno sledovat, co jíte. Design je optimalizován aby vstup tak rychle, jak je možné, s 1 klepněte na možnost položka a poslední jídlo návrhy. Stavěný z do databáze již má tisíce potravin a je-li vaše nejsou známy, jejich přidávání je snadné.
+
+Upozornění: Tato aplikace je volně ke stažení a s podporou reklamy. Můžete ji použít zdarma tak dlouho, jak chcete. Je možné odstranit reklamy za poplatek, což umožní další funkce.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Potraviny deník: Vaše strava a kalorie sledování aplikace.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Výživa</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorie</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dieta</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Stravovací deník</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Počítadlo kalorií</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banán</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Káva</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Jablko</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Vejce</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 plátek</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Toust</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 šálek</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Pomerančová šťáva</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Děkujeme vám za vaši podporu! Tato možnost slouží k trvale odstranit reklamy z potravin deník aplikací.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Odstranit reklamy</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Zadejte hmotnost</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Zkušební doba vypršela, odemknout?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 střední</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Nejrychlejší a nejsnadnější způsob, můžete sledovat, co jíte.
+
+Vyhledejte informace o přesnosti údajů.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Upgradovat nyní</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Koupit premium verzi</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Potravinový seznam {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Něco se pokazilo. Deník nebyl odeslán.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Zadejte prosím platnou e-mailovou adresu.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Celkem</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>pouze {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Podporovat rozvoj</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>ZŘEKNUTÍ SE ZÁRUKY:
+Většina, ale ne všechny datové body v databázi pocházejí z důvěryhodných zdrojů. Budeme se snažit zajistit, všechny hodnoty jsou přesné, ale nemůže nést odpovědnost za nesprávné nebo chybějící data. Nutriční hodnoty se liší podle značky a postupem času. Pomocí této aplikace, souhlasíte s tím, ověřit a opravit data v app a být plně zodpovědný za zranění nebo poškození v důsledku jeho použití.
+
+Prosím, dejte mi vědět, jestli existuje něco, co může pomoci vám s.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Podpořte rozvoj dalších aktualizací této aplikace</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Získejte všechny funkce</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Zahrnuto:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Poznámka: Většina, ale ne všechna data pocházejí z důvěryhodných zdrojů. Nákupem verze premium přijímáte plnou odpovědnost za správnost a aktuálnost údajů. Pro více informací prosím napište na E-daily.journal@outlook.com</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Nové funkce</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Všechny prémiové funkce v budoucích aktualizací</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Další jídla</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Pro sledování 5, 6 a více jídel denně</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Další potraviny *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Stovky až tisíce potravinových položek (dle umístění)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>E-mailové zprávy</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>Pošlete si váš deník emailem, abyste ho mohli tisknout, uložit nebo prostudovat</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Žádné reklamy</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Všechny reklamy jsou trvale odstraněny.</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Kup teď</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Poslat e-mailem</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Odeslat nyní</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>E-mailová adresa</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Získejte přístup ke všem funkcím</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Upgrade na premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Poznámka: Většina, ale ne všechny údaje v databázi pocházejí z důvěryhodných zdrojů. Snažíme se, aby uváděné hodnoty byly přesné, ale nemůžeme nést odpovědnost za nepřesná nebo chybějící data. Při použití aplikace toto berete na vědomí a přijímáte plnou odpovědnost za kontrolu správnosti údajů. Aplikace umožňuje aktualizovat veškeré nesrovnalosti, které naleznete.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Deník od AAA
+Otázky nebo připomínky? Odpovědět na BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Odeslat</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Aktualizujte s lepší překlady textů v tomto seznamu. Odeberte veškerý text pro položky, které jsou nevhodné pro vaši oblast.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Děkujeme za vaši pomoc!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Překlady</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Zde můžete pomoci zlepšit tuto aplikaci.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Původní:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Dobré</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Popis:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Pomoc se zlepšením aplikace</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Zadejte vaši e-mailovou adresu, pokud chcete být kontaktováni.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Komentář</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Zlepšit překlady</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Přidat spouštěč</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>AVG</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Storno</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Kopírovat z podobné položky</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Odstranit položku</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Zadejte hmotnost pro toto množství</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Další možnosti</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Žádný</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>Ok</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>1 den prodeje: {0} % sleva</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Celkem</value>
+</data>
+<data name="EmailReport_Footer1a" xml:space="preserve">
+<value>Deník od AAA</value>
+</data>
+<data name="EmailReport_Footer1b" xml:space="preserve">
+<value>Otázky nebo připomínky? Odpovědět na BBB</value>
+</data>
+</root>

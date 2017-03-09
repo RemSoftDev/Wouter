@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">NHẬT KÝ ĂN UỐNG</string>
+	<string name="CommonItems">Thực phẩm thường thấy</string>
+	<string name="Delete">Xóa</string>
+	<string name="EmptyEntryList">Không có gì được chọn</string>
+	<string name="MyRecentItems_Breakfast">Thực phẩm cho bữa sáng gần đây</string>
+	<string name="MyRecentItems_Dinner">Thực phẩm cho bữa tối gần đây</string>
+	<string name="MyRecentItems_Exercise">Bài tập gần đây</string>
+	<string name="MyRecentItems_Lunch">Thực phẩm cho bữa trưa gần đây</string>
+	<string name="MyRecentItems_Snack">Thực phẩm cho bữa ăn nhẹ gần đây</string>
+	<string name="PageTitle">NHẬT KÝ ĂN UỐNG</string>
+	<string name="PageTitleBase">NHẬT KÝ THỰC PHẨM- </string>
+	<string name="Period_Breakfast">Bữa sáng</string>
+	<string name="Period_Dinner">Bữa tối</string>
+	<string name="Period_Exercise">Thể dục</string>
+	<string name="Period_Lunch">Bữa trưa</string>
+	<string name="Period_Snack">Bữa ăn nhẹ</string>
+	<string name="Search">Tìm kiếm</string>
+	<string name="Today">Hôm nay</string>
+	<string name="StandardProperty_Amount">Số lượng</string>
+	<string name="StandardProperty_Calcium">Canxi</string>
+	<string name="StandardProperty_Calories">Calo</string>
+	<string name="StandardProperty_Carbs">Carbohydrate</string>
+	<string name="StandardProperty_Cholesterol">Cholesterol</string>
+	<string name="StandardProperty_Fiber">Chất xơ</string>
+	<string name="StandardProperty_Iron">Sắt</string>
+	<string name="StandardProperty_MonoFat">Chất béo không bão hòa đơn</string>
+	<string name="StandardProperty_PolyFat">Chất béo không bão hòa đa</string>
+	<string name="StandardProperty_Potassium">Kali</string>
+	<string name="StandardProperty_Protein">Protein</string>
+	<string name="StandardProperty_SatFat">Chất béo bão hòa</string>
+	<string name="StandardProperty_Sodium">Natri</string>
+	<string name="StandardProperty_Sugar">Đường</string>
+	<string name="StandardProperty_TotalFat">Tổng lượng chất béo</string>
+	<string name="StandardProperty_VitaminC">Vitamin C</string>
+	<string name="StandardProperty_VitaminD">Vitamin D</string>
+	<string name="StandardProperty_Weight">Trọng lượng</string>
+	<string name="Preferences">Tùy chọn</string>
+	<string name="EmptySearchList">Nhập cụm từ tìm kiếm</string>
+	<string name="NewItemSuffix">(thực phẩm mới)</string>
+	<string name="NewRecipeSuffix"> (công thức mới)</string>
+	<string name="SearchResults">Kết quả tìm kiếm</string>
+	<string name="SearchTermNotFound">không tìm thấy {0}, hãy thử thay đổi từ khóa</string>
+	<string name="AcceptNew">Thêm</string>
+	<string name="Name">Tên</string>
+	<string name="Nutrition">Dinh dưỡng</string>
+	<string name="PageTitleItemDetail">THÔNG TIN THỰC PHẨM</string>
+	<string name="EnterWeight">Vui lòng nhập trọng lượng trước tiên</string>
+	<string name="ServingSizes">Phần ăn</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Bao nhiêu\?</string>
+	<string name="MoreOptions">Thêm tùy chọn</string>
+	<string name="NoNutritionInfo">Không có thông tin dinh dưỡng</string>
+	<string name="AddServingSize">Thêm một phần ăn</string>
+	<string name="Add">Thêm</string>
+	<string name="SelectDate">Lịch</string>
+	<string name="Advertisement">Quảng cáo</string>
+	<string name="Unit_Centiliter">Xentilit</string>
+	<string name="Unit_Cup">Chén</string>
+	<string name="Unit_Deciliter">Đêxilít</string>
+	<string name="Unit_FluidOunce">Aoxơ lỏng</string>
+	<string name="Unit_Gallon">Galông</string>
+	<string name="Unit_Gram">Gam</string>
+	<string name="Unit_Kilogram">Kilôgam</string>
+	<string name="Unit_Liter">Lít</string>
+	<string name="Unit_Milliliter">Mililít</string>
+	<string name="Unit_Ounce">Aoxơ</string>
+	<string name="Unit_Pint">Panh</string>
+	<string name="Unit_Pound">Cân Anh</string>
+	<string name="Unit_Quart">Lít Anh</string>
+	<string name="Unit_Tablespoon">Muỗng</string>
+	<string name="Unit_Teaspoon">Muỗng cà phê</string>
+	<string name="Units_Centiliter">Xentilit</string>
+	<string name="Units_Cup">Chén</string>
+	<string name="Units_Deciliter">Đêxilít</string>
+	<string name="Units_FluidOunce">Aoxơ lỏng</string>
+	<string name="Units_Gallon">Galông</string>
+	<string name="Units_Gram">Gam</string>
+	<string name="Units_Kilogram">Kilôgram</string>
+	<string name="Units_Liter">Lít</string>
+	<string name="Units_Milliliter">Mililít</string>
+	<string name="Units_Ounce">Aoxơ</string>
+	<string name="Units_Pint">Panh</string>
+	<string name="Units_Pound">Cân anh</string>
+	<string name="Units_Quart">Lít Anh</string>
+	<string name="Units_Tablespoon">Muỗng</string>
+	<string name="Units_Teaspoon">Muỗng cà phê</string>
+	<string name="DatabaseCulture">vi</string>
+	<string name="FeedbackSubject">E-mail từ Nhật ký ăn uống</string>
+	<string name="Equivalent">Số lượng</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">đang nạp ...</string>
+	<string name="ExpiredCaption">Cập nhật ngay bây giờ\?</string>
+	<string name="ExpiredMessage">Cảm ơn bạn đã sử dụng ứng dụng! Bản sao này bây giờ đã hết hạn. Để cập nhật, vui lòng bấm Ok để tới trang download.</string>
+	<string name="AgentDescription">Thao tác này sẽ cập nhật ô “Live Tile” của ứng dụng Nhật ký ăn uống.</string>
+	<string name="AgentDisabled">Bạn đã vô hiệu hóa ứng dụng “Live Tile” trong điện thoại.</string>
+	<string name="PageTitleSettings">Tùy chọn của tôi</string>
+	<string name="EnableLiveTile">Đếm số bữa ăn bị thiếu trên “ô tile” của ứng dụng</string>
+	<string name="Reminders">Lời nhắc</string>
+	<string name="SettingsScreen">Thiết lập</string>
+	<string name="PinToStart">Thiết lập “ô tile”</string>
+	<string name="OpenReport">Báo cáo</string>
+	<string name="Report">Báo cáo</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Muỗng cà phê = 7.2 g|Muỗng canh = 12 g|1 phục vụ = 28 g|Mảnh = 14 g|Lát = 12 g|1 ly = 237 g</string>
+	<string name="TakeAPicture">Chụp ảnh</string>
+	<string name="ReviewBody">Cảm ơn bạn đã sử dụng ứng dụng này! Nếu bạn thấy nó hữu ích, xin vui lòng để lại một bài đánh giá để ủng hộ ứng dụng.</string>
+	<string name="ReviewTitle">Để lại đánh giá\?</string>
+	<string name="Goals">Mục tiêu</string>
+	<string name="NoGoalSet">Không có thiết lập mục tiêu</string>
+	<string name="EndOfDay">Vào cuối ngày</string>
+	<string name="ReminderContent">Bạn đã ăn những gì\?</string>
+	<string name="ReminderTitle">Nhắc nhở: cập nhật nhật ký của bạn</string>
+	<string name="ReminderDescription">lời nhắc được chọn sẽ xuất hiện nếu bạn chưa cập nhật nhật ký của mình theo thời gian đã định</string>
+	<string name="ScreenshotTitles">Nước cam, 1 cốc, bánh mì nướng, 1 lát, trứng, 1 trung bình, Apple, cà phê, chuối</string>
+	<string name="GoalOver">vượt mục tiêu {0}</string>
+	<string name="GoalUnder">còn lại{0}</string>
+	<string name="OpenJournal">Sổ ký sự</string>
+	<string name="RemoveAdsText">Chọn OK để gỡ bỏ quảng cáo khỏi ứng dụng.</string>
+	<string name="RemoveAdsTitle">Gỡ bỏ quảng cáo\?</string>
+	<string name="StoreException">Có vấn đề về kết nối với cửa hàng Windows Phone. Xin vui lòng thử lại sau.</string>
+	<string name="Feedback_Email">Báo cáo sự cố</string>
+	<string name="Feedback_EmailText">Gợi ý tính năng hoặc đặt câu hỏi</string>
+	<string name="Feedback_Rate">Đánh giá ứng dụng này</string>
+	<string name="Feedback_RateText">Thông tin phản hồi cụ thể sẽ giúp cải thiện ứng dụng</string>
+	<string name="Feedback_Screenshot">Giúp cải thiện bản dịch</string>
+	<string name="Feedback_ScreenshotText">Đi kèm một màn hình chụp</string>
+	<string name="Feedback_Share">Chia sẻ liên kết</string>
+	<string name="Feedback_ShareText">Để tải ứng dụng này</string>
+	<string name="ScreenshotSubject">Nội dung nhật ký ăn uống</string>
+	<string name="ShareMessage">Xem ứng dụng Nhật ký ăn uống cho Windows Phone</string>
+	<string name="ShareTitle">Nhật ký ăn uống</string>
+	<string name="CommonItems_Breakfast">Thực phẩm thường có trong bữa sáng</string>
+	<string name="CommonItems_Dinner">Thực phẩm thường có trong bữa tối</string>
+	<string name="CommonItems_Lunch">Thực phẩm thường có trong bữa trưa</string>
+	<string name="CommonItems_Snack">Thực phẩm thường có trong bữa ăn nhẹ</string>
+	<string name="Meals">Bữa ăn</string>
+	<string name="Period_SnackMorning">Buổi sáng</string>
+	<string name="Period_SnackEarlyAfternoon">Đầu buổi chiều</string>
+	<string name="Period_SnackAfternoon">Buổi chiều</string>
+	<string name="Meals_SnackMorningEnabled">Bữa ăn nhẹ vào buổi sáng</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Bữa ăn nhẹ đầu giờ chiều</string>
+	<string name="Meals_SnackAfternoonEnabled">Bữa ăn nhẹ vào buổi chiều</string>
+	<string name="Period_SnackEvening">Buổi tối</string>
+	<string name="Meals_SnackMidnightEnabled">Bữa ăn nhẹ vào nửa đêm</string>
+	<string name="Period_SnackMidnight">Nửa đêm</string>
+	<string name="Meals_SnacksCombined">Kết hợp đồ ăn nhẹ</string>
+	<string name="Meals_SnackEveningEnabled">Bữa ăn nhẹ vào buổi tối</string>
+	<string name="MyRecentItems_SnackAfternoon">Thực phẩm cho bữa chiều gần đây</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Thực phẩm cho bữa ăn đầu giờ chiều gần đây</string>
+	<string name="MyRecentItems_SnackEvening">Thực phẩm cho bữa tối gần đây</string>
+	<string name="MyRecentItems_SnackMidnight">Thực phẩm cho bữa nửa đêm gần đây</string>
+	<string name="MyRecentItems_SnackMorning">Thực phẩm ăn sáng gần đây</string>
+	<string name="CommonItems_SnackAfternoon">Thực phẩm thường ăn vào buổi chiều</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Thực phẩm thường ăn vào đầu giờ chiều</string>
+	<string name="CommonItems_SnackEvening">Thực phẩm thường ăn vào buổi tối</string>
+	<string name="CommonItems_SnackMidnight">Thực phẩm thường ăn vào nửa đêm</string>
+	<string name="CommonItems_SnackMorning">Thực phẩm thường ăn vào buổi sáng</string>
+	<string name="UnlockFullBody">Cảm ơn bạn đã cố gắng Nhật ký thực phẩm. Bạn có thử nghiệm {0} ngày còn lại. Bấm OK để mở khóa các ứng dụng.</string>
+	<string name="UnlockFullTitle">Mở khóa bây giờ\?</string>
+	<string name="TrialExpiredBody">Thử nghiệm của bạn bây giờ đã hết hạn. Bạn vẫn có thể xem Nhật ký của bạn, nhưng bạn không thể thêm mục mới. Chọn OK để mở khóa các phiên bản đầy đủ.</string>
+	<string name="Feedback_RemoveAds">Loại bỏ quảng cáo</string>
+	<string name="Feedback_RemoveAdsText">Loại bỏ vĩnh viễn tất cả quảng cáo</string>
+	<string name="StoreText_5">Tải ngay bây giờ bởi vì bạn sẽ thích sử dụng nó.</string>
+	<string name="AppTitle">Nhật ký ăn uống</string>
+	<string name="StoreText_4">TÍNH NĂNG PREMIUM:
+1. không có quảng cáo thêm.
+2. cơ sở dữ liệu thực phẩm lớn hơn nhiều.
+3. khả năng để e-mail cho mình một bản sao của chăn nuôi bò sữa.
+4. thêm cấu hình lựa chọn, bao gồm khả năng để nhập tối đa 8 riêng biệt bữa ăn một ngày.</string>
+	<string name="StoreText_3">TÍNH NĂNG:
+1. một thiết kế đơn giản và mạnh mẽ: các ứng dụng mở trực tiếp trên màn hình nhập cảnh, trên các bữa ăn gần đây nhất, bởi vì đó là những gì bạn sẽ sử dụng nhất. Việc thiết kế làm cho thêm mục như đơn giản và trực quan nhất có thể.
+2. một vòi mục với lời đề nghị được cá nhân hoá: các mặt hàng thực phẩm phổ biến nhất có thể ngay lập tức được chọn. Bài gần đây của bạn bắt đầu vào ngày thứ hai, được đề nghị bởi vì bạn có thể ăn thực phẩm cùng thường xuyên.
+3. đăng nhập không cần: không có dữ liệu cá nhân hoặc thông tin liên lạc là bắt buộc.
+4. hàng ngàn mục đã có trong cơ sở dữ liệu: hầu hết các mặt hàng thực phẩm có các thông tin chính xác về phổ biến phục vụ kích thước, năng lượng, carbohydrate, protein và chất béo. 
+5. đầy đủ không trực tuyến hỗ trợ: không cần phải được kết nối với internet. 
+6. chính xác nhập cũng là dễ dàng: bạn có thể chính xác nhập số tiền chính xác bằng cách sử dụng một thanh trượt.
+7. hàng ngày báo cáo: sử dụng trình đơn, bạn có thể trực tiếp mở cuốn nhật ký, trong đó cho thấy một bản tóm tắt trong ngày của bạn. Ở đây bạn có thể chuyển đổi giữa các calo, protein và carbohydrate bằng cách nhấn vào hình tam giác nhỏ.
+8. theo dõi mục tiêu của bạn: sau khi nhập mục tiêu cá nhân của bạn, bạn có thể sử dụng báo cáo tuần để xem xu hướng của bạn. 
+9. cá nhân nhắc nhở giúp bạn ở lại trên mục tiêu: họ là một cách thuận tiện để đảm bảo rằng bạn điền vào trong Nhật ký của bạn, sau mỗi bữa ăn, hoặc vào cuối ngày.
+
+Nó là một ý tưởng tốt để xác minh các thông tin trong cơ sở dữ liệu là giống như các thông tin trên bao bì thực phẩm của bạn; thực phẩm dinh dưỡng biến động với thương hiệu và theo thời gian.
+
+Đảm bảo rằng bạn để thảo luận về mục tiêu của bạn với bác sĩ hoặc dinh dưỡng chuyên gia của bạn.</string>
+	<string name="StoreText_2">VỀ CÁC ỨNG DỤNG:
+Theo dõi của những gì bạn ăn đã được hiển thị để giúp ngăn chặn và ngừng ăn quá.
+Ứng dụng này sẽ giúp bạn kiểm soát chế độ ăn uống của bạn và ăn lành mạnh, bằng cách làm cho nó dễ dàng để theo dõi những gì bạn ăn. Thiết kế được tối ưu hoá để làm cho nhập cảnh càng nhanh càng thực phẩm có thể, với 1 Click vào mục, và gần đây đề xuất. Cơ sở dữ liệu được xây dựng tại đã có hàng ngàn loại thức ăn và nếu bạn không biết, bổ sung chúng rất dễ dàng.
+
+Xin lưu ý: Ứng dụng này là miễn phí để tải về, và được hỗ trợ bởi quảng cáo. Bạn có thể sử dụng nó miễn phí miễn là bạn thích. Nó có thể loại bỏ các quảng cáo cho một khoản phí, mà sẽ cũng cho phép tính năng bổ sung.</string>
+	<string name="StoreText_1">Nhật ký thực phẩm: Của bạn chế độ ăn uống và calo theo dõi ứng dụng.</string>
+	<string name="StoreKeyword_5">Dinh dưỡng</string>
+	<string name="StoreKeyword_4">Calo</string>
+	<string name="StoreKeyword_3">Chế độ ăn uống</string>
+	<string name="StoreKeyword_2">Ghi chép ăn uống</string>
+	<string name="StoreKeyword_1">Bảng tính calo</string>
+	<string name="Screenshot_H3">Chuối</string>
+	<string name="Screenshot_H2">Cà phê</string>
+	<string name="Screenshot_H1">Táo</string>
+	<string name="Screenshot_3a">Trứng</string>
+	<string name="Screenshot_2b">1 lát</string>
+	<string name="Screenshot_2a">Bánh mì nướng</string>
+	<string name="Screenshot_1b">1 chén</string>
+	<string name="Screenshot_1a">Nước cam</string>
+	<string name="Product_2">Cảm ơn bạn đã hỗ trợ của bạn! Sử dụng tùy chọn này để vĩnh viễn loại bỏ quảng cáo từ ứng dụng Nhật ký thực phẩm của bạn.</string>
+	<string name="Product_1">Loại bỏ quảng cáo</string>
+	<string name="CantCalculateNutrition">Nhập trọng lượng</string>
+	<string name="TrialExpiredTitle">Thời gian dùng thử đã hết, mở khóa bây giờ\?</string>
+	<string name="Screenshot_3b">1 cỡ trung</string>
+	<string name="SendFeedback">Về ứng dụng</string>
+	<string name="Feedback_Header">Cách nhanh nhất và dễ nhất để theo dõi những gì bạn ăn.
+
+Di chuyển xuống cho các thông tin về dữ liệu chính xác.</string>
+	<string name="Feedback_Unlock">Nâng cấp ngay bây giờ</string>
+	<string name="Feedback_UnlockText">Mua phiên bản trả phí</string>
+	<string name="EmailReport_SubjectTemplate">Ghi chép ăn uống cho {0}</string>
+	<string name="EmailReport_Exception">Đã xảy ra lỗi. Ghi chép đã không được gửi.</string>
+	<string name="EmailReport_InvalidEmailAddress">Vui lòng nhập một địa chỉ e-mail hợp lệ.</string>
+	<string name="Total">Tổng cộng</string>
+	<string name="Price">chỉ {0}</string>
+	<string name="Feature6_Text">Hỗ trợ phát triển</string>
+	<string name="Feedback_Footer">TUYÊN BỐ TỪ CHỐI:
+Hầu hết, nhưng không phải tất cả điểm dữ liệu trong cơ sở dữ liệu đến từ nguồn có uy tín. Chúng tôi làm tốt nhất của chúng tôi để đảm bảo rằng tất cả giá trị chính xác, nhưng không thể được tổ chức chịu trách nhiệm về dữ liệu không chính xác hoặc thiếu. Giá trị dinh dưỡng khác nhau theo nhãn hiệu và theo thời gian. Bằng cách sử dụng ứng dụng này, bạn đồng ý để kiểm tra và sửa chữa bất kỳ dữ liệu nào trong ứng dụng, và được hoàn toàn chịu trách nhiệm về thương tích hay thiệt hại do việc sử dụng của nó.
+
+Xin vui lòng cho tôi biết nếu có bất cứ điều gì tôi có thể giúp bạn với.</string>
+	<string name="Feature6_Desc">Giúp cập nhật ứng dụng</string>
+	<string name="GetAllFeatures">Cài đặt TẤT CẢ các tính năng</string>
+	<string name="Feature_Header">Bao gồm:</string>
+	<string name="Feature_Footer">* LƯU Ý: Hầu hết, nhưng không phải tất cả các dữ liệu đến từ những nguồn có uy tín. Bằng việc sử dụng phiên bản trả phí, bạn chấp nhận trách nhiệm hoàn toàn đối với độ chính xác và đầy đủ của dữ liệu. Vui lòng gửi thư tới địa chỉ e-mail daily.journal@outlook.com để biết thêm chi tiết.</string>
+	<string name="Feature5_Text">Tính năng mới</string>
+	<string name="Feature5_Desc">Cập nhật để trải nghiệm các tính năng bổ sung</string>
+	<string name="Feature4_Text">Thêm bữa ăn</string>
+	<string name="Feature4_Desc">Để theo dõi 5, 6 hoặc nhiều hơn số bữa ăn mỗi ngày</string>
+	<string name="Feature3_Text">Thêm thực phẩm *</string>
+	<string name="Feature3_Desc">Thêm hàng trăm đến hàng ngàn loại thực phẩm (tùy thuộc vào vị trí địa lý của bạn)</string>
+	<string name="Feature2_Text">Gửi báo cáo qua e-mail</string>
+	<string name="Feature2_Desc">Gửi ghi chép của bạn vào hòm thư điện tử để lưu lại, in ra hoặc phân tích nó.</string>
+	<string name="Feature1_Text">Không có quảng cáo</string>
+	<string name="Feature1_Desc">Tất cả quảng cáo đã bị xoá vĩnh viễn</string>
+	<string name="BuyNow">Mua ngay</string>
+	<string name="EmailReport_ShowSettings">Gửi qua thư điện tử</string>
+	<string name="EmailReport_SendNow">Gửi ngay bây giờ</string>
+	<string name="EmailReport_Address">Địa chỉ e-mail</string>
+	<string name="Product_4">Truy cập vào tất cả các tính năng</string>
+	<string name="Product_3">Nâng cấp lên premium</string>
+	<string name="EmailReport_Footer2">LƯU Ý: Hầu hết, nhưng không phải tất cả thành phần trong cơ sở dữ liệu đến từ những nguồn có uy tín. Chúng tôi đã làm hết khả năng để đảm bảo rằng các giá trị là chính xác. Tuy nhiên, chúng tôi sẽ không chịu trách nhiệm về bất cứ tính không chính xác hay thiếu sót nào của dữ liệu. Bằng việc sử dụng ứng dụng này, bạn thừa nhận và chấp nhận trách nhiệm hoàn toàn đối với việc kiểm tra tính chính xác của dữ liệu. Ứng dụng cho phép bạn cập nhật bất kỳ sự thiếu chính xác nào bạn tìm ra.</string>
+	<string name="EmailReport_Footer1">Tạp chí của AAA
+Câu hỏi hay bình luận\? Trả lời với BBB</string>
+	<string name="Localization_Submit">Gửi</string>
+	<string name="Localization_TranslationsText">Xin vui lòng cập nhật các văn bản trong danh sách này với bản dịch tốt hơn. Loại bỏ tất cả văn bản cho các mục mà là không thích hợp cho khu vực của bạn.</string>
+	<string name="Localization_ThankYou">Cảm ơn sự giúp đỡ của bạn!</string>
+	<string name="Localization_Translations">Bản dịch</string>
+	<string name="Localization_Text">Bạn có thể giúp cải thiện ứng dụng này tại đây.</string>
+	<string name="Localization_Original">Ban đầu:</string>
+	<string name="Localization_Good">Tốt</string>
+	<string name="Localization_Description">Mô tả:</string>
+	<string name="Feedback_LocalizeText">Giúp cải thiện ứng dụng</string>
+	<string name="Localization_CommentText">Nhập địa chỉ e-mail của bạn nếu muốn liên hệ.</string>
+	<string name="Localization_Comment">Bình luận</string>
+	<string name="Feedback_Localize">Cải thiện bản dịch</string>
+	<string name="AddToLauncher">Thêm vào launcher</string>
+	<string name="Avg">Trung bình</string>
+	<string name="Cancel">Hủy bỏ</string>
+	<string name="CopyFromSimilarItem">Sao chép từ món tương tự</string>
+	<string name="DeleteEntry">Xóa ghi chép</string>
+	<string name="EnterTheWeightForThisAmount">Nhập trọng lượng cho món này</string>
+	<string name="MoreOptions2">Thêm tùy chọn</string>
+	<string name="None">Không có</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 ngày bán: {0} % off</string>
+	<string name="Total2">Tổng cộng</string>
+	<string name="EmailReport_Footer1a">Ghi chép của AAA</string>
+	<string name="EmailReport_Footer1b">Hỏi hay bình luận\? Trả lời lại BBB</string>
+	<string name="Add_New">KHOẢN MỤC MỚI</string>
+	<string name="Add_Note">THÊM MỘT GHI CHÚ</string>
+	<string name="add_target">THÊM DINH DƯỠNG</string>
+	<string name="choose_time">Đặt thời gian</string>
+	<string name="daily_target">Dinh dưỡng</string>
+	<string name="daily_target_hint">Mục tiêu hàng ngày (tùy chọn)</string>
+	<string name="describe_goal">Mô tả mục tiêu của bạn ở đây</string>
+	<string name="drawer_close">Đóng</string>
+	<string name="drawer_open">Mở</string>
+	<string name="edit_meals">CHỌN MENUS</string>
+	<string name="enter_meal_time">Nhập thời gian cho mỗi bữa ăn</string>
+	<string name="enter_serving_weight">Nhập trọng lượng (g) đầu tiên</string>
+	<string name="enter_value">Nhập dinh dưỡng</string>
+	<string name="get_started">Hãy bắt đầu!</string>
+	<string name="get_started_second_text">Bấm vào \'+\' để thêm một mục nhập vào tạp chí của bạn.</string>
+	<string name="Input_Notes">Nhập ghi chú của bạn ở đây</string>
+	<string name="meal_options">Lựa chọn bữa ăn</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Mục tiêu cá nhân</string>
+	<string name="Per_Cup">1 chén (250 gram) NOTUSED</string>
+	<string name="Per_Grams">100 gam</string>
+	<string name="portion_caption">phần</string>
+	<string name="RadioButton_Alpha">theo thứ tự ABC NOTYETUSED</string>
+	<string name="RadioButton_Sort">sắp xếp theo lịch sử NOTYETUSED</string>
+	<string name="Serving">Phục vụ</string>
+	<string name="Show_More_Options">THÊM TÙY CHỌN</string>
+	<string name="show_total_with_meal">Hiển thị một mục tiêu dinh dưỡng</string>
+	<string name="target_date">Mục tiêu ngày</string>
+	<string name="target_date_hint">Chọn ngày mục tiêu của bạn</string>
+	<string name="transition_name_circle">chuyển tiếp: vòng tròn</string>
+	<string name="transition_name_name">quá trình chuyển đổi: tên</string>
+	<string name="transition_name_phone">chuyển tiếp: điện thoại</string>
+	<string name="Type_Name">Tìm</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Đơn vị số liệu</string>
+	<string name="Units_US">US đơn vị</string>
+	<string name="Upgrade">Nâng cấp</string>
+	<string name="weight_gram">trọng lượng (g)</string>
+	<string name="InvalidEmailError">Địa chỉ e-mail không hợp lệ</string>
+	<string name="NoGoalsTitle">Tất cả các mục</string>
+	<string name="SendReportTitle">Gửi báo cáo</string>
+	<string name="DeleteEntryMessage">Xoá mục này\?</string>
+	<string name="NewBody">Nhiều cải tiến bao gồm: ghi chú, thêm thực phẩm, thiết kế tốt hơn, và nhiều hơn nữa.
+Download miễn phí\?</string>
+	<string name="NewTitle">Phiên bản 2.0 bây giờ có sẵn!</string>
+</resources>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Page
+    x:Class="FoodJournal.Views.DayPivot"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FoodJournal.UWP"
+    xmlns:controls="clr-namespace:Windows.UI.Xaml.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+  <Grid x:Name="LayoutRoot">
+
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <Grid Grid.Row="0" Padding="12,17,12,0">
+      <TextBlock Text="{Binding PageTitle}" FontSize="36" />
+      <!-- not updating when items tapped (so not working yet) 
+            <TextBlock Text="{Binding DayTotal}" HorizontalAlignment="Right" Style="{StaticResource PhoneTextNormalStyle}" Tap="DayTotalTap"/>
+-->
+    </Grid>
+
+    <!--ContentPanel - place additional content here-->
+    <Grid Grid.Row="1" Padding="0,0,0,0" x:Name="PageContent">
+
+      <!--            <ListBox Margin="12,0" Height="{Binding ElementName=Content, Path=ActualHeight}" Visibility="{Binding ResultsVisibility}" ItemsSource="{Binding SearchResults}" ItemTemplate="{StaticResource ItemRow}" toolkit:TiltEffect.IsTiltEnabled="True" VerticalAlignment="Top"/>
+-->
+
+      <controls:Pivot x:Name="Pivot" SelectionChanged="Pivot_SelectionChanged">
+        <controls:Pivot.ItemContainerStyle>
+          <Style TargetType="controls:PivotItem">
+            <Setter Property="Margin" Value="0,12"/>
+            <Setter Property="Padding" Value="0"/>
+          </Style>
+        </controls:Pivot.ItemContainerStyle>
+
+
+      </controls:Pivot>
+
+    </Grid>
+    <!--        <local:Advertisement Grid.Row="2" />
+-->
+  </Grid>
+
+</Page>

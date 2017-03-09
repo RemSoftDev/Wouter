@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="Delete">حذف</string>
+	<string name="Search">جستجو</string>
+	<string name="Today">امروز</string>
+	<string name="StandardProperty_Amount">مقدار</string>
+	<string name="StandardProperty_Weight">وزن</string>
+	<string name="Preferences">ترجيحات</string>
+	<string name="NewItemSuffix"> (مورد جدید)</string>
+	<string name="SearchResults">نتایج جستجو</string>
+	<string name="AcceptNew">افزودن</string>
+	<string name="Name">نام</string>
+	<string name="MoreOptions">گزینه های بیشتر</string>
+	<string name="Add">افزودن</string>
+	<string name="SelectDate">تقویم</string>
+	<string name="Advertisement">تبلیغات</string>
+	<string name="Unit_Gram">گرم</string>
+	<string name="Unit_Kilogram">کیلوگرم</string>
+	<string name="Unit_Liter">لیتر</string>
+	<string name="Unit_Ounce">اونس</string>
+	<string name="Unit_Pound">پوند</string>
+	<string name="DatabaseCulture">FA</string>
+	<string name="Equivalent">مقدار</string>
+	<string name="Loading">در حال بارگذاری...</string>
+	<string name="ExpiredCaption">اکنون به روز شود</string>
+	<string name="Reminders">‏‏يادآورها</string>
+	<string name="SettingsScreen">تنظیمات</string>
+	<string name="OpenReport">گزارش</string>
+	<string name="Report">گزارش</string>
+	<string name="TakeAPicture">گرفتن عکس</string>
+	<string name="OpenJournal">روزنگار</string>
+	<string name="Feedback_Email">گزارش یک مشکل</string>
+	<string name="Period_SnackMorning">صبح</string>
+	<string name="Period_SnackAfternoon">بعد از ظهر</string>
+	<string name="Period_SnackMidnight">نیمه شب</string>
+	<string name="Screenshot_H3">موز</string>
+	<string name="Screenshot_H2">قهوه</string>
+	<string name="Screenshot_H1">سیب</string>
+	<string name="ApplicationTitle">دفتر خاطرات روزانه غذا</string>
+	<string name="CommonItems">موارد مشترک</string>
+	<string name="EmptyEntryList">هیچ چیز انتخاب شده</string>
+	<string name="MyRecentItems_Breakfast">موارد اخیر صبحانه</string>
+	<string name="MyRecentItems_Dinner">موارد اخیر شام</string>
+	<string name="MyRecentItems_Exercise">من excersizes های اخیر</string>
+	<string name="MyRecentItems_Lunch">موارد اخیر ناهار</string>
+	<string name="MyRecentItems_Snack">موارد اخیر میان وعده</string>
+	<string name="PageTitle">دفتر خاطرات روزانه غذا</string>
+	<string name="PageTitleBase">دفتر خاطرات روزانه غذا- </string>
+	<string name="Period_Breakfast">صبحانه</string>
+	<string name="Period_Dinner">شام</string>
+	<string name="Period_Exercise">ورزش</string>
+	<string name="Period_Lunch">ناهار</string>
+	<string name="Period_Snack">اسنک</string>
+	<string name="StandardProperty_Calcium">کلسیم</string>
+	<string name="StandardProperty_Calories">کالری</string>
+	<string name="StandardProperty_Carbs">کربوهیدرات</string>
+	<string name="StandardProperty_Cholesterol">کلسترول</string>
+	<string name="StandardProperty_Fiber">فیبر</string>
+	<string name="StandardProperty_Iron">آهن</string>
+	<string name="StandardProperty_MonoFat">چربی اشباع نشده</string>
+	<string name="StandardProperty_PolyFat">چربی اشباع نشده</string>
+	<string name="StandardProperty_Potassium">پتاسیم</string>
+	<string name="StandardProperty_Protein">پروتئین</string>
+	<string name="StandardProperty_SatFat">چربی اشباع شده</string>
+	<string name="StandardProperty_Sodium">سدیم</string>
+	<string name="StandardProperty_Sugar">شکر</string>
+	<string name="StandardProperty_TotalFat">چربی کل</string>
+	<string name="StandardProperty_VitaminC">ویتامین C</string>
+	<string name="StandardProperty_VitaminD">ویتامین D</string>
+	<string name="EmptySearchList">عبارت جستجو را وارد کنید</string>
+	<string name="NewRecipeSuffix"> (دستور العمل جدید)</string>
+	<string name="SearchTermNotFound">{0} یافت نشد، سعی کنید تغییر عبارت جستجوی خود را</string>
+	<string name="Nutrition">تغذیه</string>
+	<string name="PageTitleItemDetail">اطلاعات غذایی</string>
+	<string name="EnterWeight">لطفا وزن اول را وارد کنید</string>
+	<string name="ServingSizes">خدمت حجم</string>
+	<string name="CantCalculateNutrition">وزن را وارد کنید</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">چقدر\?</string>
+	<string name="NoNutritionInfo">هیچ اطلاعاتی در مورد تغذیه</string>
+	<string name="AddServingSize">اضافه خدمت حجم</string>
+	<string name="Unit_Centiliter">Centiliter</string>
+	<string name="Unit_Cup">جام</string>
+	<string name="Unit_Deciliter">دسي ليتر،</string>
+	<string name="Unit_FluidOunce">واحد گنجایش مایعات</string>
+	<string name="Unit_Gallon">گالن</string>
+	<string name="Unit_Milliliter">میلی لیتر</string>
+	<string name="Unit_Pint">پاینت</string>
+	<string name="Unit_Quart">کوارت</string>
+	<string name="Unit_Tablespoon">قاشق غذا خوری</string>
+	<string name="Unit_Teaspoon">قاشق چای خوری</string>
+	<string name="Units_Centiliter">Centiliters</string>
+	<string name="Units_Cup">فنجان</string>
+	<string name="Units_Deciliter">Deciliters</string>
+	<string name="Units_FluidOunce">اونس مایع</string>
+	<string name="Units_Gallon">گالن</string>
+	<string name="Units_Gram">گرم</string>
+	<string name="Units_Kilogram">کیلوگرم</string>
+	<string name="Units_Liter">لیتر</string>
+	<string name="Units_Milliliter">میلی لیتر</string>
+	<string name="Units_Ounce">اونس</string>
+	<string name="Units_Pint">پیمانه نیم لیتری</string>
+	<string name="Units_Pound">پوند</string>
+	<string name="Units_Quart">کوارتی</string>
+	<string name="Units_Tablespoon">قاشق غذا خوری</string>
+	<string name="Units_Teaspoon">قاشق چای خوری</string>
+	<string name="FeedbackSubject">ایمیل از یادداشت های مواد غذایی</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="ExpiredMessage">با تشکر از شما برای استفاده از این برنامه! این نسخه در حال حاضر منقضی شده است. اما نگران نباشید، ما شما را به صفحه دانلود به روز رسانی اگر شما "موافق" را فشار دهید.</string>
+	<string name="AgentDescription">این کار به روز رسانی کاشی زنده برای یادداشت های مواد غذایی.</string>
+	<string name="AgentDisabled">کاربرد کاشی زنده در تنظیمات گوشی را غیر فعال اند.</string>
+	<string name="PageTitleSettings">تنظیمات من</string>
+	<string name="EnableLiveTile">تعداد وعده های غذایی از دست رفته در کاشی app</string>
+	<string name="PinToStart">راه اندازی کاشی</string>
+	<string name="CommonServingSizes">100 اونس g|1 = 28 g|قاشق چای خوری = 4.5 g|قاشق = 12 g|1 خدمت = 28 g|قطعه = 14 g|قاچ = 12 فنجان g|1 = 237 g</string>
+	<string name="ReviewBody">با تشکر از شما برای استفاده از این برنامه! اگر شما آن را پیدا مفید، لطفا با ترک یک بررسی در موفق شدن آن کمک کنید.</string>
+	<string name="ReviewTitle">بررسی کند؟</string>
+	<string name="Goals">اهداف</string>
+	<string name="NoGoalSet">هیچ تعیین هدف</string>
+	<string name="EndOfDay">در پایان روز</string>
+	<string name="ReminderContent">شما چیزی خورده اید؟</string>
+	<string name="ReminderTitle">یادآوری: خاطرات خود را به روز رسانی</string>
+	<string name="ReminderDescription">اگر شما به روز شده خود خاطرات زمان انتخاب یادآور انتخاب شده ظاهر می شود</string>
+	<string name="ScreenshotTitles">آب پرتقال، 1 فنجان نان تست، 1 قاچ، تخم مرغ، متوسط 1، اپل، قهوه، موز</string>
+	<string name="GoalOver">{0} بیش از هدف</string>
+	<string name="GoalUnder">{0} باقی مانده</string>
+	<string name="RemoveAdsText">برای حذف تبلیغات از نرم افزار تأیید را انتخاب کنید.</string>
+	<string name="RemoveAdsTitle">تبلیغات حذف شود؟</string>
+	<string name="StoreException">مشکل در اتصال به فروشگاه Windows Phone بود. لطفا بعدا دوباره امتحان کنید.</string>
+	<string name="Feedback_EmailText">پیشنهاد یک ویژگی یا یک سوال بپرسید</string>
+	<string name="Feedback_Rate">امتیاز این برنامه</string>
+	<string name="Feedback_RateText">انتقادات و پیشنهادات خاص کمک می کند تا در بهبود برنامه</string>
+	<string name="Feedback_Screenshot">کمک به بهبود ترجمه</string>
+	<string name="Feedback_ScreenshotText">ضبط صفحه گنجانده شده است</string>
+	<string name="Feedback_Share">تقسیم پیوند</string>
+	<string name="Feedback_ShareText">برای دانلود این برنامه</string>
+	<string name="ScreenshotSubject">متن دفتر خاطرات روزانه مواد غذایی</string>
+	<string name="ShareMessage">از دفتر خاطرات غذا برای Windows Phone</string>
+	<string name="ShareTitle">دفتر خاطرات روزانه غذا</string>
+	<string name="CommonItems_Breakfast">آیتم های صبحانه رایج</string>
+	<string name="CommonItems_Dinner">آیتم های رایج شام</string>
+	<string name="CommonItems_Lunch">آیتم های رایج ناهار</string>
+	<string name="CommonItems_Snack">آیتم های رایج میان وعده</string>
+	<string name="Meals">وعده های غذایی</string>
+	<string name="Period_SnackEarlyAfternoon">اوایل بعد از ظهر</string>
+	<string name="Meals_SnackMorningEnabled">میان وعده صبح جداگانه</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">جداگانه در اوایل میان وعده بعد از ظهر</string>
+	<string name="Meals_SnackAfternoonEnabled">جداگانه میان وعده بعد از ظهر</string>
+	<string name="Period_SnackEvening">شب</string>
+	<string name="Meals_SnackMidnightEnabled">اسنک نیمه شب جداگانه</string>
+	<string name="Meals_SnacksCombined">ترکیب میان وعده</string>
+	<string name="Meals_SnackEveningEnabled">میان وعده عصر جداگانه</string>
+	<string name="MyRecentItems_SnackAfternoon">موارد اخیر بعد از ظهر</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">مورد اخیر در اوایل بعد از ظهر</string>
+	<string name="MyRecentItems_SnackEvening">آیتم های شب اخير</string>
+	<string name="MyRecentItems_SnackMidnight">موارد اخیر نیمه شب</string>
+	<string name="MyRecentItems_SnackMorning">موارد اخیر صبح</string>
+	<string name="CommonItems_SnackAfternoon">آیتم های رایج بعد از ظهر</string>
+	<string name="CommonItems_SnackEarlyAfternoon">آیتم های رایج اوایل بعد از ظهر</string>
+	<string name="CommonItems_SnackEvening">آیتم های رایج عصر</string>
+	<string name="CommonItems_SnackMidnight">آیتم های رایج نیمه شب</string>
+	<string name="CommonItems_SnackMorning">آیتم های رایج صبح</string>
+	<string name="UnlockFullBody">از شما به خاطر تلاش دفتر خاطرات روزانه غذا. شما {0} محاکمه روز باقی مانده است. مطبوعات خوب برای باز کردن برنامه است.</string>
+	<string name="UnlockFullTitle">در حال حاضر باز است؟</string>
+	<string name="TrialExpiredBody">محاکمه خود را در حال حاضر منقضی شده است. شما هنوز هم می توانید مشاهده مجله، اما نمی توانید ورودی های جدید اضافه کنید. برای باز کردن نسخه کامل "تأیید" را انتخاب کنید.</string>
+	<string name="TrialExpiredTitle">دوره آزمایشی منقضی شده, باز کردن\?</string>
+	<string name="Feedback_RemoveAds">حذف تبلیغات</string>
+	<string name="Feedback_RemoveAdsText">طور دائم حذف تمام تبلیغات</string>
+	<string name="StoreText_5">دانلود در حال حاضر از آنجا که شما را دوست دارم با استفاده از آن.</string>
+	<string name="AppTitle">دفتر خاطرات روزانه غذا</string>
+	<string name="Screenshot_3b">1 متوسط</string>
+	<string name="StoreText_4">ویژگی های حق بیمه:
+1-بدون تبلیغات بیشتر.
+2-پایگاه داده بسیار بزرگتر غذا.
+3. توانایی خود پست الکترونیکی یک کپی از فراورده های لبنی.
+4. پیکربندی گزینه های بیشتر, از جمله توانایی را وارد کنید تا 8 وعده غذا جداگانه در روز.</string>
+	<string name="StoreText_3">ویژگی ها:
+1-طراحی ساده و قدرتمند: از آنجا که آنچه شما را بیشتر استفاده کنید برنامه باز می شود به طور مستقیم در صفحه مطلب در تازه ترین وعده غذایی است. طراحی می کند اضافه کردن مطالب به عنوان ساده و شهودی که ممکن است.
+2. شیر ورودی با پیشنهادات شخصی: شایع ترین مواد غذایی بلافاصله می تواند انتخاب شود. از آنجا که شما ممکن است در اغلب همان غذا خوردن در روز دوم شروع موارد اخیر خود پیشنهاد.
+3. ورود به سیستم در مورد نیاز نمی باشد: هیچ اطلاعات شخصی یا اطلاعات تماس مورد نیاز است.
+4. هزار از آیتم در حال حاضر در پایگاه داده: اکثر مواد غذایی اطلاعات دقیق در مورد مشترک اندازه خدمت، کالری، کربوهیدرات، پروتئین و چربی است. 
+5. کامل آن لاین پشتیبانی: بدون نیاز به اتصال به اینترنت. 
+6. دقیق مطلب نیز آسان است: با دقت می تواند مقدار دقیق با استفاده از نوار لغزنده را وارد کنید.
+7. گزارش روزانه: با استفاده از منو، شما به طور مستقیم دفتر خاطرات، خلاصه ای از روز خود را نشان می دهد که می توانید باز. در اینجا شما بین کالری و پروتئین و کربوهیدرات ها با فشار دادن بر روی مثلث کوچک تعویض کنید.
+8. پیگیری اهداف خود: پس از ورود به اهداف شخصی خود را، شما می توانید گزارش هفته به شما روند استفاده. 
+9. شخصی یادآوری به شما اقامت در مقصد کمک کند: آنها یک راه مناسب برای اطمینان از شما پر خاطرات خود را پس از هر وعده غذایی و یا در پایان روز.
+
+این ایده خوبی به منظور بررسی اطلاعات در پایگاه داده است همان اطلاعات در بسته بندی مواد غذایی خود را است؛ مواد غذایی تغذیه با مارک های و و در طول زمان نوسان.
+
+مطمئن شوید برای بحث در مورد اهداف خود را با متخصص تغذیه یا پزشک خود را.</string>
+	<string name="StoreText_2">درباره نرم افزار:
+پیگیری آنچه که می خورید از کمک به جلوگیری و توقف خوردن بیش از حد نشان داده شده است.
+این برنامه به شما در کنترل رژیم غذایی خود و خوردن سالم, توسط ساخت آن آسان برای پیگیری آنچه که می خورید کمک می کند. طراحی برای ورود سریع به عنوان مواد غذایی ممکن است با ورود 1 کلیک کنید و اخیر پیشنهادات بهینه است. ساخته شده در پایگاه داده در حال حاضر هزاران اقلام مواد غذایی و اگر مال شما شناخته شده است، اضافه کردن آنها آسان است.
+
+لطفا توجه داشته باشید: این برنامه رایگان برای دانلود و پشتیبانی شده توسط تبلیغات است. تا زمانی که دوست دارید شما آن رایگان استفاده کنید. ممكنه حذف تبلیغات هزینه که همچنین ویژگی های اضافی را فعال خواهد شد.</string>
+	<string name="StoreText_1">یادداشت های مواد غذایی: رژیم غذایی و شما کالری ردیابی نرم افزار.</string>
+	<string name="StoreKeyword_5">تغذیه</string>
+	<string name="StoreKeyword_4">کالری</string>
+	<string name="StoreKeyword_3">رژیم غذایی</string>
+	<string name="StoreKeyword_2">مواد غذایی مجله</string>
+	<string name="StoreKeyword_1">شمارنده کالری</string>
+	<string name="Screenshot_3a">تخم مرغ</string>
+	<string name="Screenshot_2b">1 قاچ</string>
+	<string name="Screenshot_2a">نان تست</string>
+	<string name="Screenshot_1b">1 فنجان</string>
+	<string name="Screenshot_1a">آب پرتقال</string>
+	<string name="Product_2">از شما به خاطر کمک شما! استفاده از این گزینه به طور دائم حذف تبلیغات از نرم افزار یادداشت های مواد غذایی خود را.</string>
+	<string name="Product_1">حذف تبلیغات</string>
+	<string name="SendFeedback">درباره</string>
+	<string name="Feedback_Unlock">هم اکنون ارتقاء دادن</string>
+	<string name="EmailReport_InvalidEmailAddress">لطفا آدرس پست الکترونیکی معتبر وارد کنید.</string>
+	<string name="Total">مجموع</string>
+	<string name="Feature_Header">شامل:</string>
+	<string name="BuyNow">خرید در حال حاضر</string>
+	<string name="EmailReport_ShowSettings">ارسال از طریق ایمیل</string>
+	<string name="EmailReport_SendNow">هم اکنون بفرستید؟</string>
+	<string name="EmailReport_Address">آدرس پست الکترونیکی</string>
+	<string name="Feedback_Header">سریعترین و ساده ترین راه برای پیگیری آنچه که می خورید.
+
+پایین را برای اطلاعات در مورد دقت و صحت داده ها.</string>
+	<string name="Feedback_UnlockText">خرید نسخه برتر</string>
+	<string name="EmailReport_SubjectTemplate">مواد غذایی مجله {0}</string>
+	<string name="EmailReport_Exception">چیزی غیر منتظره رفت. مجله فرستاده شد.</string>
+	<string name="Price">تنها {0}</string>
+	<string name="Feature6_Text">حمایت از توسعه</string>
+	<string name="Feedback_Footer">سلب مسئولیت:
+نقاط بیشتر است، اما نه همه داده ها در پایگاه داده این است که از منابع معتبر آمده است. ما برای اطمینان از همه مقادیر دقیق هستند، اما داده های نادرست یا مفقود شده نمی توان مسئول انجام بهترین. ارزش تغذیه ای با نام تجاری و در طول زمان متفاوت است. با استفاده از این برنامه، شما توافق می کنید به منظور بررسی و اصلاح هر گونه اطلاعات در برنامه و به طور کامل مسئول از جراحت یا صدمه به دلیل استفاده از آن.
+
+لطفا اجازه دهید من می دانم که اگر هر چیزی من می تواند کمک به شما وجود دارد.</string>
+	<string name="Product_4">دسترسی به تمام ویژگی های</string>
+	<string name="Product_3">ارتقاء به حق بیمه</string>
+	<string name="Feature6_Desc">کمک به نگه داشتن به روز رسانی این برنامه آینده</string>
+	<string name="GetAllFeatures">دریافت تمام ویژگی های</string>
+	<string name="Feature_Footer">* توجه داشته باشید: بسیاری است، اما نه همه داده ها از منابع معتبر می آید. با خرید نسخه حق بیمه مسئولیت کامل دقت و کامل بودن اطلاعات قبول می کند. ایمیل daily.journal@outlook.com برای جزئیات بیشتر.</string>
+	<string name="Feature5_Text">ویژگی های جدید</string>
+	<string name="Feature5_Desc">تمام حق بیمه در آینده به روز رسانی ویژگی های</string>
+	<string name="Feature4_Text">وعده های غذایی بیشتر</string>
+	<string name="Feature4_Desc">برای پیگیری وعده های 5، 6 و یا بیشتر در هر روز</string>
+	<string name="Feature3_Text">بیشتر غذاهای *</string>
+	<string name="Feature3_Desc">صدها نفر به هزاران اقلام مواد غذایی (بسته به محل)</string>
+	<string name="Feature2_Text">پست الکترونیکی گزارش</string>
+	<string name="Feature2_Desc">پست الکترونیکی مجله خود را به صرفه جویی در چاپ یا تجزیه و تحلیل آن</string>
+	<string name="Feature1_Text">بدون تبلیغات</string>
+	<string name="Feature1_Desc">همه تبلیغات برای همیشه حذف می شوند</string>
+	<string name="EmailReport_Footer2">توجه داشته باشید: بسیاری است، اما نه همه نقاط داده ها در پایگاه داده از منابع معتبر آمده است. ما برای اطمینان از مقدار دقیق هستند، اما داده های نادرست یا مفقود شده نمی توان مسئول انجام بهترین. با استفاده از این نرم افزار شما تأیید و قبول مسئولیت کامل برای بررسی صحت داده ها. App اجازه می دهد تا شما را به هر گونه اختلاف شما ممکن است به روز رسانی.</string>
+	<string name="EmailReport_Footer1">مجله توسط AAA
+پرسش یا نظر؟ پاسخ به BBB</string>
+	<string name="Localization_Submit">ارسال</string>
+	<string name="Localization_TranslationsText">لطفا متون در این لیست بروز با ترجمه ها بهتر است. حذف همه متن که نامناسب برای منطقه خود هستند.</string>
+	<string name="Localization_ThankYou">با تشکر برای کمک به شما!</string>
+	<string name="Localization_Translations">ترجمه های درخواست شده</string>
+	<string name="Localization_Text">در اینجا شما می تواند کمک به بهبود این برنامه.</string>
+	<string name="Localization_Original">اصلی:</string>
+	<string name="Localization_Good">خوب</string>
+	<string name="Localization_Description">توضیحات/کنترل:</string>
+	<string name="Feedback_LocalizeText">کمک به بهبود نرم افزار</string>
+	<string name="Localization_CommentText">اگر می خواهید به تماس آدرس ایمیل خود را وارد کنید.</string>
+	<string name="Localization_Comment">نظر</string>
+	<string name="Feedback_Localize">بهبود ترجمه</string>
+	<string name="AddToLauncher">اضافه کردن به پرتاب</string>
+	<string name="Avg">Avg</string>
+	<string name="Cancel">"لغو"</string>
+	<string name="CopyFromSimilarItem">کپی از مورد مشابه</string>
+	<string name="DeleteEntry">حذف ورودی</string>
+	<string name="EnterTheWeightForThisAmount">وزن این مقدار را وارد کنید</string>
+	<string name="MoreOptions2">گزینه های بیشتر</string>
+	<string name="None">هیچ کدام</string>
+	<string name="Ok">باشه</string>
+	<string name="OneDaySalePctOff">1 روز فروش: {0} ٪ خاموش</string>
+	<string name="Total2">مجموع</string>
+	<string name="EmailReport_Footer1a">مجله توسط AAA</string>
+	<string name="EmailReport_Footer1b">پرسش یا نظر؟ پاسخ به BBB</string>
+	<string name="Add_New">مورد جدید</string>
+	<string name="Add_Note">افزودن یادداشت</string>
+	<string name="add_target">اضافه کردن تغذیه</string>
+	<string name="choose_time">تنظیم زمان</string>
+	<string name="daily_target">تغذیه</string>
+	<string name="daily_target_hint">هدف روزانه (اختیاری)</string>
+	<string name="describe_goal">توصیف هدف شما در اینجا</string>
+	<string name="drawer_close">بستن</string>
+	<string name="drawer_open">باز</string>
+	<string name="edit_meals">وعده های غذایی را انتخاب کنید</string>
+	<string name="enter_meal_time">زمان برای هر وعده غذایی را وارد کنید</string>
+	<string name="enter_serving_weight">وزن (گرم) اول را وارد کنید</string>
+	<string name="enter_value">تغذیه را وارد کنید</string>
+	<string name="get_started">شروع کنید!</string>
+	<string name="get_started_second_text">شیر "+" برای اضافه کردن ورود به مجله.</string>
+	<string name="Input_Notes">یادداشت های خود را در اینجا وارد کنید</string>
+	<string name="meal_options">گزینه های غذا</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">هدف شخصی</string>
+	<string name="Per_Cup">1 فنجان (250 گرم) NOTUSED</string>
+	<string name="Per_Grams">100 گرم</string>
+	<string name="portion_caption">بخش</string>
+	<string name="RadioButton_Alpha">حروف الفبا NOTYETUSED</string>
+	<string name="RadioButton_Sort">مرتب سازی بر اساس تاریخ NOTYETUSED</string>
+	<string name="Serving">خدمت</string>
+	<string name="Show_More_Options">گزینه های بیشتر</string>
+	<string name="show_total_with_meal">هدف تغذیه نشان می دهد</string>
+	<string name="target_date">هدف تاریخ</string>
+	<string name="target_date_hint">انتخاب تاریخ مورد نظر شما</string>
+	<string name="transition_name_circle">گذار: دایره</string>
+	<string name="transition_name_name">گذار: نام</string>
+	<string name="transition_name_phone">گذار: تلفن</string>
+	<string name="Type_Name">جستجو</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">واحد متریک</string>
+	<string name="Units_US">واحد های آمریکایی</string>
+	<string name="Upgrade">ارتقاء</string>
+	<string name="weight_gram">وزن (گرم)</string>
+	<string name="InvalidEmailError">آدرس ایمیل نامعتبر</string>
+	<string name="NoGoalsTitle">تمام نوشته های</string>
+	<string name="SendReportTitle">ارسال گزارش</string>
+	<string name="DeleteEntryMessage">حذف این ورودی؟</string>
+	<string name="NewBody">پیشرفت های بسیاری شامل: یادداشت بیشتر غذاهای طراحی بهتر و بیشتر.
+به صورت رایگان\?</string>
+	<string name="NewTitle">نسخهٔ 2.0 در حال حاضر در دسترس!</string>
+</resources>

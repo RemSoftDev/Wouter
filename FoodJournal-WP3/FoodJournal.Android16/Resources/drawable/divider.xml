@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:left="25dp">
+	     <shape>
+	           <solid android:color="#00FFFFFF" />
+	     </shape>
+	</item>
+	<item android:left="10dp">
+	     <shape>
+	           <solid android:color="#DEDEDE" />
+	     </shape>
+	</item>
+</layer-list>
+<!-- 
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="10dp">
+        <shape> 
+            <solid android:color="#E5E5E5"/> 
+            <stroke android:color="#33b5e5" android:width="6dp"/>
+        </shape>
+    </item>
+</layer-list> -->
+<!--- <shape xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <solid android:color="#FF0000"/> 
+    <stroke android:color="#33b5e5" android:width="6dp"/> 
+</shape> -->
+<!---
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:insetLeft="16dp" android:insetRight="16dp">
+	<shape android:shape="line">
+		<stroke android:width="2dp" android:color="#FF0000" />
+
+    <gradient android:startColor="#FF80" android:endColor="#F08F" android:angle="270.0" /> 
+	</shape>
+</inset>-->

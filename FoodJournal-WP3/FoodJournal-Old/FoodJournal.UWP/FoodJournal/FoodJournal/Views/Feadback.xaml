@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal"
+             x:Class="FoodJournal.Views.Feadback">
+  
+     <ContentPage.Resources>
+        <Style x:Key="TextStyle" TargetType="Label" >
+            <Setter Property="FontSize" Value="Medium"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            <Setter Property="VerticalTextAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="SubtleTextStyle" TargetType="Label">
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            <Setter Property="VerticalTextAlignment" Value="Center"/>
+        </Style>
+    </ContentPage.Resources>
+    
+  <!--LayoutRoot is the root grid where all page content is placed-->
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    <StackLayout Grid.Row="0" Padding="12,17,0,12">
+      <!--Label Text="{extensions:Translate Strings.SendFeedback}" /-->
+    </StackLayout>
+
+    <!--ContentPanel - place additional content here-->
+    <ScrollView x:Name="ContentPanel" Grid.Row="1" Padding="12,0,12,0">
+
+      <StackLayout Orientation="Vertical">
+
+        <Label  Text="{extensions:Translate Feedback_Header}" FontSize="Medium"/>
+        <!--<Label Text="{Binding Path=Strings.ReminderDescription}" Style="{StaticResource PhoneTextSubtleStyle}" />-->
+
+        <Button x:Name="Unlock" Clicked="Unlock_OnClicked" >
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_Unlock}" Style="{StaticResource TextStyle}" />
+            <Label Text="{extensions:Translate Feedback_UnlockText}" Style="{StaticResource SubtleTextStyle}" />
+          </StackLayout>
+        </Button>
+
+        <Button x:Name="RemoveAds" Clicked="RemoveAds_OnClicked">
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_RemoveAds}" Style="{StaticResource TextStyle}" />
+            <Label Text="{extensions:Translate Feedback_RemoveAdsText}" Style="{StaticResource SubtleTextStyle}" />
+          </StackLayout>
+        </Button>
+
+        <Button x:Name="Email" Clicked="Email_OnClicked" >
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_Email}" />
+            <Label Text="{extensions:Translate Feedback_EmailText}" Style="{StaticResource SubtleTextStyle}"/>
+          </StackLayout>
+        </Button>
+
+        <Button x:Name="Rate" Clicked="Rate_OnClicked" >
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_Rate}" />
+            <!--    <Label Text="&#xE19F;"  FontFamily="Segoe UI Symbol"/>
+                        -->
+            <Label Text="{extensions:Translate Feedback_RateText}" Style="{StaticResource SubtleTextStyle}" />
+          </StackLayout>
+        </Button>
+
+        <Button x:Name="Translate" Clicked="Translate_OnClicked" >
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_Localize}" />
+            <Label Text="{extensions:Translate Feedback_LocalizeText}" Style="{StaticResource SubtleTextStyle}" />
+          </StackLayout>
+        </Button>
+
+        <Button x:Name="Share" Clicked="Share_OnClicked" >
+          <StackLayout Padding="6">
+            <Label Text="{extensions:Translate Feedback_Share}" />
+            <Label Text="{extensions:Translate Feedback_ShareText}" Style="{StaticResource SubtleTextStyle}" />
+          </StackLayout>
+        </Button>
+
+        <Label   Text="{extensions:Translate EmailReport_Footer2}" FontSize="Medium" />
+
+      </StackLayout>
+    </ScrollView>
+  </Grid>
+</ContentPage>

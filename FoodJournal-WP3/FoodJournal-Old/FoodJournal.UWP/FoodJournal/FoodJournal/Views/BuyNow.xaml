@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:system="clr-namespace:System;assembly=System.Runtime"
+             x:Class="FoodJournal.Views.BuyNow"
+             xmlns:extensions="clr-namespace:FoodJournal.Common.Extensions;assembly=FoodJournal">
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="FeatureTextStyle" TargetType="Label">
+        <Setter Property="FontAttributes"  Value="Bold"/>
+      </Style>
+      <Style x:Key="CheckStyle" TargetType="Label" >
+        <Setter Property="FontAttributes"   Value="Bold"/>
+      </Style>
+      <Style x:Key="FeatureDescriptionStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="19"/>
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <!--LayoutRoot is the root grid where all page content is placed-->
+  <Grid x:Name="LayoutRoot" BackgroundColor="Transparent">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="auto"/>
+    </Grid.RowDefinitions>
+
+    <!--TitlePanel contains the name of the application and page title-->
+    
+    <!-- Padding="12,17,0,24"  Visibility="Collapsed" TextWrapping="Wrap" 
+    Content="{Binding Path=Strings.BuyNow}"-->
+    
+    <StackLayout Grid.Row="0" Padding="12,17,0,24">
+      <!--            <Label Text="{Binding Path=Strings.ApplicationTitle}" Style="{StaticResource PhoneTextNormalStyle}"/>
+    -->
+      <Label Text="{extensions:Translate GetAllFeatures}" Style="{StaticResource FeatureTextStyle}" HorizontalOptions="Center" />
+      <Grid x:Name="Price2Grid" IsVisible="True">
+        <Label x:Name="Price2"  Text="{extensions:Translate Price}" Style="{StaticResource FeatureTextStyle}" HorizontalOptions="Center"/>
+        <!--Line Stroke="{StaticResource PhoneAccentBrush}" StrokeThickness="4" X1="30" Y1="50" X2="428" Y2="12" /-->
+      </Grid>
+      <Label x:Name="Price"  Text="{extensions:Translate Price}" Style="{StaticResource FeatureTextStyle}" HorizontalOptions="Center"/>
+    </StackLayout>
+
+    <ScrollView Grid.Row="1" Padding="12,0,12,0">
+      <StackLayout x:Name="ContentPanel" >
+
+        <Label  Text="{extensions:Translate Feature_Header}" Style="{StaticResource FeatureTextStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}"  FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature1_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label Text="{extensions:Translate Feature1_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature3_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label Text="{extensions:Translate Feature3_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature2_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label Text="{extensions:Translate Feature2_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature4_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label Text="{extensions:Translate Feature4_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature6_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label Text="{extensions:Translate Feature6_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+
+        <StackLayout Orientation="Horizontal">
+          <Label Text="&#x2713;" Style="{StaticResource CheckStyle}" FontFamily="Segoe UI Symbol"/>
+          <Label Text="{extensions:Translate Feature5_Text}" Style="{StaticResource FeatureTextStyle}"/>
+        </StackLayout>
+        <Label x:Name="Feature5Label" Text="{extensions:Translate Feature5_Desc}" Style="{StaticResource FeatureDescriptionStyle}"/>
+      
+      </StackLayout>
+    </ScrollView>
+
+    <StackLayout Grid.Row="2">
+        <Button Clicked="Button_OnClicked" Text="{extensions:Translate BuyNow}"/>
+      <Label  FontSize="14" Text="{extensions:Translate Feature_Footer}"/>
+    </StackLayout>
+
+  </Grid>
+  
+  
+  
+</ContentPage>

@@ -1,0 +1,878 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ms-MY</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Butir Sepunya</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>padam</value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Sarapan Pagi</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Makan malam</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Makan Tengah Hari</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Carian</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Hari ini</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Jumlah</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Berat</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Keutamaan</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (perkara baru)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Hasil carian</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>tambah</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nama</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>opsyen selanjutnya</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>tambah</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalendar</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Iklan</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Cawan</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Auns bendalir</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Gelen</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Liter</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Auns</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Paun</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Sudu besar</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Sudu kecil</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Liter</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililiter</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Auns</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Paun</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Jumlah:</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>memuatkan...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Kemas kini sekarang</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Peringatan</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>seting</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Laporan</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Laporan</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Ambil gambar</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Jurnal</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Laporkan masalah</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Makanan</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Pagi</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Petang</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Tengah malam</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Pisang</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kopi</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Epal</value>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>DIARI MAKANAN</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Apa-apa yang dipilih</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Item Sarapan Pagi hari</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Barang-barang Majlis Makan malam</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Saya excersizes hari</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Barang-barang makan tengahari hari</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Butiran terakhir Snek</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>DIARI MAKANAN</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>DIARI MAKANAN- </value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Senaman</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Snek</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Kalsium</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalori</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Karbohidrat</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Kolesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Serat</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Besi</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Lemak monounsaturated</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Lemak politaktepu</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Kalium</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Protein</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Lemak tepu</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Natrium</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Gula</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Jumlah lemak</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Vitamin C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Vitamin D</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Masukkan istilah carian</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (resipi baru)</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} tidak ditemui, cuba mengubah istilah carian anda</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Pemakanan</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>MAKLUMAT MAKANAN</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Sila masukkan berat badan terlebih dahulu</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Saiz hidangan</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Masukkan berat badan</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>berapa banyak?</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Tiada maklumat pemakanan</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Menambah saiz hidangan</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Deciliter</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Mililiter</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Pint</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Suku</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Cawan</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Auns bendalir</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Gelen</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pain</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Quarts</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Camca besar</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Sudu teh</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-mel dari diari makanan</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Terima kasih kerana menggunakan aplikasi ini! Salinan ini kini telah tamat. Tetapi jangan bimbang, kami akan membawa anda ke Laman muat turun untuk mengemaskini jika anda tekan Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Tugas ini mengemaskini jubin hidup untuk diari makanan.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Anda telah menyahdayakan aplikasi jubin hidup dalam seting telefon.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Keutamaan saya</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Menu hilang kiraan pada jubin aplikasi</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Sediakan jubin</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Sudu teh = 4.5 g|Sudu besar = 12 g|1 berkhidmat = 28 g|Sekeping = 14 g|Hirisan = 12 g|1 cawan = 237 g</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Terima kasih kerana menggunakan aplikasi ini! Jika anda mendapati ia berguna, Sila membantu ia berjaya dengan meninggalkan kajian semula.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Meninggalkan Ulasan?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Matlamat</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Tanpa menetapkan matlamat</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Pada penghujung hari</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Apa pula anda makan?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Peringatan: Kemaskini Terakhir diari anda</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>Peringatan yang dipilih kelihatan jika anda belum dikemaskini diari anda dengan masa yang terpilih</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Jus oren, 1 cawan, roti bakar, 1 slice, telur, 1 medium, Apple, kopi, pisang</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} ke atas matlamat</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} yang tinggal</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Pilih OK untuk mengalih keluar iklan dari aplikasi ini.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Mengalih keluar iklan?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Dalam masalah menyambung kepada Windows Phone kedai. Sila cuba lagi kemudian.</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Mencadangkan ciri-ciri atau bertanya</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Kadar aplikasi ini</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Maklum-balas tertentu membantu meningkatkan aplikasi</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Membantu memperbaiki penterjemahan</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Penangkapan skrin juga disediakan</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Kongsi pautan</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Untuk memuat turun aplikasi ini</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Teks diari makanan</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Memeriksa makanan diari untuk Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Diari makanan</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Item-item Sarapan Pagi yang biasa</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Barang-barang makan malam yang biasa</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Barang-barang makan tengahari yang biasa</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Item-item Snek biasa</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Awal petang</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Snek pagi berasingan</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Snek petang awal yang berasingan</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Snek petang yang berasingan</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Petang</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Snek tengah malam berasingan</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Menggabungkan makanan ringan</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Snek petang yang berasingan</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Item petang semalam</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Butiran terakhir petang awal</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Item-item petang semalam</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Tengah malam hari item</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Item-item di pagi hari</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Item-item petang yang biasa</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Item-item petang awal yang biasa</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Biasa petang item</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Barang-barang tengah malam yang biasa</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Biasa pagi item</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Terima kasih kerana mencuba diari makanan. Anda mempunyai {0} hari perbicaraan yang lain. Tekan OK untuk membuka aplikasi ini.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Buka kunci sekarang?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Percubaan anda kini telah tamat. Anda masih boleh melihat jurnal anda, tetapi anda tidak boleh menambah entri baru. Pilih OK untuk membuka kunci versi penuh.</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Tempoh percubaan tamat, buka kunci?</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Keluarkan iklan</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Menghapuskan semua iklan</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Muat turun sekarang kerana anda akan suka menggunakannya.</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Diari makanan</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 sederhana</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>CIRI-CIRI PREMIUM:
+1. sebarang pengiklanan yang lebih banyak.
+2. lebih besar makanan pangkalan data.
+3. keupayaan untuk e-mel sendiri salinan tenusu ini.
+4. lebih banyak opsyen konfigurasi, termasuk keupayaan untuk masukkan Menu berasingan sehingga 8 hari.</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>CIRI-CIRI:
+1. Reka bentuk yang sederhana dan kuat: apl yang dibuka secara langsung pada skrin kemasukan pada makanan yang terkini, kerana itu adalah apa yang anda akan gunakan tempahan. Reka bentuk membuat menambah penyertaan sebagai mudah dan intuitif yang mungkin.
+2. satu paip masuk dengan cadangan peribadi: barang-barang makanan yang paling biasa dengan serta-merta akan dipilih. Bermula pada hari kedua, barang-barang hari anda dicadangkan kerana anda boleh makan makanan yang sama kerap.
+3. pembalakan dalam tidak diperlukan: Tiada data peribadi atau maklumat yang diperlukan.
+4. beribu-ribu item sudah ada dalam pangkalan data: kebanyakan barangan makanan mempunyai maklumat yang tepat mengenai saiz hidangan biasa, kalori, karbohidrat, protein dan lemak. 
+5. penuh luar talian sokongan: tidak perlu disambungkan ke internet. 
+6. tepat entri adalah juga mudah: anda boleh memasukkan amaun yang tepat menggunakan slaid yang tepat.
+7. harian melaporkan: menggunakan menu, anda boleh terus membuka diari, yang menunjukkan ringkasan hari anda. Di sini anda boleh menukar antara kalori, protein dan karbohidrat dengan menekan pada segi tiga kecil.
+8. mengesan matlamat anda: selepas memasukkan matlamat peribadi anda, anda boleh menggunakan laporan minggu untuk melihat trend anda. 
+9. peribadi peringatan membantu anda tetamu akan ditulis oleh pelanggan kami selepas penginapan sasaran: mereka adalah cara yang mudah untuk memastikan anda mengisi diari anda, selepas setiap waktu makan, atau pada akhir hari.
+
+Ia adalah idea yang baik untuk mengesahkan maklumat dalam pangkalan data adalah sama dengan maklumat pada pembungkusan makanan anda; nutrisi makanan yang turun naik dengan jenama dan dari semasa ke semasa.
+
+Pastikan matlamat anda berbincang dengan pakar doktor atau pemakanan.</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>TENTANG APLIKASI:
+Mengekalkan menjejaki anak apa yang anda makan telah ditunjukkan untuk membantu mencegah dan menghentikan terlebih makan.
+Aplikasi ini membantu anda mengawal diet anda dan makan sihat, dengan menjadikan ia mudah untuk menjejaki apa yang anda makan. Reka bentuk dioptimumkan untuk membuat entry sepantas cadangan makanan yang mungkin, dengan 1 klik masuk, dan semalam. Dalam pangkalan data yang dibina dalam sudah beribu-ribu barangan makanan dan jika kamu tidak dikenali, menambah mereka mudah.
+
+Sila ambil perhatian: Aplikasi ini adalah percuma untuk men-download, dan disokong oleh iklan-iklan. Anda boleh menggunakannya secara percuma selagi anda suka. Ia adalah mungkin untuk mengeluarkan iklan untuk bayaran, yang akan juga membolehkan ciri-ciri tambahan.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Diari makanan: Diet dan anda kalori yang menjejaki aplikasi.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Pemakanan</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalori</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Diet</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Jurnal makanan</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Kaunter kalori</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Telur</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 hirisan</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Roti bakar</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 cawan</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Jus oren</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Terima kasih atas sokongan anda! Gunakan pilihan ini untuk menghapuskan iklan daripada aplikasi diari makanan anda.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Keluarkan iklan</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Kira-kira</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Menaik taraf sekarang</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Sila masukkan alamat e-mel yang sah.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Jumlah keseluruhan</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Termasuk:</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Ciri-ciri baru</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Beli sekarang</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Menghantar melalui e-mel</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Hantar sekarang</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Alamat e-mel</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Cara yang paling cepat dan paling mudah untuk mengesan apa yang anda makan.
+
+Skrol ke bawah untuk mendapatkan maklumat mengenai ketepatan data.</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Beli versi premium</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Jurnal makanan untuk {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Sesuatu yang tidak dijangka yang silap. Jurnal ini tidak dihantar.</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>hanya {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Menyokong pembangunan</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>PENAFIAN:
+Kebanyakan, tetapi tidak semua titik data dalam pangkalan data yang datang dari sumber yang mempunyai reputasi yang baik. Kami melakukan yang terbaik untuk memastikan semua nilai adalah tepat, tetapi tidak boleh diadakan bertanggungjawab bagi data yang tidak betul atau hilang. Nilai-nilai pemakanan berbeza-beza mengikut jenama dan dari semasa ke semasa. Dengan menggunakan aplikasi ini, anda bersetuju untuk mengesahkan dan membetulkan mana-mana data dalam aplikasi ini, dan bertanggungjawab sepenuhnya terhadap kecederaan atau kerosakan yang disebabkan oleh penggunaan yang.
+
+Sila beritahu saya jika ada apa-apa yang saya boleh membantu anda dengan.</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Mengakses semua ciri-ciri</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Menaik taraf kepada premium</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Membantu memastikan kemas kini aplikasi ini datang</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Mendapatkan semua ciri-ciri</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Nota: Data kebanyakan, tetapi bukan semua yang datang dari sumber yang mempunyai reputasi yang baik. Dengan membeli versi premium, anda bertanggungjawab sepenuhnya untuk ketepatan dan kesempurnaan data. E-mel daily.journal@outlook.com untuk maklumat lanjut.</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Semua premium pada masa akan datang mempunyai pengemaskinian</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Menu lebih banyak</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Untuk menjejaki Menu 5, 6 atau lebih setiap hari</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Lebih banyak makanan *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Beratus-ratus ribuan makanan lebih banyak item (bergantung kepada lokasi)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Laporan e-mel</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-mel jurnal anda untuk menyimpan, mencetak, atau menganalisis</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Iklan tidak</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Semua iklan akan dialih keluar dengan kekal</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Nota: Kebanyakan, tetapi tidak semua titik data dalam pangkalan data yang datang dari sumber yang mempunyai reputasi yang baik. Kami melakukan yang terbaik untuk memastikan nilai-nilai yang tepat, tetapi tidak boleh diadakan bertanggungjawab bagi data yang tidak betul atau hilang. Dengan menggunakan aplikasi ini, anda mengakui dan menerima tanggungjawab sepenuhnya untuk menyemak ketepatan data. Aplikasi ini membolehkan anda mengemas kini sebarang percanggahan yang boleh anda dapati.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Jurnal oleh AAA
+Soalan-soalan atau komen? Balas kepada BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Mengemukakan</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Sila Kemaskini teks-teks dalam senarai ini dengan terjemahan yang lebih baik. Alih keluar semua teks untuk perkara-perkara yang tidak sesuai untuk kawasan anda.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Terima kasih untuk bantuan anda!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Terjemahan</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Di sini anda boleh membantu untuk meningkatkan aplikasi ini.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Asal:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Baik</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Description/kawalan:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Membantu mempertingkatkan aplikasi</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Masukkan alamat e-mel anda jika anda mahu dihubungi.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Komen</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Memperbaiki terjemahan</value>
+  </data>
+<data name="AddToLauncher" xml:space="preserve">
+<value>Tambah ke pelancar</value>
+</data>
+<data name="Avg" xml:space="preserve">
+<value>AVG</value>
+</data>
+<data name="Cancel" xml:space="preserve">
+<value>Batal</value>
+</data>
+<data name="CopyFromSimilarItem" xml:space="preserve">
+<value>Salin daripada perkara yang sama</value>
+</data>
+<data name="DeleteEntry" xml:space="preserve">
+<value>Memadam kemasukan</value>
+</data>
+<data name="EnterTheWeightForThisAmount" xml:space="preserve">
+<value>Masukkan berat bagi amaun ini</value>
+</data>
+<data name="MoreOptions2" xml:space="preserve">
+<value>Lebih banyak pilihan</value>
+</data>
+<data name="None" xml:space="preserve">
+<value>Tiada seorang pun</value>
+</data>
+<data name="Ok" xml:space="preserve">
+<value>ok</value>
+</data>
+<data name="OneDaySalePctOff" xml:space="preserve">
+<value>jualan 1 hari: {0} % off</value>
+</data>
+<data name="Total2" xml:space="preserve">
+<value>Jumlah keseluruhan</value>
+</data>
+</root>

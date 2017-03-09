@@ -1,0 +1,403 @@
+﻿Row	Meal	Name	Pos
+0	B	Telur	33
+1	B	Kopi	195
+2	B	Roti panggang	325
+3	B	Roti	555
+4	B	Pisang	840
+5	B	Kopi	1152
+6	L	Roti	1291
+7	S	Teh	1576
+8	B	Teh	1694
+9	B	Roti panggang	1812
+10	B	Pisang	2096
+11	D	Roti	2353
+12	B	Yoghurt rendah lemak buah	2639
+13	L	Tomat	2745
+14	L	Telur	2912
+15	D	Nasi putih	3075
+16	B	Roti gandum	3187
+17	D	Wortel	3414
+18	S	Biskuit	3661
+19	B	Kopi	3807
+20	D	Tomat	3947
+21	L	Nasi putih	4158
+22	S	Kopi	4270
+23	S	Yoghurt rendah lemak buah	4401
+24	L	Tomat	4507
+25	S	Roti	4718
+26	B	Pisang	5004
+27	D	Telur	5268
+28	D	Bawang merah	5431
+29	D	Ayam	5684
+30	B	Yoghurt rendah lemak buah	5861
+31	S	Pisang	6033
+32	B	susu 1%	6346
+33	S	Pisang	6505
+34	L	Nasi putih	6762
+35	D	Anggur merah	6875
+36	B	Kopi	6947
+37	L	Wortel	7052
+38	B	Roti	7299
+39	L	Ayam	7562
+40	L	Yoghurt rendah lemak buah	7702
+41	B	Gandum	7872
+42	B	Roti Prancis	7998
+43	B	Pisang	8167
+44	B	Roti	8466
+45	L	Kacang panggang	8686
+46	D	Tomat	8748
+47	L	Pisang	8915
+48	D	Roti panggang	9228
+49	B	Kopi instan	9459
+50	L	Beras pratanak	9530
+51	D	Anggur merah	9594
+52	D	Tomat	9668
+53	L	Minyak zaitun	9880
+54	L	Tomat	9978
+55	S	Telur	10132
+56	D	Dada ayam	10295
+57	L	Teh	10441
+58	L	Tomat	10560
+59	L	Roti	10772
+60	S	Roti panggang	11035
+61	B	Pisang	11266
+62		Krim keju	11565
+63		Keju Amerika	11759
+64		Keju Amerika	12012
+65		Keju menyebar	12263
+66		Setengah dan setengah	12411
+67		Cahaya krim	12574
+68		Asin mentega	12736
+69		Kocok mentega	12932
+70		Mentega minyak	13128
+71		Krim asam	13311
+72		Krim pengganti bedak	13436
+73		Susu	13595
+74		susu 2%	13762
+75		susu 1%	13928
+76		Susu tanpa lemak	14094
+77		Kering susu	14261
+78		Seluruh coklat susu	14408
+79		Coklat susu	14580
+80		Susu cokelat rendah lemak	14749
+81		Yoghurt rendah lemak buah	14915
+82		Telur	15094
+83		Kuning telur	15264
+84		Goreng telur	15415
+85		Telur rebus	15587
+86		Telur orak-arik	15783
+87		Kering telur	15978
+88		Mentega tanpa garam	16128
+89		Saus keju	16323
+90		Cahaya rendah lemak buah yoghurt	16465
+91		Krim pengganti	16640
+92		Dibentengi rendah lemak buah yoghurt	16796
+93		Cahaya dibentengi yoghurt rendah lemak buah	16977
+94		Bubuk cabai	17154
+95		Garam	17293
+96		Sereal beras bayi	17410
+97		Lemak babi	17530
+98		Mayones saus	17633
+99		Minyak kacang	17767
+100		Kedelai minyak	17894
+101		Minyak zaitun	18028
+102		Italia berpakaian	18164
+103		Ganti Perancis	18315
+104		Rendah lemak sayur minyak menyebar	18465
+105		Minyak jagung	18656
+106		Saus keju biru	18789
+107		Tongkat mentega	18944
+108		Margarin	19135
+109		Minyak sayur menyebar	19324
+110		Minyak sayur	19471
+111		Industri kedelai minyak	19608
+112		Industri kedelai dan minyak biji kapas	19741
+113		Minyak kelapa	19874
+114		Ayam	20007
+115		Ayam yang dilapisi tepung roti	20208
+116		Ayam	20414
+117		Ayam goreng	20611
+118		Daging ayam panggang	20815
+119		Sup ayam	21014
+120		Hati ayam	21213
+121		Dada ayam dengan kulit	21335
+122		Dada ayam yang dilapisi tepung roti	21497
+123		Dada ayam panggang	21665
+124		Daging ayam payudara	21826
+125		Dada ayam	21993
+126		Paha	22155
+127		Paha ayam	22316
+128		Paha ayam	22486
+129		Sayap ayam	22648
+130		Sayap ayam panggang	22785
+131		Kalkun panggang	22902
+132		Daging panggang kalkun	23039
+133		Tanah kalkun	23172
+134		Kaldu sapi	23280
+135		Sup mie ayam	23437
+136		Kuah	23603
+137		Saus barbekyu	23746
+138		Stok daging sapi	23903
+139		Kaldu ayam	24067
+140		Kaldu ayam	24233
+141		Sosis hati	24394
+142		Ayam gulung	24529
+143		Ayam panas anjing	24684
+144		Makan Siang daging	24802
+145		Sosis	24912
+146		Sosis daging babi dan sapi	25036
+147		Dada kalkun	25171
+148		Sosis Italia	25357
+149		Sosis babi pra-dimasak	25515
+150		Kakao kerikil	25640
+151		Anda bisa jagung	25756
+152		Semua-dedak gandum serpih	25876
+153		Batu	25988
+154		Sereal anggur-kacang	26099
+155		KIX	26228
+156		Beruntung pesona	26356
+157		Anda bisa kacang madu	26487
+158		Belanja	26618
+159		Kismis dedak sereal	26748
+160		Anda bisa beras	26874
+161		Buram serpih	26997
+162		Anda bisa gandum	27127
+163		Bubur jagung jagung	27248
+164		Gandum	27378
+165		Gandum dengan kayu manis dan rempah-rempah	27516
+166		Gandum dengan kismis dan rempah-rempah	27659
+167		Reese Puff	27806
+168		Serat satu	27929
+169		Kakao Puff	28043
+170		Kayu manis roti panggang krisis	28163
+171		Pintar mulai sereal	28296
+172		Gandum panggang madu	28413
+173		Jus apel	28531
+174		Saus apel	28697
+175		Alpukat	28840
+176		Pisang	29033
+177		Blueberry	29354
+178		Jus anggur	29491
+179		Anggur	29659
+180		Mangga	29813
+181		Blewah	29966
+182		Jus jeruk segar	30136
+183		Konsentrat sari jeruk	30298
+184		Jus jeruk dengan kalsium	30467
+185		Konsentrat sari jeruk beku	30637
+186		Persik	30810
+187		Pir	31011
+188		Nanas	31207
+189		Kismis	31461
+190		Stroberi	31676
+191		Stroberi beku	31947
+192		Semangka	32222
+193		Panggang lemak pada babi pinggang	32388
+194		Panggang babi pinggang	32537
+195		Panggang babi pinggang	32685
+196		Daging babi	32834
+197		Potongan daging babi	32984
+198		Tanah daging babi	33137
+199		Kaleng kacang hijau	33257
+200		Mentah brokoli	33431
+201		Brokoli	33660
+202		Cincang brokoli	33888
+203		Brokoli beku	34115
+204		Kubis mentah	34342
+205		Kubis	34715
+206		Wortel	35086
+207		Dimasak wortel	35341
+208		Wortel beku	35594
+209		Seledri	35849
+210		Sawi	36071
+211		Jagung	36209
+212		Kaleng jagung kuning	36543
+213		Jagung beku	36701
+214		Mentimun	37035
+215		Selada	37270
+216		Selada hijau	37654
+217		Jamur putih	38038
+218		Sawi	38197
+219		Bawang merah	38334
+220		Bawang dimasak	38595
+221		Daun bawang	38859
+222		Peterseli	39050
+223		Kacang hijau	39214
+224		Kaleng kacang hijau	39341
+225		Polong beku	39468
+226		Kentang	39595
+227		Kentang panggang	39794
+228		Kentang di kulit	39990
+229		Kentang rebus	40185
+230		Kentang tumbuk	40381
+231		Kentang Puff	40511
+232		Mentah bayam	40657
+233		Bayam dimasak	40829
+234		Kalengan bayam	40956
+235		Ubi jalar panggang	41081
+236		Ubi jalar	41263
+237		Tomat	41441
+238		Tomat yang dimasak	41763
+239		Kaleng tomat	41984
+240		Rebus tomat kalengan	42156
+241		Jus tomat	42375
+242		Pasta tomat	42546
+243		Kaleng saus tomat	42702
+244		Lobak	42856
+245		Jus sayuran kaleng	42996
+246		Campuran sayuran	43166
+247		Labu musim dingin	43292
+248		Kalengan ubi jalar	43491
+249		Jus wortel kalengan	43671
+250		Kentang panggang dengan kulit	43840
+251		Pasta tomat	44038
+252		Saus tomat	44196
+253		Acar	44334
+254		Menikmati	44574
+255		Biji bunga matahari	44730
+256		Panggang biji bunga matahari	44862
+257		Almond	44995
+258		Almond pucat	45206
+259		Almond panggang	45411
+260		Kenari	45615
+261		Minyak bakar biji bunga matahari	45870
+262		Almond panggang asin	46006
+263		Jambu mete	46212
+264		Campuran kacang	46399
+265		Minyak campuran kacang panggang	46525
+266		Hati sapi	46657
+267		Hati sapi	46780
+268		Sapi Sandung lamur	46903
+269		Tulang rusuk daging sapi	47018
+270		Daging sapi	47132
+271		Daging sapi panggang pisau	47315
+272		Tulang rusuk daging sapi	47431
+273		Tulang rusuk daging sapi	47556
+274		Daging sapi yang bulat	47684
+275		Babak puncak sapi	47799
+276		Bir	47920
+277		Bir ringan	48064
+278		80 bukti minuman keras	48204
+279		Anggur merah	48286
+280		Anggur putih	48390
+281		Jus sayuran dan buah	48492
+282		Jahe	48645
+283		Minuman energi banteng merah	48780
+284		Sirup coklat	48926
+285		Kopi tanpa kafein	49049
+286		Kopi	49196
+287		Kopi instan	49351
+288		Buah kaleng minuman	49480
+289		Diperkaya buah minuman	49622
+290		Limun	49775
+291		Teh yang tanpa kafein	49937
+292		Teh	50088
+293		Teh instan	50239
+294		Air keran	50384
+295		Rasa buah air	50517
+296		86 bukti minuman keras	50656
+297		Air botol	50740
+298		Rasa buah diperkaya air	50874
+299		Minuman energi rakasa	51011
+300		Ikan tongkat	51150
+301		Ikan haring	51335
+302		Kepiting	51461
+303		Udang	51655
+304		Kalengan udang	51787
+305		Kerang	51919
+306		Kalengan kerang	52090
+307		Tiram	52265
+308		Lele	52404
+309		Ikan nila	52510
+310		Kacang panggang	52616
+311		Kacang panggang dengan Frank	52743
+312		Kacang hitam	52872
+313		Kaleng kacang merah	53012
+314		Kacang merah	53148
+315		Kacang putih	53301
+316		Lentil	53438
+317		Dimasak kacang	53586
+318		Kacang asin	53725
+319		Panggang kacang asin	53875
+320		Selai kacang	54021
+321		Kacang goreng	54146
+322		Kecap	54287
+323		Susu kedelai yang diperkaya	54458
+324		Selai kacang lemak berkurang	54627
+325		Kacang tanpa garam	54747
+326		Kacang panggang	54895
+327		Kayu manis-kismis Bagel	55039
+328		Biskuit	55190
+329		Biskuit	55344
+330		Roti jagung	55504
+331		Roti Prancis	55640
+332		Roti Italia	55875
+333		Roti gandum multi	56059
+334		Roti hitam	56351
+335		Roti	56640
+336		Roti panggang	56934
+337		Roti putih	57227
+338		Roti putih	57518
+339		Roti gandum	57801
+340		Roti gandum	58091
+341		Remah roti	58382
+342		Kue coklat	58518
+343		Kue Bolu	58650
+344		Kerupuk	58780
+345		Biskuit dengan selai kacang	58966
+346		Kerupuk gandum	59156
+347		Kuno donat	59343
+348		Donat	59562
+349		Kue labu	59786
+350		Keras roti gulung	59930
+351		Ragi	60041
+352		Wafel	60188
+353		Buram pemanggang roti kue	60323
+354		Keripik jagung	60447
+355		Keju Puff	60599
+356		Karamel	60742
+357		Kue cokelat	60888
+358		Jeruk limun serbat	61006
+359		Permen	61127
+360		Marshmallow	61242
+361		Coklat susu	61401
+362		Kacang tanah M & Ms	61517
+363		M & Ms	61709
+364		Bubuk kakao	61903
+365		Es krim cokelat	62026
+366		Tipe es jeruk nipis	62152
+367		Madu	62257
+368		Jeli	62362
+369		Gula merah	62502
+370		Gula	62695
+371		Gula bubuk	62880
+372		Sirup mapel	63004
+373		Sirup mapel	63125
+374		Chip	63234
+375		Mengurangi lemak chip	63390
+376		Diperkaya tepung jagung	63539
+377		Beras merah	63664
+378		Nasi putih mentah	63787
+379		Nasi putih	63912
+380		Beras pratanak	64036
+381		Beras instan	64161
+382		Tepung gandum	64279
+383		Tepung terigu	64404
+384		Tepung roti putih	64531
+385		Tepung kue	64657
+386		Makaroni	64782
+387		Mie	64935
+388		Biskuit dengan telur dan sosis	65062
+389		Biskuit dengan sosis	65181
+390		Burger keju	65300
+391		Kentang goreng	65421
+392		Burger keju ganda	65612
+393		Ayam tender	65732
+394		Daging sapi (75/25)	65860
+395		Madu tandan gandum dengan almond	65981
+396		Keju lemak berkurang	66108
+397		Chip putih	66353
+398		Pisang kacang kegentingan	66498
+399		Caesar berpakaian	66633
+400		Keju Amerika rendah lemak	66788
+401		Madu tandan oat	67032

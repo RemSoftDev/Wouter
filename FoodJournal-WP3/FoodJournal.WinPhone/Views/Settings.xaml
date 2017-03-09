@@ -1,0 +1,106 @@
+﻿<ui:Screen
+    x:Class="FoodJournal.Views.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="clr-namespace:FoodJournal.AppModel.UI"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:local="clr-namespace:FoodJournal.Views"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    BackKeyPress="PhoneApplicationPage_BackKeyPress" >
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,12">
+            <TextBlock Text="{Binding Path=Strings.PageTitleSettings, Source={StaticResource LocalizedStrings}}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" Margin="12,8,12,0"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <ScrollViewer x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+            <StackPanel Orientation="Vertical">
+
+                <TextBlock Margin="12,24,12,0" Text="{Binding Path=Strings.Reminders, Source={StaticResource LocalizedStrings}}" Style="{StaticResource SectionStyle}"/>
+                <!--<TextBlock Text="{Binding Path=Strings.ReminderDescription, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextSubtleStyle}" TextWrapping="Wrap"/>
+-->
+                <StackPanel Orientation="Horizontal">
+                    <CheckBox IsChecked="{Binding BreakfastReminder,Mode=TwoWay}" Width="300" Content="{Binding Path=Strings.Period_Breakfast, Source={StaticResource LocalizedStrings}}" />
+                    <toolkit:TimePicker HorizontalContentAlignment="Right" Value="{Binding BreakfastReminderTime,Mode=TwoWay}" Width="160"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <CheckBox IsChecked="{Binding LunchReminder,Mode=TwoWay}" Width="300"  Content="{Binding Path=Strings.Period_Lunch, Source={StaticResource LocalizedStrings}}" />
+                    <toolkit:TimePicker HorizontalContentAlignment="Right" Value="{Binding LunchReminderTime,Mode=TwoWay}" Width="160"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <CheckBox IsChecked="{Binding DinnerReminder,Mode=TwoWay}" Width="300"  Content="{Binding Path=Strings.Period_Dinner, Source={StaticResource LocalizedStrings}}" />
+                    <toolkit:TimePicker HorizontalContentAlignment="Right" Value="{Binding DinnerReminderTime,Mode=TwoWay}" Width="160"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <CheckBox IsChecked="{Binding SnackReminder,Mode=TwoWay}" Width="300" >
+                        <TextBlock TextWrapping="Wrap" Text="{Binding Path=Strings.EndOfDay, Source={StaticResource LocalizedStrings}}"/>
+                    </CheckBox>
+                    <toolkit:TimePicker HorizontalContentAlignment="Right" Value="{Binding SnackReminderTime,Mode=TwoWay}" Width="160"/>
+                </StackPanel>
+
+                <!--                <CheckBox IsChecked="{Binding EnableLiveTile,Mode=TwoWay}" Margin="0,12" Content="{Binding Path=Strings.EnableLiveTile, Source={StaticResource LocalizedStrings}}" />
+-->
+                <Button Visibility="{Binding PinToStartVisibility}" Margin="0,12,0,0" Content="{Binding Path=Strings.PinToStart, Source={StaticResource LocalizedStrings}}" Tap="PinToStart_Tap" />
+
+                <TextBlock Margin="12,24,12,12" Text="{Binding Path=Strings.Goals, Source={StaticResource LocalizedStrings}}" Style="{StaticResource SectionStyle}"/>
+
+                <TextBlock Text="{Binding CaloriesTitle}" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                <TextBox Grid.Column="1" Text="{Binding CalorieGoal, Mode=TwoWay}" InputScope="Digits" />
+
+                <TextBlock Text="{Binding TotalFatTitle}" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                <TextBox Grid.Column="1" Text="{Binding TotalFatGoal, Mode=TwoWay}" InputScope="Digits" />
+
+                <TextBlock Text="{Binding CarbsTitle}" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                <TextBox Grid.Column="1" Text="{Binding CarbsGoal, Mode=TwoWay}" InputScope="Digits" />
+
+                <TextBlock Text="{Binding ProteinTitle}" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                <TextBox Grid.Column="1" Text="{Binding ProteinGoal, Mode=TwoWay}" InputScope="Digits" />
+
+                <StackPanel Visibility="{Binding MultiMealVisibility}">
+                    <TextBlock Margin="12,24,12,0" Text="{Binding Path=Strings.Meals, Source={StaticResource LocalizedStrings}}" Style="{StaticResource SectionStyle}"/>
+                    <CheckBox IsChecked="{Binding SnacksCombined,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnacksCombined, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnacksCombinedVisibility}" />
+                    <CheckBox IsChecked="{Binding SnackMorningEnabled,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnackMorningEnabled, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnackMorningVisibility}" />
+                    <CheckBox IsChecked="{Binding SnackEarlyAfternoonEnabled,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnackEarlyAfternoonEnabled, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnackEarlyAfternoonVisibility}" />
+                    <CheckBox IsChecked="{Binding SnackAfternoonEnabled,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnackAfternoonEnabled, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnackAfternoonVisibility}" />
+                    <CheckBox IsChecked="{Binding SnackEveningEnabled,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnackEveningEnabled, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnackEveningVisibility}" />
+                    <CheckBox IsChecked="{Binding SnackMidnightEnabled,Mode=TwoWay}" Content="{Binding Path=Strings.Meals_SnackMidnightEnabled, Source={StaticResource LocalizedStrings}}" Visibility="{Binding SnackMidnightVisibility}" />
+
+                    <TextBlock Margin="48"/>
+                </StackPanel>
+                <!--
+
+                <toolkit:ListPicker Margin="12,12,12,60" ItemsSource="{Binding SelectableMeals}" SelectedItem="{Binding SelectedMeals,Mode=TwoWay}"/>
+         
+                <local:Advertisement Margin="-12,0,-12,0"/>
+-->
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+
+    <ui:Screen.ApplicationBar>
+        <shell:ApplicationBar>
+            <shell:ApplicationBar.MenuItems>
+                <!--                <shell:ApplicationBarMenuItem x:Name="AddServingSize" Text="Add a serving size" Click="AddServingSize_Click"/> -->
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </ui:Screen.ApplicationBar>
+
+</ui:Screen>

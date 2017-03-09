@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">JURNAL ALIMENTAR</string>
+	<string name="CommonItems">Elemente comune</string>
+	<string name="Delete">Șterge</string>
+	<string name="EmptyEntryList">Nimic selectat</string>
+	<string name="MyRecentItems_Breakfast">Produse recente de mic dejun</string>
+	<string name="MyRecentItems_Dinner">Produse recente de cină</string>
+	<string name="MyRecentItems_Exercise">Exercițiile mele recente</string>
+	<string name="MyRecentItems_Lunch">Produse recente de prânz</string>
+	<string name="MyRecentItems_Snack">Produse recente de gustare</string>
+	<string name="PageTitle">JURNAL ALIMENTAR</string>
+	<string name="PageTitleBase">JURNAL ALIMENTAR- </string>
+	<string name="Period_Breakfast">Mic dejun</string>
+	<string name="Period_Dinner">Cină</string>
+	<string name="Period_Exercise">Exerciții</string>
+	<string name="Period_Lunch">Prânz</string>
+	<string name="Period_Snack">Gustare</string>
+	<string name="Search">Căutare</string>
+	<string name="Today">Azi</string>
+	<string name="StandardProperty_Amount">Cantitate</string>
+	<string name="StandardProperty_Calcium">Calciu</string>
+	<string name="StandardProperty_Calories">Calorii</string>
+	<string name="StandardProperty_Carbs">Carbohidrați</string>
+	<string name="StandardProperty_Cholesterol">Colesterol</string>
+	<string name="StandardProperty_Fiber">Fibră</string>
+	<string name="StandardProperty_Iron">Fier</string>
+	<string name="StandardProperty_MonoFat">Grăsimi mononesăturate</string>
+	<string name="StandardProperty_PolyFat">Grăsimi polinesăturate</string>
+	<string name="StandardProperty_Potassium">Potasiu</string>
+	<string name="StandardProperty_Protein">Proteine</string>
+	<string name="StandardProperty_SatFat">Grăsimi săturate</string>
+	<string name="StandardProperty_Sodium">Sodiu</string>
+	<string name="StandardProperty_Sugar">Zahăr</string>
+	<string name="StandardProperty_TotalFat">Total grăsimi</string>
+	<string name="StandardProperty_VitaminC">Vitamina C</string>
+	<string name="StandardProperty_VitaminD">Vitamina D</string>
+	<string name="StandardProperty_Weight">Greutate</string>
+	<string name="Preferences">Preferințe</string>
+	<string name="EmptySearchList">Introdu un termen de căutare</string>
+	<string name="NewItemSuffix">(produs nou)</string>
+	<string name="NewRecipeSuffix"> (reţetă nouă)</string>
+	<string name="SearchResults">Rezultatele căutării</string>
+	<string name="SearchTermNotFound">{0} nu a fost găsit, încearcă cu schimbarea termenului de căutare</string>
+	<string name="AcceptNew">Adăugare</string>
+	<string name="Name">Numele</string>
+	<string name="Nutrition">Nutriție</string>
+	<string name="PageTitleItemDetail">INFORMAȚII DESPRE ALIMENTE</string>
+	<string name="EnterWeight">Te rugăm să introduci greutatea prima dată</string>
+	<string name="ServingSizes">Porție</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Cât\?</string>
+	<string name="MoreOptions">mai multe opțiuni</string>
+	<string name="NoNutritionInfo">Nu există informaţii de nutriţie</string>
+	<string name="AddServingSize">Adaugă o porție</string>
+	<string name="Add">Adăugare</string>
+	<string name="SelectDate">Calendar</string>
+	<string name="Advertisement">Reclamă</string>
+	<string name="Unit_Centiliter">Centilitru</string>
+	<string name="Unit_Cup">Ceașcă</string>
+	<string name="Unit_Deciliter">Decilitru</string>
+	<string name="Unit_FluidOunce">Uncie lichidă</string>
+	<string name="Unit_Gallon">Galon</string>
+	<string name="Unit_Gram">Gram</string>
+	<string name="Unit_Kilogram">Kilogram</string>
+	<string name="Unit_Liter">Litru</string>
+	<string name="Unit_Milliliter">Mililitru</string>
+	<string name="Unit_Ounce">Uncie</string>
+	<string name="Unit_Pint">Halbă</string>
+	<string name="Unit_Pound">Livră</string>
+	<string name="Unit_Quart">Sfert de galon</string>
+	<string name="Unit_Tablespoon">Lingură</string>
+	<string name="Unit_Teaspoon">Linguriță</string>
+	<string name="Units_Centiliter">Centilitri</string>
+	<string name="Units_Cup">Cupe</string>
+	<string name="Units_Deciliter">Decalitri</string>
+	<string name="Units_FluidOunce">Uncii fluide</string>
+	<string name="Units_Gallon">Galoane</string>
+	<string name="Units_Gram">Grame</string>
+	<string name="Units_Kilogram">Kilograme</string>
+	<string name="Units_Liter">Litri</string>
+	<string name="Units_Milliliter">Mililitri</string>
+	<string name="Units_Ounce">Uncii</string>
+	<string name="Units_Pint">Halbe</string>
+	<string name="Units_Pound">Livre</string>
+	<string name="Units_Quart">Litri</string>
+	<string name="Units_Tablespoon">Linguri</string>
+	<string name="Units_Teaspoon">Lingurițe</string>
+	<string name="DatabaseCulture">ro</string>
+	<string name="FeedbackSubject">E-mail de la Jurnalul Alimentar.</string>
+	<string name="Equivalent">Cantitate</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">se încarcă...</string>
+	<string name="ExpiredCaption">Actualizezi acum\?</string>
+	<string name="ExpiredMessage">Mulţumim pentru folosirea aplicației! Această copie este expirat acum. Dar să nu faci griji, dacă apești butonul OK, te vom duce la pagina de download unde o poți actualiza.</string>
+	<string name="AgentDescription">Această activitate actualizează Plăcile Vii pentru Jurnalul Alimentar.</string>
+	<string name="AgentDisabled">Ai dezactivat aplicarea Plăcilor Vii în setările telefonului.</string>
+	<string name="PageTitleSettings">Preferinţele mele</string>
+	<string name="EnableLiveTile">Numără mesele lipsă de pe plăcile aplicației</string>
+	<string name="Reminders">Mementouri</string>
+	<string name="SettingsScreen">Setări</string>
+	<string name="PinToStart">Configurarea plăcilor</string>
+	<string name="OpenReport">Raport</string>
+	<string name="Report">Raport</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Lingurita = 4.5 g|Lingura = 12 g|1 portie = 28 g|Bucata = 14 g|Felie = 12 g|1 Cupa = 237 g</string>
+	<string name="TakeAPicture">Fotografiere</string>
+	<string name="ReviewBody">Mulţumim pentru folosirea acestei aplicații! Dacă ți se pare utilă, te rugăm să ajuți să devină de succes cu părtășirea opiniei tale.</string>
+	<string name="ReviewTitle">Vrei să lași un comentariu\?</string>
+	<string name="Goals">Ținte</string>
+	<string name="NoGoalSet">Nici un set de obiectiv</string>
+	<string name="EndOfDay">La sfârşitul zilei</string>
+	<string name="ReminderContent">Ce ai mâncat\?</string>
+	<string name="ReminderTitle">Memento: Actualizează jurnalul tău</string>
+	<string name="ReminderDescription">Mementourile selectate apar dacă nu ai actualizat jurnalul tău în timpul selectat.</string>
+	<string name="ScreenshotTitles">Suc de portocale, 1 ceasca, paine prajita, 1 felie, ou, 1 mediu, mere, cafea, banane</string>
+	<string name="GoalOver">Cu {0} peste țintă</string>
+	<string name="GoalUnder">{0} a rămas.</string>
+	<string name="OpenJournal">Jurnal</string>
+	<string name="RemoveAdsText">Selectează OK pentru a elimina reclamele din aplicație.</string>
+	<string name="RemoveAdsTitle">Eliminezi reclamele\?</string>
+	<string name="StoreException">A fost o problemă la conectarea la magazinul de Windows Phone. Te rugăm să încerci din nou mai târziu.</string>
+	<string name="Feedback_Email">Raportează o problemă</string>
+	<string name="Feedback_EmailText">Sugerează o funcție sau pune o întrebare</string>
+	<string name="Feedback_Rate">Evaluează această aplicație</string>
+	<string name="Feedback_RateText">Feedback-ul specific ajută la îmbunătăţirea aplicației</string>
+	<string name="Feedback_Screenshot">Ajută la îmbunătăţirea traducerii</string>
+	<string name="Feedback_ScreenshotText">O captură de ecran este inclusă</string>
+	<string name="Feedback_Share">Share-uiește linkul</string>
+	<string name="Feedback_ShareText">pentru a descărca această aplicație</string>
+	<string name="ScreenshotSubject">Textul Jurnalului Alimentar</string>
+	<string name="ShareMessage">Încearcă Jurnalul Alimentar pentru Windows Phone</string>
+	<string name="ShareTitle">Jurnal Alimentar</string>
+	<string name="CommonItems_Breakfast">Elemente comune de mic dejun</string>
+	<string name="CommonItems_Dinner">Elemente comune de cină</string>
+	<string name="CommonItems_Lunch">Elemente comune de prânz</string>
+	<string name="CommonItems_Snack">Elemente comune de gustare</string>
+	<string name="Meals">Mese</string>
+	<string name="Period_SnackMorning">Dimineața</string>
+	<string name="Period_SnackEarlyAfternoon">După-amiază devreme</string>
+	<string name="Period_SnackAfternoon">După amiază</string>
+	<string name="Meals_SnackMorningEnabled">Gustare separată de dimineaţă</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Gustare separată de după-amiază devreme</string>
+	<string name="Meals_SnackAfternoonEnabled">Gustare separată de după-amiază</string>
+	<string name="Period_SnackEvening">Seara</string>
+	<string name="Meals_SnackMidnightEnabled">Gustare separată de la miezul nopţii</string>
+	<string name="Period_SnackMidnight">Miezul nopții</string>
+	<string name="Meals_SnacksCombined">Combinarea gustărilor</string>
+	<string name="Meals_SnackEveningEnabled">Gustare separată de seară</string>
+	<string name="MyRecentItems_SnackAfternoon">Produse recente de după-amiază</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Produse recente de după-amiază devreme</string>
+	<string name="MyRecentItems_SnackEvening">Produse recente de seară</string>
+	<string name="MyRecentItems_SnackMidnight">Produse recente de la miezul nopții</string>
+	<string name="MyRecentItems_SnackMorning">Produse recente de dimineață</string>
+	<string name="CommonItems_SnackAfternoon">Elemente comune de după-amiază</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Elemente comune de după-amiază devreme</string>
+	<string name="CommonItems_SnackEvening">Elemente comune de seară</string>
+	<string name="CommonItems_SnackMidnight">Elemente comune de la miezul nopţii</string>
+	<string name="CommonItems_SnackMorning">Elemente comune de dimineață</string>
+	<string name="UnlockFullBody">Vă mulţumim pentru a încerca jurnal alimentar. Aveţi {0} zile proces rămase. Apăsaţi OK pentru a debloca app.</string>
+	<string name="UnlockFullTitle">Debloca acum\?</string>
+	<string name="TrialExpiredBody">Proces dumneavoastră acum este expirat. Puteţi vedea încă jurnal, dar nu puteţi adăuga noi intrări. Selectaţi OK pentru a debloca versiunea completă.</string>
+	<string name="Feedback_RemoveAds">Elimină reclamele</string>
+	<string name="Feedback_RemoveAdsText">Elimină definitiv toate reclamele</string>
+	<string name="StoreText_5">Descărcaţi acum pentru că vă va plăcea folosind-o.</string>
+	<string name="AppTitle">Jurnal Alimentar</string>
+	<string name="StoreText_4">CARACTERISTICI PREMIUM:
+(1) nici o reclama mai mult.
+2. o bază de date alimente mult mai mare.
+3. capacitatea de a-te de e-mail o copie de produse lactate.
+4. mai multe opţiuni de configurare, inclusiv capacitatea de a intra până la 8 separat de mese pe zi.</string>
+	<string name="StoreText_3">CARACTERISTICI:
+1. un design simplu şi puternic: app deschide direct pe ecranul de intrare, pe cele mai recente mesei, pentru că este ceea ce veţi folosi cel mai. Design face adăugând intrări ca simplu şi intuitiv posibil.
+2. un robinet de intrare cu sugestii personalizate: cele mai comune produse alimentare imediat pot fi selectate. Începând cu a doua zi, articole recente sunt sugerate pentru că te pot Mănâncă aceeaşi mâncare frecvent.
+3. de logare în nu este necesară: nu datele personale sau informaţii de contact este necesară.
+4. mii de elemente deja în baza de date: cele mai multe produse alimentare au informaţii exacte despre servire dimensiuni comune, calorii, carbohidrati, proteine si grasimi. 
+5. complet off-line suport: nu este nevoie să fie conectat la internet. 
+6. precise de intrare este de asemenea uşor: se poate introduce cu precizie valoarea exactă folosind un cursor.
+7. zilnic rapoarte: folosind meniul, puteţi deschide direct jurnal, care afişează un rezumat de ziua ta. Aici aveţi posibilitatea să comutaţi între calorii, proteine şi carbohidraţi apăsând pe Triunghiul de mic.
+8. evidenţa obiectivele: după introducerea obiectivele personale, puteţi utiliza raportul de săptămână pentru a vedea tendinţele dumneavoastră. 
+9. personal memento-urile vă ajuta să staţi pe ţintă: ele sunt un mod convenabil să vă asiguraţi că aţi completat jurnalul dumneavoastră, dupa fiecare masa, sau la sfârşitul zilei.
+
+Este o idee bună pentru a verifica informaţiile în baza de date este la fel ca informaţiile dumneavoastră ambalaje alimentare; alimentare fluctuează cu producatorii si peste timp.
+
+Asiguraţi-vă că pentru a discuta despre obiectivele tale cu specialistul dumneavoastră medicul sau de nutriţie.</string>
+	<string name="StoreText_2">DESPRE APP:
+Urmărirea de ceea ce mancam a fost demonstrat pentru a ajuta la prevenirea şi stoparea supra-mananca.
+Acest app vă ajută să controlaţi dieta ta şi mănâncă sănătos, de a face mai uşor pentru a urmări ceea ce mananci. Design-ul este optimizat pentru a face intrarea la fel de rapid ca posibil, cu 1 faceţi clic pe intrare, şi recente alimentare sugestii. Construit în baza de date are deja mii de produse alimentare şi dacă a ta nu sunt cunoscute, adăugându-le este uşor.
+
+Vă rugăm să reţineţi: Acest app este liber pentru a descărca, şi sprijinit de reclame. Îl puteţi folosi gratuit, atâta timp cât vă place. Este posibil pentru a elimina reclama pentru o taxă, care va permite, de asemenea, caracteristici suplimentare.</string>
+	<string name="StoreText_1">Jurnal alimentar: Dumneavoastră dieta şi urmărire app de calorii.</string>
+	<string name="StoreKeyword_5">Nutriție</string>
+	<string name="StoreKeyword_4">Calorii</string>
+	<string name="StoreKeyword_3">Dietă</string>
+	<string name="StoreKeyword_2">Jurnal alimentar</string>
+	<string name="StoreKeyword_1">Contor de calorii</string>
+	<string name="Screenshot_H3">Banană</string>
+	<string name="Screenshot_H2">Cafea</string>
+	<string name="Screenshot_H1">Măr</string>
+	<string name="Screenshot_3a">Ou</string>
+	<string name="Screenshot_2b">1 felie</string>
+	<string name="Screenshot_2a">Pâine prăjită</string>
+	<string name="Screenshot_1b">1 ceașcă</string>
+	<string name="Screenshot_1a">Suc de portocale</string>
+	<string name="Product_2">Vă mulţumim pentru sprijinul dumneavoastră! Utilizaţi această opţiune pentru a elimina permanent reclame la app jurnal alimentar.</string>
+	<string name="Product_1">Scoateţi reclame</string>
+	<string name="CantCalculateNutrition">Introducerea greutății</string>
+	<string name="TrialExpiredTitle">Perioada de probă a expirat, vrei să-l cumperi\?</string>
+	<string name="Screenshot_3b">1 mediu</string>
+	<string name="SendFeedback">Despre</string>
+	<string name="Feedback_Header">Cale mai rapidă şi mai uşoară de a ţine evidenţa a ceea ce mănânci.
+
+Derulaţi în jos pentru informaţii despre acurateţea datelor.</string>
+	<string name="Feedback_Unlock">Actualizează acum</string>
+	<string name="Feedback_UnlockText">Cumpără versiunea Premium</string>
+	<string name="EmailReport_SubjectTemplate">Jurnal Alimentar pentru {0}</string>
+	<string name="EmailReport_Exception">S-a întâmplat ceva neașteptat. Jurnalul nu a fost trimis.</string>
+	<string name="EmailReport_InvalidEmailAddress">Te rugăm să introduci o adresă validă de e-mail.</string>
+	<string name="Total">Total</string>
+	<string name="Price">numai {0}</string>
+	<string name="Feature6_Text">Sprijinirea dezvoltării</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+Cele mai multe, dar nu toate puncte de date în baza de date provin din surse reputate. Vom face tot posibilul să vă asiguraţi că toate valorile sunt exacte, dar nu este responsabil pentru datele lipsă sau incorecte. Valori nutritive variază de brand şi în timp. Utilizând acest app, sunteţi de acord pentru a verifica şi corecta orice date în app, şi de a fi complet responsabil pentru prejudicii sau daune din cauza utilizării acestuia.
+
+Vă rugăm să-mi spuneţi dacă există ceva care te pot ajuta cu.</string>
+	<string name="Feature6_Desc">Ajută în apariția noilor actualizări ale acestei aplicații</string>
+	<string name="GetAllFeatures">Obţine TOATE caracteristicile</string>
+	<string name="Feature_Header">Include:</string>
+	<string name="Feature_Footer">* NOTĂ: Cele mai multe, dar nu toate datele provin din surse reputate. Prin achiziţionarea versiunii Premium, accepți întreaga responsabilitate pentru exactitatea şi integralitatea datelor. Trimite un e-mail pe daily.journal@outlook.com pentru mai ulte detalii.</string>
+	<string name="Feature5_Text">Caracteristici noi</string>
+	<string name="Feature5_Desc">Toate caracteristicile premium a actualizărilor viitoare</string>
+	<string name="Feature4_Text">Mai multe mese</string>
+	<string name="Feature4_Desc">Pentru urmărirea a 5, 6 sau mai multor mese pe zi</string>
+	<string name="Feature3_Text">Mai multe alimente *</string>
+	<string name="Feature3_Desc">Mii de produse alimentare (în funcţie de locaţie)</string>
+	<string name="Feature2_Text">Rapoarte prin e-mail</string>
+	<string name="Feature2_Desc">Trimite jurnalul prin e-mail pentru a-l salva, imprima, sau analiza.</string>
+	<string name="Feature1_Text">O versiune fără reclame</string>
+	<string name="Feature1_Desc">Elimină reclamele definitiv</string>
+	<string name="BuyNow">cumpară acum</string>
+	<string name="EmailReport_ShowSettings">Trimite prin e-mail</string>
+	<string name="EmailReport_SendNow">trimite acum</string>
+	<string name="EmailReport_Address">Adresa de e-mail</string>
+	<string name="Product_4">Obţine acces la toate caracteristicile</string>
+	<string name="Product_3">Upgrade la spre premium</string>
+	<string name="EmailReport_Footer2">NOTĂ: Cele mai multe, dar nu toate punctele în baza de date provin din surse reputate. Vom face tot posibilul să asigurăm corectitudinea valorilor, dar nu putem fi considerați responsabili pentru lipsa sau incorectitudinea datelor. Prin utilizarea aplicației, recunoști şi accepți întreaga responsabilitate pentru verificarea exactității datelor. Aplicația permite să actualizezi orice discrepanţă pe care găsești.</string>
+	<string name="EmailReport_Footer1">Jurnal de AAA
+Întrebări sau Comentarii\? Răspuns la BBB</string>
+	<string name="Localization_Submit">Trimitere</string>
+	<string name="Localization_TranslationsText">Vă rugăm să actualizaţi textele în această listă cu traduceri mai bine. Elimina tot textul pentru elementele care sunt nepotrivite pentru regiunea dvs.</string>
+	<string name="Localization_ThankYou">Mulţumim pentru ajutor!</string>
+	<string name="Localization_Translations">Traduceri</string>
+	<string name="Localization_Text">Aici poți ajuta la îmbunătăţirea acestei aplicații.</string>
+	<string name="Localization_Original">Original:</string>
+	<string name="Localization_Good">Bun</string>
+	<string name="Localization_Description">Descriere:</string>
+	<string name="Feedback_LocalizeText">Ajută la îmbunătăţirea aplicației</string>
+	<string name="Localization_CommentText">Introdu adresa de e-mail, dacă vrei să fi contactat.</string>
+	<string name="Localization_Comment">Comentariu</string>
+	<string name="Feedback_Localize">Îmbunătățește traducerea</string>
+	<string name="AddToLauncher">Adaugă la lansator</string>
+	<string name="Avg">Medie</string>
+	<string name="Cancel">Anulare</string>
+	<string name="CopyFromSimilarItem">Copiează din elemente similare</string>
+	<string name="DeleteEntry">Şterge intrarea</string>
+	<string name="EnterTheWeightForThisAmount">Introdu greutatea pentru această cantitate</string>
+	<string name="MoreOptions2">Mai multe opțiuni</string>
+	<string name="None">Nici unul</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">Ofertă pentru o zi: cu {0} % mai ieftin</string>
+	<string name="Total2">Total</string>
+	<string name="EmailReport_Footer1a">Jurnal de AAA</string>
+	<string name="EmailReport_Footer1b">Ai întrebări sau observații\? Răspuns pentru BBB</string>
+	<string name="Add_New">ELEMENT NOU</string>
+	<string name="Add_Note">ADĂUGAŢI O NOTĂ</string>
+	<string name="add_target">ADAUGA NUTRIŢIE</string>
+	<string name="choose_time">timp setat</string>
+	<string name="daily_target">Nutriţie</string>
+	<string name="daily_target_hint">Zilnic ţintă (opţional)</string>
+	<string name="describe_goal">Descrie scopul tau aici</string>
+	<string name="drawer_close">Închide</string>
+	<string name="drawer_open">Deschis</string>
+	<string name="edit_meals">ALEGE MESELE</string>
+	<string name="enter_meal_time">Introduceþi ora pentru fiecare masa</string>
+	<string name="enter_serving_weight">Introduceţi primul greutate (g)</string>
+	<string name="enter_value">Introduceţi nutriţie</string>
+	<string name="get_started">A începe!</string>
+	<string name="get_started_second_text">Atingeţi "+" pentru a adăuga o intrare de jurnal.</string>
+	<string name="Input_Notes">Introduceţi aici notele</string>
+	<string name="meal_options">Opţiunile de masă</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Scopul personale</string>
+	<string name="Per_Cup">1 cana (250 grame) NOTUSED</string>
+	<string name="Per_Grams">100 de grame</string>
+	<string name="portion_caption">porţiunea</string>
+	<string name="RadioButton_Alpha">în ordine alfabetică, NOTYETUSED</string>
+	<string name="RadioButton_Sort">un fel de istorie NOTYETUSED</string>
+	<string name="Serving">Servire</string>
+	<string name="Show_More_Options">MAI MULTE OPȚIUNI</string>
+	<string name="show_total_with_meal">Arată o ţintă de nutriţie</string>
+	<string name="target_date">Data ţintă</string>
+	<string name="target_date_hint">Alege data ţintă</string>
+	<string name="transition_name_circle">tranziţie: cercul</string>
+	<string name="transition_name_name">NUMELE de tranziţie:</string>
+	<string name="transition_name_phone">tranziţie: telefon</string>
+	<string name="Type_Name">Căutare</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Unități metrice</string>
+	<string name="Units_US">Unități SUA</string>
+	<string name="Upgrade">Upgrade-ul</string>
+	<string name="weight_gram">greutate (g)</string>
+	<string name="InvalidEmailError">Adresa de poştă electronică nevalide</string>
+	<string name="NoGoalsTitle">Toate intrările</string>
+	<string name="SendReportTitle">Trimite raportul</string>
+	<string name="DeleteEntryMessage">Ștergeți această intrare\?</string>
+	<string name="NewBody">Multe imbunatatiri incluse: note, mai multe alimente, design mai bun şi mai mult.
+Descarca gratuit\?</string>
+	<string name="NewTitle">Versiunea 2.0 acum disponibil!</string>
+</resources>

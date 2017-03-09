@@ -1,0 +1,1411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\xamstore-xamarin.inappbilling.1.5\build\monoandroid\xamstore-xamarin.inappbilling.props" Condition="Exists('..\packages\xamstore-xamarin.inappbilling.1.5\build\monoandroid\xamstore-xamarin.inappbilling.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6B9FF94-CB03-4F9C-B4AE-89DD54BF5CD1}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FoodJournal.Android15</RootNamespace>
+    <AssemblyName>FoodJournal.Android15</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <MandroidI18n />
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;DEBUG1;ANDROID;SCREENSHOT;V16</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <EmbedAssembliesIntoApk>False</EmbedAssembliesIntoApk>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <AndroidLinkSkip>
+    </AndroidLinkSkip>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <Debugger>Xamarin</Debugger>
+    <DevInstrumentationEnabled>True</DevInstrumentationEnabled>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions>
+    </AndroidStoreUncompressedFileExtensions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG1;ANDROID;V16</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>Full</AndroidLinkMode>
+    <AndroidLinkSkip>Xamarin.InAppBilling</AndroidLinkSkip>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <Debugger>Xamarin</Debugger>
+    <DevInstrumentationEnabled>False</DevInstrumentationEnabled>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86</AndroidSupportedAbis>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GooglePlayServicesLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.GooglePlayServices.26.0.0.0\lib\MonoAndroid41\GooglePlayServicesLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NineOldAndroids, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NineOldAndroids.2.4.0\lib\MonoAndroid23\NineOldAndroids.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Reactive.Core, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-Core.2.2.5\lib\portable-windows8+net45+wp8\System.Reactive.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.Interfaces, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-Interfaces.2.2.5\lib\portable-windows8+net45+wp8\System.Reactive.Interfaces.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.Linq, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-Linq.2.2.5\lib\portable-windows8+net45+wp8\System.Reactive.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Reactive.PlatformServices, Version=2.2.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rx-PlatformServices.2.2.5\lib\portable-windows8+net45+wp8\System.Reactive.PlatformServices.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Mono.Data.Sqlite" />
+    <Reference Include="System.Windows" />
+    <Reference Include="Xamarin.Android.Support.Animated.Vector.Drawable, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.Animated.Vector.Drawable.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.Animated.Vector.Drawable.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.Design.23.4.0-beta1\lib\MonoAndroid43\Xamarin.Android.Support.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v4.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.AppCompat.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.CardView, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.CardView.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.v7.CardView.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Json" />
+    <Reference Include="Xamarin.Android.Support.v7.MediaRouter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.MediaRouter.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.v7.MediaRouter.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.RecyclerView.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.v7.RecyclerView.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.Vector.Drawable, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.Vector.Drawable.23.4.0-beta1\lib\MonoAndroid403\Xamarin.Android.Support.Vector.Drawable.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Ads, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.GooglePlayServices.Ads.29.0.0.2\lib\MonoAndroid41\Xamarin.GooglePlayServices.Ads.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.GooglePlayServices.Basement.29.0.0.2\lib\MonoAndroid41\Xamarin.GooglePlayServices.Basement.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.InAppBilling">
+      <HintPath>bin\Xamarin.InAppBilling.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\FoodJournal.Common\AppModel\AppStats.cs">
+      <Link>Common\AppModel\AppStats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\LocalStorage.cs">
+      <Link>Common\AppModel\LocalStorage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LittleWatson.cs">
+      <Link>Common\AppModel\Logging\LittleWatson.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\LogEntryType.cs">
+      <Link>Common\AppModel\Logging\LogEntryType.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\PerformanceScope.cs">
+      <Link>Common\AppModel\Logging\PerformanceScope.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Logging\SessionLog.cs">
+      <Link>Common\AppModel\Logging\SessionLog.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\ExceptionMessage.cs">
+      <Link>Common\AppModel\MessageQueue\ExceptionMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueue.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueue.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueDB.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MessageQueueRow.cs">
+      <Link>Common\AppModel\MessageQueue\MessageQueueRow.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\MilestoneMessage.cs">
+      <Link>Common\AppModel\MessageQueue\MilestoneMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Platform.cs">
+      <Link>Common\AppModel\Platform.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Reference.cs">
+      <Link>Common\AppModel\Service References\Reference.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\Services.cs">
+      <Link>Common\AppModel\Service References\Services.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Compatibility.cs">
+      <Link>Common\AppModel\UI\Compatibility.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Screen.cs">
+      <Link>Common\AppModel\UI\Screen.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\DateTimeExtensions.cs">
+      <Link>Common\Extensions\DateTimeExtensions.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Floats.cs">
+      <Link>Common\Extensions\Floats.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Ints.cs">
+      <Link>Common\Extensions\Ints.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\SortedList.cs">
+      <Link>Common\Extensions\SortedList.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Extensions\Strings.cs">
+      <Link>Common\Extensions\Strings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\EntryUpdatedMessage.cs">
+      <Link>Common\Messages\EntryUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ScreenshotMessage.cs">
+      <Link>Common\Messages\ScreenshotMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\ServiceSearchMessage.cs">
+      <Link>Common\Messages\ServiceSearchMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Cache.cs">
+      <Link>Common\Model\Cache.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Entry.cs">
+      <Link>Common\Model\Entry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\FoodItem.cs">
+      <Link>Common\Model\FoodItem.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\UserSettings.cs">
+      <Link>Common\Model\UserSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceDatabase2.cs">
+      <Link>Common\ResourceData\ResourceDatabase2.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceRecord2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceRecord2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ResourceData\ResourceSearch2Enumerator.cs">
+      <Link>Common\ResourceData\ResourceSearch2Enumerator.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Amount.cs">
+      <Link>Common\Values\Amount.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Period.cs">
+      <Link>Common\Values\Period.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Property.cs">
+      <Link>Common\Values\Property.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Values\Unit.cs">
+      <Link>Common\Values\Unit.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\PeriodVM.cs">
+      <Link>Common\ViewModels\PeriodVM.cs</Link>
+    </Compile>
+    <Compile Include="Activities\AdEventListener.cs" />
+    <Compile Include="Activities\AdWrapper.cs" />
+    <Compile Include="Activities\Trial.cs" />
+    <Compile Include="Activities\ViewDayActivity.cs" />
+    <Compile Include="Adapters\EntryListAdapter.cs" />
+    <Compile Include="Adapters\MainPagerAdapter.cs" />
+    <Compile Include="Fragments\AppFragments\BaseViewFragment.cs" />
+    <Compile Include="Fragments\AppFragments\GoalViewFragment.cs" />
+    <Compile Include="Fragments\AppFragments\ReportViewFragment.cs" />
+    <Compile Include="Fragments\AppFragments\JournalViewFragment.cs" />
+    <Compile Include="Fragments\AppFragments\TodayViewFragment.cs" />
+    <Compile Include="Activities\Trial1.cs" />
+    <Compile Include="Resources\AppResources.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\ModelObject.cs">
+      <Link>Common\AppModel\Data\ModelObject.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SQLite.cs">
+      <Link>Common\AppModel\Data\SQLite.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SQLiteCompat.cs">
+      <Link>Common\AppModel\Data\SQLiteCompat.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageQueue\EmailOutMessage.cs">
+      <Link>Common\AppModel\MessageQueue\EmailOutMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\BackgroundTask.cs">
+      <Link>Common\AppModel\UI\BackgroundTask.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\LocalizedStrings.cs">
+      <Link>Common\AppModel\UI\LocalizedStrings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\MenuLink.cs">
+      <Link>Common\AppModel\UI\MenuLink.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\SafeHandler.cs">
+      <Link>Common\AppModel\UI\SafeHandler.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\VMBase.cs">
+      <Link>Common\AppModel\UI\VMBase.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\MessageCenter.cs">
+      <Link>Common\AppModel\MessageCenter.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\PictureMessage.cs">
+      <Link>Common\Messages\PictureMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\RecipeUpdatedMessage.cs">
+      <Link>Common\Messages\RecipeUpdatedMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Messages\TranslationsMessage.cs">
+      <Link>Common\Messages\TranslationsMessage.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\CultureSettings.cs">
+      <Link>Common\Model\CultureSettings.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Pictures.cs">
+      <Link>Common\Model\Pictures.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\PropertyDictionary.cs">
+      <Link>Common\Model\PropertyDictionary.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\ServingSizeCollection.cs">
+      <Link>Common\Model\ServingSizeCollection.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\TranslationRequest.cs">
+      <Link>Common\Model\TranslationRequest.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDataModel.cs">
+      <Link>Common\Model\Data\FoodJournalDataModel.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Data\FoodJournalDB.cs">
+      <Link>Common\Model\Data\FoodJournalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\Recipe.cs">
+      <Link>Common\Model\Recipe.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\NavigationContext.cs">
+      <Link>Common\Runtime\NavigationContext.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Runtime\ScreenshotVM.cs">
+      <Link>Common\Runtime\ScreenshotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkers.cs">
+      <Link>Common\Search\SearchWorkers.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Search\SearchWorkerServices.cs">
+      <Link>Common\Search\SearchWorkerServices.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\DayPivotVM.cs">
+      <Link>Common\ViewModels\DayPivotVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\EntryDetailVM.cs">
+      <Link>Common\ViewModels\EntryDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\JournalVM.cs">
+      <Link>Common\ViewModels\JournalVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\LocalizationVM.cs">
+      <Link>Common\ViewModels\LocalizationVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipeDetailVM.cs">
+      <Link>Common\ViewModels\RecipeDetailVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\RecipesVM.cs">
+      <Link>Common\ViewModels\RecipesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SearchVM.cs">
+      <Link>Common\ViewModels\SearchVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\SettingsVM.cs">
+      <Link>Common\ViewModels\SettingsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountCollectionVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountCollectionVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\AmountVM.cs">
+      <Link>Common\ViewModels\Fragments\AmountVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\EntryRowVM.cs">
+      <Link>Common\ViewModels\Fragments\EntryRowVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IngredientVM.cs">
+      <Link>Common\ViewModels\Fragments\IngredientVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PicturesVM.cs">
+      <Link>Common\ViewModels\Fragments\PicturesVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\PropertyVM.cs">
+      <Link>Common\ViewModels\Fragments\PropertyVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\SearchResultVM.cs">
+      <Link>Common\ViewModels\Fragments\SearchResultVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\WeekStatsVM.cs">
+      <Link>Common\ViewModels\Fragments\WeekStatsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\IAcceptsNewEntry.cs">
+      <Link>Common\ViewModels\Fragments\IAcceptsNewEntry.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\IsolatedStorageCompat.cs">
+      <Link>Common\AppModel\Data\IsolatedStorageCompat.cs</Link>
+    </Compile>
+    <Compile Include="Activities\BuyNow.cs" />
+    <Compile Include="Activities\Feedback.cs" />
+    <Compile Include="Activities\Settings.cs" />
+    <Compile Include="Activities\Splash.cs" />
+    <Compile Include="App.cs" />
+    <Compile Include="Platform\Binding.cs" />
+    <Compile Include="Adapters\ServingSizeAdapter.cs" />
+    <Compile Include="Platform\Bind.cs" />
+    <Compile Include="Adapters\PropertyAdapter.cs" />
+    <Compile Include="Platform\StandardActivity.cs" />
+    <Compile Include="Platform\MenuLink.cs" />
+    <Compile Include="Platform\IRefreshableFragment.cs" />
+    <Compile Include="Platform\Screenshot.cs" />
+    <Compile Include="Platform\Reminders\AlarmService.cs" />
+    <Compile Include="Platform\Reminders\ScheduledActionService.cs" />
+    <Compile Include="Platform\BillingActivity.cs" />
+    <Compile Include="Views\WeekGraph.cs" />
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\DataContractSerialization.cs">
+      <Link>Common\AppModel\Data\Serialization\DataContractSerialization.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\Serialization\Serializer.cs">
+      <Link>Common\AppModel\Data\Serialization\Serializer.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\LocalDB.cs">
+      <Link>Common\AppModel\Data\LocalDB.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\Model\NoSQL\FoodJournalNoSQL.cs">
+      <Link>Common\Model\NoSQL\FoodJournalNoSQL.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Service References\SyncService.cs">
+      <Link>Common\AppModel\Service References\SyncService.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\AppModel\Data\SyncQueue.cs">
+      <Link>Common\AppModel\Data\SyncQueue.cs</Link>
+    </Compile>
+    <Compile Include="Activities\MainActivity.cs" />
+    <Compile Include="Adapters\SearchResultRecyclerAdapter.cs" />
+    <Compile Include="Fragments\TodayFragment.cs" />
+    <Compile Include="Adapters\TodayAdapter.cs" />
+    <Compile Include="..\FoodJournal.Common\ViewModels\PeriodDeleteVM.cs">
+      <Link>Common\ViewModels\PeriodDeleteVM.cs</Link>
+    </Compile>
+    <Compile Include="Adapters\VMRecyclerAdapter.cs" />
+    <Compile Include="..\FoodJournal.Common\ViewModels\GoalsVM.cs">
+      <Link>Common\ViewModels\GoalsVM.cs</Link>
+    </Compile>
+    <Compile Include="..\FoodJournal.Common\ViewModels\Fragments\GoalLineVM.cs">
+      <Link>Common\ViewModels\Fragments\GoalLineVM.cs</Link>
+    </Compile>
+    <Compile Include="Adapters\VMListAdapter.cs" />
+    <Compile Include="Fragments\JournalFragment.cs" />
+    <Compile Include="Platform\AndroidDebug.cs" />
+    <Compile Include="Activities\EntryEditActivity.cs" />
+    <Compile Include="Activities\AboutActivity.cs" />
+    <Compile Include="Platform\BillingWrapper.cs" />
+    <Compile Include="..\FoodJournal.Common\AppModel\UI\Colors.cs">
+      <Link>Common\AppModel\UI\Colors.cs</Link>
+    </Compile>
+    <Compile Include="Platform\AndroidUI.cs" />
+    <Compile Include="Fragments\ReportFragment.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\layout\EntryListItem.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Splash.axml" />
+    <AndroidResource Include="Resources\layout\Report.axml" />
+    <AndroidResource Include="Resources\layout\BuyNow.axml" />
+    <AndroidResource Include="Resources\layout\Feedback.axml" />
+    <AndroidResource Include="Resources\anim\add_to_basket_in.xml" />
+    <AndroidResource Include="Resources\anim\basket_in.xml" />
+    <AndroidResource Include="Resources\anim\enter.xml" />
+    <AndroidResource Include="Resources\anim\exit.xml" />
+    <AndroidResource Include="Resources\anim\product_detail_in.xml" />
+    <AndroidResource Include="Resources\anim\product_detail_out.xml" />
+    <AndroidResource Include="Resources\layout\Property.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable\ic_action_search.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_add.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_cancel.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_check.png" />
+    <AndroidResource Include="Resources\values\dimens.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values\strings.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values-nl\strings.xml" />
+    <AndroidResource Include="Resources\values-de\strings.xml" />
+    <AndroidResource Include="Resources\values-es\strings.xml" />
+    <AndroidResource Include="Resources\values-fr\strings.xml" />
+    <AndroidResource Include="Resources\values-it\strings.xml" />
+    <AndroidResource Include="Resources\values-pt\strings.xml" />
+    <AndroidResource Include="Resources\values-ru\strings.xml" />
+    <AndroidResource Include="Resources\values-th\strings.xml" />
+    <AndroidResource Include="Resources\values-zh\strings.xml" />
+    <AndroidResource Include="Resources\drawable\ic_overflow.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_add_i.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_cancel_i.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_check_i.png" />
+    <AndroidResource Include="Resources\drawable\divider.xml" />
+    <AndroidResource Include="Resources\drawable\listsectionbackground.xml" />
+    <AndroidResource Include="Resources\values-ar\strings.xml" />
+    <AndroidResource Include="Resources\values-bg\strings.xml" />
+    <AndroidResource Include="Resources\values-ca\strings.xml" />
+    <AndroidResource Include="Resources\values-cs\strings.xml" />
+    <AndroidResource Include="Resources\values-da\strings.xml" />
+    <AndroidResource Include="Resources\values-el\strings.xml" />
+    <AndroidResource Include="Resources\values-et\strings.xml" />
+    <AndroidResource Include="Resources\values-fa\strings.xml" />
+    <AndroidResource Include="Resources\values-fi\strings.xml" />
+    <AndroidResource Include="Resources\values-he\strings.xml" />
+    <AndroidResource Include="Resources\values-hi\strings.xml" />
+    <AndroidResource Include="Resources\values-hu\strings.xml" />
+    <AndroidResource Include="Resources\values-id\strings.xml" />
+    <AndroidResource Include="Resources\values-ja\strings.xml" />
+    <AndroidResource Include="Resources\values-ko\strings.xml" />
+    <AndroidResource Include="Resources\values-lt\strings.xml" />
+    <AndroidResource Include="Resources\values-lv\strings.xml" />
+    <AndroidResource Include="Resources\values-ms\strings.xml" />
+    <AndroidResource Include="Resources\values-pl\strings.xml" />
+    <AndroidResource Include="Resources\values-ro\strings.xml" />
+    <AndroidResource Include="Resources\values-sk\strings.xml" />
+    <AndroidResource Include="Resources\values-sl\strings.xml" />
+    <AndroidResource Include="Resources\values-sv\strings.xml" />
+    <AndroidResource Include="Resources\values-tr\strings.xml" />
+    <AndroidResource Include="Resources\values-uk\strings.xml" />
+    <AndroidResource Include="Resources\values-vi\strings.xml" />
+    <None Include="Platform\packages.config" />
+    <AndroidResource Include="Resources\layout\fragment_today_card.axml" />
+    <AndroidResource Include="Resources\layout\item_settings_add_meal.axml" />
+    <AndroidResource Include="Resources\layout\item_settings_top.axml" />
+    <AndroidResource Include="Resources\anim\pull_in_left.xml" />
+    <AndroidResource Include="Resources\anim\pull_in_left_half.xml" />
+    <AndroidResource Include="Resources\anim\pull_in_right.xml" />
+    <AndroidResource Include="Resources\anim\push_out_left.xml" />
+    <AndroidResource Include="Resources\anim\push_out_left_half.xml" />
+    <AndroidResource Include="Resources\anim\push_out_right.xml" />
+    <AndroidResource Include="Resources\drawable\menu_selector.xml" />
+    <AndroidResource Include="Resources\drawable\selector.xml" />
+    <AndroidResource Include="Resources\drawable\ic_1st.png" />
+    <AndroidResource Include="Resources\drawable\ic_2nd.png" />
+    <AndroidResource Include="Resources\drawable\ic_3rd.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_arrow_drop_down.png" />
+    <AndroidResource Include="Resources\drawable\ic_arrow_down.png" />
+    <AndroidResource Include="Resources\drawable\ic_assignment.png" />
+    <AndroidResource Include="Resources\drawable\ic_book.png" />
+    <AndroidResource Include="Resources\drawable\ic_breakfast.png" />
+    <AndroidResource Include="Resources\drawable\ic_clear.png" />
+    <AndroidResource Include="Resources\drawable\ic_color.png" />
+    <AndroidResource Include="Resources\drawable\ic_delete.png" />
+    <AndroidResource Include="Resources\drawable\ic_dinner.png" />
+    <AndroidResource Include="Resources\drawable\ic_done.png" />
+    <AndroidResource Include="Resources\drawable\ic_done_blue.png" />
+    <AndroidResource Include="Resources\drawable\ic_done_white.png" />
+    <AndroidResource Include="Resources\drawable\ic_drawer_background.png" />
+    <AndroidResource Include="Resources\drawable\ic_flag.png" />
+    <AndroidResource Include="Resources\drawable\ic_flag_grey.png" />
+    <AndroidResource Include="Resources\drawable\ic_help.png" />
+    <AndroidResource Include="Resources\drawable\ic_icon.png" />
+    <AndroidResource Include="Resources\drawable\ic_lunch.png" />
+    <AndroidResource Include="Resources\drawable\ic_mode_edit.png" />
+    <AndroidResource Include="Resources\drawable\ic_more_vert.png" />
+    <AndroidResource Include="Resources\drawable\ic_more_vert_black.png" />
+    <AndroidResource Include="Resources\drawable\ic_placeholder_dark.png" />
+    <AndroidResource Include="Resources\drawable\ic_placeholder_light.png" />
+    <AndroidResource Include="Resources\drawable\ic_poll.png" />
+    <AndroidResource Include="Resources\drawable\ic_report.png" />
+    <AndroidResource Include="Resources\drawable\ic_send.png" />
+    <AndroidResource Include="Resources\drawable\ic_send_blue.png" />
+    <AndroidResource Include="Resources\drawable\ic_settings.png" />
+    <AndroidResource Include="Resources\drawable\ic_share.png" />
+    <AndroidResource Include="Resources\drawable\ic_star.png" />
+    <AndroidResource Include="Resources\drawable\ic_stop.png" />
+    <AndroidResource Include="Resources\drawable\ic_trending.png" />
+    <AndroidResource Include="Resources\drawable\ic_view_agenda.png" />
+    <AndroidResource Include="Resources\menu\drawer.xml" />
+    <AndroidResource Include="Resources\menu\main.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\menu\menu_add_item.xml" />
+    <AndroidResource Include="Resources\menu\menu_cab.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\menu\menu_journal.xml" />
+    <AndroidResource Include="Resources\menu\menu_report.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\menu\search.xml" />
+    <None Include="packages.config" />
+    <AndroidResource Include="Resources\drawable\border.xml" />
+    <AndroidResource Include="Resources\drawable\ic_icon_empty.png" />
+    <AndroidResource Include="Resources\layout\activity_entrydetail.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_dialog.axml" />
+    <AndroidResource Include="Resources\layout\fragment_pager.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment_goals.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\layout_email_dialog.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_report_items.axml" />
+    <AndroidResource Include="Resources\layout\include_today_card.axml" />
+    <AndroidResource Include="Resources\layout\item_settings_add_nutrition.axml" />
+    <AndroidResource Include="Resources\anim\zoom_enter.xml" />
+    <AndroidResource Include="Resources\anim\zoom_exit.xml" />
+    <AndroidResource Include="Resources\layout\trial.axml" />
+    <AndroidResource Include="Resources\layout\trial1.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\trial2.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\trial3.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_nutrition.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_about_info.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_frame.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_main.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_send_day_report.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_settings.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\dialog.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\dialog_copy_from_similar.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment_journal.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment_report.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\header_navigation.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_about.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_fragment_journal.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_journal.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_report.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_send_day_report.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\include_settings.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\activity_send_week_report.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment_card.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_add_items_serving.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_chart.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_dialog_copy.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_dialog_copy_line.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_dialog_section.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_edit_entry_top.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_goalline.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_journal_card.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_journal_day.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_journal_entry.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_journal_period.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_nutrition.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_nutrition_dynamic_items.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_serving.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_servings_dynamic_item.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_servings_show_more.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_add_reminder.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_meal.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_meal_edit.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_property.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_reminder.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_settings_reminder_top.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_today_card.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\deletedata_dialog.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\BuySubscription.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <AndroidResource Include="Resources\menu\main_activity_actions.xml" />
+    <AndroidResource Include="Resources\anim\inleft.xml" />
+    <AndroidResource Include="Resources\anim\inright.xml" />
+    <AndroidResource Include="Resources\anim\outright.xml" />
+    <AndroidResource Include="Resources\anim\outleft.xml" />
+    <AndroidResource Include="Resources\values\styles.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values\color.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable\ic_action_left.png" />
+    <AndroidResource Include="Resources\drawable\ic_action_right.png" />
+    <AndroidResource Include="Resources\drawable\ic_launcher.png" />
+    <AndroidResource Include="Resources\drawable\listitemselector.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\ResourceData\" />
+    <Folder Include="Common\AppModel\ResourceData\" />
+    <Folder Include="Common\Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="googleplayservicesgingerbread">
+      <Version>16.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="xamarin.inappbilling">
+      <Version>2.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="json.net">
+      <Version>4.5.11</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-en-Data.txt">
+      <Link>Assets\V2-en-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-nl-Data.txt">
+      <Link>Assets\V2-nl-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-nl-Index.txt">
+      <Link>Assets\V2-nl-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-en-Index.txt">
+      <Link>Assets\V2-en-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-de-Data.txt">
+      <Link>Assets\V2-de-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-de-Index.txt">
+      <Link>Assets\V2-de-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-es-Data.txt">
+      <Link>Assets\V2-es-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-es-Index.txt">
+      <Link>Assets\V2-es-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fr-Data.txt">
+      <Link>Assets\V2-fr-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fr-Index.txt">
+      <Link>Assets\V2-fr-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-it-Data.txt">
+      <Link>Assets\V2-it-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-it-Index.txt">
+      <Link>Assets\V2-it-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-pt-Data.txt">
+      <Link>Assets\V2-pt-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-pt-Index.txt">
+      <Link>Assets\V2-pt-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ru-Data.txt">
+      <Link>Assets\V2-ru-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ru-Index.txt">
+      <Link>Assets\V2-ru-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-th-Data.txt">
+      <Link>Assets\V2-th-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-th-Index.txt">
+      <Link>Assets\V2-th-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-zh-Data.txt">
+      <Link>Assets\V2-zh-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-zh-Index.txt">
+      <Link>Assets\V2-zh-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ar-Data.txt">
+      <Link>Assets\V2-ar-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ar-Index.txt">
+      <Link>Assets\V2-ar-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-bg-Data.txt">
+      <Link>Assets\V2-bg-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-bg-Index.txt">
+      <Link>Assets\V2-bg-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-br-Data.txt">
+      <Link>Assets\V2-br-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-br-Index.txt">
+      <Link>Assets\V2-br-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ca-Data.txt">
+      <Link>Assets\V2-ca-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ca-Index.txt">
+      <Link>Assets\V2-ca-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-cs-Data.txt">
+      <Link>Assets\V2-cs-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-cs-Index.txt">
+      <Link>Assets\V2-cs-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-da-Data.txt">
+      <Link>Assets\V2-da-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-da-Index.txt">
+      <Link>Assets\V2-da-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-el-Data.txt">
+      <Link>Assets\V2-el-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-el-Index.txt">
+      <Link>Assets\V2-el-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-et-Data.txt">
+      <Link>Assets\V2-et-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-et-Index.txt">
+      <Link>Assets\V2-et-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fa-Data.txt">
+      <Link>Assets\V2-fa-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fa-Index.txt">
+      <Link>Assets\V2-fa-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fi-Data.txt">
+      <Link>Assets\V2-fi-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-fi-Index.txt">
+      <Link>Assets\V2-fi-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-gb-Data.txt">
+      <Link>Assets\V2-gb-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-gb-Index.txt">
+      <Link>Assets\V2-gb-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-he-Data.txt">
+      <Link>Assets\V2-he-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-he-Index.txt">
+      <Link>Assets\V2-he-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-hi-Data.txt">
+      <Link>Assets\V2-hi-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-hi-Index.txt">
+      <Link>Assets\V2-hi-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-hu-Data.txt">
+      <Link>Assets\V2-hu-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-hu-Index.txt">
+      <Link>Assets\V2-hu-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-id-Data.txt">
+      <Link>Assets\V2-id-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-id-Index.txt">
+      <Link>Assets\V2-id-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ja-Data.txt">
+      <Link>Assets\V2-ja-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ja-Index.txt">
+      <Link>Assets\V2-ja-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ko-Data.txt">
+      <Link>Assets\V2-ko-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ko-Index.txt">
+      <Link>Assets\V2-ko-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-lt-Data.txt">
+      <Link>Assets\V2-lt-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-lt-Index.txt">
+      <Link>Assets\V2-lt-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-lv-Data.txt">
+      <Link>Assets\V2-lv-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-lv-Index.txt">
+      <Link>Assets\V2-lv-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ms-Data.txt">
+      <Link>Assets\V2-ms-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ms-Index.txt">
+      <Link>Assets\V2-ms-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-mx-Data.txt">
+      <Link>Assets\V2-mx-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-mx-Index.txt">
+      <Link>Assets\V2-mx-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-no-Data.txt">
+      <Link>Assets\V2-no-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-no-Index.txt">
+      <Link>Assets\V2-no-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-pl-Data.txt">
+      <Link>Assets\V2-pl-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-pl-Index.txt">
+      <Link>Assets\V2-pl-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ro-Data.txt">
+      <Link>Assets\V2-ro-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-ro-Index.txt">
+      <Link>Assets\V2-ro-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sk-Data.txt">
+      <Link>Assets\V2-sk-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sk-Index.txt">
+      <Link>Assets\V2-sk-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sl-Data.txt">
+      <Link>Assets\V2-sl-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sl-Index.txt">
+      <Link>Assets\V2-sl-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sv-Data.txt">
+      <Link>Assets\V2-sv-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-sv-Index.txt">
+      <Link>Assets\V2-sv-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-tr-Data.txt">
+      <Link>Assets\V2-tr-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-tr-Index.txt">
+      <Link>Assets\V2-tr-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-uk-Data.txt">
+      <Link>Assets\V2-uk-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-uk-Index.txt">
+      <Link>Assets\V2-uk-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-vi-Data.txt">
+      <Link>Assets\V2-vi-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-vi-Index.txt">
+      <Link>Assets\V2-vi-Index.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-zt-Data.txt">
+      <Link>Assets\V2-zt-Data.txt</Link>
+    </AndroidAsset>
+    <AndroidAsset Include="..\FoodJournal.Common\ResourceData\V2-zt-Index.txt">
+      <Link>Assets\V2-zt-Index.txt</Link>
+    </AndroidAsset>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\goals.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_action_check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_done_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_flag_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_mode_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_more_vert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_send_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_action_check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_done_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_flag_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_mode_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_more_vert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_send_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_action_check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_done_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_flag_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_mode_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_more_vert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_send_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_action_check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_done_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_flag_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_mode_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_more_vert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_send_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_assignment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_done_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_flag_grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_mode_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_more_vert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_send_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_icon_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ic_bullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\trial_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\ic_deletedata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-mdpi\ic_deletedata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_deletedata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_deletedata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_deletedata.png" />
+  </ItemGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\xamstore-xamarin.inappbilling.1.5\build\monoandroid\xamstore-xamarin.inappbilling.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\xamstore-xamarin.inappbilling.1.5\build\monoandroid\xamstore-xamarin.inappbilling.props'))" />
+    <Error Condition="!Exists('..\packages\Xamarin.GooglePlayServices.Basement.29.0.0.2\build\Xamarin.GooglePlayServices.Basement.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.GooglePlayServices.Basement.29.0.0.2\build\Xamarin.GooglePlayServices.Basement.targets'))" />
+  </Target>
+  <Import Project="..\packages\Xamarin.GooglePlayServices.Basement.29.0.0.2\build\Xamarin.GooglePlayServices.Basement.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Basement.29.0.0.2\build\Xamarin.GooglePlayServices.Basement.targets')" />
+</Project>

@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>el-GR</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>ΗΜΕΡΟΛΌΓΙΟ ΤΡΟΦΊΜΩΝ</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Κοινά Στοιχεία</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Διαγραφή</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Δεν έχει γίνει καμία επιλογή</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Πρόσφατη πρωινό</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Πρόσφατο δείπνο στοιχεία</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Μου πρόσφατη excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Πρόσφατη γεύμα στοιχεία</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Πρόσφατα στοιχεία σνακ</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>ΗΜΕΡΟΛΌΓΙΟ ΤΡΟΦΊΜΩΝ</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>ΗΜΕΡΟΛΌΓΙΟ ΤΡΟΦΊΜΩΝ- </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Πρωινό</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Δείπνο</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Άσκηση</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Μεσημεριανό</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Σνακ</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Αναζήτηση</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Σήμερα</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Ποσό</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Ασβέστιο</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Θερμίδες</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Υδατάνθρακες</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Χοληστερίνη</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Ίνα</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Σίδηρος</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Μονοακόρεστα λιπαρά</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Πολυακόρεστα λιπαρά</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Κάλιο</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Πρωτεΐνες</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Κορεσμένα λιπαρά</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Νάτριο</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Ζάχαρη</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Συνολικά λιπαρά</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Βιταμίνη C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Βιταμίνη D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>"βάρος"</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Προτιμήσεις</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Εισαγάγετε έναν όρο αναζήτησης</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (συνοπτικά)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (νέα συνταγή)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Αποτελέσματα αναζήτησης</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} δεν βρέθηκε, δοκιμάστε να αλλάξετε τον όρο αναζήτησης</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Προσθήκη</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Όνομα</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Διατροφη</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>ΠΛΗΡΟΦΟΡΊΕΣ ΤΡΟΦΊΜΩΝ</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Παρακαλούμε εισάγετε βάρος πρώτα</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Μέγεθος μερίδας</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Πόσο?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>περισσότερες επιλογές</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Δεν ΘΡΕΠΤΙΚΗ ΑΞΙΑ</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Προσθέσετε ένα μέγεθος της μερίδας</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Προσθήκη</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Ημερολόγιο</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>διαφήμιση</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>Centiliter</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Κούπα</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>Δεκατόλιτρο</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Ουγγιά όγκου</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Γαλόνι</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Γραμμάριο</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Κιλά</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Λίτρο</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>Χιλιοστόλιτρο</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Ουγγιά</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Πίντα</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Λίβρα</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Quart</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Κουταλιά της σούπας</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Κουταλάκι του γλυκού</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Κύπελλα</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Deciliters</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>Ρευστές ουγγιές</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Γαλόνια</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Γραμμάρια</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Κιλά</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Λίτρα</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Χιλιοστόλιτρα</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>Ουγγιές</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Πίντες</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Λίβρες</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Τέταρτα γαλλονιού</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Κουταλιές της σούπας</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Κουταλάκια του γλυκού</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>el</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-mail από το ημερολόγιο τροφίμων</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Ποσό:</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>φόρτωση</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Ενημέρωση τώρα</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Σας ευχαριστούμε που χρησιμοποιείτε αυτό το App! Αυτό το αντίγραφο είναι τώρα να λήξει. Αλλά μην ανησυχείτε, θα σας μεταφέρει στη σελίδα λήψης να ενημερώσετε εάν πατήσετε το Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>Το έργο αυτό ενημερώνει το Live κεραμίδι για το ημερολόγιο των τροφίμων.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Έχετε απενεργοποιήσει την εφαρμογή πλακιδίων που ζουν στις ρυθμίσεις του τηλεφώνου.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Τις προτιμήσεις μου</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Count λείπει γεύματα στο κεραμίδι app</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Υπενθυμίσεις</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Ρυθμίσεις</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Έχει συσταθεί το κεραμίδι</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Αναφορά</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Αναφορά</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 oz = 28 g|Κουταλάκι του γλυκού = 4.5 g|Κουταλιά της σούπας = 12 g|1 μερίδα = 28 g|Κομμάτι = 14 g|Φέτα = 12 Κύπελλο g|1 = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Λήψη φωτογραφίας</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Σας ευχαριστούμε που χρησιμοποιείτε αυτό το App! Αν σας φανεί χρήσιμο, παρακαλώ βοηθήστε με να γίνει επιτυχής από αφήνοντας μια κριτική.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Αφήστε μια κριτική;</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Στόχοι</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Κανένα σύνολο γκολ</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Στο τέλος της ημέρας</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Τι φάγατε;</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Υπενθύμιση: ενημέρωση σας ημερολόγιο</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>επιλεγμένο υπενθυμίσεις εμφανίζονται αν δεν έχετε ενημερώσει σας ημερολόγιο από την επιλεγμένη ώρα</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Χυμό πορτοκαλιού, 1 φλιτζάνι, τοστ, 1 φέτα, αυγό, 1 μέτρια, καφέ, μήλο, μπανάνα</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} έναντι στόχου</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>{0} απομένει</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Χρονικό</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Επιλέξτε OK για να αφαιρέστε τις διαφημίσεις από το app.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Αφαιρέστε τις διαφημίσεις;</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Το ήταν ένα πρόβλημα κατά τη σύνδεση στο κατάστημα Windows Phone. Παρακαλώ προσπαθήστε ξανά αργότερα.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Αναφορά προβλήματος</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Προτείνω ένα χαρακτηριστικό ή μια ερώτηση</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Βαθμολογήστε αυτό το app</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Συγκεκριμένη ανατροφοδότηση βοηθά στη βελτίωση της app</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Βοηθήσει να βελτιώσει τη μετάφραση</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Περιλαμβάνεται μια οθόνη συλλαμβάνει</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Κοινή χρήση μιας σύνδεσης</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Να κατεβάσετε αυτό το app</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Κείμενο ημερολόγιο τροφίμων</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Αναχώρηση τροφίμων ημερολόγιο για Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Ημερολόγιο τροφίμων</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Κοινά στοιχεία πρωινό</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Κοινά στοιχεία δείπνο</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Κοινά στοιχεία γεύμα</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Κοινά στοιχεία σνακ</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Γεύματα</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Πρωί</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Νωρίς το απόγευμα</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Απόγευμα</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Ξεχωριστό δεκατιανό</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Ξεχωριστό αρχές απογευματινό σνακ</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Ξεχωριστό απογευματινό σνακ</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Βράδυ</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Ξεχωριστά τα μεσάνυχτα σνακ</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Μεσάνυχτα</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Συνδυάζουν σνακ</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Ξεχωριστό απογευματινό</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Πρόσφατα στοιχεία απογευματινό</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Πρόσφατα πρώτα απογευματινό στοιχεία</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Πρόσφατη βράδυ στοιχεία</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Τελευταία τα μεσάνυχτα στοιχεία</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Πρόσφατη πρωί στοιχεία</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Κοινά στοιχεία απογευματινό</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Κοινά νωρίς απογευματινό στοιχεία</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Κοινά στοιχεία βράδυ</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Κοινά στοιχεία τα μεσάνυχτα</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Κοινά στοιχεία πρωί</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Σας ευχαριστούμε που δοκιμάσατε το ημερολόγιο τροφίμων. Έχετε {0} δίκη ημέρες παραμένω. Πατήστε OK για να ξεκλειδώσετε το app.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Ξεκλειδώσετε τώρα;</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Τώρα είναι έληξε δίκη σας. Μπορείτε να δείτε ακόμα το περιοδικό σας, αλλά δεν μπορείτε να προσθέσετε νέες εγγραφές. Επιλέξτε OK για να ξεκλειδώσετε την πλήρη έκδοση.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Απομακρύνω διαφημίσεις</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Καταργήσετε οριστικά όλες τις διαφημίσεις</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Σημείωση: Αυτή είναι μια πρόωρη έκδοση (beta), η βάση δεδομένων τροφίμων επεκτείνεται συνεχώς. Αν έχετε οποιεσδήποτε προτάσεις, παρακαλώ στείλτε e-mail daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Ημερολόγιο τροφίμων</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Ανατροφοδότηση από υπάρχοντες χρήστες:
+-Αυτό το app είναι μια ευλογία από την άποψη της εύκολο χειρισμό. 
+-Αυτό το app έχει όλα τα χαρακτηριστικά που απαιτούνται σε ένα απλό σχέδιο. Καθιστά πραγματικά καταγραφή καθημερινές διατροφικές συνήθειες που πολύ πιο εύκολη από άλλες εφαρμογές. Ξέρω ότι μ ' αρέσει!
+-Το καλύτερο του είδους
+-Είναι διεξοδική, καλά οργανωμένη, εύκολο στη χρήση
+-Μου αρέσει αυτό το app! Είναι απλό, ακόμη με κρατά σε κομμάτι ❤ και μου θυμίζει ακόμη και αν δεν έχω φάει ένα γεύμα. Σίγουρα μια μεγάλη βοήθεια στην προσπάθεια να είναι υγιείς με μου</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Βασικά χαρακτηριστικά:
+1. σχεδιαστεί ώστε να είναι ευκολότερη και γρηγορότερη τροφίμων ημερολόγιο app
+2. κοινή τρόφιμα και πρόσφατα καταναλώνονται τροφές είναι οι προτάσεις να κάνετε έναρξη πολύ γρήγορα
+3. δεν χρειάζεται να συνδεθείτε ή να εισάγετε προσωπικές πληροφορίες όπως η διεύθυνση ηλεκτρονικού ταχυδρομείου σας ή το βάρος
+4. μια υπάρχουσα βάση δεδομένων τροφίμων με ΘΡΕΠΤΙΚΗ ΑΞΙΑ
+5. μια μερίδα βολικό μέγεθος επιλογέα σάς επιτρέπει να καταχωρείτε ακριβώς τι φάγατε
+6. εύκολα να προσθέσετε νέες τροφές που δεν γνωρίζουν ακόμη το app
+7. η ημερήσια έκθεση δείχνουν όλες τις λεπτομέρειες της διατροφή
+8. μια εβδομαδιαία έκθεση δείχνει πώς μπορείτε να παρακολουθείτε σε σχέση με τους στόχους σας διατροφή
+9. διαμορφώσιμες υπενθυμίσεις να βεβαιωθείτε ότι σας μην ξεχάσετε να συμπληρώσετε σας ημερολόγιο
+10. το live κεραμίδι δείχνει πόσα γεύματα πρέπει να είναι γεμάτο ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Αν είστε σε μια διατροφή, ή θα θέλατε να ξέρετε πόσες θερμίδες, λίπος, πρωτεΐνη ή υδατάνθρακες που τρώτε κάθε μέρα, αυτό είναι το app για σας.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Ημερολόγιο τροφίμων είναι ο ευκολότερος τρόπος για να παρακολουθείτε τι τρώτε κάθε μέρα.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Διατροφη</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Θερμίδες</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Διατροφή</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Εφημερίδα τροφίμων</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Θερμίδα μετρητή</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Μπανάνα</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Καφές</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Μήλο</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Αυγό</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 φέτα</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>ειδοποίηση</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 φλιτζάνι</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Χυμό πορτοκαλιού</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Σας ευχαριστώ για την υποστήριξή σας! Χρησιμοποιήστε αυτήν την επιλογή για να καταργήσετε οριστικά τις διαφημίσεις από το app σας ημερολόγιο τροφίμων.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Αφαιρέστε τις διαφημίσεις</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Εισάγετε βάρος</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Λήξει η δοκιμαστική περίοδος, ξεκλειδώσετε;</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 μέτρια</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>Σχετικά με</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Ο γρηγορότερος και ευκολότερος τρόπος για να παρακολουθείτε τι τρώτε.
+
+Μετακινηθείτε προς τα κάτω για πληροφορίες σχετικά με την ακρίβεια των δεδομένων.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Αναβάθμιση τώρα</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Αγοράσει την έκδοση premium</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Τροφίμων εγγραφών για {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Κάτι αναπάντεχο πήγε στραβά. Η εφημερίδα δεν στάλθηκε.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Παρακαλώ εισάγετε μια έγκυρη διεύθυνση e-mail.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Συνολικά</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>μόνο {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Υποστήριξη της ανάπτυξης</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>ΑΠΟΠΟΊΗΣΗ ΕΥΘΥΝΏΝ:
+Οι περισσότεροι, αλλά δεν είναι όλα τα σημεία δεδομένων στη βάση δεδομένων που προέρχονται από αξιόπιστες πηγές. Εμείς κάνουμε το καλύτερο για να βεβαιωθείτε ότι όλες οι τιμές είναι ακριβείς, αλλά δεν φέρει καμία ευθύνη για ανακριβείς ή ελλείπουσες δεδομένων. Θρεπτικές αξίες ποικίλλουν από μάρκα και διαχρονικά. Χρησιμοποιώντας αυτό το app, συμφωνείτε να εξακριβώσουμε και να διορθώσουμε όλα τα δεδομένα στο app, και να είναι πλήρως υπεύθυνη για βλάβη ή ζημία λόγω της χρήσης του.
+
+Παρακαλώ επιτρέψτε μου να ξέρω αν υπάρχει κάτι που μπορώ να σας βοηθήσω.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Βοηθούν να κρατήσουν τις ενημερωμένες εκδόσεις για αυτό το app έρχεται</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Πάρει όλα τα χαρακτηριστικά</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Περιλαμβάνονται:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Σημείωση: Τα περισσότερα, αλλά δεν είναι όλα στοιχεία που προέρχονται από αξιόπιστες πηγές. Αγοράζοντας την έκδοση ασφαλίστρου, αποδέχεστε την πλήρη ευθύνη για την ακρίβεια και την πληρότητα των δεδομένων. E-mail daily.journal@outlook.com για λεπτομέρειες.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Νέα χαρακτηριστικά</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Όλα τα premium διαθέτει στο μέλλον ενημερώσεις</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Περισσότερα γεύματα</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Για την παρακολούθηση των 5, 6 ή περισσότερα γεύματα ημερησίως</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Περισσότερα τρόφιμα *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Εκατοντάδες χιλιάδες περισσότερα τρόφιμα στοιχεία (ανάλογα με την τοποθεσία)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Εκθέσεις ηλεκτρονικού ταχυδρομείου</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-mail σας εφημερίδα να αποθηκεύσετε, εκτυπώσετε, ή να αναλύσει</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>ΟΧΙ ΔΙΑΦΗΜΙΣΕΙΣ</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Καταργούνται οριστικά όλες τις διαφημίσεις</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Αγοράστε τώρα</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Στείλτε μέσω ηλεκτρονικού ταχυδρομείου</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Στείλτε τώρα</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Διεύθυνση ηλεκτρονικού ταχυδρομείου</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Αποκτήστε πρόσβαση σε όλες τις δυνατότητες</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Αναβάθμιση σε premium</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Σημείωση: Οι περισσότεροι, αλλά δεν είναι όλα τα σημεία δεδομένων στη βάση δεδομένων που προέρχονται από αξιόπιστες πηγές. Εμείς κάνουμε το καλύτερο για να βεβαιωθείτε ότι είναι ακριβείς τιμές, αλλά δεν φέρει καμία ευθύνη για ανακριβείς ή ελλείπουσες δεδομένων. Χρησιμοποιώντας το app, αναγνωρίζετε και αποδέχεσθε την πλήρη ευθύνη για τον έλεγχο της ακρίβειας των δεδομένων. Το app σας επιτρέπει να ενημερώσετε τυχόν ασυμφωνίες, μπορείτε να βρείτε.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Εφημερίδα από AAA
+Ερωτήσεις ή σχόλια; Απάντηση σε BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Υποβάλουν</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Παρακαλούμε να ενημερώσετε τα κείμενα σε αυτή τη λίστα με τις καλύτερες μεταφράσεις. Αφαιρέστε όλα τα κείμενα για τα είδη που είναι ακατάλληλες για την περιοχή σας.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Ευχαριστώ για τη βοήθειά σας!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Μεταφράσεις</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Εδώ μπορείτε να βοηθήσετε να βελτιώσει αυτό το app.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Αρχική:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Καλό</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Περιγραφή/ελέγχους:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Βελτιώσετε το app</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Εισάγετε το e-mail σας αν θέλετε να ενημερώνεστε.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Σχόλιο</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Βελτίωση μεταφράσεις</value>
+  </data>
+</root>

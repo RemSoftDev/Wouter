@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/addItemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mdtp_white"
+    android:orientation="vertical"
+    tools:context="com.uidesgin.AddItem"
+    android:layout_margin="@dimen/padding_none">
+    <TextView
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_standard"
+        android:text="@string/Nutrition"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textSize="@dimen/small_font_size"
+        android:id="@+id/textView12" />
+    <LinearLayout
+        android:id="@+id/layout_nutirition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/padding_none" />
+    <include
+        layout="@layout/item_settings_add_nutrition" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@color/button_material_dark"
+        android:id="@+id/view1" />
+    <TextView
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_standard"
+        android:text="@string/Meals"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textSize="@dimen/small_font_size"
+        android:id="@+id/textView1" />
+    <LinearLayout
+        android:id="@+id/layout_meals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/padding_none" />
+    <include
+        layout="@layout/item_settings_add_meal" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view"
+        android:layout_marginTop="@dimen/margin_normal"
+        android:background="@color/button_material_dark"
+        android:id="@+id/view1" />
+    <TextView
+        style="@style/AppTheme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_standard"
+        android:text="@string/meal_options"
+        android:textColor="@color/abc_secondary_text_material_light"
+        android:textSize="@dimen/small_font_size" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:layout_marginLeft="@dimen/margin_standard"
+        android:layout_marginEnd="@dimen/margin_standard"
+        android:layout_marginRight="@dimen/margin_standard"
+        android:background="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:weightSum="1">
+        <TextView
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/show_total_with_meal"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light" />
+        <CheckBox
+            android:id="@+id/checkbox_showtotal"
+            style="@style/AppTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginEnd="@dimen/margin_standard"
+        android:layout_marginRight="@dimen/margin_standard"
+        android:layout_marginStart="@dimen/margin_standard" />
+    <LinearLayout
+        android:id="@+id/layout_settings_add_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:layout_marginLeft="@dimen/margin_standard"
+        android:layout_marginEnd="@dimen/margin_standard"
+        android:layout_marginRight="@dimen/margin_standard"
+        android:weightSum="1">
+        <TextView
+            style="@style/AppTheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/enter_meal_time"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/abc_primary_text_material_light" />
+        <CheckBox
+            android:id="@+id/checkbox_add_time"
+            style="@style/AppTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground" />
+    </LinearLayout>
+</LinearLayout>

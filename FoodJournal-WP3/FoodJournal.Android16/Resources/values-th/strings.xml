@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">บันทึกอาหาร</string>
+	<string name="CommonItems">รายการทั่วไป</string>
+	<string name="Delete">ลบ</string>
+	<string name="EmptyEntryList">ไม่ได้รับการเลือก</string>
+	<string name="MyRecentItems_Breakfast">อาหารมื้อเช้าล่าสุด</string>
+	<string name="MyRecentItems_Dinner">รายการอาหารเย็นล่าสุด</string>
+	<string name="MyRecentItems_Exercise">การออกกำลังกายล่าสุดของฉัน</string>
+	<string name="MyRecentItems_Lunch">รายการอาหารเที่ยงล่าสุด</string>
+	<string name="MyRecentItems_Snack">รายการอาหารว่างล่าสุด</string>
+	<string name="PageTitle">บันทึกอาหาร</string>
+	<string name="PageTitleBase">อาหารไดอารี่- </string>
+	<string name="Period_Breakfast">อาหารเช้า</string>
+	<string name="Period_Dinner">อาหารเย็น</string>
+	<string name="Period_Exercise">ออกกำลังกาย</string>
+	<string name="Period_Lunch">อาหารกลางวัน</string>
+	<string name="Period_Snack">อาหารว่าง</string>
+	<string name="Search">ค้นหา</string>
+	<string name="Today">วันนี้</string>
+	<string name="StandardProperty_Amount">จำนวน</string>
+	<string name="StandardProperty_Calcium">แคลเซียม</string>
+	<string name="StandardProperty_Calories">แคลอรี่</string>
+	<string name="StandardProperty_Carbs">คาร์โบไฮเดรต</string>
+	<string name="StandardProperty_Cholesterol">ไขมัน</string>
+	<string name="StandardProperty_Fiber">ไฟเบอร์</string>
+	<string name="StandardProperty_Iron">เหล็ก</string>
+	<string name="StandardProperty_MonoFat">ไขมันไม่อิ่มตัวเชิงเดี่ยว</string>
+	<string name="StandardProperty_PolyFat">ไขมนไม่อิ่มตัวเชิงซ้อน</string>
+	<string name="StandardProperty_Potassium">โพแทสเซียม</string>
+	<string name="StandardProperty_Protein">โปรตีน</string>
+	<string name="StandardProperty_SatFat">ไขมันอิ่มตัว</string>
+	<string name="StandardProperty_Sodium">โซเดียม</string>
+	<string name="StandardProperty_Sugar">น้ำตาล</string>
+	<string name="StandardProperty_TotalFat">ไขมันทั้งหมด</string>
+	<string name="StandardProperty_VitaminC">วิตามินซี</string>
+	<string name="StandardProperty_VitaminD">วิตามินดี</string>
+	<string name="StandardProperty_Weight">น้ำหนัก</string>
+	<string name="Preferences">รายการที่ชอบ</string>
+	<string name="EmptySearchList">ป้อนคำค้นหา</string>
+	<string name="NewItemSuffix">(รายการใหม่)</string>
+	<string name="NewRecipeSuffix">(สูตรอาหารใหม่)</string>
+	<string name="SearchResults">ผลลัพธ์การค้นหา</string>
+	<string name="SearchTermNotFound">{0} ไม่พบ ลองเปลี่ยนคำค้นหาของคุณ</string>
+	<string name="AcceptNew">เพิ่ม</string>
+	<string name="Name">ชื่อ</string>
+	<string name="Nutrition">โภชนาการ</string>
+	<string name="PageTitleItemDetail">ข้อมูลอาหาร</string>
+	<string name="EnterWeight">กรุณาใส่น้ำหนักก่อน</string>
+	<string name="ServingSizes">ปริมาณที่เสิร์ฟ</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">ราคาเท่าไร\?</string>
+	<string name="MoreOptions">ตัวเลือกเพิ่มเติม</string>
+	<string name="NoNutritionInfo">ไม่มีข้อมูลโภชนาการ</string>
+	<string name="AddServingSize">เพิ่มจำนวนหน่วยบริโภค</string>
+	<string name="Add">เพิ่ม</string>
+	<string name="SelectDate">ปฏิทิน</string>
+	<string name="Advertisement">โฆษณา</string>
+	<string name="Unit_Centiliter">เซนติลิตร</string>
+	<string name="Unit_Cup">ถ้วย</string>
+	<string name="Unit_Deciliter">เดซิลิตร</string>
+	<string name="Unit_FluidOunce">ออนซ์ (ของเหลว)</string>
+	<string name="Unit_Gallon">แกลลอน</string>
+	<string name="Unit_Gram">กรัม</string>
+	<string name="Unit_Kilogram">กิโลกรัม</string>
+	<string name="Unit_Liter">ลิตร</string>
+	<string name="Unit_Milliliter">มิลลิลิตร</string>
+	<string name="Unit_Ounce">ออนซ์</string>
+	<string name="Unit_Pint">ไพนท์</string>
+	<string name="Unit_Pound">ปอนด์</string>
+	<string name="Unit_Quart">ควอร์ท</string>
+	<string name="Unit_Tablespoon">ช้อนโต๊ะ</string>
+	<string name="Unit_Teaspoon">ช้อนชา</string>
+	<string name="Units_Centiliter">เซนติลิตร</string>
+	<string name="Units_Cup">ถ้วย</string>
+	<string name="Units_Deciliter">เดซิลิตร</string>
+	<string name="Units_FluidOunce">ออนซ์ (ของเหลว)</string>
+	<string name="Units_Gallon">แกลลอน</string>
+	<string name="Units_Gram">กรัม</string>
+	<string name="Units_Kilogram">กิโลกรัม</string>
+	<string name="Units_Liter">ลิตร</string>
+	<string name="Units_Milliliter">มิลลิลิตร</string>
+	<string name="Units_Ounce">ออนซ์</string>
+	<string name="Units_Pint">ไพนท์</string>
+	<string name="Units_Pound">ปอนด์</string>
+	<string name="Units_Quart">ควอร์ท</string>
+	<string name="Units_Tablespoon">ช้อนโต๊ะ</string>
+	<string name="Units_Teaspoon">ช้อนชา</string>
+	<string name="DatabaseCulture">th</string>
+	<string name="FeedbackSubject">ส่งอีเมล์จากบันทึกอาหาร</string>
+	<string name="Equivalent">จำนวน</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">กำลังโหลด ...</string>
+	<string name="ExpiredCaption">ปรับปรุงข้อมูลเดี๋ยวนี้\?</string>
+	<string name="ExpiredMessage">ขอขอบคุณที่ใช้แอพพลิเคชั่นนี้! การอนุญาตใช้งานแอพพลิเคชั่นนี้ได้สิ้นสุดลงแล้ว แต่อย่ากังวล เราจะนำคุณไปยังหน้าดาวน์โหลดหากคุณกด ตกลง</string>
+	<string name="AgentDescription">งานนี้ช่วยปรับปรุงข้อมูลในไลฟ์ไทล์ของบันทึกอาหาร</string>
+	<string name="AgentDisabled">คุณได้ปิดการใช้งานแอพพลิเคชั่นไลฟ์ไทล์ที่อยู่ในการตั้งค่าโทรศัพท์</string>
+	<string name="PageTitleSettings">รายการที่ชอบของฉัน</string>
+	<string name="EnableLiveTile">นับจำนวนมื้อที่หายไปบนแอพพลิเคชั่นไทล์</string>
+	<string name="Reminders">การแจ้งเตือน</string>
+	<string name="SettingsScreen">การตั้งค่า</string>
+	<string name="PinToStart">ตั้งค่าไทล์</string>
+	<string name="OpenReport">รายงาน</string>
+	<string name="Report">รายงาน</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|ช้อนชา = 4.5 g|อาหารเสิร์ฟ g|1 12 = = 28 g|ชิ้น = 14 g|ชิ้น = 12 g|1 ถ้วย = 237 g</string>
+	<string name="TakeAPicture">ถ่ายภาพ</string>
+	<string name="ReviewBody">ขอบคุณที่ใช้แอพพลิเคชั่นนี้! หากคุณเห็นว่ามีประโยชน์ กรุณาช่วยการพัฒนาโดยการแสดงความคิดเห็น</string>
+	<string name="ReviewTitle">ให้ข้อเสนอแนะหรือไม่\?</string>
+	<string name="Goals">เป้าหมาย</string>
+	<string name="NoGoalSet">ไม่ตั้งเป้าหมาย</string>
+	<string name="EndOfDay">ช่วงสิ้นสุดวัน</string>
+	<string name="ReminderContent">คุณกินอะไรบ้าง\?</string>
+	<string name="ReminderTitle">การแจ้งเตือน: ปรับปรุงบันทึกของคุณ</string>
+	<string name="ReminderDescription">เลือกให้แสดงการเตือนหากคุณไม่ได้ปรับปรุงบันทึกของคุณภายในเวลาที่กำหนด</string>
+	<string name="ScreenshotTitles">น้ำส้ม 1 ถ้วย ขนมปัง 1 ชิ้น ไข่ กลาง 1 แอปเปิ้ล กล้วย กาแฟ</string>
+	<string name="GoalOver">{0} เกินเป้าหมาย</string>
+	<string name="GoalUnder">เหลืออีก {0}</string>
+	<string name="OpenJournal">บันทึกประจำวัน</string>
+	<string name="RemoveAdsText">เลือกตกลง เพื่อลบโฆษณาออกจากแอพพลิเคชั่น</string>
+	<string name="RemoveAdsTitle">เอาโฆษณาออกหรือไม่\?</string>
+	<string name="StoreException">มีปัญหาการเชื่อมต่อไปยังร้านวินโดว์ โฟน กรุณาลองใหม่ในภายหลัง</string>
+	<string name="Feedback_Email">รายงานปัญหา</string>
+	<string name="Feedback_EmailText">หรือแนะนำลักษณะ หรือถามคำถาม</string>
+	<string name="Feedback_Rate">ให้คะแนนแอพพลิเคชั่นนี้</string>
+	<string name="Feedback_RateText">ข้อเสนอแนะจะช่วยปรับปรุงแอพพลิเคชั่นนี้</string>
+	<string name="Feedback_Screenshot">ช่วยปรับปรุงการแปล</string>
+	<string name="Feedback_ScreenshotText">สามารถจับภาพหน้าจอได้ด้วย</string>
+	<string name="Feedback_Share">แชร์การเชื่อมโยง</string>
+	<string name="Feedback_ShareText">การดาวน์โหลดแอพพลิเคชั่นนี้</string>
+	<string name="ScreenshotSubject">ข้อความบันทึกอาหาร</string>
+	<string name="ShareMessage">ตรวจสอบไดอารี่อาหารสำหรับวินโดว์ โฟน</string>
+	<string name="ShareTitle">ไดอารี่อาหาร</string>
+	<string name="CommonItems_Breakfast">รายการอาหารเช้าทั่วไป</string>
+	<string name="CommonItems_Dinner">รายการอาหารเย็นทั่วไป</string>
+	<string name="CommonItems_Lunch">รายการอาหารกลางวันทั่วไป</string>
+	<string name="CommonItems_Snack">รายการอาหารว่างทั่วไป</string>
+	<string name="Meals">อาหาร</string>
+	<string name="Period_SnackMorning">เวลาเช้า</string>
+	<string name="Period_SnackEarlyAfternoon">หลังเที่ยง</string>
+	<string name="Period_SnackAfternoon">บ่าย</string>
+	<string name="Meals_SnackMorningEnabled">อาหารว่างช่วงเช้าที่แยกต่างหาก</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">อาหารว่างช่วงหลังเที่ยงที่แยกต่างหาก</string>
+	<string name="Meals_SnackAfternoonEnabled">อาหารว่างช่วงบ่ายที่แยกต่างหาก</string>
+	<string name="Period_SnackEvening">เวลาเย็น</string>
+	<string name="Meals_SnackMidnightEnabled">อาหารว่างช่วงดึกที่แยกต่างหาก</string>
+	<string name="Period_SnackMidnight">เที่ยงคืน</string>
+	<string name="Meals_SnacksCombined">รวมอาหารว่าง</string>
+	<string name="Meals_SnackEveningEnabled">อาหารว่างช่วงเย็นที่แยกต่างหาก</string>
+	<string name="MyRecentItems_SnackAfternoon">รายการอาหารบ่ายล่าสุด</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">รายการอาหารหลังเที่ยงล่าสุด</string>
+	<string name="MyRecentItems_SnackEvening">รายการอาหารกลางคืนล่าสุด</string>
+	<string name="MyRecentItems_SnackMidnight">รายการอาหารดึกล่าสุด</string>
+	<string name="MyRecentItems_SnackMorning">รายการอาหารเช้าล่าสุด</string>
+	<string name="CommonItems_SnackAfternoon">รายการอาหารช่วงบ่ายทั่วไป</string>
+	<string name="CommonItems_SnackEarlyAfternoon">รายการอาหารช่วงหลังเที่ยงทั่วไป</string>
+	<string name="CommonItems_SnackEvening">รายการอาหารเย็นทั่วไป</string>
+	<string name="CommonItems_SnackMidnight">รายการอาหารดึกทั่วไป</string>
+	<string name="CommonItems_SnackMorning">รายการอาหารเช้าทั่วไป</string>
+	<string name="UnlockFullBody">ขอบคุณที่คุณพยายามบันทึกอาหาร วันทดลองใช้ {0} ที่เหลือได้ กดตกลงเพื่อปลดล็อก app</string>
+	<string name="UnlockFullTitle">ปลดล็อก</string>
+	<string name="TrialExpiredBody">ทดลองตอนนี้หมดอายุ นอกจากนี้คุณยังสามารถดูสมุดรายวันของคุณ แต่คุณไม่สามารถเพิ่มรายการใหม่ เลือกตกลงเพื่อปลดล็อกเวอร์ชันเต็ม</string>
+	<string name="Feedback_RemoveAds">เอาโฆษณาออก</string>
+	<string name="Feedback_RemoveAdsText">ลบโฆษณาทั้งหมดอย่างถาวร</string>
+	<string name="StoreText_5">ดาวน์โหลดเดี๋ยวนี้เนื่องจากคุณจะรักใช้</string>
+	<string name="AppTitle">ไดอารี่อาหาร</string>
+	<string name="StoreText_4">คุณลักษณะพิเศษ:
+1. ไม่มีโฆษณาเพิ่มเติม
+2.ขนาดใหญ่อาหารแล้ว
+3.ความสามารถในการการอีเมลสำเนาของบริษัทผลิตนม
+4. กำหนดค่าตัวเลือกเพิ่มเติม รวมถึงความสามารถในการป้อนอาหารถึง 8 แยกวัน</string>
+	<string name="StoreText_3">คุณสมบัติ:
+1. การออกแบบที่ง่าย และมีประสิทธิภาพ: app เปิดบนหน้าจอรายการ ในอาหารล่าสุด เนื่องจากว่าเป็นสิ่งที่คุณจะใช้มากที่สุด การออกแบบทำรายการเพิ่มเป็นการง่ายที่สุด และ
+2. เคาะหนึ่งรายการกับข้อเสนอแนะส่วนบุคคล: ทันทีคุณสามารถเลือกรายการอาหารทั่วไปได้ เริ่มต้นในวันที่สอง รายการล่าสุดของคุณจะแนะนำ เพราะคุณอาจกินอาหารกันบ่อย ๆ นั้น
+3. บันทึกในไม่จำเป็น: ข้อมูลส่วนบุคคลหรือข้อมูลที่ติดต่อไม่
+4. พันรายการอยู่ในฐานข้อมูล: รายการอาหารส่วนใหญ่มีรายละเอียดเกี่ยวกับทั่วไปขนาดเสิร์ฟ แคลอรี่ คาร์โบไฮเดรต โปรตีน และไขมัน 
+5. เต็มออฟไลน์สนับสนุน: ไม่จำเป็นต้องเชื่อมต่อกับอินเทอร์เน็ต 
+6. รายการที่แม่นยำเป็นเรื่องง่าย: คุณสามารถป้อนจำนวนแน่นอนโดยใช้แถบเลื่อนอย่างถูกต้องได้
+7. ทุกวันที่รายงาน: ใช้เมนู คุณสามารถโดยตรงเปิดไดอารี่ ซึ่งแสดงบทสรุปของวันได้ ที่นี่คุณสามารถสลับระหว่างแคลอรี่ โปรตีน และคาร์โบไฮเดรต โดยการกดบนสามเหลี่ยมเล็กน้อย
+8. ติดตามเป้าหมาย: หลังจากป้อนเป้าหมายส่วนบุคคลของคุณ คุณสามารถใช้รายงานสัปดาห์เพื่อดูแนวโน้มของการ 
+9. บุคคลเตือนช่วยให้คุณอยู่ในเป้าหมาย: พวกเขาเป็นวิธีสะดวกให้แน่ใจว่า คุณกรอกข้อมูลของคุณไดอารี่ หลังอาหารแต่ละมื้อ หรือสิ้นสุดของวัน
+
+จึงควรตรวจสอบข้อมูลในฐานข้อมูลจะเหมือนกับข้อมูลบนบรรจุภัณฑ์ของอาหาร โภชนาการอาหารแกว่งไปมา กับแบรนด์ และ ช่วงเวลา
+
+ตรวจสอบให้แน่ใจว่าเพื่อหารือเกี่ยวกับเป้าหมายของคุณ ด้วยผู้เชี่ยวชาญด้านการแพทย์หรือโภชนาการ</string>
+	<string name="StoreText_2">เกี่ยวกับโปรแกรมประยุกต์:
+ติดตามของคุณกินได้ถูกแสดงเพื่อช่วยป้องกัน และหยุดรับประทานอาหารมากเกินไป
+App นี้ช่วยให้คุณควบคุมอาหารของคุณ และมีสุขภาพดี กิน โดยทำให้ง่ายในการติดตามสิ่งที่คุณกิน การออกแบบสุดจะทำให้รายการเป็นอย่างรวดเร็วแนะนำอาหาร ได้ 1 คลิกรายการ และล่าสุด ฐานข้อมูลในพันรายการอาหารที่มีอยู่แล้ว และถ้าคุณไม่ทราบว่า เพิ่มเป็นเรื่องง่าย
+
+โปรดทราบ: app นี้มีฟรีดาวน์โหลด และได้รับการสนับสนุน โดยการโฆษณา คุณสามารถใช้ฟรีตราบเท่าที่คุณต้องการ เป็นการเอาโฆษณาสำหรับค่า ซึ่งจะยังเปิดใช้งานคุณลักษณะเพิ่มเติม</string>
+	<string name="StoreText_1">อาหารไดอารี่: ของอาหารและแคลอรี่ที่ติดตาม app</string>
+	<string name="StoreKeyword_5">โภชนาการ</string>
+	<string name="StoreKeyword_4">แคลอรี่</string>
+	<string name="StoreKeyword_3">อาหาร</string>
+	<string name="StoreKeyword_2">บันทึกอาหาร</string>
+	<string name="StoreKeyword_1">ตัวนับแคลอรี่</string>
+	<string name="Screenshot_H3">กล้วย</string>
+	<string name="Screenshot_H2">กาแฟ</string>
+	<string name="Screenshot_H1">แอปเปิ้ล</string>
+	<string name="Screenshot_3a">ไข่</string>
+	<string name="Screenshot_2b">1 ชิ้น</string>
+	<string name="Screenshot_2a">ปิ้ง</string>
+	<string name="Screenshot_1b">1 ถ้วยตวง</string>
+	<string name="Screenshot_1a">น้ำส้ม</string>
+	<string name="Product_2">ขอบคุณสำหรับการสนับสนุนของคุณ ใช้ตัวเลือกนี้เพื่อลบโฆษณาจาก app ไดอารี่อาหารของคุณ</string>
+	<string name="Product_1">เอาโฆษณา</string>
+	<string name="CantCalculateNutrition">ใส่น้ำหนัก</string>
+	<string name="TrialExpiredTitle">หมดระยะเวลาทดลองใช้ ต้องการปลดล็อคหรือไม่\?</string>
+	<string name="Screenshot_3b">ปานกลาง 1</string>
+	<string name="SendFeedback">เกี่ยวกับ</string>
+	<string name="Feedback_Header">วิธีที่ง่ายที่สุด และเร็วที่สุดเพื่อติดตามสิ่งที่คุณกิน
+
+เลื่อนลงสำหรับข้อมูลเกี่ยวกับความแม่นยำของข้อมูล</string>
+	<string name="Feedback_Unlock">ปรับปรุงตอนนี้</string>
+	<string name="Feedback_UnlockText">ซื้อรุ่นพรีเมียม</string>
+	<string name="EmailReport_SubjectTemplate">บันทึกอาหารสำหรับ {0}</string>
+	<string name="EmailReport_Exception">มีข้อผิดพลาดที่คาดไม่ถึง บันทึกของคุณไม่ได้รับการส่ง</string>
+	<string name="EmailReport_InvalidEmailAddress">กรุณาใส่อีเมล์ที่ถูกต้อง</string>
+	<string name="Total">ผลรวม</string>
+	<string name="Price">เพียง {0}</string>
+	<string name="Feature6_Text">สนับสนุนการพัฒนา</string>
+	<string name="Feedback_Footer">หมายเหตุ:
+ส่วนใหญ่ แต่ไม่ทั้งหมดจุดข้อมูลในฐานข้อมูลมาจากแหล่งที่เชื่อถือ เราทำดีที่สุดเพื่อให้แน่ใจว่า ค่าทั้งหมดถูกต้อง แต่ไม่สามารถรับผิดชอบในข้อมูลไม่ถูกต้อง หรือไม่ คุณค่าทางโภชนาการแตกต่างกันไป ตามยี่ห้อ และ ช่วงเวลา โดยใช้ app นี้ คุณยอมรับ การตรวจสอบ และแก้ไขข้อมูลใด ๆ ใน app และรับผิดชอบอย่างเต็มที่สำหรับการบาดเจ็บหรือความเสียหายเนื่องจากการใช้
+
+กรุณาแจ้งให้เราทราบว่าไม่มีอะไรที่สามารถช่วยคุณด้วย</string>
+	<string name="Feature6_Desc">ช่วยให้ปรับปรุงแอพพลิเคชั่นนี้อยู่เสมอ</string>
+	<string name="GetAllFeatures">เลือกคุณสมบัติทั้งหมด</string>
+	<string name="Feature_Header">รวมแล้ว:</string>
+	<string name="Feature_Footer">* หมายเหตุ: ข้อมูลส่วนใหญ่ แต่ไม่ใช่ทั้งหมด มาจากแหล่งที่เชื่อถือได้ ด้วยการซื้อรุ่นพรีเมียม คุณยอมรับผิดชอบในความถูกต้องและความครบถ้วนของข้อมูล สำหรับรายละเอียดเพิ่มเติม กรุณาส่งอีเมล์มาที่ daily.journal@outlook.com</string>
+	<string name="Feature5_Text">ลักษณะใหม่</string>
+	<string name="Feature5_Desc">รุ่นพรีเมียมทุกรุ่นสามารถอัพเดตได้ในอนาคต</string>
+	<string name="Feature4_Text">อาหารเพิ่มเติม</string>
+	<string name="Feature4_Desc">สำหรับติดตามอาหาร 5 หรือ 6 มื้อหรือมากกว่า</string>
+	<string name="Feature3_Text">อาหารเพิ่มเติม *</string>
+	<string name="Feature3_Desc">รายการอาหารเพิ่มเติมอีกหลายร้อยถึงหลายพันรายการ (ขึ้นอยู่กับสถานที่)</string>
+	<string name="Feature2_Text">อีเมล์รายงาน</string>
+	<string name="Feature2_Desc">ส่งอีเมล์บันทึกของคุณ เพื่อใช้บันทึก พิมพ์ หรือวิเคราะห์ข้อมูล</string>
+	<string name="Feature1_Text">ไม่มีโฆษณา</string>
+	<string name="Feature1_Desc">โฆษณาทั้งหมดถูกลบออกอย่างถาวร</string>
+	<string name="BuyNow">ซื้อตอนนี้</string>
+	<string name="EmailReport_ShowSettings">ส่งทางอีเมล์</string>
+	<string name="EmailReport_SendNow">ส่งตอนนี้</string>
+	<string name="EmailReport_Address">อีเมล์</string>
+	<string name="Product_4">เข้าถึงคุณลักษณะทั้งหมด</string>
+	<string name="Product_3">อัพเกรดพรีเมี่ยม</string>
+	<string name="EmailReport_Footer2">หมายเหตุ: ข้อมูลส่วนใหญ่ แม้ไม่ใช่ทั้งหมดที่อยู่ในฐานข้อมูลมาจากแหล่งที่เชื่อถือได้  เราพยายามอย่างเต็มที่เพื่อให้ค่าต่างๆ มีความถูกต้อง แต่เราไม่สามารถรับผิดชอบหากข้อมูลไม่ถูกต้องหรือข้อมูลเกิดการสูญหาย  ด้วยการใช้แอพพลิเคชั่นนี้ คุณได้รับข้อมูล และยอมรับผิดชอบในการตรวจสอบความถูกต้องของข้อมูล  แอพพลิเคชั่นนี้จะเปิดโอกาสให้คุณปรับปรุงข้อมูลที่ขัดแย้งกันที่คุณอาจตรวจพบ</string>
+	<string name="EmailReport_Footer1">บันทึกโดย AAA
+คำถามหรือคำแนะนำ\? ตอบไปยัง BBB</string>
+	<string name="Localization_Submit">ส่ง</string>
+	<string name="Localization_TranslationsText">กรุณาปรับปรุงข้อความในรายการนี้ ด้วยการแปลดีกว่า เอาข้อความทั้งหมดสำหรับสินค้าที่ไม่เหมาะสมสำหรับภูมิภาคของคุณ</string>
+	<string name="Localization_ThankYou">ขอบคุณสำหรับความช่วยเหลือ!</string>
+	<string name="Localization_Translations">คำแปล</string>
+	<string name="Localization_Text">ตรงนี้ คุณสามารถช่วยปรับปรุงแอพพลิเคชั่นนี้ได้</string>
+	<string name="Localization_Original">ต้นฉบับ:</string>
+	<string name="Localization_Good">ดี</string>
+	<string name="Localization_Description">คำอธิบาย:</string>
+	<string name="Feedback_LocalizeText">ช่วยปรับปรุงแอพพลิเคชั่น</string>
+	<string name="Localization_CommentText">ใส่อีเมล์หากคุณต้องการให้ติดต่อกลับ</string>
+	<string name="Localization_Comment">ข้อเสนอแนะ</string>
+	<string name="Feedback_Localize">ปรับปรุงการแปล</string>
+	<string name="AddToLauncher">เพิ่มไปยังหน้าจอหลัก</string>
+	<string name="Avg">เฉลี่ย</string>
+	<string name="Cancel">ยกเลิก</string>
+	<string name="CopyFromSimilarItem">คัดลอกจากสินค้าที่เหมือนกัน</string>
+	<string name="DeleteEntry">ลบรายการ</string>
+	<string name="EnterTheWeightForThisAmount">กรอกน้ำหนักสำหรับจำนวนนี้</string>
+	<string name="MoreOptions2">ตัวเลือกเพิ่มเติม</string>
+	<string name="None">ไม่มี</string>
+	<string name="Ok">ตกลง</string>
+	<string name="OneDaySalePctOff">การลดราคา 1 วัน: ลด {0}%</string>
+	<string name="Total2">ผลรวม</string>
+	<string name="EmailReport_Footer1a">สมุดรายวัน โดย AAA</string>
+	<string name="EmailReport_Footer1b">คำถามหรือข้อคิดเห็น ตอบบีบีบี</string>
+	<string name="Add_New">รายการใหม่</string>
+	<string name="Add_Note">เพิ่มบันทึก</string>
+	<string name="add_target">เพิ่มโภชนาการ</string>
+	<string name="choose_time">ตั้งเวลา</string>
+	<string name="daily_target">โภชนาการ</string>
+	<string name="daily_target_hint">เป้าหมายในแต่ละวัน (ตัวเลือก)</string>
+	<string name="describe_goal">บรรยายเป้าหมายของคุณได้ที่นี่</string>
+	<string name="drawer_close">ปิด</string>
+	<string name="drawer_open">เปิด</string>
+	<string name="edit_meals">เลือกมื้ออาหาร</string>
+	<string name="enter_meal_time">ป้อนเวลาสำหรับแต่ละมื้อ</string>
+	<string name="enter_serving_weight">ป้อนน้ำหนัก (ก.) ก่อน</string>
+	<string name="enter_value">ป้อนโภชนาการ</string>
+	<string name="get_started">เริ่มต้นใช้งาน</string>
+	<string name="get_started_second_text">แตะ "+" เพื่อเพิ่มข้อมูลไปยังวารสาร</string>
+	<string name="Input_Notes">ป้อนบันทึกของคุณได้ที่นี่</string>
+	<string name="meal_options">ตัวเลือกมื้ออาหาร</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">เป้าหมายส่วนบุคคล</string>
+	<string name="Per_Cup">1 ถ้วย (250 กรัม) NOTUSED</string>
+	<string name="Per_Grams">100 กรัม</string>
+	<string name="portion_caption">ส่วนแบ่งของอาหาร</string>
+	<string name="RadioButton_Alpha">ตัวอักษร NOTYETUSED</string>
+	<string name="RadioButton_Sort">เรียงลำดับตามประวัติ NOTYETUSED</string>
+	<string name="Serving">หน่วยบริโภค</string>
+	<string name="Show_More_Options">ตัวเลือกเพิ่มเติม</string>
+	<string name="show_total_with_meal">แสดงเป้าหมายด้านโภชนาการ</string>
+	<string name="target_date">วันที่เป้าหมาย</string>
+	<string name="target_date_hint">เลือกวันที่เป้าหมาย</string>
+	<string name="transition_name_circle">เปลี่ยน: วงกลม</string>
+	<string name="transition_name_name">เปลี่ยนชื่อ:</string>
+	<string name="transition_name_phone">เปลี่ยน: โทรศัพท์</string>
+	<string name="Type_Name">ค้นหา</string>
+	<string name="Units_Kj">กิโลจูล</string>
+	<string name="Units_Metric">หน่วยวัด</string>
+	<string name="Units_US">หน่วยของสหรัฐอเมริกา</string>
+	<string name="Upgrade">อัปเกรด</string>
+	<string name="weight_gram">น้ำหนัก (ก.)</string>
+	<string name="InvalidEmailError">ที่อยู่อีเมลที่ไม่ถูกต้อง</string>
+	<string name="NoGoalsTitle">รายการทั้งหมด</string>
+	<string name="SendReportTitle">ส่งรายงาน</string>
+	<string name="DeleteEntryMessage">ลบรายการนี้หรือไม่</string>
+	<string name="NewBody">ปรับปรุงหลายรวม: บันทึก อาหารเพิ่มเติม การออกแบบที่ดี และอื่น ๆ
+ดาวน์โหลดฟรี</string>
+	<string name="NewTitle">รุ่น 2.0 มีให้</string>
+</resources>

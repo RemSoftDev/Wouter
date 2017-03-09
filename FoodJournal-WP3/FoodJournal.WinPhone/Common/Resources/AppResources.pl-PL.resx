@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>pl-PL</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>DZIENNIK ŻYWNOŚCI</value>
+  </data>
+  <data name="CommonItems" xml:space="preserve">
+    <value>Wspólne elementy</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Usuń</value>
+  </data>
+  <data name="EmptyEntryList" xml:space="preserve">
+    <value>Nie wybrano niczego</value>
+  </data>
+  <data name="MyRecentItems_Breakfast" xml:space="preserve">
+    <value>Ostatnie śniadanie</value>
+  </data>
+  <data name="MyRecentItems_Dinner" xml:space="preserve">
+    <value>Obiad ostatnich elementów</value>
+  </data>
+  <data name="MyRecentItems_Exercise" xml:space="preserve">
+    <value>Moje ostatnie excersizes</value>
+  </data>
+  <data name="MyRecentItems_Lunch" xml:space="preserve">
+    <value>Obiad ostatnich elementów</value>
+  </data>
+  <data name="MyRecentItems_Snack" xml:space="preserve">
+    <value>Najnowsze pozycje przekąska</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>DZIENNIK ŻYWNOŚCI</value>
+  </data>
+  <data name="PageTitleBase" xml:space="preserve">
+    <value>DZIENNIK ŻYWNOŚCI – </value>
+  </data>
+  <data name="Period_Breakfast" xml:space="preserve">
+    <value>Śniadanie</value>
+  </data>
+  <data name="Period_Dinner" xml:space="preserve">
+    <value>Kolacja</value>
+  </data>
+  <data name="Period_Exercise" xml:space="preserve">
+    <value>Ćwiczenia</value>
+  </data>
+  <data name="Period_Lunch" xml:space="preserve">
+    <value>Obiad</value>
+  </data>
+  <data name="Period_Snack" xml:space="preserve">
+    <value>Przekąska</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Wyszukaj</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Dzisiaj</value>
+  </data>
+  <data name="StandardProperty_Amount" xml:space="preserve">
+    <value>Kwota</value>
+  </data>
+  <data name="StandardProperty_Calcium" xml:space="preserve">
+    <value>Wapnia</value>
+  </data>
+  <data name="StandardProperty_Calories" xml:space="preserve">
+    <value>Kalorie</value>
+  </data>
+  <data name="StandardProperty_Carbs" xml:space="preserve">
+    <value>Węglowodany</value>
+  </data>
+  <data name="StandardProperty_Cholesterol" xml:space="preserve">
+    <value>Cholesterol</value>
+  </data>
+  <data name="StandardProperty_Fiber" xml:space="preserve">
+    <value>Światłowód</value>
+  </data>
+  <data name="StandardProperty_Iron" xml:space="preserve">
+    <value>Rdzeniem</value>
+  </data>
+  <data name="StandardProperty_MonoFat" xml:space="preserve">
+    <value>Jednonienasycone kwasy tłuszczowe</value>
+  </data>
+  <data name="StandardProperty_PolyFat" xml:space="preserve">
+    <value>Tłuszczów wielonienasyconych</value>
+  </data>
+  <data name="StandardProperty_Potassium" xml:space="preserve">
+    <value>Potasu</value>
+  </data>
+  <data name="StandardProperty_Protein" xml:space="preserve">
+    <value>Białko</value>
+  </data>
+  <data name="StandardProperty_SatFat" xml:space="preserve">
+    <value>Tłuszcz nasycony</value>
+  </data>
+  <data name="StandardProperty_Sodium" xml:space="preserve">
+    <value>Sod</value>
+  </data>
+  <data name="StandardProperty_Sugar" xml:space="preserve">
+    <value>Cukier</value>
+  </data>
+  <data name="StandardProperty_TotalFat" xml:space="preserve">
+    <value>Suma tłuszczów</value>
+  </data>
+  <data name="StandardProperty_VitaminC" xml:space="preserve">
+    <value>Witamina C</value>
+  </data>
+  <data name="StandardProperty_VitaminD" xml:space="preserve">
+    <value>Witamina D</value>
+  </data>
+  <data name="StandardProperty_Weight" xml:space="preserve">
+    <value>Waga</value>
+  </data>
+  <data name="Preferences" xml:space="preserve">
+    <value>Preferencje</value>
+  </data>
+  <data name="EmptySearchList" xml:space="preserve">
+    <value>Wprowadź wyszukiwany termin</value>
+  </data>
+  <data name="NewItemSuffix" xml:space="preserve">
+    <value> (nowość)</value>
+  </data>
+  <data name="NewRecipeSuffix" xml:space="preserve">
+    <value> (nowy przepis)</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Wyniki wyszukiwania</value>
+  </data>
+  <data name="SearchTermNotFound" xml:space="preserve">
+    <value>{0} nie można odnaleźć, spróbuj zmienić wyszukiwane</value>
+  </data>
+  <data name="AcceptNew" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nazwa</value>
+  </data>
+  <data name="Nutrition" xml:space="preserve">
+    <value>Odżywianie</value>
+  </data>
+  <data name="PageTitleItemDetail" xml:space="preserve">
+    <value>INFORMACJI NA TEMAT ŻYWNOŚCI</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>Podaj wagę po raz pierwszy</value>
+  </data>
+  <data name="ServingSizes" xml:space="preserve">
+    <value>Rozmiar porcji</value>
+  </data>
+  <data name="CommaListSeparater" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="HowMuch" xml:space="preserve">
+    <value>Ile?</value>
+  </data>
+  <data name="MoreOptions" xml:space="preserve">
+    <value>więcej opcji</value>
+  </data>
+  <data name="NoNutritionInfo" xml:space="preserve">
+    <value>Nie informacji żywieniowych</value>
+  </data>
+  <data name="AddServingSize" xml:space="preserve">
+    <value>Dodać porcji</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="SelectDate" xml:space="preserve">
+    <value>Kalendarz</value>
+  </data>
+  <data name="Advertisement" xml:space="preserve">
+    <value>Reklama</value>
+  </data>
+  <data name="Unit_Centiliter" xml:space="preserve">
+    <value>centylitr</value>
+  </data>
+  <data name="Unit_Cup" xml:space="preserve">
+    <value>Kubek</value>
+  </data>
+  <data name="Unit_Deciliter" xml:space="preserve">
+    <value>decylitr</value>
+  </data>
+  <data name="Unit_FluidOunce" xml:space="preserve">
+    <value>Uncja cieczy</value>
+  </data>
+  <data name="Unit_Gallon" xml:space="preserve">
+    <value>Galon</value>
+  </data>
+  <data name="Unit_Gram" xml:space="preserve">
+    <value>Gram</value>
+  </data>
+  <data name="Unit_Kilogram" xml:space="preserve">
+    <value>Kilogram</value>
+  </data>
+  <data name="Unit_Liter" xml:space="preserve">
+    <value>Litr</value>
+  </data>
+  <data name="Unit_Milliliter" xml:space="preserve">
+    <value>mililitr</value>
+  </data>
+  <data name="Unit_Ounce" xml:space="preserve">
+    <value>Uncja</value>
+  </data>
+  <data name="Unit_Pint" xml:space="preserve">
+    <value>Kufel</value>
+  </data>
+  <data name="Unit_Pound" xml:space="preserve">
+    <value>Funt</value>
+  </data>
+  <data name="Unit_Quart" xml:space="preserve">
+    <value>Kwarta</value>
+  </data>
+  <data name="Unit_Tablespoon" xml:space="preserve">
+    <value>Łyżka</value>
+  </data>
+  <data name="Unit_Teaspoon" xml:space="preserve">
+    <value>Łyżeczka</value>
+  </data>
+  <data name="Units_Centiliter" xml:space="preserve">
+    <value>Centiliters</value>
+  </data>
+  <data name="Units_Cup" xml:space="preserve">
+    <value>Kubki</value>
+  </data>
+  <data name="Units_Deciliter" xml:space="preserve">
+    <value>Decylitry</value>
+  </data>
+  <data name="Units_FluidOunce" xml:space="preserve">
+    <value>uncje objętości</value>
+  </data>
+  <data name="Units_Gallon" xml:space="preserve">
+    <value>Galony</value>
+  </data>
+  <data name="Units_Gram" xml:space="preserve">
+    <value>Gramy</value>
+  </data>
+  <data name="Units_Kilogram" xml:space="preserve">
+    <value>Kilogramy</value>
+  </data>
+  <data name="Units_Liter" xml:space="preserve">
+    <value>Litry</value>
+  </data>
+  <data name="Units_Milliliter" xml:space="preserve">
+    <value>Mililitry</value>
+  </data>
+  <data name="Units_Ounce" xml:space="preserve">
+    <value>uncje</value>
+  </data>
+  <data name="Units_Pint" xml:space="preserve">
+    <value>Pół kwarty</value>
+  </data>
+  <data name="Units_Pound" xml:space="preserve">
+    <value>Funty</value>
+  </data>
+  <data name="Units_Quart" xml:space="preserve">
+    <value>Kwarty</value>
+  </data>
+  <data name="Units_Tablespoon" xml:space="preserve">
+    <value>Łyżki</value>
+  </data>
+  <data name="Units_Teaspoon" xml:space="preserve">
+    <value>Łyżeczki</value>
+  </data>
+  <data name="DatabaseCulture" xml:space="preserve">
+    <value>pl</value>
+  </data>
+  <data name="FeedbackSubject" xml:space="preserve">
+    <value>E-mail z dziennik żywności</value>
+  </data>
+  <data name="Equivalent" xml:space="preserve">
+    <value>Kwota</value>
+  </data>
+  <data name="EnterEquivalent" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>trwa ładowanie...</value>
+  </data>
+  <data name="ExpiredCaption" xml:space="preserve">
+    <value>Aktualizuj teraz</value>
+  </data>
+  <data name="ExpiredMessage" xml:space="preserve">
+    <value>Dziękujemy za korzystanie z tej aplikacji! Ten egzemplarz jest teraz minął. Ale nie martw się, zabierzemy Cię do strony pobierania aktualizacji po naciśnięciu Ok.</value>
+  </data>
+  <data name="AgentDescription" xml:space="preserve">
+    <value>To zadanie aktualizacje na żywo dachówka dziennik żywności.</value>
+  </data>
+  <data name="AgentDisabled" xml:space="preserve">
+    <value>Wyłączono aplikacji Live płytek w ustawieniach telefonu.</value>
+  </data>
+  <data name="PageTitleSettings" xml:space="preserve">
+    <value>Moje preferencje</value>
+  </data>
+  <data name="EnableLiveTile" xml:space="preserve">
+    <value>Liczba brakujących posiłki na płytki aplikacji</value>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Przypomnienia</value>
+  </data>
+  <data name="SettingsScreen" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>Umieszczaæ w górze płytki</value>
+  </data>
+  <data name="OpenReport" xml:space="preserve">
+    <value>Raport</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>Raport</value>
+  </data>
+  <data name="CommonServingSizes" xml:space="preserve">
+    <value>100 g|1 uncji = 28 g|Łyżeczka = 4,5 g|Łyżka = 12 g|1 porcja = 28 g|Kawałek = 14 g|Kromka = 12 g|1 Puchar = 237 g</value>
+  </data>
+  <data name="TakeAPicture" xml:space="preserve">
+    <value>Zrób zdjęcie</value>
+  </data>
+  <data name="ReviewBody" xml:space="preserve">
+    <value>Dziękujemy za korzystanie z tej aplikacji! Jeśli ty znaleźć ono przydatne, prosze o pomoc to odnieść sukces poprzez pozostawienie recenzję.</value>
+  </data>
+  <data name="ReviewTitle" xml:space="preserve">
+    <value>Zostaw komentarz?</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Cele</value>
+  </data>
+  <data name="NoGoalSet" xml:space="preserve">
+    <value>Nie zestaw celem</value>
+  </data>
+  <data name="EndOfDay" xml:space="preserve">
+    <value>Na koniec dnia</value>
+  </data>
+  <data name="ReminderContent" xml:space="preserve">
+    <value>Co można jeść?</value>
+  </data>
+  <data name="ReminderTitle" xml:space="preserve">
+    <value>Przypomnienie: uaktualnić twój dziennik</value>
+  </data>
+  <data name="ReminderDescription" xml:space="preserve">
+    <value>wybrane przypomnienia są wyświetlane, jeśli nie zaktualizować swój dziennik w wybranym czasie</value>
+  </data>
+  <data name="ScreenshotTitles" xml:space="preserve">
+    <value>Soku pomarańczowego, 1 szklanka, Toast, 1 kromka, jajko, 1 średni, jabłko, kawa, banan</value>
+  </data>
+  <data name="GoalOver" xml:space="preserve">
+    <value>{0} na cel</value>
+  </data>
+  <data name="GoalUnder" xml:space="preserve">
+    <value>Pozostało {0}</value>
+  </data>
+  <data name="OpenJournal" xml:space="preserve">
+    <value>Dziennik</value>
+  </data>
+  <data name="RemoveAdsText" xml:space="preserve">
+    <value>Wybierz OK, aby usunąć reklamy z aplikacji.</value>
+  </data>
+  <data name="RemoveAdsTitle" xml:space="preserve">
+    <value>Usunąć reklamy?</value>
+  </data>
+  <data name="StoreException" xml:space="preserve">
+    <value>Był problem z połączeniem w magazynie Windows Phone. Spróbuj ponownie później.</value>
+  </data>
+  <data name="Feedback_Email" xml:space="preserve">
+    <value>Zgłoś problem</value>
+  </data>
+  <data name="Feedback_EmailText" xml:space="preserve">
+    <value>Zasugeruj funkcję lub Zadaj pytanie</value>
+  </data>
+  <data name="Feedback_Rate" xml:space="preserve">
+    <value>Oceń ten aplikacja</value>
+  </data>
+  <data name="Feedback_RateText" xml:space="preserve">
+    <value>Konkretnych opinii pomaga poprawić aplikacji</value>
+  </data>
+  <data name="Feedback_Screenshot" xml:space="preserve">
+    <value>Poprawić tłumaczenie</value>
+  </data>
+  <data name="Feedback_ScreenshotText" xml:space="preserve">
+    <value>Tęcza zawładnięcie jest wliczony w cenę</value>
+  </data>
+  <data name="Feedback_Share" xml:space="preserve">
+    <value>Udostępnij łącze</value>
+  </data>
+  <data name="Feedback_ShareText" xml:space="preserve">
+    <value>Aby pobrać tę aplikację</value>
+  </data>
+  <data name="ScreenshotSubject" xml:space="preserve">
+    <value>Tekst dziennik żywności</value>
+  </data>
+  <data name="ShareMessage" xml:space="preserve">
+    <value>Sprawdź dziennik żywności dla Windows Phone</value>
+  </data>
+  <data name="ShareTitle" xml:space="preserve">
+    <value>Dziennik żywności</value>
+  </data>
+  <data name="CommonItems_Breakfast" xml:space="preserve">
+    <value>Elementy wspólne śniadanie</value>
+  </data>
+  <data name="CommonItems_Dinner" xml:space="preserve">
+    <value>Wspólne elementy kolacji</value>
+  </data>
+  <data name="CommonItems_Lunch" xml:space="preserve">
+    <value>Wspólne elementy obiad</value>
+  </data>
+  <data name="CommonItems_Snack" xml:space="preserve">
+    <value>Wspólne elementy przekąska</value>
+  </data>
+  <data name="Meals" xml:space="preserve">
+    <value>Posiłki</value>
+  </data>
+  <data name="Period_SnackMorning" xml:space="preserve">
+    <value>Rano</value>
+  </data>
+  <data name="Period_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Wczesnym popołudniem</value>
+  </data>
+  <data name="Period_SnackAfternoon" xml:space="preserve">
+    <value>Popołudnie</value>
+  </data>
+  <data name="Meals_SnackMorningEnabled" xml:space="preserve">
+    <value>Oddzielne rano przekąskę</value>
+  </data>
+  <data name="Meals_SnackEarlyAfternoonEnabled" xml:space="preserve">
+    <value>Oddzielne początku podwieczorek</value>
+  </data>
+  <data name="Meals_SnackAfternoonEnabled" xml:space="preserve">
+    <value>Oddzielne podwieczorek</value>
+  </data>
+  <data name="Period_SnackEvening" xml:space="preserve">
+    <value>Wieczór</value>
+  </data>
+  <data name="Meals_SnackMidnightEnabled" xml:space="preserve">
+    <value>Oddzielne przekąski</value>
+  </data>
+  <data name="Period_SnackMidnight" xml:space="preserve">
+    <value>Północ</value>
+  </data>
+  <data name="Meals_SnacksCombined" xml:space="preserve">
+    <value>Połączyć przekąski</value>
+  </data>
+  <data name="Meals_SnackEveningEnabled" xml:space="preserve">
+    <value>Wieczorem przekąski</value>
+  </data>
+  <data name="MyRecentItems_SnackAfternoon" xml:space="preserve">
+    <value>Najnowsze pozycje po południu</value>
+  </data>
+  <data name="MyRecentItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Ostatnie wczesne popołudnie elementów</value>
+  </data>
+  <data name="MyRecentItems_SnackEvening" xml:space="preserve">
+    <value>Wieczorem ostatnie pozycje</value>
+  </data>
+  <data name="MyRecentItems_SnackMidnight" xml:space="preserve">
+    <value>Północy ostatnich elementów</value>
+  </data>
+  <data name="MyRecentItems_SnackMorning" xml:space="preserve">
+    <value>Rano ostatnich elementów</value>
+  </data>
+  <data name="CommonItems_SnackAfternoon" xml:space="preserve">
+    <value>Wspólne elementy po południu</value>
+  </data>
+  <data name="CommonItems_SnackEarlyAfternoon" xml:space="preserve">
+    <value>Wspólne elementy wczesne popołudnie</value>
+  </data>
+  <data name="CommonItems_SnackEvening" xml:space="preserve">
+    <value>Wspólne elementy wieczorem</value>
+  </data>
+  <data name="CommonItems_SnackMidnight" xml:space="preserve">
+    <value>Wspólne elementy północy</value>
+  </data>
+  <data name="CommonItems_SnackMorning" xml:space="preserve">
+    <value>Wspólne elementy rano</value>
+  </data>
+  <data name="UnlockFullBody" xml:space="preserve">
+    <value>Dziękuję za próbę dziennik żywności. Masz {0} dni próbne. Naciśnij przycisk OK, aby otworzyć aplikację.</value>
+  </data>
+  <data name="UnlockFullTitle" xml:space="preserve">
+    <value>Teraz odblokować?</value>
+  </data>
+  <data name="TrialExpiredBody" xml:space="preserve">
+    <value>Próbnego jest teraz minął. Można nadal przeglądać swój dziennik, ale nie można dodawać nowe wpisy. Wybierz OK, aby odblokować pełna wersja.</value>
+  </data>
+  <data name="Feedback_RemoveAds" xml:space="preserve">
+    <value>Usunąć reklamy</value>
+  </data>
+  <data name="Feedback_RemoveAdsText" xml:space="preserve">
+    <value>Trwale usunąć wszystkie reklamy</value>
+  </data>
+  <data name="StoreText_5" xml:space="preserve">
+    <value>Uwaga: Jest to wczesna wersja (beta), baza danych żywności jest stale rozszerzana. Jeśli masz jakieś sugestie, prosimy o e-mail daily.journal@outlook.com</value>
+  </data>
+  <data name="AppTitle" xml:space="preserve">
+    <value>Dziennik żywności</value>
+  </data>
+  <data name="StoreText_4" xml:space="preserve">
+    <value>Informacje zwrotne od użytkowników:
+-Ta aplikacja jest błogosławieństwem w łatwą obsługę. 
+-Ta aplikacja posiada wszystkie cechy potrzebne w prostej konstrukcji. To naprawdę czyni nagrywania codzienne nawyki żywieniowe, że znacznie łatwiej niż inne aplikacje. Wiem, że kocham to!
+Najlepszego w swoim rodzaju
+-To jest dokładny, dobrze zorganizowany i łatwy w obsłudze
+-Kocham tej aplikacji! To jest proste, jeszcze trzyma mnie na torze ❤ i nawet przypomina mi, jeśli nie jadłem posiłku. Zdecydowanie duża pomoc w stara się być zdrowe z moim</value>
+  </data>
+  <data name="StoreText_3" xml:space="preserve">
+    <value>Klucz rysy twarzy:
+1. przeznaczony do aplikacji dziennik żywności najprostszy i najszybszy
+2. wspólne żywności i niedawno jeść pokarmy są propozycje aby wpis bardzo szybkie
+3. nie ma potrzeby aby się zalogować lub wprowadź informacje prywatne, takich jak adres e-mail lub wagi
+4 istniejące bazy danych żywności z informacji żywieniowych
+5 wygodne obsługujących rozmiar selektor pozwalają wprowadzić dokładnie to, co zjadłem
+6. łatwo dodać nowych pokarmów, które aplikacja nie wie o jeszcze
+7 dzienny raport Pokaż wszystkie szczegóły żywienia
+8. tygodniowy raport pokazuje, jak można śledzić w stosunku do swoich celów żywienia
+9. konfigurowane przypomnienia pomóc upewnić się, że nie zapomnij wypełnić twój dziennik
+10 dachówka żywo pokazuje, jak wiele posiłki muszą być wypełnione ou</value>
+  </data>
+  <data name="StoreText_2" xml:space="preserve">
+    <value>Jeśli jesteś na diecie, lub chcesz wiedzieć, jak wiele kalorii, tłuszczu, białka i węglowodany jeść codziennie, jest to aplikacja dla Ciebie.</value>
+  </data>
+  <data name="StoreText_1" xml:space="preserve">
+    <value>Dziennik żywności jest najprostszym sposobem, aby śledzić to, co jesz codziennie.</value>
+  </data>
+  <data name="StoreKeyword_5" xml:space="preserve">
+    <value>Odżywianie</value>
+  </data>
+  <data name="StoreKeyword_4" xml:space="preserve">
+    <value>Kalorie</value>
+  </data>
+  <data name="StoreKeyword_3" xml:space="preserve">
+    <value>Dieta</value>
+  </data>
+  <data name="StoreKeyword_2" xml:space="preserve">
+    <value>Dziennik żywności</value>
+  </data>
+  <data name="StoreKeyword_1" xml:space="preserve">
+    <value>Licznik kalorii</value>
+  </data>
+  <data name="Screenshot_H3" xml:space="preserve">
+    <value>Banan</value>
+  </data>
+  <data name="Screenshot_H2" xml:space="preserve">
+    <value>Kawa</value>
+  </data>
+  <data name="Screenshot_H1" xml:space="preserve">
+    <value>Jabłko</value>
+  </data>
+  <data name="Screenshot_3a" xml:space="preserve">
+    <value>Jajko</value>
+  </data>
+  <data name="Screenshot_2b" xml:space="preserve">
+    <value>1 kromka</value>
+  </data>
+  <data name="Screenshot_2a" xml:space="preserve">
+    <value>Toast</value>
+  </data>
+  <data name="Screenshot_1b" xml:space="preserve">
+    <value>1 szklanka</value>
+  </data>
+  <data name="Screenshot_1a" xml:space="preserve">
+    <value>Sok pomarańczowy</value>
+  </data>
+  <data name="Product_2" xml:space="preserve">
+    <value>Dziękuję za wasze wsparcie! Użyj tej opcji, aby trwale usunąć reklamy z aplikacji dziennik żywności.</value>
+  </data>
+  <data name="Product_1" xml:space="preserve">
+    <value>Usunąć reklamy</value>
+  </data>
+  <data name="CantCalculateNutrition" xml:space="preserve">
+    <value>Wprowadź wagi</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Okres próbny wygasła, odblokować?</value>
+  </data>
+  <data name="Screenshot_3b" xml:space="preserve">
+    <value>1 średni</value>
+  </data>
+  <data name="SendFeedback" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="Feedback_Header" xml:space="preserve">
+    <value>Najszybszy i najłatwiejszy droga wobec utrzymywać ślad od co jesz.
+
+Przewiń w dół do informacji o dokładności danych.</value>
+  </data>
+  <data name="Feedback_Unlock" xml:space="preserve">
+    <value>Uaktualnij teraz</value>
+  </data>
+  <data name="Feedback_UnlockText" xml:space="preserve">
+    <value>Kupić w wersji premium</value>
+  </data>
+  <data name="EmailReport_SubjectTemplate" xml:space="preserve">
+    <value>Dziennik żywności dla {0}</value>
+  </data>
+  <data name="EmailReport_Exception" xml:space="preserve">
+    <value>Poszło coś nieoczekiwanego. Dziennik nie został wysłany.</value>
+  </data>
+  <data name="EmailReport_InvalidEmailAddress" xml:space="preserve">
+    <value>Wprowadź prawidłowy adres e-mail.</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Ogółem</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>tylko {0}</value>
+  </data>
+  <data name="Feature6_Text" xml:space="preserve">
+    <value>Wspieranie rozwoju</value>
+  </data>
+  <data name="Feedback_Footer" xml:space="preserve">
+    <value>UWAGA:
+Większość ale nie wszystkie punkty danych w bazie danych pochodzą z renomowanych źródeł. Dokładamy wszelkich starań, aby upewnić się, że wszystkie wartości są dokładne, ale nie ponosi odpowiedzialności za niepoprawne lub brakujące dane. Wartości odżywcze są różne marki i czasem. Za pomocą tej aplikacji, użytkownik zgadza się, do sprawdzenia i poprawienia danych w aplikacji, a do pełni odpowiedzialne za szkody lub uszkodzenia jego użytkowania.
+
+Proszę dać mi znać, jeśli istnieje coś, co może pomóc z.</value>
+  </data>
+  <data name="Feature6_Desc" xml:space="preserve">
+    <value>Pomagają utrzymać aktualizacje tej aplikacji pochodzących</value>
+  </data>
+  <data name="GetAllFeatures" xml:space="preserve">
+    <value>Otrzymasz wszystkie funkcje</value>
+  </data>
+  <data name="Feature_Header" xml:space="preserve">
+    <value>Zawiera:</value>
+  </data>
+  <data name="Feature_Footer" xml:space="preserve">
+    <value>* Uwaga: Większość, ale nie wszystkie dane pochodzą z renomowanych źródeł. Kupując w wersji premium, możesz przyjąć pełną odpowiedzialność za dokładność i kompletność danych. E-mail daily.journal@outlook.com szczegóły.</value>
+  </data>
+  <data name="Feature5_Text" xml:space="preserve">
+    <value>Nowe funkcje</value>
+  </data>
+  <data name="Feature5_Desc" xml:space="preserve">
+    <value>Wszystkie premium posiada w przyszłości aktualizacji</value>
+  </data>
+  <data name="Feature4_Text" xml:space="preserve">
+    <value>Więcej posiłków</value>
+  </data>
+  <data name="Feature4_Desc" xml:space="preserve">
+    <value>Do śledzenia 5, 6 lub więcej posiłków dziennie</value>
+  </data>
+  <data name="Feature3_Text" xml:space="preserve">
+    <value>Więcej żywności *</value>
+  </data>
+  <data name="Feature3_Desc" xml:space="preserve">
+    <value>Setki tysięcy więcej żywności pozycji (w zależności od lokalizacji)</value>
+  </data>
+  <data name="Feature2_Text" xml:space="preserve">
+    <value>Raporty przez e-mail</value>
+  </data>
+  <data name="Feature2_Desc" xml:space="preserve">
+    <value>E-mail twój dziennik się zapisać, wydrukować lub analizować</value>
+  </data>
+  <data name="Feature1_Text" xml:space="preserve">
+    <value>Brak reklam</value>
+  </data>
+  <data name="Feature1_Desc" xml:space="preserve">
+    <value>Wszystkie reklamy są trwale usuwane</value>
+  </data>
+  <data name="BuyNow" xml:space="preserve">
+    <value>Kup teraz</value>
+  </data>
+  <data name="EmailReport_ShowSettings" xml:space="preserve">
+    <value>Wyślij mailem</value>
+  </data>
+  <data name="EmailReport_SendNow" xml:space="preserve">
+    <value>Wyślij teraz</value>
+  </data>
+  <data name="EmailReport_Address" xml:space="preserve">
+    <value>Adres e-mail</value>
+  </data>
+  <data name="Product_4" xml:space="preserve">
+    <value>Uzyskać dostęp do wszystkich funkcji</value>
+  </data>
+  <data name="Product_3" xml:space="preserve">
+    <value>Uaktualnić wobec udział</value>
+  </data>
+  <data name="EmailReport_Footer2" xml:space="preserve">
+    <value>Uwaga: Większość, ale nie wszystkie punkty danych w bazie danych pochodzą z renomowanych źródeł. Dokładamy wszelkich starań, aby upewnić się, że wartości są dokładne, ale nie ponosi odpowiedzialności za niepoprawne lub brakujące dane. Za pomocą aplikacji, użytkownik potwierdza i przyjąć pełną odpowiedzialność za sprawdzenie dokładności danych. Aplikacja pozwala na aktualizację wszelkich rozbieżności, jakie można znaleźć.</value>
+  </data>
+  <data name="EmailReport_Footer1" xml:space="preserve">
+    <value>Dziennik przez AAA
+Pytania lub komentarze? Odpowiedzi do BBB</value>
+  </data>
+  <data name="Localization_Submit" xml:space="preserve">
+    <value>Prześlij</value>
+  </data>
+  <data name="Localization_TranslationsText" xml:space="preserve">
+    <value>Proszę zaktualizować teksty na tej liście z lepsze tłumaczenia. Usuń cały tekst dla elementów, które są nieodpowiednie dla swojego regionu.</value>
+  </data>
+  <data name="Localization_ThankYou" xml:space="preserve">
+    <value>Dzięki za pomoc!</value>
+  </data>
+  <data name="Localization_Translations" xml:space="preserve">
+    <value>Tłumaczenia</value>
+  </data>
+  <data name="Localization_Text" xml:space="preserve">
+    <value>Tutaj może przyczynić się do poprawy tej aplikacji.</value>
+  </data>
+  <data name="Localization_Original" xml:space="preserve">
+    <value>Oryginał:</value>
+  </data>
+  <data name="Localization_Good" xml:space="preserve">
+    <value>Dobry</value>
+  </data>
+  <data name="Localization_Description" xml:space="preserve">
+    <value>Opis:</value>
+  </data>
+  <data name="Feedback_LocalizeText" xml:space="preserve">
+    <value>Poprawić aplikacji</value>
+  </data>
+  <data name="Localization_CommentText" xml:space="preserve">
+    <value>Wpisz swój adres e-mail, jeżeli chcesz się skontaktować.</value>
+  </data>
+  <data name="Localization_Comment" xml:space="preserve">
+    <value>Komentarz</value>
+  </data>
+  <data name="Feedback_Localize" xml:space="preserve">
+    <value>Poprawa tłumaczenia</value>
+  </data>
+</root>

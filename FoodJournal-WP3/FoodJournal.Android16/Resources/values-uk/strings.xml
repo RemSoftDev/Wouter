@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">ЩОДЕННИК ХАРЧУВАННЯ</string>
+	<string name="CommonItems">Типові продукти</string>
+	<string name="Delete">Видалити</string>
+	<string name="EmptyEntryList">Нічого не вибрано</string>
+	<string name="MyRecentItems_Breakfast">Нещодавні продукти на сніданок</string>
+	<string name="MyRecentItems_Dinner">Нещодавні продукти на обід</string>
+	<string name="MyRecentItems_Exercise">Мої нещодавні фізичні вправи</string>
+	<string name="MyRecentItems_Lunch">Нещодавні продукти на ланч</string>
+	<string name="MyRecentItems_Snack">Нещодавні продукти на перекус</string>
+	<string name="PageTitle">ЩОДЕННИК ХАРЧУВАННЯ</string>
+	<string name="PageTitleBase">ХАРЧОВИЙ ЩОДЕННИК- </string>
+	<string name="Period_Breakfast">Сніданок</string>
+	<string name="Period_Dinner">Обід</string>
+	<string name="Period_Exercise">Фізичні вправи</string>
+	<string name="Period_Lunch">Ланч</string>
+	<string name="Period_Snack">Перекус</string>
+	<string name="Search">Пошук</string>
+	<string name="Today">Сьогодні</string>
+	<string name="StandardProperty_Amount">Кількість</string>
+	<string name="StandardProperty_Calcium">Кальцій</string>
+	<string name="StandardProperty_Calories">Калорії</string>
+	<string name="StandardProperty_Carbs">Вуглеводи</string>
+	<string name="StandardProperty_Cholesterol">Холестерин</string>
+	<string name="StandardProperty_Fiber">Клітковина</string>
+	<string name="StandardProperty_Iron">Залізо</string>
+	<string name="StandardProperty_MonoFat">Мононенасичені жирні кислоти</string>
+	<string name="StandardProperty_PolyFat">Поліненасичені жирні кислоти</string>
+	<string name="StandardProperty_Potassium">Калій</string>
+	<string name="StandardProperty_Protein">Білок</string>
+	<string name="StandardProperty_SatFat">Насичені жирні кислоти</string>
+	<string name="StandardProperty_Sodium">Натрій</string>
+	<string name="StandardProperty_Sugar">Цукор</string>
+	<string name="StandardProperty_TotalFat">Всього жиру</string>
+	<string name="StandardProperty_VitaminC">Вітамін С</string>
+	<string name="StandardProperty_VitaminD">Вітамін D</string>
+	<string name="StandardProperty_Weight">Вага</string>
+	<string name="Preferences">Налаштування</string>
+	<string name="EmptySearchList">Введіть назву для пошуку</string>
+	<string name="NewItemSuffix">(новий продукт)</string>
+	<string name="NewRecipeSuffix"> (новий рецепт)</string>
+	<string name="SearchResults">Результати пошуку</string>
+	<string name="SearchTermNotFound">{0} не знайдено, спробуйте змінити умову пошуку</string>
+	<string name="AcceptNew">Додати</string>
+	<string name="Name">Ім\'я</string>
+	<string name="Nutrition">Харчова цінність</string>
+	<string name="PageTitleItemDetail">ІНФОРМАЦІЯ ПРО ЇЖУ</string>
+	<string name="EnterWeight">Будь ласка, спочатку введіть вагу</string>
+	<string name="ServingSizes">Розмір порції</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Скільки\?</string>
+	<string name="MoreOptions">додаткові параметри</string>
+	<string name="NoNutritionInfo">Інформація про харчову цінність відсутня</string>
+	<string name="AddServingSize">Додати розмір порції</string>
+	<string name="Add">Додати</string>
+	<string name="SelectDate">Календар</string>
+	<string name="Advertisement">Реклама</string>
+	<string name="Unit_Centiliter">Сантилітр</string>
+	<string name="Unit_Cup">Чашка</string>
+	<string name="Unit_Deciliter">Децилітр</string>
+	<string name="Unit_FluidOunce">Рідка унція</string>
+	<string name="Unit_Gallon">Галон</string>
+	<string name="Unit_Gram">Грам</string>
+	<string name="Unit_Kilogram">Кілограм</string>
+	<string name="Unit_Liter">Літр</string>
+	<string name="Unit_Milliliter">Мілілітр</string>
+	<string name="Unit_Ounce">Унція</string>
+	<string name="Unit_Pint">Пінта</string>
+	<string name="Unit_Pound">Фунт</string>
+	<string name="Unit_Quart">Кварта</string>
+	<string name="Unit_Tablespoon">Столова ложка</string>
+	<string name="Unit_Teaspoon">Чайна ложка</string>
+	<string name="Units_Centiliter">Сантилітри</string>
+	<string name="Units_Cup">Чашки</string>
+	<string name="Units_Deciliter">Децилітри</string>
+	<string name="Units_FluidOunce">Рідкі унції</string>
+	<string name="Units_Gallon">Галони</string>
+	<string name="Units_Gram">Грами</string>
+	<string name="Units_Kilogram">Кілограми</string>
+	<string name="Units_Liter">Літри</string>
+	<string name="Units_Milliliter">Мілілітри</string>
+	<string name="Units_Ounce">Унції</string>
+	<string name="Units_Pint">Пінти</string>
+	<string name="Units_Pound">Фунти</string>
+	<string name="Units_Quart">Кварти</string>
+	<string name="Units_Tablespoon">Столові ложки</string>
+	<string name="Units_Teaspoon">Чайні ложки</string>
+	<string name="DatabaseCulture">UK</string>
+	<string name="FeedbackSubject">Надішліть на e-mail з Щоденника харчування</string>
+	<string name="Equivalent">Кількість:</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">завантажую...</string>
+	<string name="ExpiredCaption">Оновити зараз\?</string>
+	<string name="ExpiredMessage">Дякуємо за користування цим додатком! Термін дії цієї копії щойно закінчився. Але не хвилюйтеся, ми переадресуємо вас на сторінку завантаження оновлення, якщо ви натиснете кнопку "Оk".</string>
+	<string name="AgentDescription">Запустити оновлення живої іконки Щоденника харчування.</string>
+	<string name="AgentDisabled">Ви відключили додаток живої іконки в налаштуваннях телефону.</string>
+	<string name="PageTitleSettings">Мої налаштування</string>
+	<string name="EnableLiveTile">Кількість пропущених прйомів їжі на іконці додатку</string>
+	<string name="Reminders">Нагадування</string>
+	<string name="SettingsScreen">Налаштування</string>
+	<string name="PinToStart">Налаштувати іконку</string>
+	<string name="OpenReport">Звіт</string>
+	<string name="Report">Звіт</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Чайна ложка = 4.5 g|Столова ложка = 12 порції g|1 = 28 g|Шматок = 14 g|Фрагмент = 12 Кубок g|1 = 237 г</string>
+	<string name="TakeAPicture">Зняти фото</string>
+	<string name="ReviewBody">Дякуємо за користування цим додатком! Якщо ви вважаєте його корисним, будь ласка, допоможіть йому стати успішним, залишивши відгук.</string>
+	<string name="ReviewTitle">Залишити відгук\?</string>
+	<string name="Goals">Цілі</string>
+	<string name="NoGoalSet">Немає мети набір</string>
+	<string name="EndOfDay">В кінці дня</string>
+	<string name="ReminderContent">Що ви їли\?</string>
+	<string name="ReminderTitle">Нагадування: оновіть ваш щоденник</string>
+	<string name="ReminderDescription">Вибрані нагадування з\'являються, якщо ви не оновлювали ваш щоденник до визначеного часу</string>
+	<string name="ScreenshotTitles">Апельсиновий сік, 1 стакан, тости, 1 скибочка, яйце, 1 середній Apple, кава, банан</string>
+	<string name="GoalOver">{0} понад ціль</string>
+	<string name="GoalUnder">Залишилося {0}</string>
+	<string name="OpenJournal">Журнал</string>
+	<string name="RemoveAdsText">Виберіть "OK" для видалення реклами з додатку.</string>
+	<string name="RemoveAdsTitle">Видалити рекламу\?</string>
+	<string name="StoreException">Не вдалося підключитися до Windows Phone Store. Будь ласка, спробуйте ще раз пізніше.</string>
+	<string name="Feedback_Email">Повідомити про помилку</string>
+	<string name="Feedback_EmailText">Запропонувати функцію або задати питання</string>
+	<string name="Feedback_Rate">Оцінити цей додаток</string>
+	<string name="Feedback_RateText">Конкретний відгук допоможе покращити цей додаток</string>
+	<string name="Feedback_Screenshot">Допомогти поліпшити переклад</string>
+	<string name="Feedback_ScreenshotText">Додано знімок екрану</string>
+	<string name="Feedback_Share">Поділитися посиланням</string>
+	<string name="Feedback_ShareText">Завантажити цей додаток</string>
+	<string name="ScreenshotSubject">Текст Щоденника харчування</string>
+	<string name="ShareMessage">Спробуйте Щоденник харчування для Windows Phone</string>
+	<string name="ShareTitle">Щоденник харчування</string>
+	<string name="CommonItems_Breakfast">Типові продукти на сніданок</string>
+	<string name="CommonItems_Dinner">Типові продукти на обід</string>
+	<string name="CommonItems_Lunch">Типові продукти на ланч</string>
+	<string name="CommonItems_Snack">Типові продукти на перекус</string>
+	<string name="Meals">Прийоми їжі</string>
+	<string name="Period_SnackMorning">Ранок</string>
+	<string name="Period_SnackEarlyAfternoon">Полудень</string>
+	<string name="Period_SnackAfternoon">День</string>
+	<string name="Meals_SnackMorningEnabled">Окремий перекус вранці</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Окремий перекус у полудень</string>
+	<string name="Meals_SnackAfternoonEnabled">Окремий перекус вдень</string>
+	<string name="Period_SnackEvening">Вечір</string>
+	<string name="Meals_SnackMidnightEnabled">Окремий перекус вночі</string>
+	<string name="Period_SnackMidnight">Ніч</string>
+	<string name="Meals_SnacksCombined">Об\'єднати перекуси</string>
+	<string name="Meals_SnackEveningEnabled">Окремий перекус ввечері</string>
+	<string name="MyRecentItems_SnackAfternoon">Нещодавні денні продукти</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Нещодавні продукти для полудня</string>
+	<string name="MyRecentItems_SnackEvening">Нещодавні продукти для вечора</string>
+	<string name="MyRecentItems_SnackMidnight">Нещодавні продукти для ночі</string>
+	<string name="MyRecentItems_SnackMorning">Нещодавні продукти для ранку</string>
+	<string name="CommonItems_SnackAfternoon">Типові продукти на день</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Типові продукти на полудень</string>
+	<string name="CommonItems_SnackEvening">Типові продукти на вечір</string>
+	<string name="CommonItems_SnackMidnight">Типові продукти для ночі</string>
+	<string name="CommonItems_SnackMorning">Типові продукти для ранку</string>
+	<string name="UnlockFullBody">Дякуємо за пробувати харчовий щоденник. У вас є {0} пробну днів, що залишилися. Щоб розблокувати програму, натисніть OK.</string>
+	<string name="UnlockFullTitle">Розблокувати зараз\?</string>
+	<string name="TrialExpiredBody">Вашого суду даний час минув. Можна переглядати ваш журнал, але не можна додати нові записи. Виберіть ОК, щоб розблокувати повна версія.</string>
+	<string name="Feedback_RemoveAds">Видалити рекламні оголошення</string>
+	<string name="Feedback_RemoveAdsText">Остаточно видалити всі рекламні оголошення</string>
+	<string name="StoreText_5">Завантажити зараз, тому що ви будете любити його використання.</string>
+	<string name="AppTitle">Щоденник харчування</string>
+	<string name="StoreText_4">ПРЕМІАЛЬНІ ФУНКЦІЇ:
+1. не більше реклами.
+2. набагато більше їжі базу даних.
+3. можливість електронною поштою себе копії молочних продуктів.
+4. Додаткові параметри конфігурації, включаючи можливість увійти до 8 окремих разове харчування.</string>
+	<string name="StoreText_3">ОСОБЛИВОСТІ:
+1. простий і потужний дизайн: програма відкриється безпосередньо на екрані запис на самий останній їжі, тому що це те, що ви будете використовувати найбільш. Дизайн робить додавання записів як простий і інтуїтивно зрозумілий, як це можливо.
+2. одним дотиком запис з персоналізовані пропозиції: найбільш загальні продовольчих товарів можна відразу вибрати. Починаючи на другий день, останні елементи запропоновано тому, що ви можете їсти ту ж їжу часто.
+3. вхід до системи не потрібні: не особистих даних або контактну інформацію не потрібно.
+4. тисяч предметів, вже в базі даних: більшість продуктів харчування є точної інформації про загальні розмірах виступаючого, калорій, вуглеводів, білків і жирів. 
+5. повний офф-лайн підтримку: немає необхідності підключення до Інтернету. 
+6. точний запис також нескладно: точно можна ввести точні суми за допомогою повзунка.
+7. Щоденні звіти: за допомогою меню, їх можна безпосередньо відкривати щоденник, який показує зведення вашого дня. Тут ви можете перемикатися між калорій, білків і вуглеводів, натиснувши на маленький трикутник.
+8. відстежувати ваші цілі: після введення особистих цілей, дає змогу тиждень доповіді бачити ваш тенденції. 
+9. особисті нагадувань допоможуть вам залишатися в ціль: вони є зручним способом, щоб переконатися, що вам заповнити щоденник, після кожного прийому їжі, або в кінці дня.
+
+Це гарна ідея, щоб перевірити відомості в базі даних, так само, як інформація про ваші продукти для; поживна їжа коливається з брендами і з часом.
+
+Переконайтеся, щоб обговорити ваші цілі з харчування або лікаря фахівця.</string>
+	<string name="StoreText_2">ПРО ДОДАТОК:
+Стежити за те, що ви їсте було показано, щоб допомогти запобігти і зупинити переїдання.
+Ця програма допоможе вам контролювати свій раціон і харчуватися здоровою, легко відслідковувати, що ви їсте. Дизайн оптимізовано здійсніті ввезення так швидко, як можливо, з 1 клік запис і останні продовольство пропозиції. Вбудований в БД вже має тисячі продуктів харчування і якщо ваша не відомі, додавши їх легко.
+
+Будь ласка, зверніть увагу,: Цей додаток є безкоштовно завантажити і підтриману рекламу. Ви можете використовувати його безкоштовно тих пір, як ви хотіли. Є можливість видалити рекламу за додаткову плату, яка дозволить додаткові функції.</string>
+	<string name="StoreText_1">Харчовий щоденник: Вашої дієти і калорій, відстеження застосунку.</string>
+	<string name="StoreKeyword_5">Харчова цінність</string>
+	<string name="StoreKeyword_4">Калорії</string>
+	<string name="StoreKeyword_3">Дієта</string>
+	<string name="StoreKeyword_2">Журнал харчування</string>
+	<string name="StoreKeyword_1">Лічильник калорій</string>
+	<string name="Screenshot_H3">Банан</string>
+	<string name="Screenshot_H2">Кава</string>
+	<string name="Screenshot_H1">Яблуко</string>
+	<string name="Screenshot_3a">Яйце</string>
+	<string name="Screenshot_2b">1 скибка</string>
+	<string name="Screenshot_2a">Тост</string>
+	<string name="Screenshot_1b">1 чашка</string>
+	<string name="Screenshot_1a">Апельсиновий сік</string>
+	<string name="Product_2">Дякую вам за вашу підтримку! Використовуйте цей параметр, щоб остаточно видалити рекламу від харчовий щоденник app.</string>
+	<string name="Product_1">Видалити рекламу</string>
+	<string name="CantCalculateNutrition">Введіть вагу</string>
+	<string name="TrialExpiredTitle">Пробний період закінчився, розблокувати\?</string>
+	<string name="Screenshot_3b">1 середнє</string>
+	<string name="SendFeedback">Про</string>
+	<string name="Feedback_Header">Найшвидший і найпростіший спосіб стежити за те, що ви їсте.
+
+Прокручування вниз, щоб отримати відомості про точність даних.</string>
+	<string name="Feedback_Unlock">Оновити зараз</string>
+	<string name="Feedback_UnlockText">Купити преміум-версію</string>
+	<string name="EmailReport_SubjectTemplate">Журнал харчування для {0}</string>
+	<string name="EmailReport_Exception">Щось несподівано пішло не так. Журнал не надіслано.</string>
+	<string name="EmailReport_InvalidEmailAddress">Будь ласка, введіть дійсну e-mail адресу.</string>
+	<string name="Total">Всього</string>
+	<string name="Price">Лише {0}</string>
+	<string name="Feature6_Text">Підтримати розвиток</string>
+	<string name="Feedback_Footer">ВІДМОВА ВІД ВІДПОВІДАЛЬНОСТІ:
+Більшість, але не всі точки даних у базі даних поставляються з надійних джерел. Ми робимо все можливе, щоб переконатися, що всі значення є точними, але не може нести відповідальність за неправильні або відсутні дані. Поживна цінність змінюватися по брендах і з часом. За допомогою цього додатка, ви згодні, щоб перевірити і виправити будь-яких даних у застосунку і нести повну відповідальність за травми або пошкодження внаслідок його використання.
+
+Будь ласка, дайте мені знати, якщо є щось я можу допомогти вам з.</string>
+	<string name="Feature6_Desc">Допоможіть зберегти майбутні оновлення цього додатку</string>
+	<string name="GetAllFeatures">Отримайте ВСІ функції</string>
+	<string name="Feature_Header">Додано:</string>
+	<string name="Feature_Footer">* Примітка: Більшість, але не всі дані походять з надійних джерел. Купуючи преміум-версію, ви приймаєте повну відповідальність за точність і повноту даних. Щоб дізнатися деталі, пишіть на daily.journal@outlook.com.</string>
+	<string name="Feature5_Text">Нові функції</string>
+	<string name="Feature5_Desc">Всі функції преміум в майбутніх оновленнях</string>
+	<string name="Feature4_Text">Більше прийомів їжі</string>
+	<string name="Feature4_Desc">Для відстеження 5, 6 та більше прийомів їжі за день</string>
+	<string name="Feature3_Text">Більше продуктів *</string>
+	<string name="Feature3_Desc">Від сотень до тисяч найменувань продуктів додатково (в залежності від місцезнаходження)</string>
+	<string name="Feature2_Text">Звіти по e-mail</string>
+	<string name="Feature2_Desc">Надішліть електронною поштою ваш журнал, щоб зберегти, роздрукувати або проаналізувати його</string>
+	<string name="Feature1_Text">Без реклами</string>
+	<string name="Feature1_Desc">Остаточно видаляються всі рекламні оголошення</string>
+	<string name="BuyNow">Купити зараз</string>
+	<string name="EmailReport_ShowSettings">Відправити по електронній пошті</string>
+	<string name="EmailReport_SendNow">відправити зараз</string>
+	<string name="EmailReport_Address">Адреса електронної пошти</string>
+	<string name="Product_4">Отримати доступ до всіх функцій</string>
+	<string name="Product_3">Оновлення до преміум</string>
+	<string name="EmailReport_Footer2">Примітка: Більшість, але не всі елементи бази даних походять з надійних джерел. Ми робимо все можливе, щоб забезпечити точність значень, але не можемо нести відповідальність за неправильні чи відсутні дані. Використовуючи цей додаток, ви визнаєте і приймаєте повну відповідальність за перевірку точності даних. Цей додаток дозволяє вам оновлювлювати дані у випадку виявлення будь-яких розбіжностей.</string>
+	<string name="EmailReport_Footer1">Журнал по AAA
+Питання або коментарі\? Відповідь на BBB</string>
+	<string name="Localization_Submit">Надіслати</string>
+	<string name="Localization_TranslationsText">Будь ласка, поновіть з кращий переклад текстів в цьому списку. Видалити всі тексту для елементів, які не підходять для вашого регіону.</string>
+	<string name="Localization_ThankYou">Дякуємо за вашу допомогу!</string>
+	<string name="Localization_Translations">Переклади</string>
+	<string name="Localization_Text">Тут ви можете допомогти покращити цей додаток.</string>
+	<string name="Localization_Original">Оригінальний:</string>
+	<string name="Localization_Good">Хороший</string>
+	<string name="Localization_Description">Опис:</string>
+	<string name="Feedback_LocalizeText">Допомогти вдосконалити додаток</string>
+	<string name="Localization_CommentText">Введіть свою e-mail адресу, якщо ви хочете отримувати повідомлення.</string>
+	<string name="Localization_Comment">Коментар</string>
+	<string name="Feedback_Localize">Поліпшити переклад</string>
+	<string name="AddToLauncher">Додати до запуску</string>
+	<string name="Avg">Прибл.</string>
+	<string name="Cancel">Відмінити</string>
+	<string name="CopyFromSimilarItem">Копіювати з подібного елемента</string>
+	<string name="DeleteEntry">Видалити запис</string>
+	<string name="EnterTheWeightForThisAmount">Введіть вагу для цієї кількості</string>
+	<string name="MoreOptions2">Додаткові параметри</string>
+	<string name="None">Жоден</string>
+	<string name="Ok">Так</string>
+	<string name="OneDaySalePctOff">1 день розпродажу: знижка {0} %</string>
+	<string name="Total2">Всього</string>
+	<string name="EmailReport_Footer1a">Журнал створено AAA</string>
+	<string name="EmailReport_Footer1b">Маєте питання чи коментарі\? Надішліть на BBB</string>
+	<string name="Add_New">НОВИЙ ЕЛЕМЕНТ</string>
+	<string name="Add_Note">ДОДАТИ ПРИМІТКУ</string>
+	<string name="add_target">ДОДАТИ ХАРЧУВАННЯ</string>
+	<string name="choose_time">встановити час</string>
+	<string name="daily_target">Харчування</string>
+	<string name="daily_target_hint">Мети щодня (опціонально)</string>
+	<string name="describe_goal">Ваша мета тут описувати</string>
+	<string name="drawer_close">Закрити</string>
+	<string name="drawer_open">Відкриті</string>
+	<string name="edit_meals">ОБЕРІТЬ СТРАВИ</string>
+	<string name="enter_meal_time">Введіть час для кожного прийому їжі</string>
+	<string name="enter_serving_weight">Спочатку введіть вага (г)</string>
+	<string name="enter_value">Введіть харчування</string>
+	<string name="get_started">Розпочати роботу!</string>
+	<string name="get_started_second_text">Натисніть \'+\' щоб додати запис до вашого журналу.</string>
+	<string name="Input_Notes">Введіть тут нотатки</string>
+	<string name="meal_options">Параметри харчування</string>
+	<string name="Period_First_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Second_Snack">Period_First_Snack NOTUSED</string>
+	<string name="Period_Third_Snack">Period_First_Snack NOTUSED</string>
+	<string name="personal_goal">Особиста мета</string>
+	<string name="Per_Cup">1 чашка (250 грам) NOTUSED</string>
+	<string name="Per_Grams">100 гр</string>
+	<string name="portion_caption">частина</string>
+	<string name="RadioButton_Alpha">в алфавітному порядку NOTYETUSED</string>
+	<string name="RadioButton_Sort">Сортувати за історію NOTYETUSED</string>
+	<string name="Serving">Порції</string>
+	<string name="Show_More_Options">ДОДАТКОВІ ПАРАМЕТРИ</string>
+	<string name="show_total_with_meal">Показати цільовий харчування</string>
+	<string name="target_date">Цільовий датою</string>
+	<string name="target_date_hint">Виберіть цільовий датою</string>
+	<string name="transition_name_circle">перехід: коло</string>
+	<string name="transition_name_name">перехід: Назва</string>
+	<string name="transition_name_phone">перехід: телефон</string>
+	<string name="Type_Name">Пошук</string>
+	<string name="Units_Kj">KJ</string>
+	<string name="Units_Metric">Метричні одиниці</string>
+	<string name="Units_US">Система США</string>
+	<string name="Upgrade">Оновлення</string>
+	<string name="weight_gram">вага (г)</string>
+	<string name="InvalidEmailError">Неприпустима адреса електронної пошти</string>
+	<string name="NoGoalsTitle">Всі записи</string>
+	<string name="SendReportTitle">Надіслати звіт</string>
+	<string name="DeleteEntryMessage">Видалити цей запис\?</string>
+	<string name="NewBody">Багато вдосконалень: нотатки, більше продуктів, краще дизайну та багато іншого.
+Завантажити безкоштовно\?</string>
+	<string name="NewTitle">Версія 2.0 тепер доступна!</string>
+</resources>

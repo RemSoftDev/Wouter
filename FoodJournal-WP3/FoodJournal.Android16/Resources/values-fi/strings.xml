@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationTitle">RUOKAPÄIVÄKIRJA</string>
+	<string name="CommonItems">Yleiset tuotteet</string>
+	<string name="Delete">Poista</string>
+	<string name="EmptyEntryList">Mitään ei ole valittuna</string>
+	<string name="MyRecentItems_Breakfast">Viimeksi käytetyt aamiaistuotteet</string>
+	<string name="MyRecentItems_Dinner">Viimeksi käytetyt päivällistuotteet</string>
+	<string name="MyRecentItems_Exercise">Viimeisimmät harjoitukset</string>
+	<string name="MyRecentItems_Lunch">Viimeksi käytetyt lounastuotteet</string>
+	<string name="MyRecentItems_Snack">Viimeksi käytetyt välipalatuoteet</string>
+	<string name="PageTitle">RUOKAPÄIVÄKIRJA</string>
+	<string name="PageTitleBase">RUOKAPÄIVÄKIRJAN- </string>
+	<string name="Period_Breakfast">Aamiainen</string>
+	<string name="Period_Dinner">Päivällinen</string>
+	<string name="Period_Exercise">Harjoittelu</string>
+	<string name="Period_Lunch">Lounas</string>
+	<string name="Period_Snack">Välipala</string>
+	<string name="Search">Etsi</string>
+	<string name="Today">Tänään</string>
+	<string name="StandardProperty_Amount">Määrä</string>
+	<string name="StandardProperty_Calcium">Kalsium</string>
+	<string name="StandardProperty_Calories">Kalorit</string>
+	<string name="StandardProperty_Carbs">Hiilihydraatit</string>
+	<string name="StandardProperty_Cholesterol">Kolesteroli</string>
+	<string name="StandardProperty_Fiber">Kuitu</string>
+	<string name="StandardProperty_Iron">Rauta</string>
+	<string name="StandardProperty_MonoFat">Kertatyydyttymätön rasvahappo</string>
+	<string name="StandardProperty_PolyFat">Monityydyttymätön rasvahappo</string>
+	<string name="StandardProperty_Potassium">Kalium</string>
+	<string name="StandardProperty_Protein">Proteiini</string>
+	<string name="StandardProperty_SatFat">Tyydyttynyt rasvahappo</string>
+	<string name="StandardProperty_Sodium">Natrium</string>
+	<string name="StandardProperty_Sugar">Sokeri</string>
+	<string name="StandardProperty_TotalFat">Rasvat yhteensä</string>
+	<string name="StandardProperty_VitaminC">C-vitamiini</string>
+	<string name="StandardProperty_VitaminD">D-vitamiini</string>
+	<string name="StandardProperty_Weight">Paino</string>
+	<string name="Preferences">Asetukset</string>
+	<string name="EmptySearchList">Kirjoita hakuehto</string>
+	<string name="NewItemSuffix">(uusi tuote)</string>
+	<string name="NewRecipeSuffix"> (uusi resepti)</string>
+	<string name="SearchResults">Hakutulokset</string>
+	<string name="SearchTermNotFound">{0} ei löydy, yritä muuttaa hakusana</string>
+	<string name="AcceptNew">Lisää</string>
+	<string name="Name">Nimi</string>
+	<string name="Nutrition">Ravitsemus</string>
+	<string name="PageTitleItemDetail">RUOKATIETOA</string>
+	<string name="EnterWeight">Syötä paino ensin</string>
+	<string name="ServingSizes">Annoksen koko</string>
+	<string name="CommaListSeparater">, </string>
+	<string name="HowMuch">Paljonko\?</string>
+	<string name="MoreOptions">lisää asetuksia</string>
+	<string name="NoNutritionInfo">Ei ravintoarvotietoja</string>
+	<string name="AddServingSize">Lisää annoskoko</string>
+	<string name="Add">Lisää</string>
+	<string name="SelectDate">Kalenteri</string>
+	<string name="Advertisement">Mainos</string>
+	<string name="Unit_Centiliter">Senttilitra</string>
+	<string name="Unit_Cup">Kupillinen</string>
+	<string name="Unit_Deciliter">Desilitra</string>
+	<string name="Unit_FluidOunce">Nesteunssi</string>
+	<string name="Unit_Gallon">Gallona</string>
+	<string name="Unit_Gram">Gramma</string>
+	<string name="Unit_Kilogram">Kilogramma</string>
+	<string name="Unit_Liter">Litra</string>
+	<string name="Unit_Milliliter">Millilitra</string>
+	<string name="Unit_Ounce">Unssi</string>
+	<string name="Unit_Pint">Pintti</string>
+	<string name="Unit_Pound">Naula</string>
+	<string name="Unit_Quart">Neljännesgallona</string>
+	<string name="Unit_Tablespoon">Ruokalusikka</string>
+	<string name="Unit_Teaspoon">Teelusikka</string>
+	<string name="Units_Centiliter">Senttilitraa</string>
+	<string name="Units_Cup">Kupillista</string>
+	<string name="Units_Deciliter">Desilitraa</string>
+	<string name="Units_FluidOunce">Nesteunssi</string>
+	<string name="Units_Gallon">Gallona</string>
+	<string name="Units_Gram">Grammaa</string>
+	<string name="Units_Kilogram">Kilogrammaa</string>
+	<string name="Units_Liter">Litraa</string>
+	<string name="Units_Milliliter">Millilitraa</string>
+	<string name="Units_Ounce">Unssia</string>
+	<string name="Units_Pint">Pinttiä</string>
+	<string name="Units_Pound">Naulaa</string>
+	<string name="Units_Quart">Neljäsosagallonaa</string>
+	<string name="Units_Tablespoon">Rkl</string>
+	<string name="Units_Teaspoon">Tl</string>
+	<string name="DatabaseCulture">FI</string>
+	<string name="FeedbackSubject">Sähköpostia ruokapäiväkirjalta</string>
+	<string name="Equivalent">summa</string>
+	<string name="EnterEquivalent">\?</string>
+	<string name="Loading">Ladataan...</string>
+	<string name="ExpiredCaption">Päivitä nyt</string>
+	<string name="ExpiredMessage">Kiitos tämän sovelluksen käyttämisestä! Tämän version käyttöaika on päättynyt. Älä kuitenkaan huoli, pääset uuden version lataussivulle painamalla OK.</string>
+	<string name="AgentDescription">Päivitä Live Tile ruokapäiväkirjalle</string>
+	<string name="AgentDisabled">Puhelimen Live Tile -toiminto on pois käytöstä.</string>
+	<string name="PageTitleSettings">Omat asetukset</string>
+	<string name="EnableLiveTile">Näytä puuttuvat ateriat sovelluksen Tile:ssä.</string>
+	<string name="Reminders">Muistutukset</string>
+	<string name="SettingsScreen">Asetukset</string>
+	<string name="PinToStart">Määrittele</string>
+	<string name="OpenReport">Raportti</string>
+	<string name="Report">Raportti</string>
+	<string name="CommonServingSizes">100 g|1 oz = 28 g|Tl = 4,5 g|Rkl = 12 g|1 palvelevat = 28 g|Kpl = 14 g|Slice = 12 g|1 cup = 237 g</string>
+	<string name="TakeAPicture">Ota kuva</string>
+	<string name="ReviewBody">Kiitos, että otit tämän sovelluksen käyttöön! Jos pidät sovellusta hyödyllisenä, jätä siitä arvostelu.</string>
+	<string name="ReviewTitle">Jätä arvostelu\?</string>
+	<string name="Goals">Tavoitteet</string>
+	<string name="NoGoalSet">Ei ole asetettu tavoite</string>
+	<string name="EndOfDay">Päivän lopussa</string>
+	<string name="ReminderContent">Mitä söit\?</string>
+	<string name="ReminderTitle">Muistutus: päivitä ruokapäiväkirjaasi!</string>
+	<string name="ReminderDescription">valitut muistutukset ilmestyvät, jos et ole päivittänyt päiväkirjaasi valitussa ajassa</string>
+	<string name="ScreenshotTitles">Appelsiinimehua, 1 kuppi, paahtoleipää, 1 viipale, muna, 1 keskikokoinen omena, kahvi, banaani</string>
+	<string name="GoalOver">{0} yli tavoitteen</string>
+	<string name="GoalUnder">{0} jäljellä</string>
+	<string name="OpenJournal">Päivyri</string>
+	<string name="RemoveAdsText">Poista mainokset valitsemalla OK (maksullinen).</string>
+	<string name="RemoveAdsTitle">Haluatko poistaa mainokset\?</string>
+	<string name="StoreException">Windows Phone-kauppaan ei saada nyt yhteyttä. Yritä myöhemmin uudelleen.</string>
+	<string name="Feedback_Email">Ilmoita ongelmasta</string>
+	<string name="Feedback_EmailText">Ehdota ominaisuutta tai kysy</string>
+	<string name="Feedback_Rate">Luokittele tämä sovellus</string>
+	<string name="Feedback_RateText">Anna erityistä palautetta sovelluksen kehittämiseen</string>
+	<string name="Feedback_Screenshot">Auta parantamaan käännöstä</string>
+	<string name="Feedback_ScreenshotText">Näytönkaappaus sisältyy</string>
+	<string name="Feedback_Share">Jaa linkki</string>
+	<string name="Feedback_ShareText">Ladataksesi tämän sovelluksen</string>
+	<string name="ScreenshotSubject">Ruokapäiväkirjan teksti</string>
+	<string name="ShareMessage">Tutustu ruoka päiväkirjaan Windows Phone:lle</string>
+	<string name="ShareTitle">Ruokapäiväkirja</string>
+	<string name="CommonItems_Breakfast">Yleiset aamiaistuotteet</string>
+	<string name="CommonItems_Dinner">Yleiset päivällistuotteet</string>
+	<string name="CommonItems_Lunch">Yleiset lounastuotteet</string>
+	<string name="CommonItems_Snack">Yleiset välipalatuotteet</string>
+	<string name="Meals">Ateriat</string>
+	<string name="Period_SnackMorning">Aamu</string>
+	<string name="Period_SnackEarlyAfternoon">Alkuiltapäivä</string>
+	<string name="Period_SnackAfternoon">Iltapäivä</string>
+	<string name="Meals_SnackMorningEnabled">Erillinen välipala aamulla</string>
+	<string name="Meals_SnackEarlyAfternoonEnabled">Erillinen alkuiltapäivän välipala</string>
+	<string name="Meals_SnackAfternoonEnabled">Erillinen iltapäivän välipala</string>
+	<string name="Period_SnackEvening">Ilta</string>
+	<string name="Meals_SnackMidnightEnabled">Erillinen yöpala</string>
+	<string name="Period_SnackMidnight">Yö</string>
+	<string name="Meals_SnacksCombined">Yhdistä välipalat</string>
+	<string name="Meals_SnackEveningEnabled">Erillinen iltapala</string>
+	<string name="MyRecentItems_SnackAfternoon">Viimeksi käytetyt alkuillan välipalatuotteet</string>
+	<string name="MyRecentItems_SnackEarlyAfternoon">Viimeksi käytetyt varhaisen alkuillan välipalatuotteet</string>
+	<string name="MyRecentItems_SnackEvening">Viimeksi käytetyt iltapalatuotteet</string>
+	<string name="MyRecentItems_SnackMidnight">Viimeksi käytetyt yöpalatuotteet</string>
+	<string name="MyRecentItems_SnackMorning">Viimeksi käytetyt aamun välipalatuotteet</string>
+	<string name="CommonItems_SnackAfternoon">Yleiset iltapäivän välipalatuotteet</string>
+	<string name="CommonItems_SnackEarlyAfternoon">Yleiset alkuiltapäivän välipalatuotteet</string>
+	<string name="CommonItems_SnackEvening">Yleiset iltapalatuotteet</string>
+	<string name="CommonItems_SnackMidnight">Yleiset yöpalatuotteet</string>
+	<string name="CommonItems_SnackMorning">Yleiset aamupäivän välipalatuotteet</string>
+	<string name="UnlockFullBody">Kiittää te ajaksi koettaminen ruoka päiväkirjaa. Sinulla on {0} trial päivää jäljellä. Avaa sovellus valitsemalla OK.</string>
+	<string name="UnlockFullTitle">Avaa nyt\?</string>
+	<string name="TrialExpiredBody">Kokeilujakso on nyt vanhentunut. Voit tarkastella päiväkirjaasi, mutta et voi lisätä uusia merkintöjä. Valitse OK, jotta aukaista ml; mellinen käännös.</string>
+	<string name="Feedback_RemoveAds">Poista mainokset</string>
+	<string name="Feedback_RemoveAdsText">Poistaa pysyvästi kaikki mainokset</string>
+	<string name="StoreText_5">Lataa nyt, koska rakastat, käyttää sitä.</string>
+	<string name="AppTitle">Ruokapäiväkirja</string>
+	<string name="StoreText_4">PREMIUM OMINAISUUDET:
+1. lisää mainos.
+2. paljon suurempi elintarvike-tietokanta.
+3. kyky lähettää itsellesi kopion meijeri.
+4. Lisää asetuksia, kuten kyky tulla jopa 8 eri ateriaa päivässä.</string>
+	<string name="StoreText_3">OMINAISUUDET:
+1. yksinkertainen ja tehokas suunnittelu: app avautuu suoraan kirjoitusnäyttö Viimeisin ateria, koska se on Viimeisin käytät. Suunnittelu tekee lisäämällä merkinnät kuin yksinkertainen ja intuitiivinen kuin mahdollista.
+2. Napauta tapahtuma yksilöllisiä ehdotuksia: yleisimmät elintarvikkeita välittömästi voidaan valita. Toisena päivänä lähtien Äskeiset kohteet ehdotetaan, koska voit syödä samaa ruokaa usein.
+3. Kirjautuminen ei tarvita: ei henkilötietoja tai yhteystietoja tarvitaan.
+4. tuhansia kohteita tietokannassa jo: useimmat elintarvikkeita on tarkkoja tietoja yhteisen palvelevat kokoa, kaloreita, hiilihydraatteja, proteiinia ja rasvaa. 
+5. täysin off-line tuki: ei tarvitse olla yhteydessä Internetiin. 
+6. tarkka entry on myös helppoa: voit tarkasti syöttää tarkkaa määrää, kun liukusäädintä käytetään.
+7. Päivittäiset raportit:-valikon avulla voit avata suoraan päiväkirja, jossa on yhteenveto päivän. Täällä voit vaihtaa kaloreita, proteiinia ja hiilihydraatteja painamalla kolmiota.
+8. seurata tavoitteesi: kun omat tavoitteet, voit käyttää viikolla raporttia nähdäksesi trendeistä. 
+9. henkilökohtainen muistutukset auttavat sinua pysymään tavoite: ne ovat kätevä tapa varmistaa, että täytät kalenteriin jokaisen aterian äärellä päivän päätteeksi.
+
+Se on hyvä tarkistaa tietokannan tiedot ovat samat kuin tiedot elintarvikkeiden pakkauksissa; Ruoka ravinto vaihtelee tuotemerkkejä ja ajan mittaan.
+
+Varmista, että tavoitteesi keskustella lääkärin tai ravitsemuksen asiantuntija.</string>
+	<string name="StoreText_2">APP:
+Pitää kirjaa siitä, mitä syöt on osoitettu auttaa estää ja lopettaa liiallinen syöminen.
+Tämä sovellus auttaa sinua hallitsemaan ruokavalio ja syödä terveellisempiä, avulla on helppo seurata, mitä syöt. Suunnittelu on optimoitu tehdä tapahtuman niin nopeasti kuin mahdollista, 1 Valitse merkintä, ja hotelliin ruoka ehdotuksia. Sisäänrakennettu tietokanta on jo tuhansia elintarvikkeita ja jos sinun ei tunneta, lisäämällä ne on helppoa.
+
+Huomaa: Tämä sovellus on ilmainen ja tukee mainoksia. Voit käyttää sitä ilmaiseksi niin kauan kuin haluat. On mahdollista poistaa lisämaksusta, minkä ansiosta myös lisäominaisuuksia mainos.</string>
+	<string name="StoreText_1">Ruokapäiväkirjan: Ruokavalio ja kalori seuranta app.</string>
+	<string name="StoreKeyword_5">Ravitsemus</string>
+	<string name="StoreKeyword_4">Kalorit</string>
+	<string name="StoreKeyword_3">Ruokavalio</string>
+	<string name="StoreKeyword_2">Ruokapäiväkirja</string>
+	<string name="StoreKeyword_1">Kalorilaskuri</string>
+	<string name="Screenshot_H3">Banaani</string>
+	<string name="Screenshot_H2">Kahvi</string>
+	<string name="Screenshot_H1">Omena</string>
+	<string name="Screenshot_3a">Muna</string>
+	<string name="Screenshot_2b">1 viipale</string>
+	<string name="Screenshot_2a">paahtoleipä</string>
+	<string name="Screenshot_1b">1 kupillinen</string>
+	<string name="Screenshot_1a">Appelsiinimehu</string>
+	<string name="Product_2">Kiitos tuestanne! Tämän vaihtoehdon avulla voit pysyvästi poistaa mainoksia ruokapäiväkirjan app.</string>
+	<string name="Product_1">Poistaa mainokset</string>
+	<string name="CantCalculateNutrition">Syötä paino</string>
+	<string name="TrialExpiredTitle">Koekäyttöaika on päättynyt. Haluatko avata\?</string>
+	<string name="Screenshot_3b">1 keskikokoinen</string>
+	<string name="SendFeedback">Tietoja</string>
+	<string name="Feedback_Header">Nopein ja helpoin tapa voit seurata mitä syöt.
+
+Selaa alaspäin lisätietoja tietojen oikeellisuus.</string>
+	<string name="Feedback_Unlock">Päivitä nyt</string>
+	<string name="Feedback_UnlockText">Osta premium-versio</string>
+	<string name="EmailReport_SubjectTemplate">Ruokapäiväkirjoja {0}</string>
+	<string name="EmailReport_Exception">Tapahtui odottamaton virhe, tietoja ei lähetetty.</string>
+	<string name="EmailReport_InvalidEmailAddress">Kirjoita kelvollinen sähköpostiosoite.</string>
+	<string name="Total">Yhteensä</string>
+	<string name="Price">vain {0}</string>
+	<string name="Feature6_Text">Tue sovelluksen kehittämistä</string>
+	<string name="Feedback_Footer">DISCLAIMER:
+Useimmissa mutta ei kaikissa arvopisteiden tietokannasta peräisin luotettavista lähteistä. Pyrimme Varmista, että kaikki arvot ovat tarkkoja, mutta ei voi pitää vastuussa virheellisistä tai puuttuvista tiedoista. Ravintoarvot vaihtelevat merkeittäin ja ajan mittaan. Tämä app käyttämällä hyväksyt tarkistaa ja korjata tietoja app ja yksin vastuussa vamman tai sen käytön vuoksi.
+
+Kerrothan, jos jotain voi auttaa sinua.</string>
+	<string name="Feature6_Desc">Auttaa pitämään sovelluksen ajan tasalla</string>
+	<string name="GetAllFeatures">Hanki KAIKKI toiminnot</string>
+	<string name="Feature_Header">Sisältää:</string>
+	<string name="Feature_Footer">* HUOM: Useimmat tiedot, mutta ei välttämättä kaikki, tiedot ovat peräisin luotettavista lähteistä. Ostamalla premium-version, hyväksyt täyden vastuun tietojen tarkkuudesta ja täydellisyydestä. Sähköpostiosoitteesta daily.journal@outlook.com voit kysyä halutessasi lisätietoja.</string>
+	<string name="Feature5_Text">Uusia ominaisuuksia</string>
+	<string name="Feature5_Desc">Kaikki premium-version tulevat päivitykset</string>
+	<string name="Feature4_Text">Enemmän aterioita</string>
+	<string name="Feature4_Desc">Seuranta, 6 vähintään 5 ateriaa päivässä</string>
+	<string name="Feature3_Text">Enemmän elintarvikkeita *</string>
+	<string name="Feature3_Desc">Satoja tuhansia elintarvikkeita lisää (sijainnista riippuen)</string>
+	<string name="Feature2_Text">Sähköpostiraportit</string>
+	<string name="Feature2_Desc">Voit lähettää päiväkirjan sähköpostiisi, tallentaa, tulostaa ja analysoida sen.</string>
+	<string name="Feature1_Text">Ei mainoksia</string>
+	<string name="Feature1_Desc">Kaikki mainokset poistetaan pysyvästi</string>
+	<string name="BuyNow">Osta nyt</string>
+	<string name="EmailReport_ShowSettings">Lähetä sähköpostitse</string>
+	<string name="EmailReport_SendNow">Lähetä</string>
+	<string name="EmailReport_Address">Sähköpostiosoite</string>
+	<string name="Product_4">Saada kaikki ominaisuudet</string>
+	<string name="Product_3">Korottaa jotta agio</string>
+	<string name="EmailReport_Footer2">HUOM: Ravintoarvot on pyritty hankkimaan luotettavista lähteistä ja olemme tehneet parhaamme, jotta ne olisivat mahdollisimman tarkkoja. Emme kuitenkaan ota vastuuta mahdollisista virheellisistä tai puutteellisista tiedoista. Käyttäessäsi tätä sovellusta, tulee sinun itse varmistaa tietojen oikeellisuus. Kaikkien ravintoarvojen päivittäminen on käyttäjälle mahdollista.</string>
+	<string name="EmailReport_Footer1">Lehdessä AAA
+Kysymyksiä tai kommentteja\? Vastauksen BBB</string>
+	<string name="Localization_Submit">Lähetä</string>
+	<string name="Localization_TranslationsText">Päivitä tämä luettelo tekstit parempia käännöksiä. Poista kaikki teksti nimikkeille, jotka eivät sovellu alueesi.</string>
+	<string name="Localization_ThankYou">Kiitos avusta!</string>
+	<string name="Localization_Translations">Käännökset</string>
+	<string name="Localization_Text">Täällä voit auttaa parantamaan sovellusta.</string>
+	<string name="Localization_Original">Alkuperäinen:</string>
+	<string name="Localization_Good">Hyvä</string>
+	<string name="Localization_Description">Kuvaus:</string>
+	<string name="Feedback_LocalizeText">Ehdota parannusta sovellukseen</string>
+	<string name="Localization_CommentText">Kirjoita sähköpostiosoitteesi, jos haluat, että otamme sinuun yhteyttä.</string>
+	<string name="Localization_Comment">Kommentti</string>
+	<string name="Feedback_Localize">Paranna käännöstä</string>
+	<string name="AddToLauncher">Lisää kantorakettien</string>
+	<string name="Avg">KA</string>
+	<string name="Cancel">Peruuta</string>
+	<string name="CopyFromSimilarItem">Kopioi toisesta merkinnästä</string>
+	<string name="DeleteEntry">Poista merkintä</string>
+	<string name="EnterTheWeightForThisAmount">Syötä paino tälle määrälle</string>
+	<string name="MoreOptions2">Lisää vaihtoehtoja</string>
+	<string name="None">Ei yhtään</string>
+	<string name="Ok">Ok</string>
+	<string name="OneDaySalePctOff">1 päivän myynti: {0} % alennus</string>
+	<string name="Total2">Yhteensä</string>
+	<string name="EmailReport_Footer1a">Päiväkirja toteutus: AAA</string>
+	<string name="EmailReport_Footer1b">Kysymyksiä tai kommentteja\? Lähetä viesti: BBB</string>
+	<string name="Add_New">UUSI</string>
+	<string name="Add_Note">LISÄÄ MUISTIINPANO</string>
+	<string name="add_target">LISÄÄ RAVINTOAINE</string>
+	<string name="choose_time">aseta aika</string>
+	<string name="daily_target">Ravintoaine</string>
+	<string name="daily_target_hint">Päivittäinen määrä</string>
+	<string name="describe_goal">Kuvaile tavoitteesi</string>
+	<string name="drawer_close">Sulje</string>
+	<string name="drawer_open">Avaa</string>
+	<string name="edit_meals">VALITSE ATERIAT</string>
+	<string name="enter_meal_time">Syötä aterioiden ajat</string>
+	<string name="enter_serving_weight">Syötä ensin paino (g)</string>
+	<string name="enter_value">Syötä ravintoaine</string>
+	<string name="get_started">Aloita!</string>
+	<string name="get_started_second_text">Lisää päiväkirjamerkintä napauttamalla + -merkkiä</string>
+	<string name="Input_Notes">Kirjoita muistiinpanot tähän</string>
+	<string name="meal_options">Ateriavaihtoehdot</string>
+	<string name="Period_First_Snack">Period_First_Snack ei käytössä</string>
+	<string name="Period_Fourth_Snack">Period_First_Snack ei käytössä</string>
+	<string name="Period_Second_Snack">Period_First_Snack ei käytössä</string>
+	<string name="Period_Third_Snack">Period_First_Snack ei käytössä</string>
+	<string name="personal_goal">Henkilökohtainen tavoite</string>
+	<string name="Per_Cup">1 kuppi (250 grammaa) ei käytössä</string>
+	<string name="Per_Grams">100 grammaa</string>
+	<string name="portion_caption">annos</string>
+	<string name="RadioButton_Alpha">aakkosjärjestyksessä NOTYETUSED</string>
+	<string name="RadioButton_Sort">Lajittele historia NOTYETUSED</string>
+	<string name="Serving">Annos</string>
+	<string name="Show_More_Options">LISÄÄ ASETUKSIA</string>
+	<string name="show_total_with_meal">Näytä ravintoainetavoite</string>
+	<string name="target_date">Tavoitepäivämäärä</string>
+	<string name="target_date_hint">Valitse tavoitepäivämäärä</string>
+	<string name="transition_name_circle">siirtyminen: ympyrä</string>
+	<string name="transition_name_name">siirtyminen: nimi</string>
+	<string name="transition_name_phone">siirtyminen: Puhelin</string>
+	<string name="Type_Name">Hae</string>
+	<string name="Units_Kj">Kj</string>
+	<string name="Units_Metric">Metrijärjestelmä</string>
+	<string name="Units_US">Imperiaalinen järjestelmä</string>
+	<string name="Upgrade">Päivitä</string>
+	<string name="weight_gram">paino (g)</string>
+	<string name="InvalidEmailError">Virheellinen sähköpostiosoite</string>
+	<string name="NoGoalsTitle">Kaikki merkinnät</string>
+	<string name="SendReportTitle">Lähetä raportti</string>
+	<string name="DeleteEntryMessage">Poista tämä merkintä\?</string>
+	<string name="NewBody">Monia parannuksia sisältyy: muistiinpanoja, enemmän elintarvikkeita ja paremman suunnittelun.
+Ladata ilmaiseksi\?</string>
+	<string name="NewTitle">Versio 2.0 on nyt saatavilla!</string>
+</resources>
